@@ -1,6 +1,6 @@
 # Phase 4 — Reviews + CS (brief — lock before build)
 
-**Status:** Drafted 2026-09-24 for CEO Jake lock. **Not implemented** until GO.
+**Status:** **LOCKED** 2026-09-24 by CEO Jake (recommended defaults). **Not implemented** until GO.
 
 **North star:** finished playthroughs leave a public signal (stars + short review) and a clear path to human CS — trust before algorithm push (Phase 5) and paid ad-less (Phase 6).
 
@@ -54,11 +54,11 @@ No photos, no cross-story dumps, no required account to leave a guest review (gu
 - Full forum, replies-to-reviews, or spoiler moderation AI
 - Changing Warm/Hot prose or ad placement rules
 
-## Decisions to confirm at lock
+## Locked decisions (CEO Jake 2026-09-24)
 
-1. **Guest reviews:** local-only (recommended) vs require sign-in to review.
-2. **Cloud moderation:** auto-approve + CS hide (recommended) vs pending queue.
-3. **CS inbox:** `theromanceforge@gmail.com` (current brand) — confirm.
+1. **Guest reviews:** local-only (not shown on other devices).
+2. **Cloud moderation:** auto-approve signed-in reviews + CS hide/takedown flag.
+3. **CS inbox:** `theromanceforge@gmail.com`.
 
 ## Ship bar
 
