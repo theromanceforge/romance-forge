@@ -20,7 +20,7 @@ Will walked [player_name] home through warehouse weather. Rain ticked glass. "Si
 
 Will's cracked knuckles brushed hers. "I'm here. Solis file still sealed—I'm not pretending I'm fully daylight. But I can stand in your daylight while I learn mine. Love under public weather. That's the deal if you want it."
 
-She did. They went upstairs. The reckoning did not end when the microphones died; it continued in the quieter work of memorial paperwork, of refusing interviews that wanted smut instead of sisterhood, of naming Renny in rooms that preferred euphemism. Will cooked badly and listened well. [player_name] slept without the old lie sitting on her chest like a second ribcage. Once, a week later, she spoke at a community board meeting about missing teens and harbor oversight; Will sat in the back row and did not speak unless asked. Leadership looked like that too—his silence as support, her voice as the point.
+She did. They went upstairs. The reckoning did not end when the microphones died. Will cooked badly and listened well. [player_name] slept without the old lie sitting on her chest like a second ribcage. Once, a week later, she spoke at a community board meeting about missing teens and harbor oversight; Will sat in the back row and did not speak unless asked. Leadership looked like that too—his silence as support, her voice as the point.
 
 Harborwick would not become kind. Kindness was not the point. Leadership was—her voice, Renny's name, a detective who knew when to step back so the sister could step forward. The ending was public, unfinished in the way justice always is, and held between them without requiring [player_name] to surrender the story to anyone else's badge.
 
@@ -29,7 +29,7 @@ In the third week a local advocacy group asked [player_name] to help draft langu
 
 By the time the apartment door shut, her mid-twenties body was done being professional. Will barely got his coat off before she shoved him against the wall and kissed him hard, thigh slotting between his, cunt already slick from hours of speaking truth with his eyes on her mouth. "You stood back," she panted. "You let me lead. That shouldn't turn me on this much and it does—fuck, Will, I'm soaked from my own reckoning."
 
-His laugh was velvet-blade and wrecked. "Sister's reckoning got you wet. Catalogued." He spun her, hiked her skirt, dragged underwear aside, and pushed two fingers into her from behind while she braced on the door. Slick sounds filled the entry. "Say her name if you need to. Say mine when you come. Both belong in this room—neither gets turned into gore."
+His laugh was velvet-blade and wrecked. "Sister's reckoning got you wet. Catalogued." He spun her, hiked her skirt, dragged underwear aside, and pushed two fingers into her from behind while she braced on the door. Slick sounds filled the entry. "Say her name if you need to. Say mine when you come. Both belong in this room."
 
 She came on his fingers fast—clenching, moaning into the wood, Renny held in her chest like a bright pain that pleasure did not erase and did not defile. Will freed his cock and sank into her in one thick thrust, fucking her through the aftershocks until she was babbling yes and harder and don't you dare make this about comforting me—I want to be taken like a woman who just told the truth.
 
@@ -43,10 +43,8 @@ Night cooled their skin. In the bathroom mirror she saw microphone-courage still
 
 A night after the community board talk, still ringing with other people's gratitude and her own residual fury, she stripped Will in the hallway and stroked his cock until he was leaking on her fist. "You don't get the microphone," she said, filthy-soft. "You get this." She sank to her knees and took him deep, eyes up, mid-twenties mouth working mid-thirties detective until his cracked knuckles white-knuckled the wall and he came with a broken Akers-quiet that still somehow said her name. She swallowed, rose, and he repaid her on the kitchen table—legs over his shoulders, tongue and then cock, fucking her through two orgasms while Renny's folded hoodie watched from the chair like a soft witness who would have laughed and told her to stop being weird about furniture.
 
-Afterward [player_name] said, "I lead the story. You lead me to bed when the story is heavy." Will kissed the bracelet gap. "Deal. Public for her. Private for us. No gore in either." Heat and reckoning shared the apartment without apology, and Harborwick—still unkind—could not take that geometry away.
+Afterward [player_name] said, "I lead the story. You lead me to bed when the story is heavy." Will kissed the bracelet gap. "Deal. Public for her. Private for us." Heat and reckoning shared the apartment without apology, and Harborwick—still unkind—could not take that geometry away.
 
-Sunday morning she woke him with her mouth again, lazy and proprietary, and when he pulled her up to sink into her from below she whispered into his scar, "Sister's reckoning. Lover's hours. Both true." Will thrust up slow and deep until she came quiet around him, then followed, holding her through it like the public story and the private body were finally allowed to share a calendar without one erasing the other.
-
-That was the Hot ending under Sister's reckoning: leadership in daylight, William Akers in her bed by choice, Renny named without the old lie, and [player_name]'s body no longer apologizing for wanting after telling the truth.`,
+Sunday morning she woke him with her mouth again, lazy and proprietary, and when he pulled her up to sink into her from below she whispered into his scar, "Sister's reckoning. Lover's hours. Both true." Will thrust up slow and deep until she came quiet around him, then followed, holding her through it like the public story and the private body were finally allowed to share a calendar without one erasing the other.`,
   choices: []
 };

@@ -28,7 +28,7 @@ They drove the pier road in rain that turned Harborwick's warehouse district int
 
 They parked two blocks short of the east cold-storage row, engine ticking, glass fogging with their breath. Through rain, [player_name] could see the silhouette of long buildings, loading docks, a chain-link gate with a rusted padlock that looked decorative more than serious. Somewhere a fog horn spoke. Somewhere upriver, partial remains waited for Cho's patience. The silver charm in evidence stayed *like* Renny's missing piece—probability dressed as a knife.
 
-Will killed the headlights. "A sealed raid taught me what happens when you push an entry early to protect a CI and a kid catches chaos in a hallway," he said, voice flat, eyes on the warehouses. "Hints only. Sealed file. Charm for a face afterward. I will not push this door early for your guilt or my hunger for a break. If we raid-plan, we plan. If you go alone, you text me a pin and you do not play hero for a sister who might still be alive enough to hate you for dying stupid." His jaw worked. "I dream raid noise when soft fails. Do not make me dream you."
+Will killed the headlights. "A sealed raid taught me what happens when you push an entry early to protect a CI and a kid catches chaos in a hallway," he said, voice flat, eyes on the warehouses. "Sealed file. Charm for a face afterward. I will not push this door early for your guilt or my hunger for a break. If we raid-plan, we plan. If you go alone, you text me a pin and you do not play hero for a sister who might still be alive enough to hate you for dying stupid." His jaw worked. "I dream raid noise when soft fails. Do not make me dream you."
 
 The admission landed like a hand on the back of her neck—sealed past as wound, not confession; hallway as rhyme with Renny's vanished night; William Akers refusing clean-cut mythology while offering her a choice that could get her killed or get her truth. [player_name] thought of Renny's hoodie still folded in a drawer. Thought of Owen near the pier that festival night with someone who was not supposed to be there. Thought of the lie she had accepted about friends and running and drugs she never wanted on a record.
 
@@ -63,7 +63,7 @@ In the car he drove them into warehouse fog with one hand and put the other on [
 
 She gasped when his thumb pressed the damp seam of her jeans. Heat bloomed. Rain freckled the windshield. "Will—"
 
-"Alone is not soft," he murmured. "Alone is you choosing to meet what Renny pointed at without my mouth or my gun as comfort. Raid-plan is you choosing to let me run the entry like a man who learned from Nina Solis what early pushes cost—kid in a hallway, chaos, sealed file, charm for a face. Hints only. You do not get the whole raid story with my hand between your legs. You get the map and the choice and the way my cock gets honest when a lead opens because you steered me here."
+"Alone is not soft," he murmured. "Alone is you choosing to meet what Renny pointed at without my mouth or my gun as comfort. Raid-plan is you choosing to let me run the entry like a man who learned from Nina Solis what early pushes cost—kid in a hallway, chaos, sealed file, charm for a face. You do not get the whole raid story with my hand between your legs. You get the map and the choice and the way my cock gets honest when a lead opens because you steered me here."
 
 He parked two blocks short of the east cold-storage row, killed the lights, and pulled her across the console into a kiss that tasted like pier salt and unfinished fucking. His tongue claimed; his hand shoved into her jeans under cotton, two fingers sliding through slick heat while fog horns groaned over warehouse silhouettes. [player_name] clenched around him, moaning into his mouth, Renny's pointed finger and Owen's unnamed pier night and unidentified remains braided into the same unbearable want. Will swallowed her sound like evidence.
 
@@ -85,7 +85,7 @@ She stroked him through the fabric, felt him kick against her palm, felt her own
 
 "That is cruel," she panted.
 
-"That is Layer 5," he said, and licked the rain from her lower lip. "Renny pointed at a building that might still hold the chain—smuggling, tampered evidence, mid-level smiles, desperate stepfathers. Cho will not rush an ID to soothe your hope. The charm stays *like*. The bones stay unnamed. What we have is a red door and your wet and my raid-noise dreams. Choose which hunger moves us."
+"Renny pointed at a building that might still hold the chain—smuggling, tampered evidence, mid-level smiles, desperate stepfathers. Cho will not rush an ID to soothe your hope. The charm stays *like*. The bones stay unnamed. What we have is a red door and your wet and my raid-noise dreams. Choose which hunger moves us."
 
 [player_name] looked past him at the cold-storage row, scraped numbers waiting in rain, and clenched around his fingers as if she could hold the unfinished finish and the case in the same fist. "If I go alone and something is wrong—"
 
@@ -95,7 +95,7 @@ She kissed the scar nick at his eyebrow, soft contrary to the filthy way his fin
 
 "Then I call night desk. I sell east cold-storage without selling Owen. I keep Ellison's politics one hour away from your throat. And after the package is drafted I put you on my desk or in this car and I eat you like a man who just got a map and a woman who trusts him enough to share the kick." His thumb circled once, wicked. "Both options leave you shaking. Only one puts my badge between you and the dark. Pick, [player_name]. The warehouse is listening. So is my cock. So is every quiet thing you have been feeding with silence."
 
-The fog horn blew. She held his wrist inside her jeans and felt the choice like a second climax waiting. Remains unnamed. Charm probable. Owen off the page. William Akers—brutal, hard, the sealed past-haunted—waiting for her to name the verb before dawn. She left the edge unfinished on purpose, because unfinished was how they survived Harborwick, and the red door waited with its scraped number like a mouth that had been hungry for seven years.
+The fog horn blew. She held his wrist inside her jeans and felt the choice like a second climax waiting. Remains unnamed. Charm probable. Owen off the page. William Akers—brutal, hard, the sealed past-haunted. She left the edge unfinished, because unfinished was how they survived Harborwick, and the red door waited with its scraped number like a mouth that had been hungry for seven years.
 
 He drew his fingers out slowly, glistening, and painted her lower lip once before kissing the taste back into her mouth—filthy communion in a fogged car two blocks from Renny's pointed east. [player_name] whimpered. Will fastened her jeans with mock courtesy that made her want to bite him, then rested his forehead on hers while both of them breathed like runners.
 

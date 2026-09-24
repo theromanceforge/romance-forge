@@ -16,7 +16,7 @@ Will lowered the camera. Mid-thirties, rain-dark hair, scar nick at the eyebrow,
 
 The word *tipped* landed in the car like a third body.
 
-[player_name]'s mouth went dry. In this branch she had asked for soft in a precinct hallway that smelled like burnt coffee and wet wool; she had promised not to call; she had not used a stairwell for sin. And still Owen had burned. Soft could break without her. Soft could also break *because* of her in Will's religion of leaks. He was allergic to singing off the record. He was watching her pulse the way he watched interview-room clocks.
+[player_name]'s mouth went dry. And still Owen had burned. Soft could break without her. Soft could also break *because* of her in Will's religion of leaks. He was allergic to singing off the record. He was watching her pulse the way he watched interview-room clocks.
 
 "I did not call him," she said.
 
@@ -38,7 +38,7 @@ Rain hammered the bridge overhead. Somewhere a truck hissed brakes. Will did not
 
 "Ellison will ask how soft failed," he said. "I can tell her Owen spooked. I can tell her the unit got made. I cannot tell her I sat in a car with the sister who named him and failed to ask whether her loyalty made a phone call while I was busy being patient." His thumb stroked once along her jaw—apology and interrogation braided. "I am asking now. Soft broke in an alley. Do not let it break again in your throat. Confess the tip to me if there is anything to confess—even a half-warning, even a tremor you sent through someone else—or deny the leak and dig deeper with me while ash cools and Cho's bones stay unnamed. I will not pretend I do not want you either way. I will not pretend wanting you makes obstruction cute."
 
-[player_name] tasted copper and rain and the almost of his mouth an inch from hers. Hope and dread shared the bridge dark. Owen's burned phone shared the night with an unfinished kiss Will was withholding on purpose—hook as craft, denial as pressure. The kept secret pressed her ribs: pier night, Owen, the stranger, seven years of protection that had become a different kind of violence.
+[player_name] tasted copper and rain and the almost of his mouth an inch from hers. Hope and dread shared the bridge dark. Owen's burned phone shared the night with an unfinished kiss Will was withholding on purpose. The kept secret pressed her ribs: pier night, Owen, the stranger, seven years of protection that had become a different kind of violence.
 
 "If I confess something I did not do," she whispered, "I give you a clean villain and a dirty conscience."
 
@@ -46,7 +46,7 @@ Rain hammered the bridge overhead. Somewhere a truck hissed brakes. Will did not
 
 He released her chin. Sat back. Camera on the dash like a small black judgment. Notebook open to the struck-through *patience*. Outside, fog erased the river line. Inside, [player_name] held two futures on her tongue—confession as surrender, denial as deeper dig—while William Akers watched her with brutal charm scraped to nerve and a raid-shaped silence waiting behind his teeth for later layers to pry open.
 
-The hook hung unfinished: ash cooling in a bin, Renny still unconfirmed, Will's mouth still not given, the choice already hurting to leave. Across the black water, warehouse glass held rain like a second interrogation. Will reached for the camera, checked the frames of the burn once more, and the glow of the screen painted both their faces in evidence-blue. "Forensics can love ash," he said. "I need to know if they should love your name beside it. Morning is coming whether we are ready. Cho's lab does not care that soft died ugly. Ellison cares only that someone failed on purpose. Pick the verb before I start the car and take us somewhere that is not a bridge and not yet a precinct—somewhere I can still pretend this is partnership and not the beginning of a different kind of warrant."`,
+Across the black water, warehouse glass held rain like a second interrogation. Will reached for the camera, checked the frames of the burn once more, and the glow of the screen painted both their faces in evidence-blue. "Forensics can love ash," he said. "I need to know if they should love your name beside it. Morning is coming whether we are ready. Cho's lab does not care that soft died ugly. Ellison cares only that someone failed on purpose. Pick the verb before I start the car and take us somewhere that is not a bridge and not yet a precinct—somewhere I can still pretend this is partnership and not the beginning of a different kind of warrant."`,
   textHot: `The soft net tore with plastic and a lighter, and [player_name] was already wet when Owen Vale fed his phone to fire—stakeout heat leftover from Will's hand on her knee, from the hallway where soft was promised, from the particular ache of watching evidence die while a detective's cock made a thick argument against patience in the driver's seat.
 
 Two blocks. Drizzle. Porch light lying. Will's camera clicking. Heater ticking. Foghorn. Harborwick doing what Harborwick did: remember everything except the official story.

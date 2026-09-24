@@ -28,11 +28,9 @@ Foghorn low across the channel. Chain-link somewhere rattling. Warehouse silhoue
 
 Will's laugh was private, low, the sound of a man who had learned ashes the expensive way. "Someone taught me that. A raid. A hallway. A teenager who should not have been there." His voice scraped—then smoothed, charm armor sliding back over the wound. "Nina Solis took the official weather for that storm. I kept a badge and a sealed file I still will not open in front of anyone who asks nicely. Soft is not mercy for me. Soft is the costume I wear so I do not make the same ashes twice. You asked me to spend that costume on Owen Vale. I am spending it. Do not tip him. Do not call home with concern dressed as weather. Do not look at that porch like a guilty daughter making rounds."
 
-"I will not tip him," she said, and meant it in this branch—the hallway promise still warm, the stairwell unused for sin.
-
 Will finally glanced at her. The late smile arrived, sharp enough to cut wanting into something useful. "Good. Because if soft breaks—if he burns a phone, if he runs, if he reaches for a pier key—I will know either my unit got spotted or someone sang. I am allergic to singing that is not on the record. Lies make me generous in the wrong direction. Generosity gets people hurt." His hand found the gear shift, then her knee above it—warm, claiming, not gentle, a detective's punctuation. "You sit with me. You watch. You keep your mouth off any line that reaches him. And if your body starts asking for something that is not surveillance, you tell me with words, not with a pulse I have to decode like a leak."
 
-Heat climbed her throat. Grief and want shared her ribs the way hope and dread shared Cho's table. She did not move his hand. She did not invite it higher. The craft of the night was patience; the craft of William Akers was making patience feel like foreplay with a badge.
+Heat climbed her throat. Grief and want shared her ribs the way hope and dread shared Cho's table. She did not move his hand. She did not invite it higher.
 
 At 01:17 the curtain twitched again. Longer. A silhouette—Owen, or a shadow shaped like guilt—crossed behind the glass. Will went still the way he had gone still in the hallway when she named the man. Notebook. Eyes. The thermos forgotten.
 
@@ -52,7 +50,7 @@ Will's hand left her knee. Engine stayed off. He was calculating—hard take now
 
 "Choose fast," he said without looking at her, voice stripped to metal. "We can sit and watch him finish—document the burn, take him later when ashes are all that is left and Ellison gets her narrative anyway—or we move now and stop him before the evidence dies in that bin. Soft promised patience. Soft did not promise I would let him torch the case while you sit pretty in my passenger seat smelling like rain and almost."
 
-The porch light burned. The alley flared orange for a heartbeat. William Akers waited on her verb with a wound behind his eyes that answered to older raids and a name he would not unpack tonight—the sealed past, hallway, ashes—and [player_name] felt the soft net tighten into a choice that would hurt either way: watch the burn and keep the hunt's manners, or break soft herself to save what Owen was feeding to fire while Harborwick fog erased the distance between loyalty and loss.`,
+The porch light burned. The alley flared orange for a heartbeat.`,
   textHot: `Harborwick after midnight wore rain like a second skin, and [player_name] sat wet-thighed in William Akers's unmarked car with soft-net patience and a cunt that had been humming since the precinct hallway where he agreed to hunt Owen with manners and fuck the rest of her composure without touching the center of the kiss.
 
 Two blocks from Owen Vale's brick row house. Heater ticking. Windshield freckled. Porch light performing innocence. Renny's hoodie folded across town; bracelet missing a charm; upriver remains still unidentified, charm *maybe* hers, hope and dread sharing Cho's table the way want and grief shared [player_name]'s body—never tidy, never polite.
@@ -93,8 +91,6 @@ He withdrew slowly, glistening, painted her lower lip with her own slick the way
 
 "Choose fast," he said, stripped raw. "Watch him finish—document the burn, take him later when ashes are Ellison's favorite story—or we move now and stop him before the evidence dies. Soft promised patience. Soft did not promise I would let him torch the case while my fingers taste like your cunt and my badge tastes like failure. Watch the burn with me and stay wet for the long hunt—or break soft yourself, stop him, and feel what happens when restraint ends with both of us running toward fire."
 
-
-
 He did not clean his hand. He let her see the shine in the dash light—evidence of a different kind—while Owen's alley flared and plastic screamed quietly into chemical death. [player_name] tasted herself on her lip and tasted copper under it, grief refusing to leave the body just because lust had taken the wheel.
 
 "Look at me," Will ordered softly, and when she did he pushed two glistening fingers into her mouth, slow, teaching her the flavor of stakeout sin. "This is what soft costs when you sit in my car and ask me to be patient with a man who burns phones at one in the morning. You get my restraint for him. You get my hands for you. You do not get clean."
@@ -117,7 +113,7 @@ She touched—one circling stroke over her clit, eyes on the alley flare—and W
 
 Owen's silhouette jerked back from the bin—done or nearly done. Will's late smile returned, all teeth, no comfort, charm as scar tissue over a raid-wound he would not unpack while Harborwick rain silvered the glass.
 
-Porch light. Alley flare. Will waiting on her verb with sealed-ash behind his smile and her flavor on his thumb, Harborwick fog erasing the curb while Renny's name stayed a question mark on Cho's table and want stayed a live wire in the passenger seat.`,
+Porch light. Alley flare.`,
   choices: [
     { id: "scene6i", text: "Watch Owen burn the phone", textHot: "Watch Owen burn the phone" },
     { id: "scene6j", text: "Stop him before the evidence dies", textHot: "Stop him before the evidence dies" }

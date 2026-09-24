@@ -62,7 +62,7 @@ They sat with the engine ticking heat into fogged glass. Will flipped the notebo
 
 "If we go warehouse," she said, "we might walk into the place Renny died knowing—or the place that proves she ran."
 
-"If we go badge," Will answered, "we might walk into Internal weather that eats soft nets for breakfast." He turned his head. Late smile. Wound showing. "I have survived worse breakfasts. Nina taught me how. You do not get that story in a parked car on Layer 4. You get the map Marta drew in fryer smoke. Choose which line we darken first."
+"If we go badge," Will answered, "we might walk into Internal weather that eats soft nets for breakfast." He turned his head. Late smile. Wound showing. "I have survived worse breakfasts. Nina taught me how. You get the map Marta drew in fryer smoke. Choose which line we darken first."
 
 Pier salt crept through the vents. Somewhere a chain-link gate sang in the wind. [player_name] closed her eyes and saw Renny's bracelet flashing beside a generator's roar—whole, pretty, not yet missing a charm that would one day sit in an evidence bag beside bones that still refused to name themselves. When she opened her eyes, Will was watching her as if her decision were another kind of confession he intended to taste.
 
@@ -77,7 +77,7 @@ Will's late smile switched on. Mid-thirties, stubble, hazel eyes hungry for the 
 
 [player_name] stood close enough to smell rain in his hair and the clean-dirty heat of his focus. Watching him work made her wet—shameful, true—grief and want sharing a body while Marta said warehouse and maybe badge and scared-under-anger. Will's pen paused. His thigh shifted against [player_name]'s when the trailer leaned, accidental on purpose.
 
-"Warehouse," he repeated softly. "I prefer those with evidence still inside. I have kicked wrong doors. Nina Solis paid for one—raid went teeth-first. Hints only. Charm is what I kept." He said it light, for Marta and for [player_name], a wound flashed like jewelry.
+"Warehouse," he repeated softly. "I prefer those with evidence still inside. I have kicked wrong doors. Nina Solis paid for one—raid went teeth-first. Charm is what I kept." He said it light, for Marta and for [player_name], a wound flashed like jewelry.
 
 Outside in the fog he put his hand low on [player_name]'s back, then lower, fingers spanning the top of her ass under her coat as they walked, professional enough to deny, filthy enough that she clenched. "You chose witnesses over naming Owen," he murmured at her ear. "Today that choice grew teeth. Good teeth. Makes me hard when a lead opens because you steered me here—even while I wonder what else your mouth is still holding."
 
@@ -93,7 +93,7 @@ He eased back enough to let her breathe and enough to make the loss of pressure 
 
 "Sit. Decide on the drive. If you squirm against the seat, I will take it as a vote." His smile cut. "I always did like women who argued with clean jackets and still came home smelling like fryer sugar and unfinished fucking."
 
-Harborwick's pier road took them. [player_name] ached. Will drove with one hand and rested the other on her thigh high enough to cheat, thumb stroking the inner seam in time with the wipers. Warehouse silhouettes rose and fell in the mist. A precinct rumor about Nina Solis lived under his silence like a second engine. The remains stayed unnamed. The charm stayed probable. And the next verb—harbor warehouse or half-heard badge—hurt to leave either way, want and dread braided until choosing felt like another kind of confession against his palm.
+Harborwick's pier road took them. [player_name] ached. Will drove with one hand and rested the other on her thigh high enough to cheat, thumb stroking the inner seam in time with the wipers. Warehouse silhouettes rose and fell in the mist. A precinct rumor about Nina Solis lived under his silence like a second engine. The remains stayed unnamed. The charm stayed probable.
 
 She almost named Owen then, just to see what his hand would do. She did not. Witness path. Soft loyalty still gripping. Will glanced over as if he heard the almost.
 
@@ -111,13 +111,13 @@ She shook. Renny's anger. Bones unnamed. Owen unnamed. Will's fingers curling. "
 
 "One word." His thumb found her clit. "One."
 
-The fog horn blew. She clenched around him, choosing unfinished, on the edge, the map burning behind her eyes in two bright lines while Nina Solis stayed a hint with teeth and William Akers smiled against her temple like a man who knew exactly how to turn a lead into hunger and hunger into movement. She left the alley shaking, jeans fastened crooked, Will's fingers still a ghost inside her as the engine turned and the two exits waited like open mouths.
+The fog horn blew. She clenched around him, choosing unfinished, on the edge, the map burning behind her eyes in two bright lines while Nina Solis stayed a hint with teeth and William Akers smiled against her temple like a man who knew exactly how to turn a lead into hunger and hunger into movement.
 
 In the car the map burned brighter. Warehouse lead. Half-heard badge. [player_name] tried to fasten her jeans and Will caught her wrist, kissed the pulse there, then guided her hand to the hard line of him under wool so she understood the cost of unfinished. "Warehouse cools," he said, voice wrecked. "Badge buries. You pick which hunger we feed while I can still taste you on my fingers." His other hand returned between her legs—two fingers sliding back into slick heat, curling once against the spot that made her vision white, stopping before she could break. "Not yet. Not until the lead moves. Nina taught me what happens when you rush a door. You are teaching me what happens when I leave a woman shaking on purpose."
 
-She clenched around him, cursing, loving it, Renny's angry bracelet-flash still behind her eyes. Solis stayed a hint. Remains stayed unnamed. Owen stayed a silhouette she had not spent tonight. The engine idled. Foghorn answered. Two exits waited like open mouths, and she left the choice sitting on her tongue with the taste of him—warehouse dark or badge bleed—while Will's fingers stayed a ghost inside her and mid-want refused to let the tab close.
+She clenched around him, cursing, loving it, Renny's angry bracelet-flash still behind her eyes. Solis stayed a hint. Remains stayed unnamed. Owen stayed a silhouette she had not spent tonight. The engine idled. Foghorn answered.
 
-She could still feel the alley brick at her back, his fingers crooked inside her, the foghorn timing her almost-climax like a cruel DJ. Warehouse before the trail cooled meant running into dark with Will's come-down still unfinished and Renny's anger as a compass. Badge before Ellison buried it meant digging where the system bled while her jeans stayed crooked and his mouth still tasted like her. She zipped with shaking hands. He watched like hunger with a badge. The two exits waited, and mid-want made both of them hurt to leave.
+She could still feel the alley brick at her back, his fingers crooked inside her, the foghorn timing her almost-climax like a cruel DJ. Warehouse before the trail cooled meant running into dark with Will's come-down still unfinished and Renny's anger as a compass. Badge before Ellison buried it meant digging where the system bled while her jeans stayed crooked and his mouth still tasted like her. She zipped with shaking hands. He watched like hunger with a badge.
 
 Will started the engine without asking which exit. "Say it," he ordered softly, fingers still gleaming on the wheel. "Warehouse or badge. I can still smell how close you were. I will not finish you until the case moves. That is how badly I want both." She swore. She chose unfinished. Harborwick fog took the windshield, and the two bright lines burned behind her eyes while Nina Solis stayed sealed teeth and Renny's argument stayed a living map.`,
   choices: [

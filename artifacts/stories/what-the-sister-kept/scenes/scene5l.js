@@ -26,7 +26,7 @@ Will set the notebook on her narrow entry table. Opened it to a page where he ha
 
 [player_name]'s voice roughened. "Then what do you want from me in forty minutes?"
 
-"I want the truth on my side of the ledger before hers." Will finally stepped into her space—cologne cut with rain, heat, the particular pressure of a man allergic to lies because his career wore one careful silence like a second badge. His hand rose, almost touched her jaw, stopped a breath short. Hook as craft. "I want you to understand that wanting you did not stop when you became a leak. That is my problem. Yours is consequence. You can walk into Ellison's office with me and help me sell a version where the soft net still holds—shield me from the politics of your tip by owning cooperation so loudly she cannot smell the panic. Or you can walk out of this apartment and out of my morning and make me chase both the case and you while Owen finishes ordering his house into something forensics may never recover."
+"I want the truth on my side of the ledger before hers." Will finally stepped into her space—cologne cut with rain, heat, the particular pressure of a man allergic to lies because his career wore one careful silence like a second badge. His hand rose, almost touched her jaw, stopped a breath short. "I want you to understand that wanting you did not stop when you became a leak. That is my problem. Yours is consequence. You can walk into Ellison's office with me and help me sell a version where the soft net still holds—shield me from the politics of your tip by owning cooperation so loudly she cannot smell the panic. Or you can walk out of this apartment and out of my morning and make me chase both the case and you while Owen finishes ordering his house into something forensics may never recover."
 
 Want and dread shared the entry the way hope and dread shared Cho's table. Will's hazel eyes had gone nearly black. Scar nick. Whitened knuckle. Not soft. Not clean-cut. A Harborwick detective with buried teeth—his sealed past still a sealed whisper and a late smile he was refusing to use because charm would have been mercy and he was not offering mercy.
 
@@ -38,7 +38,7 @@ Foghorn low across the channel. Chain-link memory. Warehouse silhouettes beyond 
 
 Will released her chin. Stepped back. The notebook waited open like a small accusation. "Forty minutes. Ellison. Soft net trembling. Remains unnamed. Charm still only *maybe* Renny's. I will not let you bury hope under fallout or baptize dread into certainty because you need punishment for a stairwell call. Murder stays plot. This—" his gaze flicked to her mouth, then away "—is trust under interrogation lights. Choose whether you stand in the light with me against Ellison's hammer, or whether you walk and make me chase both until something else burns."
 
-He did not kiss her. The denial hung unfinished on purpose. Rain needled the glass. [player_name] held two futures on her tongue—shield as triage, walk as rupture—while William Akers watched her with sealed-ash behind his silence and obstruction bright as a bruise between them, Harborwick morning counting down toward a captain who would smell whatever verb she chose.
+He did not kiss her. The denial hung unfinished. Rain needled the glass. [player_name] held two futures on her tongue—shield as triage, walk as rupture.
 
 She thought of the festival night in fragments while the bulb hummed: Renny's laugh, funnel-cake sugar on the air, Owen's silhouette, the stranger's wrongness, the official statement that had never held his name. The tip had been the same sin in a smaller key—protection that protected the wrong quiet. Will's refusal to kiss her felt like the only honest procedure left in the room.
 
@@ -53,7 +53,7 @@ She thought of the festival night in fragments while the bulb hummed: Renny's la
 
 Not a question. Rain on his shoulders. Mid-thirties. Scar nick white. Whitened knuckle on cracked notebook. Badge visible. Cock a thick idle threat in wet jeans. Brutal charm locked down into pure hunter.
 
-"Owen got a head start because Renny's sister ranked family panic over my patience," Will said, stepping inside, pier salt and burnt coffee on his coat. "Soft net. Soft promise. Soft lie. Stairwell was not plumbing. His porch light told me. Soft currency I earned in ashes—Nina Solis, raid, hallway, sealed file, hints only—you spent for him. That is obstruction. Ellison's favorite noun beside Vale."
+"Owen got a head start because Renny's sister ranked family panic over my patience," Will said, stepping inside, pier salt and burnt coffee on his coat. "Soft net. Soft promise. Soft lie. Stairwell was not plumbing. His porch light told me. Soft currency I earned in ashes—you spent for him. That is obstruction. Ellison's favorite noun beside Vale."
 
 [player_name]'s back found the wall. Renny's hoodie folded upstairs. Bracelet missing a charm. Upriver remains still unidentified, charm only *maybe* hers, hope and dread sharing Cho's bag while Will closed the distance until his thigh slotted between hers and his breath hit her mouth without giving her the kiss.
 
@@ -73,11 +73,11 @@ He pressed her palm to the thick line of him through jeans—shameless, brutal h
 
 Rain needled the glass. Foghorn low. Will withdrew, zipped her halfway, left her shaking and shining and empty around nothing. The late smile finally arrived—weapon, wound, no comfort. "Shield me from Ellison—or walk out and make me chase both. Either way I leave changed. Either way Renny stays a question mark tonight. Pick the hurt that keeps truth reachable."
 
-He did not kiss the center. The denial hung as hook. [player_name] tasted herself and copper and the metallic edge of a sealed file she was not meant to hold yet. Obstruction bruised the air. Want bruised everything else.
+He did not kiss the center. [player_name] tasted herself and copper and the metallic edge of a sealed file she was not meant to hold yet. Obstruction bruised the air. Want bruised everything else.
 
 "Clock," Will said, voice frayed, adjusting her collar with a tenderness that felt like a cuff. "If you shield me, I will sell soft as patience and you as cooperative family while my hand still smells like your cunt under the briefing table. If you walk, I will let Ellison see the empty chair and I will find you after—angry, hard, still asking whether loyalty is love or just another way Harborwick loses girls. A sealed raid taught me early entries leave ashes. Your tip was an early entry into Owen's fear. Help me keep the next entry from becoming another hallway I cannot open sober."
 
-[player_name] fixed her zipper a tooth short of closed—his grammar becoming hers—and held his gaze. Festival ghosts. Missing charm. Unidentified bones. William Akers with badge honest and charm scraped raw. Shield as triage. Walk as rupture. The choice already hurting because both verbs would cost her something the tip had already discounted from trust.
+[player_name] fixed her zipper a tooth short of closed—his grammar becoming hers—and held his gaze. Festival ghosts. Missing charm. Unidentified bones. William Akers with badge honest and charm scraped raw. Shield as triage. Walk as rupture.
 
 He stepped back toward the door without turning the knob, giving her the stage of her own entry, rainlight on his wet shoulders, notebook crack audible when he flexed it once in his coat. "Verb, [player_name]. Shield Will from Ellison—or walk out and make him chase both. I am done being patient with your leak. I am not done wanting the woman who made it."
 

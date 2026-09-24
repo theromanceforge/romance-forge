@@ -20,7 +20,7 @@ Will closed the notebook slowly, as if sudden movement might detonate something.
 
 They sat in the car with the engine off and Harborwick pressing wet faces to the glass. Fog horns spoke. Chain-link rattled. Will stared at the wipers without turning them on, jaw working, hazel eyes gone distant in a way that made [player_name] think of raid noise and hallways and a name he usually refused.
 
-"Nina Solis," he said finally, not looking at her. "Hints only. She took a fall I ordered. Sealed IA. Charm for a face afterward. If Renny spat a badge number at a clean jacket, then this case starts rhyming with rooms I do not enjoy visiting." His mouth twisted. "Ellison already distrusts family witnesses. If we feed Internal Affairs a half-heard four-digit ghost, they will open every drawer that has my name on it—including the one that still smells like the sealed past. If we bury the rumor for my sake, we might protect a soft net and bury the only scrap that says the system was on the pier that night."
+"Nina Solis," he said finally, not looking at her. "She took a fall I ordered. Sealed IA. Charm for a face afterward. If Renny spat a badge number at a clean jacket, then this case starts rhyming with rooms I do not enjoy visiting." His mouth twisted. "Ellison already distrusts family witnesses. If we feed Internal Affairs a half-heard four-digit ghost, they will open every drawer that has my name on it—including the one that still smells like the sealed past. If we bury the rumor for my sake, we might protect a soft net and bury the only scrap that says the system was on the pier that night."
 
 [player_name] tasted fried sugar and copper. "You are asking me to choose whether your sealed file matters more than Renny's spit."
 
@@ -40,17 +40,17 @@ He started the engine, then killed it again, restless. The notebook sat on the d
 
 "And if the numbers are fog," Will answered, "feeding IA is lighting a match in a room full of sealed paper for a carnival echo." He turned his hand under hers, laced their fingers, grip firm enough to hurt a little. "I will not pretend I do not want you to bury it. Wanting that makes me a bastard. Offering you the feed-IA option anyway makes me slightly less of one. Slightly."
 
-Outside, pier fog erased the Ferris silhouette that lived only in memory. Inside, [player_name] felt Layer 5's hook set: unfinished justice, unfinished protection, unfinished want. The remains stayed unnamed. The charm stayed probable. Owen stayed a ghost. And a half-heard badge number sat between them like a live wire neither could drop without choosing who got burned.
+Outside, pier fog erased the Ferris silhouette that lived only in memory. The remains stayed unnamed. The charm stayed probable. Owen stayed a ghost. And a half-heard badge number sat between them like a live wire neither could drop without choosing who got burned.
 
 Will's voice went soft enough to pass for kindness. "Captain Mara Ellison presses for clearance. She distrusts you. She distrusts me when I get sharp. IA is her weather system when sharpness looks like romance with a witness. You feed them this scrap and you may protect Renny's spit. You bury it and you may protect the only detective still treating unidentified bones as a maybe instead of a closed grief." He squeezed her hand. "Hurt to leave either. Good. Means you understand the cost. Pick anyway, [player_name]. The carnival just remembered your sister naming the system. Do not waste her numbers on hesitation while I sit here wanting to kiss you and burn my own file in the same breath."
 
-She looked at his mouth, at the scar nick, at the notebook line scoring *badge?* into pulp. Hope and dread and loyalty shared the fogged glass. The next verb waited with teeth: feed Internal Affairs the half-heard badge, or bury the rumor for Will's sake—and for the soft net that might still catch whatever Renny had known.
+She looked at his mouth, at the scar nick, at the notebook line scoring *badge?* into pulp. Hope and dread and loyalty shared the fogged glass.
 
 Harborwick's pier district held its breath the way it always did when badges and sisters shared a car. [player_name] watched a Harbor Authority truck crawl past two streets over and thought of Marta's shuttered face the first time one rolled by—how fear taught blankness faster than any detective's charm. Will tracked the truck too, eyes narrowing, then forced his attention back to the notebook as if attention itself were a warrant he could control.
 
 "If the digits start with two, they might be harbor-adjacent units," he said, thinking aloud for her benefit, or for his own. "If five, downtown rotations. If it was never a number—if it was only the word *badge* chewed by a generator—then we are arguing theology in the rain." He tore the scored page out, folded it once, and held it between two fingers. "Physical scrap. Your call whether it becomes a memo or ash. I will not decide for you. I decided for Nina once. The hallway still echoes."
 
-[player_name] took the folded page. It weighed nothing and everything. Renny's hoodie waited at home in a drawer. The silver charm waited in evidence as probability. Unidentified partial remains waited upriver while hope and dread fought without a referee. And William Akers waited with brutal patience for a verb that would either feed Internal Affairs or bury a rumor for the sake of a man whose dark past had just tasted its own rhyme.
+[player_name] took the folded page. It weighed nothing and everything. Renny's hoodie waited at home in a drawer. The silver charm waited in evidence as probability. Unidentified partial remains waited upriver while hope and dread fought without a referee.
 
 "I need a minute that is not a minute," she said.
 
@@ -65,7 +65,7 @@ In the car he did not drive. He pulled [player_name] into his lap sideways acros
 
 [player_name] gasped, rocking on his hand, fists in his shirt. "You are asking me to choose your sealed file over her spit."
 
-"I am telling you I am hard for you and terrified of hallways in the same breath." Will curled his fingers, thumb on her clit, brutal and precise. "A partner took a fall I ordered. Hints only. Charm for a face. If Renny spat a badge number, this case rhymes with rooms that still make me dream raid noise. Feeding IA might be righteous. Burying it might keep me free to hunt without Internal turning our mouths into evidence. Both make me want to fuck you until you stop looking at me like I am a clean man. I am not clean. Neither are you. Owen is still off your paper."
+"I am telling you I am hard for you and terrified of hallways in the same breath." Will curled his fingers, thumb on her clit, brutal and precise. "A partner took a fall I ordered. Charm for a face. If Renny spat a badge number, this case rhymes with rooms that still make me dream raid noise. Feeding IA might be righteous. Burying it might keep me free to hunt without Internal turning our mouths into evidence. Both make me want to fuck you until you stop looking at me like I am a clean man. I am not clean. Neither are you. Owen is still off your paper."
 
 She moaned, head dropping to his shoulder. His cock strained under her thigh; she ground against it through cloth while his fingers pumped. Pier fog wrapped the car like a curtain. Fog horns groaned. "Will—God—"
 
@@ -75,7 +75,7 @@ She moaned, head dropping to his shoulder. His cock strained under her thigh; sh
 
 "Cruel," she panted.
 
-"Layer 5," he answered, and bit her lower lip. "Ellison presses clearance. Distrusts family witnesses. Distrusts me when I get sharp around your mouth. IA is her storm when sharpness looks like romance. You feed them and you may protect what Renny named. You bury it and you may protect the only detective still treating unidentified remains as hope-and-dread instead of closed grief. Hurt either way. Good. Means both matter."
+"Ellison presses clearance. Distrusts family witnesses. Distrusts me when I get sharp around your mouth. IA is her storm when sharpness looks like romance. You feed them and you may protect what Renny named. You bury it and you may protect the only detective still treating unidentified remains as hope-and-dread instead of closed grief. Hurt either way. Good. Means both matter."
 
 He lifted his glistening fingers to her lips; she tasted herself while he watched with hazel eyes gone dark. Then he kissed the taste back into her mouth, filthy communion, and put his hand back between her legs without entering—just pressure, just promise. "Nina would tell me to stop using her name as a Ouija board while I finger a witness in a fogged car. She would also tell me half-heard numbers kill amateurs and buried badge rumors keep missing girls on posters. Both true. You pick."
 
@@ -97,7 +97,7 @@ He shifted her on his lap so she felt every thick inch of him through their clot
 
 "I am using everything I have," he said. "Charm. Teeth. Your wet. The sealed past ash. A four-digit ghost. Ellison's storm on the horizon. Owen still unnamed on your tongue. Unidentified bones that might not be Renny—hope and dread sharing this car with my cock and your conscience." He kissed her hard enough to bruise tomorrow. "Feed IA the half-heard badge and I walk it in with you on my arm like a dare. Bury the rumor for my sake and I owe you a debt I will pay with my mouth in the dark and my silence in the light. Either way you leave shaking. Either way I stay not clean. Pick before the horn dies, or I stop touching you and make you choose cold—and cold is how Soft nets become seven quiet years and posters."
 
-The fog horn groaned across the water, long and low. [player_name] held the folded notebook page in one fist and Will's shirt in the other, body aching, numbers burning behind her eyes beside Renny's flashing bracelet. Remains unnamed. Charm probable. System possibly on the boards. William Akers hard beneath her, raid-wound smiling, waiting for the verb that would decide who burned first.
+The fog horn groaned across the water, long and low. [player_name] held the folded notebook page in one fist and Will's shirt in the other, body aching, numbers burning behind her eyes beside Renny's flashing bracelet. Remains unnamed. Charm probable. System possibly on the boards.
 
 When the horn's echo faded, Will eased his hand away and fastened her jeans with that mock courtesy she had learned to read as both care and claim. He set her back in the passenger seat, breathing hard, eyes bright with restraint. "Speak," he said. "Feed or bury. I will still want you after. I will still not be nice. I will still dream hallways if soft fails. You get hints of his sealed past. You get this live wire. You get a detective who will chase Renny's spit or swallow it for time—your verb, your burn, your sister's half-heard numbers waiting in the rain like teeth." The folded page burned in her fist like a second pulse. She had to answer before Harborwick decided for them.`,
   choices: [

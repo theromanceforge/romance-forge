@@ -75,7 +75,7 @@ Will stepped into her space until her back found mailboxes and his thigh found t
 
 They drove through harbor fog. Will talked procedure in a voice that could have talked her out of her jeans—cars, mirrors, Ellison's distrust—while his free hand rested high on her thigh, not asking, claiming heat through denim. She was wet from guilt and from him. He laughed at a dark joke about patience being a kinder knife, and the sound went straight to her clit.
 
-"You can walk soft with me," he said at a red light, "or keep whatever you did in that stairwell and hope I am too hard for you to notice the leak. I notice leaks. It is the only religion I kept from the life before this badge—hints only, darling. You do not get my ashes yet."
+"You can walk soft with me," he said at a red light, "or keep whatever you did in that stairwell and hope I am too hard for you to notice the leak. I notice leaks. It is the only religion I kept from the life before this badge. You do not get my ashes yet."
 
 He parked two blocks from Owen's street. Rain needled the hood. Will turned, notebook on the dash, and put his hand on the back of her neck, thumb at her hairline, pulling her into the almost-kiss that was becoming their grammar. "Tell me you did not tip him. Tell me, and make me believe it with your mouth open."
 
@@ -89,7 +89,7 @@ He got out into the rain to set the watch. She stayed shaking, hand smelling lik
 
 He drove. Harborwick slid past in pink bar light and warehouse black. [player_name] ached. Will's late smile flashed in the dash glow—weapon, wound, promise. "Sleep if you can," he said. "If you dream of me, dream the part where I catch you mid-lie and make you finish the confession on my tongue. I am told it is educational."
 
-She almost told him everything before her street. Almost. The tip sat in her throat like a second kiss she refused to give. Owen's porch light burned behind them in memory. Soft net. Hard want. And the next verb would choose whether she drowned in guilt alone or let William Akers turn charm into a confrontation that could wreck the case and still leave her begging for his mouth.
+She almost told him everything before her street. Almost. The tip sat in her throat like a second kiss she refused to give. Owen's porch light burned behind them in memory. Soft net. Hard want.
 
 At her curb he did not walk her to the door like a gentleman. He walked her to the door like a man escorting evidence. In the narrow entry, out of rain, he pressed her to the wall beside the mail slot and put his thigh between hers again until she rode it once, helpless, guilt making her shameless.
 
@@ -101,7 +101,7 @@ At her curb he did not walk her to the door like a gentleman. He walked her to t
 
 In the entry he did not stop at the almost. After he painted her lip with her own wetness he stayed close enough that she tasted herself and rain and the metallic edge of a man who had survived something named Nina Solis—bullpen rumor, raid wound, teeth in a story he would not give her yet.
 
-"You want to know why soft costs me," Will said, forehead to hers, fingers still glistening, cock a thick line against her hip. "Because the last time I went hard without thinking, a woman named Solis paid for my speed. Not your business tonight. Hints only. But understand: when I agree to watch Owen instead of taking him, I am spending a currency I earned in ashes. If your tip burns that currency, I will not be charming about the receipt."
+"You want to know why soft costs me," Will said, forehead to hers, fingers still glistening, cock a thick line against her hip. "Because the last time I went hard without thinking, a woman named Solis paid for my speed. Not your business tonight. But understand: when I agree to watch Owen instead of taking him, I am spending a currency I earned in ashes. If your tip burns that currency, I will not be charming about the receipt."
 
 [player_name] shuddered. Guilt and arousal braided until she could not tell which made her knees weak. She thought of Renny's festival laugh, of unidentified bones, of Owen's porch light, of Will's mouth denying her the center of the kiss on purpose. "I did not mean—"
 
@@ -109,7 +109,7 @@ In the entry he did not stop at the almost. After he painted her lip with her ow
 
 She came close without coming—edge held by his fingers stopping exactly when her breath broke. He smiled that late smile against her cheek. "Not yet. Not until morning tells me whether Owen slept or burned. Soft net. Hard lesson. Nina Solis taught me the price of the other way; you are teaching me the price of trusting a woman with a stairwell and a phone."
 
-He stepped back into the rain, leaving her open-jeaned and shaking in her own entry, lip shining, cunt aching, the tip a live wire in her pocket. Harborwick fog erased the curb. William Akers lifted two fingers in a mock salute that was all teeth and no comfort—charm as scar tissue—and the next verb waited: drown privately in the guilt spiral, or meet the fallout when he confronted the leak with want still raw between them and a raid-wound name she was not meant to hold yet.`,
+He stepped back into the rain, leaving her open-jeaned and shaking in her own entry, lip shining, cunt aching, the tip a live wire in her pocket. Harborwick fog erased the curb. William Akers lifted two fingers in a mock salute that was all teeth and no comfort—charm as scar tissue.`,
   choices: [
     { id: "scene5k", text: "Sit in the guilt — wait to see if Will senses the leak", textHot: "Sit in the guilt — ache with it while Will senses the leak" },
     { id: "scene5l", text: "Brace for fallout — if Will confronts the tip, face obstruction", textHot: "Brace for fallout — face Will's confrontation with want still raw" }

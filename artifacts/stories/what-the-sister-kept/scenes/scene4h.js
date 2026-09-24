@@ -44,11 +44,11 @@ The appeal was craft and manipulation braided. [player_name] hated how well it w
 
 Will's thumb stroked once at her back. "That is the shield option. You become good cop. I step outside and look like weather. Or—" his eyes flicked to the door "—you walk out with me now and we both lose face and scrap. I will not pretend I will not be angry. Anger makes me less charming. You have been warned in every hallway since I showed up with a warrant and a maybe-charm."
 
-Rain thickened. The Harbor Authority truck was gone; its ghost remained in Marta's shoulders. [player_name] looked at Renny's flyer smile on the counter—grainy, young, not yet a cold case—and felt Layer 4's hook set: unfinished lean, unfinished mercy, unfinished want.
+Rain thickened. The Harbor Authority truck was gone; its ghost remained in Marta's shoulders. [player_name] looked at Renny's flyer smile on the counter—grainy, young, not yet a cold case.
 
 "Choose," Will murmured, close enough that only she heard the grit under the polish. "Shield. Or walk. Both hurt. Only one keeps me from teaching Marta how hard soft can get when a Solis-shaped lesson starts echoing."
 
-Outside, pier fog pressed the trailer windows. Inside, fryer oil and fear and a notebook open to a half-written line. [player_name] drew a breath that tasted like festival ghosts and Will's cologne cut with rain, and the next verb waited with its teeth showing. Harborwick pier rain kept time on the roof like a clock that refused to be kind.
+Outside, pier fog pressed the trailer windows. Inside, fryer oil and fear and a notebook open to a half-written line. Harborwick pier rain kept time on the roof like a clock that refused to be kind.
 
 Marta watched them with the flat patience of someone who had survived worse leanings than a detective's smile. The Harbor Authority truck's lights swept once across aluminum and vanished. Fryer oil thickened the air. Renny's flyer smile waited on the counter, grainy and forever sixteen, forever unconfirmed among upriver partials Cho still called unidentified.
 
@@ -56,7 +56,7 @@ Will did not look at the flyer. He looked at [player_name] the way he looked at 
 
 Outside, festival ghosts clung to the rain. Inside, Solis stayed a hint with teeth—cousin stories, raid weather, a smile Marta had named and Will had not denied. [player_name] drew another breath that tasted like sugar and consequence. Shield meant owning his brutality by tempering it. Walk meant owning her fear by leaving a witness unfinished. Both hurt. Both moved the case. Both left the trailer door stuck on purpose between mercy and lean while Harborwick pier rain kept time on the roof like a clock that refused to be kind.
 
-She thought of the 2b bargain that had brought them here—witnesses first, Owen hidden, Renny still a missing teen instead of a named tray. Pressing Marta hard might buy a warehouse scrap or a badge ghost. Softening Will might keep the vendor from bolting into fairway dark with every lead. Walking out might teach him that she would not eroticize cruelty even for her sister's maybe. The notebook spine cracked when he shifted. His late smile waited. The next verb waited with its teeth showing, and [player_name] understood that mid-want was not only about his mouth—it was about how much of Harborwick's violence she was willing to borrow before morning.`,
+She thought of the 2b bargain that had brought them here—witnesses first, Owen hidden, Renny still a missing teen instead of a named tray. Pressing Marta hard might buy a warehouse scrap or a badge ghost. Softening Will might keep the vendor from bolting into fairway dark with every lead. Walking out might teach him that she would not eroticize cruelty even for her sister's maybe. The notebook spine cracked when he shifted. His late smile waited.`,
   textHot: `The vendor clammed up, and [player_name] felt William Akers go predatory in a way that made her cunt tighten even as her conscience flinched—late smile on, charm with the safety off, mid-thirties danger wearing a badge like an afterthought.
 
 Marta's face shuttered when the Harbor Authority truck rolled past. "Maybe I mixed festival nights. We done?"
@@ -65,7 +65,7 @@ Marta's face shuttered when the Harbor Authority truck rolled past. "Maybe I mix
 
 "I got a stall lease," Marta snapped. "That smile—cousin said a detective smiled like that after a raid went to teeth. Solis. Lean somewhere else."
 
-Nina Solis. Raid wound. Hints only. Will's eyes narrowed without losing the smile. "Campfire stories," he murmured. "I collect unfinished ones about missing girls." He glanced at [player_name], hand already at the small of her back under her coat, fingers spanning low, possessive. "You brought me witnesses. Witnesses sometimes need weight. I can lean harder—make her lease itch, make her remember—or you become the shield that keeps my bad-cop mouth off her. Or you walk out and I chase you instead of her. Pick. My cock is already interested in whichever verb makes you shake."
+Nina Solis. Raid wound. Will's eyes narrowed without losing the smile. "Campfire stories," he murmured. "I collect unfinished ones about missing girls." He glanced at [player_name], hand already at the small of her back under her coat, fingers spanning low, possessive. "You brought me witnesses. Witnesses sometimes need weight. I can lean harder—make her lease itch, make her remember—or you become the shield that keeps my bad-cop mouth off her. Or you walk out and I chase you instead of her. Pick. My cock is already interested in whichever verb makes you shake."
 
 [player_name] flushed. Grief and want shared her jeans. Unidentified bones upriver; Renny's flyer smile; Owen still unnamed; Will's thumb stroking the top of her ass in a trailer that smelled like sugar and fear. "Will—soft."
 
@@ -79,11 +79,11 @@ Will smiled with teeth. "Memory under pressure is easier for me." He steered [pl
 
 "Shield option," Will murmured, lips brushing her temple in a kiss that was also a brand. "I step into the rain and look like weather while you play soft. Or you walk out with me now—" his hand slid around to cup her through her jeans for one brazen second, hidden by the counter angle, pressing her soaked seam "—and we lose the scrap, and I punish us both later for the cowardice of leaving teeth on the table."
 
-She rocked into his palm despite herself. Marta pretended not to see. Rain hammered aluminum. Fog horns groaned. Will withdrew his hand slowly and licked the tip of his thumb as if it had tasted her already—filthy promise, raid-wound charm, Layer 4 hint of how dark he could go when soft failed.
+She rocked into his palm despite herself. Marta pretended not to see. Rain hammered aluminum. Fog horns groaned. Will withdrew his hand slowly and licked the tip of his thumb as if it had tasted her already.
 
 "Choose," he said. "Become my good-cop shield. Or walk out of the interview and make me follow your ass into the fog instead of breaking this woman for Renny's last argument. I will be hard either way. I will not be nice either way. Nina Solis taught me nice is optional; results are not. You get hints of that. You get this choice. You do not get a clean man."
 
-[player_name] looked at Renny's grainy smile, at Marta's locked face, at Will's mouth still wet from his thumb. Hope and dread and lust shared the trailer. The remains stayed unnamed. Owen stayed off the page. And the next verb—shield or walk—hurt like a bite she wanted.
+[player_name] looked at Renny's grainy smile, at Marta's locked face, at Will's mouth still wet from his thumb. Hope and dread and lust shared the trailer. The remains stayed unnamed. Owen stayed off the page.
 
 He stepped toward the door without waiting, then paused with his hand on the latch, glancing back over his shoulder with that late smile that had survived a raid and learned to hunt. "If you shield, stay close enough that I can feel you choosing me softer. If you walk, walk like you mean to be caught. I have always preferred chasing to paperwork."
 
@@ -95,7 +95,7 @@ Will's late smile did not soften when she hesitated. He backed her half a step t
 
 She could barely stand. Sugar and rain and his soap-and-salt filled her mouth. Renny's flyer watched. Unidentified remains waited upriver without a sister's name. Solis lived in Marta's cousin-story like a tooth Will refused to pull in public. Ellison's clearance hunger pressed the aluminum from miles away.
 
-Will stepped back just enough that air rushed cold into the places he had owned. His hand left her breast; his thigh left her cunt aching empty. He licked the corner of his mouth as if she were already there. "Pick the verb while you can still feel me," he said. "Shield—stay close enough I smell how you choose softer. Walk—make me prefer chasing to paperwork. I will be hard either way. I will not invent Renny among the dead for leverage. I will not be nice. Nina Solis taught me nice is optional; results are not. You get hints of that. You get this choice. You do not get a clean man."
+Will stepped back just enough that air rushed cold into the places he had owned. His hand left her breast; his thigh left her cunt aching empty. He licked the corner of his mouth as if she were already there. "Pick the verb while you can still feel me," he said. "Shield—stay close enough I smell how you choose softer. Walk—make me prefer chasing to paperwork. I will be hard either way. I will not invent Renny among the dead for leverage. I will not be nice. You get hints of that. You get this choice. You do not get a clean man."
 
 [player_name] looked at Marta's locked face, at the notebook's half-line about a generator argument, at Will's mouth still shiny from almost. Hope and dread and lust shared the trailer. The next step—shield or walk—hurt like a bite she wanted. He paused at the latch with that hunt-surviving smile. "If you shield, stay close enough that I can feel you choosing me softer. If you walk, walk like you mean to be caught."
 
@@ -103,7 +103,7 @@ The trailer held its breath. Fryer oil. Cigarette ghost. A sister who might stil
 
 Outside, pier rain wrote questions on aluminum. Inside, Marta folded her arms like a locked file. [player_name] felt Will's absence from her body as sharply as his presence—thigh gone, hand gone, cock-print memory left behind like evidence. Shield meant walking back into his heat as conscience. Walk meant making him follow her wet, furious, and useful. Renny stayed a living question. Cho stayed careful. Solis stayed teeth behind a cousin's rumor. The choice sat on her tongue with sugar and him, unfinished, consequential, impossible to close.
 
-She took another step. Then another. Body loud. Conscience louder. Will's hand on the latch looked like a question he already knew how to answer with his mouth. Shield or walk. Soft lean or chase. Either left Marta watching. Either left Renny's flyer smile unfinished. Either left [player_name] wet enough that pier rain on her face would not cool what he had woken under sugar smoke and raid-wound charm. The tab stayed open. The heat stayed mid. The next verb showed its teeth.
+She took another step. Then another. Body loud. Conscience louder. Will's hand on the latch looked like a question he already knew how to answer with his mouth. Shield or walk. Soft lean or chase. Either left Marta watching. Either left Renny's flyer smile unfinished. Either left [player_name] wet enough that pier rain on her face would not cool what he had woken under sugar smoke and raid-wound charm. The tab stayed open. The heat stayed mid.
 
 Fryer oil. Foghorn. A detective who had survived a raid and learned to hunt. She did not close the tab. She could not.`,
   choices: [

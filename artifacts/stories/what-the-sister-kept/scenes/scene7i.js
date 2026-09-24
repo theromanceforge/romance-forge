@@ -14,7 +14,7 @@ Will stood behind the one-way glass. [player_name] could not see him. She could 
 
 Owen laughed thin through the handset. Bleach air carried the sound wrong. "You kept me off a statement for seven years and then decided badge heat looked like absolution. Now you want a name that will put a municipal throat on a board beside mine. What do I get—reduced counts? A softer net dressed as a deal? Or just William Akers smiling like a knife while you wear his mic against your pulse?"
 
-Behind glass, Will would be whitening his knuckles on a pen. [player_name] knew the gesture without seeing it. She knew the Solis-shaped flinch that lived under his charm when visits rhymed with raids—an old partner, early entry, a teenager in the wrong hallway, a sealed IA file he still would not open. Hint only. Teeth showing. Ellison's muttered *not another his old partner* living in the van's static. Will was trying not to push early through a stepdaughter's mouth. Trying looked like hunger with a leash made of wire tape and visitation rules.
+Behind glass, Will would be whitening his knuckles on a pen. [player_name] knew the gesture without seeing it. She knew the Solis-shaped flinch that lived under his charm when visits rhymed with raids—an old partner, early entry, a teenager in the wrong hallway, a sealed IA file he still would not open. Teeth showing. Ellison's muttered *not another his old partner* living in the van's static. Will was trying not to push early through a stepdaughter's mouth. Trying looked like hunger with a leash made of wire tape and visitation rules.
 
 "You get a chance to stop inventing purity," [player_name] said. "You get a chance to stop calling protection what was obstruction. Renny was a teenager pointing at warehouses. You stood near the pier with someone who was not supposed to be there. I accepted your story because I was afraid. Fear is not a virtue. Tell me who M is. Tell me what *call M if soft* meant while you rinsed a SIM into a sink trap and thought water could erase after-midnight reaches."
 
@@ -55,7 +55,7 @@ Owen's bracelets dulled against the shelf. Public-defender folder open like a sh
 
 Owen laughed thin through the handset. "Seven years off the statement. Now badge heat looks like absolution and a mic looks like courage. What do I get—reduced counts, or William Akers smiling like a knife while you soak for his voice in your ear?"
 
-Behind glass Will would be whitening knuckles, Solis-shaped flinch under charm—Nina, raid, hallway kid, sealed file—hints only, Ellison's *not another the sealed past* in the van static. Trying not to push early through a stepdaughter's mouth looked like hunger with a leash made of wire tape. [player_name] wanted that hunger. Wanted it while bleach air tried to make her pure. Grief and sex could share a body. Murder stayed plot. This heat advanced trust or it was nothing.
+Behind glass Will would be whitening knuckles, Solis-shaped flinch under charm—Nina, raid, hallway kid, sealed file. Trying not to push early through a stepdaughter's mouth looked like hunger with a leash made of wire tape. [player_name] wanted that hunger. Wanted it while bleach air tried to make her pure. Grief and sex could share a body.
 
 "You get a chance to stop inventing purity," she said. "Name M. Name what *call M if soft* meant while you rinsed a SIM into a sink trap."
 

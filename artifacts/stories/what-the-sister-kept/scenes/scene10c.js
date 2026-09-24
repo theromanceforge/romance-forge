@@ -28,7 +28,7 @@ At the station platform the departure board flickered. Will took her hand, squee
 
 "Go," Will said, and smiled the smallest velvet-blade smile that did not cut. "Before I forget how to be respectable about this."
 
-She boarded. Found a window seat. The train pulled. Harborwick's fog thinned until the pier was only a rumor of water and rust. Will's figure stayed on the platform until distance made him a dark shape with a scar she could no longer see. [player_name] touched the bracelet's gap and felt mid-want unfinished on purpose—and somehow whole. The city that had kept her sister's absence for seven years let her leave free, with Renny's name spoken, with William Akers's respect intact, with no new lie required to make the leaving look like love.
+She boarded. Found a window seat. The train pulled. Harborwick's fog thinned until the pier was only a rumor of water and rust. Will's figure stayed on the platform until distance made him a dark shape with a scar she could no longer see. The city that had kept her sister's absence for seven years let her leave free, with Renny's name spoken, with William Akers's respect intact, with no new lie required to make the leaving look like love.
 
 On the train she did not cry theatrically. She watched industrial edges give way to flatter light and felt Renny's name travel with her like a ticket stub she would never throw away. Will had respected the boarding; that respect would live in her longer than any argument for staying could have. Harborwick shrank. Freedom enlarged—not clean, not painless, but honest. When a stranger asked if she was all right, she said yes, and meant: all right enough to leave without lying.`,
   textHot: `Leaving should not have made [player_name] wet, and it did—grief and want braided into a last Harborwick night she refused to pretend was casual.
@@ -49,8 +49,8 @@ After, he cleaned her with a warm cloth like tenderness was a closing procedure.
 
 She left with her body still remembering him and her ticket honest. Harborwick fog took the street. The ending was want honored and freedom kept—no leash dressed as love, no betrayal in the goodbye fuck, just William Akers letting [player_name] leave with Renny's truth spoken and her cunt still aching sweetly from a man who knew how to release a hand.
 
-In the rideshare to the station her thighs still hummed; she pressed them together and tasted Will on her tongue from the goodbye and did not regret the ache. Freedom included carrying pleasure out of the city that had taught her silence. She boarded sore in the best temporary way, bracelet gap cold, cunt tender, heart bruised clean—and that was Leave Free in the Hot register: not a punishment fuck, not a leash, just a last honest joining before the map changed.
+In the rideshare to the station her thighs still hummed; she pressed them together and tasted Will on her tongue from the goodbye and did not regret the ache. Freedom included carrying pleasure out of the city that had taught her silence. She boarded sore in the best temporary way, bracelet gap cold, cunt tender, heart bruised clean.
 
-She slept on the train in fits, body remembering the stretch of him, mind replaying the platform release of his hand. Leave Free, Hot version, was not a colder Warm—it was the same freedom written through nerve endings: respected, explicit, finished as a chapter and unfinished as a feeling she was allowed to carry without turning around.`,
+She slept on the train in fits, body remembering the stretch of him, mind replaying the platform release of his hand.`,
   choices: []
 };

@@ -26,7 +26,7 @@ Captain Mara Ellison's name landed like a weather front. [player_name] tasted co
 
 They climbed. Harborwick rain freckled the narrow wired glass. Will braced a shoulder to the wall and watched her with that late smile held in reserve, weapon not yet drawn. Whitened knuckle flexed on the cup. When she said nothing useful, he filled the silence the way he filled interview rooms—with charm that cut.
 
-"I ran a harbor warrant once with a partner who trusted my speed," he said, almost casual, almost not. "Nina Solis. The raid went sideways. A teenager in the wrong hallway paid for my early entry. She took the official fall. I kept the badge and a sealed file I still will not open for pretty eyes. Soft nets are expensive for me. If your tip spent that currency, I need to know before Ellison invoices us both." Hints only. Teeth, not tidy. The wound under the charm scraped audible for a breath, then smoothed. "You do not get my whole past because you look guilty in a stairwell. You get the part that rhymes: kids, hallways, ashes, and a man who smiles so nobody asks the right question."
+"I ran a harbor warrant once with a partner who trusted my speed," he said, almost casual, almost not. "Nina Solis. The raid went sideways. A teenager in the wrong hallway paid for my early entry. She took the official fall. I kept the badge and a sealed file I still will not open for pretty eyes. Soft nets are expensive for me. If your tip spent that currency, I need to know before Ellison invoices us both." Teeth, not tidy. The wound under the charm scraped audible for a breath, then smoothed. "You do not get my whole past because you look guilty in a stairwell. You get the part that rhymes: kids, hallways, ashes, and a man who smiles so nobody asks the right question."
 
 [player_name] pressed her palm to cold plaster. Renny's hoodie waited at home again, refolded wrong. Festival night. Owen near the pier with someone not supposed to be there. Seven years of keeping him off the page. One stairwell minute of putting him back on a private line. "If I say yes, you become my enemy."
 
@@ -34,7 +34,7 @@ They climbed. Harborwick rain freckled the narrow wired glass. Will braced a sho
 
 A door slammed below. Voices. Will did not move. The almost of him—cologne, rain, burnt coffee, the heat of a man allergic to lies because his career wore one—pressed the stairwell smaller. Want sat beside guilt like a traitor. She wanted his mouth. She wanted the tip undone. She wanted Renny alive in a way science had not authorized and dead in a way hope refused.
 
-"Ellison's briefing," Will said. "I can walk in and sell soft as patience. I can walk in smelling your panic and have her smell it too. Help me choose which Will she gets—the charming one who buys you time, or the sharp one who starts treating you like a leak with a pretty name." His hand rose, almost touched her jaw, stopped a breath short. Hook as craft. "You tipped him. I am not asking if anymore. I am asking what we do with the fact while Renny's fate is still a question mark on Cho's table and Harborwick fog erases nothing that matters."
+"Ellison's briefing," Will said. "I can walk in and sell soft as patience. I can walk in smelling your panic and have her smell it too. Help me choose which Will she gets—the charming one who buys you time, or the sharp one who starts treating you like a leak with a pretty name." His hand rose, almost touched her jaw, stopped a breath short. "You tipped him. I am not asking if anymore. I am asking what we do with the fact while Renny's fate is still a question mark on Cho's table and Harborwick fog erases nothing that matters."
 
 [player_name]'s voice roughened. "Then ask me for a verb, not a trial."
 
@@ -42,7 +42,7 @@ Will's mouth tilted—late, sharp, almost kind. "Follow the warehouse lead with 
 
 He finally touched her—two fingers under her chin, precise, the same grammar as the hallway—and the unfinished want between them hurt like a live wire. "Choose before eleven, [player_name]. Guilt gets a body in this stairwell or it gets a strategy. I prefer strategy. I will take either if it comes with your pulse honest under my hand."
 
-Rain needled the glass. The interview-room clock hummed faintly through concrete. Somewhere Owen Vale moved through a morning he had been warned to order. Somewhere Cho's lab held partial remains that were still not a sister until science said so. William Akers waited on her next verb with sealed-ash behind his smile and a soft net that might already be compromised by the woman he wanted past professionalism—hook hanging, mouth not given, tip alive between them like a third heartbeat neither could silence alone.
+Rain needled the glass. The interview-room clock hummed faintly through concrete. Somewhere Owen Vale moved through a morning he had been warned to order. Somewhere Cho's lab held partial remains that were still not a sister until science said so.
 
 She thought of the festival lights in Renny's hair at sixteen, of the silver bracelet's missing charm, of Owen's silhouette and the stranger whose face she had never put on any page. The tip had been a smaller knife with the same handle as the old lie: family first, file second, truth somewhere she could not afford. Will's fingers under her chin did not let her look away from what that cost.
 
@@ -67,7 +67,7 @@ He walked her to the Records stairwell—ironic theater—and the moment the doo
 
 [player_name] gasped as he rolled once against her—thick ridge, brutal honesty—rain freckling wired glass, lobby murmur far below. "If I say yes—"
 
-"You become the woman I know how to want with my eyes open." His hand slid under her sweater onto bare skin, up to the underside of her breast, thumb circling until she arched. "Worse and better than enemy. Soft currency I earned in ashes—Nina Solis, raid, hallway, sealed file, hints only—you may have spent it with one call. I need the ledger before Ellison invoices us. I need my hands on you while you admit the tip so I know guilt is useful and not only hunger wearing regret."
+"You become the woman I know how to want with my eyes open." His hand slid under her sweater onto bare skin, up to the underside of her breast, thumb circling until she arched. "Worse and better than enemy. Soft currency I earned in ashes—you may have spent it with one call. I need the ledger before Ellison invoices us. I need my hands on you while you admit the tip so I know guilt is useful and not only hunger wearing regret."
 
 He opened her jeans with detective efficiency, found her already slick through cotton. "Guilty and wet. Grief and sex sharing a body. Do not tidy it. Do not eroticize Cho's bones—unnamed, unconfirmed, Renny still a question mark—but do not pretend the tip made you pure." Two fingers slid into her; she clenched; he kissed the corner of her mouth and denied the center on purpose. "Warehouse lead or badge-number rumor. Both digs. Both keep you close enough to watch. Neither confirms the remains. I will not let your spiral baptize dread into a false funeral."
 
@@ -79,7 +79,7 @@ He worked her slow on his hand in the stairwell, thumb precise, forehead to hers
 
 He zipped her halfway—unfinished grammar—pressed her palm to his cock through jeans once, shameless, then stepped back enough that stairwell air felt like punishment. "Eleven o'clock. Soft net maybe compromised by the woman I want past professionalism. The sealed past would call me compromised. She would not be wrong. Compromised is how I stay human after ashes. You get the hint. You get the dig. You get my mouth later if you stop treating obstruction like a private religion."
 
-Rain needled glass. Clock hummed through concrete. Owen moved through a warned morning. Cho held unnamed bones. Will waited on her verb with her flavor on his thumb and a soft net trembling—hook unfinished, tip a live wire, want and guilt braided until [player_name] could not tell which made her knees weak.
+Rain needled glass. Clock hummed through concrete. Owen moved through a warned morning. Cho held unnamed bones.
 
 "Say it," Will added, voice frayed. "Not the tip—we both know. Say the dig. Warehouse lead before Ellison turns patience into a hammer. Badge-number rumor into the internal dark. I will walk either path with my hand still smelling like you and my badge still trying to mean something that is not only hunger." He leaned in one last almost-kiss, breath shared, center denied. "Pick, [player_name]. The spiral ends when you move. Soft holding is a story we tell until the next fire. Be the woman who digs instead of the woman who only aches."
 
@@ -97,7 +97,7 @@ He did not take her upstairs yet. He made her stand in the cool stairwell air wi
 
 "Guilt spirals make good lovers and bad witnesses," he murmured. "Break the spiral with a verb. Warehouse lead. Badge-number rumor. I will still taste you later. I will still be angry. I will still put Renny's open question above your need to be punished and above my need to fuck the anger quiet. Murder stays plot. This heat advances trust or it advances nothing. Pick the dig that lets trust survive Ellison's office."
 
-Footsteps passed on the floor above. Will stepped fully back, charm armor sliding into place for anyone who might open the door—late smile ready, hunter hidden, cock still an obscene line he did not bother to hide from her alone. The hook hung: unfinished kiss, tip alive, soft net trembling, two digs waiting, Harborwick morning pressing toward eleven like a blade.
+Footsteps passed on the floor above. Will stepped fully back, charm armor sliding into place for anyone who might open the door—late smile ready, hunter hidden, cock still an obscene line he did not bother to hide from her alone.
 
 [player_name] fixed her zipper with shaking fingers and still left it a tooth short of closed—Will's unfinished grammar becoming hers. "Warehouse or badge," she whispered, tasting the fork already. He nodded once, eyes bright, sealed-ash and want sharing his silence like hope and dread shared Cho's table.`,
   choices: [

@@ -28,7 +28,7 @@ The call ended. Rain filled the silence. Foghorns answered across the channel. C
 
 "If you sit with hope," Will answered, "you give him time to hear Ellison's inbox ping and invent a better story." Brutal charm returned wrong-side out: respect edged with hunger he had not been allowed to spend on her mouth. "I can run soft surveillance. I can pull him in hard. I can also stand here and watch you decide while my coat still smells like the almost you shut down. Your call, [player_name]. I am allergic to being lied to and currently employed by a captain who thinks my feelings get people hurt."
 
-She looked at the black water where festival lights had once stuttered. Renny laughing. Charms bright. Owen's silhouette in memory near the rail. The silver gap on the bracelet like a withheld sentence. Will's cracked notebook sagged in his coat pocket, pier sketch bleeding from damp. Attraction ached unused between them—dangerous, unfinished on purpose—and his sealed past haunted the ribs of the hour as warning that wanting certainty too early had a body count.
+She looked at the black water where festival lights had once stuttered. Renny laughing. Charms bright. Owen's silhouette in memory near the rail. The silver gap on the bracelet like a withheld sentence. Will's cracked notebook sagged in his coat pocket, pier sketch bleeding from damp. Attraction ached unused between them—and his sealed past haunted the ribs of the hour as warning that wanting certainty too early had a body count.
 
 "Ellison will want clearance," [player_name] said.
 
@@ -44,7 +44,7 @@ Precinct coffee memory rose—burnt, bitter—from the interview hours that had 
 
 She nodded once toward the inland road, or toward the black water—she had not decided which—and felt Cho's timing settle into her spine like a second skeleton. The unidentified remains kept their silence. Owen's alibi did not. William Akers waited with his phone warm and his ribs aching and his brutal charm sheathed, a dangerous man offering to either hunt a crack or honor a hope that might be a lie she needed for one more night.
 
-Harborwick rain kept writing the question on every black plank: spend the lean, or sit with the maybe. [player_name]'s pulse hammered either answer. The pier had given her science instead of a mouth. Now science demanded a verb.
+Harborwick rain kept writing the question on every black plank: spend the lean, or sit with the maybe. [player_name]'s pulse hammered either answer. The pier had given her science instead of a mouth.
 
 A flatbed rumbled past on the access road, tires hissing, headlights cutting Will's scar into a brief white line. [player_name] used the interruption to breathe. She catalogued what Cho had given her the way she used to catalogue Renny's excuses for being late—careful, loving, suspicious. Unidentified. Soft contradiction. Charm maybe. Three facts that refused to become a story until someone with a badge or a conscience forced them. Will was both and neither. She was the sister who had kept Owen off the page and was now being asked whether to write him back on in ink that might not wash off.
 
@@ -95,7 +95,7 @@ She could still feel where his breath had been when the almost-kiss hovered—be
 
 "You shut me down and then stood close enough that I can smell your shampoo," Will said, low, sex-rough under detective flat. "That is not fair play. Neither is asking me to honor hope while my body has not gotten the memo that we are professionals on a pier. Decide. Chase Owen's timing hole until it screams, or sit with the maybe-it-is-not-Renny and make me keep my hands and my badge in polite formation. I will do either. I will not do calm."
 
-Harborwick rain wrote the question on black planks. Spend the lean or sit with the maybe. [player_name]'s pulse hammered either answer—chest and lower, traitor and sister and woman who had refused a detective's mouth and still felt owned by his voice. The pier had given her science instead of orgasm. Now science demanded a verb, and William Akers waited with phone warm, ribs aching, cock ignored, brutal charm sheathed over a raid-wound and a hunger that had nowhere to go but the case.
+Harborwick rain wrote the question on black planks. Spend the lean or sit with the maybe. [player_name]'s pulse hammered either answer—chest and lower, traitor and sister and woman who had refused a detective's mouth and still felt owned by his voice. The pier had given her science instead of orgasm.
 
 She nodded toward inland road or black water—undecided—and felt Cho's timing settle into her spine like a second skeleton that wanted Will's hands on it. Unidentified silence. Owen's cracked alibi. Two hungers left alive: hunt the hole, or hold the hope. Leaving either way would hurt, and her cunt knew it as clearly as her grief.
 

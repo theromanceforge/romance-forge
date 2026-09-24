@@ -87,7 +87,7 @@ Owen turned to the sink, hands braced on porcelain. For a second she saw the fes
 
 "You should not have come alone," Owen said to the faucet. "If what you think is true, alone is how people get hurt."
 
-"I know." She thought of Will's ribs, Ellison's leash, a sealed file—hints only—and of her own cunt still aching from a kiss she had not taken. Alone was a risk she had chosen with her brain. Her body kept voting for the car. "Talk anyway."
+"I know." She thought of Will's ribs, Ellison's leash, a sealed file—and of her own cunt still aching from a kiss she had not taken. Alone was a risk she had chosen with her brain. Her body kept voting for the car. "Talk anyway."
 
 He did not. Not yet. He stared at Cho's printout until UNIDENTIFIED seemed to pulse in time with her own pulse low in her belly. "They are not going to name her," he said, too careful. "Not if I can help it. Not if you keep your mouth in the family."
 
