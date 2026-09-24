@@ -5,6 +5,7 @@
 
 import { getAdsConfig } from './config.js';
 import { bumpAdsStat } from './stats.js';
+import { assetUrl } from '../assetUrl.js';
 
 const SCRIPT_ATTR = 'data-rf-adsense';
 const ROOT_ID = 'rf-ads-interstitial';
@@ -69,7 +70,7 @@ function placeholderHtml() {
     <div class="rf-ads-placeholder" data-testid="ads-placeholder">
       <img
         class="rf-ads-placeholder-logo"
-        src="/brand/logo-heart-anvil.png"
+        src="${assetUrl('/brand/logo-heart-anvil.png')}"
         alt=""
         width="48"
         height="48"

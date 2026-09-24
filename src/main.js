@@ -55,6 +55,14 @@ import {
   createReviewRecord,
   aggregateFromStars,
 } from './reviews/supabaseStore.js';
+import { assetUrl } from './assetUrl.js';
+
+/** Public brand sprite — base-aware so Pages does not 404 at domain root. */
+document.documentElement.style.setProperty(
+  '--brand-icons-grid',
+  `url("${assetUrl('/brand/icons-grid.png')}")`
+);
+
 import {
   shouldShowReviewPrompt,
   renderEndingReviewPanel,
@@ -90,7 +98,7 @@ function activeStory() {
 /** Brand cover path for a story slug. */
 function storyCoverPath(storyId) {
   const id = storyId || defaultStory.id;
-  return `/brand/cover-${id}.png`;
+  return assetUrl(`/brand/cover-${id}.png`);
 }
 
 function persistGuestProgress(partial = {}) {
@@ -273,8 +281,8 @@ const CATALOG = [
     blurb:
       'A finished playable romance: 10 endings, Warm & Hot. Fifteen years after leaving Somerton, Henry’s letter brings you home—Jake Shaw still keeps the diner with the blue door. Choose your path and let the quiet break.',
     available: true,
-    accentSrc: '/brand/cover-until-the-quiet-breaks-square.png',
-    coverSrc: '/brand/cover-until-the-quiet-breaks.png',
+    accentSrc: assetUrl('/brand/cover-until-the-quiet-breaks-square.png'),
+    coverSrc: assetUrl('/brand/cover-until-the-quiet-breaks.png'),
     coverAlt: 'Until the Quiet Breaks — rainy Somerton station woodcut',
     hook: 'Somerton rain. Jake Shaw still waiting. A quiet that wants to break— on your terms.',
     pull: 'The blue door still waits in the rain.',
@@ -287,8 +295,8 @@ const CATALOG = [
     blurb:
       'Harborwick mystery romance: cold case, missing sister, Detective Jake Akers. What she kept could reopen everything—or destroy what’s left of her family.',
     available: true,
-    accentSrc: '/brand/cover-what-the-sister-kept-square.png',
-    coverSrc: '/brand/cover-what-the-sister-kept.png',
+    accentSrc: assetUrl('/brand/cover-what-the-sister-kept-square.png'),
+    coverSrc: assetUrl('/brand/cover-what-the-sister-kept.png'),
     coverAlt: 'What the Sister Kept — Harborwick fog and cold-case romance',
     hook: 'Harborwick fog. Jake Akers at the door. A charm that might be Renny’s—and a secret she kept.',
     pull: 'Hope and dread share the doorway.',
@@ -301,8 +309,8 @@ const CATALOG = [
     blurb:
       'A finished playable magical romance: 10 endings, Warm & Hot. Ashmere Collegium’s wards are singing wrong—Cassian Rook is assigned your handler, and a living key could remake the cliff or claim your throat.',
     available: true,
-    accentSrc: '/brand/cover-the-living-key-square.png',
-    coverSrc: '/brand/cover-the-living-key.png',
+    accentSrc: assetUrl('/brand/cover-the-living-key-square.png'),
+    coverSrc: assetUrl('/brand/cover-the-living-key.png'),
     coverAlt: 'The Living Key — Ashmere wards woodcut',
     hook: 'Ashmere Collegium. Cassian Rook. The wards are singing wrong.',
     pull: 'A living key. A dying ward-song. A choice that remakes the cliff.',
@@ -315,8 +323,8 @@ const CATALOG = [
     blurb:
       'A finished playable glass-tower romance: 10 endings, Warm & Hot. Across the hall from Nolan Greer’s Crownspire penthouse, you are the neighbor-mistress—and Detective Imani Brooks wants to know where Vivienne went. Wine, heat, and the softest alibi money can buy.',
     available: true,
-    accentSrc: '/brand/cover-the-soft-alibi-square.png',
-    coverSrc: '/brand/cover-the-soft-alibi.png',
+    accentSrc: assetUrl('/brand/cover-the-soft-alibi-square.png'),
+    coverSrc: assetUrl('/brand/cover-the-soft-alibi.png'),
     coverAlt: 'The Soft Alibi — Crownspire glass and missing-wife heat',
     hook: 'Crownspire glass. Nolan Greer across the hall. Brooks asking where Mrs. Greer went.',
     pull: 'Wine on marble. Unused perfume. The softest alibi money can buy.',
@@ -598,7 +606,7 @@ function renderLanding() {
         <div class="forge-strip-mark">
           <img
             class="forge-strip-logo"
-            src="/brand/logo-heart-anvil.png"
+            src="${assetUrl('/brand/logo-heart-anvil.png')}"
             alt=""
             width="40"
             height="40"
@@ -642,7 +650,7 @@ function renderLanding() {
             <div class="cover-mark">
               <img
                 class="cover-logo"
-                src="/brand/logo-heart-anvil.png"
+                src="${assetUrl('/brand/logo-heart-anvil.png')}"
                 alt=""
                 width="36"
                 height="36"
@@ -818,7 +826,7 @@ function renderReader() {
       ? '<span class="spice-chip hot" data-testid="spice-chip">Hot</span>'
       : '<span class="spice-chip warm" data-testid="spice-chip">Warm</span>';
 
-  const artSrc = getSceneArtPath(state.storyId || defaultStory.id, scene);
+  const artSrc = assetUrl(getSceneArtPath(state.storyId || defaultStory.id, scene));
   const artAlt = scene.title
     ? `Illustration: ${scene.title}`
     : `Illustration for ${scene.id}`;
@@ -842,7 +850,7 @@ function renderReader() {
         <div class="reader-brand">
           <img
             class="brand-logo tiny"
-            src="/brand/logo-heart-anvil.png"
+            src="${assetUrl('/brand/logo-heart-anvil.png')}"
             alt=""
             width="40"
             height="40"
