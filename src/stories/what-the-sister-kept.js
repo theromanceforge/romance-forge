@@ -1,6 +1,6 @@
 /**
  * What the Sister Kept — scene loader
- * Female protagonist (she/her). Romance: Jake Akers (male LI). Harborwick mystery.
+ * Female protagonist (she/her). Romance: William Akers (male LI). Harborwick mystery.
  */
 import { buildStoryScenes, compareScenes } from "./build.js";
 

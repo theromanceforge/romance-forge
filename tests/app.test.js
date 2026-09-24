@@ -46,7 +46,7 @@ describe('landing page content', () => {
     expect(src).toMatch(/data-testid="landing"/);
     expect(src).toMatch(/data-testid="story-cover"/);
     expect(src).toMatch(/data-testid="start-reading"/);
-    expect(src).toMatch(/Jake Shaw/);
+    expect(src).toMatch(/John Shaw/);
     expect(src).toMatch(/Somerton rain/);
     expect(src).not.toMatch(/Lainey/);
     expect(src).not.toMatch(/Who we are/);
@@ -631,10 +631,10 @@ describe('multi-story catalog — What the Sister Kept', () => {
     );
   });
 
-  it('landing copy references Harborwick / Jake Akers for Sister Kept', () => {
+  it('landing copy references Harborwick / William Akers for Sister Kept', () => {
     const src = loadMainSource();
     expect(src).toMatch(/Harborwick/);
-    expect(src).toMatch(/Jake Akers/);
+    expect(src).toMatch(/William Akers/);
     expect(src).toMatch(/cover-what-the-sister-kept\.png/);
   });
 

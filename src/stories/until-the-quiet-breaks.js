@@ -1,6 +1,6 @@
 /**
  * Until the Quiet Breaks — scene loader
- * Female protagonist (she/her). Romance: Jake Shaw (male LI).
+ * Female protagonist (she/her). Romance: John Shaw (male LI).
  */
 import { buildStoryScenes, compareScenes } from "./build.js";
 

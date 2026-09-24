@@ -253,11 +253,11 @@ describe('story sample — Until the Quiet Breaks', () => {
     expect(getScene(story, 'scene2b').title).toMatch(/Willow/i);
   });
 
-  it('features Jake Shaw as male LI (not Lainey)', () => {
+  it('features John Shaw as male LI (not Lainey)', () => {
     const blob = Object.values(story.scenes)
       .map((s) => [s.text, s.textHot || ''].join('\n'))
       .join('\n');
-    expect(blob).toMatch(/Jake Shaw|Jake/);
+    expect(blob).toMatch(/John Shaw|John/);
     expect(blob).not.toMatch(/Lainey/);
   });
 });
@@ -520,15 +520,15 @@ describe('story sample — What the Sister Kept', () => {
     expect(sister.scenes.scene1.art).toBe('/art/what-the-sister-kept/scene1.png');
   });
 
-  it('features Jake Akers (not Jake Shaw) and Harborwick', async () => {
+  it('features William Akers (not John Shaw) and Harborwick', async () => {
     const { getStory } = await import('../src/stories/index.js');
     const sister = getStory('what-the-sister-kept');
     const blob = Object.values(sister.scenes)
       .map((s) => [s.text, s.textHot || ''].join('\n'))
       .join('\n');
-    expect(blob).toMatch(/Jake Akers|Jake/);
+    expect(blob).toMatch(/William Akers|Will/);
     expect(blob).toMatch(/Harborwick/);
-    expect(blob).not.toMatch(/Jake Shaw/);
+    expect(blob).not.toMatch(/John Shaw/);
     expect(blob).not.toMatch(/Somerton/);
   });
 });

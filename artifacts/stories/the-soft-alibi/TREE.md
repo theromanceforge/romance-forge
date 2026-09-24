@@ -7,7 +7,7 @@
 
 Spice: Warm (`text`) + Hot (`textHot`); same choice IDs. LI: **Nolan Greer** (mid-40s, finance + tech holding). MC: `[player_name]` she/her (**early-30s**, across-the-hall neighbor-mistress). Pressure: **Detective Imani Brooks** (MP L1–4; homicide interest L5+). Fixer: **Marcus Pell**. Eyes: **Rhea Quinn**. Wife (absence engine): **Vivienne Greer**.
 
-**IP lock:** Original Crownspire only. Zero Quiet Breaks / Sister Kept / Living Key bleed (no diner, pier, wards, Collegium, Ashmere, Harborwick, Cassian, Jake Shaw).
+**IP lock:** Original Crownspire only. Zero Quiet Breaks / Sister Kept / Living Key bleed (no diner, pier, wards, Collegium, Ashmere, Harborwick, Cassian, John Shaw).
 
 **Ambiguity lock:** Vivienne’s fate (willing leave / paid vanish / dead / staging) stays contested through mid layers — all four remain L10-open. Cadence weekly → monthly → gone planted early. Hope/dread linger.
 

@@ -1,6 +1,6 @@
 # The Soft Alibi — Premise (**LOCKED** — title + slug locked 2026-09-24)
 
-> **AUTHOR NOTE (one paragraph):** Title *The Soft Alibi* is locked to avoid Until/Kept/Key title rhymes from prior Romance Forge books (*Until the Quiet Breaks*, *What the Sister Kept*, *The Living Key*). Soft here means *pliable evidence* — the mistress as the story police prefer when a wife thins to silence — not soft-pink AI romance. Literary grit, glass-tower dread, heat under interrogation. **LOCKED 2026-09-24:** title *The Soft Alibi* + slug `the-soft-alibi` (CEO Jake / Master). Original IP only: no meta-leaks (no Jake Shaw, Jake Akers, Cassian, Ashmere, Harborwick, Somerton, Unmade, Quiet Breaks diner, Sister Kept pier, Living Key wards).
+> **AUTHOR NOTE (one paragraph):** Title *The Soft Alibi* is locked to avoid Until/Kept/Key title rhymes from prior Romance Forge books (*Until the Quiet Breaks*, *What the Sister Kept*, *The Living Key*). Soft here means *pliable evidence* — the mistress as the story police prefer when a wife thins to silence — not soft-pink AI romance. Literary grit, glass-tower dread, heat under interrogation. **LOCKED 2026-09-24:** title *The Soft Alibi* + slug `the-soft-alibi` (CEO Jake / Master). Original IP only: no meta-leaks (no John Shaw, William Akers, Cassian, Ashmere, Harborwick, Somerton, Unmade, Quiet Breaks diner, Sister Kept pier, Living Key wards).
 
 **Title:** *The Soft Alibi* (**LOCKED** 2026-09-24)  
 **Slug:** `the-soft-alibi` (**LOCKED**)  
@@ -140,7 +140,7 @@ Word floors (prose): Layer 1 ~550; Layers 2–9 >1500; Layer 10 endings ~800–1
 | Sister Kept — cold-case missing sister / detective LI | Neighbor-mistress / billionaire LI / detective as pressure (not LI) |
 | Living Key — magical war / Collegium | Contemporary crime-romance; no magic |
 
-**IP lock (hard):** Original names, places, and plot only. No Jake Shaw, Jake Akers, Cassian Rook, Ashmere, Harborwick, Somerton, Unmade, Quiet Breaks cameos, Sister Kept pier charm, Living Key ward-song.
+**IP lock (hard):** Original names, places, and plot only. No John Shaw, William Akers, Cassian Rook, Ashmere, Harborwick, Somerton, Unmade, Quiet Breaks cameos, Sister Kept pier charm, Living Key ward-song.
 
 ---
 
