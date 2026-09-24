@@ -2,7 +2,137 @@ export default {
   id: "scene10d",
   layer: 10,
   title: "Stay Cold",
-  text: `At Crownspire, stay cold For [player_name], the unanswered shape of Vivienne's fate remains part of what she must live with.`,
-  textHot: `The glass and elevator chime hold the heat of stay cold [player_name] chooses what kind of truth can survive the night, even with desire still close to the skin.`,
+  text: `[player_name] kept the apartment. That was the first thing people didn't understand.
+
+Her sister called it masochism. Her therapist, more gently, called it a boundary with a view. Detective Imani Brooks, the last time they spoke on the phone, called it nothing at all—just let the silence sit on the line for a moment, the way she did when she was deciding whether a witness was brave or reckless, and then said, "Lock your door at night."
+
+She locked it. She stayed.
+
+Because it was hers. She had signed the lease before she ever met Nolan Greer, back when Crownspire was just a glass tower with good light and a doorman who remembered her name. She had chosen the paint. She had hung the mirror by the door that she now used every morning to check that her face gave nothing away. She was not going to be run out of her own life by twelve steps of carpet and a man she had decided, finally, not to love.
+
+So she lived across the hall from him without him.
+
+It was colder than she had expected. Not the apartment—the building ran warm, always—but the living. She learned his schedule by sound so she could avoid it: the private elevator at seven-forty, the door at seven-forty-one, his footsteps never pausing at hers anymore. She took the stairs down four flights some mornings just to miss the chime. In the lobby, Rhea Quinn slid her packages across the desk with a look that was almost pity and almost respect, and [player_name] said thank you and did not linger.
+
+In January, Brooks came in person.
+
+She sat on [player_name]'s couch with her coat still on and her notebook closed on her knee, and she did not pretend it was a social visit. "We found her passport," she said. "Locker at the private terminal. Behind a panel. Along with a phone that was switched off the night of the fourteenth and never switched back on."
+
+[player_name] held her mug in both hands so they wouldn't shake. "That doesn't mean—"
+
+"No. It doesn't mean anything, legally. People leave things. People stage things." Brooks's dark eyes were steady. "But in my experience, women who walk away from a marriage on their own take their passports with them."
+
+The word Brooks didn't say sat in the room between them, heavy and patient.
+
+"Why are you telling me?"
+
+"Because you still live across the hall from him," Brooks said. "And because I think you already knew it was colder than he told you. I think that's why you stopped."
+
+After she left, [player_name] went and stood at her own window for a long time. The city lay spread and glittering below, throwing its light up at the glass like an accusation it had been making for months. Across the hall, Nolan's penthouse was dark except for one room.
+
+The master bath.
+
+He had never packed it. She knew because she had been inside once more after she ended it—one terrible November night when he had asked her to come see, and she had gone, and stood in the doorway of that marble room where Vivienne's perfume still sat on the counter, full and untouched, the bottle dusted every week by a housekeeper under instructions. A shrine, or a stage set, or a man who could not bring himself to admit an ending. She had looked at it and understood that she would never know which, and that she could not lie down beside someone who kept a room like that without telling her why.
+
+"Tell me," she had said, that night. "Tell me what happened at the hangar."
+
+He had looked at her with his whole brutal, beautiful face and said, "I can't."
+
+Not *I don't know*. Not *nothing*. *I can't*.
+
+She had walked the twelve steps home, and she had not walked them back.
+
+Every Sunday since, around eleven, he knocked.
+
+Three measured taps. The same knock from the first night Brooks had come into the lobby, the knock she used to open for in anything or nothing. She never opened now. Sometimes he said her name through the door. Sometimes he said nothing, just stood there long enough that she could feel him on the other side of the wood like weather. Once, in February, he said, "I'd tell you if it would keep you. It wouldn't. It would only make you a witness." And then his footsteps went away.
+
+She had turned that over for weeks. It was the closest thing to a confession he had ever given, and it confessed nothing.
+
+Tonight was Sunday.
+
+She was reading on the couch with a blanket over her legs and a glass of wine leaving a ring on the side table, and at eleven exactly she heard the elevator stay silent and his door open and his footsteps cross the hall.
+
+Three taps.
+
+[player_name] set down her book. She went to the door. She did not look through the peephole; she didn't need to. She put her palm flat against the wood and felt, or imagined she felt, the warmth of his hand on the other side.
+
+"I'm not opening it," she said.
+
+"I know." His voice, low, close. "I just wanted you to know I'm still here."
+
+"That's the problem, Nolan."
+
+Silence. The long, patient silence of a man who had spent his life buying absence and could not buy this.
+
+Then, very quietly: "Ask me again."
+
+Her hand slid down to the deadbolt. The metal was cold. Her heart was not.
+
+"What happened at the hangar?"
+
+On the other side of the door, Nolan Greer drew a breath.`,
+  textHot: `[player_name] kept the apartment and lost the man, and her body never forgave her for the arithmetic.
+
+It still knew his schedule. Seven-forty, the private elevator. Seven-forty-one, his door. Footsteps that used to slow at hers and now didn't. She'd lie in bed listening with her thighs pressed together and her nipples tight under the sheet, furious at herself, furious at the ache. She had ended it. She had meant it. She was not going to be run out of her own lease by twelve steps of carpet. And still, every morning, the sound of his door went straight between her legs.
+
+She had asked him once, in November, standing in the doorway of his master bath where Vivienne's perfume sat full and dusted on the marble like a shrine: *Tell me what happened at the hangar.*
+
+He'd said, *I can't.*
+
+Not *I don't know*. *I can't*.
+
+So she'd walked home. And in January, Detective Imani Brooks sat on her couch with her coat still on and told her they'd found Vivienne's passport in a locker at the private terminal, behind a panel, with a phone switched off the night of the fourteenth and never switched on again. "Women who leave on their own take their passports," Brooks said, and didn't say the other word, and didn't need to.
+
+[player_name] slept with the lights on for a week after that. And she still wanted him. That was the part she couldn't forgive.
+
+In February she got caught in the elevator with him.
+
+Just the two of them, the doors sliding shut on the lobby, the car rising thirty floors in expensive silence. He stood at the back in a charcoal coat. She stood at the front and watched his reflection in the brass. His cufflinks. His hands. The way his eyes went down her body and came back up, slow, and she felt it like his palm dragging over her skin.
+
+"You look tired," he said.
+
+"Don't."
+
+"I'm not doing anything."
+
+"You're breathing."
+
+He was quiet for three floors. Then he stepped closer. Not touching. Just close enough that she felt the heat of him along her back, smelled rain and cedar and the particular warmth of his skin, and her body betrayed her instantly—wet, aching, her breath going shallow.
+
+"Tell me to stop," he said against her hair.
+
+She turned around. He was right there, his mouth an inch from hers, his eyes black. She could feel how hard he was without touching him; she could feel how badly he wanted it, and how badly she did, and she let it hang there, the almost, stretched so tight she was trembling.
+
+Then she put one hand flat on his chest and pushed him back.
+
+"No," she said.
+
+He went. Instantly. He stepped back to the brass rail and gripped it with both hands, jaw locked, breathing hard, and the look on his face was so naked with want that she almost took it back.
+
+She didn't. The doors opened on their floor. She walked the twelve steps home without looking back, locked her door, leaned against it, and slid her hand down the front of her jeans before she'd even taken her coat off.
+
+She was soaked. She came in less than a minute, standing up, her forehead against the door, biting her lip so hard she tasted copper—thinking of his breath on her neck, his hands on the brass instead of on her, the power of that single word and how it had cost him. She came again on the floor of her entryway, slower, angrier, her own fingers deep inside her, whispering his name to the wood like an accusation.
+
+Afterward she lay there with her heart hammering and understood what she had become. Not his cover. Not his soft alibi. The one person in Crownspire he could not buy, and could not have, and could not stop wanting.
+
+It felt like power. It felt like grief. Most nights it felt like both.
+
+Every Sunday at eleven he knocked. Three taps. She never opened.
+
+Tonight was Sunday. She was on the couch in a thin robe with wine and a book she wasn't reading when she heard his door, his footsteps, the three soft knocks. She rose and went to the door and pressed her palm flat to the wood, and her body lit up at the nearness of him like it always did.
+
+"I'm not opening it," she said.
+
+"I know." His voice was low, rough, close. "I just wanted you to know I'm still here."
+
+"That's the problem."
+
+A long silence. Then: "Ask me again."
+
+Her hand slid down to the deadbolt. The metal was cold. Her pulse was not.
+
+"What happened at the hangar?"
+
+On the other side of the door, Nolan Greer drew a breath.`,
   choices: []
 };
