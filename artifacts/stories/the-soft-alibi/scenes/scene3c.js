@@ -26,7 +26,7 @@ There it was—the soft alibi asked to harden into record.
 
 Brooks's pen paused. "Gone is a conclusion."
 
-"Gone is what the slate shows," [player_name] returned. "I don't know if she's in Milan, if she was paid to thin herself out, if she's—" She stopped before *dead*. Stopped before *staging*. Left the four fates open on purpose because honesty without certainty was still honesty. "I don't know which door she walked through. I know which marks stopped."
+"Gone is what the slate shows," [player_name] returned. "I don't know if she's in Milan, if she was paid to thin herself out, if she's—" She stopped before *dead*. Stopped before *staging*. "I don't know which door she walked through. I know which marks stopped."
 
 Rhea exhaled through her nose. Brooks closed the notepad halfway—not finished, only relocating the pressure. "I'd like to record a fuller interview. Soft room upstairs lounge, or formal at the precinct annex. Your choice of temperature. Cooperation earns you the softer chair. For now."
 
@@ -63,7 +63,7 @@ Brooks's pen paused. "Gone is a conclusion."
 
 Brooks half-closed the notepad. "Fuller interview. Soft lounge upstairs or formal annex. Cooperation earns the softer chair. For now."
 
-For now licked up [player_name]'s spine. She could pour the calendar into record and beg softness while mid-want still tangled with dread—or tip Rhea that guest-log raids were coming and keep one secret warm for the building, for Nolan, for the unfinished heat that made every cooperative word feel like a mouth on a badge.
+For now licked up [player_name]'s spine. She could pour the calendar into record and beg softness while want still tangled with dread—or tip Rhea that guest-log raids were coming and keep one secret warm for the building, for Nolan, for the unfinished heat that made every cooperative word feel like a mouth on a badge.
 
 Brooks waited. Rhea waited.`,
   choices: [

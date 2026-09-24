@@ -2,7 +2,7 @@ export default {
   id: "scene8j",
   layer: 8,
   title: "Made",
-  text: `Made meant [player_name]'s listening wire failed and Marcus Pell looked straight through Crownspire's hush into her face. Early thirties, across-the-hall neighbor—recorder dead, Nolan Greer's cufflinks clicking hard, Detective Imani Brooks's homicide interest rising without a body. Four fates open: willing leave, paid vanish, dead, staging. Being made did not force any of them.
+  text: `Made meant [player_name]'s listening wire failed and Marcus Pell looked straight through Crownspire's hush into her face. Early thirties, across-the-hall neighbor—recorder dead, Nolan Greer's cufflinks clicking hard, Detective Imani Brooks's homicide interest rising without a body. Being made did not force any of them.
 
 "You're burned," Pell said, almost gentle. "Soft alibi just became supervised silence or a louder fight. Soft also means the holding will offer a quiet deal before Brooks invents a sharper one." Wind sheer. Elevator chime. Unused perfume. Rhea Quinn's slate suddenly felt like a witness stand.
 
@@ -15,7 +15,7 @@ Across the hall. Black car. Wine rings. Hope and dread shared the hallway louder
 She catalogued the failed wire the way Brooks would: made, no forced fate, soft still claimed under heat. [player_name] felt Pell's eyes watching her mouth, and understood that being made had already changed which soft she could still swear.`,
   textHot: `Being made hit [player_name] as heat under exposure—Nolan Greer's hand locked at her waist while Marcus Pell's stare found her pulse and want refused to die. Early thirties, across-the-hall aching, cufflink click straight between her thighs like a filthy alarm. Vivienne's perfume as third heat. Soft alibi pulse; failing the wire made it hammer louder.
 
-"Burned," Pell said. Nolan's breath hot at her temple. Brooks without a corpse. Four fates open; her cunt clenched around exposure like unfinished confession.
+"Burned," Pell said. Nolan's breath hot at her temple. Brooks without a corpse.
 
 Nolan's thumb counted ribs. "Quiet deal—or hospital or lobby dawn with me. Both leave you wet. Neither boxes my wife."
 

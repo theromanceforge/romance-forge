@@ -15,7 +15,7 @@ Brooks almost smiled—not kind. "Then shield your billionaire from my politics 
 Nolan's cufflinks clicked. Soft alibi shrinking to a posture under lobby light.
 
 Lobby circle sandbagging confrontation stripped soft of its wine-dark glamour. Daylight on badge. Daylight on neighbor. Daylight on a billionaire's cufflinks. Brooks named tactics [player_name] had used and made them sound like charges warming in a pocket. Walking looked like camera innocence and detective flight. Shielding looked like complicity wearing affection. Neither settled Vivienne; both spent the last of easy soft. Pell's distance said counsel preferred she shield. [player_name] had to pick anyway.`,
-  textHot: `Sandbagging under Brooks's eyes made [player_name]'s skin feel litigated and touched. Soft alibi daylight. Early thirties. Lobby circle. Homicide tilt without corpse. Nolan at the edge—rain-money heat she could not cross to without becoming exhibit. Mid-want inappropriate and undeniable.
+  textHot: `Sandbagging under Brooks's eyes made [player_name]'s skin feel litigated and touched. Soft alibi daylight. Early thirties. Lobby circle. Homicide tilt without corpse. Nolan at the edge—rain-money heat she could not cross to without becoming exhibit. Want inappropriate and undeniable.
 
 Shield meant stepping into him in public as politics wearing desire. Walk meant leaving with her cunt still aching toward the man Brooks wanted her to sink. She chose under badge flash and wind sheer.
 

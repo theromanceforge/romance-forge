@@ -12,10 +12,10 @@ Elevator chime. Wind sheer through lobby glass. Black car. Hope. Soft interview 
 
 Watching relief was its own interrogation. [player_name] catalogued Nolan's posture the way Brooks catalogued soft answers—cufflink flash, voice product, Pell's hover as spare exit. Soft interview door framed rescue that could erase her agency even as it spared her. Across the hall had always been twelve steps; today it felt like a witness stand she was being lifted off without consent.
 
-Ash-forensics had whispered plane-desk messages. Marble printouts had whispered second addresses. Relief tried to whisper silence. She refused to let gratitude be the only verb left in her mouth.
+Ash-forensics had whispered plane-desk messages. Marble printouts had whispered second addresses. Relief tried to whisper silence.
 
 "I see what you're doing," she did not say aloud. She said it with her eyes toward Nolan and felt him receive the cost. Soft alibi could be shielded and still choose the next chase. Elevator chime. Wind sheer. Black car. Hope and dread shared the corridor like unfinished vows.`,
-  textHot: `Watching Nolan Greer relieve her made [player_name]'s body react like a jealous orgasm deferred—early thirties, soft alibi wet with gratitude and fury, mid-forties money spending protection while Brooks's colder paper waited without a corpse. Four fates open.
+  textHot: `Watching Nolan Greer relieve her made [player_name]'s body react like a jealous orgasm deferred—early thirties, soft alibi wet with gratitude and fury, mid-forties money spending protection while Brooks's colder paper waited without a corpse.
 
 She could chase plane-desk messages burning under ash—or second-address pressure—while thighs stayed tight from watching him claim her publicly as cover.
 
@@ -23,7 +23,7 @@ Jealous gratitude was a filthy heat. Watching him spend protection made her wet 
   choices: [
       {
           "id": "scene7k",
-          "text": "Chase plane-desk messages the ash path suggests",
+          "text": "Chase the plane-desk messages the ash points to",
           "textHot": "Chase plane-desk messages while watching him relieve you still has your pulse wet"
       },
       {

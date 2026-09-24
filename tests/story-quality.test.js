@@ -34,7 +34,7 @@ const ALLOW = [
 ];
 
 /** Stories whose cleanup has not landed yet (skipped by the hard checks). */
-const PENDING = new Set(['the-soft-alibi']);
+const PENDING = new Set([]);
 
 const stories = {};
 for (const id of STORY_IDS) stories[id] = await loadStoryScenes(ROOT, id);

@@ -2,7 +2,7 @@ export default {
   id: "scene7m",
   layer: 7,
   title: "Raid Consequence",
-  text: `Raid consequence arrived—hold the soft alibi or don't, while Crownspire's hangar and lobby learned [player_name]'s name in fluorescent consequence. Early thirties, across-the-hall neighbor-mistress. Nolan Greer mid-forties bruised by pressure if not by spectacle. Detective Imani Brooks's homicide interest rose without a corpse on the table. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Marcus Pell preferred controlled silence. Rhea Quinn's ash had pointed here.
+  text: `Raid consequence arrived—hold the soft alibi or don't, while Crownspire's hangar and lobby learned [player_name]'s name in fluorescent consequence. Early thirties, across-the-hall neighbor-mistress. Nolan Greer mid-forties bruised by pressure if not by spectacle. Detective Imani Brooks's homicide interest rose without a corpse on the table. Marcus Pell preferred controlled silence. Rhea Quinn's ash had pointed here.
 
 "Soft held keeps the board breathing. Soft dropped spends us into public storm. Neither settles Vivienne."
 
@@ -17,13 +17,13 @@ Crownspire held its hush unevenly now. City light as accusation. Soft alibi had 
   choices: [
       {
           "id": "scene8n",
-          "text": "Carry raid consequence into inquiry hearing",
-          "textHot": "Carry raid consequence into inquiry while unfinished heat still owns you"
+          "text": "Answer for the raid at the inquiry",
+          "textHot": "Answer for the raid with heat still unfinished"
       },
       {
           "id": "scene8o",
-          "text": "Drop into public storm — hide soft across the hall",
-          "textHot": "Drop into public storm while his mouth still unfinished on yours"
+          "text": "Hide across the hall while the story breaks",
+          "textHot": "Hide across the hall, his mouth still unfinished on yours"
       }
   ]
 };

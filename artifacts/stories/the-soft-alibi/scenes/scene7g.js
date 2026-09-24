@@ -2,7 +2,7 @@ export default {
   id: "scene7g",
   layer: 7,
   title: "Hangar Breach",
-  text: `Hangar breach with Nolan Greer smelled like fuel and unfinished soft—[player_name] early thirties across-the-hall ache stepping into cold metal where private-plane desks kept messages money preferred. Mid-forties finance and tech holding at her shoulder, cufflinks dull under hangar light. Detective Imani Brooks's homicide climb lived outside the fence for now. Vivienne's four fates flared: willing leave, paid vanish, dead, staging. Marcus Pell would call this a fire hazard. Rhea Quinn's ash had pointed here.
+  text: `Hangar breach with Nolan Greer smelled like fuel and unfinished soft—[player_name] early thirties across-the-hall ache stepping into cold metal where private-plane desks kept messages money preferred. Mid-forties finance and tech holding at her shoulder, cufflinks dull under hangar light. Detective Imani Brooks's homicide climb lived outside the fence for now. Marcus Pell would call this a fire hazard. Rhea Quinn's ash had pointed here.
 
 "Breach soft," Nolan said, brutal charm stripped to operational. "Catch the handler if the desk still has a pulse. Or risk being made—listening wire heat, soft recorder failing in the wrong ear. Neither settles my wife."
 
@@ -23,7 +23,7 @@ She catalogued the breach: door, desk, messages, no settled fate. Crownspire's h
       {
           "id": "scene8j",
           "text": "Risk being made — soft listening fails",
-          "textHot": "Risk being made while mid-want still owns your pulse in the hangar"
+          "textHot": "Risk being made in the hangar, pulse racing"
       }
   ]
 };

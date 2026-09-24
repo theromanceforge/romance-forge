@@ -2,7 +2,7 @@ export default {
   id: "scene6g",
   layer: 6,
   title: "Hangar Before Dawn",
-  text: `Hangar before dawn smelled like cold metal and black-car exhaust, Nolan Greer leading [player_name] through Crownspire money's private geography while Detective Imani Brooks still believed elevators were the only shafts that mattered. Soft alibi had left the hallway. Vivienne's unused perfume did not live here; jet fuel and hush did. Four fates remained open. Homicide interest rose without a body on any table.
+  text: `Hangar before dawn smelled like cold metal and black-car exhaust, Nolan Greer leading [player_name] through Crownspire money's private geography while Detective Imani Brooks still believed elevators were the only shafts that mattered. Soft alibi had left the hallway. Vivienne's unused perfume did not live here; jet fuel and hush did. Homicide interest rose without a body on any table.
 
 "Partial calendar truth brought us here," Nolan said, mid-forties, finance and tech holding, cufflinks dull in hangar light. Brutal charm thinned to focus. "Brooks wants last sightings. Pell wants this place never to exist on a slate. You wanted a lead that wasn't only soft neighbor theater."
 
@@ -34,7 +34,7 @@ Intimacy a held breath against metal.`,
       },
       {
           "id": "scene7a",
-          "text": "Carry silent-partner rhyme back into paper pressure",
+          "text": "Take the silent-partner rhyme back to the file",
           "textHot": "Carry silent-partner rhyme back while hangar cold still has your body tight for him"
       }
   ]

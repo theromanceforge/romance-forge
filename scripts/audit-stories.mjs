@@ -79,7 +79,7 @@ const AUDIT_ONLY = [
   /\bprompts?\b/i, /\bpremise\b/i, /\bspec\b/i, /\btextHot\b/, /\bunderplot\b/i, /\bscene's weather\b/i,
   /\bfilthy craft\b/i, /\bplot's engine\b/i, /\badvanced the plot\b/i, /\bthe plot (?:gets|paid)\b/i, /\bchapter where\b/i,
   /\bslow[- ]burn\b/i, /\btropes?\b/i, /\bfade[- ]to[- ]black\b/i, /\bon[- ]page\b/i, /\bword (?:count|minimum)s?\b/i,
-  /\bconsequence verbs?\b/i, /\bIP[- ]lock\b/i, /\bcanon\b/i,
+  /\bconsequence verbs?\b/i, /\bIP[- ]lock\b/i, /\bcanon\b/i, /\b(?:four|all) fates\b/i,
 ];
 const LEAK = [...META_TERMS, ...AUDIT_ONLY.filter((r) => !META_TERMS.some((m) => m.source === r.source))];
 const REVIEW = [

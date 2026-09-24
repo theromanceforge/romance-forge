@@ -2,7 +2,7 @@ export default {
   id: "scene7p",
   layer: 7,
   title: "Elevator-Bank Reunion",
-  text: `Elevator-bank reunion found them after hours in Crownspire's glass lobby—[player_name] early thirties soft alibi and Nolan Greer mid-forties finance-tech holding meeting where chimes lived and Brooks's badge had first rewritten the night. Chase ended in fluorescent hush. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Marcus Pell's shadow somewhere. Rhea Quinn's slate closed for the hour. Soft alibi had become reunion with teeth.
+  text: `Elevator-bank reunion found them after hours in Crownspire's glass lobby—[player_name] early thirties soft alibi and Nolan Greer mid-forties finance-tech holding meeting where chimes lived and Brooks's badge had first rewritten the night. Chase ended in fluorescent hush. Marcus Pell's shadow somewhere. Rhea Quinn's slate closed for the hour. Soft alibi had become reunion with teeth.
 
 "I chased the silence and you," Nolan said, cufflinks clicking once, brutal charm cracked open. "Soft still means pliable. Soft also means we choose holding-chain wire or burned night-truth before the lobby owns dawn."
 
@@ -15,7 +15,7 @@ Crownspire held its after-hours hush. Elevator chime trembled like a held breath
 
 "Holding-chain wire," he murmured against her mouth by the chime, thumb counting ribs, "or burn the night-truth while reunion still leaves you wet. Neither boxes my wife."
 
-Four fates open. Elevator chime through teeth and down into heat.`,
+Elevator chime through teeth and down into heat.`,
   choices: [
       {
           "id": "scene8i",

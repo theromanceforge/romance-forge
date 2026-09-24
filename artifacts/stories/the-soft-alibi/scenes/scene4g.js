@@ -17,11 +17,11 @@ Elevator chime. Brooks's reflection enlarging. [player_name] had the black-car n
 Wine-ring memory felt far; cufflink clicks felt near. Unused perfume felt like a breadcrumb behind glass. Soft alibi had become courier again—this time with destinations. Choosing hangar or holding badge would aim Brooks, Pell, and Nolan's brutal charm at different angles of the same absence.`,
   textHot: `Rhea's hidden drawer opened like a secret mouth. [player_name] leaned in—early thirties, stalling rewarded, pulse loud—and took black-car inventory while Brooks was busy: idles with Vivienne, idles without, on-foot corner exits, private hangar route twice last winter, and a half-heard finance-holding badge talk in the freight bay the last night Vivienne was marked present—silence as deliverable in Nolan's world.
 
-Cold hands. Hot dread. Four fates still open, roads under them now. "Why me?"
+Cold hands. Hot dread. "Why me?"
 
 "You stalled. Soft isn't free. Subpoena gets this later anyway. Neighbor courier first." Rhea's eyes flicked to [player_name]'s mouth. "Hangar talk hardens files. Holding-badge talk summons Pell. Carry like it might burn your across-hall nights."
 
-Elevator chime. Brooks returning. [player_name] aching with map and unfinished Nolan heat upstairs. Chase hangar—or chase holding badge—while mid-want and missing-persons shared her bloodstream.
+Elevator chime. Brooks returning. [player_name] aching with map and unfinished Nolan heat upstairs. Chase hangar—or chase holding badge—while want and missing-persons shared her bloodstream.
 
 She tucked the inventory behind her ribs beside wine-ring memory and perfume ghost. Choosing destination felt like choosing which unfinished desire to feed: the road out of Crownspire, or the badge inside Nolan's money.`,
   choices: [

@@ -2,7 +2,7 @@ export default {
   id: "scene7h",
   layer: 7,
   title: "Last Hour Reconstructed",
-  text: `Last hour reconstructed from perfume twin and packed bag refused to settle Vivienne—[player_name] early thirties soft alibi laying timeline on Crownspire marble while four fates contested every fold of clothing. Willing leave. Paid vanish. Dead. Staging. Detective Imani Brooks would call this gold. Marcus Pell would call it a fire. Nolan Greer—mid-forties, finance and tech holding—watched with cufflink stillness. Rhea Quinn's ash had twin stories now.
+  text: `Last hour reconstructed from perfume twin and packed bag refused to settle Vivienne. Willing leave. Paid vanish. Dead. Staging. Detective Imani Brooks would call this gold. Marcus Pell would call it a fire. Nolan Greer—mid-forties, finance and tech holding—watched with cufflink stillness. Rhea Quinn's ash had twin stories now.
 
 "You found unused perfume matching the master bath," Nolan said, brutal charm quiet. "A bag that should not still be packed. Soft reconstruction invents nothing. Soft also spends the hour into board pressure or quiet deal. Choose which mouth hears it."
 

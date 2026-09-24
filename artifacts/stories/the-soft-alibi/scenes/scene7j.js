@@ -2,7 +2,7 @@ export default {
   id: "scene7j",
   layer: 7,
   title: "Pell's Listening Wire",
-  text: `Detective Imani Brooks would call this gold or obstruction. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Rhea Quinn's ash had pointed toward fixer mouths. Soft alibi had become wire.
+  text: `Detective Imani Brooks would call this gold or obstruction. Rhea Quinn's ash had pointed toward fixer mouths. Soft alibi had become wire.
 
 "Traveling," Pell said, polishing the word until it reflected nothing. Finance holding shadow, NDA typeface in his smile. "Soft cooperation still serves everyone if you remember which doors stay closed."
 
@@ -17,7 +17,7 @@ Crownspire held its hush above glass. Soft alibi had stopped being only cover th
 
 "Risk being made," her pulse said, "or carry night-truth to Nolan after. Both leave you wet for the man who isn't in this office. Neither boxes Vivienne."
 
-Four fates open. Elevator chime in memory.`,
+Elevator chime in memory.`,
   choices: [
       {
           "id": "scene8j",

@@ -31,7 +31,7 @@ Nolan's smile returned wrong—polished, audible at the wrist. "I am watching yo
 
 Nolan crowded her to the glass—city light on her back, rain-money cologne in her lungs, his thigh a filthy suggestion she refused to finish soaking. "Raw gets recorded. Point of no return. You can still shove this under Pell's nose—let counsel smell your sandbag and renegotiate the drip with my mouth still hungry for yours. Or you walk the cadence to Brooks and let the recorder take you while I watch you choose law over the way you open for me on empty nights."
 
-Mid-want screamed. Vivienne's four fates stayed open doors pressing her ribs. Elevator chime trembled through the floor into her bones. Wine ring darkened on marble behind them like a mouthprint of older complicity.
+Elevator chime trembled through the floor into her bones. Wine ring darkened on marble behind them like a mouthprint of older complicity.
 
 "If Pell smells it, I stay money's tempo with your hands still possible," she whispered against his jaw. "If Brooks records it, I stop being only soft cover—and I may lose the right to finish this against your glass."
 

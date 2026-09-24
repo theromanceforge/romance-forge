@@ -65,7 +65,7 @@ Click under her thumb. "No body. Missing-persons grammar. Don't eroticize a char
 
 "She's capable of theater. Mercy. Rage-as-absence. I stop knowing her where money stops translating."
 
-Four fates open against [player_name]'s mouth like unfinished kisses. She released his wrist and stepped back because staying close made truth feel like foreplay. "I almost saw a bag. A long idle. Perfume opened and capped. I swallowed them to keep from becoming your accomplice before I knew the crime." Her voice shook with want she refused to spend. "No hands on me until the blanks stay blanks."
+She released his wrist and stepped back because staying close made truth feel like foreplay. "I almost saw a bag. A long idle. Perfume opened and capped. I swallowed them to keep from becoming your accomplice before I knew the crime." Her voice shook with want she refused to spend. "No hands on me until the blanks stay blanks."
 
 Nolan's gaze dropped to her mouth, tortured and bright. "Brooks hears blanks as guilt."
 
@@ -77,13 +77,13 @@ The vulgar honesty landed. His breath left him. "What do you want right now?"
 
 They took it to the hall. No marble cushion. No wine. Twelve steps of Crownspire carpet and recessed light. Nolan stopped close enough that she smelled cologne and ghost-perfume; far enough that her nipples tightening under silk was her own betrayal. Vivienne's name hung unfinished. Weekly-monthly-gone sat between their mouths like a third tongue.
 
-[player_name] had demanded the cadence. Now mid-want asked whether to lean into an unfinished hallway kiss—or refuse romance until black-car nights and unredacted travel sat naked while her body burned for a man she still did not trust.
+[player_name] had demanded the cadence. Now want asked whether to lean into an unfinished hallway kiss—or refuse romance until black-car nights and unredacted travel sat naked while her body burned for a man she still did not trust.
 
 She lifted her chin. His mouth hovered. City hush pressed the corridor walls. "If you kiss me before the rest," she said, almost against his lips, "I will hate how much I open anyway."
 
 "Then don't ask me to stand this close unless you want the hate," Nolan returned, cufflinks silent for once, hands fisted at his sides to keep from dragging her in. The elevator chimed. Brooks's badge waited below. Vivienne's fate stayed contested. [player_name]'s thighs ached with the choice.`,
   choices: [
-    { id: "scene4c", text: "Almost-kiss him in the hall — take heat with the cadence unfinished", textHot: "Almost-kiss him in the hall — take mid-want with Vivienne's name still between your mouths" },
+    { id: "scene4c", text: "Almost-kiss him in the hall — take heat with the cadence unfinished", textHot: "Almost-kiss him in the hall — take the heat with Vivienne's name still between your mouths" },
     { id: "scene4d", text: "Refuse the romance — demand the unredacted travel story and black-car nights", textHot: "Refuse his mouth — demand unredacted travel and black-car nights while you still ache" }
   ]
 };

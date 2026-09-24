@@ -2,7 +2,7 @@ export default {
   id: "scene7f",
   layer: 7,
   title: "Leaked Recording",
-  text: `Leaked recording moved toward a prosecutor and a holding board like smoke with a destination—[player_name]'s voice or Nolan Greer's, soft alibi half-caught, Marcus Pell's traveling language half-exposed. Detective Imani Brooks's homicide interest would treat the leak as gift or trap. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging.
+  text: `Leaked recording moved toward a prosecutor and a holding board like smoke with a destination—[player_name]'s voice or Nolan Greer's, soft alibi half-caught, Marcus Pell's traveling language half-exposed. Detective Imani Brooks's homicide interest would treat the leak as gift or trap.
 
 "Someone pressed send," Nolan said. Mid-forties, finance and tech holding, cufflinks clicking with the lie-tell even when the truth was mechanical. Brutal charm raw. "Soft still means we choose how the board hears us. Soft does not mean the recording stays private."
 
@@ -17,7 +17,7 @@ Crownspire held its hush. City light as accusation. Soft alibi had stopped being
 
 "Pell confesses," he murmured against her ear, thumb counting ribs, "or you wear the wire deeper into the chain. Both leave you wet. Neither boxes my wife."
 
-Four fates open. Elevator chime through teeth. Wine-ringed marble.`,
+Elevator chime through teeth. Wine-ringed marble.`,
   choices: [
       {
           "id": "scene8h",
@@ -27,7 +27,7 @@ Four fates open. Elevator chime through teeth. Wine-ringed marble.`,
       {
           "id": "scene8i",
           "text": "Wear the holding-chain wire deeper",
-          "textHot": "Wear the holding-chain wire while mid-want still owns your pulse"
+          "textHot": "Wear the holding-chain wire under silk"
       }
   ]
 };

@@ -6,7 +6,7 @@ export default {
 
 "Rhea burned what she thought would save the building," Nolan said, mid-forties, cufflinks dull. Brutal charm gone spare. "Ash still speaks. Plane-desk messages may live in what didn't fully burn. Or hangar breach may matter more than soot."
 
-[player_name]—early thirties, across the hall—catalogued greasy flakes and dread. Marcus Pell would call this controllable. Brooks would call it obstruction warming toward charges. Four fates open. Soft alibi smelled like smoke.
+[player_name]—early thirties, across the hall—catalogued greasy flakes and dread. Marcus Pell would call this controllable. Brooks would call it obstruction warming toward charges. Soft alibi smelled like smoke.
 
 Elevator freight chime. Black car. Wind sheer upstairs. Hope and dread shared the grate.
 
@@ -17,11 +17,11 @@ Brooks would smell obstruction. Pell would smell controllable narrative. Soft al
 "Ultimatum or hangar," Nolan said quietly. "Soft still chooses which fire next."
 
 Elevator freight. Black car. Wind sheer. Hope and dread shared the grate like co-authors in carbon.`,
-  textHot: `Four fates open. Brooks colder without corpse.
+  textHot: `Brooks colder without corpse.
 
 Cufflink tick. Thighs tight. She could face Brooks's ultimatum—or hangar breach—while unfinished ache hammered under silk.
 
-Ash on skin while his breath warmed her was intimacy Crownspire should not allow in service corridors. Soft alibi mid-want smoke-scented. She ached choosing Brooks steel or hangar cold while unfinished heat hammered.`,
+Ash on skin while his breath warmed her was intimacy Crownspire should not allow in service corridors. She ached choosing Brooks steel or hangar cold while unfinished heat hammered.`,
   choices: [
       {
           "id": "scene7e",

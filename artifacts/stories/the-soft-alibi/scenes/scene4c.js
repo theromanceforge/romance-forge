@@ -14,7 +14,7 @@ Nolan's cufflinks were quiet—rare enough to feel like sincerity or strategy. M
 
 He stepped in. Not touching. City hush. Wind at the corridor glass. His breath warmed her lip. "Almost is how people like us stay alive long enough to learn which face is real."
 
-She rose to him anyway—traitor body, honest ache—and their mouths met unfinished: pressure, heat, a sound swallowed soft, then the break before deepen. Cufflink tick as his hand braced the wall beside her head. Elevator chime far below like a warning fingertip. They froze mid-want, foreheads almost touching, Vivienne's absence the third skull in the kiss.
+She rose to him anyway—traitor body, honest ache—and their mouths met unfinished: pressure, heat, a sound swallowed soft, then the break before deepen. Cufflink tick as his hand braced the wall beside her head. Elevator chime far below like a warning fingertip. They froze, wanting, foreheads almost touching, Vivienne's absence the third skull in the kiss.
 
 "Brooks could step out of that elevator," [player_name] whispered.
 
@@ -33,7 +33,7 @@ Cufflinks quiet. Charm stripped to hunger. She kept her door at her shoulder bla
 
 He stepped in. Wind. Hush. Breath on her lip. "Almost keeps us alive long enough to learn the face."
 
-She rose anyway—traitor heat—and their mouths met unfinished: pressure, open soft sound, break before tongue. His hand braced the wall; cufflink ticked beside her ear like a metronome for guilt. Elevator chimed below. They froze mid-want, hips almost flush, kiss unconsummated on purpose and by alarm.
+She rose anyway—traitor heat—and their mouths met unfinished: pressure, open soft sound, break before tongue. His hand braced the wall; cufflink ticked beside her ear like a metronome for guilt. Elevator chimed below. They froze, wanting, hips almost flush, kiss unconsummated on purpose and by alarm.
 
 "Brooks could step out," she whispered into his mouth.
 

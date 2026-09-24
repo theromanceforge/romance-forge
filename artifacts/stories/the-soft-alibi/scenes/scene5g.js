@@ -25,13 +25,13 @@ Partial calendar truth was a blade with two dull edges: not enough for Brooks to
 
 "Partial is all you get," she whispered, chest brushing his. "No invented body. No settled fate. Cadence only—while my body still wants yours stupid."
 
-His hand hovered at her waist, heat without claim. "Stay at Brooks's door for the blowup—temper, no relief, soft interview dying with your nipples tight under interrogation light. Or chase Rhea's burned grate—ash on your fingers instead of me—while mid-want screams that evidence is a poor substitute for finishing this against your doorframe."
+His hand hovered at her waist, heat without claim. "Stay at Brooks's door for the blowup—temper, no relief, soft interview dying with your nipples tight under interrogation light. Or chase Rhea's burned grate—ash on your fingers instead of me—while want screams that evidence is a poor substitute for finishing this against your doorframe."
 
 Elevator chime. Perfume ghost. She ached.
 
 His hovering hand at her waist was a cruelty she leaned into. Blowup meant interrogation light on her flushed throat while he sat close enough to smell and not touch. Ash meant soot on her fingers she might later put in her mouth without thinking—filthy metaphor becoming literal taste. Partial calendar truth had made her wet and furious. She wanted to finish the hallway kiss and knew finishing belonged after consequence had a name. Vivienne's contested doors pressed her from one side; Brooks's temper from the other; Nolan's unfinished claim from the front. Choosing felt like picking which pressure got to leave a mark.
 
-She wanted to shove him against her door and make partial truth come out of his mouth between her legs—cadence as filthy catechism—and knew Brooks climbing the shaft made that fantasy into obstruction cosplay she refused to eroticize. The refusal itself aroused her in a bitter way: discipline as edging. Blowup light on her flushed cheeks. Ash on fingers she might later wrap around him.`,
+She wanted to shove him against her door and make partial truth come out of his mouth between her legs—cadence as filthy catechism. The refusal itself aroused her in a bitter way: discipline as edging. Blowup light on her flushed cheeks. Ash on fingers she might later wrap around him.`,
   choices: [
     { id: "scene6j", text: "Stay at Brooks's door for the blowup — no relief yet", textHot: "Stay at Brooks's door for the blowup — no relief yet while your body stays tight under interrogation light" },
     { id: "scene6k", text: "Trace the burned log ash from Rhea's grate", textHot: "Trace the burned log ash from Rhea's grate — ash on your fingers instead of him" }

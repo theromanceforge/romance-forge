@@ -16,7 +16,7 @@ His breath left him. Almost a flinch. Almost tenderness. "Then don't go in there
 
 "I already have," she said softly. "On other nights. That's part of what I'm not naming."
 
-Wine rings overlapped on the table until they looked like a Venn diagram of complicity. The private elevator chimed in the shaft. Crownspire wind sheer pressed the glass. Somewhere below, Rhea Quinn was choosing how much slate to surrender; somewhere in a car, Marcus Pell was almost certainly approaching with NDAs and the word *traveling* polished to a mirror. Brooks remained missing-persons—timeline, neighbor, calendar—not yet the colder file. Vivienne's four fates remained open doors behind every soft sentence [player_name] agreed to carry.
+Wine rings overlapped on the table until they looked like a Venn diagram of complicity. The private elevator chimed in the shaft. Crownspire wind sheer pressed the glass. Somewhere below, Rhea Quinn was choosing how much slate to surrender; somewhere in a car, Marcus Pell was almost certainly approaching with NDAs and the word *traveling* polished to a mirror. Brooks remained missing-persons—timeline, neighbor, calendar—not yet the colder file.
 
 Nolan kissed the corner of her mouth—seal, not consummation. "Stay through the interview window. Be across the hall when she knocks. Be here when she leaves. Soft alibi isn't a line. It's a posture."
 
@@ -39,9 +39,9 @@ He groaned—flinch and want. "Don't go in there tonight."
 
 "I already have," she breathed. "That's what I'm not naming while your mouth is on my pulse."
 
-Wine rings overlapped. Elevator chimed. Wind sheer. Brooks missing-persons below. Pell approaching. Four fates open. Nolan kissed the corner of her mouth hard enough to bruise soft—seal, claim, unfinished. "Stay through the window. Soft alibi is a posture. Wear it with me."
+Wine rings overlapped. Elevator chimed. Wind sheer. Brooks missing-persons below. Pell approaching. Nolan kissed the corner of her mouth hard enough to bruise soft—seal, claim, unfinished. "Stay through the window. Soft alibi is a posture. Wear it with me."
 
-[player_name] ached. Mid-want as loyalty. She could cooperate fully when the badge climbed—or drag him across the hall after for off-record honesty that might crack the seal while their bodies were still loud.
+[player_name] ached. Want as loyalty. She could cooperate fully when the badge climbed—or drag him across the hall after for off-record honesty that might crack the seal while their bodies were still loud.
 
 His forehead to hers, hips still flush, both of them breathing like runners. "Walk it with me and Pell waits. Flinch and Pell comes—and every touch after carries the bruise."
 

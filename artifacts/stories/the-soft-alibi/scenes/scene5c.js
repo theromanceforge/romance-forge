@@ -31,7 +31,7 @@ Across the hall, her apartment waited. Soft alibi had followed her here and put 
 
 Nolan's cufflinks clicked. His gaze dragged over [player_name]—early thirties, across-the-hall, nipples tight under silk from dread and interrupted want—as if Pell were furniture he intended to ignore with his hands later. "He brought a faucet. I brought you."
 
-She crossed her legs harder than manners required. Mid-want had nowhere clean to go. "I will not pick Vivienne's ending to pretty your faucet. Willing, paid, dead, staging—four doors stay open. Brooks can hunt colder paper. I drip presence, not a body."
+She crossed her legs harder than manners required. Want had nowhere clean to go. "I will not pick Vivienne's ending to pretty your faucet. Willing, paid, dead, staging—four doors stay open. Brooks can hunt colder paper. I drip presence, not a body."
 
 Pell's smile was a closed door. "Then drip. Or stop dripping bodies into the room entirely tonight—silence war, no intimacy, words only under my eye. Keep going and I will smell what you sandbag for him." A glance at Nolan. "Romance is not a privilege in a homicide-tilting file."
 
@@ -39,9 +39,9 @@ Nolan leaned close enough that rain-money cologne cut through Pell's paper-scent
 
 Wind sheer. Elevator chime. Wine ring. Soft as tempo. [player_name] ached around interrupted almost-kiss and legal sanding both. She had to choose whether controlled drip meant bodies off the table—or continued bleed until Pell's mild voice turned accusation and her want had nowhere left to hide.
 
-Pell's mild voice sanded her nipples harder than Nolan's nearness—anger and interrupted want making a single filthy current. She wanted to dismiss counsel with her mouth on Nolan's and knew that would hand Brooks a photograph of complicity wearing lipstick. Controlled drip was tempo and teasing both: truth doled out while her cunt kept score of every almost Nolan owed her from before Pell ruined the hour. Silence war would leave her cold and shaking. Continued drip would leave her useful and accused. Mid-want did not care which; consequence did.`,
+Pell's mild voice sanded her nipples harder than Nolan's nearness—anger and interrupted want making a single filthy current. She wanted to dismiss counsel with her mouth on Nolan's and knew that would hand Brooks a photograph of complicity wearing lipstick. Controlled drip was tempo and teasing both: truth doled out while her cunt kept score of every almost Nolan owed her from before Pell ruined the hour. Silence war would leave her cold and shaking. Continued drip would leave her useful and accused. Want did not care which; consequence did.`,
   choices: [
-    { id: "scene6d", text: "Refuse intimacy — fight the silence war only", textHot: "Refuse intimacy — fight the silence war only while your body still votes filthy for his hands" },
+    { id: "scene6d", text: "Refuse intimacy — fight the silence war only", textHot: "Refuse intimacy — fight the silence war only while your body still wants his hands" },
     { id: "scene6e", text: "Keep dripping until Pell smells the sandbag", textHot: "Keep dripping until Pell smells the sandbag — calibrated truth with his heat still unfinished under your skin" }
   ]
 };

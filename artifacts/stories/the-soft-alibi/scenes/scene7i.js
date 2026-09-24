@@ -2,7 +2,7 @@ export default {
   id: "scene7i",
   layer: 7,
   title: "Across the Hall",
-  text: `Across the hall meant twelve steps into Nolan Greer's inquiry shadow—[player_name] early thirties soft alibi visiting the penthouse while the holding reviewed his closeness to the neighbor-mistress. Mid-forties finance and tech holding, brutal charm under pressure. Detective Imani Brooks's homicide interest rose without a body. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Marcus Pell preferred silence. Rhea Quinn's slate had already paid ash.
+  text: `Across the hall meant twelve steps into Nolan Greer's inquiry shadow—[player_name] early thirties soft alibi visiting the penthouse while the holding reviewed his closeness to the neighbor-mistress. Mid-forties finance and tech holding, brutal charm under pressure. Detective Imani Brooks's homicide interest rose without a body. Marcus Pell preferred silence. Rhea Quinn's slate had already paid ash.
 
 "They are reviewing me for you," Nolan said, cufflinks clicking once. "Soft alibi became a conflict of interest with a pulse. Soft still keeps you from becoming Brooks's sharpest edge. Soft also means you choose whether quiet deal or Pell-bargain owns the next hour."
 

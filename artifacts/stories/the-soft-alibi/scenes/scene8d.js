@@ -2,7 +2,7 @@ export default {
   id: "scene8d",
   layer: 8,
   title: "Night Truth Burned",
-  text: `Night-truth burned meant [player_name] watched the gap she could have spoken become ash—mercy or cowardice, Crownspire would not decide for her. Early thirties, across-the-hall neighbor—she stood with Nolan Greer in the penthouse hush while paper curled and Detective Imani Brooks's homicide interest rose downstairs without a body. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging.
+  text: `Night-truth burned meant [player_name] watched the gap she could have spoken become ash—mercy or cowardice, Crownspire would not decide for her. Early thirties, across-the-hall neighbor—she stood with Nolan Greer in the penthouse hush while paper curled and Detective Imani Brooks's homicide interest rose downstairs without a body.
 
 "You burned what you saw," Nolan said, mid-forties holding, brutal charm, cufflinks clicking once then still. "Soft alibi keeps its throat. Soft also means Brooks may invent a sharper version if yours stays ash." Wind sheer. Elevator chime. Unused perfume from the master bath she should not know. Marcus Pell would call it traveling management. Rhea Quinn's slate still held thinning marks.
 

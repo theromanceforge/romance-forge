@@ -30,9 +30,9 @@ A house phone purred. Rhea's voice, careful: Brooks was requesting neighbor inte
 
 Nolan looked at [player_name]. "You can seal this with me—stay, be cover, let the soft alibi warm into something she can't peel off without looking cruel. Or you can call Pell yourself and lawyer the night before Brooks records a single soft word." A beat. "Calling Pell will feel like distrust. Staying will feel like becoming the story."
 
-Across the hall, her own door waited. Across the city, Vivienne's four fates waited uncollapsed. In the penthouse, unused perfume and overlapping wine rings and an elevator chime made the decision taste like complicity aged in oak.
+Across the hall, her own door waited. In the penthouse, unused perfume and overlapping wine rings and an elevator chime made the decision taste like complicity aged in oak.
 
-[player_name] understood protection was not innocence. Protection was a verb with heat in it. She had offered the soft alibi without naming what she saw. Now she had to decide whether to let Nolan seal that cover against her mouth—or invite Marcus Pell's silence between them before the badge climbed.
+[player_name] understood protection was not innocence. She had offered the soft alibi without naming what she saw. Now she had to decide whether to let Nolan seal that cover against her mouth—or invite Marcus Pell's silence between them before the badge climbed.
 
 She walked once to the corridor mouth and stopped short of the master bath, close enough to catch the perfume's ghost, far enough to pretend she had never stood at that sink on an empty night with Nolan's shirt around her shoulders. The bottle sat like a museum label for a person who might still be traveling, might still be bargaining, might still be breathing elsewhere, might still be writing this absence herself. [player_name] did not touch it. Touching would make the soft story remember her fingerprints.
 
@@ -45,7 +45,7 @@ Nolan Greer's cufflinks caught light as he moved in—mid-forties brutal charm, 
 
 He stopped close enough that wool brushed silk. [player_name]'s breath snagged. "She's missing-persons tonight," she whispered. "Weekly to monthly without giving her gone as a corpse. Soft map. Soft neighbor. Soft enough she stays downstairs."
 
-Ambiguity was the sheet they pulled over themselves: Vivienne willing, paid, dead, staging—unnamed, untouched, still erotic in the way unfinished danger always was. [player_name] would not pick a fate while his heat was this near; picking would turn mid-want into evidence.
+Ambiguity was the sheet they pulled over themselves: Vivienne willing, paid, dead, staging—unnamed, untouched, still erotic in the way unfinished danger always was. [player_name] would not pick a fate while his heat was this near; picking would turn want into evidence.
 
 "What did you see that you're refusing to name?" Nolan asked against her temple, not quite a kiss.
 
@@ -59,13 +59,13 @@ They practiced the story between almost-kisses—dates matched to elevator logs 
 
 House phone. Rhea's careful warning: Brooks wanted neighbor interviews before midnight. Nolan's forehead rested to hers. "Seal it with me—stay, be cover, let soft alibi warm until she can't peel you off without looking cruel." His hand slid an inch higher under her ribs. "Or call Pell and lawyer the night. Distrust with a retainer. Or heat with a story. Choose while I can still feel you choosing."
 
-Elevator chime in the shaft. Wine rings overlapping. Perfume waiting. [player_name]'s body ached toward sealing; her conscience ached toward counsel. Protection was a verb with his thumb under her breast and Brooks's badge flashing in memory. Soft either way. Soft, and burning.
+Elevator chime in the shaft. Wine rings overlapping. Perfume waiting. [player_name]'s body ached toward sealing; her conscience ached toward counsel. Soft either way. Soft, and burning.
 
 She walked him backward half a step until glass kissed his shoulders and city light made a jury of their reflection—her palms on his chest, his cufflinks cool under her wrists, mouths almost mating and refusing. "If I seal this," she whispered, "I become the woman who knew the calendar thinned and still opened her door."
 
 "You already are," Nolan returned, voice shredded soft. "I'm asking you to become the woman who says it like care instead of confession."
 
-Vivienne's four fates breathed between their lips. [player_name] kissed the corner of his mouth once—pledge and punishment—and left the rest unfinished so the choice could still hurt.`,
+[player_name] kissed the corner of his mouth once—pledge and punishment—and left the rest unfinished so the choice could still hurt.`,
   choices: [
     { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi with Nolan — stay as cover with his mouth still unfinished on yours" },
     { id: "scene4b", text: "Call Pell — lawyer the night before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }

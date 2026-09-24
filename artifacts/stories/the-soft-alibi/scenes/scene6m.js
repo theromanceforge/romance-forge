@@ -15,11 +15,11 @@ Raid maps made soft alibi look like a checkbox. [player_name] listened to Pell t
 Hangar raid with or against the fixer meant logistics wearing dread. Vivienne still four open doors. Brooks still climbing without a body. Soft still a variable: hold it through the raid, or go public enough that politics did what silence could not.
 
 Hope and dread shared the table.`,
-  textHot: `Raid planning left [player_name]'s body humming under professional language—early thirties wanting Nolan Greer's hands while Pell inventoried soft cover as asset. Mid-want inappropriate at a strategy table. Four fates open. Brooks without corpse.
+  textHot: `Raid planning left [player_name]'s body humming under professional language—early thirties wanting Nolan Greer's hands while Pell inventoried soft cover as asset. Want inappropriate at a strategy table. Brooks without corpse.
 
 She could choose inquiry closeness—or public-enough politics—while thighs stayed tight for the man whose cufflinks waited across glass.
 
-Strategy-table want was cruel—professional words over a private throb. Soft alibi mid-want while Pell planned made her feel litigated and touched without hands. She could walk inquiry as closeness with her body still voting Nolan—or go public enough while unfinished desire still cast a dirty ballot.`,
+Strategy-table want was cruel—professional words over a private throb. Want while Pell planned made her feel litigated and touched without hands. She could walk inquiry as closeness with her body still voting Nolan—or go public enough while unfinished desire still cast a dirty ballot.`,
   choices: [
       {
           "id": "scene7m",
@@ -29,7 +29,7 @@ Strategy-table want was cruel—professional words over a private throb. Soft al
       {
           "id": "scene7o",
           "text": "Go public enough to protect or burn him",
-          "textHot": "Go public enough to protect or burn him while unfinished want still votes dirty"
+          "textHot": "Go public enough to protect or burn him while want still pulls at you"
       }
   ]
 };

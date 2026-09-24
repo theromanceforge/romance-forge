@@ -2,7 +2,7 @@ export default {
   id: "scene6n",
   layer: 6,
   title: "Holding Badge Number",
-  text: `Holding badge number surfaced as internal shadow on Nolan Greer's board—someone inside finance-and-tech machinery watching the neighbor-mistress problem with stationery colder than lobby badges. [player_name] learned the number in a Crownspire office that smelled like paper and rain-money. Detective Imani Brooks was not the only pressure. Vivienne's four fates stayed open. Soft alibi had board-level enemies.
+  text: `Holding badge number surfaced as internal shadow on Nolan Greer's board—someone inside finance-and-tech machinery watching the neighbor-mistress problem with stationery colder than lobby badges. [player_name] learned the number in a Crownspire office that smelled like paper and rain-money. Detective Imani Brooks was not the only pressure. Soft alibi had board-level enemies.
 
 "Inquiry will name your closeness," Nolan said, mid-forties, cufflinks careful. Brutal charm braced. "Or we spend silent-partner file leverage before the badge number spends us."
 
@@ -12,8 +12,8 @@ Internal shadow on a holding board was quieter than Brooks and somehow colder. B
 
 Nolan framed the fork without softening it: accept inquiry on closeness, or weaponize silent-partner history before the number weaponized them. Marcus Pell preferred the file. Soft alibi preferred not to become a board slide.
 
-Vivienne contested. No corpse. Elevator far below. Black car. Wind sheer against office glass. Hope and dread on letterhead that did not care about wine rings or mid-want.`,
-  textHot: `Four fates open. Brooks and internal shadow both climbing without a corpse.
+Vivienne contested. No corpse. Elevator far below. Black car. Wind sheer against office glass. Hope and dread on letterhead that did not care about wine rings or want.`,
+  textHot: `Brooks and internal shadow both climbing without a corpse.
 
 Cufflink tick. Thighs tight. Inquiry or silent-partner spend—both left her unfinished for him. She trembled choosing which pressure got her next inch of air.
 

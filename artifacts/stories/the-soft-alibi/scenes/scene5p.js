@@ -13,7 +13,7 @@ She could turn back for the obstruction fight with Nolan—break open or break u
 Partial survival.
 
 Walking out rewrote the lobby circle into a stage she refused to finish performing on. Soft alibi as exit. Brooks reading flight. Pell reading liability. Rhea reading weather. Nolan reading loss he might still chase. Crownspire sidewalk wind sheer hit different at street level—less elegant, more honest. Turn-back obstruction fight offered romance interrupting law across twelve steps. Stay-gone Brooks blowup offered law interrupting romance without her body as soft buffer. Vivienne's open fates walked with her like a fourth pace.`,
-  textHot: `Walking out of the lobby circle left [player_name] wet with adrenaline and denied Nolan—soft alibi as flight, early thirties, thighs tight, Brooks's colder file biting her back without a corpse. Cufflink click as she passed him traveled filthy down her spine. Vivienne contested. Mid-want furious at geography.
+  textHot: `Walking out of the lobby circle left [player_name] wet with adrenaline and denied Nolan—soft alibi as flight, early thirties, thighs tight, Brooks's colder file biting her back without a corpse. Cufflink click as she passed him traveled filthy down her spine. Vivienne contested. Want furious at geography.
 
 Turn back meant obstruction fight across the hall—his silence at her throat, her mouth choosing break-open or break-up while climax tried to crash the quarrel. Stay gone meant Brooks blowup without relief and Nolan chasing, her body aching toward a pursuit she might punish him with. She chose unfinished on the wind-sheer sidewalk, black car watching like a held breath.
 

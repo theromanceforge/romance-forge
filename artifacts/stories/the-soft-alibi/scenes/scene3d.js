@@ -41,7 +41,7 @@ Brooks's badge flashed memory-bright. "One minute. Then slate and neighbor both 
 
 She stepped aside—watching. Rhea's shoulders dropped into conspiring posture. "You're stalling."
 
-"I'm surviving," [player_name] whispered. "Raw cadence makes me soft cover with a microphone. Slow the slate and maybe Pell arrives before my mouth becomes the affair's transcript." Mid-want and dread shared her bloodstream; stalling tasted like both.
+"I'm surviving," [player_name] whispered. "Raw cadence makes me soft cover with a microphone. Slow the slate and maybe Pell arrives before my mouth becomes the affair's transcript." Want and dread shared her bloodstream; stalling tasted like both.
 
 Rhea's eyes sharpened. "Slow how?"
 
@@ -57,7 +57,7 @@ Rhea blocked a camera with her body. "Idle nights weren't visit nights. Car wait
 
 Brooks's reflection enlarged. Minute dying. [player_name] could pull black-car inventory out of Rhea until hangars and holding badges spilled hot—or push until Rhea clammed and Brooks came for the neighbor door with harder hands and less soft grammar.
 
-Stalling had gotten her here: mid-want postponed, Vivienne's four fates still open, badge waiting, slate trembling under Rhea's fingers like a body about to confess.
+Stalling had gotten her here.
 
 Brooks turned back. "Time's up." The words brushed [player_name] like a command at the base of her spine. Rhea's fingers hovered. Nolan's unfinished heat waited upstairs. Choosing black-car truth or clam-up felt less like strategy than like deciding which kind of pressure she wanted on her skin next.`,
   choices: [

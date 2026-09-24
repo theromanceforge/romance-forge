@@ -77,13 +77,13 @@ Brooks arrived at the desk. Badge flash again, bright enough that [player_name] 
 
 Yet. The word brushed her like a warning fingertip.
 
-Rhea's hand hovered on the slate. [player_name]'s mouth was dry; her skin was not. She could walk the log toward Brooks—cooperate on gaps, let the detective's questions climb her like attention—become useful, named, recorded while her body still ached for the man upstairs whose cufflinks lied. Or she could stall—lean into Rhea's silence, buy an hour with black-car nights and withheld marks, keep the soft alibi pliable for Nolan a little longer while mid-want and dread shared her bloodstream.
+Rhea's hand hovered on the slate. [player_name]'s mouth was dry; her skin was not. She could walk the log toward Brooks—cooperate on gaps, let the detective's questions climb her like attention—become useful, named, recorded while her body still ached for the man upstairs whose cufflinks lied. Or she could stall—lean into Rhea's silence, buy an hour with black-car nights and withheld marks, keep the soft alibi pliable for Nolan a little longer while want and dread shared her bloodstream.
 
 Either path felt like opening a blouse for different hands. Law or building memory. Badge or slate. The elevator chimed behind her, late and silver, and the sound traveled straight down her spine into the choice.
 
 She remembered the first thinning night in her body: Vivienne's smaller bag, fading perfume, Nolan's knock arriving like a hand at the small of her back. [player_name] had opened in a silk slip and let empty calendar become permission. The affair had grown in those gaps until wanting him and erasing a wife lived in the same breath. Now Brooks's badge wanted that breath on record.
 
-[player_name]'s pulse jumped when Brooks's pen clicked. Rhea's slate gleamed. Above them Nolan waited with cufflinks and brutal charm and a private elevator that smelled like unfinished kisses. Cooperating would put [player_name]'s soft mouth near the law; stalling would keep it near him. Either way she was pliable. Either way mid-want made the pliable part feel like arousal instead of surrender—and that was the most dangerous softness of all.`,
+[player_name]'s pulse jumped when Brooks's pen clicked. Rhea's slate gleamed. Above them Nolan waited with cufflinks and brutal charm and a private elevator that smelled like unfinished kisses. Cooperating would put [player_name]'s soft mouth near the law; stalling would keep it near him. Either way she was pliable. Either way want made the pliable part feel like arousal instead of surrender—and that was the most dangerous softness of all.`,
   choices: [
     { id: "scene3c", text: "Walk Rhea's log toward Brooks — cooperate on the calendar gaps", textHot: "Walk Rhea's log toward Brooks — let the calendar gaps open you for the badge" },
     { id: "scene3d", text: "Stall the slate — buy Rhea's silence before the badge climbs", textHot: "Stall the slate — buy Rhea's silence with your pulse still racing for Nolan" }

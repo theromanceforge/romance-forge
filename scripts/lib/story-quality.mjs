@@ -85,7 +85,7 @@ export const META_TERMS = [
   /\b(?:was|stayed|had been|became) (?:the )?plot\b/i, /\bplot's engine\b/i, /\badvanced the plot\b/i, /\bthe plot (?:gets|paid)\b/i, /\bplot under the plot\b/i,
   /\b(?:other|this) branch(?:es)?\b/i, /\b(?:this|that) ending\b/i, /\bchapter where\b/i,
   /\bin the sentence\b/i, /\bslow[- ]burn\b/i, /\btropes?\b/i, /\bfade[- ]to[- ]black\b/i, /\bon[- ]page\b/i, /\bword (?:count|minimum)s?\b/i,
-  /\bIP[- ]lock\b/i, /\bcanon\b/i, /\bunfinished on purpose\b/i, /\bending on purpose\b/i, /\b(?:four|all) fates\b/i,
+  /\bIP[- ]lock\b/i, /\bcanon\b/i, /\bunfinished on purpose\b/i, /\bending on purpose\b/i,
   /\bheat advanced\b/i, /\bsoft-land(?:ed|s)? the scene\b/i, /\bhints? only\b/i,
   /\bspice nor\b/i, /\bneither spice\b/i, /\binto one hook\b/i, /\bas plot\b/i, /\bsex as trust\b/i, /\bmystery texture\b/i,
   /\beroticized corpse\b/i, /\b(?:hung|hangs|hanging) as (?:the )?hook\b/i, /\bhook craft\b/i, /\ba hook, not a landing\b/i,
@@ -111,6 +111,8 @@ export function endingNamePatterns(scenes) {
 }
 /** "verb" talk in narration = the choice-mechanics tic. Allowed inside dialogue. */
 export const VERB_RE = /\bverbs?\b/i;
+/** Terms flagged only in narration (a character may say them in dialogue). */
+export const NARRATION_TERMS = [VERB_RE, /\b(?:four|all) fates\b/i];
 
 /**
  * allow: [{ story?, text }] — explicit false-positive allowlist (sentence
@@ -129,7 +131,8 @@ export function findMetaHits(text, storyId = "", extra = [], allow = []) {
       const s2 = sentence.replace(/\[player_name\]/g, "");
       const m = META_TERMS.find((re) => re.test(s2)) || extra.find((re) => re.test(s2));
       if (m) { hits.push({ sentence, term: s2.match(m)[0], kind: "meta" }); continue; }
-      if (VERB_RE.test(narration)) hits.push({ sentence, term: narration.match(VERB_RE)[0], kind: "verb" });
+      const n = NARRATION_TERMS.find((re) => re.test(narration));
+      if (n) hits.push({ sentence, term: narration.match(n)[0], kind: "narration" });
     }
   }
   return hits;
@@ -140,7 +143,7 @@ export function findLabelMeta(label, storyId = "", extra = [], allow = []) {
   if (!label || allowed(storyId, label, allow)) return [];
   const s2 = label.replace(/\[player_name\]/g, "");
   const out = [...META_TERMS, ...extra].filter((re) => re.test(s2)).map((re) => s2.match(re)[0]);
-  if (VERB_RE.test(s2)) out.push(s2.match(VERB_RE)[0]);
+  for (const re of NARRATION_TERMS) if (re.test(s2)) out.push(s2.match(re)[0]);
   return out;
 }
 

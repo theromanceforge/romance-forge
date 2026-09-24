@@ -16,7 +16,7 @@ In the corridor after, Rhea caught [player_name]'s elbow—not gentle. "You just
 
 "The building is a trap," Rhea returned. "You live in it across from Greer. Soft alibis don't get to play courier without paying."
 
-Weekly-monthly-gone still sat in Brooks's notes. Four fates still open. [player_name] could spiral into guilt and let Brooks sense obstruction rising—or lean into sandbagging as strategy and accept the confrontation when the detective named it.
+Weekly-monthly-gone still sat in Brooks's notes. [player_name] could spiral into guilt and let Brooks sense obstruction rising—or lean into sandbagging as strategy and accept the confrontation when the detective named it.
 
 Wind sheer pressed corridor glass. Somewhere a black car idled without announcing whether Vivienne was in it. [player_name] tasted tip and betrayal mixed.`,
   textHot: `Tipping Rhea took nine seconds of Brooks-at-the-window and breath shaped like a covert touch: "Guest logs. Harder by morning. Decide tonight what can't be defended."
@@ -31,9 +31,9 @@ Corridor. Rhea's elbow grip. "Ash in my mouth. Burn and she smells you. Don't an
 
 "You live in the trap across from Greer," Rhea said. "Couriers pay."
 
-Cadence in notes. Four fates open. Guilt spiral careless—or sandbagging owned until Brooks named it on [player_name]'s skin.
+Cadence in notes. Guilt spiral careless—or sandbagging owned until Brooks named it on [player_name]'s skin.
 
-Elevator chime ran through her like aftershock. Mid-want for Nolan tangled with dread of Brooks until tipping felt sexual and sick—power spent in a whisper. Choosing spiral or owned obstruction would decide which heat found her first tonight.`,
+Elevator chime ran through her like aftershock. Want for Nolan tangled with dread of Brooks until tipping felt sexual and sick—power spent in a whisper. Choosing spiral or owned obstruction would decide which heat found her first tonight.`,
   choices: [
     { id: "scene5k", text: "Spiral on the tip — let guilt make Brooks sense obstruction", textHot: "Spiral on the tip — let guilt loud enough that Brooks senses you through your skin" },
     { id: "scene5l", text: "Own the sandbagging — meet Brooks's harder lean ready", textHot: "Own the sandbagging — meet Brooks's harder lean with your pulse still conspiratorial" }

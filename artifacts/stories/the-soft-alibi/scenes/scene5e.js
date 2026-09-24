@@ -8,7 +8,7 @@ export default {
 
 Nolan's cufflinks clicked against the wall near her ear. Brutal charm thinned to hunger. "Brooks is not only missing-persons in the questions she left with Rhea. Last sightings. Last known. Language that tilts colder without requiring a body on a table. Soft alibi heat will not outrun a file forever."
 
-Wind sheer pressed the corridor glass at the elevator bank. Rhea's slate downstairs held thinning marks—weekly to monthly to gone—while Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Hope and dread shared the hallway like neighbors who refused to move out. Marcus Pell's travel language aged wrong somewhere in a phone neither of them wanted to answer yet.
+Wind sheer pressed the corridor glass at the elevator bank. Rhea's slate downstairs held thinning marks—weekly to monthly to gone. Hope and dread shared the hallway like neighbors who refused to move out. Marcus Pell's travel language aged wrong somewhere in a phone neither of them wanted to answer yet.
 
 [player_name] tasted almost-kiss and law. "Rhea named a private hangar once in a sentence she pretended was weather. Black-car route beyond Crownspire's curb. I can chase that lead with you before dawn—together, dangerous, soft still possible. Or I chase it alone and find whatever perfume twin and packed bag the hangar is keeping while you stay here looking like a man who almost made me forget the calendar."
 
@@ -29,7 +29,7 @@ Across the hall, her own key waited cold in her palm. Soft alibi geography had a
 
 His cufflinks clicked. The tell traveled straight between her legs. "Brooks is tilting colder—last known, last sighting—homicide interest without a corpse. Soft will not outrun that file while your cunt is still voting for my mouth."
 
-Unused perfume ghosted from his penthouse crack across the hall. Vivienne's four fates pressed her ribs. Mid-want pooled shameless and precise. "Rhea named a private hangar like weather. I can chase it with you before dawn—your hands, my eyes, heat unfinished between us—or alone, perfume twin and packed bag waiting while you stay here looking like the almost that ruined me."
+Unused perfume ghosted from his penthouse crack across the hall. Want pooled shameless and precise. "Rhea named a private hangar like weather. I can chase it with you before dawn—your hands, my eyes, heat unfinished between us—or alone, perfume twin and packed bag waiting while you stay here looking like the almost that ruined me."
 
 Nolan's forehead to hers, hips almost answering. "Together I see what you see. Alone you name what I feared. Neither settles my wife. Both spend this kiss we are weaponizing as delay."
 
@@ -37,7 +37,7 @@ Elevator nearer. Badge geography climbing. She trembled, nipples tight, thighs w
 
 She could feel how unfinished the kiss had left her—lips parted, breath broken, cunt empty and insistent against the seam of her dress while law climbed the shaft in chimes. Hangar-with-him meant his hands translating fear into heat on the drive. Hangar-alone meant her fingers on perfume twin and packed bag without his mouth as alibi or distraction. Both were erotic in the wrong direction: evidence as edging. She hated Crownspire for teaching her that vocabulary. She hated how fluently her body spoke it.
 
-She rocked once against him without meaning to—doorframe kiss denied, hips answering anyway—and the friction drew a sound from her throat she hoped the elevator shaft swallowed. Together-before-dawn meant that sound continuing in a car with his hand on her thigh as navigation. Alone meant that sound trapped in her mouth while her fingers found perfume glass and zipper teeth on a bag that should have been gone. She wanted Nolan's cock as simple answer and knew simplicity had left Crownspire when Vivienne's slate went blank. Mid-want would have to hunt.`,
+She rocked once against him without meaning to—doorframe kiss denied, hips answering anyway—and the friction drew a sound from her throat she hoped the elevator shaft swallowed. Together-before-dawn meant that sound continuing in a car with his hand on her thigh as navigation. Alone meant that sound trapped in her mouth while her fingers found perfume glass and zipper teeth on a bag that should have been gone. She wanted Nolan's cock as simple answer and knew simplicity had left Crownspire when Vivienne's slate went blank. Want would have to hunt.`,
   choices: [
     { id: "scene6g", text: "Chase the hangar / black-car lead with Nolan before dawn", textHot: "Chase the hangar with Nolan before dawn — heat unfinished between you as the black-car route opens" },
     { id: "scene6h", text: "Chase the hangar alone — perfume twin and packed bag", textHot: "Chase the hangar alone — perfume twin and packed bag while your mouth still burns from the unfinished kiss" }

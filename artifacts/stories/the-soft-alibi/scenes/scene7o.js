@@ -2,7 +2,7 @@ export default {
   id: "scene7o",
   layer: 7,
   title: "Public Enough",
-  text: `Public enough meant [player_name] choosing how much soft to spend into Crownspire's noise—early thirties across-the-hall neighbor-mistress going visible enough to protect Nolan Greer or burn him. Mid-forties finance and tech holding watched with cufflink stillness. Detective Imani Brooks's homicide interest rose without a body. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging. Marcus Pell preferred quieter burns. Rhea Quinn's eyes saw everything. Soft alibi had become politics with a pulse.
+  text: `Public enough meant [player_name] choosing how much soft to spend into Crownspire's noise—early thirties across-the-hall neighbor-mistress going visible enough to protect Nolan Greer or burn him. Mid-forties finance and tech holding watched with cufflink stillness. Detective Imani Brooks's homicide interest rose without a body. Marcus Pell preferred quieter burns. Rhea Quinn's eyes saw everything. Soft alibi had become politics with a pulse.
 
 "Protect means you stand soft in public with my name still warm," Nolan said, brutal charm careful. "Burn means you stand soft in public with my name as fuel. Neither settles Vivienne."
 
@@ -17,13 +17,13 @@ Crownspire held its hush unevenly. City light as accusation. Soft alibi had fing
   choices: [
       {
           "id": "scene8m",
-          "text": "Go public enough into raid aftermath — protect or bruise",
-          "textHot": "Go public enough into raid aftermath while unfinished heat still owns you"
+          "text": "Stand in public after the raid — protect him or bruise him",
+          "textHot": "Stand in public after the raid, heat still unfinished"
       },
       {
           "id": "scene8o",
-          "text": "Go public enough into public storm — hide soft together",
-          "textHot": "Go public enough into storm while his mouth still unfinished on yours"
+          "text": "Hide together once the storm breaks",
+          "textHot": "Hide together, his mouth still unfinished on yours"
       }
   ]
 };

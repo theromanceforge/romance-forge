@@ -28,8 +28,8 @@ Nolan's hips brushed hers. "Both leave four doors open." Hangar fuel. Elevator c
       },
       {
           "id": "scene10f",
-          "text": "Bargain with Pell—seal parts, leave four fates open",
-          "textHot": "Bargain with Pell while mid-want still throbs against Nolan alone"
+          "text": "Bargain with Pell—seal parts of the file",
+          "textHot": "Bargain with Pell, pressed against Nolan"
       }
   ]
 };

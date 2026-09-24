@@ -19,7 +19,7 @@ Crownspire held its hush. Cufflink almost. Perfume ghost from across the hall. C
 
 "You kept the car, the bag, the perfume capped mid-exit from me," he murmured, mouth almost on the hinge of her jaw. Cufflink metal kissed her wrist when he caught her hand. "I found the gap. Soft alibi still leaves you wet for consequence. Choose—speak the night-truth into bed with me, or burn it while your cunt still aches around what you saw."
 
-Four fates open. No settled corpse. [player_name]'s thighs tightened as his thumb counted ribs.
+No settled corpse. [player_name]'s thighs tightened as his thumb counted ribs.
 
 She arched once, fine and furious. "If I speak it," she whispered, palm flat on his chest, "I become co-author of the hour I hid." A beat. "If I burn it, I wear mercy or cowardice with a private throb Brooks doesn't inventory yet."
 

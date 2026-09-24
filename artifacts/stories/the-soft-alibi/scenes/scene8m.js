@@ -2,7 +2,7 @@ export default {
   id: "scene8m",
   layer: 8,
   title: "Raid Aftermath",
-  text: `Raid aftermath meant [player_name] found Nolan Greer bruised lightly—hospital fluorescents or lobby dawn chase still choosing which door would own the morning. Early thirties, across-the-hall neighbor—Crownspire's hush cracked, Detective Imani Brooks's homicide interest rising without a settled body. Four fates open: willing leave, paid vanish, dead, staging. A bruise did not force any of them.
+  text: `Raid aftermath meant [player_name] found Nolan Greer bruised lightly—hospital fluorescents or lobby dawn chase still choosing which door would own the morning. Early thirties, across-the-hall neighbor—Crownspire's hush cracked, Detective Imani Brooks's homicide interest rising without a settled body. A bruise did not force any of them.
 
 "I'm fine," Nolan said, mid-forties holding under wrong lights, cufflinks dull, brutal charm thinned to metal honesty. "Soft alibi just inherited aftermath. Soft also means Pell will offer quieter roads and Brooks will offer colder ones." Wind sheer memory. Elevator chime. Unused perfume on her wrists from the bath she should not know. Marcus Pell already drafting. Rhea Quinn's slate suddenly looked like a timeline Brooks could love.
 
@@ -15,7 +15,7 @@ Across the hall waited like refuge. Black car. Wine rings memory. Hope and dread
 She catalogued raid aftermath the way Brooks would: Nolan bruised, no forced fate, soft still claimed. [player_name] felt the morning watching her mouth, and understood that aftermath had already changed which soft she could still swear.`,
   textHot: `Raid aftermath heat began with [player_name]'s palm on Nolan Greer's bruise while want refused to wait for hospital or lobby to decide. Early thirties, across-the-hall aching, mid-forties money under her hand, cufflink dullness somehow filthier than shine. Vivienne's perfume on her wrist as third heat. Soft alibi pulse; aftermath made it hammer between her thighs.
 
-"Fine," he murmured, and his mouth almost found hers. Rain-money cologne under antiseptic or lobby polish. Brooks without a corpse. Four fates open; her cunt clenched around the bruise like unfinished care.
+"Fine," he murmured, and his mouth almost found hers. Rain-money cologne under antiseptic or lobby polish. Brooks without a corpse.
 
 His thumb at her waist despite the hurt. "Hospital or lobby dawn—or glass dawn: leave or stay. Both leave you wet. Neither boxes my wife."
 

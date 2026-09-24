@@ -29,7 +29,7 @@ Nolan laughed once—brutal, humorless. "Tell her that when the badge asks if we
 Nolan's eyes said choosing Pell was choosing a bruise on whatever they were. Pell's eyes said choosing raw was choosing a file that grew teeth. Perfume waited unused. Elevator chimed again.
 
 Brooks's arrival was now a countdown Pell could measure in elevators. [player_name] tasted the cost of lawyered desire: Nolan half a room away, charm dulled to metal, cufflinks silent with anger instead of lies. Soft alibi had asked for armor and received a third person in the marriage of their secrecy. She had to pick drip or raw before the badge owned the doorway.`,
-  textHot: `Calling Marcus Pell put glass between [player_name]'s mouth and Nolan's, and she felt the temperature drop in her belly where mid-want had been living. Phone cold. Cufflinks still. Fixer's voice soft as expensive sheets and twice as binding.
+  textHot: `Calling Marcus Pell put glass between [player_name]'s mouth and Nolan's, and she felt the temperature drop in her belly where want had been living. Phone cold. Cufflinks still. Fixer's voice soft as expensive sheets and twice as binding.
 
 "No substantive answers. No invented travel. No neighbor map of empty nights on record. Twelve minutes. Drink water. Stop looking like you're about to confess with your hips."
 

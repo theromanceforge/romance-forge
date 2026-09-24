@@ -2,7 +2,7 @@ export default {
   id: "scene7a",
   layer: 7,
   title: "Silent-Partner File",
-  text: `Silent-partner file cooled on Nolan Greer's desk like a second wife made of paper—dates that rhymed with Vivienne's thinning visits, NDA stubs Marcus Pell would recognize by typeface, travel language that never quite named a destination. The locked drawer from the night before had become an open mouth. Detective Imani Brooks's homicide interest rose downstairs without a body. Four fates still open: willing leave, paid vanish, dead, staging.
+  text: `Silent-partner file cooled on Nolan Greer's desk like a second wife made of paper—dates that rhymed with Vivienne's thinning visits, NDA stubs Marcus Pell would recognize by typeface, travel language that never quite named a destination. The locked drawer from the night before had become an open mouth. Detective Imani Brooks's homicide interest rose downstairs without a body.
 
 "This is how absence used to be purchased," Nolan said. Mid-forties, finance and tech holding, brutal charm never clean-cut. His cufflinks clicked once—the tell that lived when Vivienne's name entered a room—and then went still. "Not proof she used it. Not proof she didn't. Soft alibi still keeps you from becoming Brooks's sharpest edge. Soft also means you stop pretending paper doesn't rhyme."
 
@@ -19,7 +19,7 @@ Crownspire held its hush. Cufflink stillness. Perfume. Badge rewriting lobby hus
 
 "Read what I open," he murmured against her ear. Rain-money cologne. Vivienne's unused perfume as third heat from the bath corridor. Marble under her knees of want even while she stood. Brooks's escalating file vibrated through Crownspire glass into her bloodstream without needing a corpse to make her nipples tight under silk.
 
-Inside the sheets: silent-partner method—not Vivienne settled, four fates still open, only proof that Nolan knew how to make someone gone in a way money preferred. [player_name]'s cunt clenched around the recognition.
+Inside the sheets: silent-partner method. [player_name]'s cunt clenched around the recognition.
 
 His hand settled at her waist, thumb counting ribs while she lifted pages. "Choose," he said, mouth almost on the hinge of her jaw. "Name the old absence method into the next pressure—or bargain with Pell while soft still fits your mouth. Both leave you wet with consequence. Neither puts my wife in a box."
 
@@ -27,9 +27,7 @@ She arched once, fine and furious, thighs tight, perfume-haunted. His hips brush
 
 "If I name it," she whispered, palm flat on his chest, heartbeat and lie ticking under wool, "I become co-author with your hands on me." A beat. "If I bargain with Pell, I wear your cover with quieter teeth and a private throb you don't inventory for Brooks."
 
-Nolan's mouth hovered. "Both keep you under my protection. Soft still stops you from becoming her sharpest edge." His thumb stroked; her breath snagged. "Choose which hunger gets the next inch of air."
-
-Elevator chime trembled through her teeth. Wind sheer. Wine-ringed marble. Black car somewhere curb-idle like a held breath. She trembled choosing while Vivienne stayed contested and homicide interest rose downstairs without naming a body.`,
+Nolan's mouth hovered. "Both keep you under my protection. Soft still stops you from becoming her sharpest edge." His thumb stroked; her breath snagged. "Choose which hunger gets the next inch of air."`,
   choices: [
       {
           "id": "scene8a",

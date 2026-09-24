@@ -2,7 +2,7 @@ export default {
   id: "scene7n",
   layer: 7,
   title: "Inquiry",
-  text: `Inquiry meant Nolan Greer under review for closeness to the neighbor-mistress—[player_name] early thirties soft alibi hearing her geography named as conflict while Crownspire's holding polished questions. Mid-forties finance and tech holding, cufflinks clicking with every Vivienne-adjacent sentence. Detective Imani Brooks's homicide interest sat in the room without needing a body. Four fates open: willing leave, paid vanish, dead, staging. Marcus Pell preferred sealed answers. Rhea Quinn's slate had already paid ash. Soft alibi had become exhibit A with a pulse.
+  text: `Inquiry meant Nolan Greer under review for closeness to the neighbor-mistress—[player_name] early thirties soft alibi hearing her geography named as conflict while Crownspire's holding polished questions. Mid-forties finance and tech holding, cufflinks clicking with every Vivienne-adjacent sentence. Detective Imani Brooks's homicide interest sat in the room without needing a body. Marcus Pell preferred sealed answers. Rhea Quinn's slate had already paid ash. Soft alibi had become exhibit A with a pulse.
 
 "Closeness across the hall," the review language said, polite as a blade. "Soft cooperation with the neighbor. Soft still means pliable. Soft also means the board asks whether love bought silence."
 

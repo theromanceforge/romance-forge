@@ -17,13 +17,13 @@ The recorder's red light had been small. The sentence it caught was not. [player
 Nolan would learn. Pell would smell wire. Rhea's slate would suddenly look like prophecy. Across the hall, [player_name]'s apartment waited with a door that could no longer pretend innocence was geography. Point of no return was not Vivienne settled; it was [player_name] spent into paper that remembered better than mercy.
 
 She stood in lobby light tasting copper and wine memory. Soft cooperation had become irreversible witness. Elevator chime. Wind sheer. Cufflink absence. Hope and dread shared the recording's aftertaste.`,
-  textHot: `Raw admission left [player_name]'s mouth wet with fear and her body wet with the wrong kind of want—Brooks's recorder still warm while Nolan Greer's absence ached like unfinished sex. Early thirties, soft alibi spent into a file climbing colder without a corpse. Four fates open.
+  textHot: `Raw admission left [player_name]'s mouth wet with fear and her body wet with the wrong kind of want—Brooks's recorder still warm while Nolan Greer's absence ached like unfinished sex. Early thirties, soft alibi spent into a file climbing colder without a corpse.
 
-She could chase want mid-pressure—break toward Nolan's mouth as if climax could renegotiate paper—or wear a listening wire into Pell's office with mid-want hammering under silk. Cufflink memory. Perfume ghost. Elevator chime through teeth. She trembled choosing which hunger got the next dangerous inch.
+She could chase want mid-pressure—break toward Nolan's mouth as if climax could renegotiate paper—or wear a listening wire into Pell's office with want hammering under silk. Cufflink memory. Perfume ghost. Elevator chime through teeth. She trembled choosing which hunger got the next dangerous inch.
 
-Admission heat was wrong and loud—fear in her mouth, want lower, Brooks's recorder still a third presence between her thighs and the exit. She wanted Nolan's hands to renegotiate what paper had taken. Soft alibi mid-want after raw speech felt like trying to climax her way out of a transcript. Wire into Pell meant performing spy with a pulse that still belonged to the billionaire she might be sinking.
+Admission heat was wrong and loud—fear in her mouth, want lower, Brooks's recorder still a third presence between her thighs and the exit. She wanted Nolan's hands to renegotiate what paper had taken. Want after raw speech felt like trying to climax her way out of a transcript. Wire into Pell meant performing spy with a pulse that still belonged to the billionaire she might be sinking.
 
-Four fates open. No corpse.`,
+No corpse.`,
   choices: [
       {
           "id": "scene7d",

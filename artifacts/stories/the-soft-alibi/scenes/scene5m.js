@@ -2,7 +2,7 @@ export default {
   id: "scene5m",
   layer: 5,
   title: "Private Hangar",
-  text: `Rhea named a private hangar and a black-car route beyond Crownspire's curb, and the naming moved [player_name]'s body into night air that did not smell like marble wine. Hangar lights made absence look industrial. Nolan Greer was either beside her or a missed call—depending which branch of fear she trusted. Detective Imani Brooks's homicide interest rose behind them in the city without requiring a corpse at the fence. Vivienne's unused perfume twin might wait inside; a bag that should not still be packed might wait; four fates still contested even if evidence thickened.
+  text: `Rhea named a private hangar and a black-car route beyond Crownspire's curb, and the naming moved [player_name]'s body into night air that did not smell like marble wine. Hangar lights made absence look industrial. Nolan Greer was either beside her or a missed call—depending which branch of fear she trusted. Detective Imani Brooks's homicide interest rose behind them in the city without requiring a corpse at the fence. Vivienne's unused perfume twin might wait inside; a bag that should not still be packed might wait.
 
 "This is not a body map," [player_name] told the dark, early thirties, soft alibi off its floor. "This is a route. Routes hold willing leave and paid vanish and death and staging with equal shelves."
 
@@ -12,7 +12,7 @@ She could record what the hangar suggested for Brooks—point of no return for a
 
 "Recording makes you a voice the holding cannot own," the night seemed to say in Brooks's cadence. "Walking makes you a gap. Soft alibis fear gaps until gaps become the only clean thing left."
 
-Private hangar air tasted like jet fuel and withheld itineraries. Rhea's naming had been accurate enough to hurt. Black-car route beyond curb made Crownspire's vertical hush look like a toy. [player_name] walked the fence line of what she could see without breaking into what would become tampering under Brooks's colder read. Recording hangar truth meant handing the detective industrial absence as exhibit—point of no return without claiming a corpse. Nolan's chase would become its own plot. Vivienne's shelves stayed equally stocked with four fates.`,
+Private hangar air tasted like jet fuel and withheld itineraries. Rhea's naming had been accurate enough to hurt. Black-car route beyond curb made Crownspire's vertical hush look like a toy. [player_name] walked the fence line of what she could see without breaking into what would become tampering under Brooks's colder read. Recording hangar truth meant handing the detective industrial absence as exhibit—point of no return without claiming a corpse. Nolan's chase would become its own plot.`,
   textHot: `Hangar dark made [player_name]'s fear taste like unfinished sex—adrenaline in the thighs, breath short, soft alibi stripped of marble. Early thirties. Black-car route humming under her skin. Vivienne contested on industrial shelves. Brooks rising without a corpse. Nolan's heat either present as hand at her back or absent as throb.
 
 Record for Brooks meant climax of consequence with her voice shaking into a colder file. Walk meant leaving wet with unspent heat and making him chase. She chose between becoming the holding's unownable voice and becoming the gap that hurt him clean.

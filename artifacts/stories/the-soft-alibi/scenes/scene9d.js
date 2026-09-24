@@ -2,7 +2,7 @@ export default {
   id: "scene9d",
   layer: 9,
   title: "Pell's Quiet Deal",
-  text: `Pell's quiet deal meant [player_name] sealed parts of Vivienne's file with Marcus Pell while Crownspire's holding chain preferred silence that still looked like cooperation. Early thirties, across-the-hall neighbor—she sat in conference hush with Nolan Greer watching from the glass wall like a second verdict while Detective Imani Brooks's homicide interest rose without a body. Four fates open: willing leave, paid vanish, dead, staging. Sealing parts did not force any of them.
+  text: `Pell's quiet deal meant [player_name] sealed parts of Vivienne's file with Marcus Pell while Crownspire's holding chain preferred silence that still looked like cooperation. Early thirties, across-the-hall neighbor—she sat in conference hush with Nolan Greer watching from the glass wall like a second verdict while Detective Imani Brooks's homicide interest rose without a body. Sealing parts did not force any of them.
 
 "Supervised silence," Pell said, traveling language polished into paperwork. "Not a corpse. Not a confession. Soft alibi stays pliable. Parts of Vivienne's calendar go into a drawer Brooks cannot open without a colder warrant. Soft still means evidence that bends."
 
@@ -13,15 +13,13 @@ She catalogued the seal the way Brooks would: NDAs, private-plane language, gaps
 "Brooks's reckoning spends you into public case with the badge," he said when Pell stepped out. "Pell bargained keeps costly truce and a half-open file. Neither locks Vivienne into one fate."
 
 Black car at the curb. Wine rings on marble. [player_name] felt the quiet deal fitting her mouth like expensive silk and understood that sealing parts with Pell would change which soft she could still claim.`,
-  textHot: `Pell's quiet deal hit [player_name] as heat under fluorescent hush—Nolan Greer watching through glass while Marcus Pell's paper cooled under her palms and mid-want throbbed between her thighs for the man she should not need while sealing a wife. Early thirties, across-the-hall aching, mid-forties money's gaze felt like a hand counting ribs. Soft alibi cooperation had a pulse; sealing it made the pulse dirtier.
+  textHot: `Pell's quiet deal hit [player_name] as heat under fluorescent hush—Nolan Greer watching through glass while Marcus Pell's paper cooled under her palms and want throbbed between her thighs for the man she should not need while sealing a wife. Early thirties, across-the-hall aching, mid-forties money's gaze felt like a hand counting ribs. Soft alibi cooperation had a pulse; sealing it made the pulse dirtier.
 
-"Sign soft," Pell said. Nolan's cufflink flash through the wall. Vivienne's perfume as third heat she carried in memory. Brooks's file vibrating downstairs without a corpse. Four fates open—willing, paid, dead, staging—and her cunt ached around unanswered questions.
+"Sign soft," Pell said. Nolan's cufflink flash through the wall. Vivienne's perfume as third heat she carried in memory. Brooks's file vibrating downstairs without a corpse.
 
 When Pell left, Nolan entered—thumb at her waist, rain-money cologne, mouth unfinished.
 
-"If I lead with Brooks," she whispered against his throat, "I spend soft into badge light with your heat still unfinished." A beat. "If I take Pell's bargain, I wear your cover with quieter teeth and a private throb."
-
-Nolan's hips brushed hers. Elevator chime. Wind sheer. Wine rings. Black car idle. She trembled choosing while Vivienne stayed contested and homicide interest rose without naming a body.`,
+"If I lead with Brooks," she whispered against his throat, "I spend soft into badge light with your heat still unfinished." A beat. "If I take Pell's bargain, I wear your cover with quieter teeth and a private throb."`,
   choices: [
       {
           "id": "scene10e",
@@ -31,7 +29,7 @@ Nolan's hips brushed hers. Elevator chime. Wind sheer. Wine rings. Black car idl
       {
           "id": "scene10f",
           "text": "Take Pell's bargain—costly truce, half-open file",
-          "textHot": "Take Pell's bargain while mid-want still throbs for Nolan alone"
+          "textHot": "Take Pell's bargain, still throbbing for Nolan"
       }
   ]
 };

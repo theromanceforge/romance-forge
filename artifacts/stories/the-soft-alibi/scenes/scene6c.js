@@ -2,7 +2,7 @@ export default {
   id: "scene6c",
   layer: 6,
   title: "Marble Printouts",
-  text: `Marble printouts of Vivienne's thinning calendar waited beside wine rings like Venn diagrams of complicity, and [player_name] learned what off-record night meant when intimacy and evidence shared the same stone. Nolan Greer's penthouse held Crownspire wind sheer against glass while Detective Imani Brooks hunted colder paper downstairs without a body. Four fates stayed open: willing leave, paid vanish, dead, staging. Soft alibi heat had earned a body posture; now the calendar earned daylight on marble.
+  text: `Marble printouts of Vivienne's thinning calendar waited beside wine rings like Venn diagrams of complicity, and [player_name] learned what off-record night meant when intimacy and evidence shared the same stone. Nolan Greer's penthouse held Crownspire wind sheer against glass while Detective Imani Brooks hunted colder paper downstairs without a body. Soft alibi heat had earned a body posture; now the calendar earned daylight on marble.
 
 "Off-record," Nolan said, mid-forties, finance and tech holding, cufflinks quiet for once. "Means Brooks does not get this hour. Means Pell does not draft it. Means you and I read what Rhea's slate already whispered—weekly to monthly to gone—and decide whether want returns after, or whether we hand Brooks an ultimatum shape she will use."
 
@@ -19,7 +19,7 @@ Elevator chime in the private shaft. Marcus Pell somewhere polishing traveling. 
 Across the hall, clearer conscience; here, printouts and pulse. Soft cooperation off-record had become a bed and a briefing at once.`,
   textHot: `Marble printouts under [player_name]'s palms while Nolan Greer's mouth almost found her throat made off-record night taste like ink and unfinished climax.
 
-"Read with me," he murmured, cufflink metal kissing her wrist as he braced over the stone. Brooks's colder file could wait one hour; Pell's drafts could wait; Rhea's slate had already sold the thinning marks. Four fates open. Homicide interest rising without a corpse. [player_name]'s nipples tight under silk for reasons that were not pure fear.
+"Read with me," he murmured, cufflink metal kissing her wrist as he braced over the stone. Brooks's colder file could wait one hour; Pell's drafts could wait; Rhea's slate had already sold the thinning marks. Homicide interest rising without a corpse. [player_name]'s nipples tight under silk for reasons that were not pure fear.
 
 His hand slid from printout edge to her waist, thumb counting ribs. "Want returns—or we harden toward Brooks's ultimatum while you're still wet from standing this close. Choose before I finish the almost-kiss."
 

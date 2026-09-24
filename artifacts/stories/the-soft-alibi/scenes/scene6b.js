@@ -2,7 +2,7 @@ export default {
   id: "scene6b",
   layer: 6,
   title: "Unnamed Night",
-  text: `Unnamed night stayed sealed even while [player_name] wore full cooperation like expensive silk she had not agreed to own. Crownspire's hallway between doors held the hush of two apartments that had learned each other's breath. Nolan Greer waited with cufflinks still, brutal charm tempered into patience that felt like a closing door. Detective Imani Brooks's colder paper rose somewhere below without a body. Vivienne's four fates—willing leave, paid vanish, dead, staging—remained open on purpose.
+  text: `Unnamed night stayed sealed even while [player_name] wore full cooperation like expensive silk she had not agreed to own. Crownspire's hallway between doors held the hush of two apartments that had learned each other's breath. Nolan Greer waited with cufflinks still, brutal charm tempered into patience that felt like a closing door. Detective Imani Brooks's colder paper rose somewhere below without a body.
 
 "You opened enough," Nolan said. Mid-forties, finance and tech holding. "You walked Brooks through dinners and empty nights that sounded ordinary. Soft kept you inside protection. Soft also leaves one night you will not name. I can hear the gap the way Rhea hears a slate mark missing."
 
@@ -23,7 +23,7 @@ She thought of marble printouts she had not yet seen, of hangars before dawn, of
 
 "I can hear the gap," Nolan murmured, cufflinks flashing once—a tell she felt low and filthy. "Soft cover with a private throb. Name it or aim me somewhere else before I invent the worst version to protect you."
 
-She hated how badly she wanted his invention and his mouth. Vivienne's unused perfume ghosted every inhale until mid-want tasted like complicity. Four fates open; Brooks climbing colder without a corpse; Marcus Pell's shadow in the elevator bank like a third almost-touch.
+She hated how badly she wanted his invention and his mouth. Vivienne's unused perfume ghosted every inhale until want tasted like complicity.
 
 His thumb found her hip through silk. "Keep the gap and I hunt it through your body language—or tip me toward a second address and trade that night for a map I can fuck through later. Both leave you unfinished. Neither puts my wife in a box."
 

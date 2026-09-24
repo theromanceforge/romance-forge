@@ -13,13 +13,13 @@ Brooks's eyes flicked between them. "Shields crack. When yours does, I will be h
 [player_name] tasted lobby air and unfinished want. Soft shield could refuse intimacy tonight—silence war as discipline—or hunt internal badge shadow while still standing between Nolan and the law.
 
 Soft shield public posture required [player_name] to speak cadence without offering endings, to stand between Nolan and Brooks without becoming a second detective or a second wife. Lobby light was unforgiving. Soft answers preferred by money sounded thinner each time Brooks refused traveling as liturgy. Silence war upstairs would discipline desire into strategy. Holding-badge chase behind the shield would smuggle investigation under loyalty. Both kept Vivienne contested. Both admitted homicide interest had changed the temperature of every across-the-hall knock.`,
-  textHot: `Soft shield in lobby light made [player_name]'s body a public instrument—early thirties, across-the-hall, nipples tight under silk because refusing Brooks meant standing so close to Nolan she could feel his heat without claiming it. Homicide tilt. No corpse. Vivienne contested. Mid-want screaming behind soft posture.
+  textHot: `Soft shield in lobby light made [player_name]'s body a public instrument—early thirties, across-the-hall, nipples tight under silk because refusing Brooks meant standing so close to Nolan she could feel his heat without claiming it. Homicide tilt. No corpse. Vivienne contested. Want screaming behind soft posture.
 
 Silence war upstairs meant denying his mouth while her cunt voted traitor. Holding-badge chase behind the shield meant politics as edging—number on her tongue, his eyes on her throat. She chose under badge flash, unfinished shield still warm.
 
-Standing as shield put her back nearly to his chest—heat without hug, public almost that soaked her in private. Refuse-his-mouth later would be edging as ethics. Badge-chase would be edging as plot. She held the posture until choosing cracked it.`,
+Standing as shield put her back nearly to his chest—heat without hug, public almost that soaked her in private. Refuse-his-mouth later would be edging as ethics. She held the posture until choosing cracked it.`,
   choices: [
-    { id: "scene6d", text: "Refuse his mouth — silence war while you stay soft shield", textHot: "Refuse his mouth — silence war while you stay soft shield and your body votes traitor" },
+    { id: "scene6d", text: "Refuse his mouth — silence war while you stay soft shield", textHot: "Refuse his mouth — silence war while you stay soft shield and your body betrays you" },
     { id: "scene6n", text: "Chase the holding-badge number behind the shield", textHot: "Chase the holding-badge number behind the shield — politics as edging with his eyes on your throat" }
   ]
 };

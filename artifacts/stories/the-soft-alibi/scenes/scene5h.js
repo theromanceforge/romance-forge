@@ -2,7 +2,7 @@ export default {
   id: "scene5h",
   layer: 5,
   title: "Soft Interview",
-  text: `Brooks's soft interview was soft only in the way Crownspire called expensive things gentle. Detective Imani Brooks sat across from [player_name] and Nolan Greer in a borrowed conference room off the lobby, badge face-up, recorder not yet red, homicide interest audible in questions that asked for last known alive without saying the word body. Vivienne's thinning calendar—weekly to monthly to gone—lay between them as printouts Rhea Quinn had reluctantly released. Unused perfume lived upstairs. Four fates stayed open.
+  text: `Brooks's soft interview was soft only in the way Crownspire called expensive things gentle. Detective Imani Brooks sat across from [player_name] and Nolan Greer in a borrowed conference room off the lobby, badge face-up, recorder not yet red, homicide interest audible in questions that asked for last known alive without saying the word body. Vivienne's thinning calendar—weekly to monthly to gone—lay between them as printouts Rhea Quinn had reluctantly released. Unused perfume lived upstairs.
 
 "Neighbor," Brooks said to [player_name], early-thirties assessment frank. "Across the hall. Soft answers preferred by money. I am past preferring. Travel is aging. Soft is thinning. I can still keep this interview from becoming a charge if someone in this room stops sanding."
 

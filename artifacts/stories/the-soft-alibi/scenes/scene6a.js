@@ -27,7 +27,7 @@ Crownspire held its hush. Cufflink stillness. Perfume. Badge rewriting lobby hus
 
 "Open what I open," he murmured against her ear. Rain-money cologne. Vivienne's unused perfume as third heat from the bath corridor. Marble under her knees of want even while she stood. Brooks's escalating file vibrated through Crownspire glass into her bloodstream without needing a corpse to make her nipples tight under silk.
 
-Inside the drawer: silent-partner paper that rhymed with purchased absence—not Vivienne settled, four fates still open, only proof that Nolan knew how to make someone gone in a way money preferred. [player_name]'s cunt clenched around the recognition.
+Inside the drawer: silent-partner paper that rhymed with purchased absence. [player_name]'s cunt clenched around the recognition.
 
 His hand settled at her waist, thumb counting ribs while she lifted sheets. "Choose," he said, mouth almost on the hinge of her jaw. "Carry the silent-partner file into the next pressure—or keep the gap in your story even after unlocking for me. Both leave you wet with consequence. Neither puts my wife in a box."
 
@@ -35,13 +35,11 @@ She arched once, fine and furious, thighs tight, perfume-haunted. Soft alibi had
 
 "If I take the file," she whispered, palm flat on his chest, heartbeat and lie ticking under wool, "I become co-author with your hands on me." A beat. "If I keep my unnamed night—the car, the bag, the perfume capped mid-exit—I wear your cover with a private throb you don't inventory."
 
-Nolan's mouth hovered. "Both keep you under my protection. Soft still stops you from becoming Brooks's sharpest edge." His thumb stroked; her breath snagged. "Choose which hunger gets the next inch of air."
-
-Elevator chime trembled through her teeth. Wind sheer. Wine-ringed marble. Black car somewhere curb-idle like a held breath. She trembled choosing while Vivienne stayed contested and homicide interest rose downstairs without naming a body.`,
+Nolan's mouth hovered. "Both keep you under my protection. Soft still stops you from becoming Brooks's sharpest edge." His thumb stroked; her breath snagged. "Choose which hunger gets the next inch of air."`,
   choices: [
       {
           "id": "scene7a",
-          "text": "Carry the silent-partner file into the next pressure",
+          "text": "Keep the silent-partner file and use it",
           "textHot": "Carry the silent-partner file while his thumb still counts your ribs"
       },
       {

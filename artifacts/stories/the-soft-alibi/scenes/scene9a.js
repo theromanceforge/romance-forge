@@ -15,7 +15,7 @@ She catalogued the cover the way Brooks would: neighbor across the hall, calenda
 Black car idled at the curb like a held breath. Wine rings on marble looked like Venn diagrams of complicity she was about to co-author out loud. [player_name] felt the soft alibi fitting her mouth like expensive silk and understood that standing fully as cover with Nolan at her back would change which silence she could still claim.`,
   textHot: `Standing as cover hit [player_name] as heat first—Nolan Greer's chest against her back, rain-money cologne and cufflink metal at her waist while Crownspire glass threw city light across bare thighs under silk. Early thirties, across-the-hall aching, she felt mid-forties money press close enough that his breath warmed the nape of her neck. Soft alibi had a pulse; wearing it publicly made the pulse louder between her legs.
 
-"Stand with me," he murmured against her ear. Vivienne's unused perfume as third heat from the bath corridor. Brooks's homicide interest vibrated through the shaft into her bloodstream without needing a corpse. Four fates still open—willing, paid, dead, staging—and her cunt clenched around the recognition that co-authoring cover would leave her wet with consequence either way.
+"Stand with me," he murmured against her ear. Vivienne's unused perfume as third heat from the bath corridor. Brooks's homicide interest vibrated through the shaft into her bloodstream without needing a corpse.
 
 His thumb counted ribs. Marble under her knees of want even while she stood.
 
@@ -26,7 +26,7 @@ Nolan's mouth hovered at her throat. "Both keep you under my protection." His hi
       {
           "id": "scene10a",
           "text": "Hold together under silence with Nolan at your back",
-          "textHot": "Keep him at your back under silence while mid-want still throbs"
+          "textHot": "Keep him at your back under silence, still aching"
       },
       {
           "id": "scene10i",

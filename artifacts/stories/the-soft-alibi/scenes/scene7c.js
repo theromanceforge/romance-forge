@@ -2,7 +2,7 @@ export default {
   id: "scene7c",
   layer: 7,
   title: "Second Address",
-  text: `Second address arrived at marble-dawn like a paper trail with manners—inland coordinates Rhea Quinn's burned log ash had half-named, Marcus Pell's traveling language had half-denied, and Detective Imani Brooks would call a search map if [player_name] widened it. Early thirties, across-the-hall soft alibi standing over printouts on Nolan Greer's wine-ringed marble. Crownspire's wind sheer threw city light as accusation. Vivienne's four fates flared without settling: willing leave, paid vanish, dead, staging.
+  text: `Second address arrived at marble-dawn like a paper trail with manners—inland coordinates Rhea Quinn's burned log ash had half-named, Marcus Pell's traveling language had half-denied, and Detective Imani Brooks would call a search map if [player_name] widened it. Early thirties, across-the-hall soft alibi standing over printouts on Nolan Greer's wine-ringed marble. Crownspire's wind sheer threw city light as accusation.
 
 "This is not a body," Nolan said. Mid-forties, finance and tech holding, cufflinks still for once. Brutal charm tired. "It is a second door inland. Soft still means we do not invent which fate walked through it. Soft also means you choose whether Crownspire stays the only name on the map."
 
@@ -19,7 +19,7 @@ Crownspire held its hush. Perfume from the master bath. Badge rewrite waiting in
 
 "Widen the map," he murmured against her ear, thumb counting ribs, "or speak the night-truth into bed before geography owns us. Both leave you wet. Neither puts my wife in a box."
 
-Four fates open. Her cunt clenched around unfinished choice. Cufflink flash low and filthy.
+Her cunt clenched around unfinished choice. Cufflink flash low and filthy.
 
 She arched, thighs tight. Elevator chime through teeth. Wine-ringed marble. Black car curb-idle.`,
   choices: [

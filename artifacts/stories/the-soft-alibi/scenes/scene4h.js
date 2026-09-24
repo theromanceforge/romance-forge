@@ -8,7 +8,7 @@ export default {
 
 Detective Imani Brooks heard the temperature change even from the alcove. Missing-persons posture sharpened. Badge flash—deliberate this time, for [player_name]. "If building staff won't help, the neighbor door becomes my lean. Across the hall from Greer. Access. Timeline. Soft alibi with harder questions."
 
-[player_name]'s stomach dropped. Early thirties. Stalling spent. Silence purchased and then broken by her own greed for black-car certainty. Nolan upstairs. Vivienne's perfume unused. Pell not yet present. Four fates still open and suddenly less protected by lobby craft.
+[player_name]'s stomach dropped. Early thirties. Stalling spent. Silence purchased and then broken by her own greed for black-car certainty. Nolan upstairs. Vivienne's perfume unused. Pell not yet present.
 
 Brooks stepped closer. "I can do this kindly in the lounge you already know—or I can do it at your door where elevator chimes and wine rings and whatever else you've got become part of the walkthrough. Your choreography ends when staff clams. Mine begins."
 
@@ -19,11 +19,11 @@ Rhea would not meet her eyes. Crownspire punished overreach with closed faces. [
 
 Brooks heard it. Badge flash deliberate, aimed at [player_name]'s sternum like a touch. "Staff silent means neighbor door. Across from Greer. Harder questions on the soft alibi."
 
-Stomach drop. Pulse jump. Early thirties, lobby craft failed, Nolan heat unfinished upstairs, perfume unused, four fates open and unprotected. Brooks closer: "Kindly in the lounge—or at your door where chimes and wine rings become walkthrough. Your choreography ended. Mine starts."
+Stomach drop. Pulse jump. Brooks closer: "Kindly in the lounge—or at your door where chimes and wine rings become walkthrough. Your choreography ended. Mine starts."
 
 Become soft shield under harder lean—body as buffer for Nolan—or walk out of the lobby circle aching, alone, letting Brooks chase without her skin as instrument.
 
-Rhea's refusal left [player_name] buzzing—shame and adrenaline and misplaced want for the man whose absence-engine had put her here. Choosing shield or exit felt like choosing whether mid-want got to stand in front of a badge or hide across the hall while the badge learned her door.`,
+Rhea's refusal left [player_name] buzzing—shame and adrenaline and misplaced want for the man whose absence-engine had put her here. Choosing shield or exit felt like choosing whether want got to stand in front of a badge or hide across the hall while the badge learned her door.`,
   choices: [
     { id: "scene5o", text: "Become the soft shield — stand between Brooks's harder lean and Nolan", textHot: "Become the soft shield — put your body between Brooks's harder lean and Nolan" },
     { id: "scene5p", text: "Walk out of the lobby circle — leave Brooks without your soft answers", textHot: "Walk out of the lobby circle — leave aching, let Brooks chase without your skin" }

@@ -2,7 +2,7 @@ export default {
   id: "scene6e",
   layer: 6,
   title: "Pell Smells Sandbagging",
-  text: `Marcus Pell smelled sandbagging the way Crownspire smelled money—before the words finished forming. Controlled drip had been [player_name]'s method: partial calendar truths, soft neighbor answers, Rhea Quinn tipped just enough to slow slate access without inventing a corpse. Detective Imani Brooks's homicide interest rose without a body. Vivienne's four fates stayed contested. Nolan Greer stood mid-forties with cufflinks patient and brutal charm carefully sheathed while his fixer inventoried the soft alibi for leaks.
+  text: `Marcus Pell smelled sandbagging the way Crownspire smelled money—before the words finished forming. Controlled drip had been [player_name]'s method: partial calendar truths, soft neighbor answers, Rhea Quinn tipped just enough to slow slate access without inventing a corpse. Detective Imani Brooks's homicide interest rose without a body. Nolan Greer stood mid-forties with cufflinks patient and brutal charm carefully sheathed while his fixer inventoried the soft alibi for leaks.
 
 "You are metering," Pell said in the penthouse glass hush. "Brooks can feel the sand in the bag. Holding boards hate sand. Reconstruct the last hour cleanly—or retreat across the hall and pretend geography is innocence."
 
@@ -21,15 +21,13 @@ She walked once past the wine ring, past the bath corridor's perfume ghost, back
 Nolan's cufflinks stayed still—rare mercy. "Both keep Brooks warmer. Neither invents a body. Soft still fits your mouth; Pell wants to know if it still fits his paperwork."
 
 Across the hall waited clearer conscience and colder sheets. Elevator chime. Black car. Wind sheer. Hope and dread shared the hour like co-authors who refused to sign.`,
-  textHot: `Pell's sandbagging accusation made [player_name]'s skin feel litigated while Nolan Greer's nearness kept her wet with unfinished loyalty. Controlled drip heat: early thirties aching, mid-forties money a room away, fixer voice turning soft alibi into a product under audit. Vivienne's perfume ghosted; Brooks's colder paper rose without a corpse; four fates open.
+  textHot: `Pell's sandbagging accusation made [player_name]'s skin feel litigated while Nolan Greer's nearness kept her wet with unfinished loyalty. Controlled drip heat: early thirties aching, mid-forties money a room away, fixer voice turning soft alibi into a product under audit. Vivienne's perfume ghosted; Brooks's colder paper rose without a corpse.
 
-Nolan's cufflink tick traveled her spine. "Reconstruct the last hour for him—or walk across the hall and keep your private throb out of his binder." His eyes promised later hands either way. Mid-want pooled. She clenched around the choice.
+Nolan's cufflink tick traveled her spine. "Reconstruct the last hour for him—or walk across the hall and keep your private throb out of his binder." His eyes promised later hands either way. She clenched around the choice.
 
 Elevator chime. Wind sheer. Black car. Soft alibi pulse between throat and cunt.
 
-She felt Pell's audit like hands that were not Nolan's and wanted Nolan's anyway. Reconstructing meant performing honesty with her cunt still aching toward the man across the room. Crossing the hall meant private throb with sidewalk distance as the only condom against becoming exhibit.
-
-Sex stayed not tonight's product for Pell.`,
+She felt Pell's audit like hands that were not Nolan's and wanted Nolan's anyway. Reconstructing meant performing honesty with her cunt still aching toward the man across the room. Crossing the hall meant private throb with sidewalk distance as the only condom against becoming exhibit.`,
   choices: [
       {
           "id": "scene7h",

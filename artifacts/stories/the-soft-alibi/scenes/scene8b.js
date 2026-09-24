@@ -2,7 +2,7 @@ export default {
   id: "scene8b",
   layer: 8,
   title: "Bargain with Pell",
-  text: `Bargain with Pell meant [player_name] carried silent-partner ink into private teeth instead of public glass. Early thirties, across-the-hall neighbor-mistress—she sat opposite Marcus Pell in a Crownspire conference hush while Nolan Greer watched from the glass wall like a second verdict. Detective Imani Brooks's homicide interest rose downstairs without a body. Vivienne's four fates stayed open: willing leave, paid vanish, dead, staging.
+  text: `Bargain with Pell meant [player_name] carried silent-partner ink into private teeth instead of public glass. Early thirties, across-the-hall neighbor-mistress—she sat opposite Marcus Pell in a Crownspire conference hush while Nolan Greer watched from the glass wall like a second verdict. Detective Imani Brooks's homicide interest rose downstairs without a body.
 
 Pell polished traveling until it reflected nothing. "Seal what you saw," he said, NDA stubs already warming under his cuff. "Spend soft into quieter teeth. The holding prefers silence that still looks like cooperation." Nolan's cufflinks clicked once when Vivienne's name entered the sentence, then stilled. Wind sheer pressed the glass. Elevator chime trembled. Rhea Quinn's slate downstairs still held thinning marks Brooks could subpoena colder.
 
@@ -15,7 +15,7 @@ Unused perfume breathed from a master bath she should not know. Across the hall,
 She catalogued the bargain the way Brooks would: private seal, partial thread, no forced ending. Hope and dread shared the hallway. Crownspire held its hush. [player_name] felt Pell's quiet deal watching her mouth, and understood that sealing soft would change which truth she could still claim aloud.`,
   textHot: `Bargaining with Pell began as heat under glass—[player_name] felt Nolan Greer's nearness from the wall like a hand at her waist even while Marcus Pell's NDA language tried to cool her pulse. Early thirties, across-the-hall aching, she sat with thighs tight and soft alibi cooperation humming low. Mid-forties money had rain-cologne memory on her skin from the night before. Vivienne's unused perfume still haunted every inhale as third heat.
 
-"Seal," Pell said. Nolan's cufflink tell flashed once in her peripheral vision and went straight between her thighs like a filthy metronome. Brooks's homicide interest vibrated through Crownspire without needing a corpse. Four fates open; her cunt clenched around the recognition that quieter teeth still left her wet.
+"Seal," Pell said. Nolan's cufflink tell flashed once in her peripheral vision and went straight between her thighs like a filthy metronome. Brooks's homicide interest vibrated through Crownspire without needing a corpse.
 
 "Both leave you unfinished. Neither boxes my wife."
 
@@ -32,7 +32,7 @@ Elevator chime trembled through her teeth. Wind sheer. Wine-ringed marble somewh
       },
       {
           "id": "scene9e",
-          "text": "Name one fate thread without locking the ending",
+          "text": "Name one thread of Vivienne's fate — no more",
           "textHot": "Name one fate thread wet with unfinished want"
       }
   ]

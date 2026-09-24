@@ -2,7 +2,7 @@ export default {
   id: "scene8i",
   layer: 8,
   title: "Holding-Chain Wire",
-  text: `Holding-chain wire meant [player_name] kept Pell's listening live long enough for Marcus Pell to incriminate the finance-and-tech chain that owned Crownspire's hush. Early thirties, across-the-hall neighbor—recorder aftertaste, Nolan Greer at her shoulder, Detective Imani Brooks's homicide interest rising without a body. Four fates open: willing leave, paid vanish, dead, staging. Wire success did not force any of them.
+  text: `Holding-chain wire meant [player_name] kept Pell's listening live long enough for Marcus Pell to incriminate the finance-and-tech chain that owned Crownspire's hush. Early thirties, across-the-hall neighbor—recorder aftertaste, Nolan Greer at her shoulder, Detective Imani Brooks's homicide interest rising without a body. Wire success did not force any of them.
 
 "He named the holding," Nolan said, mid-forties, cufflinks still for once. "Soft alibi just inherited boardroom teeth. Soft also means Rhea Quinn's slate and Vivienne's perfume never get to be the only witnesses." Elevator chime. Wind sheer. Unused perfume from the bath she should not know. Black car. Wine rings.
 
@@ -15,11 +15,9 @@ Hope and dread shared the hallway. Across the hall, colder sheets waited.
 She catalogued the wire the way Brooks would: holding named, no forced fate, soft still claimed. [player_name] felt Pell's incrimination watching her mouth, and understood that listening had already changed which soft she could still swear.`,
   textHot: `Holding-chain wire heat began with [player_name] trembling against Nolan Greer's chest while Pell's incrimination poured into her earpiece like filthy electricity. Early thirties, across-the-hall aching, mid-forties money holding her steady, cufflink metal at her spine. Vivienne's perfume as third heat. Soft alibi pulse; boardroom teeth made it hammer between her legs.
 
-"He named us," Nolan murmured against her hair. Rain-money cologne. Brooks without a corpse. Four fates open; her cunt clenched around every recorded syllable.
+"He named us," Nolan murmured against her hair. Rain-money cologne. Brooks without a corpse.
 
 His hand at her waist. "Name one fate thread—or stand as cover with me. Both leave you wet. Neither boxes my wife."
-
-She arched, thighs tight. His hips brushed; almost louder than the wire.
 
 "If I name one thread," she whispered, "I keep hunger and law both voting dirty." A beat. "If I stand as cover, I wear your back and unfinished heat while the holding burns."
 

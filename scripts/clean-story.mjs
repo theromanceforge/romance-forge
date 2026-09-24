@@ -23,7 +23,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  META_TERMS, VERB_RE, splitParagraphs, splitSentences, normWords, shingles, jaccard, wc,
+  META_TERMS, NARRATION_TERMS, splitParagraphs, splitSentences, normWords, shingles, jaccard, wc,
   repeatedPadding, loadStoryScenes, replaceSceneField, findMetaHits, endingNamePatterns,
 } from "./lib/story-quality.mjs";
 let EXTRA = [];
@@ -56,7 +56,9 @@ const SWAPS = [
   [/\bthe mid-want echo of\b/g, "the echo of"], [/\bthe mid-want echo\b/g, "the echo of want"], [/\bThe mid-want echo\b/g, "The echo of want"],
   [/\bmid-want echo(e[ds])?\b/g, "want echo$1"],
   [/\ba mid-want (pulse|ache|throb|hum|flush|heat)\b/g, "a $1 of want"],
-  [/\bmid-(?:refusal|pride|ruin|mercy)\b/g, (m) => m.slice(4)],
+  [/\bfroze mid-want\b/g, "froze, wanting"], [/\bmid-want denial\b/g, "denied want"],
+  [/\b[Ss]oft alibi mid-want\b/g, (m) => (m[0] === "S" ? "Want" : "want")],
+  [/\bmid-(?:refusal|pride|ruin|mercy|law)\b/g, (m) => m.slice(4)],
   [/\bMid-want(?! (?:endings?|exits?|craft|first|filed|locked)\b)/g, "Want"],
   [/\bmid-want(?! (?:endings?|exits?|craft|first|filed|locked)\b)/g, "want"],
   [/\s*in body-POV(?=[:,.;])/g, ""], [/\bbody-POV /g, ""], [/,?\s*body-POV loud\b/g, ""],
@@ -79,7 +81,7 @@ const KEEP = [
 function hasMeta(s, narration = s) {
   if (KEEP.some((k) => s.includes(k))) return false;
   const s2 = s.replace(/\[player_name\]/g, "");
-  return META_TERMS.some((re) => re.test(s2)) || EXTRA.some((re) => re.test(s2)) || VERB_RE.test(narration);
+  return META_TERMS.some((re) => re.test(s2)) || EXTRA.some((re) => re.test(s2)) || NARRATION_TERMS.some((re) => re.test(narration));
 }
 function narrationOf(s) {
   let inside = false, out = "";

@@ -17,7 +17,7 @@ Elevator chime. Black car curb. Concierge slate thinning. Brooks rewriting hush.
 
 "You want my mouth to end the war," she said, thighs tight, nipples tight under silk for reasons that were want and fury braided. "I want the war to prove I am not only your soft cover."
 
-His cufflinks clicked; the sound traveled low and filthy even without his hands. Vivienne's perfume ghosted. Brooks's colder paper rose without a corpse. Four fates open. Marcus Pell's recording risk and hangar breach waited as consequence doors while mid-want pooled unanswered.
+His cufflinks clicked; the sound traveled low and filthy even without his hands. Vivienne's perfume ghosted. Brooks's colder paper rose without a corpse. Marcus Pell's recording risk and hangar breach waited as consequence doors while want pooled unanswered.
 
 "Both leave you unfinished. Neither settles my wife."
 
@@ -25,7 +25,7 @@ Elevator chime through her teeth. Wind sheer. Marble wine rings like abandoned c
   choices: [
       {
           "id": "scene7f",
-          "text": "Risk the leaked-recording path toward harder paper",
+          "text": "Risk the recording leaking",
           "textHot": "Risk the leaked-recording path while your body still aches from refused touch"
       },
       {

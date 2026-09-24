@@ -2,7 +2,7 @@ export default {
   id: "scene6p",
   layer: 6,
   title: "She Walks",
-  text: `She walked—Crownspire lobby cameras catching [player_name] leave Detective Imani Brooks's circle and Nolan Greer's reach in one motion that looked like innocence and felt like flight. Soft alibi discarded mid-sentence. Early thirties, across the hall geography suddenly miles, Vivienne's four fates still open, homicide interest rising without a body. Marcus Pell swore softly. Rhea Quinn watched the slate as if walking could be logged.
+  text: `She walked—Crownspire lobby cameras catching [player_name] leave Detective Imani Brooks's circle and Nolan Greer's reach in one motion that looked like innocence and felt like flight. Soft alibi discarded mid-sentence. Marcus Pell swore softly. Rhea Quinn watched the slate as if walking could be logged.
 
 Nolan would have to chase both the silence and her. Cufflinks behind her clicked once—she heard it without turning. Brutal charm could not hold a woman who spent soft as sidewalk wind.
 
@@ -15,13 +15,13 @@ He would chase silence and her—both. That was the point. Vivienne's contested 
 Black car idle like a question. Elevator bank glowing behind glass. Hope and dread on pavement that did not care about cufflinks.
 
 Soft alibi had legs.`,
-  textHot: `Walking away left [player_name]'s body screaming mid-want toward Nolan Greer while her feet spent soft alibi on Crownspire stone—early thirties aching, dress wind-lifted, cunt still tight from the almost of his nearness she refused. Four fates open. Brooks watching.
+  textHot: `Walking away left [player_name]'s body screaming want toward Nolan Greer while her feet spent soft alibi on Crownspire stone—early thirties aching, dress wind-lifted, cunt still tight from the almost of his nearness she refused. Brooks watching.
 
 She could aim toward elevator-bank reunion—or keep the gap in her story as the only inventory chase would find—while unfinished climax hammered with every step. She trembled choosing which hunger got the next block of air.
 
-Every step was mid-want denial. Body screaming toward the man behind her; feet spending soft anyway. She could aim reunion heat—or keep the gap—while cunt still voted Nolan with every stride.
+Every step was denied want. Body screaming toward the man behind her; feet spending soft anyway. She could aim reunion heat—or keep the gap—while cunt still voted Nolan with every stride.
 
-Four fates open. Brooks watching.`,
+Brooks watching.`,
   choices: [
       {
           "id": "scene7p",

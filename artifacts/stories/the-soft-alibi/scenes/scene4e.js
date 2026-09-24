@@ -23,11 +23,11 @@ Outside the lounge glass, Crownspire continued selling hush. Inside, Brooks's pe
 
 Brooks wrote missing-persons clean. Badge on the table. "Audio next. Soft here or formal. Softness earned, not infinite."
 
-[player_name]'s thighs pressed together under the table—dread as body heat. Perfume ghost. Cufflink echo. Four fates open. Anonymity gone. "Please keep it soft. Calendar yes. Goodbye bags, ending fights, bodies—no. Ambiguity is the size of what I know, not a game."
+[player_name]'s thighs pressed together under the table—dread as body heat. Perfume ghost. Cufflink echo. Anonymity gone. "Please keep it soft. Calendar yes. Goodbye bags, ending fights, bodies—no. Ambiguity is the size of what I know, not a game."
 
 Brooks's gaze held. Elevator chime through the wall like a fingertip. "Soft means I record you and watch Rhea's slate instead of charging neighbor theater. Soft breaks if someone burns a page." Warning without warmth. "Choose inside soft: Rhea under watch while you stay useful—or flinch toward ash."
 
-Mid-want and law shared [player_name]'s skin. Beg softer path—or lean toward burned-log future with her pulse still loud from saying Nolan's empty nights into a record.
+Want and law shared [player_name]'s skin. Beg softer path—or lean toward burned-log future with her pulse still loud from saying Nolan's empty nights into a record.
 
 She could still feel wine-ring marble under phantom palms. Brooks waited for audio consent like a lover waiting for yes. Choosing Rhea-watched soft or ash-leaning break felt intimate in the worst way—consent under lights.`,
   choices: [
