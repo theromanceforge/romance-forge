@@ -279,6 +279,20 @@ const CATALOG = [
     chips: ['Ashmere', 'Cassian Rook', '10 endings'],
     badge: '10 endings · Warm & Hot / Magical romance',
   },
+  {
+    id: 'the-soft-alibi',
+    title: 'The Soft Alibi',
+    blurb:
+      'A finished playable glass-tower romance: 10 endings, Warm & Hot. Across the hall from Nolan Greer’s Crownspire penthouse, you are the neighbor-mistress—and Detective Imani Brooks wants to know where Vivienne went. Wine, heat, and the softest alibi money can buy.',
+    available: true,
+    accentSrc: '/brand/cover-the-soft-alibi-square.png',
+    coverSrc: '/brand/cover-the-soft-alibi.png',
+    coverAlt: 'The Soft Alibi — Crownspire glass and missing-wife heat',
+    hook: 'Crownspire glass. Nolan Greer across the hall. Brooks asking where Mrs. Greer went.',
+    pull: 'Wine on marble. Unused perfume. The softest alibi money can buy.',
+    chips: ['Crownspire', 'Nolan Greer', '10 endings'],
+    badge: '10 endings · Warm & Hot / Glass-tower mystery',
+  },
 ];
 
 function catalogEntry(storyId) {

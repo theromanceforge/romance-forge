@@ -18,7 +18,7 @@ Rhea hesitated—only a breath—then angled the guest slate so the lobby camera
 
 Rhea's mouth tightened. "I don't write *gone*. I write what arrives. What doesn't arrive writes itself."
 
-Behind them, lobby glass threw Detective Imani Brooks in reflection before the woman herself turned—badge already flashed once for the manager, dark coat, posture that said missing-persons without needing homicide's colder grammar. Not yet. Layers later for that escalation; tonight Brooks was still hunting a living schedule that had thinned into rumor.
+Behind them, lobby glass threw Detective Imani Brooks in reflection before the woman herself turned—badge already flashed once for the manager, dark coat, posture that said missing-persons without needing homicide's colder grammar. Not yet. Tonight Brooks was still hunting a living schedule that had thinned into rumor.
 
 [player_name] kept her face even. Hope and dread shared her ribs: Vivienne willing in Milan; Vivienne paid to vanish; Vivienne nowhere; Vivienne staging every blank for a reason that would make the soft alibi look like costume. All four doors open. Rhea's slate did not close any of them. It only proved the cadence.
 

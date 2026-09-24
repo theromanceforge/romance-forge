@@ -555,7 +555,7 @@ describe('reader UX momentum and endings', () => {
 
 
 describe('multi-story catalog — What the Sister Kept', () => {
-  it('CATALOG exposes Quiet Breaks + Sister Kept + Living Key playable', async () => {
+  it('CATALOG exposes Quiet Breaks + Sister Kept + Living Key + Soft Alibi playable', async () => {
     const { CATALOG } = await import('../src/main.js');
     const byId = Object.fromEntries(CATALOG.map((c) => [c.id, c]));
     expect(byId['until-the-quiet-breaks'].available).toBe(true);
@@ -564,6 +564,10 @@ describe('multi-story catalog — What the Sister Kept', () => {
     expect(byId['the-living-key'].title).toMatch(/Living Key/i);
     expect(byId['the-living-key'].badge).toMatch(/10 endings/i);
     expect(byId['the-living-key'].badge).not.toMatch(/Coming soon/i);
+    expect(byId['the-soft-alibi'].available).toBe(true);
+    expect(byId['the-soft-alibi'].title).toMatch(/Soft Alibi/i);
+    expect(byId['the-soft-alibi'].badge).toMatch(/10 endings/i);
+    expect(byId['the-soft-alibi'].badge).not.toMatch(/Coming soon/i);
     expect(Object.keys(byId)).not.toContain('what-the-circle-kept');
     expect(Object.keys(byId)).not.toContain('until-the-ward-breaks');
     expect(Object.keys(byId)).not.toContain('coming-soon-slot');
@@ -595,7 +599,7 @@ describe('multi-story catalog — What the Sister Kept', () => {
   it('Quiet Breaks still loads alongside Sister Kept', async () => {
     const { getStory, STORIES } = await import('../src/stories/index.js');
     expect(Object.keys(STORIES)).toEqual(
-      expect.arrayContaining(['until-the-quiet-breaks', 'what-the-sister-kept', 'the-living-key'])
+      expect.arrayContaining(['until-the-quiet-breaks', 'what-the-sister-kept', 'the-living-key', 'the-soft-alibi'])
     );
     const quiet = getStory('until-the-quiet-breaks');
     expect(Object.keys(quiet.scenes)).toHaveLength(97);
@@ -604,10 +608,40 @@ describe('multi-story catalog — What the Sister Kept', () => {
     );
   });
 
+  it('loads Soft Alibi with 97 scenes and scene1 start', async () => {
+    const { getStory } = await import('../src/stories/index.js');
+    const soft = getStory('the-soft-alibi');
+    expect(soft.id).toBe('the-soft-alibi');
+    expect(soft.title).toMatch(/Soft Alibi/i);
+    expect(soft.startSceneId).toBe('scene1');
+    expect(Object.keys(soft.scenes)).toHaveLength(97);
+    expect(soft.scenes.scene1).toBeTruthy();
+  });
+
+  it('resolves Soft Alibi art under /art/the-soft-alibi/…', async () => {
+    const { getStory } = await import('../src/stories/index.js');
+    const soft = getStory('the-soft-alibi');
+    const scene1 = getScene(soft, 'scene1');
+    expect(getSceneArtPath(soft.id, scene1)).toBe(
+      '/art/the-soft-alibi/scene1.png'
+    );
+    const scene5a = getScene(soft, 'scene5a');
+    expect(getSceneArtPath(soft.id, scene5a)).toBe(
+      '/art/the-soft-alibi/scene5a.png'
+    );
+  });
+
   it('landing copy references Harborwick / Jake Akers for Sister Kept', () => {
     const src = loadMainSource();
     expect(src).toMatch(/Harborwick/);
     expect(src).toMatch(/Jake Akers/);
     expect(src).toMatch(/cover-what-the-sister-kept\.png/);
+  });
+
+  it('landing copy references Crownspire / Nolan Greer for Soft Alibi', () => {
+    const src = loadMainSource();
+    expect(src).toMatch(/Crownspire/);
+    expect(src).toMatch(/Nolan Greer/);
+    expect(src).toMatch(/cover-the-soft-alibi\.png/);
   });
 });
