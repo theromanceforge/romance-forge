@@ -41,7 +41,12 @@ import { resumeSceneLabel } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
 import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
-import { bumpAdsStat } from './ads/stats.js';
+import {
+  bumpAdsStat,
+  getStoryAdsShown,
+  bumpStoryAdsShown,
+  resetStoryAdsShown,
+} from './ads/stats.js';
 import {
   getGuestReview,
   setGuestReview,
@@ -1100,6 +1105,11 @@ function bindEvents() {
         pending?.path?.length
           ? [...pending.path]
           : [current.startSceneId];
+      const storyIdForAds = state.storyId || defaultStory.id;
+      // Fresh start (not resume): new playthrough → reset mid/end ad budget.
+      if (!(pending?.sceneId && pending.path?.length)) {
+        resetStoryAdsShown(storyIdForAds);
+      }
       setState({
         view: 'reader',
         playerName: name,
@@ -1127,6 +1137,8 @@ function bindEvents() {
 
       const nextScene = getScene(storyNow, nextId);
       const adsCfg = getAdsConfig();
+      const storyIdForAds = state.storyId || defaultStory.id;
+      const adsShownThisStory = getStoryAdsShown(storyIdForAds);
       const gate = {
         adsEnabled: adsCfg.enabled,
         fromSceneId: fromId,
@@ -1137,6 +1149,7 @@ function bindEvents() {
         isStartScene: nextId === storyNow.startSceneId,
         isReplay: false,
         reason: 'between-scene',
+        adsShownThisStory,
       };
 
       const advance = () => {
@@ -1150,6 +1163,7 @@ function bindEvents() {
 
       if (shouldShowInterstitial(gate)) {
         state = { ...state, _transitioning: true };
+        bumpStoryAdsShown(storyIdForAds);
         showInterstitial({ config: adsCfg, reason: 'between-scene' })
           .then(() => {
             state = { ...state, _transitioning: false };
@@ -1185,15 +1199,44 @@ function bindEvents() {
       maybeOfferSavePrompt('exit');
       persistGuestProgress();
       const showPrompt = state.savePromptVisible;
-      setState({
-        view: 'landing',
-        playerName: '',
-        sceneId: activeStory().startSceneId,
-        previousSceneId: '',
-        path: [],
-        savePromptVisible: showPrompt,
-        // keep spice + storyId so restart is frictionless
-      });
+      const goLanding = () => {
+        setState({
+          view: 'landing',
+          playerName: '',
+          sceneId: activeStory().startSceneId,
+          previousSceneId: '',
+          path: [],
+          savePromptVisible: showPrompt,
+          // keep spice + storyId so restart is frictionless
+        });
+      };
+
+      // End-slot interstitial: soft post-play before return to landing.
+      const adsCfg = getAdsConfig();
+      const storyIdForAds = state.storyId || defaultStory.id;
+      const postGate = {
+        adsEnabled: adsCfg.enabled,
+        reason: 'post-play',
+        adsShownThisStory: getStoryAdsShown(storyIdForAds),
+        isAuthFlow: Boolean(state.authModalOpen),
+        isReplay: false,
+      };
+      if (shouldShowInterstitial(postGate)) {
+        state = { ...state, _transitioning: true };
+        bumpStoryAdsShown(storyIdForAds);
+        showInterstitial({ config: adsCfg, reason: 'post-play' })
+          .then(() => {
+            state = { ...state, _transitioning: false };
+            goLanding();
+          })
+          .catch(() => {
+            state = { ...state, _transitioning: false };
+            goLanding();
+          });
+        return;
+      }
+
+      goLanding();
     });
   });
 
@@ -1242,7 +1285,9 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="start-fresh"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      clearGuestSave(state.storyId || defaultStory.id);
+      const storyId = state.storyId || defaultStory.id;
+      clearGuestSave(storyId);
+      resetStoryAdsShown(storyId);
       setState({ _pendingResume: false });
     });
   });

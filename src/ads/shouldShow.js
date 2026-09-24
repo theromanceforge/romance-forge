@@ -1,8 +1,10 @@
 /**
  * Gate for between-scene interstitial — pure, unit-tested matrix.
  *
+ * Cap: max 2 interstitials per story session (mid + end).
  * Never show: ads off, auth/save flows, first scene of session, L10 endings.
- * Safe: mid-path choice → before next non-ending scene.
+ * Mid: between-scene once pathLength >= 5 and none shown yet.
+ * End: post-play return to landing (when under cap).
  */
 
 /**
@@ -16,6 +18,7 @@
  *   isStartScene?: boolean,
  *   isReplay?: boolean,
  *   reason?: 'between-scene' | 'post-play' | 'between-layer',
+ *   adsShownThisStory?: number,
  * }} opts
  * @returns {boolean}
  */
@@ -30,29 +33,38 @@ export function shouldShowInterstitial(opts = {}) {
     isStartScene = false,
     isReplay = false,
     reason = 'between-scene',
+    adsShownThisStory = 0,
   } = opts;
 
   if (!adsEnabled) return false;
   if (isAuthFlow) return false;
   if (isReplay) return false;
 
-  // Post-play return to landing — allowed soft placement (no scene destination).
+  // Hard cap: at most 2 interstitials per story session.
+  if (adsShownThisStory >= 2) return false;
+
+  // Post-play return to landing — end slot when under cap.
   if (reason === 'post-play') {
-    return true;
+    return adsShownThisStory < 2;
   }
 
   if (isEnding) return false;
   if (isStartScene) return false;
   if (!fromSceneId || !toSceneId) return false;
 
-  // First scene of a new session: path is still only the start (or empty).
-  // Mid-path choices append → pathLength >= 2.
+  // First scene / early path: don't tax the hook (pathLength < 2).
   if (pathLength < 2) return false;
 
   // Extra safety: never tax advance into an obvious L10 ending id.
   if (/^scene10/i.test(String(toSceneId))) return false;
 
-  return true;
+  // Mid slot only: first eligible between-scene once roughly mid-story.
+  // After mid is used, between-scene stays off (end slot is post-play).
+  if (pathLength >= 5 && adsShownThisStory === 0) {
+    return true;
+  }
+
+  return false;
 }
 
 /**

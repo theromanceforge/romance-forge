@@ -6,11 +6,15 @@
 
 ## Locked decisions
 
-### 1. Placement — between-scene interstitial only
+### 1. Placement — max 2 interstitials per story (mid + end)
 
-- Show an ad **after** a choice resolves and **before** the next scene loads.
-- Also allowed: soft “continue?” between layers; post-play return to landing/catalog.
+- **Cap:** at most **2** interstitials per story session (`storyId` + browser sessionStorage).
+- **Mid:** between-scene after a choice once the path is roughly mid-story (`pathLength >= 5`) and no ad has been shown yet for this story.
+- **End:** soft post-play interstitial when returning to landing after finish (`reason === 'post-play'`), when under the cap.
+- Between-scene does **not** fire after every choice — only the mid slot; after mid is used, between-scene stays off.
+- Also allowed historically: soft “continue?” between layers (same gate; still under the cap).
 - **No** catalog/landing banners in Phase 3 (low intent, trains bounce before Start).
+- Per-story counts: `sessionStorage` key `romanceForge.adsByStory`. Reset on start-fresh / fresh Begin.
 
 ### 2. Vendor — Google AdSense first
 
@@ -23,9 +27,9 @@
 
 **Safe**
 
-- After choice click → before next scene
-- Soft between-layer continue
-- Post-play landing
+- Mid-path between-scene (once, ~pathLength >= 5)
+- Soft between-layer continue (under cap)
+- Post-play landing (end slot)
 
 **Forbidden**
 
@@ -51,7 +55,7 @@ Set these as **GitHub Actions repository secrets** (same pattern as Supabase). T
 - `src/ads/config.js` — env kill switch
 - `src/ads/shouldShow.js` — `shouldShowInterstitial` gate (unit-tested)
 - `src/ads/interstitial.js` — overlay + optional AdSense inject (fail soft)
-- `src/ads/stats.js` — light counters + `window.__rfAdsStats`
+- `src/ads/stats.js` — light counters + `window.__rfAdsStats` + per-story `romanceForge.adsByStory`
 - Hooked from `src/main.js` choice → advance path only (story modules untouched)
 
 ## Measurement (light)

@@ -1,9 +1,11 @@
 /**
  * Light interstitial measurement — in-memory + sessionStorage mirror.
  * Exposed as window.__rfAdsStats for debugging.
+ * Per-story shown counts live under romanceForge.adsByStory (session).
  */
 
 const STORAGE_KEY = 'romanceForge.adsStats';
+const BY_STORY_KEY = 'romanceForge.adsByStory';
 
 /** @typedef {{ shown: number, continue: number, skip: number, sceneAdvance: number }} AdsStats */
 
@@ -80,6 +82,74 @@ export function bumpAdsStat(key) {
   syncWindow(memory);
 }
 
+/**
+ * @returns {Record<string, number>}
+ */
+function readByStory() {
+  try {
+    const raw = sessionStorage.getItem(BY_STORY_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== 'object') return {};
+    /** @type {Record<string, number>} */
+    const out = {};
+    for (const [k, v] of Object.entries(parsed)) {
+      out[k] = Number(v) || 0;
+    }
+    return out;
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * @param {Record<string, number>} map
+ */
+function writeByStory(map) {
+  try {
+    sessionStorage.setItem(BY_STORY_KEY, JSON.stringify(map));
+  } catch {
+    /* ignore */
+  }
+}
+
+/**
+ * How many interstitials have been shown for this story in the browser session.
+ * @param {string} storyId
+ * @returns {number}
+ */
+export function getStoryAdsShown(storyId) {
+  if (!storyId) return 0;
+  const map = readByStory();
+  return Number(map[storyId]) || 0;
+}
+
+/**
+ * Bump per-story interstitial count after an ad is actually shown.
+ * @param {string} storyId
+ * @returns {number} new count
+ */
+export function bumpStoryAdsShown(storyId) {
+  if (!storyId) return 0;
+  const map = readByStory();
+  const next = (Number(map[storyId]) || 0) + 1;
+  map[storyId] = next;
+  writeByStory(map);
+  return next;
+}
+
+/**
+ * Reset per-story count (fresh playthrough / start-fresh).
+ * @param {string} storyId
+ */
+export function resetStoryAdsShown(storyId) {
+  if (!storyId) return;
+  const map = readByStory();
+  if (!(storyId in map)) return;
+  delete map[storyId];
+  writeByStory(map);
+}
+
 /** Test helper */
 export function __resetAdsStatsForTests() {
   memory.shown = 0;
@@ -88,6 +158,7 @@ export function __resetAdsStatsForTests() {
   memory.sceneAdvance = 0;
   try {
     sessionStorage.removeItem(STORAGE_KEY);
+    sessionStorage.removeItem(BY_STORY_KEY);
   } catch {
     /* ignore */
   }

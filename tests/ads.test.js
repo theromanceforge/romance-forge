@@ -7,6 +7,9 @@ import {
 import {
   getAdsStats,
   bumpAdsStat,
+  getStoryAdsShown,
+  bumpStoryAdsShown,
+  resetStoryAdsShown,
   __resetAdsStatsForTests,
 } from '../src/ads/stats.js';
 import {
@@ -43,7 +46,8 @@ describe('getAdsConfig / kill switch', () => {
 });
 
 describe('shouldShowInterstitial matrix', () => {
-  const midPath = {
+  /** Early mid-path (pathLength 2) — no longer eligible; mid slot needs >= 5. */
+  const earlyPath = {
     adsEnabled: true,
     fromSceneId: 'scene1',
     toSceneId: 'scene2a',
@@ -51,14 +55,37 @@ describe('shouldShowInterstitial matrix', () => {
     isEnding: false,
     isAuthFlow: false,
     isStartScene: false,
+    adsShownThisStory: 0,
+  };
+
+  /** Mid-story between-scene candidate. */
+  const midPath = {
+    adsEnabled: true,
+    fromSceneId: 'scene4a',
+    toSceneId: 'scene5a',
+    pathLength: 5,
+    isEnding: false,
+    isAuthFlow: false,
+    isStartScene: false,
+    adsShownThisStory: 0,
   };
 
   it('ads off = no', () => {
     expect(shouldShowInterstitial({ ...midPath, adsEnabled: false })).toBe(false);
   });
 
-  it('mid-path choice = yes when enabled', () => {
+  it('early pathLength 2 between-scene = no (not every choice)', () => {
+    expect(shouldShowInterstitial(earlyPath)).toBe(false);
+  });
+
+  it('mid-path pathLength 5 + adsShown 0 = yes', () => {
     expect(shouldShowInterstitial(midPath)).toBe(true);
+  });
+
+  it('mid-path pathLength 5 + adsShown 1 = no for between-scene', () => {
+    expect(
+      shouldShowInterstitial({ ...midPath, adsShownThisStory: 1 })
+    ).toBe(false);
   });
 
   it('first scene of session / start = no', () => {
@@ -106,18 +133,40 @@ describe('shouldShowInterstitial matrix', () => {
     expect(shouldShowInterstitial({ ...midPath, isReplay: true })).toBe(false);
   });
 
-  it('post-play reason allowed when enabled', () => {
+  it('post-play + adsShown 0 or 1 = yes; adsShown 2 = no', () => {
     expect(
       shouldShowInterstitial({
         adsEnabled: true,
         reason: 'post-play',
+        adsShownThisStory: 0,
       })
     ).toBe(true);
     expect(
       shouldShowInterstitial({
+        adsEnabled: true,
+        reason: 'post-play',
+        adsShownThisStory: 1,
+      })
+    ).toBe(true);
+    expect(
+      shouldShowInterstitial({
+        adsEnabled: true,
+        reason: 'post-play',
+        adsShownThisStory: 2,
+      })
+    ).toBe(false);
+    expect(
+      shouldShowInterstitial({
         adsEnabled: false,
         reason: 'post-play',
+        adsShownThisStory: 0,
       })
+    ).toBe(false);
+  });
+
+  it('hard cap: adsShownThisStory >= 2 blocks all reasons', () => {
+    expect(
+      shouldShowInterstitial({ ...midPath, adsShownThisStory: 2 })
     ).toBe(false);
   });
 });
@@ -157,6 +206,16 @@ describe('ads stats + interstitial placeholder', () => {
     expect(s.continue).toBe(1);
     expect(s.sceneAdvance).toBe(1);
     expect(window.__rfAdsStats.shown).toBe(1);
+  });
+
+  it('tracks per-story adsShown in sessionStorage', () => {
+    expect(getStoryAdsShown('story-a')).toBe(0);
+    expect(bumpStoryAdsShown('story-a')).toBe(1);
+    expect(bumpStoryAdsShown('story-a')).toBe(2);
+    expect(getStoryAdsShown('story-a')).toBe(2);
+    expect(getStoryAdsShown('story-b')).toBe(0);
+    resetStoryAdsShown('story-a');
+    expect(getStoryAdsShown('story-a')).toBe(0);
   });
 
   it('shows branded placeholder when enabled without client id; continue works', async () => {
