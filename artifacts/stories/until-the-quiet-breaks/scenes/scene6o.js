@@ -34,11 +34,11 @@ His forehead nearly touched hers—habit of a careful man—then stopped short. 
 
 The ledger waited face-up. The padlock waited. John's pulse hammered. [player_name]'s wanting answered. The exits hurt: let him smash what the cover story had built, or hold him in the rain-smell shed and choose living over wreckage while the unanswered question of Voss still sat in ink between them.
 
-Clara's charcoal thumbprint marked one ledger corner like a signature of the crack she had found. John noticed it and exhaled through his nose—almost a laugh, almost a sob. "She was braver than both of us," he said. "Drawing over guilt while I flipped eggs and practiced believing you wanted longer maps." 
+Clara's charcoal thumbprint marked one ledger corner like a signature of the crack she had found. John noticed it and exhaled through his nose—almost a laugh, almost a sob. "She was braver than both of us," he said. "Drawing over guilt while I flipped eggs and practiced believing you wanted longer maps."
 
-[player_name] did not disagree. Agreement would have been too easy. "Bravery is not the only currency tonight. Consequence is. If you break the lock, we photograph what spills before Henry can tidy. If I hold you, we walk the pages to daylight without giving him wreckage to narrate." 
+[player_name] did not disagree. Agreement would have been too easy. "Bravery is not the only currency tonight. Consequence is. If you break the lock, we photograph what spills before Henry can tidy. If I hold you, we walk the pages to daylight without giving him wreckage to narrate."
 
-He wiped rain from his eyebrow with the back of a flour-dusted wrist. The gesture was ordinary. The night was not. Desire tugged at [player_name]'s ribs anyway—obsession-grade, inconvenient—wanting his mouth even while his hands itched for destruction. She let the wanting sit unnamed beside the ledger. Naming it too early would turn the fork into a kiss and the kiss into delay.
+He wiped rain from his eyebrow with the back of a flour-dusted wrist. The gesture was ordinary. The night was not. Desire tugged at [player_name]'s ribs anyway—wanting his mouth even while his hands itched for destruction. She let the wanting sit unnamed beside the ledger. Naming it too early would turn the fork into a kiss and the kiss into delay.
 
 The cracked world beyond Willow kept sending ordinary signals: freight horn, gutter drip, a dog barking two streets over like Somerton had not noticed its quiet ending. John listened as if the town might offer instructions. It did not. Instructions lived in [player_name]'s next sentence and in the crowbar leaning against the workbench like a prop from a different genre.
 
@@ -48,15 +48,7 @@ The cracked world beyond Willow kept sending ordinary signals: freight horn, gut
 
 He reached for her then—stopped—reached for the padlock instead and closed his fist around cold metal until his knuckles paled. The unfinished touch hung between them hotter than contact. [player_name] felt her pulse in her mouth. Rain needled the roof. Woodsmoke ghosted through the warped siding from the house where Clara waited with sketches and a sister's accurate fear.
 
-"Pick," John whispered. "Before I stop being able to tell anger from wanting you. Before I put my mouth on yours and use wanting as wreckage. Before the ledger becomes another almost we sand into silence."
-
-The hook held: unanswered break, unanswered kiss, Voss in ink, exits already burning. [player_name] stood in oilcloth cold and Market Street memory and chose which verb would define the shed when the quiet finished breaking.
-
-He reached for her then—stopped—reached for the padlock instead and closed his fist around cold metal until his knuckles paled. The unfinished touch hung between them hotter than contact. [player_name] felt her pulse in her mouth. Rain needled the roof. Woodsmoke ghosted through the warped siding from the house where Clara waited with sketches and a sister's accurate fear.
-
-"Pick," John whispered. "Before I stop being able to tell anger from wanting you. Before I put my mouth on yours and use wanting as wreckage. Before the ledger becomes another almost we sand into silence."
-
-The hook held: unanswered break, unanswered kiss, Voss in ink, exits already burning. [player_name] stood in oilcloth cold and Market Street memory and chose which verb would define the shed when the quiet finished breaking.`,
+"Pick," John whispered. "Before I stop being able to tell anger from wanting you. Before I put my mouth on yours and use wanting as wreckage. Before the ledger becomes another almost we sand into silence."`,
   textHot: `The shed door gave under John's shoulder, and [player_name]'s body answered the sound as if he had shoved into her instead of warped wood.
 
 Rain followed them. Oilcloth. Dust. The ledger open. John's hands on the pages at last—firsthand, no glass—and he was already hard in his jeans from fury and nearness, the thick line of him impossible to miss when he turned and boxed her against a crate without quite pinning her. Coffee on his shirt. Rain in his hair. Grey eyes bright with a violence that wanted an outlet and a woman in the same breath.
@@ -85,53 +77,9 @@ He rolled his hips once more—helpless, filthy—then forced stillness, breathi
 
 "Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
 
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
+The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
 
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-The rain counted 6 against the tin while [player_name] refused a soft landing and kept the fork sharp in her chest.
-
-He rolled his hips once more—helpless, filthy—then forced stillness, breathing like a man on a cliff. Wet boxwood pressed the night outside. Woodsmoke ghosted in. Fryer hymns lived only in memory on Market Street. Here: oil, rage, want, ledger, crowbar.
-
-"Say it," John demanded against her lip, unfinished kiss hanging. "Let me break—or hold me back. Both exits hurt. Both leave me hard. Only one decides whether morning finds wreckage or a man who chose living with his hands still shaking."
-
-[player_name]'s answer waited behind her teeth while her body leaned toward both verbs at once. The quiet refused soft landing. The shed held the hook: unanswered smash, unanswered thrust, proof face-up, desire face-up, consequence waiting in the crowbar's cold weight and in the circle of her fingers on his wrists.
-
-The rain counted 7 against the tin while [player_name] refused a soft landing and kept the fork sharp in her chest.`,
+The rain counted 6 against the tin while [player_name] refused a soft landing and kept the fork sharp in her chest.`,
   choices: [
     { id: "scene7p", text: "Hand him the crowbar — stay through the wreckage", textHot: "Hand him the crowbar — stay wet through the wreckage" },
     { id: "scene7e", text: "Pin his wrists — living beats smash-as-justice", textHot: "Pin his wrists with your mouth close — living over wreckage" }

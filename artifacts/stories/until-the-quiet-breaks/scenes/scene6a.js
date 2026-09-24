@@ -62,9 +62,7 @@ He waited too close. Coffee and rain and ink lived between them. The blue door h
 
 "Choose," John said, voice rough. "Burn nothing and we photocopy until the machine at the post office knows our shame by heart, then we put Henry on the clock at noon. Or keep the papers close and ask me—out loud, while I can still taste coffee and not only rage—what justice looks like when it has to live in this diner afterward. Either way you do not get to leave the booth with the circles unread. Either way my hands are done pretending paper is colder than wanting you."
 
-His unfinished touch hung near her jaw. The papers waited. Voss waited in the ink. Henry waited in woodsmoke on Willow whether they named him at noon or named justice first.
-
-[player_name] felt the exit hurt the way the craft demanded: an unanswered question braided to bodily want—his mouth close, her pulse loud, the stack between them still warm from both their hands—and a choice that would not let the quiet reseal.`,
+His unfinished touch hung near her jaw. The papers waited. Voss waited in the ink. Henry waited in woodsmoke on Willow whether they named him at noon or named justice first.`,
   textHot: `Clara's blue circles looked like bruises, and [player_name]'s body answered the bruises before her mouth did.
 
 She sat in the back booth with John's thigh pressed hard along hers, heat soaking through denim, the paper stack spread between coffee mugs like something indecent laid out under fluorescent light. Rain needled the awning. The CLOSED sign watched. Fryer oil ticked as it cooled. Her shirt clung damp at the small of her back; her bra seam rubbed when she breathed too deep; and every time John turned a page, his knuckle brushed her knee and her cunt clenched around nothing with humiliating timing.
@@ -75,7 +73,7 @@ She sat in the back booth with John's thigh pressed hard along hers, heat soakin
 
 "Say the lines," he said. Not soft. "Voss. The numbers. Your yes. All of it while you stay close enough that I can feel you shake."
 
-She showed him. Winter ledger first—forty-eight thousand, then twelve, settled in kindness. His hand settled on her thigh as she spoke, not comforting: claiming, thumb stroking a slow arc that made speech catch. Voss's name left her mouth while John's fingers dug in through cloth. The exchange number on the back of the slip. The dates that skipped. Her name underlined twice—she agreed to go—for him—spoken while John's palm slid higher, spanning the join of hip and thigh until heat became a through-line she could not tidy into literary yearning.
+She showed him. Winter ledger first—forty-eight thousand, then twelve, settled in kindness. His hand settled on her thigh as she spoke, not comforting: claiming, thumb stroking a slow arc that made speech catch. Voss's name left her mouth while John's fingers dug in through cloth. The exchange number on the back of the slip. The dates that skipped. Her name underlined twice—she agreed to go—for him.
 
 "For me," he said against her temple, breath hot. "Exile as gift. And you carried it while I jerked off to the brighter-rooms version of you upstairs and called it grief." His laugh cracked. "I am furious. I am also so fucking hard under this table that justice is going to have to share the booth with my body. Keep talking."
 
@@ -83,7 +81,7 @@ She showed him. Winter ledger first—forty-eight thousand, then twelve, settled
 
 "Clara circled do not tell the boy," John muttered. He dragged her hand under the table and pressed it to the thick line of his cock through jeans—once, deliberate, a proof—then put her hand back on the papers like evidence and erection belonged in the same negotiation. "She circled the hospital ask. She circled your ticket. She did not circle the years I built a shrine and lit myself on fire inside it. I am circling those now. With my mouth on your throat if you keep looking at me like that."
 
-He did. Mouth on her pulse, sucking hard enough to mark while she tried to name Voss's payments in order. Teeth. Tongue. His thigh shoved tighter against hers. She gasped a number and he groaned like the number was filthy. Heat advanced the plot: every confession made him ruder with his hands; every rude touch dragged another circled line into daylight she might have sanded if she had been alone.
+He did. Mouth on her pulse, sucking hard enough to mark while she tried to name Voss's payments in order. Teeth. Tongue. His thigh shoved tighter against hers. She gasped a number and he groaned like the number was filthy.
 
 "Photocopy," [player_name] managed, fingers twisted in his shirt, papers crumpling under her other hand. "Or justice your shape. Those are the roads. Do not fuck the vocabulary out of me before I finish Clara's margins."
 
@@ -99,11 +97,11 @@ She kept finishing. Bank slips. The faded envelope. Clara's charcoal of station 
 
 Rain sheeted the awning. Bleach and grease exhaled from the mop bucket. A receipt slid to the floor; neither reached for it. [player_name] rolled into his palm on purpose, chasing friction even as she kept one hand flat on the ledger so the numbers stayed in the room. John's other hand cupped her breast under her shirt, bra shoved aside, thumb stroking the peaked nipple until she arched with a broken sound that had no elegance left.
 
-"Clara will want a say," he said against her mouth, kiss unfinished on purpose. "Henry will offer kindness like currency at Willow. If we photocopy, Mae's machine learns our shame and noon puts him on a clock with daylight teeth. If you ask me what justice looks like—" His fingers pressed harder; her breath shattered. "—I will tell you it looks like you staying through the noise with your clothes off and your lies on the table. It looks like me fucking you above this diner after we finish wrecking Henry's drafts. It looks like not sanding any of it."
+"Clara will want a say," he said against her mouth, kiss unfinished. "Henry will offer kindness like currency at Willow. If we photocopy, Mae's machine learns our shame and noon puts him on a clock with daylight teeth. If you ask me what justice looks like—" His fingers pressed harder; her breath shattered. "—I will tell you it looks like you staying through the noise with your clothes off and your lies on the table. It looks like me fucking you above this diner after we finish wrecking Henry's drafts. It looks like not sanding any of it."
 
 She laughed, shaky and hungry, and eased his hand back to her waistband—permission paused, not revoked—while the fork in the night sharpened into something that hurt to leave. Papers gathered into a stack still warm from both their hands. Voss's name facing up. John's cock a thick line against her hip when he shuddered and held still.
 
-The through-line never left her body: from the first knuckle on her knee to the soaked cotton under his fingers, heat had been the plot's engine, not its garnish. Every circled payment had tightened her nipples; every draft of Henry's sanded mercy had made her roll her hips like confession was a rhythm she could fuck through. John watched her gather the stack and wiped his mouth with the back of his hand as if he could wipe away the taste of her pulse and failed.
+Every circled payment had tightened her nipples; every draft of Henry's sanded mercy had made her roll her hips like confession was a rhythm she could fuck through. John watched her gather the stack and wiped his mouth with the back of his hand as if he could wipe away the taste of her pulse and failed.
 
 "I can still smell the fryer on you," he said. "I can still feel Clara's charcoal on these pages. I want both. I want the diner open tomorrow and your thighs open tonight and Henry's kindness burned down to ash that cannot settle anyone's debt. Tell me you understand the want is not separate from the papers."
 

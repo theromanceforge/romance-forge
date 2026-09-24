@@ -32,8 +32,7 @@ His thumb found her wrist—pulse, consequence, not comfort. Adult yearning fill
 
 "It is," John said. "So was leaving. So is coming back. The quiet is breaking either way. I only need to know which hunger you feed first—the rebuild that centers this street, or the love that keeps your years from becoming another thing Somerton sands off your name."
 
-
-Downstairs something metallic clicked—the blue door testing its stick in the wind—and [player_name] felt the whole rebuild in that sound: John's shoulder remembered in the latch, Clara's sketches possible on booth napkins, Henry's empty chair a problem with a shape, Mae's slots hungry for whatever verb left this flat. Willow Lane's wet boxwood lived in her coat like a witness she had smuggled upstairs. The glass weight across town still tried to tidy guilt. Voss's name still owned a ledger corner. The quiet was breaking whether she centered Somerton or kept her years intact.
+Downstairs something metallic clicked—the blue door testing its stick in the wind—and [player_name] felt the whole rebuild in that sound. Willow Lane's wet boxwood lived in her coat like a witness she had smuggled upstairs. The glass weight across town still tried to tidy guilt. Voss's name still owned a ledger corner. The quiet was breaking whether she centered Somerton or kept her years intact.
 
 "Tell me what mornings look like on your terms," she said.
 
@@ -47,9 +46,9 @@ John's mouth tilted. "I open. You can hate the fryer hymn and still be here when
 
 John caught her wrist again when she passed, pulse under his thumb. "It can. Accept the rebuild on my terms and we hold it from inside the diner's light. Accept love without erasure and we hold it with your history unedited. Either way the quiet ends tonight in this kitchenette. Choose which ending of silence you can live with when the fryer starts again tomorrow."
 
-Outside, freight complained. Inside, coffee-ghost and woodsmoke and wet wool argued softly. [player_name] thought of fifteen years of brighter rooms and of John listening for a train. She thought of how trust was the plot and desire the weather that refused to stay polite.
+Outside, freight complained. Inside, coffee-ghost and woodsmoke and wet wool argued softly. [player_name] thought of fifteen years of brighter rooms and of John listening for a train.
 
-The hook set without soft landing: terms spoken into coffee-cooled air, John's thumb on her pulse like a vow that still smelled like rain, Clara and Henry unfinished, Mae's lamp warm, the blue door stuck below, the particular hurt of a woman who had bought a ticket home and was now deciding whether home meant surrendering the map or redrawing it with a soft door left in the wall. [player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the courage of ending a quiet that had outlived its mercy. The flat held steady. The night—or the late afternoon, Somerton had stopped caring which—refused to land soft.
+[player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the courage of ending a quiet that had outlived its mercy. The flat held steady. The night—or the late afternoon, Somerton had stopped caring which—refused to land soft.
 
 Accept his terms. Or keep the years. The quiet leaned in at the alley gutter to hear which hunger she would feed first—the diner as gravity, or the love that refused erasure.`,
   textHot: `The flat above the diner smelled like coffee cooled too long, rain in wool, and the particular heat of John Shaw setting terms with his cock already hard against [player_name]'s hip like a second argument.
@@ -72,10 +71,9 @@ She laughed once, wrecked, fogging nothing but her own resolve. "You always made
 
 "With my mouth, my hands, my cock—yes," John said, withdrawing sticky fingers to her wrist, sucking them once without apology, eyes on hers. "Accept Somerton on my terms. Or accept love and refuse to erase your years away. I will not love you less. I will only need inside you after—counter, bed, against the window if the alley stays empty—because watching you choose gravity or history while wet for me is the opposite of the cover that ate fifteen years."
 
-[player_name] covered his hand, calibrating, pulse wild. Sensory through-line: his fingers' wetness cooling on her wrist, rain, coffee, fryer tick, blue door latch, woodsmoke, the cracked stool leaning below like a witness. "Both hurt. Both move. Both keep you hard against me until I say the verb."
+[player_name] covered his hand, calibrating, pulse wild. "Both hurt. Both move. Both keep you hard against me until I say the verb."
 
 John pressed his forehead to hers, breath ragged. "Say it before Clara invents a softer one for us. I rebuilt this diner around a wound. I can survive you as permanent gravity. I can survive you as love with a soft door. What I cannot survive is another Shaw quiet while your cunt is still arguing with my name."
-
 
 John turned her to face him fully, lifted her onto the counter edge, and stepped between her knees without opening her jeans again—pressure only, thick and deliberate, while rain needled the alley and the blue door stuck below like punctuation. "Feel the terms," he said. "Somerton as gravity means I fuck you in this flat like you live here, then we face Henry and Clara from a shared center. Soft door means I fuck you like I know you might leave and I choose you anyway—no amnesia, no punishment orgasm, no suitcase-as-sin. Say which map. My cock is not the ballot but it is done pretending this is only philosophy."
 
@@ -87,7 +85,6 @@ Woodsmoke. Coffee. Fryer tick. Wet boxwood in the coat on the chair. Voss's shad
 
 John went still—discipline like devotion—and waited with his forehead to hers, cock pressed, hand gentle now on her jaw. "Accept a life rebuilt in Somerton on my terms. Or accept love but refuse to erase your years away. I will not love you less. I will only need to be inside you after the verb lands, because this kitchenette has held fifteen years of listening for a train and I am done listening without an answer."
 
-
 He lifted her off the counter only long enough to walk her backward to the bed that smelled like clean cotton and rain-drying wool, then sat her on the edge and knelt—forehead to her stomach, hands on her thighs, still dressed, still aching. "Somerton on my terms looks like this becoming ordinary," John said into her sweater. "Love without erasure looks like this becoming ordinary too—but with your suitcase allowed to exist without me calling it a knife. I need the verb so I know which ordinary I am building when I finally get my mouth on you."
 
 [player_name] threaded her fingers into his hair. Wet boxwood in the coat. Woodsmoke. Fryer tick. Blue door. Clara. Henry. Mae. Voss. "If I center this street, you do not shrink my years into a problem to solve. If I keep soft door honesty, you do not punish me with silence every time I remember a room that was not yours. Either way you can have me tonight. Only one way makes Market Street my gravity instead of my visiting weather."
@@ -96,7 +93,7 @@ John kissed the inside of her knee through denim, filthy reverence, then looked 
 
 Rain needled the alley. [player_name]'s cunt throbbed. Her pulse argued in her throat. The quiet leaned on the window glass like it wanted to vote and would not get to.
 
-The hook held: terms spoken, body humming, night refusing soft landing. Accept a life rebuilt in Somerton on his terms—or accept love but refuse to erase the years away. [player_name] drew a breath that tasted like rain and old coins and coffee and John. The flat held steady. The quiet leaned in at the alley to hear which hunger she would feed first—the diner as center, the soft door, or the heat that had turned a kitchenette into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Accept a life rebuilt in Somerton on his terms—or accept love but refuse to erase the years away. [player_name] drew a breath that tasted like rain and old coins and coffee and John. The flat held steady. The quiet leaned in at the alley to hear which hunger she would feed first—the diner as center, the soft door, or the heat that had turned a kitchenette into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. His terms. Her years. Somerton tracked mud either way and the evening refused to land soft.`,
   choices: [

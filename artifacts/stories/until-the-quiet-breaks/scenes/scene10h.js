@@ -8,7 +8,7 @@ The blue door stuck. John shouldered it open for the lunch rush anyway. Coffee s
 
 "You don't have to smile for them," John murmured when he refilled her water glass. His eyes were gold and tired and fierce. Rain still ghosted the shoulders of his coat from the morning walk. "You only have to stay in the room."
 
-"I'm staying," she said. Mid-want lived under the words—adult yearning, unfinished even inside an ending, the aftertaste of rain on her coat and his mouth from the hallway kiss before they flipped the sign to OPEN. Trust was still the plot; the noise was only weather. They had chosen to endure it together.
+"I'm staying," she said. Want lived under the words—adult yearning, unfinished even inside an ending, the aftertaste of rain on her coat and his mouth from the hallway kiss before they flipped the sign to OPEN. Trust was still the plot; the noise was only weather. They had chosen to endure it together.
 
 A woman from two streets over asked, careful and cruel, whether it was true about Henry. John wiped his hands on a towel, met her gaze, and said yes without decorating it. [player_name] did not correct, soften, or flee toward any train. She plated pie. The pie was good. The truth was uglier and still theirs to serve beside coffee.
 
@@ -26,7 +26,7 @@ John kissed her slow—sensory intimacy, fade-friendly heat, mouths learning the
 
 "We endure the noise together," he murmured against her lips. "Clara keeps rewriting without apology. You take the cracked stool whenever you want it. I take your hand on Market Street and I don't flinch when someone says your name wrong. Wrong names die of starvation if we stop feeding them."
 
-She slept with his arm over her waist and rain arguing with slate. Morning came with coffee steam from downstairs before the sign flipped, his sleepy mouth at her temple, and the blue door waiting to stick open on another day of being known. Open Secret was not peace. It was presence with a pulse. [player_name] woke beside John Shaw and chose it again before her feet hit the floor—desire and consequence sharing the same cup, Market Street loud beyond the glass, love louder in the small warm space between their bodies.
+She slept with his arm over her waist and rain arguing with slate. Morning came with coffee steam from downstairs before the sign flipped, his sleepy mouth at her temple, and the blue door waiting to stick open on another day of being known. It was presence with a pulse. [player_name] woke beside John Shaw and chose it again before her feet hit the floor—desire and consequence sharing the same cup, Market Street loud beyond the glass, love louder in the small warm space between their bodies.
 
 That was the destination: the town knew; they endured; the want remained; the quiet stayed broken on purpose, and morning kept arriving with John still there.`,
   textHot: `Market Street knew by noon, and [player_name] felt the knowing like hands on her skin every time John's hip brushed hers behind the counter. Rain needled slate. The blue door stuck and surrendered under his shoulder. Coffee steam. Cracked stool leaning. Clara's paragraph on the community board had named the winter accident, the debt, Henry's cover, [player_name]'s misnamed exit—and Somerton was eating it alive while John flipped eggs like the town's hunger could not touch what they planned for the dark.
@@ -53,10 +53,8 @@ After, still joined, he kissed her breasts, her throat, her mouth tasting of her
 
 She laughed breathlessly and squeezed around him just to hear him hiss. "You'll have me. Noise and all. Want and all. John Shaw and an open secret and my thighs remembering you through the lunch rush."
 
-Morning arrived as promised: coffee steam, his lazy morning cock against the curve of her ass, rain still arguing with slate, blue door waiting downstairs. [player_name] reached back and stroked him until he groaned into her hair and slid into her from behind—half-asleep fucking, belonging, open-secret tenderness with vulgar honesty that belonged only to this ending. They came quiet and together. Then they washed, dressed, and went down to feed a town that knew.
+Morning arrived as promised: coffee steam, his lazy morning cock against the curve of her ass, rain still arguing with slate, blue door waiting downstairs. [player_name] reached back and stroked him until he groaned into her hair and slid into her from behind. They came quiet and together. Then they washed, dressed, and went down to feed a town that knew.
 
-Before the lunch rush fully owned them, John pulled her into the walk-in for thirty stolen seconds—cold air, his mouth on her neck, palm spanning her ass under the apron. "Noise outside. This inside," he muttered. "Open secret doesn't get my cock. You do." She bit his shoulder to keep from laughing and wanting in the same breath, then they returned to eggs and stares with heat still written under their clothes like a private ledger the town could never audit.
-
-Open Secret belonged to their bodies as much as their reputations: endured noise, earned heat, John inside the truth of her while Somerton talked itself hoarse beyond the glass—and [player_name] choosing, again, to stay loud with him.`,
+Before the lunch rush fully owned them, John pulled her into the walk-in for thirty stolen seconds—cold air, his mouth on her neck, palm spanning her ass under the apron. "Noise outside. This inside," he muttered. "Open secret doesn't get my cock. You do." She bit his shoulder to keep from laughing and wanting in the same breath, then they returned to eggs and stares with heat still written under their clothes like a private ledger the town could never audit.`,
   choices: []
 };

@@ -111,7 +111,7 @@ She laughed, shaky and hungry, and dragged his palm up to rest flat on her stoma
 
 Instead she eased his hand to her waistband and held it there—permission paused, not revoked—while the fork in the night sharpened.
 
-"We are at the sorry," John said against her mouth, kiss unfinished on purpose. "You apologize for the fifteen-year silence without excuses—own the leaving raw—and then you ask me to hold the woman who lied. Or you refuse to apologize for surviving and you make me hear why with your mouth still close enough that I can feel every word on my lip. Either road I stay hard through the hearing. Either road you do not get to leave my hands and call it timing."
+"We are at the sorry," John said against her mouth, kiss unfinished. "You apologize for the fifteen-year silence without excuses—own the leaving raw—and then you ask me to hold the woman who lied. Or you refuse to apologize for surviving and you make me hear why with your mouth still close enough that I can feel every word on my lip. Either road I stay hard through the hearing. Either road you do not get to leave my hands and call it timing."
 
 His thumb stroked once under the hem of her shirt, skin to skin at her waist, a brand. Her cunt clenched around nothing. Anger softened at the edges of his eyes into something hungrier and more dangerous than shouting.
 

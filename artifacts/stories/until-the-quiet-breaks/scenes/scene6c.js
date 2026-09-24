@@ -68,8 +68,7 @@ Market Street's slate roofs dripped in the dark beyond the glass. [player_name] 
 
 John nodded once. The burn scar on his thumb whitened as he gripped the counter. "Terms accepted. Now choose before my terms become my mouth on yours without a vote."
 
-The fluorescent lights hummed a hymn older than their fight. Somewhere a faucet dripped. The night held its breath like a held kiss. [player_name] felt bodily want sit beside the unanswered question of which vow to spend first—and the hurt of the fork was exactly the point.
-`,
+The fluorescent lights hummed a hymn older than their fight. Somewhere a faucet dripped. The night held its breath like a held kiss. [player_name] felt bodily want sit beside the unanswered question of which vow to spend first—and the hurt of the fork was exactly the point.`,
   textHot: `Clara's coat vanished into rain, and the lock on the blue door did nothing for the heat already pounding between [player_name]'s legs.
 
 John did not take her upstairs yet. He stood her against the pie case glass—cold through her shirt—and braced his hands beside her hips, thighs bracketing hers, cock already a thick blunt line against her stomach through jeans. Coffee on his breath. Clean sweat. Grey eyes blown dark.
@@ -80,7 +79,7 @@ John did not take her upstairs yet. He stood her against the pie case glass—co
 
 "Two impossible things." His mouth found her throat and sucked a mark while he talked, words vibrating into her pulse. "I want to carry you up those stairs and fuck you until morning without one more word about Voss or winter or my uncle's kindness. Heat without answers until light. And I want every ugly answer first—your yes, the debt, why you left—while I keep my cock out of you and my hands on the counter so I know I am not bribing myself past a lie with your cunt. You asked. Those are the roads."
 
-The through-line was sheer body: cold glass at her back, hard heat at her front, his thigh shoving between hers until she rode the denim seam without shame. Rain needled the awning. Fryer oil ticked. She was soaked before he finished naming the fork.
+Rain needled the awning. Fryer oil ticked. She was soaked before he finished naming the fork.
 
 "If we choose heat," [player_name] panted, fists in his shirt, "morning gets the papers. Swear."
 
@@ -94,7 +93,7 @@ The through-line was sheer body: cold glass at her back, hard heat at her front,
 
 "Good." He circled once, exact, then eased back to her waistband—permission paused, wetness gleaming on his knuckles under fluorescent light. "Easy is Henry's word. I want you to feel the cost of sequence in your body. Heat means I carry you upstairs now and bury myself in you until the pie case is a rumor. Answers means you stay on this stool and speak while I stand here hard enough to hurt and I do not get to fuck the confession out of you until you say the confession is finished."
 
-She laughed, shaky and hungry. Caught his wrist and licked her own taste off his fingers because the Hot road demanded earned explicit and her character had earned the filth by asking the question with her hips already answering. John groaned like she had punched him. His cock twitched against her hip.
+She laughed, shaky and hungry. John groaned like she had punched him. His cock twitched against her hip.
 
 "Preference," [player_name] said against his fingertips. "Say it."
 
@@ -102,16 +101,15 @@ She laughed, shaky and hungry. Caught his wrist and licked her own taste off his
 
 Rain sheeted. Bleach exhaled from the mop bucket. Upstairs the empty bed waited. On the counter Henry's letter waited under some napkin like a tooth. [player_name] could have opened her knees and ended negotiation; instead she held the fork while her cunt clenched around nothing and his unmarked restraint trembled.
 
-He kissed her unfinished on purpose—teeth, coffee, a thread of sound—then tore back. "Choose. Heat without answers until morning—temporary country, my cock, your swear that light dissolves it into truth. Or answers first—bleed the winter with my hands visible, touch only after, even if I have to jerk off in the dish pit like a desperate man to survive your voice. Before Henry invents dawn. Before Clara texts again. Before I lose the difference and take you on this laminate while the CLOSED sign watches."
+"Choose. Heat without answers until morning—temporary country, my cock, your swear that light dissolves it into truth. Or answers first—bleed the winter with my hands visible, touch only after, even if I have to jerk off in the dish pit like a desperate man to survive your voice. Before Henry invents dawn. Before Clara texts again. Before I lose the difference and take you on this laminate while the CLOSED sign watches."
 
 His pulse hammered. Hers answered. The exit hurt: sequence unanswered, bodily want loud enough to taste, two roads that both led through him and neither let her soft-land.
 
-
-[player_name] could still feel him—the ghost-pressure of his thigh, the wet stripe where his fingers had been, the throb of her clit denied completion on purpose so the choice would hurt. That was the Hot craft working: heat not as garnish on Warm yearning but as the engine that made sequence a bodily crisis.
+[player_name] could still feel him—the ghost-pressure of his thigh, the wet stripe where his fingers had been, the throb of her clit denied completion on purpose so the choice would hurt.
 
 "You could make me come right here," she said, blunt. "One more minute of your hand. You know it."
 
-"I know it." John's smile was all teeth and restraint. "I am not going to. Coming would soft-land the scene. We do not soft-land. You pick heat or answers while you are still aching, and whichever you pick, I will make sure the ache pays rent to the plot."
+"I know it." John's smile was all teeth and restraint. "I am not going to. We do not soft-land. You pick heat or answers while you are still aching, and whichever you pick, I will make sure the ache pays rent to the plot."
 
 She cursed softly. Pressed her forehead to his collarbone. Breathed him in—coffee, soap, rain, the frank animal smell of a man who had been hard through a moral conversation. "If heat, I want you to fuck me like you are not afraid I will leave at dawn. If answers, I want you to look at me while I talk like my mouth is still a place you plan to live."
 
@@ -121,26 +119,25 @@ The faucet dripped in the dish pit. Rain hammered. Her nipples ached against lac
 
 "Voss can wait," she whispered. "Henry can wait. My body cannot wait forever—but it can wait for a vote."
 
-"Then vote," John said. "Hook ending. No soft landing. Choose."
+"Then vote," John said. "No soft landing. Choose."
 
- The unfinished kiss and the unfinished orgasm hung together like twin hooks, and neither would let her close the tab on the night without paying.
+The unfinished kiss and the unfinished orgasm hung together like twin hooks, and neither would let her close the tab on the night without paying.
 
 "Pick," John said, wrecked. "Before I taste how ready you already are and accidentally swear both vows with my tongue."
 
 He stepped back half a pace only to shrug out of the restraint of distance again, as if his body refused the gap. [player_name] watched him adjust his cock through his jeans with a blunt honesty that made her mouth water. No elegant absolutes. No sanded yearning. Just a man in a closed diner asking her to schedule truth against fucking like both were shifts on a ticket wheel.
 
-"You want craft?" John said. "Here is craft. Every scene ends on a hook. This one ends on your decision while I am still wet from your cunt on my fingers and you are still marked from my mouth on your throat. Unanswered question: heat or answers. Bodily want: obvious. Exits hurt. Pick so we can stop performing patience we do not feel."
+"You want craft?" John said. "Here is craft. This one ends on your decision while I am still wet from your cunt on my fingers and you are still marked from my mouth on your throat. Unanswered question: heat or answers. Bodily want: obvious. Exits hurt. Pick so we can stop performing patience we do not feel."
 
 She slid off the stool. Floor mats damp. Stood within the cage of his arms again and set both hands on his belt—not opening it, only owning the option. "If I choose heat, you take me upstairs now and you do not stop to be noble. If I choose answers, you put your hands on the laminate and you listen while I ruin us with sentences. Either way I leave this counter changed."
 
 "Either way," he agreed, voice gravel. "I leave it hard and yours."
 
-The pie case glass had left a cold stripe on her back; his thigh had left a hot stripe between hers. The physical through-line held from first shove to this pause: contact as plot, heat as engine, explicit words earned because the characters had dragged desire into the same booth as Voss and winter and a locked blue door.
+The pie case glass had left a cold stripe on her back; his thigh had left a hot stripe between hers.
 
 Clara was gone. Henry waited in woodsmoke. The letter waited under paper. John waited with his belt under her palms and his vows still sharp.
 
-"Last breath before the vote," he murmured. "I love you in the ugly way. I want you in the filthy way. I need the sequence to be yours so I do not become Henry with better hands."
-`,
+"Last breath before the vote," he murmured. "I love you in the ugly way. I want you in the filthy way. I need the sequence to be yours so I do not become Henry with better hands."`,
   choices: [
     { id: "scene7d", text: "Choose heat without answers until morning", textHot: "Choose heat — take him upstairs and swear morning gets the truth" },
     { id: "scene7e", text: "Choose answers first — touch only after", textHot: "Choose answers — make him keep his hands off until the winter stands" }

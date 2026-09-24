@@ -14,7 +14,7 @@ Tonight the spill was a story told on purpose.
 
 She told him.
 
-Sensory first: station platform hiss, rain on slate, woodsmoke in the Shaw front room the night Henry's fear smelled louder than grief. Then emotion: loving John hard enough to mistake silence for armor, twenty and stupid with devotion, watching a father's winter accident become a debt that would not die. Then the plot turn she had carried alone—Henry arranging cover that cast her as ambition's exit while the uglier facts (creditor pressure, failed promises, money that would later answer to Voss) got folded under a glass weight like guilt pretending to be innocence.
+Sensory first: station platform hiss, rain on slate, woodsmoke in the Shaw front room the night Henry's fear smelled louder than grief. Then emotion: loving John hard enough to mistake silence for armor, twenty and stupid with devotion, watching a father's winter accident become a debt that would not die. Then the turn she had carried alone—Henry arranging cover that cast her as ambition's exit while the uglier facts (creditor pressure, failed promises, money that would later answer to Voss) got folded under a glass weight like guilt pretending to be innocence.
 
 John did not interrupt. His hand found hers on the booth table and held hard enough to hurt. Flour still ghosted his wrist. The burn scar at his thumb went white. When she reached the yes on the platform—the moment she agreed to become a cleaner story than winter deserved—his breath left him like a man punched.
 
@@ -38,7 +38,7 @@ John's jaw flexed. Outside, a freight complained toward the yard. Inside, the mo
 
 [player_name] leaned her forehead to his temple. Coffee and clean work-sweat. "Both roads hurt. Soft landing is how we drowned the first time. I can finish the story into a vow if you need the vow—us, named, refusing costume. Or I can finish it into a plan that ends the cover before sunrise. The TREE of this night forks there. You feel it too."
 
-"I feel it." He turned and kissed the corner of her mouth—unfinished on purpose. "I also feel that locking this door bought us an hour that smells like fryer hymn and unfinished almosts. Spending it only on narrative without choosing the exit is another kind of sanding."
+"I feel it." He turned and kissed the corner of her mouth. "I also feel that locking this door bought us an hour that smells like fryer hymn and unfinished almosts. Spending it only on narrative without choosing the exit is another kind of sanding."
 
 She spoke the last pieces then: how Henry's letter cracked both shrines; how returning was not penance theater; how wanting John had never quit even when cities tried to teach her longer maps; how Voss's shadow had eaten at the Shaw name from a distance while Market Street regulars practiced kinder myths. When she was done, the booth felt smaller. The locked door felt louder. John's eyes were bright with something that was not only grief.
 
@@ -89,17 +89,15 @@ She squeezed him once through jeans and felt his forehead drop to hers. Obsessio
 
 "When you finish—" John laughed against her lips, because she had finished, because finishing was the joke and the point "—invite Clara in, or go to Henry before dawn. Say it before I put you on this table and fuck the choice into tomorrow. Say it before Market Street invents a knock. Say it while my fingers still smell like your orgasm and my belt is still a bad idea."
 
-He kissed her hard—open, unfinished on purpose—then held still with his thigh pressed to her oversensitive seam and his cock a blunt question against her hip.
+He kissed her hard—then held still with his thigh pressed to her oversensitive seam and his cock a blunt question against her hip.
 
-She thought of wet boxwood, glass weights, Voss's surname, Clara's charcoal, Henry's clock. Romance was John's thigh and the thick promise of his cock. Plot was which throat received the indictment while her cunt still pulsed from his hand. Sensory, emotion, turn—rain, grief-bright hunger, a fork that refused morning. Soft landing would kill them. [player_name] squeezed his cock once more through jeans and made him curse into her mouth, unfinished on purpose.
+She thought of wet boxwood, glass weights, Voss's surname, Clara's charcoal, Henry's clock. Romance was John's thigh and the thick promise of his cock. Plot was which throat received the indictment while her cunt still pulsed from his hand. Sensory, emotion, turn—rain, grief-bright hunger, a fork that refused morning. Soft landing would kill them. [player_name] squeezed his cock once more through jeans and made him curse into her mouth.
 
 John hauled her closer on the booth vinyl until she straddled his thigh properly, jeans to jeans, and the friction dragged a broken sound out of her throat that the CLOSED sign could not censor.
 
 "Listen to me," he said, hands on her hips, guiding one slow grind that edged her toward another fall he refused to finish. "Clara in means I unlock smelling like your cunt and my sister gets the truth without translation—messy, adult, no sanding. Henry before dawn means I drive with your taste still in my mouth and we break his quiet while my cock is still remembering how you shook. I can do both hungers. I cannot do a pretty pause where we pretend the story ended clean on the table. Stories that end clean are costumes. You just burned yours. Do not sew it back for manners."
 
 [player_name] ground down once more—selfish, shaking—then forced herself still. Rain needled the awning. Fryer oil popped. The cracked stool leaned. His belt buckle bit her palm when she braced on it. "Then give me the verb," she whispered. "Unlock or drive. Clara's ears or Henry's sleep. I am done inventing third options that feel like exile."
-
-He kissed her unfinished on purpose and waited, hard under her, eyes bright with obsession that had quit pretending to be patience.
 
 Rain sheeted the awning. Fryer oil popped once. The cracked stool leaned. [player_name]'s pulse hammered where his mouth had been and where his fingers had owned her. The locked blue door story had become a hinge with teeth: Clara's entrance into heat-and-truth, or Willow before dawn with Henry's silence as the target—and neither exit let her leave the booth without paying in unfinished want.
 

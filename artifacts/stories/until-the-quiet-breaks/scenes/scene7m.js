@@ -109,9 +109,7 @@ Clara cleared her throat. "Battery in your phone is fine. Battery in your spine 
 
 "[player_name] has spine," she said, and proved it by taking her hand off herself entirely, planting both palms on the blotter, leaning over the brother-letter until lemon oil and ink and want braided into one breath. Rain needled harder. Woodsmoke thickened. The stuck drawer waited like an open mouth. She could taste the fork—metallic, erotic, exact.
 
-She drew a breath that tasted like rain and old coins and lemon oil and the particular courage of women who refused to let wanting go celibate just because the plot asked for paper first. Henry's study hummed. Clara waited. The stuck drawer hung open like a dare.
-
-The choice sat bright and filthy behind her teeth. The quiet refused to land soft.`,
+She drew a breath that tasted like rain and old coins and lemon oil and the particular courage of women who refused to let wanting go celibate just because the plot asked for paper first. Henry's study hummed. Clara waited. The stuck drawer hung open like a dare.`,
   choices: [
     { id: "scene8n", text: "Open the false panel — claim the letter he never mailed", textHot: "Open the false panel wet-fingered — steal the unsent whole" },
     { id: "scene8o", text: "Close the drawer — live with the wound already named", textHot: "Close the drawer aching — known wound enough, John still owed" }

@@ -36,7 +36,7 @@ Mae leaned her elbows on the counter, braid sliding forward. "Speak the verb for
 
 John's thumb stroked once at [player_name]'s pulse—consequence, not comfort. Coffee steam ghosted through the shared wall. Freight complained toward the yard. The blue door stuck. Gold lettering fogged. Henry's unfinished name trembled in the woodsmoke of memory. Mae waited with ink on her fingers and a clock that was not Henry's mantel and somehow worse—civic time, public time, the kind that did not care who needed soft landings.
 
-The hook set without soft landing: truth already poured into Mae's honest ear, duration of her silence undecided, John's hand on [player_name]'s wrist like a vow that still smelled like rain, the particular hurt of a woman who had bought a ticket home and was now deciding whether Market Street became witness at full volume or on a forty-eight-hour delay that could save a sister or spare an uncle one more morning of sanded breath. [player_name] drew a breath that tasted like wet paper and old coins and coffee and the courage of ending a quiet that had outlived its mercy. Mae's stamp hovered. The morning refused to land soft.
+[player_name] drew a breath that tasted like wet paper and old coins and coffee and the courage of ending a quiet that had outlived its mercy. Mae's stamp hovered. The morning refused to land soft.
 
 Own the gossip. Or ask her to hold. The post office lamp held steady. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—the town's appetite for a true story, or the family's need for two midnights before the chorus learned their names.`,
   textHot: `Mae's post office smelled like wet paper, ink pads, and the particular heat of a confession that had hitchhiked in [player_name]'s body all the way from Henry's kitchen and the hardware awning where John's fingers had already taught her that public knives could live in the same bloodstream as wanting.
@@ -59,7 +59,7 @@ Mae's mouth tilted. "Sympathy is not my job. Slots are. Memory is. I remember yo
 
 John shoved past her waistband just enough for two fingers to find cotton soaked through—humiliating under gold lettering, honest as freight—and pressed once against her clit through the fabric, a brand aimed at decision not orgasm. "Pick," he whispered. "While Mae can still see you refuse to sand. Own the town's noise as the price of killing the quiet—speak it and let me walk you out shaking. Or ask her to hold forty-eight hours—and keep shaking for me in private while the clock she names runs down. Both keep me hard. Both keep you from leaving with a prettier lie. Standing here inventing a third stamp while your cunt soaks my fingers is the only cowardice left on Market Street."
 
-A delivery truck hissed past. Coffee steam ghosted through the shared wall from the diner. The cracked stool leaned. Wet boxwood waited. Woodsmoke. Clara's charcoal. Voss's coin. Henry's empty mug. [player_name] rolled her hips a fraction against John's hand because stillness had become another Shaw lie, then forced stillness back because Mae's stamp deserved a verb spoken with a clear throat.
+A delivery truck hissed past. Coffee steam ghosted through the shared wall from the diner. The cracked stool leaned. Wet boxwood waited. Woodsmoke. Clara's charcoal. Voss's coin. Henry's empty mug.
 
 "If I own it," she breathed, "you do not soften the walk to the blue door. You stay angry and hard and mine while the town learns winter was never only weather. If I ask for forty-eight hours, you do not waste the pause on Henry's sanded morning—you help me put Clara inside the truth before Mae's clock ends."
 
@@ -75,7 +75,7 @@ John rolled his hips once against her—helpless, then locked still—and breath
 
 Mae inked the pad once, a wet click like punctuation. "Then spend the verb before the regulars start rattling the diner latch. My trays do not care about your cunt or his vow. They care about what leaves this counter in which order. Speak."
 
-The hook held: truth poured into Mae's ear, duration undecided, body still humming, morning refusing soft landing. Own the town gossip as the cost of truth—or ask her to hold forty-eight hours while family burns first. [player_name] drew a breath that tasted like rain and old coins and ink and the man behind her. The post office lamp held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the town's appetite, or the two-midnight pause, or the heat that had turned a public stamp into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Own the town gossip as the cost of truth—or ask her to hold forty-eight hours while family burns first. [player_name] drew a breath that tasted like rain and old coins and ink and the man behind her. The post office lamp held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the town's appetite, or the two-midnight pause, or the heat that had turned a public stamp into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. Mae's stamp. John's thumb. The chorus or the clock. Somerton tracked mud either way and the night-morning refused to land soft.`,
   choices: [

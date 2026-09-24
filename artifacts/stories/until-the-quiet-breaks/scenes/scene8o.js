@@ -26,11 +26,11 @@ John's thumb stroked once—consequence, not comfort. "Then stop explaining and 
 
 Freight lights moved in the yard like slow thoughts. Wet boxwood waited on Willow. Woodsmoke. Papers. Clara's restless honesty. Voss's coin spent or burned. Henry's unfinished forgiveness. The blue door stuck in memory. [player_name] looked at her phone, at John's mouth, at the tracks that had carried her out and the rain that had carried her back.
 
-She thought of the vow spoken on Clara's rug: stay as refusal of abandon, or honesty as refusal of forever's sedative. She had chosen honesty's blade. Now the blade needed a ticket decision to finish cutting. The hook set without soft landing: half-bought return glowing on a wet screen, John's hand on her pulse like a question that still smelled like coffee, platform hiss refusing to become soundtrack for a prettier lie, the particular hurt of a woman who had come home to crack a quiet and was now deciding whether leaving got a date or lost its paper entirely.
+She thought of the vow spoken on Clara's rug: stay as refusal of abandon, or honesty as refusal of forever's sedative. She had chosen honesty's blade. Now the blade needed a ticket decision to finish cutting.
 
 [player_name] drew a breath that tasted like rain and old coins and iron and the courage of ending a quiet without demanding the ending be permanent. The timetable held steady. Somerton Station leaned in at the guttering to hear which hunger she would feed first—the need to name a leaving day in daylight, or the need to cancel and stay without sedating anyone with forever.
 
-Book the return and tell him the date. Or cancel the ticket and try staying without promises. The platform refused to land soft. The night waited with freight and rain and a man who had stayed long enough to deserve a verb that did not smell like lemon-oil lies.
+Book the return and tell him the date. Or cancel the ticket and try staying without promises. The platform refused to land soft.
 
 John shifted closer until their shoulders shared weather. "I am not asking you to marry the town," he said. "I am asking you not to ghost it. A date is not a punishment. Canceling is not a trophy. Both can be love if they stop hiding. Both can be cruelty if they pretend to be weather. You taught Clara the difference tonight. Teach the tracks. Teach me. My hands are steady enough for either sentence. My heart is tired of sanded seasons. Pick while the hiss still sounds like truth instead of background."
 
@@ -45,7 +45,7 @@ John's hand slid under her sweater at the front, palm spanning her ribs, thumb b
 
 John laughed once against her neck—open suck, rain almost covering the wet sound of his other hand shoving past her waistband to find cotton ruined. He pressed two fingers to her clit through the fabric, brand not orgasm. "Book it," he rasped, "and say the date while I keep you shaking so the timetable hears you refuse sand. Cancel it—and stay without promises means mornings where I cook you eggs and fuck the scare out of you when fear dresses as permanence, and you say so out loud instead of buying a seat. Standing here inventing a third stamp while the hiss watches you soak my hand is the only cowardice left on this platform."
 
-Freight complained. Rain sheeted the tracks. Wet boxwood lived in her coat. Woodsmoke. Clara waiting for which sentence came home. Voss thinned. Henry absent. Blue door stuck in memory. [player_name] rolled her hips against his fingers because stillness was a Shaw lie, then locked still because the verb deserved a clear throat.
+Freight complained. Rain sheeted the tracks. Wet boxwood lived in her coat. Woodsmoke. Clara waiting for which sentence came home. Voss thinned. Henry absent. Blue door stuck in memory.
 
 "If I book," she breathed, gripping the railing, phone bright in the rainlight, "you do not soften the days before into manners. You stay filthy and exact. If I cancel, you do not throw a forever parade through the back door—you help me practice stay without sedatives, and you put your cock where my honesty can feel it when I say I am scared."
 
@@ -55,7 +55,7 @@ She catalogued herself like evidence: aching nipples, ruined cotton, mouth tasti
 
 John rolled his hips once—helpless, locked still—and breathed hard enough that the timetable glass fogged between them. "I rebuilt the diner around a wound," he murmured. "I can survive a date. I can survive an open calendar. What I cannot survive is watching you invent a softer platform because you still think my cock and my name are too fragile for honesty in the same hour as wanting."
 
-"[player_name] is picking," she said, and tipped her head back on his shoulder, rain on her face, heat at her back, ticket glowing like a dare. Hook tight: unanswered date, unanswered cancel, unanswered fuck waiting behind either verb, Clara's honesty a clock, forever refused on purpose.
+"[player_name] is picking," she said, and tipped her head back on his shoulder, rain on her face, heat at her back, ticket glowing like a dare.
 
 Book and tell him the date with his hand still sticky on her pulse. Or cancel and stay without promises while he keeps her shaking through open days. The platform hissed. Somerton leaned in. The quiet refused to land soft.
 
@@ -65,30 +65,13 @@ Clara's honesty lived in [player_name]'s mouth like a second pulse. She could st
 
 John shoved her gently forward until her hips met the wet railing, still shielding her from empty platform sightlines with his coat, fingers returning under cotton just enough to circle once—filthy metronome timed to choice. "Then speak," he growled. "Book and date. Or cancel and stay without promises. I rebuilt a diner around a wound. I can mark a calendar. I can burn a ticket stub. I cannot watch you sand this hiss into maybe while your cunt soaks my hand and calls it careful."
 
-[player_name] laughed into rain, wrecked, phone bright, vow bright, wanting bright. The hook held harder. The quiet of Somerton leaned in at the slate to hear which hunger she would feed—circled leaving or uncaged stay—while John kept her honesty wet enough to refuse perfume.
+[player_name] laughed into rain, wrecked, phone bright, vow bright, wanting bright. The quiet of Somerton leaned in at the slate to hear which hunger she would feed—circled leaving or uncaged stay—while John kept her honesty wet enough to refuse perfume.
 
-Choose. John's cock. The phone's light. A circled Tuesday or an uncaged morning. Honesty held the knife. Forever stayed dead. The tracks waited for a verb that did not smell like ambition-as-cover, and either way she would finish the night wet for the man who stayed.
+Choose. John's cock. The phone's light. A circled Tuesday or an uncaged morning. Honesty held the knife. Forever stayed dead.
 
 Rain thickened until the station became one wet mirror. She saw herself in the glass—John's mouth at her throat, her phone bright, her body arguing strategy in sticky thumbprints—and refused to sand the picture into something Mae could stamp polite. "A date is not punishment," she said. "Canceling is not a trophy. Both can be love if they stop hiding. Teach me with your hands either way—just do not let me ghost this town again wearing perfume."
 
 John's thumb stroked once more—consequence. "Then spend the verb before the freight invents it. My hands are ready. Your cunt already voted. The only undecided mouth left on this platform is the one about to speak."
-
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
-
-She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.
 
 She tasted iron and coffee and John and refused to let the timetable invent her mouth for her.`,
   choices: [

@@ -30,10 +30,11 @@ const LONG_SENTENCE_WARN = 45;
 /** Explicit allowlist of human-checked false positives. Keep it tiny. */
 const ALLOW = [
   // (story optional) — substring of the sentence / label that is legitimate prose.
+  { story: 'until-the-quiet-breaks', text: 'without asking what was under the garnish' }, // 4c plate metaphor
 ];
 
 /** Stories whose cleanup has not landed yet (skipped by the hard checks). */
-const PENDING = new Set(['until-the-quiet-breaks', 'the-living-key', 'the-soft-alibi']);
+const PENDING = new Set(['the-living-key', 'the-soft-alibi']);
 
 const stories = {};
 for (const id of STORY_IDS) stories[id] = await loadStoryScenes(ROOT, id);

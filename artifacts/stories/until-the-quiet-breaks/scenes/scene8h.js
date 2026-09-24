@@ -28,13 +28,11 @@ Henry looked at their joined hands again. "I do not deserve her forgiveness," he
 
 [player_name] felt John's pulse against her palm—steady, furious, alive. She thought of the letter that was not come home, only I thought you should know. She thought of tickets bought with rain in her hair. She thought of love spoken above a diner and papers face-up on a quilt and Clara choosing audiences with graphite under her nails. The kitchen refused to become a softer room.
 
-"Your brother deserved better than ice and tea," she told Henry. "John deserved better than a cleaner grief than the one he earned. Clara deserved better than finding proof drawn over silence. I deserved better than ambition as cover. Forgiving you in John's hearing would be a verb of consequence, not a stamp of absolution. Refusing while I hold him would be a verb of consequence too—grace delayed, not erased, until the cost stops pretending it was season."
+"Your brother deserved better than ice and tea," she told Henry. "John deserved better than a cleaner grief than the one he earned. Clara deserved better than finding proof drawn over silence. I deserved better than ambition as cover."
 
 John's scar pressed her knuckles. "Then stop explaining and choose," he said, almost gentle, which in Henry's kitchen was sharper than shouting. "Forgive Henry in my hearing—speak it while the mantel clock listens and Clara hears from the stair and my hand stays in yours. Or refuse forgiveness and keep holding my hand—walk out of grace without walking out of me. Either way, the woodsmoke stays. Either way, Voss's name stays under the glass weight. Either way, I am yours in this kitchen with the quiet cracked open and no soft landing left on Willow Lane."
 
 Outside, rain needled slate. Inside, tea steamed. Clara's folder waited. Mae's gold lettering fogged across town in civic breath. The blue door stuck. Fryer hymn waited for morning. Henry waited with an empty apology and a full confession. John waited with his hand locked like a vow that refused to go celibate of consequence.
-
-The hook set without soft landing: truth spoken, forgiveness undecided, John's hand warm and scarred and refusing to let go, the particular hurt of a woman who had come home to a rain-wet town and was now deciding whether mercy belonged in the same kitchen hour as ice.
 
 Forgive Henry in John's hearing—or refuse forgiveness and keep holding John's hand. [player_name] drew a breath that tasted like woodsmoke and tea and rain and the man whose pulse beat against her palm. Willow Lane held steady. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—grace spoken aloud, or refusal kept honest, or the loyalty of a joined hand that hurt to leave either way.
 
@@ -73,7 +71,7 @@ She laughed once, wrecked, fogging nothing but her own courage. Wet boxwood live
 
 Henry set the mug down, a ceramic click like punctuation. "Then spend the verb before the clock invents another hour of weather. This table does not care about your cunt or his vow. It cares about what leaves your mouth in which order. Speak."
 
-The hook held: confession landed, forgiveness undecided, body humming, evening refusing soft landing. Forgive Henry in John's hearing—or refuse forgiveness and keep holding John's hand. [player_name] drew a breath that tasted like rain and woodsmoke and the man whose pulse beat against her palm. Willow Lane held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—grace spoken, or refusal kept honest, or the heat that had turned a kitchen into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Forgive Henry in John's hearing—or refuse forgiveness and keep holding John's hand. [player_name] drew a breath that tasted like rain and woodsmoke and the man whose pulse beat against her palm. Willow Lane held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—grace spoken, or refusal kept honest, or the heat that had turned a kitchen into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. John's scar. The mercy or the wound. Somerton tracked mud either way and the night refused to land soft.
 

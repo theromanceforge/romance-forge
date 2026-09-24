@@ -52,8 +52,6 @@ A car hissed past on the wet street. Somewhere a shopkeeper rattled a grate. Som
 
 She thought of his burn scar against her wrist. She thought of the mop bucket and the burned tickets and the way he had said *don't be gone* and then, later, *give me the night*. Both instructions lived in her. Both could not be obeyed forever.
 
-The hook was simple and refused to land soft.
-
 Return with Clara and the sketches—let proof open the morning—or walk alone into his hands with confession still hot in her mouth and her body offered as the other half of the truth. Either way the blue door would stick. Either way John would look at her like a ticket that might be wrong. Either way the night apart ended here, on wet slate, with unanswered hunger and an unanswered question sharing the same rain.
 
 Rain needled her scalp where the coat hood failed. Coffee steam from somewhere ahead reached her like a rumor of him. She passed the cracked sidewalk square where, fifteen years ago, she had waited for a bus she did not take because Henry's car was already warm and waiting with a suitcase logic she had mistaken for love. The memory landed without permission. She let it. Dawn was no time for curated history.
@@ -113,7 +111,7 @@ If she brought Clara, she would have to keep her hands decent in front of a sist
 
 She stopped under the diner awning drip long enough to press two fingers hard against the seam of her jeans—one stolen pressure in public dark-grey dawn—just to take the edge off enough to speak when she entered. It did not take the edge off. It made her bite her lip bloody-soft and swear. John would know. He always knew when she was performing composure. He would smell rain and soap and sex-shame and decide whether to be gentle or to be exact.
 
-"Clara or alone," she whispered to the blue paint, as if the door could vote. The door stuck in her memory and said nothing. Her body voted alone. Her fear voted Clara. The craft of the morning was which vote she would obey while her pulse tried to run the till.
+"Clara or alone," she whispered to the blue paint, as if the door could vote. The door stuck in her memory and said nothing. Her body voted alone. Her fear voted Clara.
 
 She raised her hand toward the choice. Coffee steam. Blue paint. The freight horn. Her cunt clenched once, traitor and compass. Somerton leaned in. The quiet refused to land soft.`,
   choices: [

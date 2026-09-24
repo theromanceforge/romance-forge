@@ -70,7 +70,7 @@ Clara's cup clinked again—deliberate punctuation from the dish pit. "Uncle wil
 
 John's charcoal-smudged thumb hovered over the winter-road page, not quite turning it, not quite releasing the paper to be only paper. His other hand finally left the counter edge and found [player_name]'s wrist—pulse-check, claim, unfinished question wearing touch's coat. The pie case ticked. The urn clicked off. Somerton's quiet, already cracked, waited to see whether this diner would feed study or unforgiveness first.
 
-[player_name] could sit the night beside him and weather every margin until the missing pages named themselves in his mouth. Or she could spend her courage on the sharper ask—hold his anger open like a door Henry did not get to close—and let tenderness wait its turn behind rage that had earned the right to breathe. The sketches did not blink. Neither did John. The hook held: face-up graphite, half-spoken choice, bodily want unanswered in the narrow weather between coats.
+[player_name] could sit the night beside him and weather every margin until the missing pages named themselves in his mouth. Or she could spend her courage on the sharper ask—hold his anger open like a door Henry did not get to close—and let tenderness wait its turn behind rage that had earned the right to breathe. The sketches did not blink. Neither did John.
 
 She thought of the shed key still hanging unused on Willow's back-door hook—brass, frayed string, a cliff not yet taken—and of how bringing sketches here had been a different kind of digging: not into oilcloth, into John's willingness to see. The cracked stool watched. The fluorescent light did not flatter anyone. Honesty rarely did.`,
   textHot: `They did not go to the shed—and [player_name]'s body hated the choice even while her mind held it. The shed meant oilcloth and answers. Market Street meant John's mouth under hard light and the sketches as an excuse to get his hands close. She took the excuse. Charcoal on her sleeve. Rain in her lashes. Cunt already interested in a man who was still allowed to be furious at her.
@@ -101,7 +101,7 @@ He turned pages with one hand. The other slid under her coat and cupped her brea
 
 He stroked her clit once—slow, devastating—then stopped, unfinished, cruel with purpose. His mouth hovered at her jaw, kiss denied. The sketches stared face-up under fluorescent hard light. Clara clinked a cup in the dish pit like a metronome. Outside, rain. Uphill, a porch light. Inside, [player_name]'s cunt throbbed around still fingers; John's cock throbbed against her palm where she still held him through cloth.
 
-"Decide," he whispered. "Presence on every margin—or unforgiveness spoken before tenderness lies to us. Both hurt. Both leave us unfinished on purpose."
+"Decide," he whispered. "Presence on every margin—or unforgiveness spoken before tenderness lies to us. Both hurt. Both leave us unfinished."
 
 Clara's cup clinked. "Landline will ring," she called. "Or he walks down. If you are still mid-finger when he knocks, I am answering and I am not polite. Pick."
 
@@ -111,17 +111,13 @@ The sketches stayed face-up. His fingers stayed still inside her panties, slick 
 
 He could have fucked her fingers-deep against the counter and made the choice afterward. She could have dropped to her knees and taken his cock in her mouth until rage turned into something quieter. Both would have been delicious. Both would have been Henry's kind of mercy—bodies used to sand edges. John held the edge instead, cruel and reverent, and made her choose while her cunt fluttered and his zipper threatened to fail.
 
-
-
-A freight horn moaned in the distance. John's fingers stayed slick and still. [player_name] could have shoved them deeper and fucked herself to climax on his hand while Clara washed imaginary cups. She could have freed his cock and taken him into her mouth until he forgot every margin. She did neither. She held the unfinished heat like a blade between them and made the night earn its next verb—study or unforgiveness—while her cunt ached and his zipper strained and Henry's reclaiming shadow gathered somewhere uphill in the rain.
+A freight horn moaned in the distance. John's fingers stayed slick and still. [player_name] could have shoved them deeper and fucked herself to climax on his hand while Clara washed imaginary cups. She could have freed his cock and taken him into her mouth until he forgot every margin. She did neither.
 
 "Last chance before the phone," John whispered. His thumb circled once—mercy and cruelty—then froze on her clit at the peak of the circle. "Sit. Or swear me hard against forgiving him. I am done being the quiet Shaw."
 
-
-
 He turned her enough to see her face without leaving her panties. Fluorescent light made no one pretty; it made them true. Grey eyes nearly black. Mouth kiss-bruised from almosts he had not granted. "I closed early. Climbed a hill in the rain. Watched you choose graphite over my door and followed anyway." His fingers curled—still not thrusting, a cradle of heat around her cunt. "I can forgive that choice if you sit these margins with me like you mean to stay in the blast. I cannot forgive Henry tonight if you ask me not to—not while your wet is on my knuckles and his handwriting is still trying to climb down Willow in the rain."
 
-[player_name] dragged his mouth to hers for one hard second—tongue, coffee-ghost, teeth—then broke it unfinished on purpose, leaving both of them gasping. "That is not forgiveness. That is me refusing to let the sketches be the only thing between us that gets touched." She squeezed his cock through denim until his hips jerked. "Sit means your hand stays and your questions come raw. Unforgiveness means you say the vow out loud before your cock talks you into mercy. I will not be the soft landing after fifteen years of quiet."
+[player_name] dragged his mouth to hers for one hard second—tongue, coffee-ghost, teeth—then broke it unfinished, leaving both of them gasping. "That is not forgiveness. That is me refusing to let the sketches be the only thing between us that gets touched." She squeezed his cock through denim until his hips jerked. "Sit means your hand stays and your questions come raw. Unforgiveness means you say the vow out loud before your cock talks you into mercy. I will not be the soft landing after fifteen years of quiet."
 
 John's forehead knocked hers. "Dangerous woman." A beat. His thumb found her clit again and rubbed twice—filthy, precise—then stopped at the worst moment, holding her on a white edge. "Say the fork. Now. Before Clara's cup and Henry's knock and my zipper finish this conversation without us."
 

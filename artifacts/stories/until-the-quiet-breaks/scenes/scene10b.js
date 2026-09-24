@@ -30,7 +30,7 @@ Want still lived between [player_name] and John, mid-heat and unfinished even in
 
 John's laugh was soft and broken and fond. "Sounds like a vow for cowards who are trying."
 
-"Sounds like a soft rebuild." She kissed the corner of his mouth. Outside, slate roofs shone. Below, the diner waited. Above, the drawer stayed shut. And [player_name] woke next to John Shaw in a life that held—imperfect, mid-want, rain-scented, true enough to keep choosing.`,
+"Sounds like a soft rebuild." She kissed the corner of his mouth. Outside, slate roofs shone. Below, the diner waited. Above, the drawer stayed shut. And [player_name] woke next to John Shaw in a life that held—imperfect, rain-scented, true enough to keep choosing.`,
   textHot: `The sealed page stayed face-down in the upstairs drawer at Willow Lane, and [player_name] learned what it meant to fuck John Shaw with one careful silence still locked—want loud, truth partial, bodies refusing to wait for perfect daylight.
 
 They had agreed the terms with Clara watching: one page sealed, everything else spoken, no more adults deciding she couldn't handle ink. Henry got short grace. The town got a thinner quiet. John got [player_name] in his bed above the diner with the rain needling slate and the blue door locked downstairs and the drawer a ghost they both could name while his cock was still hard against her stomach.
@@ -39,7 +39,7 @@ They had agreed the terms with Clara watching: one page sealed, everything else 
 
 "Then stop talking about the drawer." She shoved his jeans open, wrapped her hand around his cock, stroked him slick with the precum already beading. "Fuck me like the rebuild is real. Soft doesn't mean you go gentle on my cunt."
 
-John groaned and laughed against her skin—broken, filthy, fond. He shoved her jeans down, shoved two fingers into her without teasing, found her already wet from a day of mid-want glances across the cracked counter stool. "Christ. You've been thinking about this through the lunch rush."
+John groaned and laughed against her skin—broken, filthy, fond. He shoved her jeans down, shoved two fingers into her without teasing, found her already wet from a day of want glances across the cracked counter stool. "Christ. You've been thinking about this through the lunch rush."
 
 "I've been thinking about your mouth and that sealed page and whether loving you with a lock makes me Henry." She rocked onto his hand. "Then I decided I'd rather come on your fingers than spiral. Make me decide again."
 
@@ -55,12 +55,12 @@ She dragged his mouth to hers, kissed him filthy, tasted coffee and rain and the
 
 "Spill in me," she gasped. "Mark the rebuild. Make the careful silence taste like this."
 
-John slammed deep and came hard, cock pulsing, flooding her, forehead pressed to her spine as he shuddered. She clenched around him and followed, orgasm ripping through the mid-want that had lived under her sternum all day, until she was limp and full and laughing once into the pillow because soft rebuild somehow included getting fucked senseless above a diner while a town slept on a thinner quiet.
+John slammed deep and came hard, cock pulsing, flooding her, forehead pressed to her spine as he shuddered. She clenched around him and followed, orgasm ripping through the want that had lived under her sternum all day, until she was limp and full and laughing once into the pillow because soft rebuild somehow included getting fucked senseless above a diner while a town slept on a thinner quiet.
 
 After, he cleaned her with a warm cloth, slow and proprietary, then pressed a kiss to the inside of her thigh. "Hate the lock. Love you. Wake up next to me anyway."
 
 "I will." She carded her fingers through his hair. Rain ticked the window. Market Street cooled. Somewhere, Clara slept without drawing ghosts. Somewhere, Henry kept to back rooms. And [player_name] fell asleep with John's seed still slick between her legs and his arm across her waist—imperfect ending, earned heat, a life that held because they chose to rebuild soft and fuck honest in the space the quiet no longer owned.
 
-Morning came with rainlight and the blue door waiting to stick. John made coffee like penance and pleasure braided. [player_name] felt him in every step downstairs—the good ache, the sealed page's distant weight, the mid-want that soft rebuild never cured, only housed. He caught her behind the register before open, kissed her slow with tongue and promise, palm possessive on her ass. "Thinner quiet," he murmured. "Real fucking. Real us." She nodded against his mouth, poured the first cup for Somerton, and wore the ending under her clothes like heat that belonged only to this choice.`,
+Morning came with rainlight and the blue door waiting to stick. John made coffee like penance and pleasure braided. [player_name] felt him in every step downstairs—the good ache, the sealed page's distant weight, the want that soft rebuild never cured, only housed. He caught her behind the register before open, kissed her slow with tongue and promise, palm possessive on her ass. "Thinner quiet," he murmured. "Real fucking. Real us." She nodded against his mouth, poured the first cup for Somerton, and wore the ending under her clothes like heat that belonged only to this choice.`,
   choices: []
 };

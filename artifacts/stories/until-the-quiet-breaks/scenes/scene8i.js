@@ -32,7 +32,7 @@ Henry's mug clicked against the table. "If she comes in," Henry said carefully, 
 
 Rain thickened. The blue door stuck in memory two streets away. Voss's name sat under [player_name]'s tongue like a coin she had already spent into light in other rooms. Clara's graphite waited. Fryer oil waited for morning. Trust waited in the shape of a porch post and a closed kitchen hinge.
 
-[player_name] wiped rain from her mouth with the back of her hand and tasted old tickets and new courage. She thought of the night she left—Henry too still on the station platform, John not yet told the uglier facts, ambition invented like a civic virtue. She thought of returning with Henry's letter in her pocket and John's want unfinished in her bloodstream. She thought of standing apart as a verb of consequence, not a flinch.
+[player_name] wiped rain from her mouth with the back of her hand and tasted old tickets and new courage. She thought of the night she left—Henry too still on the station platform, John not yet told the uglier facts, ambition invented like a civic virtue. She thought of returning with Henry's letter in her pocket and John's want unfinished in her bloodstream.
 
 Inside, John sat back down. Not surrender—endurance. He planted his scarred thumb on the table edge and said, "Keep talking. The ice. The debt. The yes you asked of her. Every softer morning you stole from Clara's questions. I will decide when I need the door opened. Not you."
 
@@ -40,7 +40,7 @@ Henry nodded once, wrecked and somehow lighter. The mantel clock ticked. Silence
 
 [player_name] stood in it. Wet. Cold. Wanting him with a yearning that was adult and unfinished and completely inappropriate to woodsmoke confession and somehow still the point—because desire without trust was only another pretty cover, and trust without the option to wait or interrupt was only obedience.
 
-The hook set without soft landing: John alone with Henry behind glass, confession still landing in pieces, rain counting time on slate, [player_name]'s body on the porch with two hungers arguing in her pulse—the hunger to trust him enough to stay out until he returned, and the hungrier fear that silence lasting too long meant she should break the door and refuse another generation of Shaw solitude. Freight complained. Boxwood scraped. Henry's voice resumed, low. John's shoulders held. The quiet of Willow Lane leaned in at the wet leaves to hear which loyalty she would spend when the minute stretched past mercy.
+Freight complained. Boxwood scraped. Henry's voice resumed, low. John's shoulders held. The quiet of Willow Lane leaned in at the wet leaves to hear which loyalty she would spend when the minute stretched past mercy.
 
 Wait outside. Or interrupt. The porch post held steady. The morning-night refused to land soft. [player_name] drew a breath that tasted like rain and woodsmoke and old coins and the particular courage of women who had once left to protect a boy and were learning how to stay without sanding his reckoning into something prettier than it was.`,
   textHot: `Willow Lane held its breath, and [player_name]'s body held a different kind of waiting—the kind that lived low in her belly while John closed the kitchen door without looking back and left her on the wet-boxwood porch with rain needling her throat and his last kiss still hot on her mouth.
@@ -59,7 +59,7 @@ Henry looked toward the porch—toward her—and [player_name] did not hide. She
 
 John turned. His eyes found hers through glass and lamp-glare. He did not beckon. He did not wave her off. He only looked—hungry, wrecked, cock still a thick line she could imagine even at this distance—and the look asked whether she trusted him enough to stay soaked and aching on wet wood or loved him enough to break the door when silence stretched past what her body would forgive.
 
-[player_name] wiped rain from her lip with a thumb that still smelled like his skin. Sensory through-line: rain cold on her throat, woodsmoke in her coat, the throb between her legs timed to the mantel clock, John's mouth-memory, the porch post hard against her shoulder blade when she leaned back and almost—almost—slid a hand between her thighs for relief that would have been another private sanding. She forced her hands to the railing. Waiting could be loyalty. Waiting could also be her performing patience while two Shaw men finished a story that had always required her absence to look tidy.
+[player_name] wiped rain from her lip with a thumb that still smelled like his skin. She forced her hands to the railing. Waiting could be loyalty. Waiting could also be her performing patience while two Shaw men finished a story that had always required her absence to look tidy.
 
 Inside, John sat again. "Keep talking," he ordered Henry. "The ice. The debt. The yes. Every softer morning you stole. I decide when the door opens."
 
@@ -69,21 +69,21 @@ She thought of interrupting—boots muddy on kitchen tile, coat open, putting he
 
 John's shoulders held. Henry's voice resumed, low. Rain thickened on slate. [player_name] rolled her hips once against nothing because stillness had become another Shaw lie, then locked still because the choice deserved a clear throat and an unfinished ache.
 
-Clara's floorboard creaked above them—restless honesty listening through wood—and [player_name] almost laughed at the cruelty of timing: a sister waking toward graphite while she stood soaked and aching on a porch practicing trust like a sport she could lose. She thought of the shed crowbar, of rain matching Somerton's outside to its inside, of John's mouth claiming her before the hinge closed. Standing apart had been her verb. Waiting or interrupting would be the next one, and both would leave mud on the Shaw name.
+Clara's floorboard creaked above them—restless honesty listening through wood—and [player_name] almost laughed at the cruelty of timing: a sister waking toward graphite while she stood soaked and aching on a porch practicing trust like a sport she could lose. She thought of the shed crowbar, of rain matching Somerton's outside to its inside, of John's mouth claiming her before the hinge closed. Waiting or interrupting would be the next one, and both would leave mud on the Shaw name.
 
 John's voice dropped further—something about Voss, about payments, about the mornings Henry had practiced weather—and [player_name] pressed her palm flat to the cold glass until the lamp-halo outlined her fingers like a confession of her own. Her cunt throbbed in time with the mantel clock. She could taste the kiss still. She could feel where his cock had branded her hip. Desire was not a distraction from the reckoning; it was proof she had come home in a body, not as a civic ghost Henry could sand into ambition again.
 
 "If the silence goes wrong," she whispered to the glass, knowing he could not hear, "I will not invent patience as virtue. I will knock. I will put my wet coat and my unfinished want back into that kitchen and refuse another generation of men finishing grief without the woman who paid for their cover." Rain answered. Boxwood scraped her wrist. Inside, Henry's shoulders shook once—not quite sob, not quite surrender—and John did not reach for him. Endurance, not comfort. The kind of love that let ugliness breathe.
 
-[player_name] rolled her forehead against the glass and let the unfinished ache stay unfinished on purpose. Coming on the porch while they spoke would have been another private sanding—heat without consequence, body without verb. She kept her hands on the railing. She kept her boots planted. She kept the choice bright behind her teeth where copper lived beside John's name.
+[player_name] rolled her forehead against the glass and let the unfinished ache stay unfinished. Coming on the porch while they spoke would have been another private sanding. She kept her hands on the railing. She kept her boots planted. She kept the choice bright behind her teeth where copper lived beside John's name.
 
 Freight complained longer this time, a whole train arguing with the yard, and Market Street's blue door stuck in her memory like a second heartbeat. Coffee steam. Cracked stool. Fryer hymn waiting for dawn. Mae's slots—held or released—sharpening somewhere in civic dark. Lawyer copies. Burned numbers. Softened relays from other nights. All of it narrowed to this hinge and her pulse and the man who had told her he would need inside her before the rain stopped.
 
-The hook held without soft landing: John alone with Henry, silence stretching, her body humming unfinished, porch rain counting minutes that could mean respect or burial. Wait outside—trust him to return, keep shaking, let him take her after. Or interrupt if the silence lasts too long—break the door, refuse another generation of men sanding grief without her. Freight complained. Boxwood scraped. John's eyes flicked to the glass once more as if he felt her cunt arguing strategy.
+Wait outside—trust him to return, keep shaking, let him take her after. Or interrupt if the silence lasts too long—break the door, refuse another generation of men sanding grief without her. Freight complained. Boxwood scraped. John's eyes flicked to the glass once more as if he felt her cunt arguing strategy.
 
 [player_name] drew a breath that tasted like rain and woodsmoke and his kiss and old coins. The porch post held. The quiet leaned in at the wet leaves to hear which hunger she would feed—the trust that stayed out, or the love that knocked, or the heat that had turned a closed kitchen door into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
-Choose. The glass. The clock. His return or her interruption. Somerton tracked mud either way and the night refused to land soft. She counted three breaths of woodsmoke and two of rain and promised her body that the next verb would be chosen awake, muddy, and unfinished on purpose—not sanded into a prettier waiting.`,
+Choose. The glass. The clock. His return or her interruption. Somerton tracked mud either way and the night refused to land soft.`,
   choices: [
     { id: "scene9e", text: "Wait outside; trust him to return", textHot: "Wait outside soaked for him — trust him to return and take you" },
     { id: "scene9a", text: "Interrupt if the silence lasts too long", textHot: "Break the door if silence lasts — put your body back in the hinge" }

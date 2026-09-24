@@ -46,7 +46,9 @@ Henry looked at his niece as if she had grown a second spine while he was busy p
 
 The fire popped. A page under the paperweight lifted at one corner as if the house itself were restless. [player_name] thought of the diner's pie case ticking through cooler hours, of coffee gone bitter on a back burner, of how differently truth smelled when it was not lemon polish and mantel photographs. She stayed where she was.
 
-The plot turn did not arrive as thunder. It arrived as [player_name] realizing the fork was no longer whether Henry would speak, but who would speak first into the crack he had finally admitted.
+The turn did not arrive as thunder.
+
+It arrived as [player_name] realizing the fork was no longer whether Henry would speak, but who would speak first into the crack he had finally admitted.
 
 John's hand left the chair and found her shoulder—work-rough, warm, a brief press that said he was with her and also that his patience had a floor. She covered his fingers with hers for one heartbeat and felt the burn scar like a private signature. Desire lived under the dread, unfinished from the walk up the hill, unfinished from every almost they had not taken because truth kept arriving in different shapes. She did not kiss him here. Not in Henry's furniture. But her body remembered his mouth anyway—the almost of coffee and rain—and the remembering made her steadier, not softer.
 
@@ -117,7 +119,7 @@ Henry watched their exchange with the exhausted clarity of a man who finally und
 
 Rain hissed in the chimney. Henry's knuckles whitened. His mouth opened on the edge of a name—and stopped when he saw [player_name]'s face, as if her choosing were already a verdict he could feel on his skin.
 
-John's lips brushed her ear, then the hinge of her jaw, unfinished on purpose. "Now," he breathed. "Before he sands it. Bare your part while my hand is still on your pulse—or put Market Street in his throat and make him choke knowing I will take you apart after either way." His thumb returned to her throat for one devastating second, felt her swallow, retreated. Leave-taking that was not leave-taking.
+John's lips brushed her ear, then the hinge of her jaw. "Now," he breathed. "Before he sands it. Bare your part while my hand is still on your pulse—or put Market Street in his throat and make him choke knowing I will take you apart after either way." His thumb returned to her throat for one devastating second, felt her swallow, retreated. Leave-taking that was not leave-taking.
 
 Clara's pencil tapped once. Sharp. Waiting.
 

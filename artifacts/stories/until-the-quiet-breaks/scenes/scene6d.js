@@ -70,17 +70,14 @@ A freight horn sounded far off toward the yard, ordinary Somerton continuing wit
 
 "I am not your cleaner story anymore," she told Henry. "I am the woman on your step with your nephew's hand on my back and a creditor's exchange in my fist. Audience is not mercy. Audience is whether John hears you break in stereo or in replay. Choose nothing—I choose. That is what coming home cost you."
 
-Henry nodded once, small, defeated at the edges. The clock ticked. Rain stitched the dark. John's heat at her spine did not fade; if anything the pause made it louder, want sitting beside justice like a second pulse.
-
-The hook set itself without soft landing: confession inevitable, sequence not, body leaning toward a man who had not forgiven winter and a doorway that still had not swallowed them.
-`,
+Henry nodded once, small, defeated at the edges. The clock ticked. Rain stitched the dark. John's heat at her spine did not fade; if anything the pause made it louder, want sitting beside justice like a second pulse.`,
   textHot: `Willow Lane smelled like wet boxwood and woodsmoke, and [player_name]'s body still hummed from the diner like unfinished sex had hitched a ride in the passenger seat beside John.
 
 She killed the engine. Rain ticked the hood. The scrap with Voss's exchange number stuck to her damp palm. John's hand found her thigh in the dark—not comforting: claiming, thumb stroking the inner seam where she was still sensitive, still wet from earlier negotiations they had postponed to come wake a liar.
 
 "We wake him," she said, voice rough. "With the number. No kindness."
 
-"If I go in with you I will not be polite," John said. His fingers pressed higher, shameless, a through-line of heat against dread. "If you go alone I will stand in the boxwood hard and furious counting minutes. Audience is the fork. Me hearing him break—or you hearing him and then fucking the relay into me with your mouth afterward so nothing gets sanded. Pick knowing my cock is still in this conversation because you left me aching to chase paper."
+"If I go in with you I will not be polite," John said. "If you go alone I will stand in the boxwood hard and furious counting minutes. Audience is the fork. Me hearing him break—or you hearing him and then fucking the relay into me with your mouth afterward so nothing gets sanded. Pick knowing my cock is still in this conversation because you left me aching to chase paper."
 
 "Jesus, John."
 
@@ -94,7 +91,7 @@ Henry looked at John in the rain and the look was a plea. John stepped onto the 
 
 "Do not ask her to be your priest again," John said. "Do not look at me for permission to lie. Speak. In front of me—or alone to her while I wait outside inventing ways to ruin this doorway with my hands."
 
-The physical through-line held: thigh in the car, hand at her back now as he spoke, heat at her spine while woodsmoke and whiskey ghosted from the kitchen. [player_name] leaned into that hand even as she kept the scrap aloft like a warrant. Her nipples peaked in the cold; adrenaline and leftover arousal made a filthy braid; she hated how much waking Henry felt like foreplay for something that had no right to be erotic and was anyway because John's voice kept dropping into the register he used when he talked about fucking her through an apology.
+[player_name] leaned into that hand even as she kept the scrap aloft like a warrant. Her nipples peaked in the cold; adrenaline and leftover arousal made a filthy braid; she hated how much waking Henry felt like foreplay for something that had no right to be erotic and was anyway because John's voice kept dropping into the register he used when he talked about fucking her through an apology.
 
 "Confess the winter," she ordered Henry. "Ice. The body. The ask. My yes. The creditor. Unsanded. Choose your audience—nephew in the room, or me alone then a relay that will not spare you when I put the words in John's ear with my mouth still close enough to bite."
 
@@ -119,7 +116,6 @@ The please tried to sand. [player_name] did not let it. She turned in John's gri
 "Choose the audience," John said to her. "Make him confess in front of me—watch his mouth unsand winter while I hold your hip like I am reminding us both what we came back to the diner for. Or make him confess to you alone, then relay every word into me in the rain until I am shaking as hard as you, touch braided to testimony so the second telling cannot become theater. Either way Voss gets named in this house. Either way I take you home after and finish what the drive interrupted—unless the confession kills wanting, which I doubt, because wanting you survived fifteen years of worse weather."
 
 His unfinished kiss hovered at her temple. Henry waited in the doorway throat. The exit hurt: who hears the break, braided to bodily want loud enough that porch boards and boxwood and whiskey could not shame it back into quiet.
-
 
 The porch boards creaked under their shared weight. [player_name] turned enough to catch John's mouth in a kiss that was all teeth and rain and postponed fucking—brief, vicious, a promise that confession would not get to cancel the body. He groaned into her. His cock pressed her hip. Henry looked away like a man who had invented exile and was now watching desire refuse to be exiled with the truth.
 
@@ -147,8 +143,7 @@ She could smell her own want under the rain—salt, skin, the frank dampness of 
 
 Boxwood dripped down her collar. The scrap crumpled in her fist. Henry's cardigan looked suddenly small. The night held its breath like a held moan.
 
-"Vote," John said. "Hook. No soft land. Now."
-`,
+"Vote," John said. "Hook. No soft land. Now."`,
   choices: [
     { id: "scene7f", text: "Make him confess in front of John", textHot: "Make him confess in front of John — keep your hand on him while he hears" },
     { id: "scene7g", text: "Make him confess to you alone, then relay", textHot: "Take the confession alone — relay it raw into John in the rain" }

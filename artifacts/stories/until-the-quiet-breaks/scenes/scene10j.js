@@ -6,17 +6,17 @@ export default {
 
 She pulled him into the rain instead.
 
-Bittersweet Train was not a clean departure and not a sealed forever. It was boots wet on purpose, departure and devotion sharing a timetable, an unfinished promise spoken out loud while the conductor's call grew nearer down the line. John's hair darkened. Gold eyes shone. Coffee and night still lived faintly in his coat from closing the blue door to follow her here.
+It was boots wet on purpose, departure and devotion sharing a timetable, an unfinished promise spoken out loud while the conductor's call grew nearer down the line. John's hair darkened. Gold eyes shone. Coffee and night still lived faintly in his coat from closing the blue door to follow her here.
 
 "You're not leaving as fiction," he said, voice low, diner-rough even here. "You're not staying as penance. What are we, then?"
 
 "Trying," [player_name] answered. Rain stitched silver between them. "Soft door left open—not a threat. A mercy. In case honesty isn't enough some season. In case spectacle comes and we need an exit that isn't another fifteen-year silence. Tonight the door is us on these boards deciding the story isn't finished even if the ticket says otherwise."
 
-John kissed her once—slow, deliberate, a vow with soft edges—and pulled back just enough to give her air. Mid-want echoed through the cold: unfinished heat, adult yearning, the aftertaste of Market Street's cracked stool and Willow Lane's woodsmoke still ghosting her hair from morning. Trust remained the plot. The platform refused neat morals.
+John kissed her once—slow, deliberate, a vow with soft edges—and pulled back just enough to give her air. Want echoed through the cold: unfinished heat, adult yearning, the aftertaste of Market Street's cracked stool and Willow Lane's woodsmoke still ghosting her hair from morning. Trust remained the plot. The platform refused neat morals.
 
 "I can live inside unfinished," he said. "I've been living inside unfinished since you first left. Difference is now you're narrating it with me instead of for me." His thumb brushed rain from her cheekbone. "We ride as far as the next honest stop. We come back when the diner needs us. Clara knows. Henry can sit with whatever truth he can stand. We don't owe Somerton a single pretty ending on a porch."
 
-A porter rattled past. Ordinary station noise tried to make the night small. [player_name] refused smallness. She thought of open secrets she had not chosen tonight, of sealed archives she had declined, of Henry redeemed or exiled in other branches of a life she was not living—this platform was its own destination. Departure and devotion in the same rain. John Shaw's gravity and her spine agreeing without costumes.
+A porter rattled past. Ordinary station noise tried to make the night small. [player_name] refused smallness. Departure and devotion in the same rain. John Shaw's gravity and her spine agreeing without costumes.
 
 They did not catch the first train. The delay stretched; they used it to stand forehead to forehead under the overhang, breathing shared cold, wanting without resolving into forever language. When a later train finally sighed in, John carried her small bag and she kept the ticket visible—not as escape staged for witnesses, but as proof the soft door existed in paper as well as promise.
 
@@ -30,12 +30,12 @@ They texted Clara: *trying. soft door. back by Friday shift.* Clara replied with
 
 On the return platform two days later, rain again, John laced his fingers with [player_name]'s and smiled the hurt-true smile she loved. "Same unfinished?" he asked.
 
-On the Friday shift Clara left two mugs at the cracked stool and a note in charcoal: *Unfinished looks good on you.* John read it, smiled that hurt-true smile, and brushed [player_name]'s knuckles under the counter while the blue door stuck open on a town that did not get to own their timetable. Mid-want lived in the steam between them—soft door intact, devotion still traveling, rain still possible on any platform they chose next.
+On the Friday shift Clara left two mugs at the cracked stool and a note in charcoal: *Unfinished looks good on you.* John read it, smiled that hurt-true smile, and brushed [player_name]'s knuckles under the counter while the blue door stuck open on a town that did not get to own their timetable. Want lived in the steam between them—soft door intact, devotion still traveling, rain still possible on any platform they chose next.
 
-"Same unfinished," she said. Desire and consequence shared the boards. The quiet had broken into something that could travel. Bittersweet Train held—departure and devotion, ticket and hand, wake-up promised in whatever town the next honest stop required—as long as John Shaw stood in the rain with her and called it by its real name.`,
+"Same unfinished," she said. Desire and consequence shared the boards. The quiet had broken into something that could travel.`,
   textHot: `The station platform hissed like a mouth against [player_name]'s ear—rain needling slate, freight breathing, timetable delaying like fate with a filthy sense of humor. John Shaw flush at her back, cock a hot line through jeans when wind pushed him closer. Ticket in her coat. She did not board alone.
 
-She pulled him into the rain and into the farther overhang's brick shadow, unfinished on purpose.
+She pulled him into the rain and into the farther overhang's brick shadow.
 
 "Bittersweet," John rasped, hands already under her coat, popping her jeans button like the delay was a room they had rented. "Not fiction leaving. Not penance staying. Soft door. Wet boots. Me fucking the undecided into something we can survive." His fingers slid into her cunt—two, thick, curled—right there with rain as curtain enough. "Say the ending while you're clenching on me."
 
@@ -55,8 +55,6 @@ Morning: freight far off, his lazy cock against her ass, ticket on the nightstan
 
 On the return platform John crowded her briefly behind brick again—just a kiss with tongue and a promise pressed to her lower lip: "Same unfinished. Same wet heat whenever the delay allows."
 
-After Friday close he took her upstairs still smelling of fryer hymn and station rain memory, stripped her slow, and fucked her with the ticket stub on the nightstand like a witness. "Same unfinished," he said into her mouth, driving deep. "Same soft door. Same cunt on my cock whenever trying asks for proof." She came shaking, laughing wetly, and held him through his follow—bittersweet, vulgar, earned, belonging only to platforms and returns.
-
-Bittersweet Train in body-POV: rain, ticket, John's cock, devotion that could travel, wake-ups in whatever town trying required—and [player_name] choosing the unfinished with her thighs still remembering him as Somerton's slate roofs came back into view.`,
+After Friday close he took her upstairs still smelling of fryer hymn and station rain memory, stripped her slow, and fucked her with the ticket stub on the nightstand like a witness. "Same unfinished," he said into her mouth, driving deep. "Same soft door. Same cunt on my cock whenever trying asks for proof." She came shaking, laughing wetly, and held him through his follow—bittersweet, vulgar, earned, belonging only to platforms and returns.`,
   choices: []
 };

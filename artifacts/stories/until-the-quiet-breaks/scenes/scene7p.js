@@ -34,7 +34,7 @@ His free hand found her waist, fingers spanning ribs as if counting whether she 
 
 "Say it," John murmured against her mouth, still not kissing, crowbar still ready. "Let me smash the shed lock and stay with me in what falls out—or pull me into the rain and make living the louder verb. Before I stop being able to tell anger from wanting you. Before morning invents Henry's face at any door. Before the quiet pretends it still works."
 
-[player_name]'s palm slid from his wrist to the crowbar's cold shaft, feeling the weight without taking it yet—shared gravity. Her other hand fisted in his coat. The hook held: unanswered smash, unanswered kiss, unanswered living, desire and justice fighting for the same bloodstream. Wet boxwood scraped. Woodsmoke ghosted. The bulb hummed like a warning.
+[player_name]'s palm slid from his wrist to the crowbar's cold shaft, feeling the weight without taking it yet—shared gravity. Her other hand fisted in his coat. Wet boxwood scraped. Woodsmoke ghosted. The bulb hummed like a warning.
 
 He told her, without theater, what the second lock might hold: tools, another folder, nothing, a bottle, a photograph, a gun for coyotes Henry had never shot, a box of screws. The inventory was not the point. The point was that Henry had bolted something in a shed already full of proof and expected metal to finish the argument silence started. John's crowbar was a rebuttal in iron. [player_name]'s presence was a rebuttal in flesh. Together they made a sentence Somerton had not practiced saying aloud.
 
@@ -46,7 +46,7 @@ John's mouth twitched—wrecked almost-smile. "You always could say the hard thi
 
 "It is ordinary weather now," she answered. "Rain. Oil. Rage. Want. Choice. Somerton finally matching its outside to its inside."
 
-They stood in that matching for a long breath. The bulb flickered and steadied. Somewhere in the house direction a board creaked—Clara or Henry or the building remembering weight. [player_name] did not look away from John. Looking away was how almost recruited. She kept her palm near the crowbar and her other hand in his coat and let the fork hurt exactly as much as craft demanded: unanswered smash, unanswered rain, no soft land before the verb.
+They stood in that matching for a long breath. The bulb flickered and steadied. Somewhere in the house direction a board creaked—Clara or Henry or the building remembering weight. [player_name] did not look away from John. Looking away was how almost recruited.
 
 She drew a breath that tasted like oil and rain and coffee-ghost and the particular courage of women who had said yes for love once and were learning how to say stay without sanding.
 
@@ -67,7 +67,7 @@ She laughed once, wrecked, and the sound fogged between them. Coffee-ghost on hi
 
 John's forehead tipped to hers. Crowbar cold. Cock thick against her belly through clothes. "Both sound like fucking when you say them. Only one leaves a chest in pieces."
 
-"Clara can sketch either aftermath," [player_name] said, and shoved her hand between them to palm him through denim—one firm claim, not a distraction, a through-line. He groaned like a man stabbed sweetly. "I will not use her as stop sign or permission slip. I will use my hand on your cock to keep the negotiation honest while you decide whether justice needs splinters or hips."
+"Clara can sketch either aftermath," [player_name] said, and shoved her hand between them to palm him through denim. He groaned like a man stabbed sweetly. "I will not use her as stop sign or permission slip. I will use my hand on your cock to keep the negotiation honest while you decide whether justice needs splinters or hips."
 
 "Christ." He thrust into her palm once and froze, breathing like a cliff edge. Rain hammered tin. Woodsmoke ghosted from the house. Freight complained. Ordinary Somerton continued while she stroked him slow through cloth and he kept the crowbar lifted like a vow he had not sworn yet. "I stood in unforgiveness and asked you to stand with me. Or I put my shoulder into this shed and asked if breaking was allowed. Either road dropped us here. I need your verb before I invent it alone and resent your silence while I come to nothing but anger."
 
@@ -87,9 +87,9 @@ He fucked into her fist through denim with tiny helpless strokes while she spoke
 
 [player_name] sucked his thumb clean because refusing would have been a different kind of lie, then put both hands on the crowbar with him—shared iron, shared heat—her chest to his chest, cunt throbbing against the thigh he shoved between hers. "Then feel me choose with my whole body against you," she whispered. "Not a polite nod. A verb."
 
-Outside, wet boxwood slapped the wall. Inside, oil and rope and the smell of her on his hand rewrote the shed into a chapel that would not forgive them for almost. John's grey eyes held. The second lock held. The unfinished kiss held.
+Outside, wet boxwood slapped the wall. Inside, oil and rope and the smell of her on his hand rewrote the shed into a chapel that would not forgive them for almost. John's grey eyes held. The unfinished kiss held.
 
-She held the ache—his and hers—without finishing either, using unfinished heat as the craft bar demanded: hook, consequence, body-POV through-line. The second lock grinned. Wet boxwood scraped. Oil and rope and want filled her lungs. [player_name] tasted copper and rain and John and the particular courage of women who refused to sand fury into polite grief.
+She held the ache—his and hers. The second lock grinned. Wet boxwood scraped. Oil and rope and want filled her lungs. [player_name] tasted copper and rain and John and the particular courage of women who refused to sand fury into polite grief.
 
 He waited, shaking, crowbar raised, fingers crooked inside her, cock leaping against her palm. The quiet cracked.
 
@@ -102,6 +102,6 @@ John's answer was a broken sound and a stiller crowbar held ready, fingers of hi
 She drew a breath that refused soft landing. The choice sat bright and filthy behind her teeth—smash and stay, or rain and live—while the shed held every unanswered thrust and every unanswered splinter like a dare.`,
   choices: [
     { id: "scene8i", text: "Hand him the swing — stay through splinters", textHot: "Hand him the swing — stay wet through the wreckage" },
-    { id: "scene8d", text: "Drag him into rain — living over bolts", textHot: "Drag him into rain — fuck living louder than wreckage" }
+    { id: "scene8p", text: "Drag him into rain — living over bolts", textHot: "Drag him into rain — fuck living louder than wreckage" }
   ]
 };

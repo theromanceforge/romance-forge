@@ -38,7 +38,7 @@ Henry looked at his nephew like a man seeing a verdict he wrote himself. "John�
 
 "Not yet," John said. "Her floor."
 
-[player_name] tasted copper and chimney rain. She thought of the diner's blue door, of Market Street regulars, of Voss's closed file and open shadow. She thought of John's mouth at her ear in this same house's weather an hour ago—or a night ago—time had gone slick. The hook was not Henry's unfinished defense. It was what she would demand of the man who had asked a twenty-year-old for silence and received it.
+[player_name] tasted copper and chimney rain. She thought of the diner's blue door, of Market Street regulars, of Voss's closed file and open shadow. She thought of John's mouth at her ear in this same house's weather an hour ago—or a night ago—time had gone slick. It was what she would demand of the man who had asked a twenty-year-old for silence and received it.
 
 "I can ask you for forgiveness I may not give," she said slowly, each word a stone. "I can put the question in your hands and watch you reach for absolution you have not earned while I decide whether mercy is possible. Or I can refuse forgiveness entirely—demand restitution instead: truth spoken where it counts, papers copied, the cover ended in daylight, whatever cost falls on your name instead of John's bed and Clara's childhood. One road leaves room for a softer ending I do not trust yet. The other makes the ledger bleed in public and private until the quiet cannot be restacked."
 
@@ -46,7 +46,7 @@ Henry's unfinished word from earlier still seemed to hang near the paperweight. 
 
 "He will take whichever door you open," John murmured. "Open the one you can walk through tomorrow without hating your own mouth."
 
-Outside, boxwood dripped. Inside, woodsmoke and consequence thickened. [player_name] looked at Henry's lined face, at the boy he had tried to spare, at the sister who refused sanding, at the papers under glass. Obsession-grade tension filled the room—not pretty grief, not tidy redemption. A woman who had said yes at twenty asking whether the man who wrote the ask deserved a path to pardon or only a bill.
+Outside, boxwood dripped. Inside, woodsmoke and consequence thickened. [player_name] looked at Henry's lined face, at the boy he had tried to spare, at the sister who refused sanding, at the papers under glass. A woman who had said yes at twenty asking whether the man who wrote the ask deserved a path to pardon or only a bill.
 
 The silence broke open on her next breath without yet choosing what would fill it: forgiveness requested like a blade she might not hand over—or restitution demanded like a door kicked off its hinges. Either exit hurt. Either exit moved. Henry waited with his hands flat and his script gone. John waited with his pulse in her palm. Clara waited with charcoal under her nails and eyes that had already seen too much to prefer pretty.
 
@@ -58,13 +58,13 @@ Henry rose halfway and sat again, as if his body could not decide whether confes
 
 "Restitution could mean noon at the diner," John offered, voice careful, eyes not careful at all. "It could mean Mae. It could mean a written statement. Forgiveness could mean none of that yet—only a word and a long night of deciding whether the word was real. I am not guiding you. I am naming the weather."
 
-[player_name] nodded once. The room had narrowed to verbs. Ask. Refuse. Demand. Give. Withhold. Every pretty description of grief had burned off in the grate. What remained was obsession with the truth's shape and the bodily knowledge that John's nearness made every sentence cost more—and somehow that cost was the point.
+[player_name] nodded once. Ask. Refuse. Demand. Give. Withhold. Every pretty description of grief had burned off in the grate. What remained was obsession with the truth's shape and the bodily knowledge that John's nearness made every sentence cost more—and somehow that cost was the point.
 
 John squeezed her hand once and released it, as if returning her fully to the choice. Henry leaned forward, elbows on knees, the posture of a man ready to bargain with ghosts. "If you ask," he said hoarsely, "I will say whatever you need to hear. If you demand, I will open every drawer Clara has not already emptied. I am out of clean stories. I am not out of fear."
 
 "Fear is not currency anymore," Clara said. "It spent itself."
 
-[player_name] listened to the rain on slate beyond the boxwood, to the clock, to her own breath. Sensory first: smoke, graphite, wet wool. Emotion: fury braided to pity braided to the unfinished heat of John's nearness. Plot: two doors, both locked from the inside until she turned a verb. The station platform of her leaving flickered and died. This room was the new geography. Forgiveness requested—or restitution demanded—and neither would let her walk out pretty.`,
+[player_name] listened to the rain on slate beyond the boxwood, to the clock, to her own breath. Sensory first: smoke, graphite, wet wool. Emotion: fury braided to pity braided to the unfinished heat of John's nearness. The station platform of her leaving flickered and died. This room was the new geography. Forgiveness requested—or restitution demanded—and neither would let her walk out pretty.`,
   textHot: `Willow Lane smelled like wet boxwood and woodsmoke and the particular fear of a house that had practiced silence too long—and [player_name]'s pulse still hammered where John had kissed her before they knocked.
 
 He had crowded her against the porch seam in the rain, mouth hungry, thigh shoved between hers, and whispered, "Your part first—confess before he finds a sentence—and keep my hand on you while you do it so you do not float away into penance." His palm had stayed at the small of her back when Henry opened the door. It stayed there now in the front room, fingers splayed under her sweater against bare skin, a secret claim while she stripped the cover aloud.
@@ -93,7 +93,7 @@ John groaned softly into her neck. "Both roads I stay hard through the hearing,"
 
 Clara snorted. "I would charge admission."
 
-Henry's hands flattened harder on his knees. His unfinished word from before still hung near the glass paperweight like paper held over flame. [player_name] felt John's thumb slip under her waistband at the back—just the tip, a promise—and the fork sharpened into body-POV consequence.
+Henry's hands flattened harder on his knees. His unfinished word from before still hung near the glass paperweight like paper held over flame. [player_name] felt John's thumb slip under her waistband at the back—just the tip, a promise—and the fork sharpened into consequence.
 
 "Open the door you can fuck through tomorrow without hating your mouth," John murmured, echoing his own earlier care with heat now braided in. "Forgiveness as a question you might deny—or restitution with teeth. I will not choose it. I will only keep my hand where it is until you do."
 
@@ -105,7 +105,7 @@ Henry rose halfway and sat again. John did not move his hand from [player_name]'
 
 "Do not praise me while his hand is on my ass," [player_name] said, sharp enough to cut woodsmoke. "Praise is sanding. I am not here to be a better story. I am here to end one." She tipped her hips back deliberately, felt John hiss, and kept her eyes on Henry. "You get a verb from me. Forgiveness asked—or restitution demanded. After that you get whatever daylight we choose. You do not get to narrate my wanting as proof I have already pardoned you."
 
-John's laugh was wrecked against her neck. "Tell him. Then let me get you out of these jeans before I come in my pants in my uncle's front room like a teenager who never learned quiet." His fingers slid fully under her waistband then, cupping bare cheek, middle finger teasing lower until she had to bite her lip. Clara made a disgusted, fond sound and looked hard at her sketchbook. The mantel clock ticked through their indecency without comment. Rain kept time. The papers waited. Obsession sat in the room brighter than flame: truth, cock, charcoal, guilt, and a woman about to spend a verb that would hurt. John's finger slipped further, teasing her cunt through the last thin barrier of cotton, and [player_name] had to steady herself on the mantel clock like a sinner at an altar. "Ask or bill," he whispered. "I am done being quiet either way. Your yes built this room's lie. Your next word builds what we fuck through after. Make it count. Make it hurt. Make it mine to witness." Henry's eyes shone with something like ruin. Clara's pencil snapped a tip and kept going anyway. The quiet of Willow leaned in for the verb—forgiveness requested like a blade, or restitution demanded like a door torn off—while [player_name]'s body clenched around John's touch and refused to pretend the ledger and the wanting lived on separate pages.
+John's laugh was wrecked against her neck. "Tell him. Then let me get you out of these jeans before I come in my pants in my uncle's front room like a teenager who never learned quiet." His fingers slid fully under her waistband then, cupping bare cheek, middle finger teasing lower until she had to bite her lip. Clara made a disgusted, fond sound and looked hard at her sketchbook. The mantel clock ticked through their indecency without comment. Rain kept time. The papers waited. Obsession sat in the room brighter than flame. John's finger slipped further, teasing her cunt through the last thin barrier of cotton, and [player_name] had to steady herself on the mantel clock like a sinner at an altar. "Ask or bill," he whispered. "I am done being quiet either way. Your yes built this room's lie. Your next word builds what we fuck through after. Make it count. Make it hurt. Make it mine to witness." Henry's eyes shone with something like ruin. Clara's pencil snapped a tip and kept going anyway.
 
 John's fingertip traced the top of her cleft through jeans from behind—barely there, devastating—while Henry watched them like a man learning too late that protection had never included this kind of honesty. "If you ask him," John breathed, "I will hold you through the word even if you never hand it over. If you bill him, I will help you collect—and then I will take you to the shed or the car or the damn stairs and fuck the adrenaline out of us until woodsmoke smells like sex instead of guilt."
 

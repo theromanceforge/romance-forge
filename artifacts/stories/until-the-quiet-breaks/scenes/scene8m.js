@@ -30,7 +30,7 @@ Mae's gold lettering fogged two storefronts away in memory. Coffee steam thicken
 
 Clara slid off the stool, sketchbook hugged to her chest. "Then pick before the coffee dies," she said, almost gentle, which from Clara was sharper than shouting. "I can set three plates. I can also walk you both to the platform and refuse to cry if the hiss wins for an hour. What I cannot do is watch you rehearse tenderness until morning invents your choice for you."
 
-John's thumb stroked once at [player_name]'s pulse—consequence, not comfort. Fryer oil slept. Freight complained. The blue door stuck in its frame like a held breath. Wet boxwood. Woodsmoke. Papers under glass. Clara's graphite waiting. Henry's unfinished forgiveness. The hook set without soft landing: fragile hope poured into a closed diner, celebration or station undecided, John's hand on [player_name]'s wrist like a vow that still smelled like rain, the particular hurt of a woman who had closed a ledger and was now deciding whether joy got to practice before fear finished its speech.
+John's thumb stroked once at [player_name]'s pulse—consequence, not comfort. Fryer oil slept. Freight complained. The blue door stuck in its frame like a held breath. Wet boxwood. Woodsmoke. Papers under glass. Clara's graphite waiting. Henry's unfinished forgiveness.
 
 [player_name] drew a breath that tasted like coffee and old coins and lemon oil and the courage of ending a quiet without demanding the ending be pretty. The pie-case lamps held steady. Market Street leaned in at the gutter to hear which hunger she would feed first—the family's need for a plate in the light, or the station's need to test a vow against the place tickets are bought.
 
@@ -78,8 +78,6 @@ John rolled his hips once—helpless, then locked still—and breathed hard enou
 Choose. John's cock. Clara's closed sketchbook. Plates or platform hiss. Fragile hope waited to be fucked into a future or stress-tested in the rain, and either way the blue door would stick like a held breath that finally learned how to moan.
 
 Rain thickened until Market Street became a wet mirror for everything her body already knew: John hard behind her, cotton ruined, hope filthy with wanting, Clara's patience a timer, the ledger closed enough to let fucking mean future instead of escape. [player_name] tasted copper and coffee and the particular courage of women who refused to let celebration or station go soft just because fear asked politely.
-
-She catalogued the empty diner like a body: booth shadows as open mouths, pie-case glow as heat on skin, cracked stool as the place John would bend her if reopen won, platform hiss as the place he would finger her honesty if station won. Wanting was not the fork. The fork was which sentence got to own the night before Henry's weather tried to sand it again.
 
 She catalogued the empty diner like a body: booth shadows as open mouths, pie-case glow as heat on skin, cracked stool as the place John would bend her if reopen won, platform hiss as the place he would finger her honesty if station won. Wanting was not the fork. The fork was which sentence got to own the night before Henry's weather tried to sand it again.`,
   choices: [

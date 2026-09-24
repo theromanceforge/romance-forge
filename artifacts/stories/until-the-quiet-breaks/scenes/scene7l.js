@@ -52,7 +52,7 @@ A stool scrape's memory lived in her bones. Fryer hymn. Station platform hiss. T
 
 "Either exit," John promised. "I will not love you less for hope or for inventory. I will only need your mouth after—against the blue door, against wet boxwood, against whatever answer he gives—because watching you close a ledger in daylight and then choose what to do with the quiet is going to live in my body longer than any cover Henry ever sanded."
 
-The hook set without soft landing: receipt warm, stamp dry, rain on slate, John's thumb on her pulse, Henry already walking toward a mantel clock that knew more than the notary, the particular hurt of a woman who had bought a ticket home and was now deciding whether closed debt deserved fragile hope first or an interrogation of the sacrifice that made the stamp possible. [player_name] drew a breath that tasted like toner and rain and coffee and the courage of a quiet that had finally been paid to crack.
+[player_name] drew a breath that tasted like toner and rain and coffee and the courage of a quiet that had finally been paid to crack.
 
 Celebrate. Or ask the cost. The awning held. Market Street leaned in at the gutter. The blue door stuck across the wet asphalt like a promise that needed force, and Willow Lane held woodsmoke and an uncle who had said the uglier math was not on the receipt.
 
@@ -81,7 +81,7 @@ Then he was gone, and John shoved [player_name] back under the tin roar with his
 
 John laughed once, wrecked, and shoved past her waistband—two fingers finding cotton soaked through, humiliating under Market Street rain, honest as freight—and pressed against her clit through the fabric, a brand aimed at decision not orgasm. "Celebrate the closed debt with fragile hope," he said against her throat, open mouth, one suck she would feel later when she swallowed coffee. "Come home to the diner. Let me bend you over the counter that leaned through fifteen years of my waiting. Let fragile hope mean I finally get inside the woman who carried my family's silence in her cunt and her ticket and her practiced brighter rooms." His fingers rubbed once, filthy, precise. "Or feel the cost—ask what Henry sacrificed to pay—and I will still need to fuck you after, against wet boxwood or the truck hood, because hearing the inventory will not make my cock forget how you looked signing daylight."
 
-Sensory through-line: his fingers, the rain, the receipt, the blue door waiting across wet asphalt, woodsmoke memory up the hill, toner still on her tongue from the notary's air. Emotion: triumph braided to want braided to the fear that hope might be another costume. Plot: ledger dead; cost uncounted; John's hand refusing to leave her cunt while the choice hardened.
+Emotion: triumph braided to want braided to the fear that hope might be another costume. Plot: ledger dead; cost uncounted; John's hand refusing to leave her cunt while the choice hardened.
 
 "I rebuilt that diner around a wound," John murmured, withdrawing his fingers slowly enough that rain almost covered the wet sound, catching her wrist instead with a sticky thumb on her pulse. His cock still pressed her. "I can survive asking Henry the uglier math. What I cannot survive is watching you invent a third road where nobody gets muddy and nobody gets fucked honest. Celebrate—fragile hope, blue door, my mouth on your cunt before the fryer even lights. Or ask the cost—Willow, mantel, every sacrifice named—then take the shake out on me after. Speak the verb while you are still wet enough to mean it."
 
@@ -91,7 +91,7 @@ Sensory through-line: his fingers, the rain, the receipt, the blue door waiting 
 
 "Either exit," John promised, rolling his hips once—helpless, then locked still—against her. "I will not love you less. I will only need inside you after. Celebrate the closed debt with fragile hope—or feel the cost and ask what Henry sacrificed to pay. The awning is not a soft landing. The stamp is dry. Your cunt is not. Choose before I forget which justice we were negotiating and put my mouth on you right here where Mae could fog the gold lettering looking this way."
 
-A delivery truck hissed past. Coffee steam ghosted from the dark diner. The cracked stool leaned. Freight complained. [player_name] laughed once, fogging the space between their mouths, and felt the hook set: receipt warm, body humming, Henry walking toward a clock that knew the missing line, John's cock and John's vow and John's refusal to steer living in the same breath as rain on slate and a blue door that stuck.
+A delivery truck hissed past. Coffee steam ghosted from the dark diner. The cracked stool leaned. Freight complained.
 
 John's free hand found the back of her neck—gentle, claiming—and pressed his forehead to hers under the tin roar. "I waited for trains," he whispered, filthy and tender in the same syllable. "I can wait another minute for your verb. I cannot wait while you sand yourself polite because my uncle bought us a quieter column. Hope or inventory. Feast or ask. Both muddy. Both mine if you are. Do not invent a stamp that lets your body lie about what it wants from this afternoon."
 

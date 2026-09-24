@@ -26,7 +26,7 @@ John set the plate down. "You'll hear more. Some of it true. Some of it uglier t
 
 The man nodded, chastened into ordinary hunger. [player_name] felt something unclench under her ribs—not forgiveness for Henry, not yet, maybe not ever in a clean way, but the sensation of a town learning a new grammar for the Shaw name. The freight in the yard whistled once and fell quiet, as if even the trains were listening for a different ending.
 
-Through the afternoon the blue door stuck and opened, stuck and opened. John's shoulders carried the diner the way they always had, but his glance kept finding her—checking, anchoring, offering the kind of look that said trust was no longer theoretical. Attraction had never been the hard part. Trust had been the plot. Today the plot paid out in public: a hand at the small of her back when a curious silence stretched too long, a mug refilled before she asked, the cracked stool left empty beside the register as if the lean itself were saving a place for her.
+Through the afternoon the blue door stuck and opened, stuck and opened. John's shoulders carried the diner the way they always had, but his glance kept finding her—checking, anchoring, offering the kind of look that said trust was no longer theoretical. Attraction had never been the hard part.
 
 Willow Lane that evening smelled of wet boxwood and the last honest woodsmoke. The mantel clock ticked without sounding like a threat. Henry kept to the back rooms; the glass weight sat aside on the mantel, useless now that nothing needed pressing into false innocence. Clara left sketches on the kitchen table: not accusations now, but a diner door drawn open, a train platform empty on purpose, two figures behind a counter with light on their faces. In the margin she had written, in a girl's restless hand that had grown sure: *daylight*.
 
@@ -83,7 +83,7 @@ John lifted her, carried her to the bed, stripped her jeans and underwear in one
 
 "Watching you tell them." She rocked against his mouth. "Watching you refuse to flinch. It did something to me."
 
-"Good." He sucked her clit hard, two fingers pushing into her cunt and curling. "Trust was the plot. This is the chapter where the plot gets its reward."
+"Good." He sucked her clit hard, two fingers pushing into her cunt and curling.
 
 She came on his tongue with a broken sound, thighs shaking around his ears, and he didn't give her time to soften—he climbed up, lined his cock against her soaked entrance, and pushed into her in one long, thick stroke until she was full, stretched, crying out into his shoulder. The bedframe knocked the wall. Below them, Market Street went on being Market Street. Above, John fucked her with the patience of a man who had rebuilt a diner and the hunger of a man who finally had nothing sealed between them.
 

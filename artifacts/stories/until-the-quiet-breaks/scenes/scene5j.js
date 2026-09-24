@@ -54,7 +54,7 @@ John braced both hands on the counter again and let his head hang for three brea
 
 "I have questions that will take an hour," he said. "Maybe all night. I can ask them with you standing here answering until your voice gives out. Or—" he glanced toward the dark glass, toward the hill where Willow held Henry and Clara and wet boxwood "—you can give me the space to read it twice more without performing strength in front of you, and wait with Clara while I decide whether I am coming up that hill as a nephew or as a reckoning."
 
-[player_name] felt the fork arrive the way rain arrives: sensory first (paper smell, cold coffee, the ache in her own hands from not reaching for him), then emotion (fear of leaving him alone with Henry's ink; fear of crowding him into a forgiveness he did not owe), then the plot turn, clean as a blade on laminate.
+[player_name] felt the fork arrive the way rain arrives: sensory first (paper smell, cold coffee, the ache in her own hands from not reaching for him), then emotion (fear of leaving him alone with Henry's ink; fear of crowding him into a forgiveness he did not owe).
 
 Stay and answer every question—body present, voice raw, no exit between lines.
 
@@ -125,9 +125,9 @@ She did not ask him to move it. She answered the next line with her voice shakin
 
 "Not a threat." His smile was all teeth and grief. "A forecast. Now choose the weather."
 
-John's mouth hovered a breath from hers—kiss unfinished on purpose, cruel with need—while his finger pinned Henry's last line to the laminate.
+John's mouth hovered a breath from hers—kiss unfinished, cruel with need—while his finger pinned Henry's last line to the laminate.
 
-"Stay and I will keep you on that stool while I gut every sentence," he said against her lips, not quite kissing, making her chase it. "My hand on your thigh. Your answers in my mouth. No escape hatch between paragraphs." His hips pressed once, cock hard against her knee, a through-line of want that had never left the scene since the envelope landed. "Go to Willow and I finish this hard and furious alone. When I come for you it will not be polite. I will still taste paper. I will still want you under it."
+"Stay and I will keep you on that stool while I gut every sentence," he said against her lips, not quite kissing, making her chase it. "My hand on your thigh. Your answers in my mouth. No escape hatch between paragraphs." "Go to Willow and I finish this hard and furious alone. When I come for you it will not be polite. I will still taste paper. I will still want you under it."
 
 He did not close the distance. The almost-kiss hung. The letter stared up, face-up, impossible. [player_name]'s cunt ached around the absence of his hand; her pulse hammered unanswered questions into her throat. Rain sheeted. The night would not soften.
 

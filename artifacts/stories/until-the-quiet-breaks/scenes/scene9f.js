@@ -36,7 +36,6 @@ Clara tapped the folder. "Voss's name is in here. The winter night is in here. Y
 
 Sensory anchors stacked: coffee steam, rain on slate, the stick of the blue door, wet boxwood memory from Willow still on John's coat from the morning, woodsmoke faint in Clara's hair from the house. [player_name] breathed them in and let the yearning rise—adult, unhurried, sharp with knowledge that desire and consequence had shared a bed since the station platform hissed her home.
 
-
 They moved to the back booth where the neon's leftover glow still painted the Formica in tired pink. John brought two mugs even though neither of them needed more caffeine; the ritual mattered. [player_name] wrapped her hands around the heat and watched Clara flip through pages that had lived under glass weight on Willow Lane—charcoal over ledger lines, questions drawn in the margins where Voss's numbers had pretended to be ordinary.
 
 "People will say I came back to ruin him," [player_name] said. "Or to claim John. Or both. Public consequences always invent a motive prettier or uglier than the truth."
@@ -59,7 +58,7 @@ She rested her forehead against his. "If we push his public accounting, we vote 
 
 "Either way the quiet ends," Clara said softly. "Either way I stop drawing over other people's lies."
 
-John's thumb stroked [player_name]'s knuckles. Outside, a church bell somewhere off Market Street marked the quarter hour. Mae's window was closing. The hook of the morning tightened until leaving it unfinished hurt: forty minutes, two doors, one love interest whose gravity made both paths feel like vows.
+John's thumb stroked [player_name]'s knuckles. Outside, a church bell somewhere off Market Street marked the quarter hour. Mae's window was closing. The hook of the morning tightened until leaving it unfinished hurt.
 
 "I keep seeing the diner full of faces that already decided," John murmured. "I keep seeing you in the middle of them. I don't want to hand you to that room unless the room is the price of honesty we chose on purpose."
 
@@ -98,7 +97,6 @@ John laughed rough against [player_name]'s mouth. "She's not wrong." He pinched 
 
 "Same fears." John rolled his hips once, filthy and controlled, a promise. "I love you in both. I need the choice to be yours so when I take you apart above this diner tonight, it's not guilt doing the work—it's us."
 
-
 They took the back booth like sinners who still tipped well. John set mugs down and then set [player_name]'s hand on his cock under the tablecloth's polite lie, guiding her fingers along the thick heat while Clara—mercifully—walked to the office with the folder. "Talk justice while you touch me," he ordered softly. "So your body remembers the cost isn't only Henry's."
 
 [player_name] stroked him through denim, slow, watching his eyes go dark. "Accounting means he says the winter night out loud where Market Street can eat it. Means exile you can quote. Means I still want to get on my knees for you after the last stare leaves."
@@ -115,7 +113,6 @@ Rain hammered the glass. Someone lingered outside and moved on. [player_name] ki
 
 Clara closed the folder with a snap. "Decide before I decide for both of you out of spite."
 
-
 He lifted her off the stool just long enough to switch their places—John sitting, [player_name] straddling his lap facing him, coat still on for the window's sake, jeans grinding down onto the thick ridge of his cock while he held her hips and breathed curses into her collarbone. "Feel that?" he muttered. "That's not abstract justice. That's what happens to me when you talk about standing in the noise with me. Accounting or tempered truth—either way I need to come knowing which room we walk into. Don't make me hard for a maybe."
 
 [player_name] rolled her hips slow, filthy, using the lean of the stool and the cover of the counter to ride the friction until her cunt ached and John's fingers dug bruises into her waist. "Then listen," she whispered. "If we push accounting, we exile him with witnesses and I still want you after the last face leaves. If we push tempered truth, we open the secret without making his breaking a show and I still want you—louder, wetter, meaner with relief."
@@ -124,11 +121,9 @@ John caught her mouth again, kissed her like punctuation, then helped her stand 
 
 John eased his hand away, leaving [player_name] throbbing, and fixed her coat like a gentleman who had just fingered her through denim in a diner window. Gold edged his eyes. "Either way the quiet ends. Either way I want you. Choose which justice we can still fuck under without choking."
 
-
 When Clara stepped into the office again for a forgotten page, John pulled [player_name] into the narrow space behind the coffee urn, shoved her coat open, and got his hand down her jeans properly—two fingers sliding into her cunt with a wet sound he answered with a groan against her throat. "You're soaked for a civic decision," he muttered, curling his fingers. "That's how I know this isn't abstract. Push accounting and I'll still finger you open after the town hears him. Push tempered truth and I'll still bury my cock in you while the open secret tries to climb the stairs. Either way, [player_name], I need you dripping for the door we pick—not numb."
 
 She bit his shoulder to stay quiet, fucked his hand in tiny desperate rolls, came hard and fast with her forehead on the urn's hot metal. John licked his fingers clean in the steam, eyes feral and tender at once. "Now choose," he said. "While you can still feel me." His mouth brushed her ear, voice wrecked and sure. "Forty minutes left on Mae's clock. Two knives. One bed above this diner waiting either way—and I intend to use all of it once you pick."
-
 
 The blue door stuck in the gust. Market Street held its breath. Coffee steamed. The cracked stool leaned toward honesty.
 

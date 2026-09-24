@@ -32,7 +32,7 @@ She lifted another page. Henry's draft described the ice as accident and [player
 
 "If I read everything," [player_name] said, "you do not soften the walk to Willow. You stay angry and tender and mine while Henry learns the quilt already finished his weather. If I stop midway, you do not waste the reserved pages on sympathy—you help me put his mouth inside the truth before Mae's trays do it for us."
 
-John nodded once. Rain sheeted harder. Freight complained. The cracked stool listened. Gold lettering fogged. Wet boxwood waited. Woodsmoke waited. Clara's graphite waited. Henry's unfinished name trembled in the woodsmoke of memory and in the toner on the quilt. The hook set without soft landing: papers face-up, aloud or reserved undecided, morning refusing to invent a third road where nobody got muddy.
+John nodded once. Rain sheeted harder. Freight complained. The cracked stool listened. Gold lettering fogged. Wet boxwood waited. Woodsmoke waited. Clara's graphite waited. Henry's unfinished name trembled in the woodsmoke of memory and in the toner on the quilt.
 
 Read them aloud until nothing is left unsaid—or stop midway because some pages are Henry's alone to confess. [player_name] drew a breath that tasted like toner and coffee and rain and the man whose pulse beat under her fingers. The diner held steady above Market Street. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—the whole burn on cotton, or the uncle's living breath reserved like a cost he still had to pay in person.
 
@@ -67,7 +67,7 @@ She laughed once, wrecked, fogging the curtain. Wet boxwood lived in yesterday's
 
 John kissed the words off her mouth, filthy and tender. "Then spend the verb before the regulars rattle the latch. This quilt does not care about Henry's tea. It cares about what leaves your mouth in which order. Speak."
 
-The hook held: papers face-up, aloud or reserved undecided, body humming, late morning refusing soft landing. Read them aloud until nothing is left unsaid—or stop midway because some pages are Henry's alone to confess. [player_name] drew a breath that tasted like rain and coffee and toner and the man whose cock still pressed her like a second vow. The diner held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the whole burn on cotton, or the uncle's living breath, or the heat that had turned a quilt into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Read them aloud until nothing is left unsaid—or stop midway because some pages are Henry's alone to confess. [player_name] drew a breath that tasted like rain and coffee and toner and the man whose cock still pressed her like a second vow. The diner held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the whole burn on cotton, or the uncle's living breath, or the heat that had turned a quilt into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. John's thumb. The stack or the reserve. Somerton tracked mud either way and the morning refused to land soft.
 

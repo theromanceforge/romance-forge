@@ -54,7 +54,7 @@ Clara held out her hand. Not for the phone—for solidarity, brief and bone-true
 
 "Pick before the battery dies. Pick before Henry's truck turns onto Willow smelling like errands. Pick before John arrives and makes your hands shake for reasons that have nothing to do with flash afterimages."
 
-[player_name] looked at Voss's name caught in light. She looked at her own old yes implied in every payment that had required a girl's departure to look like ambition. She looked at Clara's arrow in the margin. The hook held unfinished in the cold: unanswered send, unanswered keep, unanswered mouth she still wanted on hers while the quiet finished breaking.
+[player_name] looked at Voss's name caught in light. She looked at her own old yes implied in every payment that had required a girl's departure to look like ambition. She looked at Clara's arrow in the margin.
 
 Rain needled the tin. The ledger waited under Clara's palm. The phone waited warm and dangerous.
 
@@ -77,7 +77,7 @@ Clara's mouth twitched. Almost a smile. Not soft. "Then multitask with teeth."
 
 "Then let him lose it with the files in his hand," Clara said. "Rage with proof is cleaner than rage with rumors. And if you two fuck the rage into the diner mattress after, that is not my business unless you make it loud enough to wake the pie case."
 
-The words landed like a palm on the back of her neck. [player_name] shot three more pages with her pulse in her clit and her throat and the burn of imagining John shoving her against the blue door after seeing Voss in pixel clarity—belt, hands, coffee-bitter kiss, fucking the insurance into a vow. She squeezed her thighs together and kept working. Heat advanced the plot; it did not garnish it. Every flash was a door. Every door led toward him eventually. The question was whether a stranger with letterhead held a key first.
+The words landed like a palm on the back of her neck. [player_name] shot three more pages with her pulse in her clit and her throat and the burn of imagining John shoving her against the blue door after seeing Voss in pixel clarity—belt, hands, coffee-bitter kiss, fucking the insurance into a vow. She squeezed her thighs together and kept working. Every flash was a door. Every door led toward him eventually. The question was whether a stranger with letterhead held a key first.
 
 Freight horn. Ordinary Somerton. Inside: rope smell, oil, rain-cold, the ledger's ugly math, [player_name]'s wet cotton sticking when she shifted. She finished the last page and nearly moaned from sheer release of completion—wrong room, right body—and lowered the phone with fingers that smelled faintly of metal and her own skin.
 
@@ -109,7 +109,7 @@ Rain hammered harder. Woodsmoke ghosted from the house. [player_name] tasted cop
 
 "[player_name] knows." She thumbed the screen until Voss's name filled the glass like a bruise. Sensory anchors cut clean: rain on tin, wet boxwood, woodsmoke ghost, charcoal grit, the memory of a cracked stool and a sticking blue door. No elegant absolute stacks. Just consequence and want sharing a bloodstream.
 
-The hook held: unanswered send, unanswered keep, unanswered thrust she could already feel in her future like a promise with teeth. [player_name] drew a breath that tasted like the shed and the storm and the particular courage of women who refused to let one matchbox uncle hold the only copy of their winter.
+[player_name] drew a breath that tasted like the shed and the storm and the particular courage of women who refused to let one matchbox uncle hold the only copy of their winter.
 
 Clara waited. The ledger waited. The phone waited warm enough to feel like a body.
 
@@ -117,9 +117,7 @@ She scrolled once more until Voss filled the glass and her thighs trembled with 
 
 "I can still feel him against my knee from the diner," she told Clara. "I can still taste coffee and almost. I will spend that heat on outbound teeth or in-family vault—not on pretending the camera made me pure."
 
-Clara's nod was a blade approving another blade. Rain wrote the last impatient sentence on tin. The ledger's rubber-band scar watched. The phone cooled a degree and still felt like a body. Hook held: unanswered upload, unanswered handoff, unanswered thrust waiting in both futures like weather that refused to clear before the verb.
-
-The choice sat bright and filthy behind her teeth. The quiet refused to land soft.`,
+Clara's nod was a blade approving another blade. Rain wrote the last impatient sentence on tin. The ledger's rubber-band scar watched. The phone cooled a degree and still felt like a body.`,
   choices: [
     { id: "scene8k", text: "Upload out of town — lawyer teeth beyond Somerton", textHot: "Upload out of town — stranger holds proof while you stay wet" },
     { id: "scene8e", text: "Vault in-family — copies for Clara and John only", textHot: "Vault in-family — put the warm phone in John's hand" }

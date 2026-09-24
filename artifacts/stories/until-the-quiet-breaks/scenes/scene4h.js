@@ -54,7 +54,7 @@ Before Clara reached the lock, John turned [player_name] fully toward him in the
 
 [player_name] nodded, throat tight. Rain intensified against the roof as if Somerton agreed. The blue door stuck under Clara's shoulder, then began to yield. Henry's outline filled the gap—umbrella, careful eyes, the face of a man who had written I thought you should know and was about to learn what knowing cost in a room that had already begun without him.
 
-The shared memory held its shape in the steam. The knock had become an opening. Layer 4's quiet finished its break on the threshold of the diner, distinct from every other breaking: not a kiss interrupted, not a storm-sealed booth, not an uncle's yes, not an indictment's unfinished name, not open hands, not charcoal margins, not a spill's crack—but two people who had rebuilt a night together, and a blue door finally letting the third voice in.`,
+The shared memory held its shape in the steam. The knock had become an opening.`,
   textHot: `[player_name] set Henry's hints aside like hot plates and put her hands on John Shaw's chest in the back hall by the dish pit—steam, soap, kitchen-fan roar—open, insistent, steering the night away from uncle-weather and toward the shared memory their bodies had been trying to rebuild for fifteen years.
 
 "Don't tell me his version yet," [player_name] said. Soft. Clear. Rough with want. "Tell me yours. The night I left. What you saw. What you decided it meant. Put it in my mouth with your mouth close. I want your memory before I want his ledger—and I want your cock remembering me while you talk."
@@ -99,7 +99,7 @@ The knock stopped. The door stuck under Clara's testing shoulder. Rain and Henry
 
 Before Clara turned the lock either way, John turned [player_name] fully toward him in the hall's shadow, away from the porthole for one last private second, and dragged his thumb across her lower lip—filthy promise, unfinished kiss, shared memory made flesh. "Choose," he whispered. "I have waited fifteen years for a train that might bring you back. I can wait two more minutes for your verb—but not for another Shaw silence dressed as strategy while your hand still smells like my cock."
 
-[player_name] nodded, throat tight, cunt aching, mouth tasting soap and John and the metallic bright of Layer 4's quiet finishing its break. Rain intensified against the roof as if Somerton agreed. The blue door stuck under Clara's shoulder, the knock still echoing in the bones of the frame, and the unfinished almost of their shared memory held its shape in the steam—waiting on whether they would open together or lock the night long enough to finish what honesty had started between her fist and his body.`,
+Rain intensified against the roof as if Somerton agreed. The blue door stuck under Clara's shoulder, the knock still echoing in the bones of the frame, and the unfinished almost of their shared memory held its shape in the steam—waiting on whether they would open together or lock the night long enough to finish what honesty had started between her fist and his body.`,
   choices: [
     { id: "scene5o", text: "Open the blue door together — face whoever knocks", textHot: "Open the blue door together — face whoever knocks with desire still unfinished between you" },
     { id: "scene5p", text: "Lock it — finish rebuilding the night before any uncle enters", textHot: "Lock it — finish rebuilding the night with mouths and memory before any uncle enters" }

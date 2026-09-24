@@ -53,7 +53,7 @@ const SWAPS = [
   [/,\s*mid-want(?=[,.;—])/g, ""], [/\bboth mid-want\b/g, "both wanting"], [/\bmid-want honesty\b/g, "honest want"],
   [/\bmid-want (detective|man|woman|lover|body)\b/g, "wanting $1"], [/\bmid-want slick\b/g, "slick with want"],
   [/\bmid-want (shameless|filthy|inappropriate|mercy|survival)\b/g, "$1"], [/\bmid-case\b/g, "case"],
-  [/\bthe mid-want echo\b/g, "the echo of want"], [/\bThe mid-want echo\b/g, "The echo of want"],
+  [/\bthe mid-want echo of\b/g, "the echo of"], [/\bthe mid-want echo\b/g, "the echo of want"], [/\bThe mid-want echo\b/g, "The echo of want"],
   [/\bmid-want echo(e[ds])?\b/g, "want echo$1"],
   [/\ba mid-want (pulse|ache|throb|hum|flush|heat)\b/g, "a $1 of want"],
   [/\bmid-(?:refusal|pride|ruin|mercy)\b/g, (m) => m.slice(4)],
@@ -67,10 +67,17 @@ const SWAPS = [
   [/,\s*unfinished on purpose(?=[,.])/g, ""], [/\s+unfinished on purpose(?=[,.])/g, " unfinished"],
   [/\bsecond-LI\b/g, "second"],
   [/ like a hook craft refused to remove\b/g, " like a hook"],
+  [/,\s*denial as craft(?=[.,;])/g, ""], [/\b([Tt]he|a) plot turn\b/g, "$1 turn"],
   [/,\s*denied (finish|center kiss) hanging as hook\b/g, ", the $1 denied"],
 ];
 
+// Human-checked false positives; mirror of ALLOW in tests/story-quality.test.js.
+const KEEP = [
+  "without asking what was under the garnish", // Quiet Breaks 4c: plate metaphor, not craft talk
+];
+
 function hasMeta(s, narration = s) {
+  if (KEEP.some((k) => s.includes(k))) return false;
   const s2 = s.replace(/\[player_name\]/g, "");
   return META_TERMS.some((re) => re.test(s2)) || EXTRA.some((re) => re.test(s2)) || VERB_RE.test(narration);
 }
@@ -105,7 +112,7 @@ function cleanSentence(sentence, narration) {
     const k = segs.findIndex(isM);
     let kept = null;
     // dash-enclosed aside "A—meta—C…" (rest clean, C not a new sentence): drop the aside and both dashes
-    if (segs[k].delim === "—" && segs[k + 1] && segs[k + 1].delim === "—" && !segs.slice(k + 1).some(isM) && /^\s*[a-z]/.test(segs[k + 1].text)) {
+    if (segs[k].delim === "—" && segs[k + 1] && segs[k + 1].delim === "—" && !segs.slice(k + 1).some(isM) && /^\s*(?:[a-z]|\[player_name\])/.test(segs[k + 1].text)) {
       const head = segs.slice(0, k).map((g) => g.delim + g.text).join("");
       // "A—C" keeps the dash; only a bare subject ("Nina Solis—meta—made…") is joined with a space
       kept = [...segs.slice(0, k), { delim: wc(head) <= 3 ? " " : "—", text: segs[k + 1].text.replace(/^\s+/, "") }, ...segs.slice(k + 2)];
@@ -116,6 +123,9 @@ function cleanSentence(sentence, narration) {
     if (!removed.some((g) => /["“”]/.test(g.text))) {
       let out = kept.map((g) => g.delim + g.text).join("").replace(/[,;:—\s]+$/, "") + (tail || ".");
       if (!/[.!?…]/.test(tail)) out = out.replace(/([”"’)*]*)$/, ".$1");
+      // a trim inside a parenthetical must still close it
+      const open = (out.match(/\(/g) || []).length - (out.match(/\)/g) || []).length;
+      if (open > 0) out = out.replace(/([.!?…]+[”"’*]*)$/, ")".repeat(open) + "$1");
       if (!hasMeta(out, narrationOf(out)) && wc(out) >= 4) return { out, action: "trim" };
     }
   }
@@ -241,7 +251,7 @@ for (const st of state) {
     for (const k of ["renamed", "padWords", "dedupWords", "metaWords"]) totals[k] += st.stats[f][k] || 0;
     for (const l of st.log[f]) totals[{ drop: "dropped", trim: "trimmed", swap: "swapped" }[l.action]]++;
     if (!st[f].trim()) flags.push(`${st.sc.id} ${f}: EMPTY`);
-    const left = findMetaHits(st[f], storyId, EXTRA);
+    const left = findMetaHits(st[f], storyId, EXTRA, KEEP.map((text) => ({ text })));
     if (left.length) flags.push(`${st.sc.id} ${f}: ${left.length} meta left, e.g. "${left[0].sentence.slice(0, 100)}"`);
     const qs = (st[f].match(/"/g) || []).length;
     if (qs % 2) flags.push(`${st.sc.id} ${f}: odd straight-quote count`);

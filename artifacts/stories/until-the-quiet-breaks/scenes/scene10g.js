@@ -2,7 +2,7 @@ export default {
   id: "scene10g",
   layer: 10,
   title: "Henry Exiled",
-  text: `The diner keys hit the laminate with a sound too small for what they meant. [player_name] watched Henry Shaw flinch as if John had thrown a brick instead of metal. Rain silvered Market Street beyond the blue door that stuck. Coffee steam ghosted the CLOSED sign. Clara stood by the cracked counter stool that leaned a half-degree left, charcoal under her nails, face set like someone who had already drawn this ending and was only waiting for ink to dry in the real world.
+  text: `The diner keys hit the laminate with a sound too small for what they meant. [player_name] watched Henry Shaw flinch as if John had thrown a brick instead of metal. Rain silvered Market Street beyond the blue door that stuck. Coffee steam ghosted the CLOSED sign.
 
 "You're cut from the diner's future," John said. His voice was diner-rough and final. "Not from breathing. Not from Willow if Clara and I decide the house still holds you on Sundays with rules. From this—" He gestured at the grill, the stools, the fryer hymn that had raised Clara beside him while Henry wrote quiet over uglier facts. "You don't get to own the Shaw name when the lights are on. The wound gets named. Today."
 
@@ -14,7 +14,7 @@ Clara slid a folded page across the counter—Henry's own cramped hand, annotate
 
 Henry looked at [player_name] as if she might soften the sentence. She did not. Softening had been the old quiet. The old quiet had broken her once and almost broken John twice. Exile from the diner's future was the shape grace took when grace had run out of chairs behind the counter.
 
-John's hand found hers under the pass-through—warm, slightly shaking, adult. Desire lived even here, mid-want echo under fluorescent honesty: unfinished heat that had survived papers and votes and the parlor courtroom on Willow Lane. Trust was still the plot. Attraction had never been the hard part. Living with the named wound was.
+John's hand found hers under the pass-through—warm, slightly shaking, adult. Desire lived even here, want echo under fluorescent honesty: unfinished heat that had survived papers and votes and the parlor courtroom on Willow Lane. Trust was still the plot. Attraction had never been the hard part. Living with the named wound was.
 
 "Go back to Willow," John told Henry. "Pack what you need from the office upstairs. Leave the keys on the desk. If you want a plate on Sunday, you call Clara first and you tell the truth when she asks how your week was. If you come to this door expecting a soft landing, it stays stuck."
 
@@ -32,18 +32,18 @@ John locked it from inside and leaned his forehead against the wood. [player_nam
 
 "It's required," she whispered. "Otherwise exile becomes another kind of silence."
 
-They closed without opening to the public that night. Upstairs in the flat above the diner, John made tea he did not drink and [player_name] sat on the edge of his bed with her boots off at last. Outside, freight breathed in the yard. Inside, the mid-want echo lived in the space between their mouths—yearning, sensory, adult. He kissed her slow, not to erase the day, but to prove the day had not erased them.
+They closed without opening to the public that night. Upstairs in the flat above the diner, John made tea he did not drink and [player_name] sat on the edge of his bed with her boots off at last. Outside, freight breathed in the yard. Inside, the echo of want lived in the space between their mouths—yearning, sensory, adult. He kissed her slow, not to erase the day, but to prove the day had not erased them.
 
 "Wake up next to me tomorrow," he said against her lips. "We'll open late. We'll endure Mae's questions. We'll keep Henry out of the till and in whatever honesty he can stand. You and me in the noise of a wound that finally has a name."
 
-She nodded. Rain needled slate roofs. The cracked stool waited downstairs like a witness. Willow Lane held an uncle learning the size of a life without keys. Market Street would learn the story by noon. [player_name] stretched out beside John Shaw in the dark and felt the destination settle: not pretty, not soft—Henry Exiled from the diner's future, the wound named, love holding through the cost—and a morning already forming where she would wake to coffee steam and his hand on her waist and the blue door sticking open on a truth Somerton could no longer tidy into innocence.
+She nodded. Rain needled slate roofs. The cracked stool waited downstairs like a witness. Willow Lane held an uncle learning the size of a life without keys. Market Street would learn the story by noon. [player_name] stretched out beside John Shaw in the dark and felt the destination settle: not pretty, not soft—and a morning already forming where she would wake to coffee steam and his hand on her waist and the blue door sticking open on a truth Somerton could no longer tidy into innocence.
 
 That was the ending. It hurt. It held.`,
   textHot: `The diner keys hit the laminate like a gunshot made of metal. [player_name] felt John's whole body go rigid beside her as Henry flinched. Rain silvered Market Street beyond the blue door that stuck. CLOSED sign facing the wrong way for gossip. Clara at the cracked counter stool with charcoal under her nails and zero mercy left for soft landings behind the till.
 
 "You're cut from the diner's future," John said, voice scraped raw. "Not from breathing. From this." He swept a hand at grill, till, fryer hymn. "Wound named. Today. Keys on the desk upstairs. Sundays at Willow Lane only if Clara says so and you tell the truth when she asks how your week was."
 
-Henry started the old defense—trying to keep them safe—and [player_name] cut him off with her hand laced in John's, pulse still high from the vote that had fed this ending. "You cast my leaving as ambition. Debt. Voss. Winter accident. John stayed. Clara grew up inside the fiction. Costly justice isn't cruelty. It's me refusing to let your cover keep fucking our mornings and calling it love."
+Henry started the old defense—trying to keep them safe. "You cast my leaving as ambition. Debt. Voss. Winter accident. John stayed. Clara grew up inside the fiction. Costly justice isn't cruelty. It's me refusing to let your cover keep fucking our mornings and calling it love."
 
 Clara pushed the annotated page across the laminate. "Record, not spectacle. Mae knows half. We finish it. You don't correct the porches anymore."
 
@@ -59,7 +59,7 @@ He fucked her against the door in hard, grieving thrusts—rain arguing with sla
 
 "Henry exiled—diner's future—wound named—" She came apart on the sentence, crying out into his shoulder, and John followed with a broken curse, spilling into her against the wood he had rebuilt while waiting for her train.
 
-They barely made the stairs. Halfway up he sat and pulled her into his lap still half-dressed; she rode him slow while coffee ghost and metal and rain lived on their skin. In the flat he stripped her properly and put his mouth on her cunt until she was writhing on his sheets, tasting herself on his tongue when he crawled up and entered her again—slower, deeper, eyes open, the mid-want echo finally answered without apology.
+They barely made the stairs. Halfway up he sat and pulled her into his lap still half-dressed; she rode him slow while coffee ghost and metal and rain lived on their skin. In the flat he stripped her properly and put his mouth on her cunt until she was writhing on his sheets, tasting herself on his tongue when he crawled up and entered her again—slower, deeper, eyes open, the echo of want finally answered without apology.
 
 "Wake up next to me," he said, fucking her through aftershocks. "We open late. We face Mae. We keep him out of the keys. I need your thighs around me when the town starts talking like the wound is entertainment."
 
@@ -73,8 +73,8 @@ Morning came late on purpose. [player_name] woke to John's hand on her waist and
 
 "Still cut open," he said. "Still choosing you inside it. Keys stay ours. Henry stays out of the till. You stay in my bed when the town gets mean about the wound."
 
-She nodded against his mouth. Mid-want echoed softer in daylight: not a cure for justice, just proof justice had not emptied them. That was enough to stand up and face Mae with.
+She nodded against his mouth. Want echoed softer in daylight: not a cure for justice, just proof justice had not emptied them. That was enough to stand up and face Mae with.
 
-That was Henry Exiled. It hurt. It held. It fucked true.`,
+It hurt. It held. It fucked true.`,
   choices: []
 };

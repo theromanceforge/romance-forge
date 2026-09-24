@@ -50,7 +50,7 @@ Clara's voice came soft from the doorway. "I found enough to ask questions he ca
 
 "And if we split it?" John asked. "Mercy to the man. No mercy to the fiction. Henry kept. Cover ended. Lie starved. Body given a smaller honest chair."
 
-The hook of the morning tightened: a red circle on a calendar, a man coughing in a parlor, a love interest whose trust was the real plot, and a woman who had returned to Somerton only to discover that coming home was not the same as finishing the story. Sensory anchors stacked without soft landing—rain on slate, woodsmoke, coffee on John's shirt, charcoal under Clara's nails, the glass weight holding papers that looked like someone had tried to tidy guilt into innocence.
+The hook of the morning tightened. Sensory anchors stacked without soft landing—rain on slate, woodsmoke, coffee on John's shirt, charcoal under Clara's nails, the glass weight holding papers that looked like someone had tried to tidy guilt into innocence.
 
 John's mouth brushed her temple—not quite a kiss, a held breath that hurt to leave unfinished. "I won't choose for you. But I won't pretend either door doesn't cost. End the cover this week with no extensions, and we live inside the town's new noise together—open secret, Market Street knowing, us enduring. Extend mercy to Henry and shorten mercy to the lie, and we try to redeem a smaller place for him while the fiction dies on schedule and Willow reopens around a thinner, honest quiet."
 

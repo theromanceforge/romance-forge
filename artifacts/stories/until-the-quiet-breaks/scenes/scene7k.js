@@ -87,10 +87,9 @@ Rain sheeted the window. Mae's gold fogged. Freight complained. Willow's woodsmo
 
 John laughed once against her spine—broken, devoted—and stilled deep inside her, throbbing, denying them both while his fingers circled her clit without mercy and without permission to finish. "Fill the gap yourself," he murmured. "Vow or interrogation. Stay spoken like iron—or love asked raw. I am at your back either way, buried either way, done inventing softer coffee for a town that never earned your silence."
 
-
 She clenched around the thick still length of him until he cursed into her shoulder. The mugs steamed forgotten. The sketches watched. The locked door held. [player_name] opened her mouth on a night that had grown from boxwood into sheets and cock and consequences, and the unfinished kiss from the stairs still lived at the corner of her lip like a fuse waiting for claim or question.
 
-His cock twitched inside her, unfinished on purpose. Henry's name sat half-spoken in the woodsmoke. The choice sat bright between their mouths—claim or question—while rain needled slate. The night refused to land soft.`,
+His cock twitched inside her. Henry's name sat half-spoken in the woodsmoke. The choice sat bright between their mouths—claim or question—while rain needled slate. The night refused to land soft.`,
   choices: [
     { id: "scene8f", text: "Make it a claim — you're not leaving this time", textHot: "Claim it — not leaving — vow it with him still buried in you" },
     { id: "scene8d", text: "Make it a question — ask if he can love the woman who lied", textHot: "Ask it raw — can he love the woman who lied, cock still in her" }

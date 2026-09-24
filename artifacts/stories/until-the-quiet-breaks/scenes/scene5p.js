@@ -22,7 +22,7 @@ John's forehead rested against hers across the narrow booth. His breath warmed h
 
 The question hung with the rain.
 
-[player_name] smelled coffee and his skin and the faint lemon-polish ghost from Willow that still clung to her coat from earlier. She tasted almost-kiss restraint from the hall, still unfinished on purpose. Outside, Market Street dripped into gutters. Somewhere toward the yard a freight horn complained, ordinary Somerton continuing without permission. Inside, locked wood held. Private weather held.
+[player_name] smelled coffee and his skin and the faint lemon-polish ghost from Willow that still clung to her coat from earlier. She tasted almost-kiss restraint from the hall, still unfinished. Outside, Market Street dripped into gutters. Somewhere toward the yard a freight horn complained, ordinary Somerton continuing without permission. Inside, locked wood held. Private weather held.
 
 "If we make it a vow," she said carefully, "we claim each other inside the rebuilt night—say what fifteen years tried to unsay—before strategy gets its hands on us. If we make it a plan, we use this locked hour to decide how the cover story dies: who speaks, who hears, what Clara's charcoal forces into daylight. Both are love. They spend courage differently."
 
@@ -34,7 +34,7 @@ They sat long enough for the rain to change its mind twice—hard, then soft, th
 
 John rose once to check the deadbolt with his palm, a restless ritual, then returned and slid into the booth closer until [player_name]'s knee hooked over his. "Clara will be at Willow by now," he said. "She will tell him we locked him out, or she will tell him nothing and let the silence teach. Either way dawn brings him back. What we finish tonight has to be sturdy enough for that."
 
-[player_name] nodded. Sturdy did not mean sanded. Sturdy meant true enough to stand when woodsmoke entered again. She thought of the creditor's shadow still unnamed in full and knew a vow would not erase it; she thought of a plan's cold clarity and knew strategy would not warm a bed by itself. The craft bar of their night was obsession-grade tension: wanting him, fearing the morning, refusing soft landings before the choice.
+[player_name] nodded. Sturdy did not mean sanded. Sturdy meant true enough to stand when woodsmoke entered again. She thought of the creditor's shadow still unnamed in full and knew a vow would not erase it; she thought of a plan's cold clarity and knew strategy would not warm a bed by itself.
 
 Sensory first: rain, coffee, fryer tick, his burn scar against her skin, the deadbolt's cold fact behind them. Emotion second: trust mid-construction, desire held on a short leash, fear that finishing the memory would make leaving impossible or staying unbearable. Then the turn.
 
@@ -50,9 +50,9 @@ Outside, Henry was gone from the glass—or far enough that the lamp no longer c
 
 His forehead stayed against hers. Rain sheeted. The pie case ticked once in the dark like a yes from furniture. The shared memory waited to be forged into something that could survive daylight—or into a strategy that could kill a lie.
 
-[player_name] did not soft-land. She breathed him in and felt the hook set: unanswered question on her mouth, bodily want unfinished in her hands, a locked diner asking whether love led as vow or as reckoning—and Somerton, slate-wet and watchful, leaning toward the blue door as if wood itself might speak first.
+[player_name] did not soft-land.
 
-The fluorescent ballast clicked once in the dark like a nervous tell. [player_name] listened to John's breathing and her own and the rain's and understood that locking the door had not paused the story—it had concentrated it into a single booth, a single pulse, a single demand that love declare its next verb before morning sanded anything soft.
+The fluorescent ballast clicked once in the dark like a nervous tell. [player_name] listened to John's breathing and her own and the rain's and understood that locking the door had not paused the story.
 
 Under the table their knees stayed locked like a second deadbolt. John traced idle circles on her palm with his burn-scarred thumb—the same restless care he used on a grill that might flare. "Fifteen years I listened for a train," he said. "Tonight I am listening for you to stay loud enough that dawn cannot shush you. Vow loud. Or plan loud. Quiet already had its turn."
 
@@ -71,7 +71,7 @@ John groaned like she had hurt him usefully. He dragged her to the front booth a
 
 "I can survive tomorrow if tonight stays ours," he murmured, thumb rubbing the inseam where denim was already warm from her. "Vow—or plan that kills the cover. I want both. Night only fits one lead. And while you pick, I am going to put my fingers where your pulse is loudest."
 
-He popped her button. Zipper. His hand slid into her jeans over underwear and found her soaked. "Fuck. You locked him out dripping for me." Two fingers pressed her clit through damp cotton in a slow circle that whitened her vision. She gasped his name into his throat. Shared memory and smut braided; heat advanced the plot by making honesty unavoidable—she could not sand a sentence while rocking onto his hand.
+He popped her button. Zipper. His hand slid into her jeans over underwear and found her soaked. "Fuck. You locked him out dripping for me." Two fingers pressed her clit through damp cotton in a slow circle that whitened her vision. She gasped his name into his throat.
 
 "If we vow," she panted, "we claim each other raw before strategy. If we plan, we decide how the lie dies—who speaks, who hears—then you take me upstairs on the decision like a seal." Her hand found him through jeans, stroked the thick length of his cock once, proprietary. "Both are love. My cunt is not a gavel. You still have to choose which sentence we lead with."
 
@@ -83,7 +83,7 @@ He eased his fingers out only long enough to shove her jeans further down one th
 
 "After you pick," John agreed, and curled his fingers again until she saw white. "Vow means I say I love you before we invent logistics, and I take you on that sentence. Plan means we name who burns the cover and how, and then I fuck the plan into your memory so you cannot board a train and call logistics lonely again." His thumb worked her clit in filthy counterpoint. "Both get my cock. Only one gets to go first. Choose while you can still talk."
 
-She could barely talk. That was the point. Heat had become the plot's engine: every circle of his thumb a refusal of sanded speech, every clench of her cunt a vote her mouth still had to translate into vow or reckoning. Rain hammered. The deadbolt held. Henry's knock lived only as echo. Clara's charcoal waited up the hill. John's fingers fucked her slow and mean and loving, and the unfinished peak sat bright behind her teeth like a third secret.
+She could barely talk. That was the point. Rain hammered. The deadbolt held. Henry's knock lived only as echo. Clara's charcoal waited up the hill. John's fingers fucked her slow and mean and loving, and the unfinished peak sat bright behind her teeth like a third secret.
 
 Rain sheeted the glass beside them. Coffee cooled. Henry was gone from the lamp. Clara walked through rain with papers in her future. Inside, John curled his fingers and found the place that made [player_name]'s thighs shake around his wrist. He fucked her with his hand in the booth like a man finishing a rebuilt night into flesh, and still he stopped when she was trembling on the edge—cruel mercy—forehead to hers, fingers still buried, cock straining under her palm.
 
@@ -97,13 +97,13 @@ Outside, slate roofs shed water. Inside, the quiet they had locked in was pressu
 
 He pulled his fingers free, glistening, and painted her lower lip once—obscene benediction—then kissed the taste into both their mouths while she whimpered. "That is what locking him out bought," John said. "Not safety. Honesty wet enough to drown manners." He freed his cock from his jeans with his other hand, thick and flushed, and set her palm bare on him. "Stroke me while you decide. Feel what the rebuilt night did. Feel what your spill and your lock and your mouth saying scraps did to me. Then pick vow or plan before I come in your hand and lose the plot of justice entirely."
 
-[player_name] stroked him slow, thumb sweeping the head, watching his jaw go tight. Her cunt ached empty around the ghost of his fingers. She wanted him inside her—wanted the flat upstairs, the narrow bed, the freight-yard window fogging while he fucked her through whatever sentence she chose. Heat had to finish as plot: the choice spoken, then the seal. Not the reverse. Not again.
+[player_name] stroked him slow, thumb sweeping the head, watching his jaw go tight. Her cunt ached empty around the ghost of his fingers. She wanted him inside her—wanted the flat upstairs, the narrow bed, the freight-yard window fogging while he fucked her through whatever sentence she chose. Not the reverse. Not again.
 
 "Vow means I love you before logistics," she echoed, voice shredded, fist working him. "Plan means we name the cover's death and then you put your cock in me like a signature." Rain hammered. Deadbolt held. Her orgasm still hovered, denied, a bright cruel star. "I am shaking. That is not weakness. That is the quiet breaking in my body first."
 
 John's hips jerked into her fist. He caught her wrist—not stopping—and pressed his forehead harder to hers. "Then break it on a verb I can follow. Forge the memory into a vow—or into a plan that ends the lie—while I can still feel you on my fingers and your hand on my cock and believe neither of us is boarding anything but morning."
 
-[player_name] did not soft-land. She breathed him in, clenched once more around his fingers, and felt the hook set: unfinished orgasm, unfinished sentence, a blue door bolted against Henry while the night asked whether love led as vow or as the plan that killed the lie—and Somerton leaned on the glass as if rain itself wanted the answer first.
+[player_name] did not soft-land.
 
 She tasted her own want on his tongue when he kissed her again—deep, claiming—and still he kept her trembling on the edge, fingers slick, cock throbbing in her fist, the choice the only mercy he would grant before either vow or plan became a bed upstairs and a blue door that had bought them exactly as much night as they dared to spend.`,
   choices: [

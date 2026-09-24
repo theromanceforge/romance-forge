@@ -54,7 +54,7 @@ He looked up. Saw them. Saw the sketchbook under Clara's arm and the charcoal on
 
 "Clara called the landline from the kitchen," he said when he was close enough. Water ran from his hair. "She said you were digging. I closed early." His gaze flicked to the sketchbook, then back. "If those pages show the night differently, I want to see them in the light of my own place—not in his. And I want you to tell me why you chose the sketches before you chose my door."
 
-The question was not accusation alone. It was hurt. It was invitation. It was the plot turning on wet asphalt under boxwood and woodsmoke while the missing glove-box pages still breathed in the shed behind them.
+The question was not accusation alone. It was hurt. It was invitation.
 
 [player_name] felt the charcoal on her skin like a vow. The sketches had redrawn the night. John had come uphill into the rain to meet the redrawing halfway. Whatever she answered next would decide whether doubt became a bridge or a blade—and behind Henry's house, the shed key waited on its hook like a second cliff already forming.`,
   textHot: `Doubt was a clean tool, and [player_name] took it up without apology in Henry's front room while her body still hummed from John's absence like a bruise she intended to press—wood heat failing to soften what Henry had already half-confessed, lemon oil rising from the desk like a habit that had outlived mercy.
@@ -103,17 +103,15 @@ He looked up. Saw them. Saw the sketchbook under Clara's arm and the charcoal on
 
 "Clara called the landline from the kitchen," he said when he was close enough. "She said you were digging. I closed early." His gaze flicked from sketchbook to [player_name]'s mouth to the charcoal smear on her fingertip, then lower, helpless, to where rain made her jeans dark. "Are you bringing me proof—or bringing me something I'm going to have to fuck out of my system before I can read?"
 
-The question was not accusation alone. It was hurt. It was invitation. It was the plot turning on wet asphalt under boxwood and woodsmoke while the missing glove box waited in the shed and [player_name]'s cunt answered him with a clench she did not bother to hide from her face.
+The question was not accusation alone. It was hurt. It was invitation.
 
 She stepped into him. Charcoal transferred from her fingertip to his jaw when she touched him—branding him with Clara's margins, with evidence, with the night redrawn. John caught her wrist and held it there, then turned his face and sucked the charcoal smudge from her finger into his mouth, filthy and reverent, eyes on hers while rain sheeted Willow Lane. Clara made a sound that was half groan, half teenage dignity, and looked pointedly at the shed path.
 
 "Proof before passion," Clara muttered. "Or passion with proof in your hands. Just decide before Uncle invents a softer key."
 
-John released [player_name]'s finger slowly, teeth grazing the pad, and kept her hip against his under the rain. She felt him hard already—anger and want and fifteen years of margins finding a body. "Show me," he said, echoing her own verb from Henry's study, voice scraped raw. "Show me the sketches. Show me the shed key. Show me where you want my hands while we stop letting him edit the night. I climbed this hill ready to break something. Prefer it be the lock on that glove box—or your jeans. Your call. Both get muddy."
+John released [player_name]'s finger slowly, teeth grazing the pad, and kept her hip against his under the rain. She felt him hard already—anger and want and fifteen years of margins finding a body. "Show me the sketches. Show me the shed key. Show me where you want my hands while we stop letting him edit the night. I climbed this hill ready to break something. Prefer it be the lock on that glove box—or your jeans. Your call. Both get muddy."
 
-[player_name] felt the charcoal on her skin like a vow. The sketches had redrawn the night. John had come uphill into the rain to meet the redrawing halfway, cock hard, mouth tasting graphite, eyes asking which hunger she would feed first. Behind them Henry's house leaked woodsmoke. Ahead the shed waited under oilcloth. Between them, rain and unfinished fucking and a sister with a sketchbook that refused to sand.
-
-The quiet of Somerton leaned in at the boxwood to hear which verb she would choose—shed key and missing ledger, or charcoal pressed into John's hands before Henry could reclaim a single page.`,
+[player_name] felt the charcoal on her skin like a vow. The sketches had redrawn the night. John had come uphill into the rain to meet the redrawing halfway, cock hard, mouth tasting graphite, eyes asking which hunger she would feed first. Behind them Henry's house leaked woodsmoke. Ahead the shed waited under oilcloth. Between them, rain and unfinished fucking and a sister with a sketchbook that refused to sand.`,
   choices: [
     { id: "scene5k", text: "Follow Clara's margins to the shed key and the missing ledger", textHot: "Follow Clara's margins to the shed key and the missing ledger — proof before passion" },
     { id: "scene5l", text: "Bring the sketches to John before Henry can reclaim them", textHot: "Bring the sketches to John before Henry can reclaim them — put charcoal in his hands" }

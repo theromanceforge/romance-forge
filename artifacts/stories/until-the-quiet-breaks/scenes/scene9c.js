@@ -48,15 +48,7 @@ Or commit to trying—with a soft door left open enough to hurt.
 
 Before the quiet finished breaking into whatever came next, [player_name] had to choose which honesty she could live inside—and which ending she was willing to walk toward with John Shaw's hand still warm in hers.
 
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
 She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
 
 Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
 
@@ -64,51 +56,15 @@ Clara's charcoal ghosted through every margin, a restless honesty that made adul
 
 Henry's name lived in the floorboards. Saying it softer did not make it kinder.
 
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
-
 Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
 
 Her years away were not erasable; they were weight she carried into his arms.
-
-The hook was romance as consequence—kiss unfinished, truth half-spoken, body still listening.
 
 Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
 
 She could leave the room. She would not leave the choice.
 
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
-She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
-
-Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin, a restless honesty that made adults look unfinished by comparison.
-
-Henry's name lived in the floorboards. Saying it softer did not make it kinder.
-
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
-
-Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
-
-Her years away were not erasable; they were weight she carried into his arms.
-
-The hook was romance as consequence—kiss unfinished, truth half-spoken, body still listening.
-
-Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
-
-She could leave the room. She would not leave the choice.
-
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.`,
+John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.`,
   textHot: `The flat above the diner held its breath the way bodies do before a fuck that is also a vow. [player_name] sat on John Shaw's bed with her boots still on because taking them off felt like surrender dressed as softness. Honesty before spectacle. Couples truth first. Family theater later. John stood at the window, neon ghosting his profile, coffee steam still clinging to his shirt, already hard from the argument they were having with their mouths and their eyes.
 
 "If we do this clean," he said without turning, "we commit without erasing your years away. You don't become a woman who only ever belonged to Somerton. I don't pretend fifteen years didn't carve you. We build anyway—and I fuck you like the building already started."
@@ -147,15 +103,7 @@ Or commit to trying—with a soft door left open enough to hurt.
 
 Before the quiet finished breaking, [player_name] had to choose which honesty she could live inside—and which ending she would walk toward with John Shaw's hand still warm and his want still written on her body.
 
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
 She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
 
 Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
 
@@ -163,51 +111,15 @@ Clara's charcoal ghosted through every margin, a restless honesty that made adul
 
 Henry's name lived in the floorboards. Saying it softer did not make it kinder.
 
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
-
 Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
 
 Her years away were not erasable; they were weight she carried into his arms.
-
-The hook was romance as consequence—kiss unfinished, truth half-spoken, body still listening.
 
 Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
 
 She could leave the room. She would not leave the choice.
 
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
-She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
-
-Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin, a restless honesty that made adults look unfinished by comparison.
-
-Henry's name lived in the floorboards. Saying it softer did not make it kinder.
-
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
-
-Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
-
-Her years away were not erasable; they were weight she carried into his arms.
-
-The hook was romance as consequence—kiss unfinished, truth half-spoken, body still listening.
-
-Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
-
-She could leave the room. She would not leave the choice.
-
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.`,
+John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.`,
   choices: [
     { id: "scene10a", text: "Commit to John without erasing your years away", textHot: "Commit to John — keep your years and take him anyway" },
     { id: "scene10j", text: "Commit to trying — leave a soft door to leave", textHot: "Commit to trying — leave a soft door and still want him" }

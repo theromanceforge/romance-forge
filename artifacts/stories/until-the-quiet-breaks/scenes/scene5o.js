@@ -83,9 +83,9 @@ John's breath warmed her ear—agreement, hunger, warning. His fingers dug once 
 
 "Then wait while we pick the microphone," John said. He shifted closer still, and [player_name] felt the thick line of him against the curve of her ass through her coat—shameless, accidental-then-not, a refusal to go neat for an uncle's arrival. "You've had fifteen years."
 
-[player_name] reached back and caught John's wrist, holding him there—not stopping the press, owning it. Let Henry see the claim. Let the unfinished fuck in the hall remain unfinished on purpose while truth got its turn. Her cunt clenched at the pressure anyway, traitor and compass. Clara's eyes flicked to their joined hands and away, sister-discreet and sister-fierce.
+[player_name] reached back and caught John's wrist, holding him there—not stopping the press, owning it. Let Henry see the claim. Her cunt clenched at the pressure anyway, traitor and compass. Clara's eyes flicked to their joined hands and away, sister-discreet and sister-fierce.
 
-She could have turned and kissed John in front of Henry—mark the night as theirs with tongue and teeth—and the fantasy arrived so vivid her mouth parted. She didn't. Not yet. Heat advanced plot only if it didn't erase the fork. Still, when John's cock twitched against her through coat and denim, she pushed back a fraction on purpose, a filthy private answer, and heard his breath catch like a man reminded he was not only a nephew in a morality play.
+She could have turned and kissed John in front of Henry—mark the night as theirs with tongue and teeth—and the fantasy arrived so vivid her mouth parted. She didn't. Not yet. Still, when John's cock twitched against her through coat and denim, she pushed back a fraction on purpose, a filthy private answer, and heard his breath catch like a man reminded he was not only a nephew in a morality play.
 
 "Threshold or linoleum," she murmured, loud enough for the room. "We don't do limbo. Limbo is how Shaws drown."
 
@@ -119,8 +119,7 @@ Let Henry in and refuse to soften the night's truth—desire still unfinished ag
 
 She turned her face just enough that John could see her mouth shape the options without Henry reading them first. Apologize was not on this menu. Soften was not either. The menu was: uncle in, edges sharp, desire unfinished and visible—or Clara first, crack named in charcoal, John's heat kept as private weather while evidence spoke. [player_name]'s thighs pressed together under her coat. John felt the shift and exhaled a quiet filthy sound that made her want to abandon microphones entirely.
 
-"Now," Clara said again, louder. Menus bent. Rain dripped from Henry's coat in a rhythm like a clock with bad manners. The blue door breathed. The open knock waited on [player_name]'s spine and on the place between her legs that had never learned to wait politely for family.
-`,
+"Now," Clara said again, louder. Menus bent. Rain dripped from Henry's coat in a rhythm like a clock with bad manners. The blue door breathed. The open knock waited on [player_name]'s spine and on the place between her legs that had never learned to wait politely for family.`,
   choices: [
     { id: "scene6d", text: "Let Henry in — refuse every soft edge of the truth", textHot: "Let Henry in — refuse soft edges while John's hands stay on you" },
     { id: "scene6n", text: "Let Clara answer — she found the crack", textHot: "Let Clara answer — keep John close while her charcoal speaks" }

@@ -8,13 +8,13 @@ export default {
 
 Clara had cried and then agreed with a charcoal X on a manila folder, which was not the same as peace. Henry had nodded like a man granted a stay he did not deserve. The cover would not grow; it would also not die in public. Love with careful silence. A life built beside John while one drawer stayed locked.
 
-[player_name] tasted the cost immediately. Mid-want still lived in her body from the way John had held her in the hallway before the decision—forehead to forehead, breath shared, yearning sharp enough to hurt—but the want now sat beside a sealed thing, and the sealed thing changed the flavor of every future morning.
+[player_name] tasted the cost immediately. Want still lived in her body from the way John had held her in the hallway before the decision—forehead to forehead, breath shared, yearning sharp enough to hurt—but the want now sat beside a sealed thing, and the sealed thing changed the flavor of every future morning.
 
 "I need you to say what we're buying," she whispered.
 
 "Time," John answered. "Softer landings for Clara. A diner that doesn't become a crime scene in the gossip columns overnight. You in my bed without porches narrating our sheets. And the knowledge that we chose this with our eyes open—not Henry's forever, our temporary, renewable only if it doesn't start rotting."
 
-She turned into him. His coat still smelled of coffee and fryer hymn from closing the blue door hours ago. The cracked stool's ghost leaned in her mind. Sensory aftertaste: rain, woodsmoke, glass weight cold in memory, his hands warm at her waist. Emotional landing without triumph. Quiet Resealed was an ending that cost more than it gave and still asked to be lived.
+She turned into him. His coat still smelled of coffee and fryer hymn from closing the blue door hours ago. The cracked stool's ghost leaned in her mind. Sensory aftertaste: rain, woodsmoke, glass weight cold in memory, his hands warm at her waist. Emotional landing without triumph.
 
 "I won't pretend this is daylight," she said. "I won't pretend it doesn't scare me that careful silence is another name for the quiet that broke us once."
 
@@ -26,11 +26,11 @@ Morning came careful. They opened the diner on time. Mae asked nothing sharp; th
 
 At close, John locked up and held her in the dark dining room longer than comfort required. "If the seal starts feeling like a cage, we break it," he said into her hair. "You're not insurance. You're not Henry's quiet with prettier packaging. You're the woman I listen for trains about—even when we decide not to make the station a stage."
 
-She nodded against his chest. Quiet Resealed. Love holding. Peace thinner than it looked. Rain on slate. Wake-up promised. Mid-want echo still alive under the glass weight's shadow—adult, unfinished, honest about the price.
+She nodded against his chest. Love holding. Peace thinner than it looked. Rain on slate. Wake-up promised. Want echo still alive under the glass weight's shadow—adult, unfinished, honest about the price.
 
 Clara texted once from Willow Lane: *Drawer locked. Watching for rot. Love you both anyway.* [player_name] showed John the message over cooling coffee. He read it twice, then folded the phone face-down as if even glass could eavesdrop.
 
-"Rot watch is part of the vow," he said. "So is this." He laced their fingers on the laminate where customers could have seen and somehow did not. Mid-want flickered—careful, costly, real. The sealed archive lived upstairs. Their mornings lived here. The split would always ache a little. They opened anyway.
+"Rot watch is part of the vow," he said. "So is this." He laced their fingers on the laminate where customers could have seen and somehow did not. Want flickered—careful, costly, real. The sealed archive lived upstairs. Their mornings lived here. The split would always ache a little. They opened anyway.
 
 [player_name] slept eventually with John's arm over her waist and one hand curled as if it could still feel cold glass. The destination was not victory. It was a sealed drawer, a shared bed, a blue door opening on curated mornings, and the knowledge that some endings keep you by asking you to carry a little quiet again—on purpose, together, eyes open, cost counted every time the rain began.`,
   textHot: `The glass weight went back onto the papers at 2:17 a.m., and [player_name] felt John's cock still half-hard against the small of her back from the hallway grind they had aborted to come make this ugly choice. Wet boxwood. Woodsmoke. Rain on slate. Clara's charcoal X on the manila folder. Henry's relieved nod. Market Street would keep the prettier exit story. One drawer locked. Love with careful silence.
@@ -47,7 +47,7 @@ He dropped to his knees, yanked her jeans down, and fucked her with his tongue u
 
 "Quiet resealed—" he thrust, "—doesn't mean celibate—" thrust, "—doesn't mean I stop needing this—" deep grind. "Wake up next to me with my come still in you and the archive locked and your eyes open about the price."
 
-[player_name] locked her legs around him and took every stroke like a counter-argument to silence: vulgar, earned, belonging only to this ending's particular wound. "I'm not insurance," she gasped. "I'm not Henry's quieter packaging. Fuck the seal into something we control—"
+[player_name] locked her legs around him and took every stroke like a counter-argument to silence. "I'm not insurance," she gasped. "I'm not Henry's quieter packaging. Fuck the seal into something we control—"
 
 He came hard at that, spilling into her with a broken sound, forehead to hers, still pulsing. They slid to the floor together, joined, laughing once without humor and once with it.
 
@@ -55,8 +55,6 @@ Morning careful: coffee steam, curated smiles for Mae, John's fingers brushing h
 
 After, he kissed the knobs of her spine. "If the seal cages you, we break it," he said. "Until then I keep you loud where it counts."
 
-That night he woke her with his mouth already between her thighs—slow, apologetic heat for a peace that cost too much. "Hate the drawer," he murmured against her cunt. "Love that you still open for me." She came quiet into a pillow, then pulled him up and took his cock deep while rain needled the window, fucking the seal into something they controlled. After, he stayed inside her and whispered the wake-up promise again until sleep finally agreed.
-
-Quiet Resealed in body-POV: locked papers, unlocked thighs, rain aftertaste, wake-up with his cock heavy against her and the glass weight's ghost cold in memory—love holding through a peace that cost more than it gave, eyes open, want unbroken.`,
+That night he woke her with his mouth already between her thighs—slow, apologetic heat for a peace that cost too much. "Hate the drawer," he murmured against her cunt. "Love that you still open for me." She came quiet into a pillow, then pulled him up and took his cock deep while rain needled the window, fucking the seal into something they controlled. After, he stayed inside her and whispered the wake-up promise again until sleep finally agreed.`,
   choices: []
 };

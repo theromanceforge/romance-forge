@@ -22,7 +22,7 @@ Outside, station platform hiss lived only as memory at the edge of town. Inside,
 
 "Say the part about what you wanted," he said. "Not Henry's script. Yours. Did you want me, or did you want the exit more?"
 
-[player_name]'s throat worked. Honesty without garnish: "I wanted you. I wanted the exit because wanting you while Henry shook whiskey into tea felt like choosing your ruin in stereo. I was twenty. Fear made the map look like love. I am not twenty now. I am sitting on your cracked stool telling you the cover had my voice in it, and I am not asking you to sand that into romance."
+[player_name]'s throat worked. "I wanted the exit because wanting you while Henry shook whiskey into tea felt like choosing your ruin in stereo. I was twenty. Fear made the map look like love. I am not twenty now. I am sitting on your cracked stool telling you the cover had my voice in it, and I am not asking you to sand that into romance."
 
 John laughed once—wrecked, almost smiling—and the sound fogged the space where a kiss might have lived if the terms allowed it. "Good. Do not ask. Ask is how Henry talks when he wants forgiveness to do the work of restitution." He braced both hands on the counter, arms locked, body leaning without crossing the line. "Voss. Is the debt alive?"
 
@@ -38,11 +38,11 @@ The fluorescent lights hummed. Coffee cooled a degree. John's pulse showed at hi
 
 John straightened. "Last question before the terms expire. If I ask you to stay—not as penance, not as performance—can you stay without inventing a softer version of tonight for later? Can you let me hate the yes you spoke at twenty and still want the woman saying it now?"
 
-[player_name] stood too, stool scraping, the half-degree lean releasing her like a held breath. Close enough to share air. Not touching. The craft of the hour was the hurt of almost. "I can stay," she said. "I can also take this fire to Henry before it cools into another Shaw quiet. Both are honest. Neither lets me leave with a prettier lie in a suitcase."
+[player_name] stood too, stool scraping, the half-degree lean releasing her like a held breath. Close enough to share air. Not touching. "I can stay," she said. "I can also take this fire to Henry before it cools into another Shaw quiet. Both are honest. Neither lets me leave with a prettier lie in a suitcase."
 
 His mouth tilted. "Then the answers are done enough to open the door they were guarding." He did not kiss her. He lifted one hand and stopped it an inch from her cheek—heat without contact, a brand of intention. "After answers: stay and rebuild trust with your body—upstairs, here, wherever the rebuilding does not sand what we just said. Or go confront Henry while the fire is hot enough to burn his clock. Both keep me in the room. Standing here inventing a third road that costs nothing is the only cowardice left on Market Street."
 
-[player_name] tasted the fork bright behind her teeth. Rain needled. Wet boxwood waited on Willow. Clara's charcoal lived in margins. Voss's shadow still owned a piece of the ledger. John's hand hovered, refused to land, waited for the verb that would define whether wanting or justice got the next hour.
+[player_name] tasted the fork bright behind her teeth. Rain needled. Wet boxwood waited on Willow. Clara's charcoal lived in margins. Voss's shadow still owned a piece of the ledger.
 
 The blue door stuck like a promise that needed force. Coffee steam ghosted. The cracked stool listened. Henry's name sat half-spoken in the woodsmoke of memory. John's nearness was a second pulse she could finally answer—or postpone one more time for the uncle who had arranged the cover and called it love.
 

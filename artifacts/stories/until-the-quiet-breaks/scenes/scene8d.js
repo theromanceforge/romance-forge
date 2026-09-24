@@ -28,25 +28,23 @@ His other hand found her wrist under the shared coat, thumb on her pulse. Adult 
 
 "I hear it," John said. "I have heard it since you refused to let justice be shaped only like my grief. That is why we are negotiating instead of me handing you a script. Choose the verb."
 
-
 A delivery truck hissed past toward the freight yard, ordinary Somerton continuing without permission, and [player_name] used the ordinary sound to keep from softening the negotiation into comfort. Willow Lane's wet boxwood lived in John's sleeve. Across town Henry's mantel clock ticked over papers under glass. Clara's restless honesty would ask, by morning, whether she had been sequenced second for love or for cowardice. Mae's post office lamp would warm either way. Voss's name waited in a ledger like a coin nobody had spent cleanly.
 
 "Spectacle is not the same as justice," [player_name] said. "Sometimes it is just noise with better lighting. Couples honesty is not the same as hiding. Sometimes it is the only way two people stop using family as a shield for unfinished fear."
 
 John's eyes tracked the rain off the awning. "Agreed. So if we choose us first, we set a clock—tonight, dawn, not a week of softer coffee. We say the winter debt, the yes at twenty, the years, the anger, the wanting. Then we bring Clara in before Mae's slots invent a version. If we choose public consequences, we do not do it as revenge theater. We do it as refusal to let Henry's private remorse become another cover. Market Street hears. We endure the chew together. No private nurse act."
 
-[player_name] pressed her palm to the blue door behind her, feeling the stick through paint. "I left once believing silence would protect you. I will not stay by becoming silence in a different dress. Negotiate means my life stays in the sentence. Your wound stays in the sentence. Neither eats the other."
+[player_name] pressed her palm to the blue door behind her, feeling the stick through paint. "I left once believing silence would protect you. I will not stay by becoming silence in a different dress. Neither eats the other."
 
 "That is the cleanest thing anyone has said on this street in fifteen years," John answered. His thumb stroked her pulse once. "Then choose the sequence that keeps that sentence intact. Couples honesty before family spectacle—or Henry in public light. I will not hand you a script. I will hand you my standing."
 
-Rain thickened until the overhang felt like a chapel for verbs. Coffee steam ghosted. The cracked stool leaned. Woodsmoke and fryer oil and wet wool braided. [player_name] tasted copper and the particular courage of women who had said yes for fear and were learning to negotiate for breath.
-
+Coffee steam ghosted. The cracked stool leaned. Woodsmoke and fryer oil and wet wool braided. [player_name] tasted copper and the particular courage of women who had said yes for fear and were learning to negotiate for breath.
 
 John shifted so the shared coat covered more of her from the sideways rain, a practical tenderness that did not soften the blade of the choice. "Whatever you pick, we tell Clara before noon tomorrow," he said. "No more upstairs exile for the girl who found the crack. That is nonnegotiable on my side of the bargain. The rest—private rawness first or public fire first—is yours to aim."
 
 [player_name] nodded, rain cold on her cheek, pulse loud under his thumb. Willow's woodsmoke. Market Street coffee. The station hiss in memory. The years. The wound. The wanting. All of it in one overhang, refusing soft landing.
 
-The hook set without soft landing: rain as walls, John's thumb on her pulse like a vow that still smelled like coffee and woodsmoke, Henry's name unfinished, Clara waiting, Mae's lamp warm, the cracked stool listening, the particular hurt of a woman who had come home and refused to dissolve into repair. [player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the courage of ending a quiet that had outlived its mercy. The overhang held steady. The evening refused to land soft.
+[player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the courage of ending a quiet that had outlived its mercy. The overhang held steady. The evening refused to land soft.
 
 Couples honesty first. Or public consequences for Henry. The quiet leaned in at the gutter to hear which hunger she would feed first—the private rawness of two, or the civic fire that would not let Shaw weather stay polite.`,
   textHot: `Rain made a private room of the diner overhang, and [player_name] stood in it with John Shaw's cock hard against her stomach through two layers of wet denim and the particular stubbornness of a woman who refused to become only someone else's injury while he still wanted inside her.
@@ -61,11 +59,11 @@ He found the button of her jeans one-handed under the coat and popped it, rain c
 
 "Negotiate," he whispered against her mouth, two fingers rubbing her clit through wet fabric, brand for decision. "Insist on couples honesty before family spectacle—say it and I will fuck you through the unfinished answers until we can face Clara without using orgasm as anesthesia. Insist Henry faces public consequences—say it and I will still fuck you after, but we walk him into the chorus first and pay the noise tax with our clothes on. Pick. Standing here dripping on my hand while you try to be only kind is the only cowardice left under this awning."
 
-Sensory through-line: his fingers, rain cold on her cheek, coffee steam, door latch, woodsmoke, fryer tick through the wall, freight horn, the cracked stool as witness. Emotion: fury and love and the bright fear of being drafted as soft landing. Plot: sequence undecided; Henry unfinished; town hungry; Voss's coin under her tongue.
+Emotion: fury and love and the bright fear of being drafted as soft landing. Plot: sequence undecided; Henry unfinished; town hungry; Voss's coin under her tongue.
 
 "If I choose us first," she breathed, rolling once against his hand because stillness was another Shaw lie, "you do not call it selfish when Clara knocks. You get honesty between our mouths and my cunt and your cock before spectacle. If I choose public consequences, you do not sand the town's noise into betrayal later—you get me beside you in the fire, not nursing your wound in private while Henry sands."
 
-"Either exit," John promised, pressing harder, then easing, cruel with care. His cock jerked against her when she said cunt like a verb. "Clara will hate being second. Henry will hide in spectacle. Mae will smell which hunger you fed. I will stand with either cut. I will not invent softer coffee while you soak my fingers under a CLOSED sign."
+"Either exit," John promised, pressing harder, then easing, cruel with care. "Clara will hate being second. Henry will hide in spectacle. Mae will smell which hunger you fed. I will stand with either cut. I will not invent softer coffee while you soak my fingers under a CLOSED sign."
 
 [player_name] laughed once, wrecked, rain in her lashes. She pulled his mouth to hers—kiss open, adult, unfinished—and spoke against his teeth. "My life is not only your wound. Hear it while your hand is on me."
 
@@ -74,7 +72,6 @@ Sensory through-line: his fingers, rain cold on her cheek, coffee steam, door la
 He braced both hands on the brick beside her head then—giving her air, giving her the choice without his fingers steering—and his cock still pressed thick and obvious because Somerton's rain had never made desire polite. "Say it before the overhang stops feeling private. I rebuilt this diner around a wound. I can survive us first. I can survive public fire. What I cannot survive is you dissolving into my repair while your pulse is still arguing in your mouth."
 
 Wet boxwood. Woodsmoke. Clara waiting. Henry's mantel. Voss. Mae. The blue door stuck. [player_name] tasted herself on her lip and rain and coffee-ghost and John. Her nipples ached. Her cunt throbbed. The negotiation brightened behind her teeth.
-
 
 John dragged her a half-step deeper under the awning so the drip line fell behind them, then returned his hand to her open jeans—not to finish her, to remind her the body was part of the ballot. Two fingers stroked through soaked cotton, slow, maddening, while his mouth stayed at her ear. "Couples honesty first means I take you upstairs and we do not stop talking when I get inside you. Public consequences first means we put Henry in the light with our clothes on and our story straight, then I bring you back here and fuck the adrenaline out of both of us. Either way you do not dissolve into my wound. Either way your cunt stays yours while it wants me."
 
@@ -88,7 +85,6 @@ She shoved his hand down—not away, down—until his palm cupped her through fa
 
 [player_name] kissed him once—claim, not soft landing—and kept his hand still where she had put it while the choice brightened. Freight complained. The cracked stool listened. Henry's name waited like weather trying to come back.
 
-
 She kept his hand where she wanted it—cupped, still, obedient—and used the stillness as leverage. "Couples honesty before spectacle means upstairs tonight: every line, every yes, every anger, your cock and my cunt included in the honesty instead of used to dodge it. Public consequences means we collect Henry at Willow before Mae's morning slots and we walk him into light with our story straight and our bodies unfinished until after the chew. I will not be your soft landing either way. I will be your partner in mud."
 
 John's forehead dropped to hers, breath shaking, hips held rigid by force of will. "Partner in mud," he repeated like a vow. "Fuck. Yes. Then aim me. Insist on couples honesty before family spectacle—or insist Henry faces consequences in public. I am done being only the wound. You are done being only the repair. The awning is not a chapel forever. The rain is getting in. Choose."
@@ -99,7 +95,7 @@ Wet brick. Coffee steam. Blue door latch. Cracked stool. Wet boxwood memory. Woo
 
 "Then land it," John said. "Before Somerton invents weather for us again."
 
-The hook held: rain as walls, body humming, sequence undecided, evening refusing soft landing. Insist on couples honesty before family spectacle—or insist Henry faces consequences in public. [player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the man pinning the air around her without pinning her will. The overhang held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the private rawness of two, the civic fire, or the heat that had turned an awning into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+[player_name] drew a breath that tasted like rain and old coins and fryer-ghost and the man pinning the air around her without pinning her will. The overhang held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the private rawness of two, the civic fire, or the heat that had turned an awning into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. Us first. Or Henry in the light. Somerton tracked mud either way and the night refused to land soft.`,
   choices: [

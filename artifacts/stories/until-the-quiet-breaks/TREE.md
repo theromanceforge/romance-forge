@@ -126,7 +126,7 @@ Spice: Warm (`text`) and Hot (`textHot`) share the same choice IDs — the TREE 
 | `scene6j` | Settle Ghost Debt | → `scene7l` — Pay with Henry and close the ledger forever | → `scene7a` — Refuse payment — expose the debt instead |
 | `scene6k` | Truth Not Money | → `scene7e` — Bring John into the refusal | → `scene7g` — Shield John; carry the refusal yourself |
 | `scene6l` | Locked Blue Door Story | → `scene7c` — When you finish, invite Clara in | → `scene7f` — When you finish, go to Henry before dawn |
-| `scene6m` | Wait at Willow | → `scene7n` — Use the wait to search Henry's desk again | → `scene7o` — Use the wait to prepare Clara for John's rage |
+| `scene6m` | Wait at Willow | → `scene7m` — Use the wait to search Henry's desk again | → `scene7o` — Use the wait to prepare Clara for John's rage |
 | `scene6n` | Ledger First | → `scene7n` — Photograph every page for safekeeping | → `scene7a` — Confront Henry with the original in hand |
 | `scene6o` | Shed with John | → `scene7p` — Let him break what needs breaking | → `scene7e` — Hold him back — breaking won't rewrite the dead |
 | `scene6p` | Not Yet Forgive | → `scene7p` — Stand with him in unforgiveness | → `scene7b` — Ask him to leave room for later mercy |
@@ -150,7 +150,7 @@ Spice: Warm (`text`) and Hot (`textHot`) share the same choice IDs — the TREE 
 | `scene7m` | Search Desk Again | → `scene8n` — Find the second letter Henry never mailed | → `scene8o` — Find nothing new — accept the known wound |
 | `scene7n` | Photograph Pages | → `scene8k` — Send copies to a lawyer outside Somerton | → `scene8e` — Give copies only to Clara and John |
 | `scene7o` | Prepare Clara | → `scene8m` — Promise her you won't abandon the family again | → `scene8o` — Promise her only honesty — not forever |
-| `scene7p` | Break or Hold | → `scene8i` — Let John smash the shed lock; stay with the wreckage | → `scene8d` — Pull him into the rain and choose living over wreckage |
+| `scene7p` | Break or Hold | → `scene8i` — Let John smash the shed lock; stay with the wreckage | → `scene8p` — Pull him into the rain and choose living over wreckage |
 
 ## Layer 8
 

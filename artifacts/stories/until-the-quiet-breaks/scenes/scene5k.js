@@ -24,7 +24,7 @@ The hasp on the tin stuck. Clara swore once, teenage and precise, and [player_na
 
 Clara lifted it like something that might bruise. "Winter accounts. Not the pretty desk summary. This one."
 
-[player_name] felt John at her shoulder—heat through wet denim, breath not steady. Sensory first, always: rope mildew, gasoline ghost, the cold lip of the tin under her palm. Then emotion—dread with a clean edge; tenderness for the girl who had refused wallpaper; the stubborn pull of wanting John's trust even while she handed him evidence that would hurt. Then the plot turn, green cloth and pencil grooves becoming a door that would not close again.
+[player_name] felt John at her shoulder—heat through wet denim, breath not steady. Sensory first, always: rope mildew, gasoline ghost, the cold lip of the tin under her palm. Then emotion—dread with a clean edge; tenderness for the girl who had refused wallpaper; the stubborn pull of wanting John's trust even while she handed him evidence that would hurt. Then the turn, green cloth and pencil grooves becoming a door that would not close again.
 
 They did not go back to the house. Rain hammered the shed roof hard enough to make speech intimate by force. Clara opened the ledger on the crate beside her sketches. Numbers climbed in careful columns. Forty-eight thousand. Twelve more. Settled in kindness—Henry's phrase, ugly in its gentleness. A name written, erased, written lighter: Voss. An exchange number in the back margin in a hand that might have been Henry's or might have been a ghost's. John's father's signature on a line that should not have existed if the funeral-week story had been clean.
 
@@ -50,7 +50,7 @@ The ledger's next page fluttered in a draft from the warped door, almost turning
 
 Clara turned another page and tapped a column with a charcoal-stained nail. "See the skip? March to May with nothing between but a blank line and a smudge. Desk copies fill that gap with kindness language. This one leaves the hole honest." She glanced at [player_name]. "That is why the margins matter. I was drawing the holes before I had nouns for them."
 
-[player_name] leaned in until the bulb's heat warmed her cheek. The numbers stopped being abstract; they became winters John had worked through without her, pie cases emptier than pride liked, nights he had believed ambition took her when debt had. She thought of Market Street's fryer hymn continuing without her name in it. She thought of the letter still somewhere in her coat history, of open hands she had not chosen on this branch, of digging as its own intimacy—colder than a kiss, more binding than a soft arrival.
+[player_name] leaned in until the bulb's heat warmed her cheek. The numbers stopped being abstract; they became winters John had worked through without her, pie cases emptier than pride liked, nights he had believed ambition took her when debt had. She thought of Market Street's fryer hymn continuing without her name in it.
 
 "Voss shows up three times then vanishes," John said, voice flat with effort. "Say what you know."
 
@@ -89,7 +89,7 @@ John's mouth found the hinge of [player_name]'s jaw—teeth, breath, not a finis
 
 "Yes," she whispered. "Not inside. Not with Clara three feet away. Pressure. Proof we are flesh in the middle of his oilcloth."
 
-His hand slid into her panties and cupped her cunt—finding her wet enough to make him swear soft into her skin. One slow stroke along her clit, plot and heat the same motion, then he held still, two fingers resting where she throbbed, unfinished on purpose while Clara read the underlined line aloud: she agreed to go—for him.
+His hand slid into her panties and cupped her cunt—finding her wet enough to make him swear soft into her skin.
 
 The words and his fingers braided. [player_name]'s knees went soft. John held her up with the arm at her waist and the hand between her legs, the stroke denied at the edge so choice could still exist. She could have fucked herself against his fingers and come beside his father's wrong signature. She did not. Taking the orgasm would have sanded the fork into comfort.
 

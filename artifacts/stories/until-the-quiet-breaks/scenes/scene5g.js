@@ -36,7 +36,9 @@ John stepped fully inside. Water ran from his jacket onto Henry's clean floor an
 
 "Shadows collect," Henry said. "There are numbers that still answer. There is a balance I have been bleeding toward in quiet installments. I told myself finishing it alone was love. Clara's pages say otherwise."
 
-The plot turn sharpened: naming Voss was not the end of the night. It was the door into what to do with a living ghost.
+The turn sharpened: naming Voss was not the end of the night.
+
+It was the door into what to do with a living ghost.
 
 John looked at [player_name]—not asking her to soft-pedal, asking where she stood now that the syllable had become a man. His mouth was a hard line. Under it, she saw the boy who had been protected into ignorance and the man who ran Market Street on burnt coffee and stubborn care. She wanted to touch him. She did not—not yet. Touch would become comfort; comfort could become another cover if they were not careful.
 
@@ -55,8 +57,6 @@ Henry waited, wrecked open. Clara waited, charcoal on her jaw. John waited with 
 Henry's lips parted again—on more explanation, more sanding—
 
 "Don't," John said to him, without looking away from [player_name]. "She has the floor."
-
-
 
 Firelight caught the glass weight and threw a pale oval onto Henry's cheek. [player_name] walked to the side table, set the letter down beside the cold tea, and left it unfolded—face-up, crease sharp, no pocket to hide in. "You wrote around him," she said. "Clara drew over him. John lived under him without a noun. I am done with shadows that only have a first letter."
 
@@ -78,8 +78,6 @@ The room tightened. [player_name] felt John's attention like a hand at her nape�
 
 John's mouth twitched. "She has you boxed. Good."
 
-
-
 The name Voss lay face-up on the night like a page no one could turn back over. [player_name]'s pulse hammered. The choice hurt already: settle beside the man who built the cover, or strip the cover further and make John hear every ugly line without a checkbook as cushion. Outside, Willow Lane shone black. Inside, the unfinished kiss of earlier advocacy and indictment still lived between her and John as heat they had not spent—and the creditor's name waited for what she would do with it before morning made the town invent its own ending.
 
 She thought of the glove box Henry still flinched from, of bank slips clipped with a bobby pin in Clara's stack, of Market Street's morning crowd inventing ambition out of a suitcase. Naming Voss had changed the weather in the Shaw house; it had not yet changed who got to narrate what came after. John's drip-drip on the floorboards counted seconds with the mantel clock. Clara wiped charcoal on her jeans and left a dark smear like a signature. Henry looked at the paperweight as if neatness might still save him and found only glass.
@@ -87,7 +85,6 @@ She thought of the glove box Henry still flinched from, of bank slips clipped wi
 "I need you to understand," Henry tried, quieter. "Settling is not erasing. Speaking is not settling. Both cost. I am asking which cost you want me to pay in front of you tonight."
 
 "You're asking her to pick your penance," John said. "Pick faster, Uncle—or she will pick a penance you did not budget for."
-
 
 Henry's hand twitched toward the paperweight—toward covering something, anything—
 
@@ -132,8 +129,6 @@ Henry's lips parted—more sanding—
 
 "Don't," John said, eyes on [player_name]'s mouth. "She has the floor."
 
-
-
 Firelight threw a pale oval onto Henry's cheek. [player_name] walked to the side table, set the letter face-up beside cold tea, and felt John follow so close his chest brushed her back when she stopped. His hand returned to her belly under the coat—hot palm, claim without apology.
 
 "You wrote around him," she said to Henry, voice steady while her body was not. "Clara drew over him. John lived under him without a noun. I am done with shadows that only have a first letter."
@@ -156,8 +151,6 @@ Henry offered first light, a drive, closing. [player_name] heard herself answer 
 
 John's mouth twitched against her temple. "She has you boxed. Good. Fuck, I love your spine." His cock pressed her ass once, deliberate now—punctuation—and stilled.
 
-
-
 Voss lay face-up in the air. [player_name]'s cunt ached from adrenaline and John's hand on her belly and the unfinished kiss at her jaw. Go with Henry and close the debt in numbers—or refuse the checkbook and demand John hear every ugly line raw. The creditor's name waited. John's cock waited against her, a filthy vow. Henry's next soft sentence waited unborn. She had to move before any of them got tidy.
 
 She thought of the glove box, of Clara's bobby-pinned slips, of morning gossip inventing ambition out of a suitcase—and of John's hand under her coat, pinky dangerously low, close enough to the waistband of her jeans that one deep breath would put his fingers where her cunt was already slick from fear and loyalty braided. Naming Voss had changed the weather; it had not changed how badly she wanted to turn in John's arms and get on her knees in a locked room to remind them both they were not leverage.
@@ -166,12 +159,11 @@ She thought of the glove box, of Clara's bobby-pinned slips, of morning gossip i
 
 "You're asking her to pick your penance," John said, and his pinky edged under denim just enough to make [player_name]'s breath break. He stopped. Held. Did not retreat. "Pick faster, Uncle—or she picks a penance you did not budget for while I stand here with my hand in her clothes because the alternative is putting my fist through your mantel."
 
-
 Henry's hand twitched toward the paperweight—
 
 "Leave it face-up," [player_name] said, and pushed back into John's cock on purpose, one grind, mean with need, then stopped. He groaned into her shoulder. Clara pretended sudden interest in her charcoal. Henry went white.
 
-The number waited in Clara's book. The truck keys waited in a dish. John's fingers waited on her jeans button. Voss waited, newly named. [player_name]'s cunt was slick against cotton; her mouth still owed John a kiss he had torn away unfinished. Settle the ghost in his truck—or refuse the money and make Henry talk while John's hand finished what the button promised. 
+The number waited in Clara's book. The truck keys waited in a dish. John's fingers waited on her jeans button. Voss waited, newly named. [player_name]'s cunt was slick against cotton; her mouth still owed John a kiss he had torn away unfinished. Settle the ghost in his truck—or refuse the money and make Henry talk while John's hand finished what the button promised.
 
 She turned her head enough to catch John's mouth with hers for half a second—tongue, spit, promise—then broke it because finishing would have been escape. "After," she whispered. "Either road. You don't get to disappear into useful rage."
 

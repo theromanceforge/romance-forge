@@ -26,110 +26,43 @@ Silence roared under whatever hood or bulb watched them. [player_name] thought o
 
 John's forehead nearly touched hers. Stopped. The unfinished contact burned hotter than a granted kiss. "Two roads from here. Stand with me in unforgiveness—public spine, private heat, no early grace for Uncle. Or ask me to leave room for later mercy—keep the fist closed today, admit the hand might open when daylight finishes its work. I will not pretend those feel the same under my feet."
 
-"They do not," [player_name] said. "Standing in it means we walk into Willow and the diner and Clara's questions as people who will not sand. Leaving room means we refuse forever-hate without handing Henry a soft landing he has not earned." 
+"They do not," [player_name] said. "Standing in it means we walk into Willow and the diner and Clara's questions as people who will not sand. Leaving room means we refuse forever-hate without handing Henry a soft landing he has not earned."
 
-His pulse showed at his throat. Hers answered. The hook set: half-spoken vow, unanswered mercy, bodily want unfinished on purpose.
+His pulse showed at his throat. Hers answered.
 
 Outside, freight complained toward the yard. Inside, John waited too close. "Pick," he murmured. "Before I forgive him with my mouth on yours by accident. Before kindness drowns us the Shaw way. Before I stop telling anger from love and call the confusion healing."
 
-[player_name] felt the exits hurt the way they were supposed to. Stand in unforgiveness beside him—loyal, hard, unfinished. Or ask him to leave a door cracked for later mercy without letting Henry through today. Obsession over pretty. The quiet broke on the edge of a verb neither of them could unsay.
+Stand in unforgiveness beside him—loyal, hard, unfinished. Or ask him to leave a door cracked for later mercy without letting Henry through today. Obsession over pretty.
 
-She lifted her chin. Rain needled glass. The choice labels already lived in her chest as consequence: stand—or leave room. Both would cut. Neither would let her walk away clean from the man whose not-yet she had asked him to carry.
+She lifted her chin. Rain needled glass. Both would cut. Neither would let her walk away clean from the man whose not-yet she had asked him to carry.
 
 Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 1th counted breath.
 
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 2th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 3th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 4th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 5th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 6th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 7th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 8th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 9th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 10th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 11th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 12th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 13th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 14th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 15th counted breath.
-
 The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
 
 [player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
 
-
 John's silence had edges; she refused to sand them for comfort or for speed.
-
 
 Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
 
-
 She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-
-Obsession-grade tension lived in the space where his mouth almost finished what his hands had started.
-
 
 Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.
 
-
 His burn scar flashed white; her pulse answered in throat and thigh; the unfinished question grew teeth.
-
 
 Kindness had drowned Shaws before; they were trying something uglier and more accurate.
 
-
-The night leaned in to hear which verb she would spend before morning invented Henry's face at any door.
-
-
 Woodsmoke ghosted through memory even in rooms that smelled like fryer oil; Willow and Market Street braided into one weather.
-
 
 She kept her eyes open through the wanting because closed eyes were how costumes became lives.
 
-
 He waited too close; she stayed; presence remained their ugly sacrament.
-
 
 The quiet cracked another millimeter; neither of them moved to glue it.
 
-
-Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.
-
-
-The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
-
-[player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
-
-
-John's silence had edges; she refused to sand them for comfort or for speed.
-
-
-Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
-
-
-She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-
-Obsession-grade tension lived in the space where his mouth almost finished what his hands had started.
-
-
-Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.`,
+Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.`,
   textHot: `Not yet.
 
 John said it back to her like a filthy prayer, mouth close enough that [player_name] felt the words on her lip, and her cunt answered before her conscience could sand anything.
@@ -142,7 +75,7 @@ They were pressed together in the closed diner's aftermath or the shed's oilclot
 
 John cursed and kissed her—hard, coffee-bitter—then bit the hinge of her jaw as if marking the vow into skin. "Unforgiveness as foreplay. Christ." He popped her jeans button. Fingers slid down, found her soaked, circled her clit with cruel patience. "You want me to stand in this with you while I finger you. You want later mercy as a door we do not open tonight while I still have my cock aching to bury in you. Both make me mean. Both make me honest."
 
-"Stand with me in it," she gasped, hips chasing. "Public spine. Private heat. No early grace. Or—leave room for later mercy without giving him today—keep the fist closed while you fuck me like a man who has not absolved anyone." 
+"Stand with me in it," she gasped, hips chasing. "Public spine. Private heat. No early grace. Or—leave room for later mercy without giving him today—keep the fist closed while you fuck me like a man who has not absolved anyone."
 
 He pushed two fingers into her cunt and groaned when she clenched. "Say which. I can do unforgiveness. I can do a cracked door. I cannot do you coming on my hand while the sentence stays vague."
 
@@ -154,136 +87,39 @@ She was close—white-edged, shaking—when he eased the rub just enough that sp
 
 [player_name] tasted rain and him and copper truth. Her nipples ached from his pinching attention. Her cunt fluttered around emptiness when he withdrew his fingers and painted her lower lip with her own slick—filthy benediction. "Choose," he whispered. "I will lick this clean after you name the road. Not before."
 
-The hook held brutal: unanswered mercy, unanswered orgasm, vow unfinished on purpose. Wet boxwood. Coffee steam. Woodsmoke somewhere in memory. John only LI, heat advancing plot. Exits hurt. 
+Wet boxwood. Coffee steam. Woodsmoke somewhere in memory. Exits hurt.
 
-"Stand—or leave room," [player_name] said against his coated thumb, voice wrecked. "Both cut. Both leave me aching. Neither lets Henry tidy this into love tonight." 
+"Stand—or leave room," [player_name] said against his coated thumb, voice wrecked. "Both cut. Both leave me aching. Neither lets Henry tidy this into love tonight."
 
-His grey eyes burned. His belt stayed buckled—for now—like a held breath. The quiet broke on consequence verbs and the throb between her legs that refused soft landing.
+His grey eyes burned. His belt stayed buckled—for now—like a held breath.
 
 Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 1th counted breath.
 
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 2th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 3th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 4th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 5th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 6th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 7th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 8th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 9th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 10th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 11th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 12th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 13th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 14th counted breath.
-
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 15th counted breath.
-
 The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
 
 [player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
 
-
 John's silence had edges; she refused to sand them for comfort or for speed.
-
 
 Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
 
-
 She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-
-Obsession-grade tension lived in the space where his mouth almost finished what his hands had started.
-
 
 Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.
 
-
 His burn scar flashed white; her pulse answered in throat and thigh; the unfinished question grew teeth.
-
 
 Kindness had drowned Shaws before; they were trying something uglier and more accurate.
 
-
-The night leaned in to hear which verb she would spend before morning invented Henry's face at any door.
-
-
 Woodsmoke ghosted through memory even in rooms that smelled like fryer oil; Willow and Market Street braided into one weather.
-
 
 She kept her eyes open through the wanting because closed eyes were how costumes became lives.
 
-
 He waited too close; she stayed; presence remained their ugly sacrament.
-
 
 The quiet cracked another millimeter; neither of them moved to glue it.
 
-
-Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.
-
-
-The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
-
-[player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
-
-
-John's silence had edges; she refused to sand them for comfort or for speed.
-
-
-Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
-
-
-She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-
-Obsession-grade tension lived in the space where his mouth almost finished what his hands had started.
-
-
-Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.
-
-
-His burn scar flashed white; her pulse answered in throat and thigh; the unfinished question grew teeth.
-
-
-Kindness had drowned Shaws before; they were trying something uglier and more accurate.
-
-
-The night leaned in to hear which verb she would spend before morning invented Henry's face at any door.
-
-
-Woodsmoke ghosted through memory even in rooms that smelled like fryer oil; Willow and Market Street braided into one weather.
-
-
-She kept her eyes open through the wanting because closed eyes were how costumes became lives.
-
-
-He waited too close; she stayed; presence remained their ugly sacrament.
-
-
-The quiet cracked another millimeter; neither of them moved to glue it.
-
-
-Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.
-
-
-The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
-
-[player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.`,
+Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.`,
   choices: [
     { id: "scene7p", text: "Stand in unforgiveness — spine hard beside him", textHot: "Stand in unforgiveness — take him angry without granting grace" },
     { id: "scene7b", text: "Crack the door for later mercy — not today", textHot: "Crack later mercy — fuck him with the fist still closed" }

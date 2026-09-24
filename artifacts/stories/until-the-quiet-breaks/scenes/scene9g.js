@@ -14,11 +14,11 @@ Clara didn't look at him. "Accepting isn't the same as earning. Earning would ha
 
 [player_name] felt John's fingers find hers and lace tight. The romantic axis of the whole return lived in that grip: unfinished heat, adult trust, the question of whether tenderness could survive the secret that made her buy a ticket home. Sensory anchors pressed in—rain on slate, woodsmoke, the clock's stubborn tick, the faint diner grease still ghosting John's cuffs from the morning shift, charcoal dust on Clara's sleeve.
 
-"If we vote to keep him at Willow in grace," John said to her, not to Henry, "we choose Henry Redeemed as a direction. Smaller honest place. Forgiveness that lands with work attached. Willow reopens around a thinner quiet. The diner doesn't erase him from family even if it erases him from owning the story. He earns the salt. He doesn't inherit the narrative."
+"Smaller honest place. Forgiveness that lands with work attached. Willow reopens around a thinner quiet. The diner doesn't erase him from family even if it erases him from owning the story. He earns the salt. He doesn't inherit the narrative."
 
 "And if we vote to cut him out of the diner's future?" [player_name] asked.
 
-John's jaw flexed. "Then we choose costly justice. Henry Exiled from what Market Street thinks a Shaw name means when the lights are on. Wound named. Papers finished. No soft chair behind the counter. He can live—hell, I want him to live—but not inside the business Clara and I rebuilt while he wrote quiet over corpses of truth."
+John's jaw flexed. "Then we choose costly justice. Wound named. Papers finished. No soft chair behind the counter. He can live—hell, I want him to live—but not inside the business Clara and I rebuilt while he wrote quiet over corpses of truth."
 
 Henry flinched at corpses. Clara did not. [player_name] watched both reactions and understood why this layer hurt: the endings were close enough to taste, and every choice here fed a different destination with John's gravity still the center of the map.
 
@@ -44,14 +44,13 @@ Henry closed his eyes. The mantel clock struck. Rain thickened on the slate unti
 
 "I love you," John said into her hair. "In grace and in exile. Tell me which future we can wake up inside without resenting the sheets. Tell me which Shaw name we narrate after tonight."
 
-The hook of the afternoon tightened until leaving it unfinished felt like abandoning a live wire: two lines on paper, one uncle waiting, one sister refusing to redraw fiction, one love interest whose trust was the plot, and [player_name] with rain still in her coat and a vote that would feed either Henry Redeemed or Henry Exiled depending on which line took ink.
+The hook of the afternoon tightened until leaving it unfinished felt like abandoning a live wire.
 
 Outside, wet boxwood shook. Inside, woodsmoke and clock-tick and the ghost of Market Street coffee argued for different mercies. John's hand settled at the small of her back—warm, steady, asking without pulling. Clara waited with the pen. Henry waited without one.
 
 "Whatever we pick," John said, "we pick it with our eyes open. Keep Henry at Willow in grace—and make him earn the smaller chair until the quiet is honest enough to sleep under. Or cut Henry out of the diner's future—and let the wound stay named so Clara never has to draw him back into a costume and I never have to serve eggs over a lie."
 
 [player_name] looked at the two lines. At Henry. At Clara. At John Shaw, who had stayed, rebuilt, raised, waited, and still somehow made wanting feel like courage instead of weakness. The parlor smelled like every winter she had missed and every truth she had carried alone.
-
 
 They sat again on the sofa and went through one more round because grace without details was just another soft fiction. Clara read aloud the restitution lines she wanted Henry to sign if they kept him: acknowledgment of the winter accident's true shape, acknowledgment that [player_name]'s exit had been rewritten into ambition, acknowledgment that Voss's debt had been managed with other people's silence as collateral. John added diner terms—no keys, no informal ownership talk, no correcting customers who finally heard the open version wrong.
 
@@ -61,7 +60,7 @@ Henry listened without interrupting. When Clara finished, he nodded once. "If yo
 
 John lifted their joined hands and kissed her knuckles, slow, public enough for Clara and private enough to hurt. "Then we stop delaying. Grace with work. Or exile with a named wound. Both leave us together if we choose like adults. Both leave me wanting you when the ink dries."
 
-The papers waited. The quiet that had kept Somerton intact was already too cracked to mend with manners. Family secrets had teeth. Redemption did too. Exile did. Standing here, [player_name] understood that Layer Nine was not about pretty description—it was about a vote that hurt to leave blank.
+The papers waited. The quiet that had kept Somerton intact was already too cracked to mend with manners. Family secrets had teeth. Redemption did too. Exile did.
 
 And before either of them lifted Clara's pen—before grace or exile became the story Somerton would tell about the Shaws—[player_name] had to decide whether to vote with John to keep Henry at Willow in grace, or vote with John to cut Henry out of the diner's future, with the mantel clock listening like a judge that had finally learned their names and refused to look away.`,
   textHot: `The Shaw parlor on Willow Lane held its breath like a room about to get fucked by a verdict. [player_name] sat on the worn sofa with John Shaw pressed along her side, his thigh hard against hers, his hand already possessive on her knee under the polite angle of a throw pillow, while Henry waited in the armchair beneath the mantel clock and Clara stood by the window with charcoal on her fingers and zero interest in anyone's comfort.
@@ -74,7 +73,7 @@ Henry's hands trembled. "I won't beg. I will accept."
 
 Clara didn't look at him. "Accepting isn't earning. Earning started fifteen years too late when you wrote quiet over her exit and called it love."
 
-John leaned to [player_name]'s ear, voice scraped raw, breath hot. "If we keep him in grace, we aim at Henry Redeemed—smaller honest chair, forgiveness that works, Willow thinner and true. If we cut him from the diner's future, we aim at Henry Exiled—wound named, keys returned, no soft counter for the man who wrote fiction over your body leaving. Either way I take you upstairs after and fuck you like the vote is still inside you. Grace doesn't mean celibate. Exile doesn't mean I stop needing your cunt on my mouth."
+John leaned to [player_name]'s ear, voice scraped raw, breath hot. "Either way I take you upstairs after and fuck you like the vote is still inside you. Grace doesn't mean celibate. Exile doesn't mean I stop needing your cunt on my mouth."
 
 [player_name]'s thighs pressed together. She covered his hand with hers and pushed it higher until his fingers pressed her through denim right where she was already aching. Henry couldn't see. Clara could guess and didn't care. "You're voting with your hand on me," she whispered.
 
@@ -92,7 +91,6 @@ John guided [player_name]'s hand under a folded throw to palm his cock through d
 
 [player_name] squeezed him once, slow, then let go because Clara's pen was waiting and some hungers belonged after the ink. John's mouth brushed her temple. "I love you in grace and in exile. Tell me which future we wake up fucking inside without resenting the sheets. Keep Henry at Willow in grace—and make him earn the smaller chair until the quiet is honest enough to sleep under. Or cut him out of the diner's future—and let the wound stay named so we never redraw his costume with our bodies again."
 
-
 Clara went to the kitchen for the pen's twin and a glass of water. In the thirty seconds she was gone, John hauled [player_name] into his lap facing him, coat still on, and ground the hard ridge of his cock up against her cunt through their jeans until she whimpered into his neck. "Feel the vote," he ordered, low. "Grace means I fuck you soft and grateful after he signs. Exile means I fuck you hard and clean after the keys hit the table. Either way you're coming on me tonight with ink on your fingers. Don't you dare go numb for my uncle's sake."
 
 [player_name] rolled her hips, shameless, using the parlor's bad angles and Henry's closed eyes as cover enough. "I'm not numb," she whispered. "I'm choosing with my body awake. Keep him and make him earn—or cut him and keep the wound honest. I want you in both. I want the sheets to smell like decision."
@@ -101,15 +99,13 @@ John kissed her filthy and brief, then set her back on the sofa cushion before C
 
 "Last chance to say it out loud before ink," John told her. "Grace—Henry at Willow earning a smaller chair. Exile—Henry cut from the diner's future, wound named, papers finished. I love you in both. Pick the one we can still fuck under without choking on resentment."
 
-Rain thickened. Woodsmoke curled. The glass weight held papers like a dare. [player_name] looked at the two lines, at John Shaw whose want advanced the plot instead of decorating it, at the uncle who had borrowed her exit, at the sister who refused to soften for anyone's cock or anyone's mercy.
-
+Rain thickened. Woodsmoke curled. The glass weight held papers like a dare.
 
 He put his mouth at her ear one last time while Clara uncapped the pen. "When this is done I am going to take you upstairs, strip you slow, and lick every place this parlor made you clench. I am going to put my cock in you and make you say grace or exile while you come so the word lives in your body not just on Clara's paper. That is not decoration. That is how we survive the Shaw name after tonight." [player_name] shivered hard enough that the throw pillow slipped. John steadied her with a hand at her nape, tender and filthy at once, and nodded at the sheet.
 
-Henry cleared his throat once, a small ruined sound. John did not look away from [player_name]. "Ignore him for ten more seconds," John whispered. "This vote is our body first. I want you to remember the smell of woodsmoke and the taste of my fingers when you think about grace. I want you to remember how hard I was when you think about exile. That is not porn without plot—that is how Shaw silence dies: in heat, in ink, in you choosing out loud while I stay hard for the aftermath."
-[player_name] nodded, still wet, still clear. Clara uncapped the pen with a click that sounded like a starting gun.
+Henry cleared his throat once, a small ruined sound. John did not look away from [player_name]. "Ignore him for ten more seconds," John whispered. "This vote is our body first. I want you to remember the smell of woodsmoke and the taste of my fingers when you think about grace. I want you to remember how hard I was when you think about exile. That is not porn without plot—that is how Shaw silence dies: in heat, in ink, in you choosing out loud while I stay hard for the aftermath." [player_name] nodded, still wet, still clear. Clara uncapped the pen with a click that sounded like a starting gun.
 
-The parlor waited like a held orgasm. The quiet was too cracked for manners. Family secrets had teeth. So did John when he stopped being careful. Standing here wet and chosen and unfinished, [player_name] understood the craft bar in her bones: hook, consequence, heat that moved the story.
+The parlor waited like a held orgasm. The quiet was too cracked for manners. Family secrets had teeth. So did John when he stopped being careful.
 
 And before either of them lifted Clara's pen—before grace or exile became the story Somerton would tell—[player_name] had to decide whether to vote with John to keep Henry at Willow in grace, or vote with John to cut Henry out of the diner's future, with John's fingers still ghosting inside her and the mantel clock listening like a judge that had finally learned how desire and consequence shared a bed.`,
   choices: [

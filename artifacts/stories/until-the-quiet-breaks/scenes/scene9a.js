@@ -133,23 +133,13 @@ The mantel clock ticked.
 
 And before Willow Lane's woodsmoke died, [player_name] had to choose whether their life would be built in daylight with nothing sealed—or sealed in a family archive where love survived by keeping one careful, costly silence intact.
 
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
 She catalogued the room the way people catalog exits: window, hall, mantel, John's mouth, the papers that would not stop being papers no matter how gently anyone touched them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying and asked for both to be named aloud.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
 
 Coffee and woodsmoke braided until she could not tell which belonged to the diner and which belonged to Willow Lane, only that both belonged to the life she was about to accept or refuse.
 
 Clara's charcoal ghosted through every margin she looked at, a restless honesty that made adults look unfinished by comparison.
 
-Henry's name lived in the floorboards. Saying it softer did not make it kinder. Saying it louder did not make it free.
-
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.`,
+Henry's name lived in the floorboards. Saying it softer did not make it kinder. Saying it louder did not make it free.`,
   choices: [
     { id: "scene10a", text: "Choose full disclosure with John — build a life in daylight", textHot: "Choose full disclosure — fuck and live in daylight with nothing sealed" },
     { id: "scene10i", text: "Choose a sealed family archive — love with careful silence", textHot: "Seal the archive — love him with one careful silence still locked" }

@@ -20,7 +20,7 @@ Rain streaked the front window. A freight shifted in the yard and did not leave.
 
 John's mouth quirked without humor. "They'll look anyway. Looking is free here. What costs is whether we give them a show of us breaking—or a show of us staying."
 
-She wanted him with an ache that was not teenage nostalgia. Adult want: the kind that knew his hands smelled like coffee and bleach, that knew he raised Clara beside these lights, that knew trust was the plot and desire was the oxygen. The unfinished heat between them thickened every time the door stuck and he shouldered it open for someone who might be carrying gossip instead of a tip.
+She wanted him with an ache that was not teenage nostalgia. The unfinished heat between them thickened every time the door stuck and he shouldered it open for someone who might be carrying gossip instead of a tip.
 
 "And the sealed page?" she asked.
 
@@ -40,7 +40,7 @@ The yearning sharpened. She leaned in until their foreheads nearly touched, dine
 
 "Like people who think they know you. Like pity that wants a seat at the counter. Like Clara's friends asking questions she shouldn't have to answer alone." His thumb stroked once at her hip. "Like me needing you in the booth after close so I remember why I stayed all those years you were gone."
 
-She kissed him—quick enough for a diner, deep enough to hurt. When she pulled back, the hook was already set: two doors that both led through John, both refused the train, both asked her to decide what kind of silence—if any—she would still carry.
+She kissed him—quick enough for a diner, deep enough to hurt.
 
 The blue door stuck when a customer pushed in. John moved to help, then looked back at her over his shoulder as if the ending had already started and was waiting on her mouth.
 
@@ -50,23 +50,13 @@ Or stay with one page sealed.
 
 Either way, Somerton on his terms meant she did not get to pretend distance was safety anymore. The quiet had broken. The only question left was how much of the breaking she would claim beside him—and how much she would tuck away for a softer night that might never come.
 
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
 She catalogued the room the way people catalog exits: window, hall, mantel, John's mouth, the papers that would not stop being papers no matter how gently anyone touched them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying and asked for both to be named aloud.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
 
 Coffee and woodsmoke braided until she could not tell which belonged to the diner and which belonged to Willow Lane, only that both belonged to the life she was about to accept or refuse.
 
 Clara's charcoal ghosted through every margin she looked at, a restless honesty that made adults look unfinished by comparison.
 
 Henry's name lived in the floorboards. Saying it softer did not make it kinder. Saying it louder did not make it free.
-
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
 
 Trust was not a speech. Trust was the next irreversible step, and both of them felt it waiting in the room like weather about to break.
 
@@ -78,23 +68,7 @@ Outside, wet boxwood scraped glass in a patient rhythm. Inside, patience had run
 
 She could leave the room. She would not leave the choice. The choice had already climbed into her mouth and was waiting to be spoken.
 
-John watched her as if watching were a vow—steady, hungry, afraid, present. The combination was worse than beauty. It was home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
-She catalogued the room the way people catalog exits: window, hall, mantel, John's mouth, the papers that would not stop being papers no matter how gently anyone touched them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying and asked for both to be named aloud.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
-
-Coffee and woodsmoke braided until she could not tell which belonged to the diner and which belonged to Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin she looked at, a restless honesty that made adults look unfinished by comparison.
-
-Henry's name lived in the floorboards. Saying it softer did not make it kinder. Saying it louder did not make it free.`,
+John watched her as if watching were a vow—steady, hungry, afraid, present. The combination was worse than beauty. It was home with teeth.`,
   textHot: `Market Street wore its new noise like a fever, and [player_name] felt it in her teeth. Somerton had always gossiped; now the gossip had papers behind it, Henry's name wrong in public mouths, eyes on the blue diner door every time John Shaw shouldered it open. Coffee steam. Fryer hymn. The cracked stool's lean. John wiped a clean counter and looked at her like the town outside the glass was already inside his jeans.
 
 "My terms aren't a cage," he said, voice scraped low. "They're Somerton. Clara. This place staying open when people come hungry for spectacle instead of eggs."
@@ -109,7 +83,7 @@ Rain streaked the window. A freight shifted and did not leave. She thought of Wi
 
 John's laugh was rough. "They'll look anyway. What costs is whether we give them a show of us breaking—or a show of us staying so hard it pisses them off." His hand slid to the small of her back, hidden by the counter from the window booths, fingers dipping just under her waistband. "Stay means I get to touch you like this between tickets. Stay means after close I lock that blue door and bury myself in you until the gossip is just weather."
 
-She was already wet from the promise. Adult want, earned and mean: coffee-and-bleach hands, the man who raised Clara beside these lights, trust as plot, desire as oxygen. "And the sealed page?"
+She was already wet from the promise. Adult want, earned and mean. "And the sealed page?"
 
 "One page." He held up a finger, then used that hand to cup her ass discreetly, squeezing. "Voss's ugliest numbers. Or Henry's ugliest sentence. We keep it until Clara sleeps. You stay. I stay. Town gets most of the truth. We keep one blade sheathed—and I still fuck you like nothing is sheathed between us."
 
@@ -139,23 +113,13 @@ Or stay with one page sealed.
 
 Either way, Somerton on his terms meant she did not get distance-as-safety. The quiet had broken. The only question left was how much of the breaking she would claim beside him while he fucked the decision into something she could still walk into morning carrying—and how much she would tuck away for a softer night that might never come.
 
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
 She catalogued the room the way people catalog exits: window, hall, mantel, John's mouth, the papers that would not stop being papers no matter how gently anyone touched them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying and asked for both to be named aloud.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
 
 Coffee and woodsmoke braided until she could not tell which belonged to the diner and which belonged to Willow Lane, only that both belonged to the life she was about to accept or refuse.
 
 Clara's charcoal ghosted through every margin she looked at, a restless honesty that made adults look unfinished by comparison.
 
 Henry's name lived in the floorboards. Saying it softer did not make it kinder. Saying it louder did not make it free.
-
-She thought of the blue door that stuck, of the cracked stool's lean, of John's hands counting the till like prayer and inventory were the same religion.
 
 Trust was not a speech. Trust was the next irreversible step, and both of them felt it waiting in the room like weather about to break.
 
@@ -167,21 +131,7 @@ Outside, wet boxwood scraped glass in a patient rhythm. Inside, patience had run
 
 She could leave the room. She would not leave the choice. The choice had already climbed into her mouth and was waiting to be spoken.
 
-John watched her as if watching were a vow—steady, hungry, afraid, present. The combination was worse than beauty. It was home with teeth.
-
-The rain kept its old argument with the slate, soft then sharp then soft again, as if Somerton itself were rehearsing how loudly a secret could fall.
-
-Somewhere past the freight yard a whistle thinned into nothing, and the nothing felt personal—like every unfinished departure this town had ever hosted.
-
-She catalogued the room the way people catalog exits: window, hall, mantel, John's mouth, the papers that would not stop being papers no matter how gently anyone touched them.
-
-Want sat under her sternum like a second pulse. Not pretty. Not polite. The adult kind that knew the cost of leaving and the cost of staying and asked for both to be named aloud.
-
-He did not fill the silence with comfort. He let it hurt. That was the craft of this night—hurt that meant the choice was real.
-
-Coffee and woodsmoke braided until she could not tell which belonged to the diner and which belonged to Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin she looked at, a restless honesty that made adults look unfinished by comparison.`,
+John watched her as if watching were a vow—steady, hungry, afraid, present. The combination was worse than beauty. It was home with teeth.`,
   choices: [
     { id: "scene10h", text: "Stay and love him inside the town's new noise", textHot: "Stay and love him — fuck through the town's new noise" },
     { id: "scene10b", text: "Stay beside him but keep one page sealed for now", textHot: "Stay beside him — keep one page sealed while you still burn" }

@@ -24,13 +24,13 @@ Clara's laugh steamed in the bulb's weak light. "Photographs are insurance. Conf
 
 Wind shoved the door against its warped frame. Clara braced it with her boot and did not look soft doing it. Boot rubber on wet wood. Chin up. Shaw stubbornness in a younger mouth. "Henry left the key on the hook like a breadcrumb or a dare. John is—depending on which night this is—either studying my margins behind a blue door that sticks or standing in rain wondering why his uncle's patience suddenly smells like fear. We do not get to be decorative with this crate. We choose, or the draft chooses for us when it flips the page."
 
-[player_name] stood. Her knees complained. The bulb swung; shadows slid over Clara's sketchbook where it lay beside the ledger, graphite winter roads echoing the numbers like a translation into a language Shaw men refused to speak. Sensory first: oil, dust, rain on tin, woodsmoke ghosting from the house, the faint coffee-memory that clung to [player_name]'s coat from Market Street hours. Then emotion: anger braided to protectiveness, yearning for a man who deserved firsthand truth, dread of what confrontation would unlock in Henry's carefully sanded mouth. Then the plot turn, sharp as a snapped rubber band and twice as loud in the chest.
+[player_name] stood. Her knees complained. The bulb swung; shadows slid over Clara's sketchbook where it lay beside the ledger, graphite winter roads echoing the numbers like a translation into a language Shaw men refused to speak. Sensory first: oil, dust, rain on tin, woodsmoke ghosting from the house, the faint coffee-memory that clung to [player_name]'s coat from Market Street hours. Then emotion: anger braided to protectiveness, yearning for a man who deserved firsthand truth, dread of what confrontation would unlock in Henry's carefully sanded mouth. Then the turn, sharp as a snapped rubber band and twice as loud in the chest.
 
 She paced the narrow aisle between crates, counting breaths the way John counted grill tickets when fury needed a job. "If we photograph, we do it now, page by page, no skipping the Voss lines, no mercy for our own stomachs. We store copies where Henry's tidy hands cannot reach—Clara's room, my phone, a lawyer outside Somerton if we get brave enough before dawn. If we confront, we take the original up the wet path to the kitchen table and put it down like a verdict he wrote himself and tried to file under family."
 
 Clara rose too, smaller than the rage she carried, fierce enough to fill the shed. "John will be furious either way. Photographing without him looks like exclusion dressed as care. Confronting without him looks like theater dressed as justice. Tell me which fury you can weather—and which one I should stand inside without becoming a mascot again."
 
-The freight horn complained in the distance, ordinary and cruel. Rain found a new rhythm on the tin. [player_name] felt the hook set deep: unfinished proof in her hands, unfinished heat under her coat, an unanswered question about whether insurance or indictment would hurt cleaner when morning arrived with its wet boxwood and its demands.
+The freight horn complained in the distance, ordinary and cruel. Rain found a new rhythm on the tin.
 
 She thought of John's grey eyes, of the blue door that stuck, of coffee steam and a cracked stool leaning its half-degree left like an apology nobody had collected. Obsession over pretty. The ledger did not care about pretty. Neither did Clara. Neither, anymore, did [player_name]. Pretty had built the cover story. Pretty had put her on a train with a yes that tasted like copper for fifteen years.
 
@@ -79,7 +79,7 @@ She tasted rain on her lip and the ghost of John's coffee-bitter kiss from hours
 
 "Both sentences are honest," Clara said. "Both are also delay if you keep talking instead of choosing." She nudged the phone toward [player_name] with one charcoal finger, then nudged the ledger toward the door with her boot. Tools. Fork. No soft middle. "I will not sand this for you. I found the crack. You decide whether we document it or shove it into Uncle's face while Market Street still thinks the Shaw quiet holds."
 
-[player_name] looked at Clara—witness, not mascot—and at the swung bulb's ugly light on her own shaking hands. Fryer hymns lived only in memory. The blue door stuck in another part of town. Here there was only oilcloth, rain, Voss, and a cunt that would not stop asking for a man who deserved better than secondhand anything. The hook held: unanswered justice, unanswered wanting, pages face-up like a mouth that would not close.
+[player_name] looked at Clara—witness, not mascot—and at the swung bulb's ugly light on her own shaking hands. Fryer hymns lived only in memory. The blue door stuck in another part of town. Here there was only oilcloth, rain, Voss, and a cunt that would not stop asking for a man who deserved better than secondhand anything.
 
 "Now," Clara whispered. "Before courage cools. Before Henry invents morning. Before I photograph it myself and resent you for making me the adult."
 
@@ -99,7 +99,7 @@ The shed air tasted like rust and old rope. [player_name] rolled her shoulders a
 
 "It will not be simple," Clara said. "Simple died with the cover story. Pick the complicated hurt and move."
 
-[player_name] nodded once. Her cunt ached around absence. Her hands were steady now the way hands get steady when the cliff edge becomes familiar. Wet boxwood. Woodsmoke. Voss. John. The unfinished heat under her coat burned hotter than the bulb. The quiet broke on the edge of a verb: shoot the pages, or shove the original into Henry's face—and neither exit let her leave the shed without paying in want and consequence.
+[player_name] nodded once. Her cunt ached around absence. Her hands were steady now the way hands get steady when the cliff edge becomes familiar. Wet boxwood. Woodsmoke. Voss. John. The unfinished heat under her coat burned hotter than the bulb.
 
 "Say the choice with your body pointed at it," Clara whispered. "I am done translating your silence into courage I have to carry alone."`,
   choices: [

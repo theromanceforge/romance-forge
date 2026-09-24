@@ -34,13 +34,13 @@ Clara texted once—three words, no punctuation, the kind of honesty that refuse
 
 "He has earned the truth," John said. "Kindness is a separate ledger. Voss is a separate ledger. You and I are the ledger I care about balancing before the pie case turns us into sport with a moral." He squeezed her pocketed hand. "I can flip the open sign at dawn. I can also buy two tickets and a week of rain that is only rain. What I cannot do is stand here inventing a third option where gossip is real and we pretend it is not because wanting each other feels safer than being seen."
 
-Wanting each other was not safer. It was the plot under the plot—trust wearing heat, heat wearing consequence. [player_name] let the awning drip count time on her sleeve and refused to look away from his eyes.
+Wanting each other was not safer. [player_name] let the awning drip count time on her sleeve and refused to look away from his eyes.
 
-The hook set without soft landing: town cost already on the tongue of Market Street, John's unfinished question hanging in rain, the particular hurt of a woman who had bought a ticket home and was now deciding whether presence tomorrow or absence for a week was the loyalty that kept tenderness alive inside the chew. [player_name] drew a breath that tasted like wet brick and old coins and coffee and the man who had rebuilt a diner around a wound. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—the courage of facing noon together, or the oxygen of leaving while talk burned, or the body that still wanted both and could not have a third sanded road.
+[player_name] drew a breath that tasted like wet brick and old coins and coffee and the man who had rebuilt a diner around a wound. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—the courage of facing noon together, or the oxygen of leaving while talk burned, or the body that still wanted both and could not have a third sanded road.
 
 Face Market Street together tomorrow. Or leave town for a week while talk burns out. The awning dripped. The blue door waited. The night-morning refused to land soft.
 
-Freight complained again, longer, as if the yard itself wanted a vote on whether Shaw quiet died in public tomorrow or in a week of elsewhere rain. [player_name] kept her boots planted and her hand in John's pocket and let the unfinished question hurt exactly as much as craft demanded.`,
+Freight complained again, longer, as if the yard itself wanted a vote on whether Shaw quiet died in public tomorrow or in a week of elsewhere rain.`,
   textHot: `Market Street had already begun to chew, and [player_name]'s body had already begun to answer John under the hardware awning like gossip and want shared a bloodstream.
 
 Rain stitched the slate. Mae's gold lettering fogged. Coffee steam ghosted from the diner vent. The blue door stuck. John had her backed to wet brick, coat open, thigh slotted between hers, cock a thick insistent line against her hip while Mrs. Pell's voice carried from the bakery corner—Shaw, ice, left, debt—in an order that was not Henry's weather. Gossip was not registered mail. Neither was the way [player_name]'s cunt clenched when John's mouth found the rain at her throat.
@@ -51,7 +51,7 @@ Rain stitched the slate. Mae's gold lettering fogged. Coffee steam ghosted from 
 
 John shoved two fingers past her waistband, found cotton soaked through, and pressed her clit with public cruelty timed to the bakery gossip. "Feel the cost," he muttered. "That is what honesty does in a body. Soft landings are how we got the lie. I stayed. I raised Clara beside these lights. I listened for a train. Now I am asking whether you want to stand in the chew at dawn with my hand in your jeans under the pie case, or take my cock and my tickets to the station and let seven days teach Somerton how to talk without your cunt as their instrument."
 
-Sensory through-line: wet brick on her shoulder blades, rain cold on her open throat, coffee steam, fryer tick, his fingers circling slow, cock hard at her hip, wet boxwood in her sleeves, woodsmoke in his hair. Emotion: fury and want and civic dread. Plot: town already chewing; Clara texting; choice as verb.
+Emotion: fury and want and civic dread. Plot: town already chewing; Clara texting.
 
 Clara's three-word text lit [player_name]'s pocket—*theyre already talking*—and John read it over her shoulder without removing his hand from her jeans. "She does not wake into a chorus alone," he said. "Face tomorrow and we bring her to the diner before regulars—truth with coffee, my mouth on yours in front of God and eggs if that is what courage looks like. Leave a week and we tell her dates on Willow to her face, then I take you apart in a room with no slate roof listening."
 
@@ -61,7 +61,7 @@ Clara's three-word text lit [player_name]'s pocket—*theyre already talking*—
 
 She tasted herself and rain and him. Voss's coin. Henry's empty mug. Clara's arrows. The cracked stool leaning behind glass. Freight complaining. Desire and dread arguing in one pulse. Trust was the real plot, and trust was asking whether presence tomorrow or absence for a week kept tenderness alive inside the chew.
 
-John kissed her once—deep, public enough that anyone looking would file it under memory—then made space for the verb like a man who understood civic light and private heat could share a street without apologizing. "I can flip the open sign," he said. "I can buy tickets. What I cannot do is stand here with your taste on my mouth while you sand the choice into prettier logistics. Face Market Street together tomorrow—walk into the noise with me. Or leave town for a week while talk burns out—take my hand to the platform and let the burn happen without our throats."
+John kissed her once—deep, public enough that anyone looking would file it under memory. "I can flip the open sign," he said. "I can buy tickets. What I cannot do is stand here with your taste on my mouth while you sand the choice into prettier logistics. Face Market Street together tomorrow—walk into the noise with me. Or leave town for a week while talk burns out—take my hand to the platform and let the burn happen without our throats."
 
 [player_name] wiped rain from her mouth with a sticky thumb and kept her boots planted. The blue door stuck in muscle memory. Gold lettering fogged. Woodsmoke. Wet boxwood. The unfinished ache between her legs timed to gossip she had chosen to feed.
 
@@ -75,7 +75,7 @@ John's laugh shook against her sternum. "Fryer oil is my religion," he said. "Co
 
 John pressed his forehead to hers until rain ran between their noses like a shared vow. "Then spend the verb before the regulars rattle the latch. My diner does not care about your cunt or my vow except insofar as both show up when the quiet finishes breaking. Speak."
 
-The hook held: town cost on every tongue, John's unfinished question hanging in rain, body still humming, morning refusing soft landing. Face Market Street together tomorrow—or leave for a week while talk burns. [player_name] drew a breath that tasted like wet brick and coffee and old coins and the man who had rebuilt a diner around a wound. The quiet leaned in at the gutter to hear which hunger she would feed—the courage of noon, the oxygen of elsewhere, or the heat that had turned public chewing into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Face Market Street together tomorrow—or leave for a week while talk burns. [player_name] drew a breath that tasted like wet brick and coffee and old coins and the man who had rebuilt a diner around a wound. The quiet leaned in at the gutter to hear which hunger she would feed—the courage of noon, the oxygen of elsewhere, or the heat that had turned public chewing into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. The awning. The blue door. His hand still wet. Somerton tracked mud either way and the night-morning refused to land soft.
 

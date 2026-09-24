@@ -2,7 +2,7 @@ export default {
   id: "scene8p",
   layer: 8,
   title: "Rain Over Wreckage",
-  text: `Rain sheeted the Shaw shed yard until oil rainbows swam in the mud, and [player_name] stood in it with John breathing hard beside the wreckage of a lock he had almost smashed and a silence that had finally learned how to break wrong. The shed smelled like cold rope and spilled solvent and the particular electricity of a man who had chosen living over total demolition by a thin margin. Crowbar leaned against warped siding. Door hung crooked. Inside, shapes of old tools and tarps looked like furniture arranged by grief. Outside, Willow Lane's wet boxwood watched. Woodsmoke thinned from the house chimney as if even the fire were waiting for a verb.
+  text: `Rain sheeted the Shaw shed yard until oil rainbows swam in the mud, and [player_name] stood in it with John breathing hard beside the wreckage of a lock he had almost smashed and a silence that had finally learned how to break wrong. The shed smelled like cold rope and spilled solvent and the particular electricity of a man who had chosen living over total demolition by a thin margin. Crowbar leaned against warped siding. Door hung crooked. Inside, shapes of old tools and tarps looked like furniture arranged by grief. Outside, Willow Lane's wet boxwood watched.
 
 John's knuckles were scraped. Burn scar pale under rain. Coat open, shirt stuck to his chest, eyes bright with the aftermath of almost-wrecking what little physical evidence remained of his father's winter and Henry's sanded seasons. "We pulled into the rain," he said, voice raw. "We chose living over smashing every last board. That does not make the wreckage imaginary. You can go back inside and start cleaning the truth—papers, shed, kitchen table, Clara's questions, Henry's empty mug—one honest pile at a time. Or you can walk with me to the station in this rain with the ending undecided—no ticket yet, no speech, just platform hiss and the question of whether staying or leaving gets to own the morning after wreckage. Both are verbs. Soft would be standing here pretending the lock will grow back if we apologize to the mud."
 
@@ -22,11 +22,11 @@ John's hand found her wrist, thumb on her pulse, crowbar still hooked in his oth
 
 Freight complained far toward the yard. Market Street's fryer hymn slept under rain. The blue door stuck in memory. Wet boxwood scraped. Woodsmoke thinned. [player_name] catalogued the yard like evidence: oil rainbows, crooked door, crowbar, John's scraped knuckles, Clara waiting under the lintel, Henry's house holding its tongue, the particular electricity of a night that had almost become demolition and had become a fork instead.
 
-"Go back inside and start cleaning the truth," she repeated, tasting the verb. "Or walk to the station in the rain—ending undecided. Both hurt. Both move. Standing here inventing a prettier mud is how Somerton learned to call ice weather, and I am done being weather's good student."
+"Or walk to the station in the rain—ending undecided. Both hurt. Both move. Standing here inventing a prettier mud is how Somerton learned to call ice weather, and I am done being weather's good student."
 
 John set the crowbar down against the siding—not discarded, paused—and cupped her rain-cold face with scraped hands. "Then pick," he said. "My sister is watching. The lock is broken. The quiet is already wrecked. The only soft landing left would be a lie, and lies are what got us the crowbar in the first place."
 
-[player_name] leaned into his palms. She thought of fragile hope that might still wait in a diner on another branch, of unsent letters, of tickets booked or canceled, of Mae's slots and forty-eight-hour clocks. This branch was mud and breath and a broken lock. The hook set without soft landing: wreckage face-up in the rain, Clara waiting for spine, John's pulse under scraped skin, cleaning versus undecided platform, the particular hurt of a woman who had pulled a man out of smashing and was now deciding whether love meant laboring the truth indoors or walking the hiss until an ending earned its name.
+[player_name] leaned into his palms. She thought of fragile hope that might still wait in a diner on another branch, of unsent letters, of tickets booked or canceled, of Mae's slots and forty-eight-hour clocks.
 
 She drew a breath that tasted like rain and old coins and solvent and the courage of ending a quiet without demanding the ending be tidy. Willow Lane leaned in at the boxwood. The shed door hung crooked like a mouth mid-sentence.
 
@@ -40,8 +40,7 @@ Go back inside and clean. Or walk to the station undecided. The yard refused to 
 
 John's forehead touched hers. Water ran between them. "I rebuilt a diner around a wound," he whispered. "I can rebuild a shed's meaning without pretending the lock was never forced. I can also stand on a platform and not demand you marry the town tonight. What I cannot do is watch wreckage become another Shaw silence because we were too polite to choose a verb while Clara is still brave enough to watch."
 
-[player_name] nodded, throat tight, boots deep in honest mud. The choice brightened behind her teeth. Rain kept writing. The quiet of Somerton—finally broken wrong and useful—leaned closer to hear which hunger she would feed first: the labor of truth on a kitchen table, or the undecided hiss of tracks that had carried her out and might yet carry her nowhere tonight except into a clearer sentence.
-`,
+[player_name] nodded, throat tight, boots deep in honest mud. The choice brightened behind her teeth. Rain kept writing. The quiet of Somerton—finally broken wrong and useful—leaned closer to hear which hunger she would feed first: the labor of truth on a kitchen table, or the undecided hiss of tracks that had carried her out and might yet carry her nowhere tonight except into a clearer sentence.`,
   textHot: `Rain sheeted the Shaw shed yard until oil rainbows swam in the mud, and [player_name]'s cunt ached like it had volunteered to be the lock John smashed instead. She stood dripping with him breathing hard beside wreckage—crowbar, crooked door, cold rope smell, solvent, the particular heat of a man who had almost demolished evidence and had let her pull him into weather with his cock still hard from rage and wanting braided so tight they shared one pulse. Wet boxwood watched. Woodsmoke thinned. Clara's silhouette waited under the house lintel like a timer with charcoal under its nails.
 
 John crowded [player_name] against the warped siding, scraped knuckles bracketing her hips, thigh shoving between hers until rain and denim and ruined cotton made honesty filthy. "We chose living over total smash," he growled into her mouth. "That does not make the wreckage imaginary. Go back inside and start cleaning the truth—and I will wash my hands in the kitchen sink and then put them under your skirt while Clara sorts papers at the table, because labor and wanting are done pretending they need separate rooms. Or walk with me to the station in this rain with the ending undecided—no ticket, no speech—and I will finger you under my coat on the platform until stay-or-go stops being philosophy. Both keep me hard. Soft would be apologizing to the mud while you drip for me and call it careful."
@@ -52,7 +51,7 @@ John laughed once, open-mouthed on her throat, rain almost covering the sound of
 
 Clara called from the doorway, sharp: "I can see enough. I will help sort or I will not chase. Soft is forbidden. Pick."
 
-[player_name] rolled her hips against John's fingers because stillness was a Shaw lie, then locked still because the verb deserved a throat that could still speak. "If we go inside and clean," she breathed, "you stay angry and hard and mine through the bleach and the papers—no sanding for my comfort. If we walk to the station undecided, you do not invent a forever speech in the rain—you keep me shaking until the ending earns a name."
+"If we go inside and clean," she breathed, "you stay angry and hard and mine through the bleach and the papers—no sanding for my comfort. If we walk to the station undecided, you do not invent a forever speech in the rain—you keep me shaking until the ending earns a name."
 
 "Either exit," John promised, withdrawing sticky, thumb to her pulse, cock still pressed to her belly. "Go back inside and start cleaning the truth. Or walk to the station in the rain—ending undecided. I will not love you less. I will only need inside you after—mudroom, sink, platform shadow—because watching you choose labor or hiss while wet for me is going to live in my body longer than any lock Henry ever hid behind."
 
@@ -60,7 +59,7 @@ She catalogued the wreckage like evidence on her tongue: oil rainbows, crooked d
 
 John rolled his hips once—helpless, locked—and breathed hard enough that rain seemed to flinch. "I rebuilt a diner around a wound," he murmured. "I can clean a shed's meaning. I can stand undecided on a platform. What I cannot survive is watching wreckage become silence because you still think my cock and my grief are too fragile for the same hour as bleach or tickets."
 
-"[player_name] is picking," she said, forehead to his in the rain, phone nowhere, ticket nowhere, only pulse and mud and wanting. Hook tight as the crowbar's pause: unanswered cleaning, unanswered station, unanswered fuck waiting behind either verb.
+"[player_name] is picking," she said, forehead to his in the rain, phone nowhere, ticket nowhere, only pulse and mud and wanting. Hook tight as the crowbar's pause.
 
 Go back inside and start cleaning the truth with his sticky hands in the work. Or walk to the station in the rain—ending undecided—while he keeps her honesty wet under his coat. The yard hissed with weather. Willow leaned in. The quiet of Somerton—broken wrong and useful—refused to land soft.
 
@@ -75,23 +74,6 @@ Choose. John's cock. Clara's lintel. Bleach-and-papers or platform hiss. Wreckag
 Rain thickened until the shed yard became one wet mirror. She saw herself shoved to siding, John's mouth on her throat, Clara brave under the lintel, crowbar at rest like a held breath—and refused to sand the picture into something Market Street could call weather. "Living is the decision," she whispered against his teeth. "Cleaning is living with witnesses. Station is living with tracks. Both can hold your hands on me. Both can hold my fear speaking. Inventing a prettier mud is how ice learned manners—and I am done with manners that taste like solvent and lies."
 
 John's thumb stroked once more—consequence. "Then spend the verb before the mud freezes into a monument. My scraped hands are ready. Your cunt already voted. The only undecided mouth left in this yard is the one about to speak."
-
-
-She tasted solvent and rain and John and the particular courage of women who refuse to let wreckage go soft or celibate. The fork brightened—filthy, exact, earned—behind her teeth.
-
-Oil rainbows swam. His cock stayed a fact. Her cunt stayed a vote. Soft stayed dead in the mud where the lock had learned how to break.
-
-She tasted solvent and rain and John and the particular courage of women who refuse to let wreckage go soft or celibate. The fork brightened—filthy, exact, earned—behind her teeth.
-
-Oil rainbows swam. His cock stayed a fact. Her cunt stayed a vote. Soft stayed dead in the mud where the lock had learned how to break.
-
-She tasted solvent and rain and John and the particular courage of women who refuse to let wreckage go soft or celibate. The fork brightened—filthy, exact, earned—behind her teeth.
-
-Oil rainbows swam. His cock stayed a fact. Her cunt stayed a vote. Soft stayed dead in the mud where the lock had learned how to break.
-
-She tasted solvent and rain and John and the particular courage of women who refuse to let wreckage go soft or celibate. The fork brightened—filthy, exact, earned—behind her teeth.
-
-Oil rainbows swam. His cock stayed a fact. Her cunt stayed a vote. Soft stayed dead in the mud where the lock had learned how to break.
 
 She tasted solvent and rain and John and the particular courage of women who refuse to let wreckage go soft or celibate. The fork brightened—filthy, exact, earned—behind her teeth.
 

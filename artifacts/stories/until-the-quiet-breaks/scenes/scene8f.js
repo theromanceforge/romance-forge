@@ -36,7 +36,7 @@ She watched his mouth. She watched the scar. She watched the grey brighten towar
 
 "If I tell you now," [player_name] said, "you do not soften the walk downstairs. You stay angry and tender and mine while the ledger learns it cannot outrank the vow. If I keep one more day, you do not waste the pause on Henry's sanded tea—you help me love you in daylight without inventing another cover out of tenderness."
 
-John nodded once. Rain needled the window. The cracked stool listened through floorboards. Mae's trays waited. Clara's graphite waited. Henry's mantel clock kept guilty time across town. The hook set without soft landing: love spoken, secret still attached, morning refusing to invent a third road where nobody got muddy.
+John nodded once. Rain needled the window. The cracked stool listened through floorboards. Mae's trays waited. Clara's graphite waited. Henry's mantel clock kept guilty time across town.
 
 Tell the secret the same morning—or keep the secret one more day after the vow. [player_name] drew a breath that tasted like coffee grounds and rain and the man whose heart beat under her palm. The diner held steady above Market Street. The quiet of Somerton leaned in at the gutter to hear which hunger she would feed first—the ledger in the same breath as love, or the one-day corridor that could save them or teach the wound a softer name for twenty-four hours too long.
 
@@ -75,7 +75,7 @@ John rolled his hips once—helpless, then locked still—and breathed hard enou
 
 John kissed the words off her mouth, filthy and tender. "Then spend the verb before the regulars rattle the latch. This bed does not care about Henry's tea. It cares about what leaves your mouth in which order. Speak."
 
-The hook held: love spoken, secret attached, body humming, morning refusing soft landing. Tell the secret the same morning—or keep the secret one more day after the vow. [player_name] drew a breath that tasted like rain and coffee and the man whose cock still pressed her like a second vow. The diner held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the ledger in the same breath, or the one-day corridor, or the heat that had turned grey light into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Tell the secret the same morning—or keep the secret one more day after the vow. [player_name] drew a breath that tasted like rain and coffee and the man whose cock still pressed her like a second vow. The diner held steady. The quiet leaned in at the gutter to hear which hunger she would feed first—the ledger in the same breath, or the one-day corridor, or the heat that had turned grey light into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. John's thumb. The vow or the pause. Somerton tracked mud either way and the dawn refused to land soft.
 

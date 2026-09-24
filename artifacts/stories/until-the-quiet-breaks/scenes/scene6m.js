@@ -56,8 +56,6 @@ Search the desk again—dig for what Henry hid under innocence, the second layer
 
 [player_name] turned from the study door. Clara waited with the sketchbook open like a dare. Rain sheeted harder against slate. The glass weight gleamed empty. Somewhere in Somerton, John was still reading, or re-reading, or burning a grill ticket because paper was easier to punish than uncles and almost-loves.
 
-The hook held unfinished in the room: unanswered questions in Henry's drawers, unanswered wanting under [player_name]'s coat, Clara's charcoal ready to witness whichever road refused to be pretty.
-
 "Pick," Clara said, voice low. "Before the quiet pretends it still works. Before I decide for both of us and resent you for making me."
 
 Neither exit let her pretend the letter was only paper. Neither let her forget the unfinished heat still burning like a brand. Willow waited. The desk waited. John's rage was already on its way up the hill whether they named it or not—and the choice of how to spend the wait would decide who got cut first when the door finally opened.`,
@@ -101,15 +99,15 @@ Clara nodded once, eyes bright. "Either road I stay in the room. Either road you
 
 [player_name] tasted rain and the ghost of John's coffee-bitter mouth. Her hand flexed on her own knee, wanting his instead. The unfinished kiss hung in the house like smoke that would not vent. Desire braided to strategy until the exits hurt properly: dig Henry's desk for the uglier proof with her cunt still aching and her nipples still tight, or steel Clara for the blast and meet John's rage with family spine while her body kept score of every second he was still not fucking her through the fury.
 
-The mantel clock struck. Wet boxwood breathed against the glass. Somewhere on Market Street he was hard and furious and reading—and the wait would not forgive either of them for spending it wrong.  The quiet refused to land soft. Pick the weapon. Pick before the door opened and wanting made the choosing for them.
+The mantel clock struck. Wet boxwood breathed against the glass. Somewhere on Market Street he was hard and furious and reading—and the wait would not forgive either of them for spending it wrong. The quiet refused to land soft. Pick the weapon. Pick before the door opened and wanting made the choosing for them.
 
-Clara flipped a sketchbook page without looking down, graphite whispering. "Also—when he gets here, if you kiss him before you decide, I leave the room. Not as punishment. As oxygen. I will not watch you two turn rage into a private language while Henry's desk still holds the second cut." 
+Clara flipped a sketchbook page without looking down, graphite whispering. "Also—when he gets here, if you kiss him before you decide, I leave the room. Not as punishment. As oxygen. I will not watch you two turn rage into a private language while Henry's desk still holds the second cut."
 
 [player_name] nodded, throat tight, thighs still pressed for friction that solved nothing. "Understood. Desk dig or rage map. No kissing as delay. No using your exit as cover for me getting on my knees in the hallway like the letter never happened."
 
 "Then choose," Clara said. Rain hammered slate. The stuck drawer waited like a dare with teeth. John's absence pressed on [player_name]'s clit like a phantom thumb. The house smelled like cedar and unfinished fucking. Obsession, not prettiness. The wait was out of patience, and so was the ache that refused to negotiate with virtue.`,
   choices: [
-    { id: "scene7n", text: "Ransack Henry's desk — dig the second layer now", textHot: "Ransack his desk wet — steal the letter under the letter" },
+    { id: "scene7m", text: "Ransack Henry's desk — dig the second layer now", textHot: "Ransack his desk wet — steal the letter under the letter" },
     { id: "scene7o", text: "Steel Clara for the blast — meet John's rage as kin", textHot: "Steel Clara — then take John's rage with your body honest" }
   ]
 };

@@ -167,7 +167,7 @@ You came first—sharp, shaking, crying out into his mouth as your walls clenche
 
 "I keep hearing the clock," you gasped.
 
-"So do I." He drove harder, the couch creaking, his cock dragging over the spot that made your vision white. "That's why this ending has to hurt. So we remember we chose."
+"So do I." He drove harder, the couch creaking, his cock dragging over the spot that made your vision white. "So we remember we chose."
 
 He came with a groan that sounded like prayer and curse together, spilling deep, hips stuttering, your name in his mouth. You held him while he pulsed inside you, while the lamp hummed, while Market Street kept its indifferent watch below.
 

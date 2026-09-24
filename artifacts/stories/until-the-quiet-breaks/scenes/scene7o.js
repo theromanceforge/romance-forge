@@ -56,7 +56,7 @@ On the sofa again, she poured tea neither of them wanted and watched steam die b
 
 Clara's mouth tilted. "I need not to be abandoned and not to be lied to. Ideal worlds give both. Somerton is not ideal. So I am asking which scarcity you are volunteering to manage with me when he hits the porch boards."
 
-Wet boxwood scraped the window in a gust. Woodsmoke thickened near the ceiling. [player_name] thought of John's burn scar, of papers under glass weights, of a girl at twenty saying yes while fear shook in an uncle's hands. She thought of Clara's restless honesty as the best Shaw inheritance left. The hook held unfinished between them: unanswered vow, unanswered knock, unanswered wanting under [player_name]'s coat that had nothing to do with forever and everything to do with a man climbing a hill with a letter in his blood.
+Wet boxwood scraped the window in a gust. Woodsmoke thickened near the ceiling. [player_name] thought of John's burn scar, of papers under glass weights, of a girl at twenty saying yes while fear shook in an uncle's hands. She thought of Clara's restless honesty as the best Shaw inheritance left.
 
 [player_name] drew a breath that tasted like cedar and rain and old coins and the particular courage of women who offered sisters knives instead of blankets.
 
@@ -91,7 +91,7 @@ Clara's throat worked. Young. Ancient. "I want the promise you can keep while he
 
 "Good," Clara whispered. "Obsession over pretty. Say the verb before tires hit gravel. Before Uncle's errands end. Before John's rage makes you reach for soft words because soft feels like shelter and shelter starved us."
 
-She paced until the seam of her jeans became an argument she was winning on purpose, each step a small rude stroke she refused to romanticize. Prep was not celibate; prep was naming John's body as part of the blast weather so Clara would not be blindsided by the way wanting arrived wearing the same coat as rage. "When he kisses me," [player_name] said bluntly, "or when he does not—when he puts his hands on me like I am the only true sentence in a house of forged ones—you do not have to watch. You also do not have to pretend it means I forgot the papers. Sex is not sanding if we keep the names sharp after."
+She paced until the seam of her jeans became an argument she was winning on purpose, each step a small rude stroke she refused to romanticize. Prep was not celibate; prep was naming John's body as part of the blast weather so Clara would not be blindsided by the way wanting arrived wearing the same coat as rage. "When he kisses me," [player_name] said bluntly, "or when he does not—when he puts his hands on me like I am the only true sentence in a house of forged ones—you do not have to watch. You also do not have to pretend it means I forgot the papers."
 
 Clara grimaced, then nodded. "Thank you for not translating cock into poetry. Poetry is how Market Street digests scandal. I prefer nouns."
 
@@ -101,7 +101,7 @@ Clara grimaced, then nodded. "Thank you for not translating cock into poetry. Po
 
 Clara hugged the sketchbook harder. "Pick. My bladder is full of tea and my patience is full of uncles. Urgency is a gift. Spend it."
 
-[player_name] stood. Clara stood. The sketchbook stayed hugged to Clara's chest. Between them the hook hung unfinished: unanswered vow, unanswered knock, unanswered grind [player_name] could already feel against a future doorway like heat with a moral. Freight complained toward the yard. Woodsmoke thickened. Wet boxwood scraped glass. [player_name] tasted copper and cedar and the ghost of John's mouth and refused a soft landing on principle.
+[player_name] stood. Clara stood. The sketchbook stayed hugged to Clara's chest. Freight complained toward the yard. Woodsmoke thickened. Wet boxwood scraped glass. [player_name] tasted copper and cedar and the ghost of John's mouth and refused a soft landing on principle.
 
 She drew a breath that tasted like rain and old coins and the particular courage of women who offered sisters knives and kept their own cunts honest while they did it.
 
@@ -117,9 +117,7 @@ Clara's charcoal-dark gaze did not blink; [player_name] refused to blink back. S
 
 "Last chance to pick before I pick resentment for both of us," Clara murmured.
 
-"[player_name] is picking," she said, and the words felt like stepping onto ice that might hold. Mantel clock. Wet boxwood. Woodsmoke. Hook tight as a fist.
-
-The choice sat bright and filthy behind her teeth. The quiet refused to land soft.`,
+"[player_name] is picking," she said, and the words felt like stepping onto ice that might hold. Mantel clock. Wet boxwood. Woodsmoke. Hook tight as a fist.`,
   choices: [
     { id: "scene8m", text: "Swear stay — refuse abandon, family as vow", textHot: "Swear stay — no ticket, keep aching inside the vow" },
     { id: "scene8o", text: "Swear honesty only — refuse forever's sedative", textHot: "Swear honesty only — no forever, still wet for truth" }

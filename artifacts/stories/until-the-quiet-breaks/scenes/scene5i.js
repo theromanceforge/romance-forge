@@ -62,7 +62,7 @@ Kissing him with the open secret unnamed had not erased the winter road or the h
 
 John waited. Hand open at her waist, thumb absently worrying a loose thread on her sweater. Eyes steady. The almost no longer polite. Alive. Demanding a next move that was not another rehearsal of vanishing between the last chair and the lock.
 
-John's mouth found hers again—one hard press—then stopped a finger's width away, unfinished on purpose. The letter in her coat pocket dug into his chest where they still held each other. Coffee gone cold. Fryer ticking down. Rain starting another sheet against the awning.
+John's mouth found hers again—one hard press—then stopped a finger's width away. The letter in her coat pocket dug into his chest where they still held each other. Coffee gone cold. Fryer ticking down. Rain starting another sheet against the awning.
 
 "Letter on my counter," he said against her lips, not granting the next kiss. "Or Willow while I can still taste you. If you pick silence a third time I will lock the door and hate us both by morning."
 

@@ -18,7 +18,7 @@ She wiped mist from her cheek with the back of her hand and tasted rain. Emotion
 
 John exhaled, a short white ghost in the cold. "Private family council," he translated. "Clara at the table. Not Mae. Not the regulars. Not the pie-case gossip that turns a ledger into entertainment." His mouth twitched without humor. "Or we steal an hour that has nothing to do with ledgers and everything to do with the fact that I have not kissed you since the hill, and my hands are tired of being useful."
 
-The plot turn lived between those two roads, and [player_name] felt it settle in her chest like a coin choosing a face.
+The turn lived between those two roads, and [player_name] felt it settle in her chest like a coin choosing a face.
 
 She walked farther into the boxwood dark, shoes soft on mulch gone slick. John matched her step. A car hissed past on the wet street and kept going—Somerton continuing, unaware that the Shaw quiet had cracked open an hour ago in firelight. From the house, faintly, Clara's voice rose and fell: not shouting, questioning. Henry answering in pieces. The seam of light under the door flickered as someone moved past the lamp.
 
@@ -53,8 +53,6 @@ John waited without rushing her mouth into an answer, which somehow made answeri
 The hedge dripped. The seam of light held. [player_name] drew one long breath of crushed green and woodsmoke and the clean metal of a decision sharpening itself on rain.
 
 A second freight sounded farther off, metal on metal, the town's old lullaby. [player_name] thought of Clara's margins—blue circles, one red—and of how a private council could turn those circles into sentences John would not have to invent alone. She also thought of the fifteen years of almosts stacked like unpaid tabs: station platform, diner nights, letters never sent. An honest hour would not erase the ledger. It might remind them what they were fighting the quiet for.
-
-"
 
 "I am afraid if we kiss first I will lose the spine I walked back into this town with," she admitted. The words came plain. "And I am afraid if we council first I will turn myself into minutes and motions and forget I have a mouth that missed yours."
 
@@ -93,7 +91,7 @@ She walked him deeper into the hedge dark by the grip on his jacket. Mulch slick
 
 "Not a problem." Forehead to hers. Rain in his lashes. "A fork. Clara will wait twenty minutes if we ask. Henry sits with his yes either way. Town invents a story by breakfast if we feed it nothing." His mouth brushed the corner of hers—salt, rain, the ghost of coffee—and retreated. "Council planned hard and private. Or one honest hungry hour in this wet green where I stop being careful."
 
-She opened her mouth against his almost-kiss and tasted him without taking him fully: heat, breath, the tremor of a man holding back. Desire here was not garnish; it was the scene's weather. Her thigh slid between his. He groaned into her cheek. She felt him throb against her hip and nearly abandoned strategy altogether.
+She opened her mouth against his almost-kiss and tasted him without taking him fully: heat, breath, the tremor of a man holding back. Her thigh slid between his. He groaned into her cheek. She felt him throb against her hip and nearly abandoned strategy altogether.
 
 "If we plan the council," she said, specific, voice rough, "we do it tonight. Call her out. Three of us under this hedge if we have to. What Henry does not soft-pedal. What you need written so you stop guessing."
 
@@ -112,8 +110,6 @@ He waited, and the waiting was its own friction—his hand still between her leg
 "I rebuilt a life out of not disappearing," he said, voice sandpaper. "I am asking which consequence we walk into first—pages on a table, or my mouth finally treating yours like I mean it." His fingers pressed once more, precise, and retreated to her hip, leaving her aching and furious with want. "Choose, [player_name]. I can still taste the speech you let me give in that room. I want to taste you next. Or I want your strategy sharp enough that tasting waits until we have earned the quiet. Either way—say it."
 
 A second freight sounded, metal on metal. The vibration seemed to travel up through the mulch into [player_name]'s bones and settle between her legs where John had touched and left her empty. She thought of Clara's blue circles and the one red page, of council talk turning ink into sentences—and of John's mouth dragging down her throat while her fingers worked his belt in the dark green, fifteen years of almosts spent in one hungry hour that would not erase any ledger and would still matter.
-
-"
 
 "I am afraid if we kiss first I will lose the spine I walked back with," she admitted against his jaw, lips grazing stubble. "And afraid if we council first I will turn into minutes and motions and forget I have a mouth that missed yours."
 

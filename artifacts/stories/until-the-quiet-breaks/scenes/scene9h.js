@@ -4,7 +4,7 @@ export default {
   title: "Station Undecided",
   text: `The station platform hissed the way it had the night [player_name] left Somerton at twenty, rain needling the slate roofs beyond the tracks, freight breathing in the yard like a body that never finished leaving. She stood under the thin overhang with a ticket in her coat pocket and John Shaw at her shoulder, and for one suspended second the whole town narrowed to wet concrete, diesel, and the unfinished heat between them.
 
-John had not asked her to come to the station. She had asked him. Station Undecided was not a metaphor tonight—it was boards underfoot, a timetable flickering, a conductor's distant call, and a choice that would feed either Leave Free or Bittersweet Train depending on whether she boarded alone or pulled him into the rain with her.
+John had not asked her to come to the station. She had asked him. Station Undecided was not a metaphor tonight.
 
 "You don't have to prove you're free by vanishing," John said. His voice was low, diner-rough even here, coffee and night still living faintly in his coat from closing the blue door an hour ago. "Freedom can look like staying. It can also look like leaving without the lie on your back. I just need to know which freedom you're buying with that ticket."
 
@@ -16,7 +16,7 @@ John's jaw flexed. Rain darkened his hair. "And if you pull me onto the platform
 
 Clara had texted once from Willow Lane and then gone quiet on purpose. Henry was signing or not signing somewhere behind woodsmoke and wet boxwood. Market Street's cracked counter stool leaned without them. None of that could choose for [player_name]. Only John's gravity and her own spine could.
 
-She turned to him fully. The romantic axis of the return lived in the space between their mouths: adult desire, trust as plot, sensory anchors stacking without soft landing—platform hiss, rain on slate, the ghost of coffee steam, the memory of the blue door sticking under his hand, charcoal on Clara's fingers, papers under glass weight. Craft demanded a hook. The ticket in her pocket was already one.
+She turned to him fully. The romantic axis of the return lived in the space between their mouths. The ticket in her pocket was already one.
 
 "Tell me what you're afraid of," she asked.
 
@@ -30,7 +30,7 @@ She turned to him fully. The romantic axis of the return lived in the space betw
 
 A train called down the line, still distant. The timetable flickered a delay. Somerton held its breath the way it always did when a Shaw-adjacent story tried to finish itself on public boards.
 
-[player_name] thought of endings she had brushed against all week: open secrets on Market Street, Henry redeemed in a smaller chair, Henry exiled from the diner's future, daylight diners, sealed archives, Clara's reckoning. This platform was its own destination fork. Leave Free. Bittersweet Train. Both required courage. Neither required the old costume exit.
+[player_name] thought of endings she had brushed against all week: open secrets on Market Street, Henry redeemed in a smaller chair, Henry exiled from the diner's future, daylight diners, sealed archives, Clara's reckoning. This platform was its own destination fork. Both required courage. Neither required the old costume exit.
 
 John kissed her once—slow, deliberate, a promise rather than a question—and pulled back just enough to give her air to choose. Rain needled harder. The ticket softened at the edge in her pocket from damp.
 
@@ -40,29 +40,23 @@ She nodded. Her throat burned. Family secrets had teeth. Freedom did too. Standi
 
 She could still smell fryer hymn faintly on John's cuff, still see the cracked stool in her mind leaning its half-degree left, still hear woodsmoke logic arguing with rail logic. Somerton wanted a neat moral. The platform refused neatness. [player_name] refused it too.
 
-She could still smell fryer hymn faintly on John's cuff, still see the cracked stool in her mind leaning its half-degree left, still hear woodsmoke logic arguing with rail logic. Somerton wanted a neat moral. The platform refused neatness. [player_name] refused it too.
-
-She could still smell fryer hymn faintly on John's cuff, still see the cracked stool in her mind leaning its half-degree left, still hear woodsmoke logic arguing with rail logic. Somerton wanted a neat moral. The platform refused neatness. [player_name] refused it too.
-
-
 A station lamp buzzed overhead and threw John's face into honest planes—tired, wanting, brave. [player_name] catalogued the anchors one last time so she would not lie to herself later: rain on slate, platform hiss, coffee ghost on his coat, blue door memory, Willow woodsmoke faint in her hair from morning, Clara's charcoal absence as respect. Sensory setting into emotion into plot turn. The ticket was not a prop. John was not a consolation prize. Somerton was not allowed to narrate this for them.
 
 "If this is goodbye-clean," she said carefully, "I need you to know I am not leaving to protect you. I am leaving free. If this is unfinished, I need you to know I am not staying as penance. I am staying as promise with soft edges."
 
 John's smile hurt. "Good. Those are different sentences. I've waited fifteen years for you to say either without Henry's quiet in the grammar."
 
-
-The conductor's call grew nearer. Freight shifted in the yard. Wet concrete shone. [player_name] felt the hook tighten until leaving it blank hurt: ticket, rain, John Shaw, two doors into Layer Ten.
+The conductor's call grew nearer. Freight shifted in the yard. Wet concrete shone. [player_name] felt the hook tighten until leaving it blank hurt.
 
 "Whatever you pick," John murmured, "I am still the man who listened for your train. That doesn't change if you ride it away free of the lie. It doesn't change if you pull me into an unfinished promise. It only changes how the quiet breaks."
 
-[player_name] looked down the tracks toward the approaching light, then back at John—Market Street in his bones, Willow Lane in his grief, fifteen years of staying written in the set of his shoulders. Desire and consequence shared the platform. The craft bar was simple here: unanswered question, bodily want, no soft land before the choice.
+[player_name] looked down the tracks toward the approaching light, then back at John—Market Street in his bones, Willow Lane in his grief, fifteen years of staying written in the set of his shoulders. Desire and consequence shared the platform.
 
-A porter rattled a cart past. Somewhere behind them a couple argued softly about umbrellas. Ordinary station noise tried to make the night small. [player_name] refused smallness. She thought of Willow Lane's mantel clock, of Clara's charcoal, of Voss's neat cruelty crossed out, of Mae's held gossip, of every Warm and Hot hour that had taught her John's body and John's truth were the same plot. Leaving free meant trusting he would not chase the lie back onto her shoulders. Pulling him into bittersweet weather meant trusting she would not use his love as a softer cage. Both trusts were adult. Both asked something irreversible.
+A porter rattled a cart past. Somewhere behind them a couple argued softly about umbrellas. Ordinary station noise tried to make the night small. [player_name] refused smallness. Leaving free meant trusting he would not chase the lie back onto her shoulders. Pulling him into bittersweet weather meant trusting she would not use his love as a softer cage. Both trusts were adult. Both asked something irreversible.
 
 John waited without crowding her ticket hand. Rain beaded on his lashes. The blue-door memory lived in his stance—the man who stayed, who rebuilt, who raised Clara beside diner lights, who never stopped listening for a train. [player_name] loved him enough to board. She loved him enough not to. The undecided was the point. The platform was the point. The quiet breaking here would not be polite.
 
-And before the train arrived—before Leave Free or Bittersweet Train claimed the night—[player_name] had to decide whether to board alone free of the lie, or pull John onto the platform into an unfinished promise, with rain still stitching the rails and his mouth still warm on hers.`,
+And before the train arrived, [player_name] had to decide whether to board alone free of the lie, or pull John onto the platform into an unfinished promise, with rain still stitching the rails and his mouth still warm on hers.`,
   textHot: `The station platform hissed like a mouth against [player_name]'s ear, rain needling slate beyond the tracks, freight breathing in the yard like a body that never finished leaving. She stood under the thin overhang with a ticket in her coat and John Shaw flush at her back, his cock a hot line through jeans against the curve of her ass when a gust pushed him closer, and for one suspended second Somerton narrowed to wet concrete, diesel, and unfinished fuck-hot heat.
 
 "You don't have to prove you're free by vanishing," John said into her hair, hands spanning her waist under her coat, palms rough from diner work. "Freedom can look like staying. It can look like leaving without the lie on your back. It can look like me on my knees in this rain if you pull me into the promise. I need to know which freedom you're buying—because my cock already voted and I still won't steal your ticket."
@@ -81,7 +75,7 @@ She turned in his arms. Kissed him hard, tongue and teeth, tasting coffee and ra
 
 [player_name] shoved her hand between them and palmed his cock through denim, thick and leaking enough to damp the cloth. "I'm trying to hear myself over the old quiet that called leaving protection."
 
-"Then hear this." John popped her jeans button under the coat's cover, slid two fingers into her cunt right there on the public platform with rain as curtain enough, and curled them while he talked. "Board alone—Leave Free—I walk you to the step and I don't make it ugly even if I'm aching. Pull me into the rain—Bittersweet Train—I stay on these boards and I fuck this unfinished promise into you with my fingers now and my cock later until departure and devotion taste the same. Eyes open. No soft land. Hook or nothing."
+"Then hear this." John popped her jeans button under the coat's cover, slid two fingers into her cunt right there on the public platform with rain as curtain enough, and curled them while he talked. "Pull me into the rain and I stay on these boards and I fuck this unfinished promise into you with my fingers now and my cock later until departure and devotion taste the same. Eyes open. No soft land. Hook or nothing."
 
 She came on his hand with a swallowed cry when the distant train called, forehead on his collarbone, thighs shaking, ticket crumpling in her pocket. John licked his fingers clean in the rain-dark and looked wrecked with tenderness. "Now pick," he whispered. "While you can still feel me inside the choice."
 
@@ -89,18 +83,13 @@ The timetable flickered a delay. Freight shifted. Wet concrete shone. [player_na
 
 John framed her face. "I am still the man who listened for your train. That doesn't change if you ride it away free of the lie. It doesn't change if you pull me into unfinished weather and let me keep my mouth on you between departures. It only changes how the quiet breaks—and how hard I get to love you while it does."
 
-Desire and consequence shared the platform. So did the smell of sex-and-rain on her skin and the throb still low in her belly. John Shaw was simply the man whose trust was the plot and whose body kept telling the truth while Somerton tried to invent motives.
+Desire and consequence shared the platform. So did the smell of sex-and-rain on her skin and the throb still low in her belly.
 
-Desire and consequence shared the platform. Craft was simple here too: unanswered question, bodily want, John Shaw warm against her in the rain, [player_name] with water in her coat and heat still between her legs.
+Desire and consequence shared the platform.
 
 He kissed her once more, slower, a vow with tongue. "Board alone free of the lie—or pull me onto the platform into an unfinished promise. I won't grab the ticket. I won't pocket your freedom. I will stay hard either way and I will respect the door."
 
 She squeezed his cock through denim once more—promise or goodbye, she hadn't named it—and John cursed softly into her hair like prayer. "Decide before I come in my jeans like a teenager at a station," he muttered. "I mean it. Your freedom gets my respect. Your unfinished promise gets my mouth, my hands, my cock, my rain. Pick."
-
-She squeezed his cock through denim once more—promise or goodbye, she hadn't named it—and John cursed softly into her hair like prayer. "Decide before I come in my jeans like a teenager at a station," he muttered. "I mean it. Your freedom gets my respect. Your unfinished promise gets my mouth, my hands, my cock, my rain. Pick."
-
-She squeezed his cock through denim once more—promise or goodbye, she hadn't named it—and John cursed softly into her hair like prayer. "Decide before I come in my jeans like a teenager at a station," he muttered. "I mean it. Your freedom gets my respect. Your unfinished promise gets my mouth, my hands, my cock, my rain. Pick."
-
 
 The delay stretched. John used it without apology—backed her deeper under the overhang, got her jeans open again, and rubbed her clit with two wet fingers until she was shaking and half-laughing into his shoulder to stay quiet. "Bittersweet practice," he muttered. "Or goodbye practice. Your cunt doesn't care about the label yet. I do. Pick so I know whether to walk you to the step or pull you behind the brick and fuck you through the next announcement."
 
@@ -108,10 +97,9 @@ The delay stretched. John used it without apology—backed her deeper under the 
 
 Diesel thickened. The light down the track brightened. [player_name] tasted rain and herself and coffee. She loved him enough to leave clean. She loved him enough to stay wet and undecided on purpose. The old quiet had no pen here.
 
+The conductor's call grew nearer. [player_name] felt the hook tighten until blankness hurt.
 
-The conductor's call grew nearer. [player_name] felt the hook tighten until blankness hurt: rails, rain, John's cock still pressed to her hip, two Layer Ten endings breathing down the track.
-
-A porter rattled past; John angled their bodies so [player_name]'s flushed face stayed in shadow, his thigh still pressed between hers, aftershocks fluttering through her cunt while he murmured filth dressed as logistics. "Leave Free means I watch you climb clean and I go home hard and honest. Bittersweet means I drag you under the farther overhang and fuck you quiet against the brick until the delay ends—ticket still in your pocket, my cock still in you, unfinished on purpose." 
+A porter rattled past; John angled their bodies so [player_name]'s flushed face stayed in shadow, his thigh still pressed between hers, aftershocks fluttering through her cunt while he murmured filth dressed as logistics. "Bittersweet means I drag you under the farther overhang and fuck you quiet against the brick until the delay ends—ticket still in your pocket, my cock still in you."
 
 [player_name] dragged his palm back to her mouth and tasted herself on his skin. "Then don't soften the doors," she said. "Board alone free of the lie—or pull you into the rain and keep the promise wet. I can feel both in my body. I need the choice to match."
 
@@ -119,7 +107,7 @@ John nodded, eyes gold-dark, rain running down his temple. "Match it. I'll still
 
 John laced their fingers, pressed her palm to the front of his jeans one last second so she felt how serious the unfinished promise was in flesh, then let go. "Your move, [player_name]."
 
-And before the train arrived—before Leave Free or Bittersweet Train claimed the night—[player_name] had to decide whether to board alone free of the lie, or pull John onto the platform into an unfinished promise, with his fingers still ghosting inside her and the rain stitching devotion and departure into the same wet dark.`,
+And before the train arrived, [player_name] had to decide whether to board alone free of the lie, or pull John onto the platform into an unfinished promise, with his fingers still ghosting inside her and the rain stitching devotion and departure into the same wet dark.`,
   choices: [
     { id: "scene10c", text: "Board the train alone — free of the lie", textHot: "Board alone — free of the lie, still tasting him" },
     { id: "scene10j", text: "Pull John onto the platform — unfinished promise", textHot: "Pull John into the rain — fuck the unfinished promise" }

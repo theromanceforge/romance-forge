@@ -117,7 +117,7 @@ John released her wrist slowly, dragging his touch as if inventing a brand. John
 
 "Both questions have teeth," she whispered back. "And your cock against my hip is not helping me pretend this is only about columns."
 
-He smiled without humor and pressed closer under the table's sightline, a slow grind that made her bite the inside of her cheek. "Good. I want your decision made while you are aching. Soft decisions are how we drowned." 
+He smiled without humor and pressed closer under the table's sightline, a slow grind that made her bite the inside of her cheek. "Good. I want your decision made while you are aching. Soft decisions are how we drowned."
 
 Henry rubbed his face, missing—or refusing—the undercurrent. "Voss's people attend numbers. Expose without paying and you may get truth and new pressure in the same week. I am done sanding the forecast."
 
@@ -129,7 +129,7 @@ Clara tapped the book harder. "Pick because you can stand inside it when Market 
 
 His pulse showed at his throat. Hers answered. Keys waited. Charcoal waited. Voss waited in columns that had owned too many years.
 
-She tasted copper and want. The mantel clock ticked like a finger on a spine. Henry's keys chimed. Clara's charcoal waited to become evidence or indictment depending on the next verb. [player_name] felt John's unfinished brand on her hip where he had squeezed, a bruise inventing itself under cloth, and understood that aftermath would collect in skin either way—truck vinyl and closed accounts, or noon ruin and adrenaline fucked raw above Market Street. The only soft option left was lying, and lying had already eaten fifteen years of their mouths.
+She tasted copper and want. The mantel clock ticked like a finger on a spine. Henry's keys chimed. [player_name] felt John's unfinished brand on her hip where he had squeezed, a bruise inventing itself under cloth, and understood that aftermath would collect in skin either way—truck vinyl and closed accounts, or noon ruin and adrenaline fucked raw above Market Street. The only soft option left was lying, and lying had already eaten fifteen years of their mouths.
 
 He caught her again before she fully stepped back—mouth at her ear, voice wrecked raw. "Pay and I will have the flat ready. Lights low. Belt off. I will put you on the bed that heard me practice grief and I will fuck the shake out of your hands until Voss is just a surname we outlived. Refuse and expose and I will still have the flat ready—only then I will take you angry, precise, like justice is a rhythm I can teach your cunt while noon cools downstairs." His teeth scraped her earlobe. "Either way you come home wetter than you left. Either way Henry's money is not the last thing that owns this night. I am."
 

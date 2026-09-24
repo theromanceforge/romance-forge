@@ -89,6 +89,8 @@ export const META_TERMS = [
   /\bheat advanced\b/i, /\bsoft-land(?:ed|s)? the scene\b/i, /\bhints? only\b/i,
   /\bspice nor\b/i, /\bneither spice\b/i, /\binto one hook\b/i, /\bas plot\b/i, /\bsex as trust\b/i, /\bmystery texture\b/i,
   /\beroticized corpse\b/i, /\b(?:hung|hangs|hanging) as (?:the )?hook\b/i, /\bhook craft\b/i, /\ba hook, not a landing\b/i,
+  /\bcraft demanded\b/i, /\bdenial as craft\b/i, /\bthe craft of the hour\b/i, /\bcraft was simple\b/i, /\bthe plot turn\b/i,
+  /\bexits? hurt the way they were supposed to\b/i,
 ];
 
 /**

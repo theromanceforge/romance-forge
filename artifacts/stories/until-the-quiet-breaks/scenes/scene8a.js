@@ -42,9 +42,9 @@ John's hand stayed on her wrist. Henry waited. Clara waited. Rain sheeted Willow
 
 "If I release it," [player_name] said, "you both get the truth in a form that cannot forget itself when Henry gets lonely for silence. If I hold it and speak live, you get my voice and his in the same air, and the file stays a locked spare—insurance against the next sanded morning, not a museum piece."
 
-"Pick," John said. Coffee on his breath even here. Clean want under the woodsmoke—not smut, not soft, adult yearning that refused to apologize for arriving in a reckoning. "Release the recording to John and Clara only. Or hold the recording as insurance—speak live instead. I will stand with either cut. I will not invent the decision in the shower later for you."
+"Pick," John said. Coffee on his breath even here. Clean want under the woodsmoke. "Release the recording to John and Clara only. Or hold the recording as insurance—speak live instead. I will stand with either cut. I will not invent the decision in the shower later for you."
 
-The hook set without soft landing: Henry's confession already trapped in compressed air, Clara in the doorway with graphite honesty, John's thumb on [player_name]'s pulse like a vow that still smelled like rain, the particular hurt of a woman who had forced truth into a phone and now had to decide whether kin became keepers or whether insurance stayed sealed while mouths burned. [player_name] drew a breath that tasted like wet boxwood and old coins and woodsmoke and the courage of ending a quiet that had outlived its mercy. The red light blinked. The morning—or the afternoon, Somerton had stopped caring which—refused to land soft.
+[player_name] drew a breath that tasted like wet boxwood and old coins and woodsmoke and the courage of ending a quiet that had outlived its mercy. The red light blinked. The morning—or the afternoon, Somerton had stopped caring which—refused to land soft.
 
 Release the file to them only. Or hold it and speak live. The mantel clock held steady. The quiet of Somerton leaned in at the boxwood to hear which hunger she would feed first—the family's need for a shared archive, or the living bravery of voices without a spare key under the table.`,
   textHot: `Henry's living room on Willow Lane smelled like woodsmoke and the particular heat of a confession that had hitchhiked in [player_name]'s body all the way from the diner's cracked counter, from answers spoken while John's mouth kept starting sentences her cunt still wanted finished.
@@ -65,7 +65,7 @@ Henry flinched. [player_name] gripped the mantel edge, woodsmoke and radiator-ti
 
 John's fingers dipped past her waistband just enough to find cotton soaked through—humiliating under the mantel clock, honest as freight—and pressed once against her clit through the fabric, a brand aimed at decision not orgasm. "Pick," he whispered. "While Clara can still see you refuse to sand. Release the file to us—speak the verb and let me walk you out shaking. Or hold insurance and speak live—and keep shaking for me in private while the spare key stays yours. Both keep me hard. Both keep you from leaving with a prettier lie. Standing here inventing a third stamp while your cunt soaks my fingers is the only cowardice left on Willow."
 
-A freight horn complained toward the yard. Coffee steam lived in memory from Market Street. The cracked stool leaned. Wet boxwood scratched. Voss's coin. Henry's empty hands. [player_name] rolled her hips a fraction against John's hand because stillness had become another Shaw lie, then forced stillness back because Clara's graphite deserved a verb spoken with a clear throat.
+A freight horn complained toward the yard. Coffee steam lived in memory from Market Street. The cracked stool leaned. Wet boxwood scratched. Voss's coin. Henry's empty hands.
 
 "If I release it," she breathed, "you do not soften the walk to the blue door. You stay angry and hard and mine while we decide what Mae hears. If I hold it and speak live, you help me put every raw sentence into this air before Henry invents a sanded morning—and the file stays locked insurance, not a museum."
 
@@ -87,7 +87,7 @@ The recording timer climbed. Clara's eyes did not leave the phone. Henry's hands
 
 John pressed his forehead to her temple, breath ragged, the recording light painting a thin red line across her knuckles where she still held the phone. "Say the verb before Clara invents a softer one for you," he said. "I have waited fifteen years for a train that might bring you back. I can wait two more minutes for your mouth—but not for another Shaw silence dressed as strategy while your cunt is still arguing with my hand."
 
-The hook held: confession trapped, duration of the file's freedom undecided, body still humming, afternoon refusing soft landing. Release the recording to John and Clara only—or hold it as insurance and speak live instead. [player_name] drew a breath that tasted like rain and old coins and woodsmoke and the man behind her. The mantel clock held steady. The quiet leaned in at the boxwood to hear which hunger she would feed first—the family archive, or the live burn, or the heat that had turned a red light into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Release the recording to John and Clara only—or hold it as insurance and speak live instead. [player_name] drew a breath that tasted like rain and old coins and woodsmoke and the man behind her. The mantel clock held steady. The quiet leaned in at the boxwood to hear which hunger she would feed first—the family archive, or the live burn, or the heat that had turned a red light into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. The file. The spare key. Kin or insurance. Somerton tracked mud either way and the day refused to land soft.`,
   choices: [

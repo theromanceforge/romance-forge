@@ -60,7 +60,7 @@ She went. The stairs creaked like a house learning a new language. Above the din
 
 "I love you," she answered, and meant the work of it—the Sundays at Willow, the chore lists, the blue door, the smaller chair, the refusal to resurrect the lie.
 
-Outside, freight shifted in the yard. Inside, forgiveness landed hard enough to bruise and soft enough to keep. Henry Redeemed was not a fairy tale. It was wet boxwood and woodsmoke and John's mouth finding hers in the dark above Market Street while Somerton learned, one open morning at a time, that the Shaw quiet had broken into something that could finally hold the truth without choking on it.
+Outside, freight shifted in the yard. Inside, forgiveness landed hard enough to bruise and soft enough to keep. It was wet boxwood and woodsmoke and John's mouth finding hers in the dark above Market Street while Somerton learned, one open morning at a time, that the Shaw quiet had broken into something that could finally hold the truth without choking on it.
 
 And in that thinner quiet—Willow reopened, Henry honest in a smaller place, Clara's sketch watching over the coffee machine—[player_name] understood the destination at last: not a soft land, but a life with John Shaw that had room for grace because it had first made room for the wound, and would keep making room, rain on slate and all, for every morning they chose each other after the secret was done trying to narrate their names.`,
   textHot: `Willow Lane smelled of wet boxwood, woodsmoke, and the sex-[player_name] and John had barely finished in the upstairs hall before walking into the parlor to make forgiveness furniture. Her cunt still throbbed from his fingers; his mouth still tasted like her. Rain needled slate. Henry sat in the smaller chair on purpose. The old armchair beneath the mantel clock stayed empty like a throne retired. Papers lay face-up. Clara watched from the doorway with charcoal under her nails and zero patience for pretty lies.
@@ -107,7 +107,7 @@ He flipped them near the top of the stairs and fucked her through a second clima
 
 John kissed her breasts, her throat, her mouth, gentling as the heat softened into afterglow. "Tomorrow we open again," he murmured. "Tonight we are not the cover story. Tonight you are mine in daylight grammar even in the dark."
 
-[player_name] held him and felt the destination settle in muscle and bone: Henry Redeemed as structure, not sentiment—chores, smaller chair, dead lie, living lust, John Shaw's trust as the plot that had always been the romantic axis, and her body answering yes in the rain-wet night above Market Street while Somerton's slate roofs kept their old argument and the Shaw name learned, finally, how to be spoken without a costume.
+[player_name] held him and felt the destination settle in muscle and bone.
 
 In that thinner quiet—forgiveness landed, Willow open, John still inside the truth of her—she slept. And the sleep was not escape. It was arrival.`,
   choices: []

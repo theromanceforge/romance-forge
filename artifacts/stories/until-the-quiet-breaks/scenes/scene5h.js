@@ -34,8 +34,6 @@ Outside, a car hissed past. Inside, the fryer gave one settling tick as metal co
 
 John lifted their joined hands and pressed his mouth to her knuckles—not a kiss finished, a brand started. "Choose," he said against her skin. "Sister first—or me and this lock. Both hurt. Both are loyalty. I am done pretending protection is the only love we get."
 
-
-
 She thought of Clara's charcoal studies on Henry's mantel, of the red circle waiting in some stack, of how a sister who had forced paper deserved sentences before inventions. She also thought of John's mouth on her knuckles, of the lock already thrown, of fifteen years of stories told to protect him that had only taught him to mistrust softness. The diner held both hungers in its cooled grease and ticking glass.
 
 "If I choose Clara," [player_name] said, testing the hurt aloud, "you come with me. You do not send me up Willow alone with a surname while you hide in useful work."
@@ -43,8 +41,6 @@ She thought of Clara's charcoal studies on Henry's mantel, of the red circle wai
 "If you choose me," John answered, "you do not get to sandpaper the ugly lines because my hands are on you. Truth first. Touch after—or during, if you can stand it. No more covers wearing love's coat."
 
 The footsteps outside shifted—closer, then still. A soft sound like an umbrella ferrule on wet concrete. Or a shoe. Or nothing but rain inventing company.
-
-
 
 John moved behind the counter out of habit—reached for the coffee urn, found it cold, cursed softly, and left it. He poured nothing. Useful work denied. [player_name] watched the way his shoulders held the night: diner-strong, nephew-hurt, man-wanting. She walked the length of the counter and stopped at the stool that leaned left, set her palm on vinyl worn soft by regulars who still called her the girl who wanted more.
 
@@ -62,20 +58,17 @@ John's mouth twisted. "Using each other. Christ. Say it uglier if you need to. I
 
 He came around the counter. Stopped a foot away. Rain still darkened his lashes. "Then pick the timing. Clara's hands—or my ears and this lock. I will not invent a third option where we drink cold coffee and wait for Henry to arrive with a draft."
 
-
 From the street, faintly, footsteps—maybe nothing, maybe Clara, maybe Henry's umbrella finding Market Street again. The sound stopped short of the door. Waiting. Or passing. Unanswered.
 
 John's breath shook on her knuckles. The indictment sat face-up between them like paper no pocket would hold. [player_name]'s pulse hammered. Tell Clara first so the blindsiding ended—or tell the story only to John behind the locked door and let intimacy and indictment share a throat before anyone else entered. The footsteps outside did not resolve. His mouth did not finish the kiss he had started on her hand. The night refused to land soft.
 
-The lock held. The pie case ticked. [player_name] lifted John's hand and set it over her sternum so he could feel how hard her heart was working—not romance, evidence. "Whoever I choose first, you do not get to rewrite me into ambition again if the telling goes badly. Deal."
+The pie case ticked. [player_name] lifted John's hand and set it over her sternum so he could feel how hard her heart was working—not romance, evidence. "Whoever I choose first, you do not get to rewrite me into ambition again if the telling goes badly. Deal."
 
 "Deal," John said. "Whoever you choose first, you do not get to leave me a note instead of a mouth. Deal."
 
 [player_name] lifted John's hand to her sternum—evidence, not romance. "Whoever I choose first, you do not rewrite me into ambition if it goes badly. Deal."
 
 "Deal. And you do not leave me a note instead of a mouth."
-
-
 
 A soft sound at the glass—knuckles or rain inventing knuckles. John's mouth hovered over [player_name]'s knuckles where the unfinished brand still lived, then lifted without completing the kiss.
 
@@ -92,13 +85,13 @@ By Market Street her panties were damp from more than weather. Indictment had le
 
 "Clara is at Willow," he said, mouth close enough that she felt the words on her lips. "She heard the syllable. She will invent the rest by midnight." His thigh shoved between hers—firm, deliberate—and she gasped, hips tipping for friction he only half gave. "Or we keep this between us first. Locked door. Full story. Then we decide how she hears it."
 
-He was hard. She felt his cock against her hip through wet jeans, thick and insistent, and the through-line of the scene became that pressure: grief translated into want, want refusing to apologize.
+He was hard.
 
 "I want both," John said, forehead to hers. "Shield my sister. Hear every line from your mouth without an audience—including the part where you agreed to leave for me. I want to be furious and I want to fuck you on this counter until the fluorescent light looks kind."
 
 [player_name] gripped the counter edge behind her. "Then name the fork. Tell Clara first so she is not blindsided—or tell the story only to you tonight behind this lock and let me put the indictment in your mouth with my tongue."
 
-His laugh broke. He kissed her once—deep, filthy, tongue claiming—then tore back unfinished on purpose, leaving her chasing air. "If we tell Clara first, we walk back up that hill before courage cools, and I will be hard the whole climb hating myself. If we tell me first, I ask questions like accusations and put my hand in your jeans while you answer. Can you hold both truths about me?"
+His laugh broke. He kissed her once—deep, filthy, tongue claiming—then tore back unfinished, leaving her chasing air. "If we tell Clara first, we walk back up that hill before courage cools, and I will be hard the whole climb hating myself. If we tell me first, I ask questions like accusations and put my hand in your jeans while you answer. Can you hold both truths about me?"
 
 "I have held both for fifteen years," she said. "Boy who needed shelter. Man who rebuilt a diner. Which one gets the next hour?"
 
@@ -108,8 +101,6 @@ She squeezed him once through cloth—felt him buck—and let go because finishi
 
 John pressed his mouth to her knuckles, then opened her hand and put his tongue to the center of her palm, wet, unfinished. "Choose. Sister—or me. Both hurt. Both are loyalty. I am done pretending protection is the only way I get to love you. If you pick me first I am going to finger your cunt while you confess so your body knows the truth is not another suitcase. If you pick Clara first I walk beside you hard and furious and proud. Fuck—pick."
 
-
-
 She thought of Clara's charcoal on the mantel, of the red circle, of a sister who deserved sentences—and of John's cock under her palm a moment ago, of how easy it would be to drop to her knees on the mat and take him into her mouth until the surname blurred. Escape dressed as intimacy. She refused the blur even while her cunt clenched for it.
 
 "If I choose Clara," [player_name] said, squeezing his hip instead of his cock, mean with restraint, "you walk with me hard and quiet. You do not hide in the grill."
@@ -117,8 +108,6 @@ She thought of Clara's charcoal on the mantel, of the red circle, of a sister wh
 "If you choose me," John answered, dragging her hand back to the thick line of him for one punishing second, "you do not sandpaper shit because I am fingering you. You say Voss and suitcase and agreement while you drip on my hand. Truth first. Fucking after—or during. No more covers."
 
 Footsteps outside shifted—closer, still. Umbrella ferrule on concrete. Or a shoe. Or rain inventing company while John's tongue had left her palm wet and her choice unmade.
-
-
 
 John moved behind the counter out of habit—reached for coffee, found it cold, cursed, left it. Useful work denied. [player_name] watched him and felt her cunt throb when he braced his hands on the laminate and looked at her like she was both the wound and the fix. She walked the counter, stopped at the leaning stool, and set her palm on worn vinyl. He followed. Caged her there without touching, arms on either side, cock a hard line she could feel in the air between them.
 
@@ -136,7 +125,6 @@ The indictment went kitchen-real: sugar grit, grill metal, a calendar stuck on l
 
 "Then pick the timing." He caught her wrist—not removing her hand, holding it on his cock. "Clara's hands—or my ears and this lock while you stroke me through the confession. No third option with cold coffee and Henry's draft."
 
-
 Footsteps on the street—maybe nothing, maybe Clara, maybe Henry's umbrella. They stopped short of the door. Waiting. Or passing.
 
 John's cock twitched under the memory of her grip. The kiss on her palm stayed unfinished, spit cooling. The indictment lay face-up between their bodies. [player_name]'s cunt ached around nothing; her unanswered question sat beside his name in her throat. Tell Clara before the blindsiding—or lock the door and fuck the story into John before anyone else entered. The footsteps did not resolve. Neither did his mouth. John's mouth hovered over hers—close enough to fuck her breath without kissing—and stayed there, obsession without landing. "Clara or me," he whispered. "Say it before whoever is outside knocks. If they knock and you have not chosen, Henry gets the night back."
@@ -145,15 +133,13 @@ Her cunt clenched on nothing. His cock pressed her hip, a live unanswered questi
 
 The night refused to land soft.
 
-The lock held. The pie case ticked. [player_name] dragged John's hand from his cock to her sternum, then lower, over her breast, nipple hard under his palm, then stopped him at her waistband. "Whoever I choose first, you do not rewrite me into ambition if the telling goes badly. And you do not get to fuck me quiet instead of listening. Deal."
+The pie case ticked. [player_name] dragged John's hand from his cock to her sternum, then lower, over her breast, nipple hard under his palm, then stopped him at her waistband. "Whoever I choose first, you do not rewrite me into ambition if the telling goes badly. And you do not get to fuck me quiet instead of listening. Deal."
 
 "Deal," John said, fingers flexing against denim. "Whoever you choose, you do not leave me a note instead of your mouth on mine. If Clara first, I wait hard. If me first, I listen with my hand in your cunt so you feel how loud truth can be. Deal."
 
 She dragged his hand to her breast, nipple hard under his palm, then stopped him at her waistband. "Whoever I choose, you do not fuck me quiet instead of listening. Deal."
 
 "Deal. Clara first—I wait hard. Me first—I listen with my hand in your cunt. No notes. Your mouth."
-
-
 
 A soft sound at the glass—knuckles or rain inventing knuckles. John's mouth hovered over hers, close enough to fuck her breath, and did not land. His cock pressed her hip, hard unanswered. Her cunt clenched on nothing.
 

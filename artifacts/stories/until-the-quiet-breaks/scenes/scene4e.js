@@ -91,9 +91,9 @@ She sat on the cracked stool. It welcomed her with its familiar lean, unfinished
 
 Somewhere toward the ridge, thunder considered returning. The blue door held its seal. John waited with the counter behind him and her knees bracketing his hips, grey eyes wrecked and patient, thumbs stroking that filthy almost-place on her inner thighs without climbing higher. [player_name] tasted coffee and rain and the metallic bright of a choice that was not soft.
 
-The almost was not failure. It was the first honest shape trust had taken in fifteen years—open hands on open want, letter still pocketed, kiss still unfinished—and it was already asking what came next when open hands finally had to close around a verb.
+The almost was not failure. It was the first honest shape trust had taken in fifteen years—open hands on open want, letter still pocketed, kiss still unfinished.
 
-Rain needled her scalp. John's thumbs stroked once more at the crease of her thighs—promise, not theft—and the cracked stool leaned under her like it had been waiting fifteen years for a woman who arrived with open hands and an unfinished verb.`,
+Rain needled her scalp. John's thumbs stroked once more at the crease of her thighs—promise, not theft.`,
   choices: [
     { id: "scene5i", text: "Kiss John with the open secret still unnamed", textHot: "Kiss John hard with the open secret still unnamed — want before words" },
     { id: "scene5j", text: "Put the letter on the counter — make him read Henry's words", textHot: "Put the letter on the counter — make him read Henry's words before you touch again" }

@@ -38,7 +38,6 @@ Henry started to speak. John shook his head once. [player_name] held the pad aga
 
 "Pick," John said. His burn scar pale. His eyes the color of rain on diner glass. Adult yearning under the reckoning—wanting her still, refusing to apologize for it, refusing to let desire sand the choice. "Notarize Henry's statement at the county office. Or burn the statement after I read it—no paper trail. I will stand with either cut. I will not invent the decision in the shower later for you."
 
-
 Clara came fully into the kitchen and set her charcoal-stained hands on the table edge without touching the pad, as if graphite and ink might argue if they met. "I circled Voss in the margins before anyone would say his name aloud," she said. "If that statement becomes a county seal, I want the clerk to see my face when Henry's hand gets stamped. If it becomes ash, I want the sink. I am done being the girl who finds cracks and then gets sent upstairs while adults invent weather."
 
 [player_name] nodded. The rain thickened against Willow's slate until the kitchen felt like a held breath. Henry stared at his empty mug as if tea might reappear and absolve him. John's shoulder brushed [player_name]'s—coffee thermos, clean work-sweat, woodsmoke—and the cracked counter stool leaned half a degree left in her mind across town, listening through weather for whether Shaw truth would become civic paper or diner ash.
@@ -47,7 +46,7 @@ Clara came fully into the kitchen and set her charcoal-stained hands on the tabl
 
 John's thumb stroked once at her pulse. "County office closes when the rain gets this honest. Diner sink does not close. Choose while the ink can still smear if you press too hard—because smeared truth is still truer than sanded silence."
 
-The hook set without soft landing: Henry's handwriting drying into a blade, Clara in the doorway with graphite honesty, John's thumb on [player_name]'s pulse like a vow that still smelled like rain, the particular hurt of a woman who had forced ink out of silence and now had to decide whether permanence lived in a clerk's seal or in ash washed down a fryer-adjacent drain. [player_name] drew a breath that tasted like wet boxwood and old coins and woodsmoke and the courage of ending a quiet that had outlived its mercy. The pad waited under her coat. The afternoon refused to land soft.
+[player_name] drew a breath that tasted like wet boxwood and old coins and woodsmoke and the courage of ending a quiet that had outlived its mercy. The pad waited under her coat. The afternoon refused to land soft.
 
 Notarize. Or burn. The kitchen light held steady. The quiet of Somerton leaned in at the boxwood to hear which hunger she would feed first—the civic permanence of a stamped hand, or the clean violence of a paper trail ending in the diner sink.`,
   textHot: `Henry's kitchen table on Willow Lane smelled like woodsmoke, ink, and the particular heat of a confession that had hitchhiked in [player_name]'s body from the refused microphone to this pad, John still unfinished against her nerves like a held kiss with a crowbar in it.
@@ -74,7 +73,7 @@ A freight horn complained. Coffee-ghost lived in John's thermos breath. Wet boxw
 
 "If I notarize," she breathed, "you stay angry and hard and mine through the clerk's window. If I burn, you do not soften the match—you help me put fire in the sink where the cover story learned to sound polite."
 
-"Either exit," John promised, withdrawing slowly enough that rain almost covered the wet sound, sticky thumb on her pulse instead. His cock still pressed her. His mouth found her neck—one open suck Henry heard and Clara filed—and then he made space for the verb. "County seal or diner ash. Both muddy. Both honest."
+"Either exit," John promised, withdrawing slowly enough that rain almost covered the wet sound, sticky thumb on her pulse instead. His cock still pressed her. His mouth found her neck—one open suck Henry heard and Clara filed. "County seal or diner ash. Both muddy. Both honest."
 
 Henry's voice cracked. "Burning looks like another cover—"
 
@@ -86,10 +85,9 @@ John pressed his forehead to her temple, breath ragged. "Say the verb before the
 
 She laughed once, wrecked, covering his hand through her sweater—not stopping him, calibrating. "Notarizing is not cruelty for sport. Burning is not sanding. Both hurt. Both move. Both keep his hand on me until the blue door sticks open for whatever comes after your signature."
 
-
 Clara's eyes flicked from John's hand under [player_name]'s sweater to the pad and back, restless honesty refusing to blush for adult heat when winter was finally ink. "I ride for the seal or I watch the ash," she repeated. "Uncle does not get to narrate either."
 
-John's fingers returned to [player_name]'s waistband—not diving deep, just resting against soaked cotton like a promise timed to the verb—while rain sheeted Willow and woodsmoke thickened. "Feel that?" he murmured for her alone. "That is what refusing the mic did to my body. Ink shaking on a grocery pad while you drip for me. Notarize and I keep you wet through the clerk's window. Burn and I keep you wet through the match. Either way I am not letting Henry's handwriting become another glass weight while your cunt argues strategy without a verdict."
+John's fingers returned to [player_name]'s waistband—while rain sheeted Willow and woodsmoke thickened. "Feel that?" he murmured for her alone. "That is what refusing the mic did to my body. Ink shaking on a grocery pad while you drip for me. Notarize and I keep you wet through the clerk's window. Burn and I keep you wet through the match. Either way I am not letting Henry's handwriting become another glass weight while your cunt argues strategy without a verdict."
 
 [player_name] tipped her head back against his shoulder for one breath, nipples aching, pulse loud, then faced the pad again. "Sequencing is not sanding," she told the room. "Ash is not mercy-as-cover if John has already read every line into his bones. A county seal is not cruelty for sport if it stops tomorrow's weather. Speak the cost, Henry—once more—while I still have your ink in my hand."
 
@@ -99,12 +97,11 @@ John sucked a raindrop off [player_name]'s neck where his earlier mark lived and
 
 Freight complained. Coffee-ghost rose from the thermos. Wet boxwood scratched the sash. [player_name]'s cunt throbbed against the press of his knuckles. The mantel clock in the other room ticked like it wanted a vote and would not get one.
 
-
 [player_name] rolled her hips once against his knuckles and made herself stop, discipline as loyalty to Clara's witness. "Notarize means the clerk sees my face and yours and Clara's when Henry's hand becomes permanent. Burn means the diner sink takes the receipt after your mouth has already kept every line. Both keep you hard. Both keep me from sanding. I am done inventing weather with my thighs."
 
 John's laugh shook against her spine. "Then feed one hunger before the ink finishes pretending it is grocery list. County seal or ash. I rebuilt a diner around not knowing. Tonight I learn knowing with your cunt arguing in time with the mantel clock."
 
-The hook held: statement written, permanence undecided, body still humming, afternoon refusing soft landing. Notarize Henry's statement at the county office—or burn it after John reads, no paper trail. [player_name] drew a breath that tasted like rain and old coins and woodsmoke and the man behind her. The kitchen light held steady. The quiet leaned in at the boxwood to hear which hunger she would feed first—the clerk's seal, or the sink fire, or the heat that had turned cheap ink into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+Notarize Henry's statement at the county office—or burn it after John reads, no paper trail. [player_name] drew a breath that tasted like rain and old coins and woodsmoke and the man behind her. The kitchen light held steady. The quiet leaned in at the boxwood to hear which hunger she would feed first—the clerk's seal, or the sink fire, or the heat that had turned cheap ink into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
 
 Choose. Stamp or ash. Somerton tracked mud either way and the day refused to land soft.`,
   choices: [

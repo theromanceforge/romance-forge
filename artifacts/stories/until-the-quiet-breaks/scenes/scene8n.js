@@ -28,7 +28,7 @@ She turned the envelope so John could see his own name in Henry's script. The in
 
 John's hand finally rose—not snatching, offering his palm beside hers, close enough that heat crossed without claiming. "Then pick the verb," he murmured. "Read Henry's unsent letter to me—aloud, raw, no sand. Or give me the choice to read or not—and live with whatever I do with the seal. I will not love you less for either cut. I will only ask that you choose while the lamp is still on us and not invent the decision in the shower later."
 
-Clara's charcoal-dark gaze did not blink. [player_name] refused to blink back. She thought of the closed debt, of fragile hope that might still wait in a diner with a blue door that stuck, of platform hiss that might still test a vow. First this page. First the cost. The hook set without soft landing: unsent letter face-up in the lamplight, John's palm open beside hers, Clara listening for spine, Henry's second mouth finally near air, the particular hurt of a woman who had searched a desk and was now deciding whether love meant reading the wound or handing over the knife.
+Clara's charcoal-dark gaze did not blink. [player_name] refused to blink back. She thought of the closed debt, of fragile hope that might still wait in a diner with a blue door that stuck, of platform hiss that might still test a vow. First this page. First the cost.
 
 [player_name] drew a breath that tasted like rain and old coins and lemon oil and the courage of ending a quiet that had outlived its mercy. The desk lamp held steady. Willow Lane leaned in at the wet boxwood to hear which hunger she would feed first—the need to speak the letter into John's hearing, or the need to let him own the seal.
 
@@ -75,25 +75,7 @@ Choose. John's pulse. Henry's second mouth. The seal or the spoken wound. Cost w
 
 Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.
 
-She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.
-
-Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.
-
-She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.
-
-Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.
-
-She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.
-
-Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.
-
-She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.
-
-Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.
-
-She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.
-
-Rain thickened until want and dread shared one pulse. [player_name] refused to sand either. John's heat stayed a fact. The letter stayed a fact. Soft stayed the only forbidden word left in the room.`,
+She catalogued him like evidence she wanted on her tongue: coffee breath, burn scar, cock hard against denim, eyes refusing soft landings. The fork brightened behind her teeth—filthy, exact, earned.`,
   choices: [
     { id: "scene9a", text: "Read Henry's unsent letter to John", textHot: "Read the unsent letter aloud — keep him hard through every sentence" },
     { id: "scene9e", text: "Give John the choice to read or not", textHot: "Give him the seal — let him choose before he takes you on the desk" }
