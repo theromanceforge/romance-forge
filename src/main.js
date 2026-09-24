@@ -40,7 +40,7 @@ import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js'
 import { resumeSceneLabel } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
-import { showInterstitial } from './ads/interstitial.js';
+import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
 import { bumpAdsStat } from './ads/stats.js';
 
 const SPICE_KEY = 'romanceForge.spice';
@@ -1220,6 +1220,12 @@ if (cloudConfigured) {
     }
     await applyAuthenticatedSession(session);
   });
+}
+
+// Prefetch AdSense on boot when enabled (site verification + first interstitial).
+const bootAds = getAdsConfig();
+if (bootAds.enabled && bootAds.clientId) {
+  ensureAdSenseScript(bootAds.clientId);
 }
 
 window.addEventListener('pagehide', handleGuestPageHide);
