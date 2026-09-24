@@ -108,7 +108,7 @@ const title = (id) => STORY_TITLES[id] || id || '(unknown)';
 function vs(cur, prev7) {
   const avg = prev7 / 7;
   const avgStr = avg >= 10 || avg === 0 ? String(Math.round(avg)) : avg.toFixed(1);
-  if (!prev7) return cur ? '(no prior-week data)' : '';
+  if (!prev7) return cur ? '(none in prior 7 days)' : '';
   if (avg < 1) return `(7-day avg ${avgStr}/day)`;
   const diff = Math.round(((cur - avg) / avg) * 100);
   return `(7-day avg ${avgStr}/day, ${diff >= 0 ? '+' : ''}${diff}%)`;
