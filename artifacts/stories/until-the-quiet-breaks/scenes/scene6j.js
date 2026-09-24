@@ -58,7 +58,7 @@ The freight horn complained toward the yard. The mantel clock hit a half-hour ch
 
 [player_name] looked at the keys. Looked at John's mouth. Looked at the glass weight askew on papers that had tried to tidy guilt into innocence. Obsession over pretty: the choice was not elegant. It was a debt with a surname and a man she loved waiting to see whether she would buy quiet or burn it.
 
-Rain sheeted Willow Lane. Woodsmoke held. The hinge sharpened.
+Rain sheeted Willow Lane. Woodsmoke held.
 
 The dish pit of the conversation—the place where grease and truth mixed—was John's silence after Henry spoke. [player_name] watched him absorb Voss like a man tasting burnt coffee and refusing to spit it out for manners. Clara's charcoal pencil tapped once against the book, a metronome for impatience. Outside, wet boxwood dripped onto the porch boards with the same patience as the mantel clock. Inside, the envelope of settlement money—or the promise of it in Henry's account—felt like a third person standing between them with wet shoes.
 

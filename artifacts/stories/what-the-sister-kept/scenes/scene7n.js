@@ -34,7 +34,7 @@ Want lived under the procedural dread—dangerous, unfinished, the pull of a man
 
 "If we hide through the storm," Will answered, "we are saying the machine already failed once and the only mercy left is each other's throat while Harborwick shouts." He almost smiled. Failed. "Both true. Both useless as comfort. Light wants a verb."
 
-Rain thickened on the high windows. Somewhere a door shut with a sound like a gavel practicing. Rhee waited with professional patience that felt like a blade. Ellison waited with politics. Will waited like a sealed file humming under charm he could not currently afford—the sealed past pressure deepened, not dumped, ash stirred, hallway still unnamed in full.
+Rain thickened on the high windows. Somewhere a door shut with a sound like a gavel practicing. Rhee waited with professional patience that felt like a blade. Ellison waited with politics. Will waited like a sealed file humming under charm he could not currently afford.
 
 "Testify for Will," Rhee summarized without kindness. "Or hide together through the public storm. The review is already here. The choice is whether you answer it with sentences in this room or with silence on a street that will not stay silent long."
 
@@ -71,7 +71,7 @@ In the recess hallway, after Rhee called ten minutes, Will pulled [player_name] 
 
 His phone buzzed—Ellison demanding posture language. [player_name] fixed her jeans with shaking hands and tasted toner and Will and unfinished justice. The copy room's clock jumped a minute like a small betrayal. Somewhere above them Rhee's folder waited to become posture. Somewhere below, Harborwick's pier fog kept Renny's absence wet and unnamed. Will's hand found the small of her back—claim, steadying, professional enough to deny if a camera blinked—and steered her toward the elevator that would return them to fluorescent judgment. "Last chance to breathe before the recorder owns the air," he murmured. "Testify or hide. I am still tasting you. That is not in any memo yet. Keep it that way until you choose which room gets our next hour."
 
-Will ignored the recess-end knock. He watched her mouth, fingers still faintly shiny from where he had touched her in the empty conference nook. "Sentences under their lights," he whispered, "or we hide through the storm and I keep you wet enough to forget fluorescent judgment for one night." Sealed file not dumped—only ash-smell under charm he could not currently afford. Sister still a pointed finger. She had to pick while his cock strained unfinished against his fly and Harborwick tried to turn closeness into a scandal that might still save his throat.`,
+Will ignored the recess-end knock. He watched her mouth, fingers still faintly shiny from where he had touched her in the empty conference nook. "Sentences under their lights," he whispered, "or we hide through the storm and I keep you wet enough to forget fluorescent judgment for one night." Sister still a pointed finger. She had to pick while his cock strained unfinished against his fly and Harborwick tried to turn closeness into a scandal that might still save his throat.`,
   choices: [
     { id: "scene8n", text: "Testify for Will", textHot: "Testify for Will" },
     { id: "scene8o", text: "Hide together through the public storm", textHot: "Hide together through the public storm" }

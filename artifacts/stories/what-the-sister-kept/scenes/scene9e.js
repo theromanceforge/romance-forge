@@ -40,7 +40,7 @@ Will's pen stopped. Respect moved through his face like weather changing. He alm
 
 "Clock," Will said softly. "Speak Renny's fate honestly together—or carry the naming into sister's reckoning. Either way Hale spoke. Either way Kade becomes daylight. Either way Cho's pending stays a leash we do not cut for comfort. Conjugate, [player_name]."
 
-Ellison's tablet light painted the glass from below like a second, uglier dawn. Somewhere on a different floor, warrants for Michael Kade were already growing feet. Owen Vale's lawyers would call grief coercion. Press would smell a sister cracking into honesty. Internal would catalogue a detective who stood too close. Nina Solis stayed sealed—pressure deepened by association, full story saved for layers that earned ash dumps.
+Ellison's tablet light painted the glass from below like a second, uglier dawn. Somewhere on a different floor, warrants for Michael Kade were already growing feet. Owen Vale's lawyers would call grief coercion. Press would smell a sister cracking into honesty. Internal would catalogue a detective who stood too close. Nina Solis stayed sealed.
 
 [player_name] stood between burnt coffee and named steel, fingers near Will's cracked knuckles without quite taking them, remains unnamed, charm probable, sister still missing in the only way that mattered—and the choice sitting between them like unfinished weather: together in truth at the table where a killer had finally been spoken, or sister's reckoning on steps where Harborwick would learn what the sister kept and what it cost to stop keeping it.
 
