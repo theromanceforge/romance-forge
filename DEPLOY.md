@@ -18,6 +18,16 @@ Configure these repository secrets for cloud auth and saves during the Pages bui
 `SUPABASE_SECRET_KEY` is a server-side secret and must **never** be a GitHub Secret
 used by GitHub Pages builds or exposed to the browser.
 
+## Free-tier ads (Phase 3)
+
+Optional — leave unset until AdSense is approved. Default build has ads **off**.
+
+- `VITE_ADS_ENABLED` (`true` to turn on; omit or `false` to kill without code change)
+- `VITE_ADSENSE_CLIENT_ID` (`ca-pub-…` publisher id; without it, a branded placeholder interstitial is used when enabled)
+- `VITE_ADSENSE_SLOT` (optional ad unit slot)
+
+CEO/Publisher sets these Actions secrets after AdSense approval. Never commit real values.
+
 In Supabase Auth settings, include this URL in both the Site URL and Redirect URLs:
 
 `https://theromanceforge.github.io/romance-forge/`

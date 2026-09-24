@@ -38,6 +38,10 @@ import {
 } from './save/store.js';
 import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js';
 import { resumeSceneLabel } from './save/resumeLabel.js';
+import { getAdsConfig } from './ads/config.js';
+import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
+import { showInterstitial } from './ads/interstitial.js';
+import { bumpAdsStat } from './ads/stats.js';
 
 const SPICE_KEY = 'romanceForge.spice';
 const STORY_KEY = 'romanceForge.storyId';
@@ -927,17 +931,52 @@ function bindEvents() {
     btn.addEventListener('click', () => {
       const choiceId = btn.getAttribute('data-choice-id');
       if (!choiceId || state._transitioning) return;
-      const scene = getScene(activeStory(), state.sceneId);
+      const storyNow = activeStory();
+      const scene = getScene(storyNow, state.sceneId);
       const nextId = resolveChoice(scene, choiceId);
       const fromId = state.sceneId;
       const nextPath = appendPath(state.path.length ? state.path : [fromId], nextId);
       maybeOfferSavePrompt('choice');
       persistGuestProgress({ sceneId: nextId, path: nextPath });
-      advanceWithMomentum({
-        sceneId: nextId,
-        previousSceneId: fromId,
-        path: nextPath,
-      });
+
+      const nextScene = getScene(storyNow, nextId);
+      const adsCfg = getAdsConfig();
+      const gate = {
+        adsEnabled: adsCfg.enabled,
+        fromSceneId: fromId,
+        toSceneId: nextId,
+        pathLength: nextPath.length,
+        isEnding: isEndingDestination(nextScene, nextId),
+        isAuthFlow: Boolean(state.authModalOpen),
+        isStartScene: nextId === storyNow.startSceneId,
+        isReplay: false,
+        reason: 'between-scene',
+      };
+
+      const advance = () => {
+        bumpAdsStat('sceneAdvance');
+        advanceWithMomentum({
+          sceneId: nextId,
+          previousSceneId: fromId,
+          path: nextPath,
+        });
+      };
+
+      if (shouldShowInterstitial(gate)) {
+        state = { ...state, _transitioning: true };
+        showInterstitial({ config: adsCfg, reason: 'between-scene' })
+          .then(() => {
+            state = { ...state, _transitioning: false };
+            advance();
+          })
+          .catch(() => {
+            state = { ...state, _transitioning: false };
+            advance();
+          });
+        return;
+      }
+
+      advance();
     });
   });
 
@@ -1212,3 +1251,6 @@ export {
   applyAuthenticatedSession,
 };
 export { resumeSceneLabel, humanizeSceneId } from './save/resumeLabel.js';
+export { getAdsConfig, areAdsEnabled } from './ads/config.js';
+export { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
+export { getAdsStats } from './ads/stats.js';
