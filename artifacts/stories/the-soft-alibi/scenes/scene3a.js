@@ -26,7 +26,7 @@ Nolan's mouth tipped. "Softly is how we survive until Pell arrives—or until Br
 
 They stood in the wine-ringed quiet and practiced the story once—dates that matched elevator logs, dinners that matched delivery tickets, nothing that matched the night [player_name] had almost asked why Vivienne's perfume had been opened and capped again like a changed mind. Nolan's cufflinks stayed mostly still when he said *traveling*. Mostly. [player_name] filed the mostly away without using it.
 
-A house phone purred. Rhea's voice, careful: Brooks was requesting neighbor interviews before midnight. Lobby or upstairs lounge. Choice of stage, not choice of silence.
+A house phone purred. Rhea's voice, careful: Brooks was requesting neighbor interviews before midnight. Lobby or upstairs lounge.
 
 Nolan looked at [player_name]. "You can seal this with me—stay, be cover, let the soft alibi warm into something she can't peel off without looking cruel. Or you can call Pell yourself and lawyer the night before Brooks records a single soft word." A beat. "Calling Pell will feel like distrust. Staying will feel like becoming the story."
 
@@ -34,52 +34,9 @@ Across the hall, her own door waited. Across the city, Vivienne's four fates wai
 
 [player_name] understood protection was not innocence. Protection was a verb with heat in it. She had offered the soft alibi without naming what she saw. Now she had to decide whether to let Nolan seal that cover against her mouth—or invite Marcus Pell's silence between them before the badge climbed.
 
-
 She walked once to the corridor mouth and stopped short of the master bath, close enough to catch the perfume's ghost, far enough to pretend she had never stood at that sink on an empty night with Nolan's shirt around her shoulders. The bottle sat like a museum label for a person who might still be traveling, might still be bargaining, might still be breathing elsewhere, might still be writing this absence herself. [player_name] did not touch it. Touching would make the soft story remember her fingerprints.
 
-Nolan waited by the glass with the patience of money. Brooks waited below with the patience of a file that had not yet decided to become something bloodier. Pell waited in the near future with language sharp enough to sand guilt into itinerary. And [player_name] stood between wine ring and perfume ghost, early thirties and suddenly older, choosing how tightly to wear a man who might have made his wife disappear—or might only have learned, years ago, that absence could be purchased and explained as travel.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.
-
-She catalogued what she could still use: elevator chime, wine ring, unused perfume, cufflink tick, badge flash. Anchors. Evidence. The soft machinery of a night that wanted her pliable.
-
-Crownspire held its breath around her. The glass, the hush, the unfinished question of Vivienne Greer—willing, paid, gone, staging—pressed against [player_name] until choosing hurt, and hurting meant the choice was real.`,
+Nolan waited by the glass with the patience of money. Brooks waited below with the patience of a file that had not yet decided to become something bloodier. Pell waited in the near future with language sharp enough to sand guilt into itinerary. And [player_name] stood between wine ring and perfume ghost, early thirties and suddenly older, choosing how tightly to wear a man who might have made his wife disappear—or might only have learned, years ago, that absence could be purchased and explained as travel.`,
   textHot: `Protecting Nolan began in [player_name]'s mouth before it became strategy—an unspoken *I've got you* shaped like want. She set her wine inside his dark ring on the marble and felt the gesture travel up her arm like a vow. Unused perfume breathed from the master corridor. Detective Imani Brooks's name entered the penthouse and settled against [player_name]'s skin beside Nolan's nearness, law and heat sharing the same square of floor.
 
 "I'll be soft," she said, voice low. Early thirties, across-the-hall mistress, calendar written on her pulse. "I won't invent. I also won't hand her the nights that undress you."
@@ -94,7 +51,7 @@ Ambiguity was the sheet they pulled over themselves: Vivienne willing, paid, dea
 
 Wine. Wind. Perfume ghost. Her thighs tightened. "A marriage thinning into a schedule. Your door opening for me. Rhea's blanks. Not a crime shaped for photographs." Almost true. Almost made her wet with complicity.
 
-His hand found her waist—claiming, careful, thumb stroking the silk until her pulse stumbled. "Then when Brooks asks, you were with me on the empty nights. Dinner. Wine. Across the hall and then here. Vivienne traveling. Pell's itineraries. No goodbye bags. No ending fights." His mouth brushed the corner of hers, unfinished on purpose. "Can you wear that soft enough that it feels like truth on your tongue?"
+His hand found her waist—claiming, careful, thumb stroking the silk until her pulse stumbled. "Then when Brooks asks, you were with me on the empty nights. Dinner. Wine. Across the hall and then here. Vivienne traveling. Pell's itineraries. No goodbye bags. No ending fights." His mouth brushed the corner of hers. "Can you wear that soft enough that it feels like truth on your tongue?"
 
 [player_name] thought of the black car, the vanished bag, the perfume opened and capped—almosts folded behind her ribs where dread and arousal already shared a bed. "I can wear it," she breathed against his mouth. "Softly."
 
@@ -104,66 +61,11 @@ House phone. Rhea's careful warning: Brooks wanted neighbor interviews before mi
 
 Elevator chime in the shaft. Wine rings overlapping. Perfume waiting. [player_name]'s body ached toward sealing; her conscience ached toward counsel. Protection was a verb with his thumb under her breast and Brooks's badge flashing in memory. Soft either way. Soft, and burning.
 
+She walked him backward half a step until glass kissed his shoulders and city light made a jury of their reflection—her palms on his chest, his cufflinks cool under her wrists, mouths almost mating and refusing. "If I seal this," she whispered, "I become the woman who knew the calendar thinned and still opened her door."
 
-She walked him backward half a step until glass kissed his shoulders and city light made a jury of their reflection—her palms on his chest, his cufflinks cool under her wrists, mouths almost mating and refusing. "If I seal this," she whispered, "I become the woman who knew the calendar thinned and still opened her door." 
+"You already are," Nolan returned, voice shredded soft. "I'm asking you to become the woman who says it like care instead of confession."
 
-"You already are," Nolan returned, voice shredded soft. "I'm asking you to become the woman who says it like care instead of confession." 
-
-Vivienne's four fates breathed between their lips. [player_name] kissed the corner of his mouth once—pledge and punishment—and left the rest unfinished so the choice could still hurt.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.
-
-Her pulse kept score against Crownspire's anchors—chime, wine, perfume, cufflinks, badge—until mid-want and missing-persons pressure were the same heartbeat asking her to risk something she could not take back.
-
-Heat and dread braided under her skin. Vivienne's open fate made every near-touch feel like a confession she had not agreed to give; Nolan's nearness made every confession feel like a mouth she still wanted.`,
+Vivienne's four fates breathed between their lips. [player_name] kissed the corner of his mouth once—pledge and punishment—and left the rest unfinished so the choice could still hurt.`,
   choices: [
     { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi with Nolan — stay as cover with his mouth still unfinished on yours" },
     { id: "scene4b", text: "Call Pell — lawyer the night before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }

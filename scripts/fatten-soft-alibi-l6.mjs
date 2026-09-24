@@ -1,53 +1,34 @@
 #!/usr/bin/env node
 /**
- * Fatten The Soft Alibi scene6a–scene6p to full Warm+Hot (≥1500 each).
- * Keeps stub ids/titles/choice IDs. Nolan-only; Crownspire; across-the-hall;
- * Brooks homicide interest rising; Vivienne fate contested; zero other-title meta.
+ * Write The Soft Alibi scene6a–scene6p from hand-written Warm + Hot prose in
+ * scripts/soft-alibi-l6-parts/*.json.
+ *
+ * GUARDED (2026-09-24): the original version of this script reached the
+ * 1500-word floor by appending stock padding paragraphs. That padding has been
+ * stripped from the scenes (scripts/strip-soft-alibi-padding.mjs) and removed
+ * from this script. It now:
+ *   - never pads;
+ *   - refuses to write ANY file unless every part has ≥1500 real words in both
+ *     Warm and Hot, contains no stock padding paragraph, and has no planning /
+ *     meta sentences (see scripts/lib/soft-alibi-clean.mjs).
+ * The current parts are the pre-rewrite drafts and will fail these checks on
+ * purpose, so re-running cannot overwrite the stripped scenes. Replace the parts
+ * with the batched rewrite (docs/soft-alibi-rewrite-plan.md) before running.
  */
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { wc, findMeta, splitParagraphs, isStockPad } from "./lib/soft-alibi-clean.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, "../artifacts/stories/the-soft-alibi/scenes");
 const PARTS = path.join(__dirname, "soft-alibi-l6-parts");
-
-function wc(s) {
-  return s.trim().split(/\s+/).filter(Boolean).length;
-}
+const LAYER = 6;
+const MIN_WORDS = 1500;
 
 function esc(s) {
   return s.replace(/\\/g, "\\\\").replace(/`/g, "\\`").replace(/\$\{/g, "\\${");
 }
-
-function padTo(text, min, pads) {
-  let t = text.trim();
-  let i = 0;
-  while (wc(t) < min) {
-    t += "\n\n" + pads[i % pads.length];
-    i++;
-    if (i > 60) break;
-  }
-  return t;
-}
-
-const WARM_PADS = [
-  `Elevator chime late in the shaft reminded [player_name] that Crownspire never slept clean. Soft alibis lived in the gaps between floors—weekly to monthly to gone still contested, Vivienne's four fates still open doors behind every polite sentence. Layer 6 pressure made every hush sound like a draft Brooks could subpoena.`,
-  `Wine glass rings on marble looked like Venn diagrams of complicity. Nolan Greer's cufflinks clicked when Vivienne's name entered a room; Marcus Pell preferred the word traveling; Rhea Quinn's slate kept thinning marks that Detective Imani Brooks now read with homicide interest rising and no body yet settled. Soft still meant pliable evidence, not pink innocence.`,
-  `Unused perfume still breathed from a master bath [player_name] should not know. Across the hall was twelve steps and a conscience with fingerprints. Black car at the curb. Concierge slate. Wind sheer against floor-to-ceiling glass throwing city light as accusation. Hangar cold and lobby fluorescent both knew her name now.`,
-  `Brooks's badge flash in the lobby had stopped sounding like missing-persons alone. The file was cooling toward something colder without requiring a corpse on the table. Hope and dread shared the hallway. Vivienne might have left willingly, been paid to vanish, died, or staged every empty mark—[player_name] still could not choose which ending to fear, and Layer 6 refused to choose for her.`,
-  `Nolan's brutal charm polished boardrooms and bedrooms with the same metal tell. Soft was what money bought when hard answers would burn the holding. [player_name]—early thirties, she/her, neighbor-mistress—felt the soft alibi fitting itself to her mouth like expensive silk she had not agreed to own, now wearing ash, printouts, hangar fuel, and recorder aftertaste.`,
-  `Crownspire held its hush around her. Choice labels waited as verbs of consequence: unlock, withhold, return, refuse, reconstruct, record, breach, relieve, break, raid, inquire, shield, walk. Mid-want and rising law pressure braided until leaving either unfinished hurt enough to prove both were real. Locked drawer, unnamed night, marble, silence war, Pell's nose for sandbagging, point of no return, hangar dawn, perfume twin, soft interview door, Brooks blowup, burned log ash, obstruction fight, raid planning, holding badge number, shield, walk—Layer 6 spent soft into sharper paper without settling Vivienne.`,
-];
-
-const HOT_PADS = [
-  `Elevator chime trembled through [player_name]'s teeth and down into unfinished heat. Nolan's nearness turned every secret into a physical question—cufflink click as tell, perfume ghost as third heat, mid-want ending before climax because consequence still had names left to speak. Layer 6 made the unfinished louder.`,
-  `Wine-ringed marble. Thighs tight. Nipples tight under silk for reasons that were not pure fear. Brooks's escalating file could slide under her clothes as easily as Nolan's hands; Vivienne's unused perfume made every inhale taste like complicity she still wanted to swallow. Ash, hangar cold, and lobby daylight all found her pulse.`,
-  `Sex stayed intimacy-forward, never gore. Crime was plot; heat was trust versus complicity wearing a body. She ached around absence the way Crownspire ached around Vivienne—four fates open, no settled corpse, want still loud enough to vote dirty for whichever verb kept his mouth in the sentence. Soft alibi had a pulse; tonight it hammered between her legs and her throat at once.`,
-  `Black car idling like a held breath at the curb. Badge flash bright enough to feel on bare skin. Nolan's thumb at her waist counting ribs while homicide interest rose downstairs without naming a body. Recorder aftertaste, hangar dawn cold, perfume twin on her wrist, public shield heat—mid-want kept score across every setting.`,
-  `She wanted to finish against glass and knew finishing belonged to the next choice. Romance locked on Nolan Greer alone—mid-forties, finance and tech holding, brutal charm, rain-money cologne. Across-the-hall geography made every unfinished almost both refuge and evidence. Walking away still left her wet for the chase.`,
-  `Her cunt ached around unanswered questions. His cufflinks flashed like a tell she could feel low and filthy. Mid-want exits demanded she choose before climax while Vivienne stayed nowhere and everywhere—willing, paid, dead, or staging—and Brooks climbed toward colder paper without a corpse to prove it. Soft cooperation, sandbagging, relief, blowup, ash, obstruction, raid, badge number, shield, walk—each verb left her unfinished on purpose.`,
-];
 
 const files = fs.readdirSync(PARTS).filter((f) => /^scene6[a-p]\.json$/.test(f)).sort();
 if (files.length !== 16) {
@@ -55,14 +36,31 @@ if (files.length !== 16) {
   process.exit(1);
 }
 
-const results = [];
+const problems = [];
+const out = [];
 for (const f of files) {
   const sc = JSON.parse(fs.readFileSync(path.join(PARTS, f), "utf8"));
-  const warm = padTo(sc.warm, 1500, WARM_PADS);
-  const hot = padTo(sc.hot, 1500, HOT_PADS);
+  const warm = sc.warm.trim();
+  const hot = sc.hot.trim();
+  for (const [label, t] of [["warm", warm], ["hot", hot]]) {
+    if (wc(t) < MIN_WORDS) problems.push(`${sc.id} ${label}: ${wc(t)} words (< ${MIN_WORDS}; padding is not allowed)`);
+    if (splitParagraphs(t).some(isStockPad)) problems.push(`${sc.id} ${label}: contains stock padding paragraph`);
+    const meta = findMeta(t);
+    if (meta.length) problems.push(`${sc.id} ${label}: ${meta.length} planning/meta sentence(s), e.g. "${meta[0].slice(0, 90)}"`);
+  }
+  out.push({ sc, warm, hot });
+}
+
+if (problems.length) {
+  console.error(`Refusing to write layer ${LAYER} (${problems.length} problem(s)); scenes left untouched:`);
+  for (const p of problems) console.error(" - " + p);
+  process.exit(1);
+}
+
+for (const { sc, warm, hot } of out) {
   const body = `export default {
   id: "${sc.id}",
-  layer: 6,
+  layer: ${LAYER},
   title: "${sc.title}",
   text: \`${esc(warm)}\`,
   textHot: \`${esc(hot)}\`,
@@ -70,10 +68,5 @@ for (const f of files) {
 };
 `;
   fs.writeFileSync(path.join(DIR, `${sc.id}.js`), body);
-  results.push({ id: sc.id, warm: wc(warm), hot: wc(hot), choices: sc.choices.map((c) => c.id) });
-  if (wc(warm) < 1500 || wc(hot) < 1500) {
-    console.error("UNDER:", results[results.length - 1]);
-    process.exitCode = 1;
-  }
 }
-console.log(JSON.stringify(results, null, 2));
+console.log(JSON.stringify(out.map(({ sc, warm, hot }) => ({ id: sc.id, warm: wc(warm), hot: wc(hot) })), null, 2));
