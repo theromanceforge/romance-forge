@@ -61,6 +61,7 @@ import {
   aggregateFromStars,
 } from './reviews/supabaseStore.js';
 import { assetUrl } from './assetUrl.js';
+import { track, bindOutboundTracking } from './analytics.js';
 
 /** Public brand sprite — base-aware so Pages does not 404 at domain root. */
 document.documentElement.style.setProperty(
@@ -508,6 +509,11 @@ function submitEndingReview() {
     createdAt: Date.now(),
   };
   setGuestReview(guestRecord);
+  track('review_submitted', {
+    storyId,
+    spice,
+    meta: { stars, guest: isGuest(state.auth) },
+  });
 
   if (!isGuest(state.auth) && cloudConfigured) {
     const record = createReviewRecord({
@@ -982,9 +988,40 @@ function advanceWithMomentum(partial) {
   }, MOMENTUM_MS);
 }
 
+/** Last view/scene reported to analytics — fire page_view / scene_view on transitions only. */
+let _trackedView = '';
+let _trackedScene = '';
+
+function trackViewTransition() {
+  try {
+    if (state.view === 'landing') {
+      if (_trackedView !== 'landing') track('page_view', { meta: { view: 'landing' } });
+      _trackedView = 'landing';
+      _trackedScene = '';
+      return;
+    }
+    _trackedView = 'reader';
+    const key = `${state.storyId}|${state.sceneId}`;
+    if (key === _trackedScene) return;
+    _trackedScene = key;
+    const scene = getScene(activeStory(), state.sceneId);
+    const props = {
+      storyId: state.storyId || defaultStory.id,
+      spice: state.spice,
+      layer: scene.layer,
+      sceneId: state.sceneId,
+    };
+    track('scene_view', props);
+    if (isEnding(scene)) track('story_complete', props);
+  } catch {
+    /* analytics must never affect rendering */
+  }
+}
+
 function render() {
   app.innerHTML = state.view === 'landing' ? renderLanding() : renderReader();
   bindEvents();
+  trackViewTransition();
 }
 
 function bindEvents() {
@@ -993,6 +1030,7 @@ function bindEvents() {
       if (btn.hasAttribute('disabled')) return;
       const id = btn.getAttribute('data-story-id');
       if (!id) return;
+      track('story_click', { storyId: id, meta: { via: 'card' } });
       setState({ storyId: id });
       refreshReadersSay(id);
     });
@@ -1069,6 +1107,7 @@ function bindEvents() {
       const storyOk =
         state.storyId &&
         CATALOG.some((c) => c.id === state.storyId && c.available);
+      if (state.storyId) track('story_click', { storyId: state.storyId, meta: { via: 'start' } });
 
       if (!storyOk) {
         if (err) {
@@ -1110,6 +1149,12 @@ function bindEvents() {
       if (!(pending?.sceneId && pending.path?.length)) {
         resetStoryAdsShown(storyIdForAds);
       }
+      track('story_start', {
+        storyId: storyIdForAds,
+        spice,
+        playerName: name,
+        meta: { resume: Boolean(pending?.sceneId && pending.path?.length) },
+      });
       setState({
         view: 'reader',
         playerName: name,
@@ -1136,6 +1181,13 @@ function bindEvents() {
       persistGuestProgress({ sceneId: nextId, path: nextPath });
 
       const nextScene = getScene(storyNow, nextId);
+      track('choice', {
+        storyId: state.storyId || defaultStory.id,
+        spice: state.spice,
+        layer: scene.layer,
+        sceneId: fromId,
+        meta: { choice: choiceId, to: nextId },
+      });
       const adsCfg = getAdsConfig();
       const storyIdForAds = state.storyId || defaultStory.id;
       const adsShownThisStory = getStoryAdsShown(storyIdForAds);
@@ -1164,6 +1216,7 @@ function bindEvents() {
       if (shouldShowInterstitial(gate)) {
         state = { ...state, _transitioning: true };
         bumpStoryAdsShown(storyIdForAds);
+        track('ad_shown', { storyId: storyIdForAds, meta: { reason: 'between-scene' } });
         showInterstitial({ config: adsCfg, reason: 'between-scene' })
           .then(() => {
             state = { ...state, _transitioning: false };
@@ -1224,6 +1277,7 @@ function bindEvents() {
       if (shouldShowInterstitial(postGate)) {
         state = { ...state, _transitioning: true };
         bumpStoryAdsShown(storyIdForAds);
+        track('ad_shown', { storyId: storyIdForAds, meta: { reason: 'post-play' } });
         showInterstitial({ config: adsCfg, reason: 'post-play' })
           .then(() => {
             state = { ...state, _transitioning: false };
@@ -1314,6 +1368,12 @@ function bindEvents() {
         (spice === 'warm' || spice === 'hot') &&
         name
       ) {
+        track('story_start', {
+          storyId: state.storyId,
+          spice,
+          playerName: name,
+          meta: { resume: true },
+        });
         setState({
           view: 'reader',
           playerName: name,
@@ -1403,6 +1463,7 @@ function bindEvents() {
           setState({ authModalOpen: true, authStatusMessage: result.error });
           return;
         }
+        if (isSignup) track('signup', { meta: { needsConfirm: Boolean(result.needsConfirm) } });
         if (result.needsConfirm) {
           setState({
             authModalOpen: true,
@@ -1456,6 +1517,7 @@ function bindEvents() {
 }
 
 // Boot
+bindOutboundTracking();
 render();
 
 if (cloudConfigured) {

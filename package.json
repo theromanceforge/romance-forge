@@ -13,7 +13,9 @@
     "test:watch": "vitest",
     "schema:saves": "node scripts/apply-saves-schema.mjs",
     "schema:reviews": "node scripts/apply-reviews-schema.mjs",
-    "prove:cloud": "node scripts/prove-cloud-save.mjs"
+    "schema:events": "node scripts/apply-events-schema.mjs",
+    "prove:cloud": "node scripts/prove-cloud-save.mjs",
+    "brief": "node scripts/daily-brief.mjs"
   },
   "devDependencies": {
     "jsdom": "^25.0.1",
