@@ -1,0 +1,91 @@
+export default {
+  id: "scene8i",
+  layer: 8,
+  title: "Jake Alone with Henry",
+  text: `Willow Lane held its breath the way a house does when two men who share a last name finally stop sharing a story.
+
+[player_name] stood on the wet boxwood side of the porch with rain needling her collar and the mantel clock audible even through the kitchen door Jake had closed without looking back. Woodsmoke threaded the eaves. Henry's silhouette sat at the table beyond the glass—shoulders smaller than the years had promised—while Jake took the chair that had been his father's in every photograph Clara still refused to throw away. The cracked blue door of the diner lived two streets over like a second heart; here the only hinge that mattered was the one between nephew and uncle, and [player_name] had chosen—by standing apart, by letting the shed wreckage cool, by refusing to hold Jake's hand through the confession—to put herself outside that hinge on purpose.
+
+She tasted copper and rain. Fifteen years ago she had said yes to a cover that cast her exit as ambition. Tonight she had put the cover on the table and then walked out of the room so Jake could hear Henry without her body becoming the soft landing both men still half-wanted. Trust was the real plot. Trust sometimes looked like absence wearing loyalty's coat.
+
+Through the glass, Jake's burn scar caught the lamp when he set both palms flat on the table—not reaching for Henry, not reaching for her. "Say it again," Jake said, voice low enough that [player_name] read it more in the set of his mouth than in sound. "Without the weather. Without the tea. Without the part where she becomes a ticket instead of a girl."
+
+Henry's hands trembled once around an empty mug. Rain sheeted the slate roof. Freight complained faintly toward the yard, ordinary Somerton continuing while Willow Lane practiced a quieter kind of wreckage. "Your father went through the ice," Henry said, and even from the porch [player_name] saw how the sentence still cost him. "I had been drinking. Voss was already circling the debt. I asked her to leave so the town could invent a cleaner grief. She said yes. I sanded the rest into season. Clara found what I could not bury. That is the truth without my softer mornings."
+
+Jake did not flinch. He listened the way he listened to fryer oil—measuring heat, deciding whether to pull the basket. [player_name] pressed her forehead to the cold porch post and let wet boxwood scrape her sleeve. She could interrupt. She could knock and pour herself back into the room like a third witness who refused to be edited out. Or she could wait in the rain and trust him to return with whatever shape honesty left of the Shaw name.
+
+Clara's charcoal lived upstairs in margins—circles around dates, arrows toward Voss, restless honesty that had started this cracking. Somewhere a board creaked; Clara might be awake, might be listening through floorboards the way [player_name] listened through glass. Market Street's gossip, if Mae had already stamped it, would arrive by noon whether this kitchen finished its reckoning or not. The forty-eight-hour pauses and lawyer copies and burned napkins of other nights all narrowed here to one porch and one closed door.
+
+Jake's chair scraped. He stood. Henry stayed seated, which somehow made the power clearer. "You made her into weather," Jake said. "You made my father's death into a season I could survive without asking why the ice never quite matched the story. I rebuilt a diner around that wound. I raised Clara beside coffee steam and a blue door that sticks. I waited for a train that might bring her back. And you—" His voice broke, then steadied like a man resetting a grill flame. "You get to sit there and finally match your mouth to the papers under glass. I am not asking for forgiveness scripts. I am asking whether you understand that loving this family now means letting us narrate without your sand."
+
+Henry looked toward the porch—toward [player_name]—then away, as if eye contact through rain were another kind of asking. "I understand she stood apart so you could hate me without her body becoming the buffer," Henry said. "I understand that is love wearing a colder coat than the one I taught this house. I do not ask her to come in. I ask you whether solitude is what you need to finish hearing me, or whether you need a witness who already paid for fifteen years of my arrangement."
+
+[player_name]'s pulse argued in her throat. Sensory first: wet boxwood, woodsmoke, rain on slate, the mantel clock's unkind tick, coffee-ghost on Jake's coat from hours earlier, the particular cold of a porch that had watched Shaw men leave for ice and never quite return the same. Emotion: tenderness braided to fury braided to the fear that distance could become abandonment if she mistook respect for retreat. Plot: Jake alone with Henry; confession unfinished at the edges; her body on the wrong side of glass by choice; Clara possibly listening; Market Street sharpening its knives whether Mae held or released; a choice blooming that hurt on purpose.
+
+She could wait outside and trust him to return—hands empty, story owned, no rescue dressed as romance. Waiting meant believing Jake Shaw could carry his uncle's truth without her pulse as scaffolding. Waiting meant standing in rain until the kitchen door opened on a man who had faced Henry without her soft landing.
+
+Or she could interrupt if the silence lasted too long—knock, enter, refuse to let solitude become another Shaw cover where men sanded grief into rooms women were not allowed to finish. Interrupting meant risking Jake's needed solitude for the loyalty of presence. Interrupting meant she would not let Henry's unfinished sentences invent a softer ending while she practiced patience on wet wood.
+
+Jake turned his head toward the glass as if he felt her thinking. His eyes found hers through rain and lamp-glare. He did not beckon. He did not wave her off. He only looked—coffee and woodsmoke and unfinished heat and the boy who had almost loved her at twenty now asking, without words, whether she trusted him enough to stay out or loved him enough to break the door's quiet.
+
+Henry's mug clicked against the table. "If she comes in," Henry said carefully, "I will not sand. If she stays out, I will not pretend the porch is exile. Either way, Jake, the quiet is already broken. The only question left is who gets to stand inside the break with you."
+
+Rain thickened. The blue door stuck in memory two streets away. Voss's name sat under [player_name]'s tongue like a coin she had already spent into light in other rooms. Clara's graphite waited. Fryer oil waited for morning. Trust waited in the shape of a porch post and a closed kitchen hinge.
+
+[player_name] wiped rain from her mouth with the back of her hand and tasted old tickets and new courage. She thought of the night she left—Henry too still on the station platform, Jake not yet told the uglier facts, ambition invented like a civic virtue. She thought of returning with Henry's letter in her pocket and Jake's want unfinished in her bloodstream. She thought of standing apart as a verb of consequence, not a flinch.
+
+Inside, Jake sat back down. Not surrender—endurance. He planted his scarred thumb on the table edge and said, "Keep talking. The ice. The debt. The yes you asked of her. Every softer morning you stole from Clara's questions. I will decide when I need the door opened. Not you."
+
+Henry nodded once, wrecked and somehow lighter. The mantel clock ticked. Silence stretched—not empty, working. The kind of silence that could last too long. The kind that could mean healing or another burial dressed as privacy.
+
+[player_name] stood in it. Wet. Cold. Wanting him with a yearning that was adult and unfinished and completely inappropriate to woodsmoke confession and somehow still the point—because desire without trust was only another pretty cover, and trust without the option to wait or interrupt was only obedience.
+
+The hook set without soft landing: Jake alone with Henry behind glass, confession still landing in pieces, rain counting time on slate, [player_name]'s body on the porch with two hungers arguing in her pulse—the hunger to trust him enough to stay out until he returned, and the hungrier fear that silence lasting too long meant she should break the door and refuse another generation of Shaw solitude. Freight complained. Boxwood scraped. Henry's voice resumed, low. Jake's shoulders held. The quiet of Willow Lane leaned in at the wet leaves to hear which loyalty she would spend when the minute stretched past mercy.
+
+Wait outside. Or interrupt. The porch post held steady. The morning-night refused to land soft. [player_name] drew a breath that tasted like rain and woodsmoke and old coins and the particular courage of women who had once left to protect a boy and were learning how to stay without sanding his reckoning into something prettier than it was.`,
+  textHot: `Willow Lane held its breath, and [player_name]'s body held a different kind of waiting—the kind that lived low in her belly while Jake closed the kitchen door without looking back and left her on the wet-boxwood porch with rain needling her throat and his last kiss still hot on her mouth.
+
+He had kissed her hard before he went in. Not romance. Claim. Tongue and teeth and the press of his cock against her hip through denim as if to remind her that standing apart was not the same as going cold. "Stay out unless the silence goes wrong," he had rasped against her lips, already half-hard from confession heat and shed oil and the simple filthy fact of putting Henry's truth on a table without using her cunt as a buffer. "If I need you, I will open the door. If I take too long, you decide whether solitude is respect or another Shaw lie. Either way—when I come out, I am going to need inside you before the rain stops. Do not invent a softer body while you wait."
+
+She tasted him and copper and rain. Through the glass: Henry at the table, empty mug, smaller shoulders. Jake taking his father's chair, palms flat, burn scar whitening. Woodsmoke. Mantel clock. Freight complaining toward the yard. [player_name] pressed her thighs together under her coat because unfinished want from the walk and the shed and the door-kiss had nowhere polite to go, and politeness had never saved this family.
+
+"Say it again," Jake told Henry, voice carrying enough that she heard it through rain. "Without the weather. Without making her a ticket."
+
+Henry spoke—ice, whiskey tea, Voss, her yes at twenty, Clara's papers—and Jake listened like a man measuring fryer heat while [player_name]'s nipples peaked against wet lace from cold and from the memory of his cock branding her hip. She could wait outside and trust him to return—shake in the rain, keep her hand out of her own jeans, believe he could face his uncle without her pulse as scaffolding, then let him fuck the reckoning out of both of them against the porch post or the blue door or whichever surface survived the night. Or she could interrupt if the silence lasted too long—knock, enter wet and angry, refuse to let two men sand grief into a room that locked her out, put her body back into the hinge as witness and want and the woman who had paid fifteen years for Henry's arrangement.
+
+Jake's chair scraped. He stood. "[player_name] stood apart so I could hate you without using her as a soft landing," he told Henry, and the sound of her name in that kitchen made her cunt clench around nothing. "I rebuilt a diner around the wound you sanded. I raised Clara. I waited for a train. You get to match your mouth to the papers. I am not asking for forgiveness scripts."
+
+Henry looked toward the porch—toward her—and [player_name] did not hide. She let him see rain on her mouth and the open coat and the fact that Jake's claim still lived in how she stood. "If she comes in, I will not sand," Henry said. "If she stays out, the porch is not exile. The quiet is already broken."
+
+Jake turned. His eyes found hers through glass and lamp-glare. He did not beckon. He did not wave her off. He only looked—hungry, wrecked, cock still a thick line she could imagine even at this distance—and the look asked whether she trusted him enough to stay soaked and aching on wet wood or loved him enough to break the door when silence stretched past what her body would forgive.
+
+[player_name] wiped rain from her lip with a thumb that still smelled like his skin. Sensory through-line: rain cold on her throat, woodsmoke in her coat, the throb between her legs timed to the mantel clock, Jake's mouth-memory, the porch post hard against her shoulder blade when she leaned back and almost—almost—slid a hand between her thighs for relief that would have been another private sanding. She forced her hands to the railing. Waiting could be loyalty. Waiting could also be her performing patience while two Shaw men finished a story that had always required her absence to look tidy.
+
+Inside, Jake sat again. "Keep talking," he ordered Henry. "The ice. The debt. The yes. Every softer morning you stole. I decide when the door opens."
+
+Silence stretched—working, dangerous. The kind that could last too long. [player_name]'s cunt ached. Her nipples hurt. Desire and dread shared a bloodstream with rain. Clara might be listening upstairs. Mae's slots might already be filling on Market Street. Voss's coin sat under her tongue. The blue door stuck in memory. Fryer oil waited for morning. Trust waited in the shape of a closed hinge and a body that refused to go numb just because the plot had turned civic.
+
+She thought of interrupting—boots muddy on kitchen tile, coat open, putting her hand on Jake's nape while Henry watched, making solitude impossible, making truth a three-body problem again. She thought of waiting—trusting him to return hard and wrecked and hers, letting him shove her against wet boxwood and fuck her standing with Henry's confession still on his tongue, mercy and heat braided without apology.
+
+Jake's shoulders held. Henry's voice resumed, low. Rain thickened on slate. [player_name] rolled her hips once against nothing because stillness had become another Shaw lie, then locked still because the choice deserved a clear throat and an unfinished ache.
+
+Clara's floorboard creaked above them—restless honesty listening through wood—and [player_name] almost laughed at the cruelty of timing: a sister waking toward graphite while she stood soaked and aching on a porch practicing trust like a sport she could lose. She thought of the shed crowbar, of rain matching Somerton's outside to its inside, of Jake's mouth claiming her before the hinge closed. Standing apart had been her verb. Waiting or interrupting would be the next one, and both would leave mud on the Shaw name.
+
+Jake's voice dropped further—something about Voss, about payments, about the mornings Henry had practiced weather—and [player_name] pressed her palm flat to the cold glass until the lamp-halo outlined her fingers like a confession of her own. Her cunt throbbed in time with the mantel clock. She could taste the kiss still. She could feel where his cock had branded her hip. Desire was not a distraction from the reckoning; it was proof she had come home in a body, not as a civic ghost Henry could sand into ambition again.
+
+"If the silence goes wrong," she whispered to the glass, knowing he could not hear, "I will not invent patience as virtue. I will knock. I will put my wet coat and my unfinished want back into that kitchen and refuse another generation of men finishing grief without the woman who paid for their cover." Rain answered. Boxwood scraped her wrist. Inside, Henry's shoulders shook once—not quite sob, not quite surrender—and Jake did not reach for him. Endurance, not comfort. The kind of love that let ugliness breathe.
+
+[player_name] rolled her forehead against the glass and let the unfinished ache stay unfinished on purpose. Coming on the porch while they spoke would have been another private sanding—heat without consequence, body without verb. She kept her hands on the railing. She kept her boots planted. She kept the choice bright behind her teeth where copper lived beside Jake's name.
+
+Freight complained longer this time, a whole train arguing with the yard, and Market Street's blue door stuck in her memory like a second heartbeat. Coffee steam. Cracked stool. Fryer hymn waiting for dawn. Mae's slots—held or released—sharpening somewhere in civic dark. Lawyer copies. Burned numbers. Softened relays from other nights. All of it narrowed to this hinge and her pulse and the man who had told her he would need inside her before the rain stopped.
+
+The hook held without soft landing: Jake alone with Henry, silence stretching, her body humming unfinished, porch rain counting minutes that could mean respect or burial. Wait outside—trust him to return, keep shaking, let him take her after. Or interrupt if the silence lasts too long—break the door, refuse another generation of men sanding grief without her. Freight complained. Boxwood scraped. Jake's eyes flicked to the glass once more as if he felt her cunt arguing strategy.
+
+[player_name] drew a breath that tasted like rain and woodsmoke and his kiss and old coins. The porch post held. The quiet leaned in at the wet leaves to hear which hunger she would feed—the trust that stayed out, or the love that knocked, or the heat that had turned a closed kitchen door into a reckoning she could feel in her pulse and her cunt and the place where apology used to live.
+
+Choose. The glass. The clock. His return or her interruption. Somerton tracked mud either way and the night refused to land soft. She counted three breaths of woodsmoke and two of rain and promised her body that the next verb would be chosen awake, muddy, and unfinished on purpose—not sanded into a prettier waiting.`,
+  choices: [
+    { id: "scene9e", text: "Wait outside; trust him to return", textHot: "Wait outside soaked for him — trust him to return and take you" },
+    { id: "scene9a", text: "Interrupt if the silence lasts too long", textHot: "Break the door if silence lasts — put your body back in the hinge" }
+  ]
+};

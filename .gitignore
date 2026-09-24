@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Production builds and tooling output
+dist/
+.vite/
+coverage/
+
+# Local environment files (never commit secrets)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp

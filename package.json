@@ -1,0 +1,26 @@
+{
+  "name": "romance-forge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive branching romance CYOA reader \u2014 Romance Forge MVP",
+  "scripts": {
+    "start": "vite --host",
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "schema:saves": "node scripts/apply-saves-schema.mjs",
+    "prove:cloud": "node scripts/prove-cloud-save.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.1",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.8",
+    "ws": "^8.21.3"
+  }
+}
