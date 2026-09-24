@@ -1230,6 +1230,205 @@ body {
 }
 
 
+/* —— Phase 4: reviews + CS —— */
+.story-card-stars {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--amber);
+  font-family: var(--font-display);
+}
+
+.review-panel {
+  margin: 1rem 0 1.25rem;
+  padding: 1rem 1.05rem 1.1rem;
+  border: 1px solid rgba(232, 160, 74, 0.28);
+  border-radius: 12px;
+  background: linear-gradient(165deg, rgba(28, 18, 14, 0.92), rgba(12, 9, 8, 0.88));
+  box-shadow: 0 0 28px rgba(232, 160, 74, 0.08);
+  text-align: left;
+}
+
+.review-prompt-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  color: var(--parchment);
+  margin: 0 0 0.35rem;
+}
+
+.review-prompt-hint,
+.review-thanks {
+  margin: 0 0 0.75rem;
+  color: rgba(245, 230, 210, 0.78);
+  font-size: 0.92rem;
+}
+
+.review-stars {
+  display: flex;
+  gap: 0.35rem;
+  margin-bottom: 0.85rem;
+  justify-content: center;
+}
+
+.review-star-btn {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: rgba(232, 160, 74, 0.35);
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.15rem 0.2rem;
+  transition: color 0.15s ease, transform 0.12s ease;
+}
+
+.review-star-btn:hover,
+.review-star-btn:focus-visible {
+  color: var(--amber);
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.review-star-btn.selected {
+  color: var(--amber);
+  text-shadow: 0 0 12px rgba(232, 160, 74, 0.35);
+}
+
+.review-label {
+  display: block;
+  font-size: 0.78rem;
+  color: rgba(245, 230, 210, 0.7);
+  margin: 0.35rem 0 0.3rem;
+}
+
+.review-optional {
+  opacity: 0.65;
+}
+
+.review-body,
+.review-display-name {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid rgba(240, 168, 74, 0.28);
+  background: rgba(7, 6, 5, 0.72);
+  color: var(--parchment);
+  padding: 0.55rem 0.65rem;
+  font: inherit;
+  margin-bottom: 0.45rem;
+}
+
+.review-body:focus,
+.review-display-name:focus {
+  outline: 1px solid rgba(232, 160, 74, 0.55);
+  border-color: rgba(232, 160, 74, 0.55);
+}
+
+.review-error {
+  color: #f0a0a0;
+  font-size: 0.85rem;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.review-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  justify-content: center;
+  margin-top: 0.55rem;
+}
+
+.review-cs {
+  margin: 0.85rem 0 0;
+  text-align: center;
+  font-size: 0.86rem;
+}
+
+.cs-mailto {
+  color: var(--amber);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.cs-mailto:hover,
+.cs-mailto:focus-visible {
+  color: #f3c27a;
+}
+
+.footer-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-sep {
+  opacity: 0.5;
+}
+
+.review-your-stars {
+  text-align: center;
+  color: var(--amber);
+  letter-spacing: 0.12em;
+  margin: 0 0 0.5rem;
+}
+
+.readers-say {
+  margin: 0.35rem 0 0.15rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: 10px;
+  background: rgba(7, 6, 5, 0.45);
+  border: 1px solid rgba(232, 160, 74, 0.18);
+}
+
+.readers-say-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(232, 160, 74, 0.85);
+}
+
+.readers-say-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.readers-say-item {
+  font-size: 0.8rem;
+  color: rgba(245, 230, 210, 0.82);
+  line-height: 1.35;
+}
+
+.readers-say-stars {
+  color: var(--amber);
+  margin-right: 0.35rem;
+  letter-spacing: 0.04em;
+}
+
+.readers-say-name {
+  font-weight: 600;
+  margin-right: 0.35rem;
+}
+
+.readers-say-body {
+  display: inline;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .review-star-btn {
+    transition: none;
+  }
+}
+
+
 /* —— Cover-first landing (book cover hero) —— */
 .visually-hidden {
   position: absolute;

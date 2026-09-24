@@ -31,3 +31,17 @@ CEO/Publisher sets these Actions secrets after AdSense approval. Never commit re
 In Supabase Auth settings, include this URL in both the Site URL and Redirect URLs:
 
 `https://theromanceforge.github.io/romance-forge/`
+
+## Phase 4 reviews (signed-in cloud)
+
+No new GitHub Secrets. Reuses `VITE_SUPABASE_URL` + `VITE_SUPABASE_ANON_KEY` (or publishable key).
+
+Staff must apply the reviews DDL once per project:
+
+```bash
+npm run schema:reviews
+# fallback: Supabase Dashboard → SQL Editor → scripts/apply-reviews-schema.sql
+```
+
+Guest reviews use `localStorage` only and do not need this schema. Until the table exists, catalog public star averages simply stay hidden (fail soft).
+

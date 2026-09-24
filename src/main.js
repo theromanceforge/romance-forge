@@ -42,6 +42,29 @@ import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
 import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
 import { bumpAdsStat } from './ads/stats.js';
+import {
+  getGuestReview,
+  setGuestReview,
+  dismissGuestReview,
+  hasGuestReviewDecision,
+  REVIEW_BODY_MAX,
+} from './reviews/localStore.js';
+import {
+  createSupabaseReviewStore,
+  createReviewStoreStub,
+  createReviewRecord,
+  aggregateFromStars,
+} from './reviews/supabaseStore.js';
+import {
+  shouldShowReviewPrompt,
+  renderEndingReviewPanel,
+  renderCatalogStarLine,
+  renderReadersSayStrip,
+  renderCsMailtoLink,
+  csMailtoHref,
+  defaultReviewDisplayName,
+  CS_EMAIL,
+} from './reviews/ui.js';
 
 const SPICE_KEY = 'romanceForge.spice';
 const STORY_KEY = 'romanceForge.storyId';
@@ -53,6 +76,9 @@ const cloudConfigured = Boolean(supabaseClient) && isSupabaseConfigured();
 const cloudSaveStore = supabaseClient
   ? createSupabaseSaveStore(supabaseClient)
   : createCloudSaveStoreStub();
+const cloudReviewStore = supabaseClient
+  ? createSupabaseReviewStore(supabaseClient)
+  : createReviewStoreStub();
 
 /** @returns {import('./engine.js').Story} */
 function activeStory() {
@@ -303,6 +329,10 @@ function catalogEntry(storyId) {
   return CATALOG.find((c) => c.id === storyId) || CATALOG.find((c) => c.available) || CATALOG[0];
 }
 
+function entryTitleFor(storyId) {
+  return catalogEntry(storyId)?.title || 'Romance Forge';
+}
+
 const app = document.getElementById('app');
 
 function readStoredSpice() {
@@ -344,6 +374,12 @@ let state = {
   _pendingResume: false,
   /** @type {import('./save/record.js').SaveRecord | null} */
   cloudResume: null,
+  /** @type {Record<string, { average: number, count: number }>} */
+  reviewAggregates: {},
+  /** @type {import('./reviews/supabaseStore.js').ReviewRecord[]} */
+  readersSay: [],
+  /** Selected star count while composing an ending review (1–5 or 0). */
+  reviewDraftStars: 0,
 };
 
 function setState(partial) {
@@ -363,6 +399,120 @@ function setState(partial) {
     }
   }
   render();
+}
+
+
+async function refreshReviewAggregates() {
+  if (!cloudConfigured) return;
+  const ids = CATALOG.filter((c) => c.available).map((c) => c.id);
+  /** @type {Record<string, { average: number, count: number }>} */
+  const next = { ...state.reviewAggregates };
+  await Promise.all(
+    ids.map(async (id) => {
+      try {
+        const agg = await cloudReviewStore.fetchAggregate(id);
+        next[id] = agg;
+      } catch (err) {
+        console.warn('[reviews] aggregate', id, err?.message || err);
+      }
+    })
+  );
+  setState({ reviewAggregates: next });
+}
+
+async function refreshReadersSay(storySlug = state.storyId || defaultStory.id) {
+  if (!cloudConfigured || !storySlug) {
+    if (state.readersSay?.length) setState({ readersSay: [] });
+    return;
+  }
+  try {
+    const latest = await cloudReviewStore.fetchLatest(storySlug, 3);
+    setState({ readersSay: latest });
+  } catch (err) {
+    console.warn('[reviews] readers say failed', err?.message || err);
+  }
+}
+
+const _reviewHydrateInflight = new Set();
+function maybeHydrateCloudReview(storySlug = state.storyId || defaultStory.id) {
+  if (!storySlug || isGuest(state.auth) || !cloudConfigured) return;
+  if (hasGuestReviewDecision(storySlug)) return;
+  if (_reviewHydrateInflight.has(storySlug)) return;
+  _reviewHydrateInflight.add(storySlug);
+  Promise.resolve(cloudReviewStore.getOwn(state.auth.userId, storySlug))
+    .then((own) => {
+      if (!own || hasGuestReviewDecision(storySlug)) return;
+      setGuestReview({
+        status: 'submitted',
+        storyId: storySlug,
+        stars: own.stars,
+        body: own.body || '',
+        displayName: own.displayName || 'Reader',
+        spice: own.spice === 'hot' ? 'hot' : 'warm',
+        createdAt: Date.now(),
+      });
+      setState({ reviewDraftStars: 0 });
+    })
+    .catch((err) => {
+      console.warn('[reviews] hydrate own failed', err?.message || err);
+    })
+    .finally(() => {
+      _reviewHydrateInflight.delete(storySlug);
+    });
+}
+
+function submitEndingReview() {
+  const storyId = state.storyId || defaultStory.id;
+  const stars = state.reviewDraftStars;
+  const errEl = app.querySelector('[data-testid="review-error"]');
+  if (!stars || stars < 1 || stars > 5) {
+    if (errEl) {
+      errEl.hidden = false;
+      errEl.textContent = 'Pick a star rating (1–5) to submit.';
+    }
+    return;
+  }
+  const bodyEl = /** @type {HTMLTextAreaElement | null} */ (
+    app.querySelector('[data-testid="review-body"]')
+  );
+  const nameEl = /** @type {HTMLInputElement | null} */ (
+    app.querySelector('[data-testid="review-display-name"]')
+  );
+  const body = (bodyEl?.value || '').trim().slice(0, REVIEW_BODY_MAX);
+  const spice = state.spice === 'hot' ? 'hot' : 'warm';
+  const displayName = defaultReviewDisplayName({
+    isGuest: isGuest(state.auth),
+    playerName: nameEl?.value || state.playerName,
+  });
+
+  const guestRecord = {
+    status: /** @type {const} */ ('submitted'),
+    storyId,
+    stars,
+    body,
+    displayName,
+    spice,
+    createdAt: Date.now(),
+  };
+  setGuestReview(guestRecord);
+
+  if (!isGuest(state.auth) && cloudConfigured) {
+    const record = createReviewRecord({
+      userId: state.auth.userId,
+      storySlug: storyId,
+      stars,
+      body,
+      displayName,
+      spice,
+    });
+    Promise.resolve(cloudReviewStore.upsert(record))
+      .then(() => refreshReviewAggregates())
+      .catch((err) => {
+        console.warn('[reviews] cloud upsert failed', err?.message || err);
+      });
+  }
+
+  setState({ reviewDraftStars: 0 });
 }
 
 function renderLanding() {
@@ -426,6 +576,7 @@ function renderLanding() {
                 <span class="story-card-body">
                   <span class="story-card-title">${escapeHtml(c.title)}</span>
                   <span class="story-card-blurb">${escapeHtml(c.blurb)}</span>
+                  ${renderCatalogStarLine(state.reviewAggregates[c.id])}
                 </span>
               </button>`;
             }).join('')}
@@ -512,6 +663,7 @@ function renderLanding() {
               ${chipsHtml}
             </ul>
             <span class="story-badge live cover-badge">${escapeHtml(entry.badge || '')}</span>
+            ${renderReadersSayStrip(state.readersSay)}
 
             <fieldset class="spice-meter cover-spice" data-testid="spice-meter">
               <legend class="visually-hidden">Spice level</legend>
@@ -567,7 +719,11 @@ function renderLanding() {
 
       <footer class="site-footer quiet">
         <p>Romance Forge · woodcut romance, forged by choice</p>
-        <p class="footer-contact"><a href="mailto:theromanceforge@gmail.com">theromanceforge@gmail.com</a></p>
+        <p class="footer-contact">
+          ${renderCsMailtoLink(entry.title, { className: 'cs-mailto footer-cs', testId: 'footer-cs-mailto', label: 'Contact CS' })}
+          <span class="footer-sep" aria-hidden="true">·</span>
+          <a href="mailto:${CS_EMAIL}">${CS_EMAIL}</a>
+        </p>
       </footer>
 
       <div class="sticky-begin" data-testid="sticky-begin" hidden>
@@ -588,6 +744,7 @@ function renderReader() {
   const raw = getSceneText(scene, spice);
   const body = substituteName(raw, state.playerName);
   const ending = isEnding(scene);
+  if (ending) maybeHydrateCloudReview(state.storyId || defaultStory.id);
   const choices = ending ? [] : getChoices(scene);
   const savePromptHtml = state.savePromptVisible
     ? `<aside class="save-prompt" data-testid="save-prompt" role="status">
@@ -609,9 +766,29 @@ function renderReader() {
        </button>`
     : '';
 
+  const storyTitle = story.title || entryTitleFor(state.storyId);
+  const guestDecision = getGuestReview(state.storyId || defaultStory.id);
+  const showReview = shouldShowReviewPrompt({
+    isEnding: ending,
+    hasDecision: Boolean(guestDecision),
+  });
+  const reviewHtml = ending
+    ? renderEndingReviewPanel({
+        storyId: state.storyId || defaultStory.id,
+        storyTitle,
+        spice: spice,
+        defaultDisplayName: defaultReviewDisplayName({
+          isGuest: isGuest(state.auth),
+          playerName: state.playerName,
+        }),
+        decision: showReview ? null : guestDecision,
+      })
+    : '';
+
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
          <p class="ending-note" data-testid="ending-note">The quiet isn't done with you.</p>
+         ${reviewHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
            Restart
          </button>
@@ -804,6 +981,7 @@ function bindEvents() {
       const id = btn.getAttribute('data-story-id');
       if (!id) return;
       setState({ storyId: id });
+      refreshReadersSay(id);
     });
   });
 
@@ -1018,6 +1196,42 @@ function bindEvents() {
     });
   });
 
+  app.querySelectorAll('[data-action="review-star"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const n = Number(btn.getAttribute('data-stars'));
+      if (!Number.isInteger(n) || n < 1 || n > 5) return;
+      state = { ...state, reviewDraftStars: n };
+      const hidden = /** @type {HTMLInputElement | null} */ (
+        app.querySelector('[data-testid="review-stars-value"]')
+      );
+      if (hidden) hidden.value = String(n);
+      app.querySelectorAll('[data-action="review-star"]').forEach((el) => {
+        const sn = Number(el.getAttribute('data-stars'));
+        el.classList.toggle('selected', sn <= n);
+        el.setAttribute('aria-pressed', sn === n ? 'true' : 'false');
+      });
+      const err = app.querySelector('[data-testid="review-error"]');
+      if (err) {
+        err.hidden = true;
+        err.textContent = '';
+      }
+    });
+  });
+
+  app.querySelectorAll('[data-action="review-skip"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const storyId = state.storyId || defaultStory.id;
+      dismissGuestReview(storyId);
+      setState({ reviewDraftStars: 0 });
+    });
+  });
+
+  app.querySelectorAll('[data-action="review-submit"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      submitEndingReview();
+    });
+  });
+
   app.querySelectorAll('[data-action="start-fresh"]').forEach((btn) => {
     btn.addEventListener('click', () => {
       clearGuestSave(state.storyId || defaultStory.id);
@@ -1222,6 +1436,10 @@ if (cloudConfigured) {
   });
 }
 
+// Phase 4: load public review aggregates (fail soft if schema missing).
+refreshReviewAggregates();
+refreshReadersSay(state.storyId || defaultStory.id);
+
 // Prefetch AdSense on boot when enabled (site verification + first interstitial).
 const bootAds = getAdsConfig();
 if (bootAds.enabled && bootAds.clientId) {
@@ -1245,7 +1463,10 @@ export {
   activeStory,
   localSaveStore,
   cloudSaveStore,
+  cloudReviewStore,
   cloudConfigured,
+  refreshReviewAggregates,
+  submitEndingReview,
   persistGuestProgress,
   loadGuestSave,
   clearGuestSave,
@@ -1260,3 +1481,17 @@ export { resumeSceneLabel, humanizeSceneId } from './save/resumeLabel.js';
 export { getAdsConfig, areAdsEnabled } from './ads/config.js';
 export { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
 export { getAdsStats } from './ads/stats.js';
+export {
+  shouldShowReviewPrompt,
+  csMailtoHref,
+  formatCatalogStars,
+  CS_EMAIL,
+} from './reviews/ui.js';
+export {
+  getGuestReview,
+  setGuestReview,
+  dismissGuestReview,
+  hasGuestReviewDecision,
+  REVIEW_BODY_MAX,
+} from './reviews/localStore.js';
+export { aggregateFromStars, createReviewRecord } from './reviews/supabaseStore.js';

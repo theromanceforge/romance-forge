@@ -1,6 +1,6 @@
 # Phase 4 — Reviews + CS (brief — lock before build)
 
-**Status:** **LOCKED** 2026-09-24 by CEO Jake (recommended defaults). **Not implemented** until GO.
+**Status:** **Implemented** (wiring) 2026-09-24 — CEO Jake GO. Guest path works without Supabase; cloud path requires applying `scripts/apply-reviews-schema.sql` (or `npm run schema:reviews`).
 
 **North star:** finished playthroughs leave a public signal (stars + short review) and a clear path to human CS — trust before algorithm push (Phase 5) and paid ad-less (Phase 6).
 
@@ -70,4 +70,13 @@ No photos, no cross-story dumps, no required account to leave a guest review (gu
 
 ## Go / no-go
 
-Do **not** implement until CEO Jake locks the three decisions above and says **go**.
+CEO Jake locked the three decisions and said **GO** (2026-09-24). Wiring shipped.
+
+### Apply cloud schema (staff)
+
+```bash
+npm run schema:reviews
+# or paste scripts/apply-reviews-schema.sql in Supabase SQL Editor
+```
+
+Guest local reviews work with no schema. Catalog public stars appear only after cloud reviews exist and the table is applied.
