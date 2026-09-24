@@ -8,7 +8,7 @@ export default {
 
 "Answer the boards," Will said quietly. Not soft as comfort. Soft as honesty without jewelry. "Leave Harborwick free—I respect the freedom. Pack the kept detail into a suitcase and walk inland cities that do not know Warehouse C by smell. I stay with the case as far as the badge requires. I do not chase your freedom into a second obstruction. Or stay in the fog—bittersweet pier—anniversary unfinished promise, hard sentences on these planks, us conjugating what you kept and what I will not dump yet while Renny's poster weather watches like a third judge."
 
-[player_name] tasted copper and salt. Leaving tasted like survival and also like sanding with prettier luggage. Staying tasted like loyalty and also like drowning on purpose in a city that had already failed her sister once. Attraction pressed under procedural dread.
+[player_name] tasted copper and salt. Leaving tasted like survival and also like sanding with prettier luggage. Staying tasted like loyalty and also like drowning on purpose in a city that had already failed her sister once. Attraction pressed under procedural dread: soap-and-salt nearness when his cracked knuckles brushed hers, unfinished almost-kisses from rain nights and hospital dawns and letter beds and festival crates that had no business surviving into this dawn.
 
 "If I leave," she said carefully, "I am choosing air over the braid."
 
