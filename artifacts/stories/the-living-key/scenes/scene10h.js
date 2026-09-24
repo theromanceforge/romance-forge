@@ -4,7 +4,7 @@ export default {
   title: "Open Secret \u2014 Calderyn knows the living-key cost; they endure the noise together",
   text: `Calderyn learned the living-key cost on a market morning under aurora-glass, and the noise did not end when the proclamations did. [player_name] stood on a temporary dais in a border city with Cassian Rook at her shoulder while traders, farmers, prefects, and children heard what Ashmere had buried for a century: the wards had been sung shut with living throats; candidates had been quieted; recognition was not confirmation; dual consensual bindings were the new craft; martyrdom-as-duty was a Collegium habit, not a law of stone.
 
-Open secret. No more polite fiction. Salt wind carried the words inland. Copper-bell rumor from Ashmere arrived late and apologetic. Isolde Vane's name drew boos and reluctant nods in equal measure. Bram Kestrel's supervised hymns became pamphlets. Maris Quill's survival became a story parents told as warning and hope. Lord Vesper Thorne remained temptation-shaped weather in some mouths and buried villain in others—never [player_name]'s lover; romance lock stayed on the mid-thirties battlemage whose glove never claimed her as seal.
+Open secret. No more polite fiction. Salt wind carried the words inland. Copper-bell rumor from Ashmere arrived late and apologetic. Isolde Vane's name drew boos and reluctant nods in equal measure. Bram Kestrel's supervised hymns became pamphlets. Maris Quill's survival became a story parents told as warning and hope. Lord Vesper Thorne remained temptation-shaped weather in some mouths and buried villain in others—never [player_name]'s lover.
 
 "They will hate us for days," Cassian murmured, scorched leather dark with road dust, brutal charm banked into public patience. "Then they will argue for years. Enduring the noise together is the point. Silence was the old weapon."
 
@@ -12,11 +12,11 @@ Open secret. No more polite fiction. Salt wind carried the words inland. Copper-
 
 A farmer spat. A mother cried. A prefect tried theater and got laughed down. Noise, honest and ugly. Calderyn endured it the way it endured thin harvests—by refusing to pretend the weather was kind.
 
-They traveled for weeks: market cities, farm towns, cliff villages that heard Unmade whispers first. Everywhere the same open secret, the same argument, the same evening collapse into rented rooms that smelled like soap and road and mid-want banked under duty. Cassian checked ward-lines at dawn. [player_name] answered questions until her voice frayed. At night they leaned forehead to forehead and let the continent's noise stay outside the door without letting silence rebuild Isolde's architecture between them.
+They traveled for weeks: market cities, farm towns, cliff villages that heard Unmade whispers first. Everywhere the same open secret, the same argument, the same evening collapse into rented rooms that smelled like soap and road and want banked under duty. Cassian checked ward-lines at dawn. [player_name] answered questions until her voice frayed. At night they leaned forehead to forehead and let the continent's noise stay outside the door without letting silence rebuild Isolde's architecture between them.
 
 "I love you louder in the noise," Cassian admitted once in an inn above aurora-glass. Sleep-scarred eyes. Blade-oil ghost on his hands. "Quiet used to mean I could hide the village I pushed into a breach. Noise means I stay visible. Soft rebuild in public. Soft rebuild with you."
 
-She kissed him soft. "Open Secret means we do not get a private happy ending that sandbags the farms. It means we endure gossip, fear, gratitude, and blame in the same week—and still choose each other's mornings."
+She kissed him soft. "It means we endure gossip, fear, gratitude, and blame in the same week—and still choose each other's mornings."
 
 Ashmere received them home like a house that had been forced to air its rooms. Copper bells hummed fracture-watch. Isolde filed reports. Prefects argued ethics in dining halls loud enough for stone to learn. The Unmade pressed. Calderyn knew. Knowing did not finish the war. Knowing finished the lie.
 
@@ -24,7 +24,7 @@ Evening in quarters above the lower wards: kettle, map, rainlight, his coat on h
 
 "Through the noise," Cassian answered.
 
-Outside, Veil Sea fog climbed the cliff stairs. Inland, aurora-glass cities argued themselves hoarse. Hope and dread shared every doorway on purpose. The ending was Open Secret: Calderyn knew the living-key cost; [player_name] and Cassian Rook endured the noise together; romance lock unbroken; personhood louder than harvest; a continent that preferred honest shouting to quieted throats.
+Outside, Veil Sea fog climbed the cliff stairs. Inland, aurora-glass cities argued themselves hoarse. Hope and dread shared every doorway on purpose.
 
 Noise had textures: gratitude that felt like pressure; blame that felt like salt; a child's question about whether living keys still got taken; Cassian's hand finding hers on a dais while she answered without becoming a saint. They endured town after town until enduring became a craft as real as ward-braids. Open secret meant no private exemption from the continent's mouth.
 
@@ -32,7 +32,7 @@ Back on Ashmere, pamphlets yellowed on their table like trophies that refused po
 
 Noise followed them home in letters—threats, thanks, theology, a child's drawing of a cracked charm holding a cliff. [player_name] pinned the drawing above the kettle and filed the threats with Collegium security without letting fear reseal the secret. Cassian read every letter once, then made her tea, then checked the lower wards because endurance included chores. Open secret meant the continent's mouth stayed open; their job was not to shut it, only to refuse becoming its sacrifice.
 
-They hosted a public Q&A on Ashmere's quay in spray and fog; questions cut; answers held; mid-want banked under duty until the crowd emptied and Cassian's eyes said quarters. Calderyn knew. Knowing did not finish wanting. Together did.`,
+They hosted a public Q&A on Ashmere's quay in spray and fog; questions cut; answers held; want banked under duty until the crowd emptied and Cassian's eyes said quarters. Calderyn knew. Knowing did not finish wanting. Together did.`,
   textHot: `Open secret made [player_name] wet in ways Assembly never scheduled—power, fear, and Cassian Rook's public glove on her wrist translating into heat she carried from market dais to inn bed without apology.
 
 Road dust. Aurora-glass. Mid-thirties battlemage shutting a rented door with velvet-blade hunger banked all day under pamphlets and boos. "Tell me the noise did not steal this," he said, already dragging her tunic up.
@@ -43,18 +43,18 @@ Cassian groaned and got her naked on a narrow bed that squeaked like gossip. Mou
 
 "Soaked for daylight truth," he muttered, fucking her in deep strokes that made the headboard kiss plaster. "Dripping for open secret. For enduring noise with me. Christ, [player_name]—"
 
-She locked her heels at his back and took every inch, coming again when he angled up—walls fluttering, pleasure and public cost braided, not gore. Cassian spilled with a curse at her charm, hips stuttering, mid-thirties control cracking.
+She locked her heels at his back and took every inch, coming again when he angled up—walls fluttering, pleasure and public cost braided. Cassian spilled with a curse at her charm, hips stuttering, mid-thirties control cracking.
 
-They fucked through the travel weeks like a second craft: quick and filthy after hostile markets; slow and reverent after towns that thanked them with bread; once against a bell-tower rail in rain with coats half-open and her cunt clenched around him while aurora-glass threw broken light on wet stone. Always asking. Always Cassian. Never Thorne. Romance lock unbroken in the noise.
+They fucked through the travel weeks like a second craft: quick and filthy after hostile markets; slow and reverent after towns that thanked them with bread; once against a bell-tower rail in rain with coats half-open and her cunt clenched around him while aurora-glass threw broken light on wet stone. Always asking. Always Cassian. Never Thorne.
 
 Home on Ashmere: shower steam, his fingers, her forehead on tile, coming on his hand while copper bells hummed and he murmured that Isolde would never believe accountability could look like this. Night tangled, sore, chosen. Pamphlets on the table. Charm warm. Seed cooling on her thighs until she laughed and dragged him into round two—riding him, breasts in his hands, grinding until she shook apart saying open secret like a filthy vow.
 
-Morning after: bad eggs, daylight cock soft then thickening when she licked salt from his fingers, slow rock until she came quiet with the continent still arguing outside. The ending, earned and explicit, was Open Secret—Calderyn knowing the cost, and [player_name] still shamelessly taking Cassian Rook through every noisy morning the old silence could no longer steal.
+Morning after: bad eggs, daylight cock soft then thickening when she licked salt from his fingers, slow rock until she came quiet with the continent still arguing outside.
 
 In a hostile market town they fucked silent in a shuttered room—her palm over her own mouth, his palm over hers when she got too loud, bodies slamming in shared spite against noise that wanted them saintly. [player_name]'s cunt clenched around Cassian's cock every time a shout rose from the street; she came at the ugliest cheer, laughing into his hand. He spilled shaking and kissed her knuckles.
 
-Travel weeks blurred into a map of inns and orgasms and pamphlets. Open secret made them shameless: want as endurance fuel, romance lock as public fact when he kissed her on a dais after Q&A, heat punched low, later cashed in rented sheets. Calderyn knew the cost. Their bodies knew each other louder.
+Travel weeks blurred into a map of inns and orgasms and pamphlets. Open secret made them shameless. Calderyn knew the cost. Their bodies knew each other louder.
 
-Quay spray still in her hair, he had her on the bed before coats dried—fingers first, then tongue, then cock, a sequence like craft. [player_name] came tasting salt, then came again on his cock with a pamphlet crinkling under her shoulder. They laughed. They kept going. Open Secret sex stayed a genre: public day, private ruin, sometimes his hand over her mouth when copper bells felt too close, always asking, always Cassian. She woke sore and proud. The continent's noise continued. So did they.`,
+Quay spray still in her hair, he had her on the bed before coats dried—fingers first, then tongue, then cock, a sequence like craft. [player_name] came tasting salt, then came again on his cock with a pamphlet crinkling under her shoulder. They laughed. They kept going. She woke sore and proud. The continent's noise continued. So did they.`,
   choices: []
 };

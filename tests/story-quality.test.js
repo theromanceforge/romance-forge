@@ -34,7 +34,7 @@ const ALLOW = [
 ];
 
 /** Stories whose cleanup has not landed yet (skipped by the hard checks). */
-const PENDING = new Set(['the-living-key', 'the-soft-alibi']);
+const PENDING = new Set(['the-soft-alibi']);
 
 const stories = {};
 for (const id of STORY_IDS) stories[id] = await loadStoryScenes(ROOT, id);
@@ -84,9 +84,10 @@ describe.each(STORY_IDS.filter((id) => !PENDING.has(id)))('story quality: %s', (
 
   it('has no truncated choice labels', () => {
     const bad = [];
+    const titles = Object.fromEntries(scenes.map((s) => [s.id, s.title]));
     for (const s of scenes) for (const c of s.choices || []) for (const f of FIELDS) {
       if (f === 'textHot' && !c[f]) continue;
-      if (isTruncatedLabel(c[f])) bad.push(`${s.id}→${(c.id || c.nextScene)}.${f}: ${JSON.stringify(c[f])}`);
+      if (isTruncatedLabel(c[f], titles[c.id || c.nextScene])) bad.push(`${s.id}→${(c.id || c.nextScene)}.${f}: ${JSON.stringify(c[f])}`);
     }
     expect(bad, fmt(bad)).toEqual([]);
   });

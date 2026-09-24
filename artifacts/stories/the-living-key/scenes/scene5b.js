@@ -30,7 +30,7 @@ He stood. Close. Not touching. “One path: you still play full cooperation—ma
 
 Cassian’s breath left him like a man struck cleanly. He hovered a gloved hand at her elbow—exit offered, choice left hers. “Then choose the verb. Withhold what she hasn’t earned. Or stay and let the map hit the floor while we find out whether trust can survive wanting.”
 
-Above them, Isolde’s brass key waited for dusk. Below them, the Veil Sea hid more than weather. Between them, mid-want and war shared a lamp-lit room, living-key truth still contested, Unmade still pressing, the next sentence already sharpening itself on Cassian Rook’s unfinished mouth.
+Above them, Isolde’s brass key waited for dusk. Below them, the Veil Sea hid more than weather. Between them, want and war shared a lamp-lit room, living-key truth still contested, Unmade still pressing, the next sentence already sharpening itself on Cassian Rook’s unfinished mouth.
 
 Salt wind worried the shutters and brought the Veil Sea’s cold up the cliff stairs in slow increments. Somewhere inland, Calderyn’s farmlands failed when outer wards thinned; the knowledge sat in [player_name]’s ribs beside want and duty, inseparable. Copper bells tasted the air for fracture and found enough to keep the Collegium awake.
 
@@ -40,32 +40,13 @@ Cassian’s sealed past lived in the room without needing the drawer to open: pa
 
 Living-key language remained contested fog—Bram’s half-translated hymns muttering around sacrifice without naming its shape clean, Maris Quill pale when bells thinned, Isolde’s martyrdom-as-duty pressed like silver thread. No full map. No confirmed lineage name for [player_name]. Ambiguity held on purpose.
 
-Lord Vesper Thorne stayed warm wine over broken glass in every honest pause: charismatic, terrifying, sometimes almost tender in rumor, never a second love interest while Cassian’s brutal charm held the romance lock. Temptation could knock. The door did not have to open.
+Lord Vesper Thorne stayed warm wine over broken glass in every honest pause. Temptation could knock. The door did not have to open.
 
-Practice-yard memory clung to [player_name]’s sleeves—ozone, chalk rain-smear, bruises that glowed faintly blue under impact. Ashmere was not a children’s school. Adults and late-bloomers trained because war did not wait for childhood, and mid-want did not wait for peacetime either.
-
-Trust under apocalypse pressure had a smell: scorched leather, spent magic, salt, old parchment. [player_name] breathed it and tried to decide whether usefulness was survival or a prettier word for surrender. The stones listened. The war listened harder.
-
-Hope and dread shared every doorway in the cliff fortress. Mid-want held the hinge. The next verb would cost access, innocence, or the last clean line between handler and hunger—and living-key truth would still not be finished when the bells changed watch.
-
-Salt wind worried the shutters and brought the Veil Sea’s cold up the cliff stairs in slow increments. Somewhere inland, Calderyn’s farmlands failed when outer wards thinned; the knowledge sat in [player_name]’s ribs beside want and duty, inseparable. Copper bells tasted the air for fracture and found enough to keep the Collegium awake.
-
-The cracked personal ward-charm at [player_name]’s throat warmed and cooled in uneven ticks, as if arguing with itself about which song to trust—Ashmere’s copper measure or the wrong frequency trial night had woken in the stone. She touched it once, private, and felt the almost-seal’s ghost under her sternum answer like a bruise.
-
-Cassian’s sealed past lived in the room without needing the drawer to open: paired battlemages, a border village eaten by a push meant to end Unmade whisper, Thorne walking away to rewrite honesty, Cassian staying to smile like a blade under Collegium inquiry. He would not dump the whole inventory tonight. Hints were enough to taste copper.
-
-Living-key language remained contested fog—Bram’s half-translated hymns muttering around sacrifice without naming its shape clean, Maris Quill pale when bells thinned, Isolde’s martyrdom-as-duty pressed like silver thread. No full map. No confirmed lineage name for [player_name]. Ambiguity held on purpose.
-
-Lord Vesper Thorne stayed warm wine over broken glass in every honest pause: charismatic, terrifying, sometimes almost tender in rumor, never a second love interest while Cassian’s brutal charm held the romance lock. Temptation could knock. The door did not have to open.
-
-Practice-yard memory clung to [player_name]’s sleeves—ozone, chalk rain-smear, bruises that glowed faintly blue under impact. Ashmere was not a children’s school. Adults and late-bloomers trained because war did not wait for childhood, and mid-want did not wait for peacetime either.
+Practice-yard memory clung to [player_name]’s sleeves—ozone, chalk rain-smear, bruises that glowed faintly blue under impact. Ashmere was not a children’s school. Adults and late-bloomers trained because war did not wait for childhood, and want did not wait for peacetime either.
 
 Trust under apocalypse pressure had a smell: scorched leather, spent magic, salt, old parchment. [player_name] breathed it and tried to decide whether usefulness was survival or a prettier word for surrender. The stones listened. The war listened harder.
 
-Hope and dread shared every doorway in the cliff fortress. Mid-want held the hinge. The next verb would cost access, innocence, or the last clean line between handler and hunger—and living-key truth would still not be finished when the bells changed watch.
-
-Salt wind worried the shutters and brought the Veil Sea’s cold up the cliff stairs in slow increments. Somewhere inland, Calderyn’s farmlands failed when outer wards thinned; the knowledge sat in [player_name]’s ribs beside want and duty, inseparable. Copper bells tasted the air for fracture and found enough to keep the Collegium awake.
-`,
+Hope and dread shared every doorway in the cliff fortress.`,
   textHot: `Cassian Rook’s quarters smelled of blade-oil, scorched leather, and rain working the shutter like fingers on a spine. One sealed drawer watched. One lamp. One bed too narrow for lies. [player_name]’s cracked charm ticked between her breasts, nipples tight, cunt already slick from corridor almost-kisses and Isolde’s interrupted seal. Cassian shut the door with his boot and looked at her like a fuck he was trying to file as strategy.
 
 “Say what you won’t put in her book,” he said, voice soft enough to feel on wet skin. “While we still have a night the Unmade hasn’t eaten.”
@@ -86,46 +67,29 @@ She leaned until her breasts brushed his face and the charm burned between them.
 
 Cassian groaned against her sternum, kissed the charm, kissed the hollow between her breasts, stopped with discipline that looked painful. “Then choose the verb. Withhold. Or let the map hit the floor while I find out whether you taste like ozone and salt when the stone answers wrong.”
 
-Rain ticked. Bells argued. Unmade pressed. Living-key fog held. [player_name] held mid-want like a live wire between Isolde’s brass key and Cassian’s unfinished mouth, thighs slick, Thorne temptation without romance lock broken—Cassian only, hard and waiting for her word.
+Rain ticked. Bells argued. Unmade pressed. Living-key fog held.
 
 Rain ticked the shutter like a second clock. [player_name]’s nipples ached against damp cloth; her cunt ached emptier. Cassian’s bedframe creaked when he sat on its edge and drew her to stand between his knees—eye-level with his mouth, dangerous geometry. He kissed the cracked charm first, then the hollow between her breasts, then stopped with a groan that vibrated through her ribs.
 
-“Off-record means I don’t put this in Isolde’s book,” he said against her skin. “It doesn’t mean I stop wanting to put my mouth where your song is loudest.” His hands bracketed her hips without pulling her onto his lap, cock hard and obvious between them, unfinished on purpose. “Tell me how much truth you can stand tonight. Then tell me if the map stays on the floor—or if we pretend war is the only thing allowed to touch us.”
+“Off-record means I don’t put this in Isolde’s book,” he said against her skin. “It doesn’t mean I stop wanting to put my mouth where your song is loudest.” His hands bracketed her hips without pulling her onto his lap, cock hard and obvious between them. “Tell me how much truth you can stand tonight. Then tell me if the map stays on the floor—or if we pretend war is the only thing allowed to touch us.”
 
-[player_name] threaded her fingers into his hair and held mid-want like a braid under tension. Living-key pages unfinished. Thorne unfinished. Sacrifice unfinished. Her body, catastrophically finished with pretending it didn’t want him. The choice waited wet and awake between intimacy with a ward-map on the floor and the colder mercy of war-only—while Ashmere’s bells kept score through salt fog and the Unmade pressed the cliff like a jealous god.
-
-[player_name]’s cunt ached with unfinished corridor promises; every shift of cloth was a reminder that Isolde’s almost-seal had woken something filthier than fear. Her nipples stayed tight under damp fabric. Cassian’s gaze kept dropping there like a man memorizing fracture lines on a body instead of a ward.
-
-When he spoke low, she felt the words between her legs. Handler voice. Battlemage voice. The voice of someone who had almost followed Thorne and now poured that almost into wanting her alive and wanting her, period, against better judgment. She went slicker for the honesty than for any clean romance script.
-
-His glove on her pulse was a filthy soft argument: not claiming as key, claiming as the man who would drag her out of silver thread even if it meant putting his hands on her in front of God and Collegium. [player_name] wanted those hands lower. She wanted them now. Mid-want made waiting feel like edged orgasm denied.
-
-Thorne’s frequency in the stone stroked her ribs and made her empty flutter as if song could find her clit; she refused to confuse that wrong music with Cassian’s heat. One was temptation without romance lock. The other was scorched leather and a cock restrained by duty and the sheer terror of repeating an old push.
-
-She imagined ward-maps on the floor and his mouth on her charm, on her breasts, on the wet seam of her through cloth until she came quiet enough that Isolde’s stones could not file the sound. The fantasy was plot, not garnish—it decided how much truth she could speak while aching.
-
-Blue-bruise memory from the yards braided with want: impact, correction, Cassian’s body teaching hers distance and then erasing it. Sex was not violence cosplay. War magic could be brutal. What she wanted from him was consent loud enough to drown silver thread.
-
-Living-key sacrifice stayed unmapped and that ambiguity somehow made her wetter—power still hers to refuse or reshape, not yet Isolde’s finished inventory. Cassian watching her mouth shape refusals was its own foreplay. She bit her lip and tasted copper and rain.
-
-Mid-want exits demanded she choose before climax: drip or admit, open or withhold, kiss through tape or leave it aching, alone or with him at Isolde’s door. Her body voted filthy for whichever verb kept his hands in the sentence. Hope and dread shared her cunt the way they shared Ashmere’s thresholds.
+[player_name] threaded her fingers into his hair and held want like a braid under tension. Living-key pages unfinished. Thorne unfinished. Sacrifice unfinished. Her body, catastrophically finished with pretending it didn’t want him. The choice waited wet and awake between intimacy with a ward-map on the floor and the colder mercy of war-only—while Ashmere’s bells kept score through salt fog and the Unmade pressed the cliff like a jealous god.
 
 [player_name]’s cunt ached with unfinished corridor promises; every shift of cloth was a reminder that Isolde’s almost-seal had woken something filthier than fear. Her nipples stayed tight under damp fabric. Cassian’s gaze kept dropping there like a man memorizing fracture lines on a body instead of a ward.
 
-When he spoke low, she felt the words between her legs. Handler voice. Battlemage voice. The voice of someone who had almost followed Thorne and now poured that almost into wanting her alive and wanting her, period, against better judgment. She went slicker for the honesty than for any clean romance script.
+When he spoke low, she felt the words between her legs. Handler voice. Battlemage voice. The voice of someone who had almost followed Thorne and now poured that almost into wanting her alive and wanting her, period, against better judgment.
 
-His glove on her pulse was a filthy soft argument: not claiming as key, claiming as the man who would drag her out of silver thread even if it meant putting his hands on her in front of God and Collegium. [player_name] wanted those hands lower. She wanted them now. Mid-want made waiting feel like edged orgasm denied.
+His glove on her pulse was a filthy soft argument: not claiming as key, claiming as the man who would drag her out of silver thread even if it meant putting his hands on her in front of God and Collegium. [player_name] wanted those hands lower. She wanted them now. Want made waiting feel like edged orgasm denied.
 
-Thorne’s frequency in the stone stroked her ribs and made her empty flutter as if song could find her clit; she refused to confuse that wrong music with Cassian’s heat. One was temptation without romance lock. The other was scorched leather and a cock restrained by duty and the sheer terror of repeating an old push.
+The other was scorched leather and a cock restrained by duty and the sheer terror of repeating an old push.
 
-She imagined ward-maps on the floor and his mouth on her charm, on her breasts, on the wet seam of her through cloth until she came quiet enough that Isolde’s stones could not file the sound. The fantasy was plot, not garnish—it decided how much truth she could speak while aching.
+She imagined ward-maps on the floor and his mouth on her charm, on her breasts, on the wet seam of her through cloth until she came quiet enough that Isolde’s stones could not file the sound.
 
-Blue-bruise memory from the yards braided with want: impact, correction, Cassian’s body teaching hers distance and then erasing it. Sex was not violence cosplay. War magic could be brutal. What she wanted from him was consent loud enough to drown silver thread.
+Blue-bruise memory from the yards braided with want: impact, correction, Cassian’s body teaching hers distance and then erasing it. War magic could be brutal. What she wanted from him was consent loud enough to drown silver thread.
 
 Living-key sacrifice stayed unmapped and that ambiguity somehow made her wetter—power still hers to refuse or reshape, not yet Isolde’s finished inventory. Cassian watching her mouth shape refusals was its own foreplay. She bit her lip and tasted copper and rain.
 
-Mid-want exits demanded she choose before climax: drip or admit, open or withhold, kiss through tape or leave it aching, alone or with him at Isolde’s door. Her body voted filthy for whichever verb kept his hands in the sentence. Hope and dread shared her cunt the way they shared Ashmere’s thresholds.
-`,
+Hope and dread shared her cunt the way they shared Ashmere’s thresholds.`,
   choices: [
     { id: "scene6b", text: "Full coop: she withholds one living-key page still", textHot: "Withhold one living-key page — then let him punish the risk with his mouth" },
     { id: "scene6c", text: "Off-record night: intimacy + ward-map on the floor", textHot: "Off-record night: put the ward-map on the floor and his mouth on your pulse" }

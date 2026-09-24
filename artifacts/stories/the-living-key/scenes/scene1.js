@@ -41,7 +41,7 @@ Cassian Rook came out of the fog as if weather had undressed him into the night:
 
 Maris's pale face flickered at the rail. Isolde's pen scratched like a nail on skin. [player_name] felt the choice settle between her ribs and lower: the training yard under dying bells where his hands would correct her stance until bruises glowed blue, or the archives where Bram's forbidden shelf and her cracked charm might explain why her magic had sounded like a Dark Sovereign's leftover hymn—while Cassian stood close enough that scorched leather and salt wind reached her tongue if she breathed deep.
 
-She did not lean. Not yet. Her pulse beat against the cracked charm and against the place his gaze had mapped. The terrace held them both, mid-want humming in the cracked song, and wanting Cassian Rook already felt like the most dangerous braid she had left.`,
+She did not lean. Not yet. Her pulse beat against the cracked charm and against the place his gaze had mapped. The terrace held them both, want humming in the cracked song, and wanting Cassian Rook already felt like the most dangerous braid she had left.`,
   choices: [
     { id: "scene2a", text: "Meet Cassian in the training yard", textHot: "Spar with Cassian in the training yard" },
     { id: "scene2b", text: "Follow the cracked charm to the archives", textHot: "Take the cracked charm into the archives" }

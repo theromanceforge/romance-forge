@@ -16,7 +16,7 @@ Isolde’s smile thinned. “Your invoice for theatrical mercy continues to accr
 
 “Bill me,” he said. “I’m here so she doesn’t become ink.”
 
-[player_name] tasted copper—spent magic’s aftertaste from the corridor hour that had bought this visit. She remembered Isolde’s brass dual-consent key, the almost-seal interrupted, Bram Kestrel’s half-translated hymns muttering around sacrifice without naming its shape clean. Living-key ambiguity locked itself again on purpose: no confirmation she was lineage; no clean monster-label for Thorne; no opened drawer in Cassian’s office where nearly-following-Thorne still lived like teeth. Hope and dread shared the ashwood doorway.
+[player_name] tasted copper—spent magic’s aftertaste from the corridor hour that had bought this visit. She remembered Isolde’s brass dual-consent key, the almost-seal interrupted, Bram Kestrel’s half-translated hymns muttering around sacrifice without naming its shape clean. Hope and dread shared the ashwood doorway.
 
 “Begin with Maris Quill,” Isolde said. “Soft nets. Burned letters. Fear walking the dining halls. How much of her panic did you feed, candidate, and how much did you inherit?”
 
@@ -38,7 +38,7 @@ Cassian’s mouth almost smiled—blade wrapped in velvet. Isolde’s gaze flick
 
 “Closeness,” Isolde said softly, and the word landed like a trap. “The assembly prefers martyrs to handlers with sealed inquiries in their files. Your file, Rook, still smells like a border village you will not name clean. Hers smells like a song that cracked our outer ward in a way that should have been impossible. Together you look like conspiracy dressed as devotion. Separately you look manageable. Which story do you intend to leave this room wearing?”
 
-[player_name] felt mid-want hum under her ribs—memory of his glove on her pulse in a corridor, breath at her jaw, unfinished sentences that politics kept interrupting. She did not gift Isolde that heat as evidence. She gifted stance.
+[player_name] felt want hum under her ribs—memory of his glove on her pulse in a corridor, breath at her jaw, unfinished sentences that politics kept interrupting. She did not gift Isolde that heat as evidence. She gifted stance.
 
 “I intend to leave wearing witness,” [player_name] said. “Not key. Not martyr. Not manageable. If your inquiry is about the Unmade pressing Calderyn, ask about ward-maps and prefect chains. If it is about collecting usefulness before the war finishes collecting us, say so in daylight and let the bells score the honesty.”
 
@@ -50,7 +50,7 @@ In the corridor, salt wind found them. Ozone lingered from someone’s failed mo
 
 “You spoke as witness,” he murmured. “Good. She’ll bill interest anyway. Next hinge is uglier: wear a listening braid into council while she stays seated and let her politics incriminate a prefect—or watch the braid fail and get made in front of every ashwood smile Ashmere owns.”
 
-[player_name] stood at the embrasure where Veil Sea fog hid more than weather. Her charm ticked. Cassian’s sealed past still lived behind one ashwood drawer he would not open tonight. Thorne remained warm wine over broken glass in rumor—charismatic, terrifying, sometimes almost tender, never Cassian’s rival for the romance lock. Bram’s unfinished refusal clauses still muttered around sacrifice without delivering clean edges. Maris’s fear still walked the dining halls. Living-key truth stayed contested on purpose.
+[player_name] stood at the embrasure where Veil Sea fog hid more than weather. Her charm ticked. Cassian’s sealed past still lived behind one ashwood drawer he would not open tonight. Thorne remained warm wine over broken glass in rumor. Bram’s unfinished refusal clauses still muttered around sacrifice without delivering clean edges. Maris’s fear still walked the dining halls. Living-key truth stayed contested on purpose.
 
 “If I braid listening,” [player_name] said, “I want you close enough to pull me out if the ward turns.”
 
@@ -58,24 +58,24 @@ In the corridor, salt wind found them. Ozone lingered from someone’s failed mo
 
 Ashmere’s corridor stones held cold the way cliff stone held salt: slowly, permanently, punishing anyone who mistook endurance for kindness. [player_name] counted breaths like braid-threads. Calderyn waited beyond fog with failing farmlands and dimming aurora-glass. The Unmade pressed like weather that had learned her name. Copper bells missed another interval overhead.
 
-She touched the cracked charm once more and felt Cassian watch the motion without coaching—brutal charm sanded to listening, handler and almost-lover held in the same body by war pressure. Mid-want hummed under duty like a third pulse. Hope and dread shared the embrasure. Ambiguity locked. The visit had bought quieter ink, not safety, and the next consequence-verb waited like a second climax denied: listening braid that incriminates a prefect—or listening braid that fails and makes her in front of council while Isolde’s ashwood patience bills the interest of every unfinished sentence between them.
+She touched the cracked charm once more and felt Cassian watch the motion without coaching—brutal charm sanded to listening, handler and almost-lover held in the same body by war pressure. Want hummed under duty like a third pulse. Hope and dread shared the embrasure.
 
 Practice yards still carried the smell of chalk and rain-smeared circles. Somewhere a ward-bell changed watch. Somewhere inland another quiet inch of song thinned. [player_name] did not open Cassian’s sealed drawer with her eyes. He did not name the border village. Thorne’s black sigil on the cliff face still remembered how to bloom without confessing whether it bloomed as revolution or hunger. Trust under apocalypse pressure smelled like spent magic, salt, old parchment, blade oil.
 
-“Choose with me,” Cassian said softly. “Listening that lands—or listening that breaks. I stay in the sentence either way.”
+“Choose with me,” Cassian said softly. “Listening that lands—or listening that breaks.”
 
-[player_name] looked at his scarred mouth and chose nothing yet—only stood in the hinge while Ashmere held its breath and formal inquiry’s aftertaste lingered like wax and copper on her tongue, want unfinished on purpose, living-key fog still contested, and the war refusing to pause for the woman who had visited Isolde as witness instead of prey.`,
+[player_name] looked at his scarred mouth and chose nothing yet.`,
   textHot: `Formal inquiry smelled like wax and the particular cold that made [player_name]’s nipples tighten under damp Collegium wool before Isolde Vane even finished saying sit. Ashwood. Ward-tape pulsing like a rival mouth. Brass dual-consent key in a dish like a dare. Copper bells wrong overhead. Cassian Rook opened the door without knocking—scorched leather, blade-oil, mid-thirties mouth set for war—and [player_name]’s cunt clenched on emptiness at the sheer competence of him walking her into Isolde’s theater as visitor instead of prey.
 
 “Candidate and handler,” Isolde said. “Sit.”
 
-They sat. [player_name] angled so she could watch both; Cassian took the nearer chair, glove creaking, thigh close enough that heat jumped her pulse. Her cracked charm ticked between her breasts hard enough to feel like a second clit. Mid-want from the corridor almost—his glove on her wrist, breath at her jaw—had never finished, and inquiry made the unfinishedness filthy.
+They sat. [player_name] angled so she could watch both; Cassian took the nearer chair, glove creaking, thigh close enough that heat jumped her pulse. Her cracked charm ticked between her breasts hard enough to feel like a second clit. Want from the corridor almost—his glove on her wrist, breath at her jaw—had never finished, and inquiry made the unfinishedness filthy.
 
 “Ask,” Cassian told Isolde, voice soft enough to feel on wet skin. “She answers as witness. I answer as handler. You do not reach for silver thread while either of us can see your hands.”
 
 Isolde billed theatrical mercy with her eyes. Cassian’s brutal charm made the invoice expensive. [player_name] went slicker for his restraint than she would have for a claim—watching him spend himself against politics the way she wanted him to spend himself against her: controlled pressure, no wasted motion, eyes that knew when to look at her mouth and when to deny them both in front of ashwood patience.
 
-Isolde asked about Maris, soft nets, bell-tower copper blood-rust, prefect whispers, the charm’s answer to Thorne’s name. [player_name] answered salt and bells and Cassian’s stance—refused to gift Headmistress ink the way her body answered when he spoke for her. Every time Isolde said frequency, [player_name]’s empty fluttered. Every time Cassian redirected, her thighs pressed tight under the desk’s polite shadow. Living-key nomenclature withheld; sacrifice map unfinished; Thorne still contested as monster or revolutionary—temptation without romance lock. Cassian only. Hope and dread shared her cunt the way they shared Ashmere’s thresholds.
+Isolde asked about Maris, soft nets, bell-tower copper blood-rust, prefect whispers, the charm’s answer to Thorne’s name. [player_name] answered salt and bells and Cassian’s stance—refused to gift Headmistress ink the way her body answered when he spoke for her. Every time Isolde said frequency, [player_name]’s empty fluttered. Every time Cassian redirected, her thighs pressed tight under the desk’s polite shadow. Living-key nomenclature withheld; sacrifice map unfinished; Thorne still contested as monster or revolutionary. Cassian only. Hope and dread shared her cunt the way they shared Ashmere’s thresholds.
 
 “Closeness,” Isolde said, soft trap, and [player_name] felt herself drip at the word because closeness was exactly what she wanted to practice against Collegium stone once this hour ended—his mouth on her charm, glove under wool, cock thick and restrained behind leather while she stayed witness instead of key.
 
@@ -97,15 +97,15 @@ His gloved palm settled at her waist, then pressed her hips toward his—not fuc
 
 “Then I want your hand in mine when council names me,” she breathed. “Not as leash. As the man who refuses to let made mean alone.”
 
-Cassian kissed the corner of her mouth—salt, unfinished on purpose—and stepped back as if distance were a ward he only half believed. [player_name] stayed slick, empty, insistent. Salt wind licked sweat at her throat. Blue-bruise glow climbed from the yards. Calderyn’s thinning wards waited beyond Veil Sea fog. Living-key fog held. Thorne’s wrong song stroked the cliff somewhere and made her ribs flutter; she refused to confuse that with Cassian’s heat. One was temptation. The other was a cock restrained by duty and the terror of repeating an old border push he still would not name clean.
+Cassian kissed the corner of her mouth—and stepped back as if distance were a ward he only half believed. [player_name] stayed slick, empty, insistent. Salt wind licked sweat at her throat. Blue-bruise glow climbed from the yards. Calderyn’s thinning wards waited beyond Veil Sea fog. Living-key fog held. Thorne’s wrong song stroked the cliff somewhere and made her ribs flutter; she refused to confuse that with Cassian’s heat. One was temptation. The other was a cock restrained by duty and the terror of repeating an old border push he still would not name clean.
 
-Sex was not violence cosplay. War magic could be brutal. What she wanted from him was consent loud enough to drown Isolde’s ink and still leave the living-key map unfinished on purpose. Mid-want refused tidy endings. Copper bells scored how stupid and necessary wanting him remained under war pressure.
+War magic could be brutal. What she wanted from him was consent loud enough to drown Isolde’s ink and still leave the living-key map unfinished. Copper bells scored how stupid and necessary wanting him remained under war pressure.
 
 She touched her charm and felt him watch like a man memorizing fracture lines on a body instead of a ward. “Choose with me. Listening that incriminates a prefect—or listening that breaks and makes me. Either way you’re not leaving me as her key. Either way I’m wet through the next hour.”
 
-His glance was a fuck held in check. “Either way I’ll be hard enough to hate myself for noticing while the Unmade presses the cliff.” He did not take her against the wall. The unfinishedness of that mercy made her wetter than a claim would have. Hope and dread shared her body. Romance lock held. Ambiguity locked. The hinge waited like a second climax denied: wear the listening braid into council and let Isolde’s politics land on a prefect—or watch the braid fail and get made while Ashmere’s rain-dark towers kept score above the hungry Veil Sea and formal inquiry’s wax still flavored her mouth with copper want.
+His glance was a fuck held in check. “Either way I’ll be hard enough to hate myself for noticing while the Unmade presses the cliff.” He did not take her against the wall. The unfinishedness of that mercy made her wetter than a claim would have. Hope and dread shared her body. The hinge waited like a second climax denied: wear the listening braid into council and let Isolde’s politics land on a prefect—or watch the braid fail and get made while Ashmere’s rain-dark towers kept score above the hungry Veil Sea and formal inquiry’s wax still flavored her mouth with copper want.
 
-At the embrasure, salt wind licked the sweat at [player_name]’s throat and did nothing to cool the slick heat between her thighs. Cassian’s unfinished almost—mouth, cock, glove—lived in phantom afterimage hard enough to make her breath break. She wanted to finish it against Collegium stone and knew finishing belonged to the next verb, not this withheld pulse after Isolde’s wax-seal theater.
+At the embrasure, salt wind licked the sweat at [player_name]’s throat and did nothing to cool the slick heat between her thighs. Cassian’s unfinished almost—mouth, cock, glove—lived in phantom afterimage hard enough to make her breath break.
 
 “You’re looking at me like the inquiry was optional,” he said roughly, eyes dropping to her mouth, then to the charm, then lower for one unprofessional heartbeat.
 
@@ -113,17 +113,15 @@ At the embrasure, salt wind licked the sweat at [player_name]’s throat and did
 
 Cassian’s hand found the stone beside her head—bracing, not trapping. Consent loud in the negative space. “Then keep that filth for the choice. Listening braid that lands means I watch your mouth while you steal council’s truth and try not to come apart from the magic alone. Listening that fails means I stand where every ashwood smile can see my hands when they name you.” His voice dropped. “Either way, afterward, off-record, we negotiate what my mouth owes your pulse.”
 
-[player_name] went slicker. She imagined his mouth on her charm, on her breasts, on the wet seam of her through cloth until she came quiet enough that Isolde’s stones could not file the sound. The fantasy was plot, not garnish—it decided how much truth she could carry while aching. Blue-bruise memory from the yards braided with want. Calderyn’s thinning wards somehow made her hungrier for the man who taught survival without promising salvation.
+[player_name] went slicker. Blue-bruise memory from the yards braided with want. Calderyn’s thinning wards somehow made her hungrier for the man who taught survival without promising salvation.
 
-Living-key ambiguity still contested; Thorne’s frequency still a rumor in her blood; Cassian’s sealed past still teeth behind one drawer—mystery as friction, danger as heat. Ashmere’s cliff held them above a hungry sea while [player_name] kept her heat like a ward-braid under tension—alive, unfinished, refusing tidy endings. Mid-want exits demanded she choose before climax. Her body voted filthy for whichever verb kept his hands in the sentence.
-
-She did not take the wall. He did not take her mouth fully. The ache was the point—and the plot. Copper bells changed watch overhead while Veil Sea fog hid more than weather and Isolde’s ashwood patience waited like a second climax denied. [player_name] held the hinge wet and unresolved: wear a listening braid that lets Isolde incriminate a prefect—or wear a listening braid that fails and makes her public, want finishing the argument somewhere ink could not follow while formal inquiry’s wax still flavored her tongue and Cassian’s restrained cock still argued duty against desire under scorched leather.
+She did not take the wall. He did not take her mouth fully. The ache was the point—and the plot. Copper bells changed watch overhead while Veil Sea fog hid more than weather and Isolde’s ashwood patience waited like a second climax denied.
 
 Practice-yard noise rose again—impact, correction, adult bruises glowing faint blue. [player_name]’s thighs stayed pressed; her charm stayed hot; her empty stayed insistent. “If I braid,” she said, voice rough, “and the magic rides my nerves the way wanting you rides them, don’t you dare look away.”
 
 “I won’t,” Cassian promised, and the promise landed lower than her navel. “I’ll look until you tell me to stop—or until council’s ward turns and looking becomes pulling you out. I’m not repeating an old push. I’m not leaving you as Isolde’s key. I’m also not saint enough to ignore how wet you get when I bill her for your quiet hour.”
 
-[player_name] laughed once, wrecked and private. Salt. Ozone. Blade-oil. Hope and dread sharing her body. Romance lock unbroken. Ambiguity locked on purpose. The Unmade pressed the cliff like weather with a mouth, and she chose nothing yet—only stood slick in the hinge while Ashmere scored mid-want with wrong copper intervals and the next consequence-verb waited to be spoken with her cunt still empty and his gloves still on.`,
+[player_name] laughed once, wrecked and private. Salt. Ozone. Blade-oil. Hope and dread sharing her body. The Unmade pressed the cliff like weather with a mouth, and she chose nothing yet.`,
   choices: [
     { id: "scene8i", text: "Listening braid: Isolde incriminates the prefect", textHot: "Listening braid: Isolde incriminates the prefect — steal truth wet while his glove stays ready" },
     { id: "scene8j", text: "Listening braid fails: she is made", textHot: "Listening braid fails: she is made — hold his hand when council names you" }

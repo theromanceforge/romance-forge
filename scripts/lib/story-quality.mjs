@@ -79,7 +79,7 @@ export const META_TERMS = [
   /\bhinge held\b/i, /\b(?:stood|stand|standing|stay(?:ed)?|live[ds]?|lived) (?:slick |wet )?in the hinge\b/i, /\bhinge of (?:mid-want|wanting|choice|scene)/i,
   /\bexits? (?:demanded|waited)\b/i, /\bchoose before climax\b/i,
   /\bambiguity lock/i, /\bambiguity locked\b/i, /\block (?:held|stayed)\b/i, /\bromance[- ]lock/i, /\bromance locked\b/i,
-  /\bpayoff\b/i, /\bthrough-line\b/i, /\bgarnish\b/i, /\bobsession-grade\b/i, /\bunderplot\b/i, /\bbody-true\b/i,
+  /\bpayoffs?\b/i, /\bthrough-line\b/i, /\bgarnish\b/i, /\bobsession-grade\b/i, /\bunderplot\b/i, /\bbody-true\b/i,
   /\bhook (?:as craft|ending)\b/i, /\bthe hook (?:set|sat|hung|held|was)\b/i, /\bevery scene\b/i, /\bscene's weather\b/i,
   /\bcraft (?:bar|of (?:this|the) (?:night|morning|ending))\b/i, /\bfilthy craft\b/i, /\bmid-want craft\b/i,
   /\b(?:was|stayed|had been|became) (?:the )?plot\b/i, /\bplot's engine\b/i, /\badvanced the plot\b/i, /\bthe plot (?:gets|paid)\b/i, /\bplot under the plot\b/i,
@@ -91,6 +91,10 @@ export const META_TERMS = [
   /\beroticized corpse\b/i, /\b(?:hung|hangs|hanging) as (?:the )?hook\b/i, /\bhook craft\b/i, /\ba hook, not a landing\b/i,
   /\bcraft demanded\b/i, /\bdenial as craft\b/i, /\bthe craft of the hour\b/i, /\bcraft was simple\b/i, /\bthe plot turn\b/i,
   /\bexits? hurt the way they were supposed to\b/i,
+  /\b(?:held|holding|walked|hold|holds) the hinge\b/i, /\bthe hinge (?:locked|sharpening|sharpened|of the choice)\b/i, /\bhinge locked\b/i,
+  /\blate[- ]layers?\b/i, /\bfor layers\b/i, /\bvoted filthy for whichever\b/i, /\bthe ambiguity was the point\b/i,
+  /\bsecrets planted early\b/i, /\bno (?:hallway |ash )?dumps?\b/i, /\b(?:not|never) (?:fully )?dumped\b/i, /\bkey never only\b/i,
+  /\bwithout romance invitation\b/i, /\b(?:martyrdom|romance) script\b/i, /^\s*Trust under apocalypse pressure\.\s*$/, /\brefus\w* tidy endings?\b/i,
 ];
 
 /**
@@ -141,7 +145,7 @@ export function findLabelMeta(label, storyId = "", extra = [], allow = []) {
 }
 
 /** Truncated / malformed label: unbalanced brackets or quotes, or ends on a dangling fragment. */
-export function isTruncatedLabel(label) {
+export function isTruncatedLabel(label, targetTitle = "") {
   const t = String(label || "").trim();
   if (!t) return true;
   const count = (re) => (t.match(re) || []).length;
@@ -150,6 +154,11 @@ export function isTruncatedLabel(label) {
   if (count(/"/g) % 2) return true;
   if (count(/“/g) !== count(/”/g)) return true;
   if (/[,;:(—–-]\s*[a-z]?$/.test(t)) return true;
+  // cut-off copy of the target scene's title ("… ledger names the living-key linea")
+  if (targetTitle) {
+    const tt = String(targetTitle).trim();
+    if (tt.length > t.length && tt.startsWith(t) && /\w$/.test(t) && /^\w/.test(tt.slice(t.length))) return true;
+  }
   return false;
 }
 

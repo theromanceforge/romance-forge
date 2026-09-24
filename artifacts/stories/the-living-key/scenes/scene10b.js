@@ -4,7 +4,7 @@ export default {
   title: "Soft Rebuild \u2014 love with one sealed page of Cassian\u2019s past still healing",
   text: `Rain needled Ashmere's high glass for three days after the wards stopped screaming, and [player_name] learned that survival did not arrive as a clean victory parade. It arrived as soft rebuild: shared mornings, supervised hymns Bram Kestrel fed the Collegium in careful doses, Isolde Vane's harvest architecture dismantled plank by plank—and one sealed page in Cassian Rook's past that still refused to open all the way.
 
-His quarters smelled like blade-oil and kettle steam. The ward-map on the floorboards had been half-erased by sock-feet and mid-want. Calderyn held thinner than the dual-binding dreams Assembly liked to invent, but it held. The Unmade pressed at the honest maps without rewriting the continent overnight. Copper bells hummed fracture-watch instead of emergency. That was enough to live inside.
+His quarters smelled like blade-oil and kettle steam. The ward-map on the floorboards had been half-erased by sock-feet and want. Calderyn held thinner than the dual-binding dreams Assembly liked to invent, but it held. The Unmade pressed at the honest maps without rewriting the continent overnight. Copper bells hummed fracture-watch instead of emergency. That was enough to live inside.
 
 Cassian sat on the edge of the bed with his scorched leather coat across his knees like a patient who knew the exam was unfinished. Mid-thirties. Sleep closer than it had been in years. Brutal charm banked low. The sealed Collegium inquiry—the early breach, the border village, the civilians the whisper ate when he pushed to end it—lived in a drawer he had shown her enough of to stop lying and not enough of to finish healing.
 
@@ -14,7 +14,7 @@ His mouth twitched—velvet over a blade that had learned to rest. "One page sta
 
 She crossed the room and took his hands—callused, warm, still faintly scorched at the knuckles from practice. "Deal. We remake the mornings. We interrupt Isolde when she reaches for quieted candidates. We let Maris Quill live with her scars without making her a sermon. And when you are ready for the last page, I will be in the room. Not as Warden-candidate. As the woman who chose you after the war stopped screaming."
 
-Outside, Veil Sea fog climbed the cliff stairs. Practice yards glowed with faint blue bruises of old drills. Lord Vesper Thorne remained temptation-shaped rumor on distant stone—warm wine over broken glass, never a second romance lock. The romance stayed here: unfinished healing, finished choosing.
+Outside, Veil Sea fog climbed the cliff stairs. Practice yards glowed with faint blue bruises of old drills. Lord Vesper Thorne remained temptation-shaped rumor on distant stone. The romance stayed here: unfinished healing, finished choosing.
 
 Afternoon took them to the lower wards where Bram supervised a shelf that no longer pretended the century-wall was purely noble. Isolde watched from a balcony with copper patience that had lost interest rates. Prefects argued ethics loud enough for bells to taste. [player_name] spoke when asked—recognition without confirmation, living-key fog named without inventing belonging—and Cassian's glove stayed visible at her wrist like a vow that interrupted seals.
 
@@ -32,7 +32,7 @@ The ending was this: [player_name] and Cassian Rook choosing love with one seale
 
 Soft rebuild had errands. [player_name] learned them like craft: buy salt fish before the quay sold out; check thin ward-tape on the lower stairs; sit with Cassian through the hour after midnight when village bells lived in his jaw whether he wanted them or not. She did not demand the last page on those nights. She put her palm on his sternum and counted breath until his brutal charm returned as a man instead of a blade.
 
-Isolde tested the soft edges with a proposal to "temporarily" reinstate candidate quieting under another name. [player_name] and Cassian answered in Assembly with daylight verbs. Maris stood with them. Bram brought footnotes. The proposal died ugly and useful. Calderyn's farms sent a letter thanking someone for sleep; the letter smelled like dirt and aurora-glass polish. [player_name] pinned it above the kettle.
+Isolde tested the soft edges with a proposal to "temporarily" reinstate candidate quieting under another name. Maris stood with them. Bram brought footnotes. The proposal died ugly and useful. Calderyn's farms sent a letter thanking someone for sleep; the letter smelled like dirt and aurora-glass polish. [player_name] pinned it above the kettle.
 
 On a rain morning Cassian almost opened the sealed page, then stopped, eyes wet without performance. "Not yet," he said. "Soon is not a lie. Soon is a pace." She kissed the corner of his mouth and made toast that burned. Soft rebuild included burnt toast. It included wanting him while repair stayed incomplete. It included love that did not require a finished wound to cash the vow.`,
   textHot: `Rain on Ashmere's glass made [player_name] wet before Cassian Rook finished saying soft rebuild—body answering the man whose sealed page still healed while his mouth already knew how to ruin her patiently. Want was not the unfinished part. Trust was. Trust made her cunt ache around the honesty.
@@ -47,7 +47,7 @@ He flipped her onto the bed with handler care that did not apologize for hunger.
 
 "Look at me," he ordered, velvet-blade low. Grey-dark eyes on hers. "I am not using your body to bury the page. I am using my mouth to remind you we are alive while it heals."
 
-Then his mouth was on her—tongue flat on her clit, fingers steady, scarred brow between her thighs like devotion with teeth. She came hard and shaking, thighs locked around his ears, moaning his name into rainlight while copper bells hummed fracture-watch outside. Not gore. Not violence cosplay. A body allowed to want beside a wound that was still honest.
+Then his mouth was on her—tongue flat on her clit, fingers steady, scarred brow between her thighs like devotion with teeth. She came hard and shaking, thighs locked around his ears, moaning his name into rainlight while copper bells hummed fracture-watch outside. A body allowed to want beside a wound that was still honest.
 
 Cassian shoved his trousers down and pushed into her slow while she was still fluttering—thick stretch, heat blooming, forehead to forehead. "Soaked for soft rebuild," he muttered, half laugh, half curse. "Dripping for a man who still has a sealed drawer and a woman who stays anyway."
 
