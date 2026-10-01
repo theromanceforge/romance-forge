@@ -2,176 +2,164 @@ export default {
   id: "scene5g",
   layer: 5,
   title: "Name the Creditor",
-  text: `The name hung in the warm air leaking from Henry's front room—half a word, half a warning—and [player_name] turned back before John could finish saying tomorrow.
+  text: `The name hung in the warm air leaking from Henry's front room, half a word, half a warning. [player_name] turned back before John could finish saying tomorrow.
 
-"No," she said. Rain needled the porch rail. Boxwood breathed wet green up the steps. "We do not come back for it. We take it now."
+"No," she said. Rain needled the porch rail. "We don't come back for it. We take it now."
 
-John's grey eyes cut to her. Something like fear and gratitude shared a face. Clara's pencil had stopped mid-stroke inside; through the gap in the door [player_name] saw the girl frozen in the archway, sketchbook hugged to her ribs, charcoal crescent dark on her knuckle. Henry stood near the grate, mouth still shaped around the syllable he had not completed.
+John's grey eyes cut to her. Fear and gratitude shared his face. Through the gap in the door she saw Clara frozen in the archway, sketchbook hugged to her ribs. Henry stood near the grate, mouth still shaped around the syllable he hadn't finished.
 
-[player_name] pushed the door wider and stepped into lemon polish and woodsmoke and the copper edge of a confession that had already bruised once tonight. The letter she still held—Henry's I thought you should know—had done its work as exhibit. Now she needed a surname.
+[player_name] pushed the door wider and stepped into lemon polish and woodsmoke. The letter in her hand had done its work as evidence. Now she needed a surname.
 
 "Say the rest," she told Henry. Not loud. Not soft. "You started a name. Finish it. The creditor who still shadows this family. The one on the winter pages Clara found. The one your voice flinched from when you thought we were already gone."
 
-Henry aged in the firelight. "If I say it, you will do something irreversible."
+Henry aged in the firelight. "If I say it, you'll do something irreversible."
 
-"You already did something irreversible," John said from the threshold. He did not fully enter yet—coat dripping, burn scar pale at his cuff—holding the door as if he might still drag [player_name] toward the diner if the next minute went wrong. "Fifteen years of irreversible. Say the name, Uncle."
+"You already did something irreversible," John said from the threshold. He hadn't fully come in. His coat dripped, and he held the door as if he might still drag her toward the diner if the next minute went wrong. "Fifteen years of irreversible. Say the name, Uncle."
 
-Clara's voice, thin and steady: "I circled a V three times in the ledger margins. I erased it twice because I was scared of being wrong. Don't make me invent him."
+"I circled a V three times in the ledger margins," Clara said, thin and steady. "I erased it twice because I was scared of being wrong. Don't make me invent him."
 
-The mantel clock ticked. Rain sheeted the windows. [player_name] smelled cold tea gone bitter on the side table and the sweet-dust of ledger paper under the glass weight. Emotion arrived under that: the old swallowed-coin shame of having agreed to become the exit wound; the fierce gladness that she had indicted Henry with her own mouth tonight; the dread of a surname that would make the debt walk and talk.
+The mantel clock ticked. [player_name] smelled cold tea gone bitter on the side table. Under it ran the old swallowed-coin shame of having agreed to be the exit wound, and the dread of a surname that would make the debt walk and talk.
 
 "Voss," Henry said.
 
-The word dropped like a plate.
+The word dropped like a plate. Clara made a small sound. John's hand tightened on the doorframe until the wood creaked. [player_name] felt the name enter her body the way cold rain did, immediate, rewriting the temperature of the room.
 
-Clara made a small sound. John's hand tightened on the doorframe until the wood creaked. [player_name] felt the name enter her body the way cold rain did—immediate, unavoidable, rewriting the temperature of the room.
+"Thomas Voss," Henry went on, his voice frayed raw. "Not a bank. A man who lent to men who couldn't go to banks. Your father—" he looked at John "—signed when pride still thought it could outrun interest. The ice took him before the debt finished eating. I made promises at a hospital bedside I didn't have the money for. Voss collected in threats first. Then in paper. Then in the kind of silence that makes a town invent prettier stories."
 
-"Thomas Voss," Henry went on, voice frayed raw. "Not a bank. A man who lent to men who could not go to banks. Your father—" he looked at John "—signed when pride still thought it could outrun interest. The ice took him before the debt finished eating. I made promises at a hospital bedside I did not have money for. Voss collected in threats first. Then in paper. Then in the kind of silence that makes a town invent prettier stories."
+"What did he threaten?" [player_name] asked.
 
-"What did he threaten?" [player_name] asked. Specific. No hymn.
+Henry's hands opened and closed. "The diner. Clara's guardianship, if anything looked unstable. Your name, John, dragged through county talk as the son of a man who borrowed from the wrong pocket." His eyes found [player_name]. "And you. As leverage, because you were already standing too close to us, already willing to carry weight that wasn't yours. I paid what I could. I arranged what I couldn't pay. I put a suitcase on a platform and called it mercy."
 
-Henry's hands opened and closed. "The diner. Clara's guardianship if anything looked unstable. Your name, John—dragged through county talk as the son of a man who borrowed from the wrong pocket. And her—" his eyes found [player_name] "—as leverage, because you were already standing too close to us, already willing to carry weight that was not yours. I paid what I could. I arranged what I could not pay. I put a suitcase on a platform and called it mercy."
+John stepped fully inside. Water ran from his jacket onto Henry's clean floor, and he didn't apologize. "Is he still collecting?"
 
-John stepped fully inside. Water ran from his jacket onto Henry's clean floor and he did not apologize. "Is he still collecting?"
+"Shadows collect," Henry said. "There are numbers that still answer. There's a balance I've been bleeding toward in quiet installments. I told myself finishing it alone was love. Clara's pages say otherwise."
 
-"Shadows collect," Henry said. "There are numbers that still answer. There is a balance I have been bleeding toward in quiet installments. I told myself finishing it alone was love. Clara's pages say otherwise."
+Naming Voss wasn't the end of the night. It was the door into what to do with a living ghost.
 
-The turn sharpened: naming Voss was not the end of the night.
+John looked at [player_name]. Not asking her to soften anything. Asking where she stood now that the syllable had become a man. Under his hard mouth she saw the boy who had been protected into ignorance and the man who ran Market Street on burnt coffee and stubborn care. She wanted to touch him. She didn't, not yet. Touch would become comfort, and comfort could become another cover.
 
-It was the door into what to do with a living ghost.
+"There's money left to settle," Henry said. "I can take you to it. Show you the ledger lines that still move. Pay what remains with you watching, so you know it ends." His voice cracked toward hope and hated itself for it. "Or you refuse my money and make me say all of this to John without buying myself an easier way out."
 
-John looked at [player_name]—not asking her to soft-pedal, asking where she stood now that the syllable had become a man. His mouth was a hard line. Under it, she saw the boy who had been protected into ignorance and the man who ran Market Street on burnt coffee and stubborn care. She wanted to touch him. She did not—not yet. Touch would become comfort; comfort could become another cover if they were not careful.
+Clara set her sketchbook down hard enough to make the paperweight tremble. "Don't buy anything with us as the change," she said. "I'm sixteen, not stupid."
 
-"There is money left to settle," Henry said. "I can take you to it. Show you the ledger lines that still move. Pay what remains with you watching so you know it ends." His voice cracked toward hope and hated itself for hoping. "Or you refuse my money and demand I say all of this to John without me buying a softer landing. I hear both hungers in this room."
+The fire popped. [player_name] tasted woodsmoke and the metallic brightness of Voss finally sitting in the air where ambition used to be.
 
-Clara set her sketchbook down hard enough to make the paperweight tremble. "Don't buy anything with us as the change," she said. "I am sixteen, not stupid."
+John's voice went quiet and dangerous. "He's offering a road trip to guilt's ATM. Or his mouth telling me the rest without a receipt to hide behind." He looked at her. "[player_name], you forced the name. You decide what we do with it. I'll follow either way. I won't follow a third, softer option where we sleep and pretend the surname didn't just walk in."
 
-Rain hammered. The fire popped. [player_name] tasted woodsmoke and the metallic bright of Voss sitting finally in the air where ambition used to be.
-
-John's voice went quiet and dangerous. "He offers a road trip to guilt's ATM. Or he offers his mouth telling me the rest without a receipt to hide behind. [player_name]—" her name like a live wire "—you forced the name. You finish the fork. I will follow either blade. I will not follow a third soft option where we sleep and pretend the surname did not just walk in."
-
-Henry waited, wrecked open. Clara waited, charcoal on her jaw. John waited with water still dripping from his sleeves onto the boards, eyes on [player_name]'s mouth as if the next sentence might come from her body before her ethics.
-
-[player_name] felt fifteen winters gather. She could go with Henry—settle the ghost debt in daylight numbers, close what still shadowed the Shaws with her as witness. Or refuse his money cold and demand only the truth spoken to John, raw, no purchase, no installment that let anyone pretend paper could replace speech.
-
-Henry's lips parted again—on more explanation, more sanding—
+Henry's lips parted again, on more explanation.
 
 "Don't," John said to him, without looking away from [player_name]. "She has the floor."
 
-Firelight caught the glass weight and threw a pale oval onto Henry's cheek. [player_name] walked to the side table, set the letter down beside the cold tea, and left it unfolded—face-up, crease sharp, no pocket to hide in. "You wrote around him," she said. "Clara drew over him. John lived under him without a noun. I am done with shadows that only have a first letter."
+Firelight caught the glass weight and threw a pale oval onto Henry's cheek. [player_name] set the letter down beside the cold tea and left it unfolded, face-up, crease sharp. "You wrote around him," she said. "Clara drew over him. John lived under him without a noun. I'm done with shadows that only have a first letter."
 
-Henry nodded once, wrecked. "Voss kept a room above the old feed store on County until the store closed. After that, a P.O. box. After that, calls to a diner phone that was not always this diner. I have the last number. I have not dialed it in eleven months. I told myself the silence meant finished. Installments say otherwise."
+Henry nodded once, wrecked. "Voss kept a room above the old feed store on County until the store closed. After that, a P.O. box. After that, calls to a diner phone that wasn't always this diner. I have the last number. I haven't dialed it in eleven months. I told myself the silence meant finished. The installments say otherwise."
 
 "Show me the number," John said.
 
-"If I show you, you will call tonight."
+"If I show you, you'll call tonight."
 
-"If you don't show me, I will find it in Clara's photocopy and call anyway," John answered. "Difference is whether you stand in the room while I do."
+"If you don't, I'll find it in Clara's photocopy and call anyway," John answered. "The difference is whether you stand in the room while I do."
 
-Clara flipped her sketchbook open to a margin dense with blue circles. "Page seventeen. Exchange penciled on the back of a receipt. I thought it was a grocery note until the V showed up in the ledger." She did not hand it over yet. She looked at [player_name]. "You called the name out of him. You say who touches the number first."
+Clara flipped her sketchbook open to a margin dense with blue circles. "Page seventeen. An exchange penciled on the back of a receipt. I thought it was a grocery note until the V showed up in the ledger." She didn't hand it over. She looked at [player_name]. "You called the name out of him. You say who touches the number first."
 
-The room tightened. [player_name] felt John's attention like a hand at her nape—steady, asking. Desire lived under the dread as unfinished heat from the indictment walk: his arm under hers on the porch, the burn scar through cloth, the almost of a kiss deferred for truth. Warmth kept it yearning, not spent. The fork still waited: money-road with Henry, or speech-road that refused purchase.
+The room tightened. John's attention settled on her like a hand at her nape, steady, asking. Desire lived under the dread: his arm under hers on the porch, the burn scar through cloth, a kiss deferred for truth.
 
-"I can drive at first light," Henry offered. "Not a chase. A closing. You beside me so I cannot tidy the numbers mid-route."
+"I can drive at first light," Henry offered. "Not a chase. A closing. You beside me, so I can't tidy the numbers along the way."
 
-"Or you can stay in that chair," [player_name] said, "and tell John every threat Voss made in the order he made them, without offering me a seat in your truck as penance."
+"Or you can stay in that chair," [player_name] said, "and tell John every threat Voss made, in the order he made them, without offering me a seat in your truck as penance."
 
 John's mouth twitched. "She has you boxed. Good."
 
-The name Voss lay face-up on the night like a page no one could turn back over. [player_name]'s pulse hammered. The choice hurt already: settle beside the man who built the cover, or strip the cover further and make John hear every ugly line without a checkbook as cushion. Outside, Willow Lane shone black. Inside, the unfinished kiss of earlier advocacy and indictment still lived between her and John as heat they had not spent—and the creditor's name waited for what she would do with it before morning made the town invent its own ending.
+"I need you to understand," Henry tried, quieter. "Settling isn't erasing. Speaking isn't settling. Both cost. I'm asking which cost you want me to pay in front of you tonight."
 
-She thought of the glove box Henry still flinched from, of bank slips clipped with a bobby pin in Clara's stack, of Market Street's morning crowd inventing ambition out of a suitcase. Naming Voss had changed the weather in the Shaw house; it had not yet changed who got to narrate what came after. John's drip-drip on the floorboards counted seconds with the mantel clock. Clara wiped charcoal on her jeans and left a dark smear like a signature. Henry looked at the paperweight as if neatness might still save him and found only glass.
+"You're asking her to choose your penance," John said. "Hurry, Uncle, or she'll choose one you didn't budget for."
 
-"I need you to understand," Henry tried, quieter. "Settling is not erasing. Speaking is not settling. Both cost. I am asking which cost you want me to pay in front of you tonight."
-
-"You're asking her to pick your penance," John said. "Pick faster, Uncle—or she will pick a penance you did not budget for."
-
-Henry's hand twitched toward the paperweight—toward covering something, anything—
+Henry's hand twitched toward the paperweight, toward covering something, anything.
 
 "Leave it face-up," [player_name] said.
 
-He froze. The number still unspoken in Clara's book. The truck keys somewhere in a kitchen dish. John dripping on the floor, waiting on her mouth. Voss newly born into the room and already demanding a next move. [player_name] felt the unanswered question like a knock: settle beside Henry, or refuse his money and make John hear the rest without a receipt. She did not get a soft landing. Only the name, the heat she had not spent, and a choice that would hurt to walk away from either way.`,
+He froze. The number sat unspoken in Clara's book. The truck keys waited somewhere in a kitchen dish. John dripped on the floor, watching her mouth. Voss had been born into the room a minute ago and already demanded a next move, and every eye in the house was on [player_name], waiting to see which cost she would make Henry pay.`,
   textHot: `The half-name leaked through the door with the heat, and [player_name] felt it in her teeth. She turned before John finished saying tomorrow, coat swinging, rain needling her mouth.
 
-"No," she said. "We do not come back for it. We take it now."
+"No," she said. "We don't come back for it. We take it now."
 
-John's hand found her hip as she pushed inside—grip hard, thumb digging in through wet cloth like he needed her body to stay upright while the night got uglier. Clara frozen in the arch. Henry by the grate, mouth still shaped around the unfinished syllable. Lemon polish. Woodsmoke. [player_name]'s pulse sat between her legs as much as in her throat; indictment had left her shaking and sharp and stupidly aware of John's heat at her back.
+John's hand found her hip as she pushed inside. His grip was hard, thumb digging in through wet cloth, as if he needed her body to stay upright while the night got uglier. Clara stood frozen in the arch. Henry was by the grate, mouth still shaped around the unfinished syllable. [player_name]'s pulse sat between her legs as much as in her throat. Accusing Henry had left her shaking and sharp and stupidly aware of John's heat at her back.
 
 "Say the rest," she told Henry. "The creditor. The winter pages. The name you flinched from."
 
-Henry: "If I say it, you will do something irreversible."
+"If I say it," Henry said, "you'll do something irreversible."
 
-"You already did," John said from the threshold, dripping. His voice rough. His body angled toward [player_name] even while he spoke to his uncle—cock still half-interested from the porch almost, grief and want refusing to queue, both honest. "Say the name."
+"You already did," John said from the threshold, dripping. His body angled toward [player_name] even while he spoke to his uncle, grief and want refusing to take turns. "Say the name."
 
-Clara: "I circled a V three times. Don't make me invent him."
+"I circled a V three times," Clara said. "Don't make me invent him."
 
 "Voss," Henry said.
 
-The word hit [player_name] like a hand on bare skin. She sucked a breath. John's fingers convulsed on her hip hard enough to bruise; she leaned into the hurt because it kept her here.
+The word hit [player_name] like a hand on bare skin. She sucked in a breath. John's fingers convulsed on her hip hard enough to bruise. She leaned into the hurt, because it kept her here.
 
-"Thomas Voss." Henry frayed. "Not a bank. Your father signed when pride outran interest. Ice took him. I promised at a bedside. Voss collected in threats. Paper. Silence. He threatened the diner. Clara's guardianship. Your name in county talk. And her—" eyes on [player_name] "—as leverage, because she stood close enough to carry weight. I paid. I arranged. I put a suitcase on a platform and called it mercy."
+"Thomas Voss." Henry frayed. "Not a bank. Your father signed when pride outran interest. The ice took him. I made promises at a bedside. Voss collected in threats, then paper, then silence. He threatened the diner. Clara's guardianship. Your name in county talk." His eyes went to [player_name]. "And her. As leverage, because she stood close enough to carry the weight. I paid. I arranged. I put a suitcase on a platform and called it mercy."
 
 John stepped in. Water on clean boards. No apology. "Is he still collecting?"
 
-"Shadows collect. Numbers that still answer. Balances I bleed toward in quiet installments. Clara's pages say my alone was not love."
+"Shadows collect," Henry said. "Numbers that still answer. A balance I've been bleeding toward in quiet installments. Clara's pages say doing it alone wasn't love."
 
-[player_name] felt John move behind her—chest to her shoulder blades, rain-cold jacket against her spine, the thick fact of his cock brushing her ass as he crowded close without meaning to perform it. He cursed under his breath. "Sorry," he muttered into her hair, not sorry. "Hearing him sell your body as leverage makes me want to fuck you in this room just to prove he does not get to narrate what you're for. I won't. Clara's here. But my cock did not get the memo."
+John moved in behind her, chest to her shoulder blades, rain-cold jacket against her spine. She felt the thick fact of his cock brush her ass as he crowded close, not meaning to, not able to stop. He cursed under his breath.
 
-She reached back and gripped his thigh—high, warning and claim—and felt him shudder. "Hold it," she whispered. "Use it as fuel. Not as escape."
+"Sorry," he muttered into her hair, not sorry. "Hearing him call you leverage makes me want to fuck you right here, just to prove he doesn't get to say what you're for. I won't. Clara's here. My cock didn't get the memo."
 
-"There is money left," Henry said, wretched. "I can take you to settle it. Watch me pay. Know it ends." Crack toward hope. "Or refuse my money and demand I say all of this to John without buying a softer landing."
+She reached back and gripped his thigh, high, warning and claim at once, and felt him shudder. "Hold it," she whispered. "Use it as fuel. Not as escape."
 
-Clara slammed the sketchbook down. Paperweight trembled. "Don't buy anything with us as the change."
+"There's money left," Henry said, wretched. "I can take you to settle it. Watch me pay. Know it ends." His voice cracked toward hope. "Or you refuse my money and make me say all of this to John without buying myself an easier way out."
 
-John's mouth found the hinge of [player_name]'s jaw—open, wet, unfinished—then tore away as if the contact burned. "He offers a road to guilt's ATM. Or his mouth telling me the rest without a receipt." Voice against her skin. "You forced the name. You finish the fork. I will follow either blade. After either blade I am putting my hands on you somewhere this house cannot sand—because if I don't I will break something that isn't furniture." His palm splayed on her belly under her coat, hot, possessive, inches above where she was wet for him despite Voss and winter and the whole rotting quiet. "Feel that? That is not distraction. That is me refusing to let this surname make you into leverage again. Choose, [player_name]. Settle the ghost with him—or refuse his money and make him fuck the truth into the open with words only. I stay hard for both. I stay yours for both."
+Clara slammed the sketchbook down. The paperweight trembled. "Don't buy anything with us as the change."
 
-Henry's lips parted—more sanding—
+John's mouth found the hinge of [player_name]'s jaw, open and unfinished, then tore away as if the contact burned. "He's offering a road trip to guilt's ATM," he said against her skin. "Or his mouth telling me the rest without a receipt. You forced the name. You decide. I'll follow either way."
+
+His palm slid under her coat and splayed on her belly, hot, hidden, inches above where she was wet for him despite Voss and winter and the whole rotting quiet. "Feel that? That isn't distraction. That's me refusing to let this surname make you leverage again. After this, I'm putting my hands on you somewhere this house can't reach. If I don't, I'll break something that isn't furniture."
+
+Henry's lips parted on more explanation.
 
 "Don't," John said, eyes on [player_name]'s mouth. "She has the floor."
 
-Firelight threw a pale oval onto Henry's cheek. [player_name] walked to the side table, set the letter face-up beside cold tea, and felt John follow so close his chest brushed her back when she stopped. His hand returned to her belly under the coat—hot palm, claim without apology.
+Firelight threw a pale oval onto Henry's cheek. [player_name] walked to the side table and set the letter face-up beside the cold tea. John followed so close his chest brushed her back when she stopped.
 
-"You wrote around him," she said to Henry, voice steady while her body was not. "Clara drew over him. John lived under him without a noun. I am done with shadows that only have a first letter."
+"You wrote around him," she said to Henry, her voice steady while her body wasn't. "Clara drew over him. John lived under him without a noun. I'm done with shadows that only have a first letter."
 
-Henry: "Voss kept a room above the old feed store. Then a P.O. box. Then calls to a diner phone. I have the last number. Eleven months quiet. Installments say otherwise."
+"Voss kept a room above the old feed store," Henry said. "Then a P.O. box. Then calls to a diner phone. I have the last number. Eleven months quiet. The installments say otherwise."
 
-"Show me the number," John said into [player_name]'s hair as much as to his uncle.
+"Show me the number," John said, into her hair as much as to his uncle.
 
-"If I show you, you will call tonight."
+"If I show you, you'll call tonight."
 
-"If you don't, I find Clara's photocopy and call anyway." John's pinky edged lower, teasing the button of her jeans. [player_name]'s breath hitched; her cunt clenched. He stopped at the button, held the threat of opening it like a second conversation. "Difference is whether you stand in the room while I do."
+"If you don't, I find Clara's photocopy and call anyway. The difference is whether you stand in the room while I do."
 
-Clara flipped to blue circles. "Page seventeen. Exchange on a receipt back. You called the name out of him, [player_name]. You say who touches the number first."
+Clara flipped to a page of blue circles. "Page seventeen. The exchange is on the back of a receipt." She looked at [player_name]. "You called the name out of him. You say who touches the number first."
 
-John murmured, only for her, filthy and shaking: "Say settle and I take my hand out of your clothes and get in his truck like a civil nephew. Say refuse and I keep my hand here while he talks until he runs out of sand—then I take you to the diner and fuck you against the prep counter until Voss is only a name we outlasted with our bodies. Both are loyalty. Both are desire. Pick the risk."
+John's murmur was only for her, filthy and shaking. "Say settle, and I get in his truck like a civil nephew and keep my hands to myself till it's done. Say refuse, and I stand right here while he talks until there's nothing left to soften. Then I take you to the diner and fuck you against the prep counter until Voss is only a name we outlasted."
 
-Henry offered first light, a drive, closing. [player_name] heard herself answer the shape of the fork even before she chose: truck as penance, or chair and raw speech with John's fingers one button from her cunt as witness.
+"I can drive at first light," Henry offered. "A closing. You beside me."
 
-"Or you stay in that chair," she said to Henry, "and tell John every threat in order—without offering me a seat in your truck as penance."
+"Or you stay in that chair," [player_name] said, "and tell John every threat in order, without offering me a seat in your truck as penance."
 
-John's mouth twitched against her temple. "She has you boxed. Good. Fuck, I love your spine." His cock pressed her ass once, deliberate now—punctuation—and stilled.
+John's mouth twitched against her temple. "She has you boxed. Good. God, I love your spine."
 
-Voss lay face-up in the air. [player_name]'s cunt ached from adrenaline and John's hand on her belly and the unfinished kiss at her jaw. Go with Henry and close the debt in numbers—or refuse the checkbook and demand John hear every ugly line raw. The creditor's name waited. John's cock waited against her, a filthy vow. Henry's next soft sentence waited unborn. She had to move before any of them got tidy.
+She thought of the glove box, Clara's bobby-pinned slips, morning gossip inventing ambition out of a suitcase. And of John's hot palm under her coat, low enough that one deep breath would put his fingers at her waistband. Naming Voss had changed the weather. It hadn't changed how badly she wanted to turn in his arms somewhere locked and remind them both they weren't leverage.
 
-She thought of the glove box, of Clara's bobby-pinned slips, of morning gossip inventing ambition out of a suitcase—and of John's hand under her coat, pinky dangerously low, close enough to the waistband of her jeans that one deep breath would put his fingers where her cunt was already slick from fear and loyalty braided. Naming Voss had changed the weather; it had not changed how badly she wanted to turn in John's arms and get on her knees in a locked room to remind them both they were not leverage.
+"I need you to understand," Henry tried. "Settling isn't erasing. Speaking isn't settling."
 
-"I need you to understand," Henry tried. "Settling is not erasing. Speaking is not settling."
+"You're asking her to choose your penance," John said. "Hurry, Uncle, or she'll choose one you didn't budget for."
 
-"You're asking her to pick your penance," John said, and his pinky edged under denim just enough to make [player_name]'s breath break. He stopped. Held. Did not retreat. "Pick faster, Uncle—or she picks a penance you did not budget for while I stand here with my hand in her clothes because the alternative is putting my fist through your mantel."
+Henry's hand twitched toward the paperweight.
 
-Henry's hand twitched toward the paperweight—
+"Leave it face-up," [player_name] said.
 
-"Leave it face-up," [player_name] said, and pushed back into John's cock on purpose, one grind, mean with need, then stopped. He groaned into her shoulder. Clara pretended sudden interest in her charcoal. Henry went white.
+Henry went white. Clara bent over her charcoal, pencil hovering. [player_name] turned her head and caught John's mouth for half a second, tongue and promise, then broke it, because finishing would have been escape.
 
-The number waited in Clara's book. The truck keys waited in a dish. John's fingers waited on her jeans button. Voss waited, newly named. [player_name]'s cunt was slick against cotton; her mouth still owed John a kiss he had torn away unfinished. Settle the ghost in his truck—or refuse the money and make Henry talk while John's hand finished what the button promised.
+"After," she whispered. "Whichever road. You don't get to disappear into useful rage."
 
-She turned her head enough to catch John's mouth with hers for half a second—tongue, spit, promise—then broke it because finishing would have been escape. "After," she whispered. "Either road. You don't get to disappear into useful rage."
+"I won't," he said, forehead to hers, still hard against her. "I'll get mean or I'll get on my knees for you. Depends which way you go."
 
-"I won't," he said, forehead to hers, cock still a thick line against her. "I will get mean or I will get on my knees for you after. Depends what you pick. Fuck, just pick."
-
-No soft landing. Only filth and ledger and a choice that hurt to leave unchosen.
-
-Clara's pencil hovered. The mantel clock stabbed another second into [player_name]'s ribs. She had to speak before Henry found a softer noun for Voss.`,
+The number waited in Clara's book. The truck keys waited in a dish. Her mouth still burned where his had been, and the mantel clock stabbed another second into her ribs. She had to speak before Henry found a softer noun for Voss.`,
   choices: [
     { id: "scene6j", text: "Ride with Henry — settle Voss's ghost debt in daylight numbers", textHot: "Ride with Henry — settle Voss's ghost debt, then spend the shake on John" },
     { id: "scene6k", text: "Refuse his money — force the raw truth into John's ears only", textHot: "Refuse his money — force the raw truth into John's ears, then into his mouth" }

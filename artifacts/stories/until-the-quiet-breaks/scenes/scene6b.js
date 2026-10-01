@@ -4,126 +4,138 @@ export default {
   title: "Ugliest Page Held",
   text: `The ugliest page lived in [player_name]'s coat pocket like a second heart that beat wrong.
 
-She had shown John almost everything Clara circled—ledger numbers, Voss's name three times then never, Henry's sanded drafts, the ticket stub, the note that absence would be cleaner. She had watched his burn scar whiten on the paper edges. She had weathered the crack in his voice when he read for him aloud. And she had kept one sheet folded small against her ribs: the page that named the hospital ask in Henry's rawest handwriting, the line that said the girl will carry the story so the boy does not learn how close ruin came, and beneath it, in a different ink, a sum that made the forty-eight thousand look like a polite beginning.
+She had shown John almost everything Clara circled. The ledger numbers. Voss's name three times, then never. Henry's softened drafts. The ticket stub. The note that absence would be cleaner. She had watched his burn scar whiten on the paper edges and weathered the crack in his voice when he read for him aloud.
 
-Rain argued with the Market Street awning. The CLOSED sign held. Fryer oil ticked toward cold. John sat across from her in the booth now—not thigh-to-thigh, a deliberate half-foot of laminate between them—as if distance could keep the remaining honesty from finishing what the first stack started. Coffee steamed forgotten. The cracked counter stool leaned its half-degree left beyond the booth like a witness with bad posture.
+And she had kept one sheet folded small against her ribs. The page that named the hospital request in Henry's rawest handwriting. The line that said the girl will carry the story so the boy does not learn how close ruin came. And beneath it, in a different ink, a sum that made the forty-eight thousand look like a polite beginning.
 
-"You're still holding something," John said. Not a guess. A read. Grey eyes on the shape in her coat. "I can see it in how you breathe. Same way you breathed at twenty when you were about to become a cleaner story than winter deserved."
+Rain argued with the awning. The CLOSED sign held. John sat across from her in the booth now. Not thigh to thigh. A deliberate half-foot of laminate between them, as if distance could keep the remaining honesty from finishing what the first stack started.
 
-[player_name] tasted copper and old rain. "I am protecting you one more hour."
+"You're still holding something," John said. Not a guess. A read. His grey eyes went to the shape in her coat. "I can see it in how you breathe. Same way you breathed at twenty, when you were about to become a cleaner story than winter deserved."
 
-"From what? Another number? Another name?" His laugh was short, ugly. "Voss already walked into the booth. Henry's kindness already showed its teeth. What is left that you think my hands cannot hold?"
+[player_name] tasted copper and old rain. "I'm protecting you one more hour."
 
-She did not answer at once. Sensory first: vinyl cooling under her palms; lemon cleaner ghosting from the prep board; woodsmoke memory of Willow Lane braided oddly with diner grease because secrets traveled between addresses. Then emotion: the fierce, stupid tenderness that had made her say yes at twenty; the shame of repeating the motion at thirty-five with better vocabulary and the same pocket. Then the turn—plot refusing to stay folded.
+"From what? Another number? Another name?" His laugh was short and ugly. "Voss already walked into the booth. Henry's kindness already showed its teeth. What's left that you think my hands can't hold?"
 
-"It is the page where Henry writes what he asked me in the front room," she said carefully. "Not the sanded version. The one where he admits the creditor's shadow would eat the Shaw name if the town learned how the debt sat beside your father's body. The one where my agreement is itemized like a line on an invoice. The one where he notes that telling you then would have made you a different kind of orphan." Her throat worked. "Clara circled the edges. She did not circle the center hard enough. Or she did, and I took the center out before your eyes finished the autopsy."
+She didn't answer at once. The vinyl cooled under her palms. The same stupid tenderness that had made her say yes at twenty was back, and so was the shame of repeating the motion at thirty-five with better vocabulary and the same pocket.
 
-John went still. Outside, a freight horn complained toward the yard. Inside, the pie case hummed. He extended his hand across the laminate, palm up—not gentle. Demanding.
+"It's the page where Henry writes what he asked me in the front room," she said carefully. "Not the softened version. The one where he admits the creditor's shadow would eat the Shaw name if the town learned how the debt sat beside your father's body. The one where my agreement is itemized like a line on an invoice. The one where he notes that telling you then would have made you a different kind of orphan."
 
-"Show me."
+Her throat worked. "Clara circled the edges. She didn't circle the center hard enough. Or she did, and I took the center out before you finished reading."
+
+John went still. A freight horn complained toward the yard. He extended his hand across the laminate, palm up. Not gentle. Demanding.
+
+"Show me," he said.
 
 "Not yet."
 
-"That is Henry's sentence," John said, voice flat as a ticket total. "Not yet. Kindness. Cleaner. You are wearing his coat again and calling it love."
+"That's Henry's sentence," John said, flat as a ticket total. "Not yet. Kindness. Cleaner. You're wearing his coat again and calling it love."
 
-The accusation landed. [player_name] flinched because it was partly true and because her body still leaned toward him even while her pocket burned. "I am wearing an hour," she said. "One hour where you get to stand up from this booth without the ugliest line already living behind your teeth. One hour where Clara's second reading might tell me whether the center means what I think it means. I have been wrong about protection before. I am trying not to be wrong the same way twice—and also trying not to weaponize a page just because I can."
+The accusation landed. [player_name] flinched, because it was partly true, and because her body still leaned toward him even while her pocket burned.
 
-John's jaw flexed. He pulled his hand back. Braced both palms on the table edge until the burn scar went white. "You think Clara will sand it softer?"
+"I'm wearing an hour," she said. "One hour where you get to stand up from this booth without the ugliest line already living behind your teeth. One hour for Clara to read it and tell me whether the center means what I think it means. I've been wrong about protection before. I'm trying not to be wrong the same way twice. And I'm trying not to use a page as a weapon just because I can."
 
-"I think Clara draws what she sees," [player_name] said. "I think her charcoal does not love me enough to lie. If I take her the page, she will tell me whether I am holding a knife or a key. If I show you now, the hour dies and the knife is just a knife in your hands."
+John's jaw flexed. He pulled his hand back and braced both palms on the table edge until the scar went white. "You think Clara will soften it?"
 
-"Maybe I need the knife." He stood. Paced toward the pie case and back, boots soft on mats still damp at the edges from rain tracked earlier. Coffee and clean work-sweat moved with him. Wanting moved with him too—visible in how he looked at her mouth and then away as if eye contact were another page he was not ready to turn. "You left once with protection as your excuse. You are sitting here with a fold in your coat and the same excuse wearing a newer dress. Do you hear yourself?"
+"I think Clara draws what she sees," [player_name] said. "Her charcoal doesn't love me enough to lie. If I take her the page, she'll tell me whether I'm holding a knife or a key. If I show you now, the hour dies, and the knife is just a knife in your hands."
 
-"I hear myself," she said. She slid out of the booth and stood within arm's reach without closing the last inch. The not-closing roared. "I also hear the part of me that watched you choke on the first stack and thought—cruelly, tenderly—that one more blow before dawn might break something that cannot be sketched back together. Clara found the crack. I am asking whether I use the ugliest page to widen it or to understand it."
+"Maybe I need the knife."
 
-John stopped pacing. Close enough that she smelled rain on his shirt. Close enough that anger and wanting shared breath again. "Widen it," he murmured. "That is what truth does. Understanding is what Henry called sanding."
+He stood and paced toward the pie case and back, boots soft on the damp mats. Wanting moved with him. It showed in how he looked at her mouth, then away, as if eye contact were another page he wasn't ready to turn. "You left once with protection as your excuse. Now you're sitting here with a fold in your coat and the same excuse in a newer dress. Do you hear yourself?"
+
+"I hear myself." She slid out of the booth and stood within arm's reach without closing the last inch. "I also hear the part of me that watched you choke on the first stack and thought, cruelly, tenderly, that one more blow before dawn might break something that can't be sketched back together. Clara found the crack. I'm asking whether I use this page to widen it or to understand it."
+
+John stopped pacing, close enough that she smelled rain on his shirt. "Widen it," he murmured. "That's what truth does. Understanding is what Henry called it when he smoothed things over."
 
 "Sometimes," [player_name] said. "Sometimes understanding is what keeps a person from swinging a page like a verdict before they know who it sentences."
 
-Silence filled the closed diner. Rain sheeted the glass. The mop bucket exhaled bleach. John's hand rose—hovered near the pocket over her heart—dropped without taking. The unfinished theft of the page burned hotter than a bruise.
+Silence filled the closed diner. John's hand rose and hovered near the pocket over her heart, then dropped without taking. The unfinished theft burned hotter than a bruise.
 
-"If you show me," he said, "I will read every word. I will not thank you for the hour you stole first. I will decide what justice looks like with the center in daylight. If you take it to Clara—" His eyes flicked toward Market Street, toward the dark that led, eventually, to Willow and woodsmoke and a sister with charcoal under her nails. "—then you are choosing her eyes before mine. Again. Different shape. Same order of who gets to know."
+"If you show me," he said, "I'll read every word. I won't thank you for the hour you stole first. I'll decide what justice looks like with the center in daylight."
 
-[player_name]'s pulse hammered against the folded paper. "Clara already knows enough to circle. I am asking her to read the center with me so I do not decide alone whether this page owns me or I own it."
+His eyes flicked toward Market Street, toward the dark that led eventually to Willow and a sister with charcoal under her nails. "If you take it to Clara, you're choosing her eyes before mine. Again. Different shape. Same order of who gets to know."
 
-"Owns you," John repeated. He laughed once, cracked. "Listen to the verb. The page already owns you. That is why it is in your pocket instead of on the table. Show me anyway before the ownership finishes—or admit you are still practicing exile in smaller doses."
+Her pulse hammered against the folded paper. "Clara already knows enough to circle. I'm asking her to read the center with me, so I don't decide alone whether this page owns me or I own it."
 
-She could feel the hook assembling: not a soft land, not a tidy moral, only the hurt of an unanswered question pressed to bodily want. His mouth was close. Her body remembered the almost. The pocket rustled when she breathed. Voss's shadow lived on the folded sheet beside Henry's raw ask; the town outside kept dripping into gutters as if Somerton had weather enough for everyone else's sins.
+"Owns you," John repeated. He laughed once, cracked. "Hear what you just said. It already owns you. That's why it's in your pocket instead of on the table. Show me before it finishes owning you. Or admit you're still practicing exile in smaller doses."
 
-"I am afraid," [player_name] said, plain. "Afraid that if you read it you will look at me and see the invoice, not the woman. Afraid that if Clara reads it first she will sketch me into a villain with better handwriting than Henry. Afraid that protection is still my favorite drug and I am high on an hour I have not earned."
+"I'm afraid," [player_name] said plainly. "Afraid that if you read it, you'll look at me and see the invoice, not the woman. Afraid that if Clara reads it first, she'll sketch me into a villain with better handwriting than Henry. Afraid protection is still my favorite drug, and I'm high on an hour I haven't earned."
 
-John's forehead nearly touched hers. Stopped short. Habit of a careful man. "Then spend the fear on a choice," he said. "Not on another costume. Show me the page anyway—before it owns the rest of the night, before Henry knocks with sanded mercy, before I put my mouth on yours and forget there is paper between us. Or walk it to Clara while your pocket is still honest about what it hides, and let her second reading decide whether I get the center at dawn or not at all."
+John's forehead nearly touched hers, then stopped short. The habit of a careful man.
 
-His pulse showed at his throat. Hers answered against folded ink. The blue door held. The cracked stool leaned. Outside, slate roofs dripped. Inside, the ugliest page waited to become either a shared wound or a sister's verdict.
+"Then spend the fear on a choice," he said. "Not on another costume. Before Henry knocks with his softened mercy. Before I put my mouth on yours and forget there's paper between us."
 
-"Pick," John said, voice rough. "Before I reach into your coat myself and call the reaching love. Before the hour you bought with silence becomes another fifteen years wearing a smaller clock. Before I stop being able to tell wanting you from wanting the truth that lives against your ribs."
+Mae's lamp still glowed faintly down Market Street through the rain-smeared glass, a small domestic star that didn't know about Voss or folded centers.
 
-The unfinished touch hung near her pocket. Rain hammered. The exit hurt: Did she trust him with the knife, or trust Clara's charcoal with the center—and either road left her body leaning toward a man who had not forgiven the fold, and a question that refused to soft-land before the choice.
+"You asked for presence," she said. "Ugly presence. Holding this page is presence with a coward's pocket. I'm naming that. I'm not proud of it. I'm also not ready to pretend that dumping every truth at once is the only moral shape in the world."
 
-Mae's lamp still glowed faintly down Market Street through the rain-smeared glass, a small domestic star that did not know about Voss or folded centers. [player_name] thought of Clara's charcoal hands, of Henry's woodsmoke kitchen, of the mantel clock that had counted fifteen years of quieter lies. She thought of John's unfinished mouth and the way protection had always tasted like leaving even when she stayed in the room.
+"Then give it a shape that isn't Henry's," John answered. "An hour of silence is just the old coat again."
 
-"You asked for presence," she said. "Ugly presence. Holding this page is presence with a coward's pocket. I am naming that. I am not proud of it. I am also not ready to pretend that every truth dumped at once is the only moral shape in the world."
+His voice roughened. "Decide before I reach into your coat myself and call the reaching love. Before I stop being able to tell wanting you from wanting the truth against your ribs."
 
-"Then give the page a moral shape that is not Henry's," John answered. "Show or Clara. Those are shapes. An hour of silence is just the old coat again."
+The fluorescent lights flickered once. In the dish pit, a faucet dripped into steel. [player_name] pressed the pocket flat and felt the paper's corners bite. His hand hovered an inch from hers, open, and the whole diner seemed to wait on whether she would put the page in it or button her coat and walk out into the rain toward Clara.`,
+  textHot: `The ugliest page lived in [player_name]'s coat pocket like contraband against her breast. Every breath rubbed paper over a nipple already tight from watching John choke on the first stack.
 
-The fluorescent lights flickered once. Rain found a new rhythm. Somewhere in the dish pit a faucet dripped into steel—the same sink that had held spilled winters and cooling oil and the ghost of every closing John had worked without her. The diner smelled like coffee and bleach and the metallic edge of a secret that had outgrown its fold.
+She had shown him almost everything. Voss. The numbers. The softened drafts. The ticket. All of it while his thigh burned against hers and she ached with timing too filthy for a ledger reading. Then she had folded the center small and hidden it. The hiding had done something to both of them. It put a half-foot of laminate between their knees. It put his eyes on the shape over her heart. It put her pulse in a race with ink.
 
-[player_name] pressed the pocket flat with her palm and felt the paper's corners bite. The bite was almost a relief. Pain, at least, did not pretend to be kindness.`,
-  textHot: `The ugliest page lived in [player_name]'s coat pocket like contraband against her breast, and every breath rubbed paper over a nipple already tight from watching John choke on the first stack.
+"You're still holding something," John said, low. "I can see it in how your chest moves. Same tell as when you were about to leave me for my own good."
 
-She had shown him almost everything—Voss, the numbers, the sanded drafts, the ticket—while his thigh burned against hers and her cunt ached with timing too filthy for a ledger reading. Then she had folded the center small and hidden it, and the hiding had done something to both of them: put a half-foot of laminate between their knees, put his eyes on the shape over her heart, put her pulse in a race with ink.
+"I'm protecting you one more hour."
 
-"You're still holding something," John said. Voice low. "I can see it in how your chest moves. Same tell as when you were about to leave me for my own good."
+"Say that again with my hand on the pocket and see if it still sounds like love."
 
-"I am protecting you one more hour."
+He came around the booth without asking. Rain ticked the awning. He set his palm flat over the fold, over paper and bra and the frantic beat beneath, and pressed until she gasped. "There. Protection with a body count. What's on the page, [player_name]?"
 
-"Say that again with my hand on the pocket and see if it still sounds like love." He came around the booth, not asking. Rain ticked the awning. Fryer oil popped once in the vat. He set his palm flat over the fold—over paper, over bra, over the frantic beat—and pressed until she gasped. "There. Protection with a body count. What is on the page, [player_name]?"
+Heat punched through her. "Henry's request, raw," she managed. "The girl will carry the story so the boy does not learn how close ruin came. My agreement, itemized. The creditor's shadow. The sum under the sum. Clara circled the edges. I stole the center."
 
-Heat punched through her. "Henry's raw ask," she managed. "The girl will carry the story so the boy does not learn how close ruin came. Itemized agreement. Creditor shadow. The sum under the sum. Clara circled the edges. I stole the center."
+"Christ." John's forehead dropped to hers. When he stepped in, his cock was already a thick line against her hip, anger and arousal refusing separate rooms. "You hid the part that makes you an invoice. And you did it while I was hard under the table, listening to Voss's name like it was dirty talk. Do you understand how fucked that is?"
 
-"Christ." John's forehead dropped to hers. His cock was already a thick line against her hip when he stepped in—anger and arousal refusing separate rooms. "You hid the part that makes you an invoice. And you did it while I was hard under the table listening to Voss's name like it was dirty talk. Do you understand how fucked that is?"
+"Yes." She arched into his hand on purpose, paper crackling, shame and hunger sharing a bloodstream. "I understand I got soaked showing you almost everything and then practiced exile in a coat pocket. I understand your hand on that fold is the most honest thing in this diner right now."
 
-"Yes." No poetry. She arched into his hand on purpose, paper crackling, shame and hunger sharing a bloodstream. "I understand I got soaked showing you almost-everything and then practiced exile in a coat pocket. I understand your hand on that fold is the most honest thing in this diner right now."
+He kissed her once, hard and coffee-bitter, then tore back as if the kiss betrayed the page he still hadn't read. His fingers worked into her coat and found the fold, but didn't pull it free. Instead he used the edge of the paper to trace her nipple through cloth, a cruel, slow drag that made her whimper.
 
-He kissed her once—hard, coffee-bitter—then tore back as if the kiss were a betrayal of the page he still had not read. His fingers worked into her coat, found the fold, did not pull it free yet. Instead he used the edge of the paper to trace her nipple through cloth, a cruel slow drag that made her whimper.
+"Show me anyway," he said against her mouth. "Before this page owns you and my patience. Before I fuck you against the pie case with the secret still in your pocket, like you think sex can pay for the hour you stole."
 
-"Show me anyway," he said against her mouth. "Before this page owns your cunt and my patience. Before I fuck you against the pie case with the secret still in your pocket like you think sex can pay the hour you stole."
+"Or Clara," [player_name] breathed. She caught his wrist, not stopping the drag, only owning it. "A second reading. Her charcoal doesn't love me enough to lie. If the center is a knife, she'll say knife. If I hand it to you raw, you might swing it before dawn and call the swinging justice."
 
-"Or Clara," [player_name] breathed. She caught his wrist—not stopping the drag, only owning it. "Second reading. Her charcoal does not love me enough to lie. If the center is a knife, she will say knife. If I hand it to you raw, you might swing it before dawn and call the swinging justice."
+John laughed, cracked and hungry. He pushed her coat open and pulled her shirt up far enough to set the folded page directly against the bare skin above her bra. Cold ink, hot flesh. He held it there with his palm.
 
-John laughed, cracked and hungry. He shoved her coat open. Yanked her shirt up enough to set the folded page directly against bare skin above her bra—cold ink, hot flesh—and held it there with his palm. "Feel that? That is ownership. Your body is filing the page under want whether your mouth chooses me or Clara." His other hand popped the button of her jeans, slid in over soaked cotton, and pressed two fingers against her clit until her knees dipped. "You are dripping on a cover story. Again. Keep hiding and I will make you come with Henry's handwriting on your tits and then ask if protection still feels clean."
+"Feel that? That's ownership. Your body is filing the page under want, whether your mouth chooses me or Clara."
+
+His other hand popped the button of her jeans, slid in over soaked cotton, and pressed two fingers against her clit until her knees dipped. "You're dripping on a cover story. Again. Keep hiding, and I'll make you come with Henry's handwriting on your tits, then ask if protection still feels clean."
 
 "John—fuck—"
 
-"Say the roads." He circled, exact, merciless, the paper warming between palm and breast. "Show me the page anyway—read it while my fingers are in your jeans so you cannot pretend the truth is separate from how wet you get on shame. Or take it to Clara while you are still shaking, and let her tell you whether this center sentences you before I get to taste it. Either way this hour ends with your pocket empty. Either way I stay hard through the verdict."
+He circled, exact and merciless, the paper warming between his palm and her breast. "Show me, and you read it while my fingers are in your jeans, so you can't pretend the truth is separate from how wet you get on shame. Or take it to Clara while you're still shaking, and let her tell you whether this center sentences you before I get to taste it. Either way, this hour ends with your pocket empty. Either way, I stay hard through the verdict."
 
-Rain sheeted. Bleach exhaled from the mop bucket. [player_name] rolled into his hand, chasing, hating how much the threat of the page sharpened the pleasure. He eased back just enough that speech could return, though his cock stayed pressed to her hip and the folded sheet stayed branded to her skin.
+Rain sheeted. [player_name] rolled into his hand, chasing, hating how much the threat of the page sharpened the pleasure. He eased back just enough for speech to return, though his cock stayed pressed to her hip and the folded sheet stayed branded to her skin.
 
-"I am afraid you will see an invoice," she said. "Afraid Clara will sketch a villain. Afraid protection is still my drug."
+"I'm afraid you'll see an invoice," she said. "Afraid Clara will sketch a villain. Afraid protection is still my drug."
 
-"Then overdose on a choice instead of an hour," John said. He kissed the corner of her mouth unfinished. Pulled the page an inch from her breast—cool air replacing it—then tucked it back into her fingers, closing them around the fold. His hand left her jeans with a last deliberate stroke that left her clenched and empty. "Show me before it owns you—strip the center in this booth while I can put my mouth on the woman and not only the invoice. Or walk it to Willow's charcoal sister and accept that her eyes get me second. Pick before I bury my cock in you with that paper still unread and teach us both the wrong lesson about mercy."
+"Then overdose on a choice instead of an hour," John said.
 
-His pulse hammered. Hers answered against ink and ruined underwear. The blue door held. The cracked stool leaned. Voss and Henry lived in the fold. The exit hurt: unanswered question—his eyes or Clara's—braided to bodily want so loud she could still feel the ghost of his fingers when she squeezed the ugliest page and tried to remember how to stand.
+He kissed the corner of her mouth, unfinished. He peeled the page from her breast, cool air replacing it, and tucked it into her fingers, closing them around the fold. His hand left her jeans with one last deliberate stroke that left her clenched and empty.
 
-The CLOSED sign faced the street like a dare. [player_name] could have opened her coat and ended the negotiation; the knowledge sat bright behind her teeth beside the taste of his coffee-bitter kiss. Instead she held the fold and let her body tell the truth her protection kept trying to edit: nipples tight where paper had branded her, jeans damp, thighs unsteady, every nerve arguing that hiding and wanting had become the same heat.
+"Strip the center in this booth while I can put my mouth on the woman and not only the invoice," he said. "Or walk it to Willow and accept that her eyes get it before mine. Decide before I bury myself in you with that paper still unread and teach us both the wrong lesson about mercy."
 
-John braced both hands on the booth behind her hips—caging without trapping—and the nearness punched a soft sound out of her. "Last chance to stop performing the uncle," he murmured. "Show me the center and let me hate the invoice while I still want to drop to my knees and put my mouth on you until you shake. Or go to Clara and accept that I will wait here hard and furious with the first stack and an empty pocket-shaped hole in my patience. I will not pretend both roads feel the same under my feet—or under my cock."
+The CLOSED sign faced the street like a dare. [player_name] could have opened her coat and ended the negotiation. The knowledge sat bright behind her teeth beside the taste of his kiss. Instead she held the fold and let her body tell the truth her protection kept trying to edit. Nipples tight where the paper had branded her. Jeans damp. Thighs unsteady.
 
-She laughed, shaky, filthy with honesty. "You make justice sound like oral sex."
+John braced both hands on the booth behind her hips, caging without trapping. "Last chance to stop performing the uncle," he murmured. "Show me the center and let me hate the invoice while I still want to drop to my knees and put my mouth on you until you shake. Or go to Clara, and I'll wait here hard and furious with an empty, pocket-shaped hole in my patience."
 
-"Tonight everything sounds like oral sex and a courtroom," John said bluntly. "That is what you did when you hid the page after letting me touch you through denim. You braided them. Live with the braid. Choose inside it."
+She laughed, shaky and filthy with honesty. "You make justice sound like oral sex."
 
-"Choose," he whispered. "Before I choose for you with my hands and call it love."
+"Tonight everything sounds like oral sex and a courtroom," John said bluntly. "That's what you did when you hid the page after letting me touch you through denim. You braided them. Live with the braid. Choose inside it."
 
-He did not step back far. The diner's fluorescent hum filled the space his mouth left. [player_name] could still feel the damp seam of her jeans clinging, still feel where his fingers had mapped her like another circled line. The folded page in her hand had gone warm from her skin; warmth did not make it kinder.
+He paced a tight line between the booth and the pie case, adjusting himself once with a blunt shamelessness that made her mouth go dry.
 
-"You want subtext?" John said, pacing a tight line between booth and pie case, adjusting himself once with a blunt shamelessness that made her mouth go dry. "Here it is. Every time you protect me, my body hears abandon. Every time you hide a page, I get hard and furious in the same breath because the shrine I built was also a bed I never got to share with the real you. Clara's second reading might save us from a swing. Showing me anyway might finally let me stop fucking a ghost in my head when the woman is standing here soaked and scared."
+"Every time you protect me, my body hears abandon," he said. "Every time you hide a page, I get hard and furious in the same breath, because the shrine I built was also a bed I never got to share with the real you. Clara's reading might save us from a bad swing. Showing me anyway might finally let me stop fucking a ghost in my head when the woman is standing here soaked and scared."
 
-She watched his throat work. Watched the burn scar flex when he gripped the counter.
+"If I show you," [player_name] said, her voice rough, "you read it with your hands off me long enough to hear the words. Or with your hands on me, and we admit the invoice and the want are one negotiation. If I go to Clara, I walk through the rain with this page under my coat, and you don't follow until she speaks."
 
-"If I show you," [player_name] said, voice rough, "you read it with your hands off me long enough to hear the words—or you read it with your hands on me and we admit the invoice and the want are one negotiation. If I go to Clara, I walk through rain with this page under my coat and I do not let you follow until she speaks. Those are the teeth. Those are the only teeth left in this hour."
+John came back and stopped close. Rainlight silvered the glass behind him.
 
-John came back. Stopped close. Rainlight silvered the glass behind him. "I can live with either set of teeth," he said. "I cannot live with you pretending the pocket is empty while your cunt is still fluttering from my fingers. Be viciously honest. Be indecently clear. Just do not sand."`,
+"I can live with either," he said. "I can't live with you pretending the pocket is empty while you're still fluttering from my fingers."
+
+The page had gone warm from her skin. His hand hovered an inch from hers, open, and the ghost of his fingers still throbbed between her legs while she decided whether to put the fold in his palm or button her coat over it and walk into the rain.`,
   choices: [
     { id: "scene7b", text: "Show him the page anyway before it owns you", textHot: "Show him the page — read it while his hands are still on you" },
     { id: "scene7c", text: "Take the page to Clara for a second reading", textHot: "Carry the page to Clara — let her charcoal judge the center first" }

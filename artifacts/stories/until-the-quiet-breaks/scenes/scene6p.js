@@ -4,124 +4,86 @@ export default {
   title: "Not Yet Forgive",
   text: `Not yet.
 
-The words sat between [player_name] and John like a third person who smelled like rain and refused to leave the diner—or the shed—or whichever room had become the stage for unforgiveness. Depending on the road that delivered them here, she had made him swear it before tenderness softened him, or she had refused to apologize for surviving and asked him to hear why with her mouth still close. Either way the landing was the same: John Shaw, grey-eyed and shaking, holding a vow against mercy like a man holding a fence in a storm.
+The words sat between [player_name] and John like a third person who smelled of rain and refused to leave. She had asked him for them. Now John Shaw stood grey-eyed and shaking, holding a vow against mercy like a man holding a fence in a storm.
 
-Coffee steam ghosted the pie case if they were behind the blue door; oilcloth and bulb-swing if they were in the shed; wet boxwood pressed glass either way Somerton knew how to keep score. [player_name] tasted copper and old yeses. John's burn scar went white around a fist that would not open.
+Rain needled the glass. The room smelled of coffee and wet wool and the long night behind them. [player_name] tasted copper and old yeses. John's burn scar went white around a fist that wouldn't open.
 
-"Say it again," he asked. Not kind. Necessary. "Say you want me not to forgive him yet. Or say why survival is not an apology. I need the sentence sharp enough to cut Henry's sanding when he arrives with errands and weather reports."
+"Say it again," he said. Not kind. Necessary. "Say you want me not to forgive him yet. Or say why surviving isn't an apology. I need the sentence sharp enough to cut through Henry when he shows up with errands and weather reports."
 
-[player_name] did not look away. "I am asking you not to forgive Henry yet. Forgiveness given early becomes another cover story. It lets him tidy the ledger into love before Clara's charcoal finishes speaking. It lets the town keep its quiet. It lets us pretend wanting each other is the same as healing the wound." A breath. "And if the other fork is louder in your ears—I refuse to apologize for surviving the winter the only way a twenty-year-old knew how. I will apologize for silence that calcified. I will not kneel for the fact that I lived."
+[player_name] didn't look away. "I'm asking you not to forgive Henry yet. Forgiveness given early becomes another cover story. It lets him tidy the ledger into love before Clara's charcoal finishes speaking. It lets the town keep its quiet. It lets us pretend wanting each other is the same as healing the wound."
 
-John paced. The cracked counter stool leaned its half-degree left like an audience member unsure whether to stand. Or a crate creaked under his palm. Setting flexed around the vow. "Unforgiveness as loyalty," he said slowly. "That is a hell of a religion."
+She took a breath. "And I won't apologize for surviving that winter the only way a twenty-year-old knew how. I'll apologize for the silence that hardened after. I won't kneel for the fact that I lived."
 
-"It is temporary scaffolding," [player_name] said. "Not a forever temple. Stand in it with me long enough that truth gets daylight. Or—if you cannot—leave room for later mercy without giving him today. Those are different exits. Both hurt."
+John paced, three steps and back, the floor complaining under him. "Unforgiveness as loyalty," he said slowly. "That's a hell of a religion."
 
-He stopped close enough that she smelled fryer oil and rain and the clean sweat of a man who had been angry for hours. Desire flared—obsession, not pretty. She wanted his hands. She wanted the vow to hold even when his mouth found hers. Especially then.
+"It's scaffolding," [player_name] said. "Not a temple. Stand in it with me long enough for the truth to get daylight. Or, if you can't, leave room for mercy later without giving him today. Those aren't the same. Both hurt."
+
+He stopped close enough that she smelled fryer oil and rain and the clean sweat of a man who had been angry for hours. Desire flared. She wanted his hands. She wanted the vow to hold even when his mouth found hers. Especially then.
 
 "Clara will ask where I stand," John said. "Henry will ask for grace like it is a utility included with the house. Voss does not ask; Voss collects. And you ask me to keep my fist closed around not-yet." His gaze dropped to her mouth. "I can do that. I can also feel how badly I want to open my hands on your skin and call that mercy by mistake."
 
-"Then do not mistake it," she said. Sharper dialogue, less sand. "Touch me if you touch me as a man who has not forgiven him. Not as a man using my body to practice absolution."
+"Then don't mistake it," she said. "Touch me as a man who hasn't forgiven him. Not as a man using my body to practice absolution."
 
-Silence roared under whatever hood or bulb watched them. [player_name] thought of Henry's mantel clock, of sketches in margins, of a station platform hiss from fifteen years ago when yes had sounded like armor. She thought of Market Street gossip waiting to be born. Sensory anchors rotated through her like a rosary she did not trust: slate rain, blue door stick, coffee steam, woodsmoke, charcoal grit.
+He laughed, short and raw. "You make it sound simple."
 
-John's forehead nearly touched hers. Stopped. The unfinished contact burned hotter than a granted kiss. "Two roads from here. Stand with me in unforgiveness—public spine, private heat, no early grace for Uncle. Or ask me to leave room for later mercy—keep the fist closed today, admit the hand might open when daylight finishes its work. I will not pretend those feel the same under my feet."
+"It isn't," [player_name] said. "Standing in it means we walk into Willow and the diner and Clara's questions as people who won't smooth anything over. Leaving room means we refuse to hate forever, without handing Henry a comfort he hasn't earned."
 
-"They do not," [player_name] said. "Standing in it means we walk into Willow and the diner and Clara's questions as people who will not sand. Leaving room means we refuse forever-hate without handing Henry a soft landing he has not earned."
+Silence pressed in under the rain. [player_name] thought of Henry's mantel clock. Of Clara's sketches in the margins. Of the station platform fifteen years ago, when yes had sounded like armor. She thought of Market Street gossip waiting to be born.
+
+John's forehead nearly touched hers. Stopped. The unfinished contact burned hotter than a granted kiss.
+
+"Stand with me in it," he said. "Public spine, private heat, no early grace for my uncle. Or ask me to leave room. Keep the fist closed today, and admit the hand might open when daylight finishes its work. I won't pretend those feel the same under my feet."
 
 His pulse showed at his throat. Hers answered.
 
-Outside, freight complained toward the yard. Inside, John waited too close. "Pick," he murmured. "Before I forgive him with my mouth on yours by accident. Before kindness drowns us the Shaw way. Before I stop telling anger from love and call the confusion healing."
+Outside, a freight horn complained toward the yard. "Before I forgive him by accident with my mouth on yours," John murmured. "Before kindness drowns us the Shaw way. Before I stop telling anger from love and call the confusion healing."
 
-Stand in unforgiveness beside him—loyal, hard, unfinished. Or ask him to leave a door cracked for later mercy without letting Henry through today. Obsession over pretty.
+She lifted her chin. Kindness had drowned Shaws before. They were trying something uglier and more accurate. She thought of Voss's number, a bruise that still changed color when pressed, and of Clara asking where they stood.
 
-She lifted her chin. Rain needled glass. Both would cut. Neither would let her walk away clean from the man whose not-yet she had asked him to carry.
+John's silence had edges. She didn't smooth them for comfort or for speed.
 
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 1th counted breath.
+His burn scar flashed white. Her pulse answered in her throat and lower. She kept her eyes open through the wanting, because closed eyes were how costumes became lives.
 
-The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
-
-[player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
-
-John's silence had edges; she refused to sand them for comfort or for speed.
-
-Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
-
-She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.
-
-His burn scar flashed white; her pulse answered in throat and thigh; the unfinished question grew teeth.
-
-Kindness had drowned Shaws before; they were trying something uglier and more accurate.
-
-Woodsmoke ghosted through memory even in rooms that smelled like fryer oil; Willow and Market Street braided into one weather.
-
-She kept her eyes open through the wanting because closed eyes were how costumes became lives.
-
-He waited too close; she stayed; presence remained their ugly sacrament.
-
-The quiet cracked another millimeter; neither of them moved to glue it.
-
-Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.`,
+[player_name] reached up and wrapped her hand around his closed fist. She didn't try to open it. She only held on, and felt his knuckles tighten under her palm as he waited for her to speak.`,
   textHot: `Not yet.
 
-John said it back to her like a filthy prayer, mouth close enough that [player_name] felt the words on her lip, and her cunt answered before her conscience could sand anything.
+John said it back to her like a filthy prayer, his mouth close enough that [player_name] felt the words on her lip. Her body answered before her conscience could tidy anything.
 
-They were pressed together in the closed diner's aftermath or the shed's oilcloth cold—blue door locked or warped wood braced—same geometry either way: his thigh between hers, his cock a thick insistence against her hip, her bra lace tormenting peaked nipples while unforgiveness became the hottest vow in the room.
+They were pressed together, his thigh between hers, his cock a thick insistence against her hip. Her bra lace tormented her peaked nipples. Unforgiveness had become the hottest vow in the room.
 
 "Say it again," he demanded, hand shoved under her shirt, palm spanning ribs, thumb stroking just under her breast. "Not-yet-forgive. Or refuse the apology for surviving while you grind on my leg. I need the sentence while I am still hard enough to remember it is not mercy."
 
 [player_name] rolled into him on purpose. Wet through cotton. Shameless. "Do not forgive Henry yet. Early grace is another cover story. It lets him tidy Voss into love." Her breath snagged as his thumb found her nipple over lace, then under. "And I refuse to apologize for surviving. Silence calcified—that I own. Living—I will not kneel for. Hear why with your hand in my clothes if that is the only way your body listens."
 
-John cursed and kissed her—hard, coffee-bitter—then bit the hinge of her jaw as if marking the vow into skin. "Unforgiveness as foreplay. Christ." He popped her jeans button. Fingers slid down, found her soaked, circled her clit with cruel patience. "You want me to stand in this with you while I finger you. You want later mercy as a door we do not open tonight while I still have my cock aching to bury in you. Both make me mean. Both make me honest."
+John cursed and kissed her, hard and coffee-bitter, then bit the hinge of her jaw as if marking the vow into skin. "Unforgiveness as foreplay. Christ." He popped her jeans button. His fingers slid down and found her soaked, and circled her clit with cruel patience. "You want me to stand in this with you while I finger you. You want later mercy as a door we don't open tonight, while my cock aches to bury itself in you. Both make me mean. Both make me honest."
 
-"Stand with me in it," she gasped, hips chasing. "Public spine. Private heat. No early grace. Or—leave room for later mercy without giving him today—keep the fist closed while you fuck me like a man who has not absolved anyone."
+"Stand with me in it," she gasped, her hips chasing his hand. "Public spine. Private heat. No early grace. Or leave room for later mercy without giving him today. Keep the fist closed while you fuck me like a man who hasn't absolved anyone."
 
 He pushed two fingers into her cunt and groaned when she clenched. "Say which. I can do unforgiveness. I can do a cracked door. I cannot do you coming on my hand while the sentence stays vague."
 
-Rain sheeted. Fryer oil ticked or bulb swung—anchors rotating while plot and heat braided. [player_name] gripped his wrist, not stopping him, pacing the thrust of his fingers. "If we stand in unforgiveness, we walk into Clara and Willow as a united no. If we leave room, we admit hate forever is another trap—and we still do not hand Henry soft landing. Either road you keep your hand honest. Either road I stay wet for the man who will not sand."
+Rain sheeted the glass. [player_name] gripped his wrist, not stopping him, pacing the thrust of his fingers. "If we stand in it, we walk into Willow as a united no. If we leave room, we admit hating forever is another trap. And we still don't hand Henry a comfort he hasn't earned. Either way you keep your hand honest."
 
-John's forehead dropped to hers. His cock jerked against her hip when she squeezed around his fingers. "Obsession over pretty," he muttered. "You came back and ruined my quiet with your mouth and your cunt and your not-yet. Good. Ruin me further. Pick the verb."
+John's forehead dropped to hers. His cock jerked against her hip when she squeezed around his fingers. "You came back and ruined my quiet with your mouth and your body and your not-yet," he muttered. "Good. Ruin me further."
 
-She was close—white-edged, shaking—when he eased the rub just enough that speech returned, cruel and careful. "Pick," he repeated. "Stand with me—or ask me to leave room. Before I forgive him by accident with my mouth between your legs. Before kindness drowns us. Before I come in my jeans like a teenager and lose the plot of justice."
+She was close, white-edged and shaking, when he eased the rub just enough that speech came back. Cruel. Careful. "Stand with me, or ask me to leave room," he said. "Before I forgive him by accident with my mouth between your legs. Before kindness drowns us. Before I come in my jeans like a teenager and forget what justice was for."
 
 [player_name] tasted rain and him and copper truth. Her nipples ached from his pinching attention. Her cunt fluttered around emptiness when he withdrew his fingers and painted her lower lip with her own slick—filthy benediction. "Choose," he whispered. "I will lick this clean after you name the road. Not before."
 
-Wet boxwood. Coffee steam. Woodsmoke somewhere in memory. Exits hurt.
+He held her there, a finger's width from the edge, and didn't let her fall. His other hand found her breast under her shirt and rolled the nipple slowly between his fingers until she bit his shoulder through cotton.
 
-"Stand—or leave room," [player_name] said against his coated thumb, voice wrecked. "Both cut. Both leave me aching. Neither lets Henry tidy this into love tonight."
+"Stand or leave room," [player_name] said against his coated thumb, her voice wrecked. "Both cut. Both leave me aching. Neither lets Henry tidy this into love tonight."
 
-His grey eyes burned. His belt stayed buckled—for now—like a held breath.
+His grey eyes burned. His belt stayed buckled, for now, like a held breath. She reached for the buckle and stopped with her fingers on cold metal. Not yet. Not until it meant what she chose.
 
-Rain kept time on slate while [player_name] held the unfinished question and refused a soft exit for the 1th counted breath.
+Outside, a freight horn complained toward the yard, ordinary Somerton going on without permission. She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed. Kindness had drowned Shaws before. They were trying something uglier and more accurate.
 
-The mantel clock of memory ticked even when no mantel stood nearby, Shaw time insisting on itself through rain and breath.
+His burn scar flashed white where his fist stayed closed at her hip. He hadn't opened that hand all night. He wasn't going to open it for her either, unless she asked.
 
-[player_name] catalogued anchors on purpose: slate rain, stuck blue door, coffee steam, wet boxwood, charcoal grit under imaginary nails—rotation against pretty numbness.
+"Look at me," he said.
 
-John's silence had edges; she refused to sand them for comfort or for speed.
-
-Somewhere a freight horn complained toward the yard, ordinary Somerton continuing without permission while their vow and their wanting shared one bloodstream.
-
-She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed.
-
-Exits that did not hurt were delays wearing lipstick; she would not wear that shade tonight.
-
-His burn scar flashed white; her pulse answered in throat and thigh; the unfinished question grew teeth.
-
-Kindness had drowned Shaws before; they were trying something uglier and more accurate.
-
-Woodsmoke ghosted through memory even in rooms that smelled like fryer oil; Willow and Market Street braided into one weather.
-
-She kept her eyes open through the wanting because closed eyes were how costumes became lives.
-
-He waited too close; she stayed; presence remained their ugly sacrament.
-
-The quiet cracked another millimeter; neither of them moved to glue it.
-
-Consequence lived in the next sentence; desire lived in the inch between mouths; both refused to yield first.`,
+She did. She kept her eyes open through the wanting, because closed eyes were how costumes became lives. Then she wrapped her fingers around his closed fist and pressed it harder against her hip, and felt his whole body lean into whatever she was about to say.`,
   choices: [
     { id: "scene7p", text: "Stand in unforgiveness — spine hard beside him", textHot: "Stand in unforgiveness — take him angry without granting grace" },
-    { id: "scene7b", text: "Crack the door for later mercy — not today", textHot: "Crack later mercy — fuck him with the fist still closed" }
+    { id: "scene7b", text: "Crack the door for later mercy — not today", textHot: "Crack the door for later mercy — take him with the fist still closed" }
   ]
 };

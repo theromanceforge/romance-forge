@@ -2,122 +2,128 @@ export default {
   id: "scene5k",
   layer: 5,
   title: "Shed and Ledger",
-  text: `The shed key hung on the hook by the back door exactly where Henry had said—brass worn dull, string frayed, honest as a tool that had outlived its excuses. Rain ticked the porch roof. Wet boxwood breathed its green bitterness into the dark. Behind them the house held woodsmoke and a mantel clock that kept counting Henry's silence like inventory.
+  text: `The shed key hung on the hook by the back door exactly where Henry had said. Brass worn dull. String frayed. Honest as a tool that had outlived its excuses. Rain ticked the porch roof. Behind them the house held woodsmoke and a mantel clock that kept counting Henry's silence like inventory.
 
-Clara took the key without asking permission. Charcoal still crescented her knuckle. "Margins first," she said. "Then the glove box. He does not get to walk us there like a tour guide."
+Clara took the key without asking. Charcoal still crescented her knuckle. "Margins first," she said. "Then the glove box. He doesn't get to walk us there like a tour guide."
 
-[player_name] glanced toward the front hall. John stood dripping on the mat where he had climbed the hill to meet them—diner jacket dark with rain, grey eyes locked on the sketchbook under Clara's arm, mouth set around the question he had already asked on the wet asphalt: why the sketches before his door. Henry's shadow filled the study threshold without entering, smaller than his furniture, lemon oil rising off him like a habit that had outlived usefulness.
+[player_name] glanced toward the front hall. John stood dripping on the mat, having climbed the hill to meet them, his diner jacket dark with rain. His grey eyes were locked on the sketchbook under Clara's arm. His mouth was set around the question he had already asked on the wet asphalt: why the sketches before his door.
 
-"You will find the ledger under the oilcloth," Henry said. Voice thin. "I am not coming into the rain to narrate it."
+Henry's shadow filled the study threshold without entering, smaller than his furniture. "You'll find the ledger under the oilcloth," he said, his voice thin. "I'm not coming into the rain to narrate it."
 
 "Good," Clara answered. "Your narrating is the problem."
 
-They crossed the yard in a hard slant of weather—Clara ahead with the key, [player_name] beside her, John a half-step behind as if proximity itself were a vow he had not decided whether to keep. Mud sucked at their boots. A gutter spoke in a continuous low voice along the eaves. The shed squatted behind the boxwood: warped boards, a hasp that complained, the smell of old gasoline and damp rope when the door finally gave. Inside, a single bulb swung on a pull-chain and threw yellow light over shelves of paint cans, a snow shovel, a tarp stiff with winters, a coil of hose that looked like a sleeping animal.
+They crossed the yard in a hard slant of weather. Clara went ahead with the key, [player_name] beside her, John a half-step behind, as if proximity were a vow he hadn't decided to keep. Mud sucked at their boots. The shed squatted behind the boxwood: warped boards, a hasp that complained, the smell of old gasoline and damp rope when the door finally gave.
 
-Clara's flashlight found the glove box under oilcloth on a low shelf. Not a car compartment—an actual metal tin that had once held driving gloves, now a coffin for paper. She set the sketchbook on a dry crate first, pages open to the winter road and the margin note that had brought them here: glove box / dates skip / name erased light. Graphite edges caught the bulb's swing.
+Inside, a single bulb swung on a pull-chain. Yellow light slid over paint cans, a snow shovel, a tarp stiff with winters, a coil of hose like a sleeping animal.
 
-"This is the map," Clara said to John without softening. "Your hands on the urn. The station. The suitcase. Uncle between you like a door. I drew what the house would not say. The tin is what the drawings were hunting."
+Clara's flashlight found the glove box under oilcloth on a low shelf. Not a car compartment. An actual metal tin that had once held driving gloves, now a coffin for paper. She set her sketchbook on a dry crate, open to the winter road and the margin note that had brought them here: glove box / dates skip / name erased light.
 
-John's jaw flexed. Water ran from his hair into his collar. He did not look at [player_name] when he said, "Open it."
+"This is the map," Clara said to John without softening. "Your hands on the urn. The station. The suitcase. Uncle between you like a door. I drew what the house wouldn't say. The tin is what the drawings were hunting."
 
-The hasp on the tin stuck. Clara swore once, teenage and precise, and [player_name] braced the metal while Clara worked the latch. Inside: folded bank paper, a second notebook bound with a rubber band gone brittle, a winter date stamped in pencil so deep it scarred the sheet below. The smell hit first—dust, oil, the sweet rot of paper kept too long from air. Then the ledger spine, dark green cloth, corners chewed by time or mice or both.
+John's jaw flexed. Water ran from his hair into his collar. He didn't look at [player_name]. "Open it."
+
+The hasp stuck. Clara swore once, teenage and precise, and [player_name] braced the tin while Clara worked the latch. Inside lay folded bank paper, a notebook bound with a brittle rubber band, and a winter date pressed in pencil so hard it scarred the sheet beneath. The smell hit first: dust, oil, the sweet rot of paper kept too long from air. Then the ledger itself, dark green cloth, corners chewed by time or mice or both.
 
 Clara lifted it like something that might bruise. "Winter accounts. Not the pretty desk summary. This one."
 
-[player_name] felt John at her shoulder—heat through wet denim, breath not steady. Sensory first, always: rope mildew, gasoline ghost, the cold lip of the tin under her palm. Then emotion—dread with a clean edge; tenderness for the girl who had refused wallpaper; the stubborn pull of wanting John's trust even while she handed him evidence that would hurt. Then the turn, green cloth and pencil grooves becoming a door that would not close again.
+John was at [player_name]'s shoulder, heat through wet denim, his breath unsteady. The cold lip of the tin under her palm. Dread with a clean edge. Tenderness for the girl who had refused to be wallpaper. And the stubborn pull of wanting John's trust even while she handed him evidence that would hurt.
 
-They did not go back to the house. Rain hammered the shed roof hard enough to make speech intimate by force. Clara opened the ledger on the crate beside her sketches. Numbers climbed in careful columns. Forty-eight thousand. Twelve more. Settled in kindness—Henry's phrase, ugly in its gentleness. A name written, erased, written lighter: Voss. An exchange number in the back margin in a hand that might have been Henry's or might have been a ghost's. John's father's signature on a line that should not have existed if the funeral-week story had been clean.
+They didn't go back to the house. Rain hammered the shed roof hard enough to make speech intimate by force. Clara opened the ledger on the crate beside her sketches.
+
+Numbers climbed in careful columns. Forty-eight thousand. Twelve more. Settled in kindness, Henry's phrase, ugly in its gentleness. A name written, erased, written lighter: Voss. An exchange number in the back margin, in a hand that might have been Henry's. And John's father's signature on a line that shouldn't have existed if the funeral-week story had been clean.
 
 John made a sound as if punched under the ribs. His hand found the crate edge hard enough to whiten his knuckles. "He kept this under oilcloth while I flipped chairs and told myself you wanted brighter rooms."
 
-"He kept it because throwing it away would have been another confession," [player_name] said. Henry's words, returned without mercy. "Clara mapped the gaps. This fills them."
+"He kept it because throwing it away would have been another confession," [player_name] said, returning Henry's words without mercy. "Clara mapped the gaps. This fills them."
 
-Clara's flashlight shook once and steadied. She flipped to a page marked with a charcoal thumbprint—her own earlier hunt. "There is more in the notebook. Drafts of the ask. Your name underlined twice. Receipts that do not match the desk copies." She looked at [player_name], then at her brother, sixteen going on forty and unwilling to waste courage. "We can open the rest right here—just us three—before Uncle invents a softer tour from the porch. Or we stop pretending secondhand truth is kindness. He is already in the shed. The question is whether we keep reading like thieves or like a family that finally stopped lying for him."
+Clara's flashlight shook once and steadied. She flipped to a page marked with her own charcoal thumbprint. "There's more in the notebook. Drafts of what he asked you. Your name underlined twice. Receipts that don't match the desk copies."
 
-John finally looked at [player_name]. Rainlight from the open hasp and yellow bulb met on his face and made the early silver at his temples look like weather. Want lived there beside fury—not soft, not polite. The unfinished question from the hill still hung between them. Now a harder one stacked on top.
+She looked at [player_name], then at her brother. "We can open the rest right here, just us, before Uncle invents a softer tour from the porch. Or we stop pretending secondhand truth is kindness. Either way, we read like a family that finally stopped lying for him, not like thieves."
 
-"You chose digging over my counter," he said quietly. "Fine. Digging got us this tin. Do not suddenly go careful because I am breathing the same dust." He tapped the open ledger with two fingers, hard. "Either we finish these pages with Clara before anyone else scripts the order—or you stop filtering me. Put my hands on the paper. No more reports. No more mercy translations. I am done learning my life through your summaries and his sanding."
+John finally looked at [player_name]. The yellow bulb made the early silver at his temples look like weather. Want lived beside the fury in his face, neither soft nor polite. The unfinished question from the hill still hung between them. Now a harder one sat on top of it.
 
-The bulb swung on its chain. Rope smelled of mildew. The ledger lay open, face-up, numbers staring like eyes that would not blink. Outside, the house's mantel clock would still be counting lemon-oil minutes. Inside the shed, [player_name] smelled oilcloth and graphite and John's wet jacket. She tasted metal. Her hands itched to reach for him and itched to turn the next page first—loyalty split into two useful hungers.
+"You chose digging over my counter," he said quietly. "Fine. Digging got us this tin. Don't suddenly go careful because I'm breathing the same dust."
 
-Clara held the flashlight steady between them, a third pulse of yellow. "Pick," she said. "Sisters-in-evidence first—we lock what we found before passion or fury edits it—or him at the crate with no buffer. Both burn. One of them lets Uncle keep being the hallway voice."
+He tapped the open ledger with two fingers, hard. "Put my hands on the paper. No more reports. No more mercy translations. I'm done learning my life through your summaries and his softening."
 
-John's fingers brushed [player_name]'s—charcoal smear transferring from her skin to his, a brand neither of them wiped away. He did not take her hand fully. He left the touch unfinished, a hook of skin and question that made her pulse jump in her throat.
+The bulb swung on its chain. The ledger lay face-up, numbers staring like eyes that wouldn't blink. [player_name] tasted metal. Her hands itched to reach for him and itched to turn the next page first.
 
-The ledger's next page fluttered in a draft from the warped door, almost turning itself, almost revealing the line that would finish what Clara's circles elsewhere had only begun. Nobody flipped it. The unfinished turn waited like a held breath. Rain. Oil. The hurt of exits already forming in the gasoline dark.
+Clara held the flashlight steady between them, a third pulse of yellow. "Sisters-in-evidence first," she said. "We lock what we found before passion or fury edits it. Or him at the crate, no buffer. Both burn. Just don't let Uncle keep being the voice in the hallway."
 
-[player_name] could open the rest with Clara alone—proof locked between women who had dug—while John stood witness without steering the order of revelation. Or she could put his hands on the green cloth now and refuse every secondhand mercy Somerton had ever practiced on his name. The page stayed face-up. His fingers stayed almost holding hers. Henry's porch light flicked once through the shed's crack as if the house itself were listening for which betrayal they would choose next.
+John's fingers brushed [player_name]'s. Charcoal smeared from her skin to his, and neither of them wiped it away. He didn't take her hand fully. He left the touch unfinished, and her pulse jumped in her throat.
 
-Clara turned another page and tapped a column with a charcoal-stained nail. "See the skip? March to May with nothing between but a blank line and a smudge. Desk copies fill that gap with kindness language. This one leaves the hole honest." She glanced at [player_name]. "That is why the margins matter. I was drawing the holes before I had nouns for them."
+Clara turned another page and tapped a column with a charcoal-stained nail. "See the skip? March to May, nothing between but a blank line and a smudge. The desk copies fill that gap with kind language. This one leaves the hole honest." She glanced at [player_name]. "That's why the margins matter. I was drawing the holes before I had nouns for them."
 
-[player_name] leaned in until the bulb's heat warmed her cheek. The numbers stopped being abstract; they became winters John had worked through without her, pie cases emptier than pride liked, nights he had believed ambition took her when debt had. She thought of Market Street's fryer hymn continuing without her name in it.
+[player_name] leaned in until the bulb's heat warmed her cheek. The numbers stopped being abstract. They became winters John had worked through without her. Pie cases emptier than pride liked. Nights he had believed ambition took her when debt had.
 
-"Voss shows up three times then vanishes," John said, voice flat with effort. "Say what you know."
+"Voss shows up three times, then vanishes," John said, his voice flat with effort. "Say what you know."
 
-"Enough to shadow. Not enough to knock tonight." [player_name] kept her eyes on the page. "Clara has receipts upstairs. Henry has whatever he still calls taxes. This ledger is the spine. The notebook is the nerve."
+"Enough to know he shadows you. Not enough to knock tonight." [player_name] kept her eyes on the page. "Clara has receipts upstairs. Henry has whatever he still calls taxes. This ledger is the spine. The notebook is the nerve."
 
-John laughed once—no humor. "Then stop hovering on the spine. Open the nerve. Or hand it to me and stop deciding how much shock I can swallow in one breath."
+John laughed once, without humor. "Then stop hovering on the spine. Open the nerve. Or hand it to me and stop deciding how much shock I can swallow in one breath."
 
-Rain thickened on the roof until speech had to lean closer. Clara's shoulder pressed [player_name]'s. John's unfinished brush of fingers still burned. The shed had become a small country with weather made of oil and graphite and the particular ruthlessness of a sister who loved too hard to keep lying.
+Rain thickened until speech had to lean closer. Clara's shoulder pressed [player_name]'s. The shed had become a small country with weather made of oil and graphite and the ruthlessness of a sister who loved too hard to keep lying.
 
-Henry's voice carried faintly from the porch once—her name, then John's, then nothing, as if even he understood that entering the shed would make him the story again. Clara did not turn her head. John's unfinished touch on [player_name]'s fingers burned colder than the rain. The notebook's rubber band waited to snap. Every second they stalled, the draft from the warped door threatened to flip the ledger further on its own, and neither of them would get to claim the choosing.
+Henry's voice carried faintly from the porch. Her name, then John's, then nothing, as if even he understood that entering the shed would make him the story again. The notebook's rubber band waited to snap. A draft from the warped door lifted the ledger's next page, almost turning it on its own.
 
-"I am not leaving this crate blank," Clara said. "Someone turns the page. Tell me who."`,
-  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm—brass cold, string rough—while her other awareness stayed stupidly fixed on John: wet diner jacket clinging to his shoulders, throat working, the heat of him one step behind her like a hand at the small of her back that had not yet landed. Digging should not make her wet. It did. Fear and wanting shared a bloodstream; she had stopped pretending otherwise somewhere between Clara's false-bottom sketches and his climb up the wet hill.
+"I'm not leaving this crate blank," Clara said. "Someone turns the page. Tell me who."`,
+  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm, brass cold, string rough, while the rest of her stayed stupidly fixed on John. His wet diner jacket clung to his shoulders. His throat worked. The heat of him walked one step behind her like a hand at the small of her back that hadn't landed yet. Digging shouldn't make her wet. It did. Fear and wanting shared a bloodstream, and she had stopped pretending otherwise somewhere between Clara's sketches and his climb up the wet hill.
 
-Clara took the key. "Margins first. Then the tin. He does not narrate."
+Clara took the key. "Margins first. Then the tin. He doesn't narrate."
 
-Henry stayed in the study throat of the house. John followed them through boxwood bitterness into the shed's gasoline-and-rope dark. When Clara pulled the bulb chain, yellow light hit John's mouth and [player_name] felt her cunt clench around nothing—traitorous, honest. She wanted his hands on the evidence. She also wanted his hands on her. The night was not going to rank those cleanly.
+Henry stayed in the study. John followed them through the boxwood into the shed's gasoline-and-rope dark. When Clara pulled the bulb chain, yellow light hit John's mouth, and [player_name] felt herself clench around nothing, traitorous and honest. She wanted his hands on the evidence. She also wanted his hands on her. The night wasn't going to rank those cleanly.
 
-"Open it," John said. Voice rough. He stood close enough behind her that when she braced the tin for Clara his chest brushed her shoulder blades—solid, damp, breathing too fast. The contact lit her nipples hard under her wet shirt. She did not step away. His cock nudged the small of her back through wet jeans, half-hard from adrenaline and proximity, and the honesty of it punched a soft sound out of her that Clara pretended not to hear.
+"Open it," John said, his voice rough. He stood close behind her, and when she braced the tin for Clara, his chest brushed her shoulder blades, solid and damp and breathing too fast. Her nipples went hard under her wet shirt. She didn't step away.
 
-"Do not sand that," John muttered at her ear, only for her, while Clara worked the latch. "I am furious and my cock is hard and both are about you standing in my family's lie with charcoal on your fingers. I am done ranking them like a gentleman."
+The tin gave. Paper smell. Oilcloth. Green ledger cloth. Clara set her sketches beside it: John's hands, drawn in charcoal with an accuracy that made [player_name]'s mouth go dry, because she knew those hands now as heat and pressure, not graphite.
 
-The tin gave. Paper smell. Oilcloth. Green ledger cloth. Clara set sketches beside it—John's hands drawn in charcoal with loving accuracy that made [player_name]'s mouth go dry because she knew those hands now as heat and pressure, not graphite. John reached around her to touch the ledger spine. His arm caged her without asking. She felt him thicken fully against her ass and had to lock her knees.
+Clara flipped pages, flashlight steady, focused on numbers because someone had to be. Forty-eight thousand. Twelve more. Voss, erased light. His father's signature on a wrong line. John's forehead dropped to [player_name]'s temple as the grief punched out of him. His hand flattened on her belly under her coat, possessive and shaking.
 
-Clara flipped pages, flashlight steady, sixteen going on forty and focused on numbers because someone had to be. Forty-eight thousand. Twelve more. Voss erased light. Father's signature on a wrong line. John's forehead dropped to [player_name]'s temple as the grief-sound punched out of him—same throat that wanted to fuck, same body refusing to split clean. His hand flattened on her belly under her coat, possessive, shaking.
+Clara looked up at the two of them, then back at the page with ruthless discretion. "There's a notebook too. Drafts of what he asked her. Her name underlined twice." She handed John the flashlight. "I'm going to stand under the eave and keep Uncle off the porch. You two get five minutes with it. Then I'm back, and we lock what we found. I already dug. I'm not also managing whatever this is."
 
-"Keep reading," [player_name] told Clara, voice unsteady. To John, quieter: "Your hand stays or goes. Say which. I will not translate this ledger into comfort while you grind your cock against me like the paper is optional."
+She stepped out and pulled the warped door almost shut behind her. Rain drummed. Through the gap, [player_name] could see the back of Clara's hood under the eave, facing the house.
 
-"Stays." His palm pressed harder. Thumb under her navel. "I need weight. I need you not to vanish into evidence." He rolled once against her—filthy, helpless—then froze, cock a thick insistence at the cleft of her ass. "Fuck. Tell me to stop."
+John exhaled like a man coming up from under water. His cock nudged the small of her back through wet jeans, hard from adrenaline and proximity, and the honesty of it punched a soft sound out of her.
 
-"Do not stop holding. Do stop hiding behind almosts." She covered his hand and pressed it to the button of her jeans. Heat flooded; she was soaked enough that shed-cold air made the damp obvious when she shifted. "Clara opens the notebook. You hear it raw. Then we decide if she and I finish alone or if your hands get every page with no sister buffer."
+"Don't dress that up," he muttered at her ear. "I'm furious, and I'm hard, and both are about you standing in my family's lie with charcoal on your fingers. I'm done ranking them like a gentleman."
 
-Clara's flashlight flicked up—caught the cage of his arms, the flush on [player_name]'s throat—and flicked back down with ruthless discretion. "Notebook," Clara said aloud. "Drafts of the ask. Her name underlined twice. I can read it to both of you, or you two take the crate and I hold the door against Uncle. Your call. I already dug. I will not also manage your wanting."
+He reached around her to touch the ledger spine. His arm caged her. She felt him thicken fully against her ass and had to lock her knees.
 
-John's mouth found the hinge of [player_name]'s jaw—teeth, breath, not a finished kiss. His fingers popped her jeans button. Waited.
+"Your hand stays or goes," she said, her voice unsteady. "Say which. I won't translate this ledger into comfort while you grind against me like the paper's optional."
 
-"Yes," she whispered. "Not inside. Not with Clara three feet away. Pressure. Proof we are flesh in the middle of his oilcloth."
+"Stays." His palm pressed harder, thumb under her navel. "I need weight. I need you not to vanish into evidence." He rolled against her once, filthy and helpless, then froze. "Fuck. Tell me to stop."
 
-His hand slid into her panties and cupped her cunt—finding her wet enough to make him swear soft into her skin.
+"Don't stop holding. Do stop hiding behind almosts." She covered his hand and pressed it to the button of her jeans. Heat flooded her. She was soaked enough that the shed's cold air made the damp obvious when she shifted.
 
-The words and his fingers braided. [player_name]'s knees went soft. John held her up with the arm at her waist and the hand between her legs, the stroke denied at the edge so choice could still exist. She could have fucked herself against his fingers and come beside his father's wrong signature. She did not. Taking the orgasm would have sanded the fork into comfort.
+John's mouth found the hinge of her jaw. Teeth, breath, not a finished kiss. His fingers popped the button. Waited.
 
-"Ledger with Clara first," John rasped against her ear, thumb resting on her clit without moving—cruel mercy. "You step back. We lock proof before I finish what my hand started. Or I stay on these pages with you—no secondhand truth—my fingers still smelling like your cunt when I turn the next sheet. Pick before I forget there is a choice and make you come on my hand in this gasoline dark."
+"Yes," she whispered. "Not inside. Pressure. Proof we're flesh in the middle of his oilcloth."
 
-The bulb swung. The ledger lay face-up. His hand did not move. Her cunt clenched around the absence of friction. Rain hammered. Henry's mantel clock kept counting beyond the warped boards. The exit already hurt: unanswered stroke, half-spoken truth in Clara's mouth, paper staring, cock hard against her ass.
+His hand slid into her underwear and cupped her, and he found her wet enough to swear softly into her skin.
 
-Clara held the flashlight like a verdict waiting to be aimed. John's breath shook on [player_name]'s neck. Neither of them closed the distance into a kiss. The almost hung with the bulb's swing—want and evidence braided, unfinished, demanding which loyalty got the next page.
+He flipped the notebook open one-handed and read Henry's draft aloud, low, against her neck. I need you to go. Not forever. Long enough. Say you want more. He'll believe that from you.
 
-Clara turned a page. Numbers. Skips. Voss. John's hand stayed in [player_name]'s panties like a vow he refused to rank below paper—two fingers cradling her cunt, thumb a threat on her clit, not stroking, just owning the wet truth while his sister read columns aloud. Every time Clara said a number, John's breath hitched against [player_name]'s neck and his cock twitched against her ass. Grief and fuck sharing a nervous system. She was so wet his fingers shone when he adjusted his hold; he wiped them once on her inner thigh and put them back, shameless.
+The words and his fingers braided. [player_name]'s knees went soft. John held her up with the arm at her waist and the hand between her legs, the stroke denied at the edge so choice could still exist. She could have fucked herself against his fingers and come beside his father's wrong signature. She didn't. Taking it now would have turned the choice into comfort.
 
-"You are dripping on my family's crime," he whispered, wrecked-soft. "Do not apologize. I want the proof and I want you shaking on it. If that makes me monstrous, fine. Monstrous is still more honest than kindness."
+John turned a page. Numbers. Skips. Voss. His hand stayed where it was like a vow he refused to rank below paper, two fingers cradling her, thumb a threat on her clit, not stroking. Just owning the wet truth while he read columns aloud. Every time he said a number, his breath hitched against her neck and his cock twitched against her ass. She was so wet his fingers shone when he adjusted his hold. He wiped them once on her inner thigh and put them back, shameless.
 
-[player_name] reached behind herself and gripped him through his jeans—hard, thick, straining—and squeezed once until he cursed into her hair. "Then do not pretend your cock is an accident in this shed. Own it the way you want to own the pages." She released him. Left him aching. Fair trade for the unfinished stroke between her legs.
+"You're dripping on my family's crime," he whispered, wrecked and soft. "Don't apologize. I want the proof, and I want you shaking on it. If that makes me monstrous, fine. Monstrous is still more honest than kindness."
 
-Clara's voice cut through, crisp: "Rubber band on the notebook is going to snap if someone does not open it. I am not your chaperone. I am your witness. Act like it."
+[player_name] reached behind herself and gripped him through his jeans, hard and straining, and squeezed once until he cursed into her hair. "Then don't pretend your cock is an accident in this shed. Own it the way you want to own the pages."
 
-Outside, Henry called once—thin, porch-bound—and John's fingers twitched on her clit without granting the stroke, a flinch of fury translated into almost-pleasure. [player_name] bit her lip hard enough to taste copper. She could shove his hand deeper and take what her body screamed for. She could step away and let Clara's flashlight be the only heat in the shed. Both exits hurt. Both left something throbbing and unanswered.
+She let go and left him aching. A fair trade for the unfinished stroke between her legs.
 
-"Decide," John breathed, lips brushing her ear, cock still a hard line against her. "Before I fuck this choice into something we cannot take back beside these numbers."
+Outside, Henry called once from the porch, thin and far. Clara answered something sharp. John's fingers twitched on her clit without granting the stroke, fury translated into almost-pleasure. [player_name] bit her lip hard enough to taste copper. She could push his hand deeper and take what her body screamed for. She could step away and call Clara back in, and let the flashlight be the only heat in the shed.
 
-She could still feel the shape of his cock in her palm after she let go—memory burning hotter than the bulb. He could still feel how her cunt had fluttered against his still fingers when Clara read the underlined exile line. Neither of them moved to finish what they had started. Finishing would have been mercy. Mercy was Henry's word, and it had no place on this oilcloth. The unfinished fuck and the unfinished page were the same hunger wearing two coats, and the shed demanded she pick which coat got buttoned first while her clit throbbed unanswered and his zipper strained.
+She could still feel the shape of him in her palm after she let go. He could still feel her flutter against his still fingers when he'd read the line about wanting more. Neither of them moved to finish. Finishing would have been mercy, and mercy was Henry's word. It had no place on this oilcloth.
 
-"Clara," John said without looking away from [player_name]'s throat, "read the next draft line. Out loud. If she comes from hearing it on my hand I will not be sorry."
+"I won't come as a punctuation mark on Henry's draft," she managed, though her hips betrayed her with a tiny push into his palm. He denied the rhythm and held her on the edge, using desire as a stay against vanishing. "Ask me while I can still think."
 
-"I will not come as a punctuation mark on Henry's draft," [player_name] managed—though her hips betrayed her with a tiny push into his palm. He denied the rhythm. Held her on the edge like a man using desire as a stay against vanishing. "Ask me to choose while I can still think."
+"I'm asking." His teeth scraped her earlobe. "Pull my hand out and call her back, and we lock the proof before I finish what I started. Or keep me here, fingers on you and on every page, and stop treating me like glass."
 
-"I am asking." His teeth scraped her earlobe. "Proof with her—or pages with me while I keep my fingers in your cunt and refuse every secondhand mercy. Both hurt. Both leave you wet. Only one stops treating me like glass."`,
+A knock rattled the warped door. Clara's voice, muffled by rain: "Two minutes."
+
+The bulb swung. The ledger lay face-up. His thumb rested on her clit, unmoving, cruel, and his cock strained against her through wet denim while she decided which of them got to turn the next page.`,
   choices: [
     { id: "scene6n", text: "Lock the proof with Clara — shut him out of the order", textHot: "Pull his hand off — lock the ledger with Clara before you come" },
     { id: "scene6o", text: "Put John's hands on the pages — no more secondhand", textHot: "Keep his fingers on you — and on every page — no more secondhand" }
