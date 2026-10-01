@@ -2,88 +2,180 @@ export default {
   id: "scene2b",
   layer: 2,
   title: "Rhea's Desk / Concierge Slate",
-  text: `Rhea Quinn's concierge desk sat in Crownspire's lobby like a throne that pretended to be furniture. Polished stone. Soft lamp. A slate that never slept. [player_name] came down alone—Nolan's knock still echoing upstairs, Brooks's badge already a rumor in the glass—and the elevator chime that delivered her felt less like arrival than like being sworn in.
+  text: `The lobby elevator let her out at 11:14. [player_name] checked the clock on the wall behind the concierge desk because checking the time was easier than checking her face.
 
-Rhea looked up without surprise. Concierges in buildings like this practiced unsurprise the way other people practiced scales. Her eyes, though, were careful. Careful was Rhea's whole religion.
+Nolan's knock was still on her door upstairs. She'd left him standing in it.
 
-"Ms. [player_name]," Rhea said. Not neighbor. Not the woman across from Greer. Just the name, set down gently, as if it might bruise. "Detective Brooks is with the evening manager. Missing-persons. Mrs. Greer." A pause that wore gloves. "She'll want the slate. She'll want anyone who lives close enough to hear a door."
+Crownspire's lobby was built to make people whisper. Stone floor. Glass three stories high. A lamp on the desk that turned Rhea Quinn's skin gold and her eyes unreadable. Rhea looked up without surprise. Rhea never looked surprised. It was the job.
 
-[player_name] rested her fingertips on the desk edge. Early thirties, across-the-hall mistress, softest possible witness if the money needed one. She could still smell Nolan's cologne on her sleeve from the hallway near-miss. She could still taste wine she had not finished. She could still feel Vivienne's unused perfume as a ghost in rooms she should not know.
+"Ms. [player_name]," Rhea said. Just the name. Set down carefully. "Detective Brooks is in the back office with the evening manager. Missing-persons. Mrs. Greer."
 
-"Show me," [player_name] said.
+"I heard," [player_name] said.
 
-Rhea hesitated—only a breath—then angled the guest slate so the lobby cameras caught nothing useful and [player_name] caught everything. Marks in neat columns. Vivienne Greer: present, present, present, weekly as a metronome. Then the gaps widened. Monthly. A polite blank. Another blank. Then the kind of silence that made a building invent travel stories because silence without a story made detectives.
+"She'll want the slate." Rhea's hands stayed folded on the desk. "And anyone who lives close enough to hear a door."
 
-"Weekly," [player_name] murmured. "Then monthly. Then gone."
+[player_name] rested her fingertips on the stone. Cold. "Show me."
 
-Rhea's mouth tightened. "I don't write *gone*. I write what arrives. What doesn't arrive writes itself."
+Rhea held still for one breath. Then she angled the tablet a few degrees. Away from the camera over the mail room. Toward [player_name].
 
-Behind them, lobby glass threw Detective Imani Brooks in reflection before the woman herself turned—badge already flashed once for the manager, dark coat, posture that said missing-persons without needing homicide's colder grammar. Not yet. Tonight Brooks was still hunting a living schedule that had thinned into rumor.
+The guest slate. Columns of names and times in Rhea's neat entries. Vivienne Greer, present. Present. Present. A visit every week, regular as rent. Then the gaps opened. One a month. A blank. Another. Then nothing at all, row after row of nothing, the kind of white space that made a building start telling travel stories.
 
-[player_name] kept her face even. Hope and dread shared her ribs: Vivienne willing in Milan; Vivienne paid to vanish; Vivienne nowhere; Vivienne staging every blank for a reason that would make the soft alibi look like costume. All four doors open. Rhea's slate did not close any of them. It only proved the cadence.
+"Weekly," [player_name] said. "Then monthly. Then gone."
 
-"Brooks will ask if you saw Mrs. Greer leave with bags," Rhea said quietly. "She'll ask about the black car. She'll ask which nights Mr. Greer's private elevator ran late—and who got off on your floor." Rhea's gaze flicked, almost kind. "She already asked me if the neighbor across the hall was... close."
+Rhea's mouth tightened. "I don't write gone. I write what arrives." She touched the edge of the screen, not the marks. "What doesn't arrive writes itself."
 
-Close. Soft word. Hard meaning.
+Behind them, the lobby glass caught movement. A woman stepped out of the back office with the manager trailing her. Dark coat. Flat shoes built for stairs. A badge clipped at her belt that she touched once, without looking, like a habit. Detective Imani Brooks. She didn't look over. Not yet. She was letting the manager finish a sentence he clearly thought was important.
 
-Marcus Pell was not in the lobby yet, but [player_name] could feel his future arrival like weather: NDAs, private planes, *she's traveling* aged wrong on a tongue that sold silence. Nolan would want her upstairs. Brooks would want her on record. Rhea wanted—what Rhea always wanted—the building to survive its own gossip.
+"She'll ask about bags," Rhea said, lower. "She'll ask about the black car. She'll ask which nights Mr. Greer's private elevator ran late." A pause. "And who got off on your floor."
 
-[player_name] traced one blank line with her eyes, not her finger. "If I walk this log toward Brooks, I cooperate on the gaps."
+"His elevator doesn't stop on my floor," [player_name] said. "It goes up."
 
-"You become useful," Rhea said. "Useful people get interviews. Useful people also get named."
+"His door is on your floor." Rhea didn't blink. "She already asked me if the neighbor across the hall was close."
 
-"And if I stall?"
+"What did you tell her?"
 
-Rhea almost smiled. Almost. "Then you buy an hour. Maybe two. You ask me which nights the black car idled and which nights it didn't, and you hope the detective's patience lasts longer than the elevator ride back to your floor." A beat. "Patience is not Brooks's brand. Missing-persons files eat hours. They also escalate when soft answers start smelling like cover."
+"That I'm a concierge, not a priest."
 
-Wind sheer murmured against the high lobby glass. Somewhere above, Nolan Greer's cufflinks were probably clicking around Vivienne's name. Somewhere across the hall from him, [player_name]'s wine still sat making a ring on marble she had left behind to come down into memory. The unused perfume in his master bath did not care who got interviewed first. The perfume only waited, like a question capped in glass.
+[player_name] almost laughed. The laugh got stuck somewhere around her sternum.
 
-Brooks finished with the manager and turned fully toward the desk. Badge flash again—brief, bright, procedural. "Ms.—" She checked a notepad. Said [player_name]'s name as if it were already underlined. "I'd like a word about Mrs. Greer's visits. Neighbor proximity. Building access. Nothing dramatic. Missing-persons likes calendars before it likes theories."
+"Did Mrs. Greer ever ask about me?" [player_name] said.
 
-Rhea's hand hovered near the slate—protecting or offering, unclear. [player_name] felt the soft alibi settle around her shoulders like a coat someone else had chosen.
+Rhea took a long moment. "Once."
 
-She could walk Rhea's log toward Brooks: cooperate on the calendar gaps, become the woman who helped the badge climb with facts. Or she could stall the slate—buy silence with Rhea before Brooks owned the night and the neighbor door and every empty mark that had invited [player_name] into Nolan's heat in the first place.
+"What did she say?"
 
-Either path made her pliable evidence. The only difference was who got to bend her first: law, or the building's private memory.
+"She asked whether you took your mail in the morning or at night." Rhea's voice gave nothing. "I told her I don't track residents' mail."
 
-She remembered the first time she noticed the thinning: Vivienne in the lobby with a smaller bag than a weekly wife should carry, nodding at Rhea without warmth, perfume already fading as if she had stopped applying it on purpose. Nolan had knocked that same night. [player_name] had opened. The affair had learned to live inside calendar gaps the way vines learned to live in cracked stone—beautiful, invasive, eventually load-bearing.
+"Do you?"
 
-Brooks waited with the notepad. Rhea waited with the slate. Above them, Crownspire stacked money and hush and unused perfume. [player_name] understood, with a clarity that hurt, that cooperating would make her a witness and stalling would make her an accomplice of atmosphere. Soft either way. Soft was the point. Soft was the trap Vivienne's absence had carved for the woman across the hall.`,
-  textHot: `Rhea Quinn's desk smelled like citrus polish and other people's secrets. [player_name] stepped out of the elevator with the late chime still buzzing under her skin—Nolan's almost-touch upstairs unfinished, wine ring abandoned on her marble, body still humming from a hallway that had wanted her mouth before it wanted her statement. Crownspire's lobby lights were soft. Soft lights made soft alibis look prettier. Detective Imani Brooks's badge flash cut through that prettiness like cold metal against a pulse point.
+"I track everything," Rhea said. "I just don't say it to wives."
 
-Rhea looked up. Careful eyes. Concierge neutrality stretched thin over something that knew too much about weekly silk and monthly blanks and the gone that nobody wrote down.
+Close. A soft word with a hard center. She could still smell Nolan's cologne on her wrist from where he'd leaned in her doorway. She could still feel the click of his cufflink like it had happened against her skin.
 
-"Ms. [player_name]." Rhea's voice was low enough to feel. "Brooks is with the manager. Missing-persons. Mrs. Greer. She'll want the slate. She'll want the neighbor who hears doors—and who opens them for Mr. Greer when the calendar thins."
+She traced one blank row with her eyes. Not her finger. Fingers left marks.
 
-Heat climbed [player_name]'s throat. Early thirties, across-the-hall mistress, softest answer money could buy—and her body still remembered Nolan's cufflink click as if it had been a fingertip at her zipper. Vivienne's unused perfume lived in her memory like a kiss she shouldn't have tasted. She set her hands on the desk to steady them and felt the stone cool against damp palms.
+"If I walk this over to her," [player_name] said, "I'm cooperating."
 
-"Show me," she said, and the words came out huskier than lobby etiquette allowed.
+"You're useful," Rhea said. "Useful people get the nice chair. Useful people also get their names in the file."
 
-Rhea angled the guest slate. Marks. Gaps. The cadence that had trained [player_name]'s wanting: present, present, weekly metronome—then monthly—then blank after blank until the building invented travel because silence without a story made detectives hungry. [player_name]'s thighs tightened inexplicably at the sight of those blanks. Empty nights had always meant Nolan's knock. Empty nights had always meant heat. Now empty nights meant Brooks.
+"And if I don't? If I ask you for an hour?"
 
-"Weekly. Monthly. Gone," [player_name] breathed.
+Rhea's eyes went to the back office and returned. "Then you get an hour. Maybe. You ask me what the slate doesn't say. Which nights the car idled and which nights it didn't. And you hope her patience lasts longer than your nerve." A beat. "Patience isn't her reputation."
 
-"I don't write gone," Rhea murmured. "Gone writes you."
+Marcus Pell wasn't here. [player_name] could feel the space where he'd be. NDAs. Planes. The word traveling polished until it reflected whatever you needed. Nolan would want her upstairs. Brooks would want her on record. Rhea wanted what Rhea always wanted: the building upright in the morning.
 
-Brooks turned in the glass—badge, coat, missing-persons posture that had not yet hardened into homicide's colder grammar. Hope and dread slid under [player_name]'s ribs together, intimate as hands: Vivienne willing, paid, dead, staging—all four still open, all four making every cooperative breath feel like undressing for the law.
+She remembered the first thin night. She hadn't known it was the first. Vivienne crossing this lobby in cream silk with a bag too small for a wife who planned to stay. Nodding at Rhea without warmth. Perfume trailing faint, like she'd stopped putting it on fresh. Rhea had marked her present. That same night Nolan knocked. [player_name] opened.
 
-"She'll ask about bags," Rhea said softly. "Black car. Late private elevator. Who got off on your floor." A flick of gaze that landed like a touch. "She already asked if you were close."
+That was the trouble with gaps. Something always grew in them.
 
-Close. The word went through [player_name] low. Close was Nolan's mouth almost on hers. Close was perfume in a bath she should not enter. Close was twelve steps across a hall that had become a second skin.
+Hope sat under her ribs. Vivienne in Milan under a borrowed name, laughing at all of them. Dread sat right next to it. Vivienne paid to fade. Vivienne nowhere. Vivienne writing these blanks herself for a reason nobody had guessed. The slate didn't close any of it. The slate only proved the rhythm.
 
-Marcus Pell's future arrival pressed the air—NDAs, planes, *traveling*—but Pell was not here to put language between [player_name]'s pulse and Brooks's badge. Nolan was upstairs wanting cover and company. Brooks was crossing the lobby wanting calendar. Rhea wanted the building intact. [player_name] wanted—traitorously—both survival and the unfinished heat she had walked away from to come read a slate like erotica made of absences.
+Across the lobby, the manager stopped talking. Brooks turned.
 
-Brooks arrived at the desk. Badge flash again, bright enough that [player_name] felt it at her sternum. "Ms. [player_name]. Neighbor proximity. Mrs. Greer's visits. Nothing dramatic yet. Missing-persons likes soft timelines before hard theories."
+She had a face that had heard every version of every story and didn't hold it against anyone. Gray at the temples she hadn't bothered to hide. She crossed the stone without hurrying, notebook already open.
 
-Yet. The word brushed her like a warning fingertip.
+"Evening," Brooks said. She glanced at Rhea, then at the angled tablet, then at [player_name]. She said [player_name]'s name like she'd already underlined it. "You're the neighbor. Across from Greer."
 
-Rhea's hand hovered on the slate. [player_name]'s mouth was dry; her skin was not. She could walk the log toward Brooks—cooperate on gaps, let the detective's questions climb her like attention—become useful, named, recorded while her body still ached for the man upstairs whose cufflinks lied. Or she could stall—lean into Rhea's silence, buy an hour with black-car nights and withheld marks, keep the soft alibi pliable for Nolan a little longer while want and dread shared her bloodstream.
+"I live on that floor," [player_name] said.
 
-Either path felt like opening a blouse for different hands. Law or building memory. Badge or slate. The elevator chimed behind her, late and silver, and the sound traveled straight down her spine into the choice.
+"Good. Then you know what it sounds like at night." Brooks flipped a page. "I'd like a word about Mrs. Greer's visits. Nothing dramatic. Missing-persons likes calendars before it likes theories."
 
-She remembered the first thinning night in her body: Vivienne's smaller bag, fading perfume, Nolan's knock arriving like a hand at the small of her back. [player_name] had opened in a silk slip and let empty calendar become permission. The affair had grown in those gaps until wanting him and erasing a wife lived in the same breath. Now Brooks's badge wanted that breath on record.
+Rhea's hand hovered over the tablet. Protecting it or offering it. [player_name] couldn't tell which.
 
-[player_name]'s pulse jumped when Brooks's pen clicked. Rhea's slate gleamed. Above them Nolan waited with cufflinks and brutal charm and a private elevator that smelled like unfinished kisses. Cooperating would put [player_name]'s soft mouth near the law; stalling would keep it near him. Either way she was pliable. Either way want made the pliable part feel like arousal instead of surrender—and that was the most dangerous softness of all.`,
+In her pocket, her phone buzzed. Once. She didn't need to look. She looked anyway, thumb shielding the screen.
+
+Nolan: Door's still open.
+
+Heat climbed her throat. Brooks watched it climb.
+
+"Ms. [player_name]?" Brooks said.
+
+The tablet glowed between them, its blank rows bright as teeth.`,
+  textHot: `Her thighs still hummed when the lobby elevator opened. Nolan had leaned in her doorway two minutes ago, close enough to breathe on her mouth, and she'd stepped past him to come down here. Her body hadn't agreed. Her body was still upstairs, pressed against him.
+
+11:14 on the clock behind the concierge desk. [player_name] fixed her eyes on it and made her breathing slow.
+
+Rhea Quinn looked up. Gold lamp, careful eyes, nothing on her face. Concierges in Crownspire were trained like that. Rhea had gone further. Rhea had made it an art.
+
+"Ms. [player_name]," Rhea said. "Detective Brooks is in back with the evening manager. Missing-persons. Mrs. Greer."
+
+"I heard," [player_name] said.
+
+"She'll want the slate." Rhea's gaze moved once, quick, to [player_name]'s throat, where her pulse was showing. "And the neighbor who hears doors."
+
+[player_name] laid her palms on the desk. The stone was cold. Her hands were damp. "Show me."
+
+Rhea angled the tablet away from the camera. Toward her.
+
+Present. Present. Present. Vivienne Greer every week, steady as a heartbeat. Then the gaps. Monthly. Blank. Blank. Then rows of white.
+
+[player_name]'s stomach dropped and something lower clenched. She knew those blank rows. Not from the slate. From her own bed. Every white row was a night Nolan's knock had come instead. Every white row was his hands, his weight, his voice in the dark telling her not to be quiet.
+
+"Weekly," she said. Her voice came out husky. She cleared it. "Monthly. Gone."
+
+"I don't write gone," Rhea said. "I write what arrives."
+
+The lobby glass moved. Brooks came out of the back office with the manager at her heel. Dark coat. Flat shoes. She touched the badge at her belt once, like checking it was still there. She didn't look over. She was listening to the manager with the patience of someone who already knew how his sentence ended.
+
+"She'll ask about bags," Rhea murmured. "The black car. Mr. Greer's elevator running late." Her eyes lifted. "Who walked across your hall at one in the morning."
+
+Heat flooded [player_name]'s face. Her neck. Her chest under the silk. "She asked you that?"
+
+"She asked if you were close."
+
+Close. The word went down her spine and spread. Close was his mouth an inch from hers in the doorway. Close was his thigh between hers on her own couch, her skirt rucked up, the cufflink cold against the inside of her knee. Close was what she'd been every empty night since the slate went thin.
+
+"What did you tell her?"
+
+"That I'm a concierge, not a priest."
+
+[player_name] almost laughed. It caught.
+
+"Did Mrs. Greer ever ask about me?" she said.
+
+"Once." Rhea let it hang. "She asked whether you took your mail in the morning or at night."
+
+A chill slid down [player_name]'s back and met the heat coming up. The two of them tangled at the base of her spine. "What did you say?"
+
+"That I don't track residents' mail." Rhea's mouth barely moved. "I track everything. I just don't say it to wives."
+
+She remembered the first thin night with her whole body. Vivienne crossing this lobby in cream silk, bag too small, perfume faint like she'd stopped wearing it fresh. Rhea marked her present. An hour later Nolan was in [player_name]'s doorway. He hadn't said a word. He'd backed her against the wall and kissed her like a man coming up for air, his hand already under her skirt, finding her wet, groaning into her mouth like she'd done it to him. She'd told herself it was once. The calendar had told her otherwise.
+
+"If I walk this to her," [player_name] said, "I'm cooperating."
+
+"You're useful," Rhea said. "Useful gets the soft chair. Useful also gets named."
+
+"And if I ask you for an hour?"
+
+"You get one. Maybe. You ask me what the slate leaves out. Which nights the car idled." Rhea's voice dropped lower. "And you hope her patience outlasts your nerve."
+
+Marcus Pell wasn't here. She could feel the shape of where he'd stand. Silk-lined NDAs. Planes. Nolan would want her back upstairs, in his bed, quiet. Brooks would want her mouth on the record. Rhea wanted the building standing at dawn.
+
+Behind her the elevator chimed, empty, heading back up. Her body leaned toward the sound like it was his voice. Twelve steps. His door. His hands. She'd be on his bed with her dress around her waist before Brooks finished her next sentence, and for twenty minutes none of this would exist. The thought made her ache so sharply she had to put more weight on her palms to stay still.
+
+Under all of it, hope and dread lay against each other like two bodies in one bed. Vivienne in Milan, laughing. Vivienne paid to fade. Vivienne nowhere. Vivienne writing her own white rows. The slate didn't pick. It just kept the beat.
+
+Brooks finished with the manager and turned.
+
+Her eyes went to Rhea. To the tablet. To [player_name]. They stayed on [player_name] a beat too long, on her flushed throat, her tight shoulders. Brooks had read faces like hers before. [player_name] could tell.
+
+"You're the neighbor," Brooks said. She crossed the stone, unhurried, notebook open. "Across from Greer."
+
+"I live on that floor," [player_name] said.
+
+"Then you know what it sounds like at night." Brooks's pen waited. "I'd like a word about Mrs. Greer's visits. Nothing dramatic. Missing-persons likes calendars before theories."
+
+Rhea's hand hovered over the tablet.
+
+[player_name]'s phone buzzed against her hip. Once. A pulse against bone. She knew who before she looked.
+
+Nolan: Door's still open. So am I.
+
+The words hit low. Her thighs pressed together under her dress. Her nipples ached against silk.
+
+Brooks watched her read it.
+
+"Ms. [player_name]?" Brooks said.`,
   choices: [
     { id: "scene3c", text: "Walk Rhea's log toward Brooks — cooperate on the calendar gaps", textHot: "Walk Rhea's log toward Brooks — let the calendar gaps open you for the badge" },
     { id: "scene3d", text: "Stall the slate — buy Rhea's silence before the badge climbs", textHot: "Stall the slate — buy Rhea's silence with your pulse still racing for Nolan" }

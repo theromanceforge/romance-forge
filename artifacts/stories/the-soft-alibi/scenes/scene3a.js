@@ -2,70 +2,204 @@ export default {
   id: "scene3a",
   layer: 3,
   title: "Protect Nolan",
-  text: `Protecting Nolan began as a sentence [player_name] did not say aloud. It lived instead in the way she set her wine down carefully inside the dark ring on his marble, in the way she did not look toward the master corridor where Vivienne's unused perfume waited, in the way she let Detective Imani Brooks's name enter the penthouse without flinching hard enough to look like guilt.
+  text: `She took her hand off his chest. "Answer it."
 
-"I'll be soft," [player_name] said. Early thirties, across the hall, mistress with a calendar memorized in her bones. "I won't invent. I also won't hand her the nights I can't explain without handing her you."
+Nolan picked up the phone on the third buzz. He listened. He said, "Thank you, Rhea," in the voice he used for waiters and senators, and set it face down on the marble.
 
-Nolan Greer watched her from the glass—mid-forties, finance-and-tech holding money worn like a tailored threat, cufflinks catching city light. Brutal charm softened half an inch into something that might have been gratitude if gratitude did not look so much like relief at a cover fitting. "Pell will want to hear that phrasing," he said. The cufflinks clicked once. "Pell loves phrasing."
+"Brooks wants neighbor interviews before midnight," he said. "Lobby or the upstairs lounge. Her pick of the room. Our pick of the hour."
 
-"Pell can wait," [player_name] answered. "Brooks can't. She's missing-persons tonight. She wants Mrs. Greer on a map. If I give her weekly-to-monthly without giving her gone as a body, maybe she stays in the lobby longer."
+"So she's coming up," [player_name] said.
 
-Ambiguity was the gift she was offering him—and the cage she was stepping into. Vivienne willing. Vivienne paid. Vivienne dead. Vivienne staging. [player_name] would not pick. Picking made soft into sharp. Sharp cut the man she was choosing to protect.
+"She's coming closer." He didn't move toward her. He waited. He was good at waiting when he wanted something.
 
-Nolan crossed to her. Still not quite touching. The private elevator chimed faintly in the shaft like a reminder that Crownspire always had another floor listening. "What did you see," he asked quietly, "that you're refusing to name?"
+[player_name] looked at the two wine rings on the table, nested into one. She looked at the window, where her reflection stood beside his like a photograph someone would subpoena.
 
-Wine. Wind sheer. Perfume ghost. [player_name] smiled the way soft alibis smiled. "I saw a marriage thin itself into a schedule. I saw you open a door for me when the schedule failed. I saw Rhea's slate go blank. I did not see a crime with a shape Brooks can photograph."
+"I'll be soft," she said.
 
-It was almost true. Almost was the softest currency in the building.
+His shoulders came down a quarter inch.
 
-He exhaled. His hand finally found her elbow—light, claiming, careful. "Then when she asks, you were with me on the empty nights that matter. Dinner. Wine. Across the hall and then here. Vivienne was traveling. Pell has itineraries. You never saw bags that looked like goodbye. You never heard a fight that sounded like ending." His thumb stroked once. "Can you wear that?"
+"I won't invent anything," she said. "But I won't hand her the nights I can't explain without handing her you."
 
-[player_name] thought of Rhea's careful eyes downstairs. Of Brooks's badge flash. Of the black car idling on nights the slate still lied with monthly marks. Of a bag that had sat by a door and then had not. She folded those almosts into the place behind her ribs where want and dread already shared a bed. "I can wear it," she said. "Softly."
+"Pell will love that sentence," Nolan said.
 
-Nolan's mouth tipped. "Softly is how we survive until Pell arrives—or until Brooks decides missing-persons needs a harder room."
+"Pell can wait. Brooks can't." She picked up her glass and didn't drink. "She's missing-persons tonight. She wants Vivienne on a map. If I give her weekly and monthly and leave the blank alone, maybe she stays downstairs a while."
 
-They stood in the wine-ringed quiet and practiced the story once—dates that matched elevator logs, dinners that matched delivery tickets, nothing that matched the night [player_name] had almost asked why Vivienne's perfume had been opened and capped again like a changed mind. Nolan's cufflinks stayed mostly still when he said *traveling*. Mostly. [player_name] filed the mostly away without using it.
+"And if she doesn't?"
 
-A house phone purred. Rhea's voice, careful: Brooks was requesting neighbor interviews before midnight. Lobby or upstairs lounge.
+"Then I'm still soft. Just tired."
 
-Nolan looked at [player_name]. "You can seal this with me—stay, be cover, let the soft alibi warm into something she can't peel off without looking cruel. Or you can call Pell yourself and lawyer the night before Brooks records a single soft word." A beat. "Calling Pell will feel like distrust. Staying will feel like becoming the story."
+He came around the table. Slow, the way he moved in boardrooms when the other side had already folded and didn't know it yet. He stopped close. Not touching. The city glittered behind him.
 
-Across the hall, her own door waited. In the penthouse, unused perfume and overlapping wine rings and an elevator chime made the decision taste like complicity aged in oak.
+"What did you see?" Nolan asked. Quiet. "The thing you won't say."
 
-[player_name] understood protection was not innocence. She had offered the soft alibi without naming what she saw. Now she had to decide whether to let Nolan seal that cover against her mouth—or invite Marcus Pell's silence between them before the badge climbed.
+She'd known he would ask. She hadn't known he'd ask it gently. That was worse.
 
-She walked once to the corridor mouth and stopped short of the master bath, close enough to catch the perfume's ghost, far enough to pretend she had never stood at that sink on an empty night with Nolan's shirt around her shoulders. The bottle sat like a museum label for a person who might still be traveling, might still be bargaining, might still be breathing elsewhere, might still be writing this absence herself. [player_name] did not touch it. Touching would make the soft story remember her fingerprints.
+"I saw a marriage turn into a schedule," [player_name] said. "I saw you open a door for me when the schedule stopped. I saw Rhea's slate go white." She held his gaze. "I didn't see anything Brooks could photograph."
 
-Nolan waited by the glass with the patience of money. Brooks waited below with the patience of a file that had not yet decided to become something bloodier. Pell waited in the near future with language sharp enough to sand guilt into itinerary. And [player_name] stood between wine ring and perfume ghost, early thirties and suddenly older, choosing how tightly to wear a man who might have made his wife disappear—or might only have learned, years ago, that absence could be purchased and explained as travel.`,
-  textHot: `Protecting Nolan began in [player_name]'s mouth before it became strategy—an unspoken *I've got you* shaped like want. She set her wine inside his dark ring on the marble and felt the gesture travel up her arm like a vow. Unused perfume breathed from the master corridor. Detective Imani Brooks's name entered the penthouse and settled against [player_name]'s skin beside Nolan's nearness, law and heat sharing the same square of floor.
+It was almost true. In Crownspire, almost spent like cash.
 
-"I'll be soft," she said, voice low. Early thirties, across-the-hall mistress, calendar written on her pulse. "I won't invent. I also won't hand her the nights that undress you."
+He breathed out. His hand found her elbow, light. "Then here's what you were. With me. On the nights that matter. Dinner. Wine. Your place, then mine. Vivienne was in Milan. Pell has the itineraries. You never saw a bag that looked like goodbye. You never heard a fight." His thumb moved once over the inside of her arm. "Can you wear that?"
 
-Nolan Greer's cufflinks caught light as he moved in—mid-forties brutal charm, finance-tech money, not clean-cut, never soft where her body liked him hard. "Pell will want that phrasing." Click. "I want your mouth on the story before he gets to sand it."
+She thought of the bag outside his door that wasn't there by morning. The car idling twenty minutes. The bottle opened and capped. She folded each one smaller and put them away.
 
-He stopped close enough that wool brushed silk. [player_name]'s breath snagged. "She's missing-persons tonight," she whispered. "Weekly to monthly without giving her gone as a corpse. Soft map. Soft neighbor. Soft enough she stays downstairs."
+"I can wear it," she said.
 
-Ambiguity was the sheet they pulled over themselves: Vivienne willing, paid, dead, staging—unnamed, untouched, still erotic in the way unfinished danger always was. [player_name] would not pick a fate while his heat was this near; picking would turn want into evidence.
+"Softly," he said.
 
-"What did you see that you're refusing to name?" Nolan asked against her temple, not quite a kiss.
+"Softly."
 
-Wine. Wind. Perfume ghost. Her thighs tightened. "A marriage thinning into a schedule. Your door opening for me. Rhea's blanks. Not a crime shaped for photographs." Almost true. Almost made her wet with complicity.
+So they practiced.
 
-His hand found her waist—claiming, careful, thumb stroking the silk until her pulse stumbled. "Then when Brooks asks, you were with me on the empty nights. Dinner. Wine. Across the hall and then here. Vivienne traveling. Pell's itineraries. No goodbye bags. No ending fights." His mouth brushed the corner of hers. "Can you wear that soft enough that it feels like truth on your tongue?"
+He gave her dates and she matched them to things that existed. The Tuesday the elevator log would show him going up at nine and not coming down. The Friday a delivery ticket put Thai food at her door for two. The Thursday she'd been at a gallery opening downtown, which was true, and which he made her say twice so it sounded true. He was good at this. Too good. He built a week of nights out of receipts and her voice, and when it was done it stood up on its own.
 
-[player_name] thought of the black car, the vanished bag, the perfume opened and capped—almosts folded behind her ribs where dread and arousal already shared a bed. "I can wear it," she breathed against his mouth. "Softly."
+He said traveling four times. The cufflinks stayed quiet three of them.
 
-They practiced the story between almost-kisses—dates matched to elevator logs while his hand spanned her hip, dinners matched to tickets while her fingers hooked his belt loop and did not pull, nothing matched to the night she had stood in Vivienne's bath smelling like intrusion and need. His cufflinks stayed mostly still on *traveling*. Mostly. The mostly teased her like a withheld climax.
+The fourth time, a small click. He didn't hear it. She did. She filed it and said nothing.
 
-House phone. Rhea's careful warning: Brooks wanted neighbor interviews before midnight. Nolan's forehead rested to hers. "Seal it with me—stay, be cover, let soft alibi warm until she can't peel you off without looking cruel." His hand slid an inch higher under her ribs. "Or call Pell and lawyer the night. Distrust with a retainer. Or heat with a story. Choose while I can still feel you choosing."
+"Again," he said. "From the Tuesday."
 
-Elevator chime in the shaft. Wine rings overlapping. Perfume waiting. [player_name]'s body ached toward sealing; her conscience ached toward counsel. Soft either way. Soft, and burning.
+She said it again. Her voice was steadier. That scared her more than the click.
 
-She walked him backward half a step until glass kissed his shoulders and city light made a jury of their reflection—her palms on his chest, his cufflinks cool under her wrists, mouths almost mating and refusing. "If I seal this," she whispered, "I become the woman who knew the calendar thinned and still opened her door."
+When they were done she walked to the corridor. Not into it. Just to the mouth of it, where the bath light was still on and the bottle stood on the counter, full to the shoulder. Jasmine. Something cold underneath. She had stood at that sink once, after midnight, with his shirt around her shoulders and her hair wet, and she'd lifted that bottle and put it down without opening it. She'd felt like a thief anyway.
 
-"You already are," Nolan returned, voice shredded soft. "I'm asking you to become the woman who says it like care instead of confession."
+She didn't go in now. If she touched it tonight, the story would remember her fingerprints.
 
-[player_name] kissed the corner of his mouth once—pledge and punishment—and left the rest unfinished so the choice could still hurt.`,
+"Come away from there," Nolan said behind her.
+
+"I'm not in there," [player_name] said.
+
+"You're thinking in there." He was closer than she'd heard him come. "Brooks will be on this floor inside an hour. You can stay. Here. With me. Be the woman who was across the hall and then here. Let it get warm enough that she can't peel it off you without looking cruel."
+
+"Or?"
+
+"Or you pick up that house phone and call Pell yourself." His voice didn't change, but his jaw did. "Lawyer the night before she records a word. I won't stop you."
+
+"You'd hate it."
+
+"I'd hate it," he said. "And I'd let you."
+
+She turned. He was right there. She could see the small scar at the edge of his eyebrow she'd found with her mouth one night and never asked about.
+
+"Where's that from?" she asked, and touched it.
+
+"A man who thought I owed him money."
+
+"Did you?"
+
+"Not by the time Pell was finished." He didn't smile. "Ask me something easier."
+
+She didn't. She let her fingertip rest there a second longer than she should have, feeling the small ridge of it, the pulse at his temple underneath.
+
+He lifted his hand and put two fingers under her jaw. Tipped her face up. Looked at her like he was memorizing something he might have to describe later.
+
+Then he kissed the corner of her mouth. Just the corner. Warm. Dry. A seal on an envelope.
+
+He didn't move away. Neither did she. His breath was on her lips. Hers was on his. She could feel how easy it would be to turn her head half an inch and make it a real kiss.
+
+His fingers stayed under her jaw. She didn't turn her head. Not yet.
+
+Down the shaft, an elevator chimed. Rising.`,
+  textHot: `She took her hand off his chest. It cost her. "Answer it."
+
+Nolan picked up on the third buzz. Listened. "Thank you, Rhea." He laid the phone face down without looking at it, and his eyes never left her mouth.
+
+"Brooks wants neighbor interviews before midnight," he said. "Lobby or the upstairs lounge."
+
+"So she's coming up," [player_name] said.
+
+"She's coming closer." He didn't move. He let her feel the space he was leaving, and the space throbbed.
+
+[player_name] wet her lips. "I'll be soft."
+
+She watched it hit him. His shoulders loosened. His eyes went darker.
+
+"I won't invent anything," she said. "And I won't hand her the nights I can't explain without handing her you."
+
+"Pell would want that in writing," Nolan said.
+
+"Pell can wait. She can't." Her voice went lower. "Weekly. Monthly. I leave the blank alone. Maybe she stays downstairs."
+
+He came around the table. She felt him arrive before he got there, the heat of him reaching her stomach and breasts first. He stopped close. Wool against silk. Not quite.
+
+"What did you see?" he asked, his mouth near her temple. "The thing you won't say."
+
+Her thighs tightened. "A marriage turning into a schedule. Your door, opening for me. Rhea's white rows." She tipped her face up. "Nothing she could photograph."
+
+Almost true. The almost slid through her the way his hand would.
+
+His hand found her waist then. Wide. Hot through the silk. His thumb stroked once along her lowest rib, and her breath broke on it.
+
+"Then here's what you were," he said. "With me. Dinner. Wine. Your place, then mine. Vivienne in Milan. No bags. No fights." His mouth brushed the corner of hers. "Can you wear that?"
+
+The bag by his door. The idling car. The bottle opened and capped. She folded them small and swallowed them. "I can wear it."
+
+"Prove it." He turned her by the hips and walked her backward until the window was cold against her shoulder blades. City light poured over his face. "The Tuesday."
+
+"The Tuesday you went up at nine and didn't come down," she said. His hand slid down over her hip, her thigh, gathering silk. "I was here."
+
+"Doing what?"
+
+"Eating." His fingers found bare skin above her knee and climbed. Her voice shook. "Talking."
+
+"Liar." He sounded pleased. His knuckles brushed the inside of her thigh. "The Friday."
+
+"Thai food. Two orders. My door." His hand reached the edge of her underwear and stopped. Rested there. She could feel her own heat against his knuckles. She could feel him feel it. "We ate on the floor."
+
+"And after?"
+
+"Not in the statement."
+
+"The Thursday."
+
+"The gallery downtown. Real. Ask the bartender." Her breath hitched as his knuckles shifted. "I came home alone."
+
+"You came home and called me," he said. "And told me what you were doing with your hand."
+
+"That's not in the statement either."
+
+He laughed low, against her throat. His thumb pressed through the thin cotton, one slow stroke right where she was aching, and her head knocked back against the glass. "Again. From the Tuesday."
+
+She said it again. He touched her again. Each date a stroke. Each receipt a slow circle. Her hips started moving against his hand without her permission. The story got smoother in her mouth as the rest of her came apart. That frightened her. It also made her wetter.
+
+He said traveling once more, against her ear. The cufflink at his wrist was pressed to her inner thigh. When he said it, it clicked. She felt it on her skin.
+
+She grabbed his wrist. Held his hand still against her. Breathing hard.
+
+"What," he said.
+
+"Nothing." She didn't let go. She didn't push him away either.
+
+Over his shoulder, down the corridor, the bath light was on. The bottle on the counter. Full to the shoulder. Jasmine reached her even here, under his cologne, under her own scent. She'd stood at that sink once wearing his shirt and nothing else, still slick between her thighs from him, and picked the bottle up, and put it down. She'd felt like a thief.
+
+The want didn't leave her when she looked at it. It just went quiet and ashamed for a second. Then his breath hit her neck and it came roaring back.
+
+She looked at him instead.
+
+"Brooks will be on this floor in an hour," Nolan said. His hand flexed under hers, wanting to move. "Stay. Be here with me. Let it get warm enough that she can't peel it off you without looking cruel."
+
+"Or I call Pell," [player_name] said.
+
+"Or you call Pell." His jaw went tight. "From that phone. Before she records a word. I won't stop you."
+
+"You'd hate it."
+
+"I'd hate it. And I'd let you."
+
+She let go of his wrist and touched the small scar at the edge of his eyebrow instead. She'd found it with her mouth one night and never asked.
+
+"A man who thought I owed him money," Nolan said before she could.
+
+"Did you?"
+
+"Not by the time Pell was finished." He didn't smile. "Ask me something easier."
+
+He didn't move his hand. Just held it there, cupping her through cotton, the heat of his palm and the heat of her pressed together and neither of them moving. His forehead came down against hers.
+
+He kissed the corner of her mouth. Just the corner. A seal.
+
+Her hips rocked once against his still hand. He made a sound in his chest like something breaking.
+
+Down the shaft, an elevator chimed. Rising.`,
   choices: [
     { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi with Nolan — stay as cover with his mouth still unfinished on yours" },
     { id: "scene4b", text: "Call Pell — lawyer the night before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }

@@ -2,34 +2,210 @@ export default {
   id: "scene4d",
   layer: 4,
   title: "Unredacted Travel Story",
-  text: `"No," [player_name] said to Nolan Greer's mouth, and the word landed in the Crownspire hallway like a badge flash of her own. Early thirties. Across the hall. Soft alibi refusing romance until the unredacted travel story and the black-car nights sat naked under recessed light.
+  text: `"No," [player_name] said.
 
-Nolan stopped as if struck mid-lean. Cufflinks clicked—angry tell. Mid-forties money unused to *no* from women he had already mapped with his hands. "I gave you weekly to monthly to gone."
+She said it to his mouth, an inch from hers. It came out quiet. It landed like a slap.
 
-"You gave me a cadence," [player_name] said. "Now give me the itineraries without Pell's sandpaper. Milan dates. Zurich dates. Which flights existed. Which were paper. Which nights the black car idled with no Vivienne inside it—and which nights you knew."
+Nolan stopped mid-lean. He didn't step back. He just stopped, the way a car stops when the light changes and the driver isn't ready.
 
-Wind sheer. Elevator shaft breath. Detective Imani Brooks still missing-persons downstairs, still able to climb. Vivienne's unused perfume behind his door. Rhea's slate. [player_name] held all of them up like cards and refused to kiss through the shuffle.
+The cufflink clicked. Not a lie this time. Anger. She'd learned the difference tonight.
 
-Nolan dragged a hand down his face. Brutal charm cracked. "Some Milan trips were real. She posted once from a gallery I recognized. Some Zurich trips were Pell's grammar—hotel holds without room service, cars ordered and cancelled. The black car idled without her at least three times last season. I knew twice. The third I told myself was a driver's mistake." A beat. "I am telling you this in a hallway where Brooks could hear if she timed an elevator. That should matter to you."
+"I gave you weekly to monthly to gone," he said.
 
-"It matters," [player_name] said. "So does not becoming the soft mouth that kisses you quiet while planes don't exist."
+"You gave me a rhythm." She kept her back to the wall and her hands at her sides. "That's not the same as a story. I want the itineraries. Without Pell's sandpaper on them."
 
-Silence. Trust and want in a knife fight. He nodded once, sharp. "Then take the partial calendar truth and decide: confront me alone with it across these twelve steps—or bring me downstairs into Brooks's soft interview and make the unredacted story public enough to hurt."
+"You want me to do Pell's job in a hallway."
 
-Perfume ghost. Wine memory. Cufflink tick. Badge waiting. [player_name] had refused the romance. Now consequence asked whether partial truth stayed intimate—or became missing-persons theater with Nolan at her shoulder.
+"I want you to do yours," [player_name] said. "Milan dates. Zurich dates. Which flights existed and which were paper. Which nights the black car sat at the curb with nobody in it." A breath. "And which of those nights you knew."
 
-He did not reach for her again. That restraint was either respect or punishment. Crownspire's corridor cameras watched like polite gods. [player_name] felt older than her early thirties and younger than the marriage she had stepped into the gaps of. The travel story sat raw between them. Choosing alone-confrontation or soft-interview delivery would decide whether heat had any door left.`,
-  textHot: `"No," [player_name] said to Nolan's mouth, and refusing want hurt like biting through silk. Hallway light. Twelve steps. Soft alibi with teeth. "Cadence isn't enough. Unredacted travel. Black-car nights. Which planes were real. Which were Pell paper. Which idles you knew were empty—while my body still wants to open and won't."
+His jaw worked. He looked down the hall at the camera dome. Then at the elevator. Then at her.
 
-Cufflinks clicked angry. Charm cracked. He looked wrecked and hard and almost proud. "Some Milan real—gallery post I knew. Some Zurich Pell grammar—holds without room service, cars cancelled. Black car idle empty three times last season. I knew twice. Third I called driver error." Breath harsh. "I'm saying this where Brooks could hear. That should matter while you're shaking."
+Wind leaned on the window at the far end of the corridor. The shaft breathed. Somewhere far below, Brooks was still in the lobby with her patient notebook, and Rhea was still behind her desk, and the slate still had its white rows.
 
-"It matters," [player_name] whispered, thighs tight, mouth aching with denied kiss. "So does not kissing you quiet while planes don't exist."
+Nolan dragged a hand down his face. When it came away the charm was gone. What was left looked tired and older, like a man doing arithmetic he hated.
 
-He nodded sharp. "Then take partial calendar truth: confront me alone across these steps—or walk me into Brooks's soft interview and make unredacted public enough to hurt. Your refusal bought you the menu. Pick while I can still smell how much you want the option you killed."
+"Some of the Milan trips were real," he said. "She posted once. A gallery off the Brera. I knew the doorway. I'd stood in it with her years ago." He swallowed. "That was in the spring."
 
-Perfume. Wine. Badge. Elevator. Intimate confrontation—or soft-interview delivery with Nolan beside her and desire on a leash.
+"And after spring?"
 
-He kept his hands off her. The not-touching was filthy with tension. [player_name]'s pulse hammered for a mouth she had banned. Choosing alone or Brooks felt like choosing which pain would make the refused kiss worth it.`,
+"After spring it gets thinner." He looked at the carpet. "Some of the Zurich trips were Pell. Hotel holds with no room service charged. Cars booked and cancelled the same morning. A suite at the Baur that nobody slept in, as far as the minibar knows."
+
+"You checked the minibar."
+
+"I check everything. That's my whole problem." He almost laughed. "I just don't always do anything about it."
+
+"Did she ever come back from Zurich?" [player_name] asked.
+
+"Her card bought a scarf at the airport on the return date. Pell showed me the receipt."
+
+"Did you ever see the scarf?"
+
+Nolan's mouth went flat. "No."
+
+"The car," [player_name] said.
+
+"The car idled empty at least three times last season. That I know of." His eyes came back to hers. "I knew about two. While it was happening."
+
+"And the third?"
+
+"The third I told myself was a driver who got the night wrong." The cufflink stayed quiet. "I've been telling myself that for a while."
+
+She let it sit between them. It sat heavy.
+
+"The two nights you knew," she said. "What did you do?"
+
+He was quiet a long time.
+
+"I came to your door," Nolan said.
+
+Something turned over in her chest. She remembered nights he'd shown up late with cold hands and no explanation. She'd opened every time. She'd thought it was because he wanted her. Maybe it had been. Maybe it had also been because her door was the only one on the floor that would give him somewhere to have been, just by opening.
+
+She didn't know which. That was the worst part. Both could be true at once, and he'd still be standing here, and she'd still want him.
+
+"Did you come to me," [player_name] asked, "or did you come to an alibi?"
+
+"I came to the only door in Crownspire that didn't want anything from me." He held her gaze. "That was before tonight."
+
+"And now?"
+
+"Now it wants the truth." His voice dropped. "I'm finding out I'd rather give you that than anything else I own. Which is a problem, because I don't own much of it."
+
+"I'm telling you this in a hallway," he went on, "where Brooks could hear it if she timed the elevator right. That should count for something."
+
+"It counts."
+
+"But not enough to kiss me."
+
+"Not enough to kiss you quiet," [player_name] said. "Not while there are planes that don't exist."
+
+Silence. Trust and want circling each other like two people in a ring.
+
+He nodded once. Sharp. "Then you've got a partial truth. More than Pell would give you. More than I've given anyone." He spread his hands. "Take it inside and ask me the rest alone. Or take it down to Brooks with me next to you, and see how it sounds out loud in her soft little room."
+
+"You'd go down with me?"
+
+"I'd go down with you." A beat. "I'd hate every minute."
+
+He didn't reach for her. He kept his hands where she could see them. That restraint was either respect or punishment, and she couldn't tell which, and her body didn't care. Her body wanted his hands back. Her mouth still felt the inch where his had almost been.
+
+She turned, slowly, and got her key out. Fit it into her lock. Didn't turn it.
+
+He stepped up behind her. Not touching. She could feel him there, the warmth of him all down her spine, his breath stirring the hair at her nape.
+
+"I can still feel you," he said quietly. "Wanting the thing you just said no to."
+
+She closed her eyes. Her hand stayed on the key.
+
+He put one palm flat on her door, beside her head. Not on her. On the wood. Close enough that his sleeve brushed her hair.
+
+Down the hall, the elevator chimed.
+
+She didn't turn the key. She didn't turn around.`,
+  textHot: `"No," [player_name] said, against his mouth.
+
+The word cost her. It was like biting down on silk. Her lips had already parted. Her body had already started to rise. She put her heels back on the carpet and her palms flat against the wall behind her and made herself stay there.
+
+Nolan stopped an inch from her. She felt his breath catch. Felt it on her lips.
+
+The cufflink clicked. Anger, not a lie. She knew the difference in her skin now.
+
+"I gave you weekly to monthly to gone," he said, low.
+
+"You gave me a rhythm." Her voice shook. Not with fear. "I want the itineraries. No Pell on them."
+
+"In a hallway."
+
+"In a hallway," [player_name] said. "Milan. Zurich. Which planes were real, which were paper. Which nights the car sat empty." She made herself breathe. "And which nights you knew."
+
+He didn't step back. He stayed exactly where he was, close enough that she could feel the heat of his chest against her breasts through silk and wool and no contact at all. Her nipples ached. She hated them.
+
+His jaw worked. He looked at the camera dome. At the elevator. At her mouth. Back to her eyes.
+
+"Some of Milan was real," he said. "She posted once. A gallery off the Brera. I knew the doorway. I'd stood in it with her, years ago. That was spring."
+
+"After spring?"
+
+"Thinner." His voice roughened. "Zurich was Pell, some of it. Hotel holds, no room service. Cars booked and cancelled the same morning. A suite at the Baur nobody slept in. Not according to the minibar."
+
+"You checked the minibar."
+
+"I check everything. I just don't always do anything."
+
+"Did she come back from Zurich?"
+
+"Her card bought a scarf at the airport on the return date. Pell had the receipt."
+
+"Did you ever see the scarf?"
+
+His mouth went flat. "No."
+
+"The car," she said.
+
+"Idled empty three times last season. That I know of." His eyes held hers. "I knew about two. While they were happening."
+
+"The third?"
+
+"I told myself it was a driver with the wrong night." The cufflink stayed silent against his wrist.
+
+"The two you knew," she whispered. "What did you do?"
+
+Silence. Long enough that she heard her own pulse.
+
+"I came to your door."
+
+Her whole body went hot and then cold.
+
+She remembered those nights in her skin. Late. His hands cold. No words. Her pulling him in by his shirt. Him lifting her onto the kitchen counter and pushing her skirt up and going down on his knees in front of her like it was the only place in the city he could stand to be. His mouth on her until she was gasping and pulling his hair. Him fucking her after, slow and desperate, against the counter's edge, his face in her neck, like she was holding him to the earth.
+
+She'd thought it meant he needed her.
+
+Maybe it did. Maybe it also meant her door was the only one on this floor that gave him somewhere to have been.
+
+She didn't know which. Her thighs pressed together anyway.
+
+Her body didn't care which. Her body remembered the cold edge of the counter under her, his hot mouth, his voice cracking on her name. It wanted that again. Right now. Here. It wanted it so badly she had to press her shoulder blades into the wall to keep from grabbing his belt.
+
+"Did you come to me," she said, "or to an alibi?"
+
+"I came to the only door in Crownspire that didn't want anything from me." His breath hit her lips. "That was before tonight."
+
+"And now?"
+
+"Now it wants the truth." His voice dropped. "I'd rather give you that than anything else I own. Problem is, I don't own much of it."
+
+"I'm telling you this where Brooks could hear," Nolan said. "That should matter."
+
+"It matters." Her throat was tight. "So does not kissing you quiet while planes don't exist."
+
+"You want me." It wasn't a question. His eyes dropped down her body and came back up. "I can see it. I can smell it on you."
+
+"I know." She didn't look away. "I'm still saying no."
+
+He took that like a blow. His chest rose hard. Then he nodded once.
+
+"Then you've got a partial truth," he said. "More than Pell would give you. More than anyone's had." His hands opened at his sides. "Take it inside and ask me the rest alone. Or walk me down to Brooks and see how it sounds in her soft little room."
+
+"You'd go down with me," [player_name] said.
+
+"I'd go." His mouth twisted. "And hate every second."
+
+He didn't touch her. He kept his hands where she could see them. The not-touching was its own kind of filthy. Every inch of her skin felt it.
+
+She turned toward her door. Slid her key in the lock. Didn't turn it.
+
+He stepped up behind her.
+
+Not touching. Almost. The heat of him ran down her whole back. His breath on her nape. She could feel exactly where his hips would meet her if she leaned back one inch. Her body swayed toward him before she caught it.
+
+He put one palm flat on her door beside her head. On the wood. His sleeve brushed her hair.
+
+"Say no again," he murmured into her hair. "I'll listen. I just want to hear you do it."
+
+Her mouth opened. Nothing came out.
+
+Down the hall, the elevator chimed.
+
+Her hand stayed on the key.`,
   choices: [
     { id: "scene5g", text: "Confront Nolan alone with the partial calendar truth", textHot: "Confront Nolan alone — partial calendar truth with refused heat still screaming" },
     { id: "scene5h", text: "Bring Nolan to Brooks's soft interview with the unredacted story", textHot: "Bring Nolan to Brooks's soft interview — unredacted story with your want on a leash" }

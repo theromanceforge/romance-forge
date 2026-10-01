@@ -2,86 +2,200 @@ export default {
   id: "scene3b",
   layer: 3,
   title: "Weekly to Monthly to Gone",
-  text: `"Say it properly," [player_name] said, and did not let Nolan Greer's hand find her waist. Across the hall heat could wait. Weekly-to-monthly-to-gone could not. "Not travel. Not Pell's soft verbs. The cadence. Out loud. While I'm still close enough to walk away."
+  text: `She stepped back. His hand fell away from her waist and the air rushed in cold where it had been.
 
-Nolan's cufflinks clicked immediately—tell, tell, tell. Mid-forties money under brutal charm, finance-and-tech holding polished into a man who hated being pinned and looked, for one unguarded second, pinned. The private elevator's distant chime mocked them both. Detective Imani Brooks was downstairs with missing-persons patience. Vivienne's unused perfume haunted the corridor like a dare. And [player_name], early thirties and done pretending emptiness was romantic, stood inside his penthouse with wine drying into a ring and refused to become soft until the calendar grew teeth.
+The phone buzzed a third time. Nolan reached over and turned it face down without looking.
 
-"Vivienne came once a week," Nolan said finally. Voice flatter without charm. "Then the weeks stretched. Once a month if the boards were quiet. Then the month marks stopped matching any plane Pell filed in time for me to believe them without effort." A beat. "Then she stopped arriving. I said traveling because traveling is what men like me say when a wife becomes a rumor on a concierge slate."
+"Say it properly," [player_name] said.
 
-[player_name] did not thank him. Truth that arrived late was still late. "Did she leave willing?"
+"Say what?"
+
+"Not travel. Not Milan. Not whatever Pell typed up." She kept the table between them. "The calendar. Out loud. While I'm still close enough to walk out."
+
+The cufflinks clicked before he'd said a word. He heard it. She watched him hear it.
+
+For a second he looked like something she'd never seen on him. Pinned. Then the charm came back up like a shutter.
+
+"You're being dramatic," he said.
+
+"I'm being specific," [player_name] said. "You hate that more."
+
+He laughed, short, and it died. He looked at the window. At the ring on the table. At her.
+
+"Once a week," Nolan said. His voice was flatter without the polish on it. "She'd come up, we'd have dinner, she'd sleep in the east room. Then the weeks stretched. Once a month, if the board was quiet. Then the monthly dates stopped matching any flight Pell filed in time for me to believe it." He paused. "Then she stopped coming. And I said traveling. Because that's what men like me say when a wife turns into a line on a concierge's tablet."
+
+She didn't thank him. Truth that showed up late was still late.
+
+"Did she leave because she wanted to?" [player_name] asked.
 
 "I don't know."
 
-"Did you pay her to vanish?"
+"Did you pay her to go?"
 
-"I don't know what Pell negotiated in rooms I wasn't invited into."
+"I don't know what Pell agreed to in rooms I wasn't in."
 
 "Is she dead?"
 
-The cufflinks clicked harder. "I have not seen a body. Brooks has not claimed one. Missing-persons is still the grammar. Don't write me a murder I haven't been charged with."
+Click. Harder. "I haven't seen a body. Brooks hasn't claimed one. She's missing-persons. Don't write me a murder nobody's charged."
 
-"Is she staging this?"
+"Is she doing this herself? On purpose?"
 
-Nolan's mouth twisted. "Vivienne is capable of theater. Vivienne is capable of mercy. Vivienne is capable of rage that looks like absence. I stop knowing her at the edge of what I can buy."
+His mouth twisted. "Vivienne is capable of theater. And mercy. And the kind of anger that looks exactly like absence." He spread his hands. "I stop knowing her where my money stops working."
 
-Four doors still open. He had not closed them. That honesty was almost worse than a lie—because it left [player_name] holding ambiguity while her body still wanted him and Brooks's badge still wanted a neighbor statement.
+Four doors, all still open. He hadn't shut one. That was almost worse than a lie. A lie she could have walked out on. This she had to carry.
 
-She walked the marble once, past the locked drawer, past the wine ring, stopping where perfume ghosted strongest. "I almost saw things," she said. "A bag. A longer idle at the curb. A bottle opened and capped. I chose not to name them because naming them made me your accomplice before I knew which crime I was joining." Wind sheer pressed the glass. "If you want my hands on you again, you stop sanding the cadence into travel. You let the blanks be blanks."
+She walked the edge of the room. Past the locked drawer. Past the corridor where the perfume reached her, jasmine and cold. She stopped there.
 
-Nolan stayed where he was—respecting the distance she had drawn even as charm tried to rebuild a bridge. "Brooks will hear blanks as guilt."
+"I almost saw things," she said.
 
-"Brooks will hear travel as insult once Rhea's slate reaches her," [player_name] returned. "I'd rather be the woman who demanded truth than the soft alibi who sold a prettier lie."
+He went very still.
 
-Silence stretched. Somewhere below, Rhea Quinn was deciding how much slate to surrender before midnight. Marcus Pell was likely already in a car toward Crownspire with NDAs in a case. Nolan Greer looked at [player_name] as if she had rearranged the furniture of his survival.
+"A night the car sat at the curb twenty minutes. A bag outside your door. Gone by morning." She didn't turn around. "Her bottle in there. Opened. Used once. Capped again." Now she turned. "I didn't say any of it. Not to Rhea. Not to anyone. Because saying it would make me your accomplice before I knew what I was an accomplice to."
+
+He didn't answer. His throat moved.
+
+"If you want my hands on you again," [player_name] said, "stop sanding the calendar into travel. Let the blanks be blanks."
+
+"Brooks will hear blanks as guilt," Nolan said.
+
+"Brooks will hear travel as an insult the minute Rhea hands her that tablet." She came back to the table. Didn't sit. "I'd rather be the woman who asked you straight than the one who sold her a prettier lie."
+
+He stayed where he was. She'd drawn a line and he was standing on his side of it. That cost him. She could see it in his hands, which had gone into his pockets so they wouldn't do anything else.
 
 "What do you want from me right now?" he asked.
 
-"An unfinished answer I can stand," she said. "And a hallway where I decide whether almost kissing you is courage or relapse."
+"An answer I can live with," she said. "Even if it isn't finished."
 
-He nodded once. The cufflinks stayed quiet—rare. "Then we take it to the hall. No penthouse soft light. No wine to make complicity taste expensive. Just the twelve steps between your door and mine, Vivienne's name unfinished, and whatever honesty feels like when it isn't cushioned by marble."
+"I don't have a finished one."
 
-[player_name] left her glass inside the ring and walked out first. Across the hall waited her clearer air. The elevator shaft breathed. Brooks's badge flash lived in lobby memory. Perfume still unused behind them. She had demanded the cadence. Now she had to decide whether to let unfinished hallway heat rewrite the demand—or refuse romance until the unredacted travel story and the black-car nights sat naked between them.
+"I know." She picked up her glass and set it down again without drinking. "Then I want to stop doing this up here. Your glass. Your view. Your wine making everything taste expensive."
 
-In the corridor, Crownspire's hush felt judicial. Other doors ignored them. Money trained neighbors not to listen and then trained them to remember anyway. [player_name] faced Nolan under recessed light that made every micro-expression into testimony. Weekly. Monthly. Gone. He had said it. She still did not know which fate Vivienne was living inside that gone. Hope and dread shared the carpet runner. Attraction tasted like a question she had finally asked aloud—and might regret if his mouth came near enough to make her forget the blanks.`,
-  textHot: `"Say it properly," [player_name] said, and caught Nolan Greer's wrist before his hand could claim her waist—felt cufflinks under her fingers like a pulse of lying metal. "Not travel. Not Pell. The cadence. Out loud. While I'm close enough to walk away—and while my body still wants to stay."
+He looked at her a long moment. Then he nodded once. The cufflinks stayed silent. Rare.
 
-He went still. Mid-forties brutal charm flickering, pinned, hungry. The private elevator chimed somewhere like a mocking fingertip. Brooks downstairs. Perfume haunting. Wine ring drying. [player_name]'s early-thirties pulse hammered where his almost-touch had lived minutes ago; refusing him hurt in places strategy did not reach.
+"The hall, then," he said.
 
-"Once a week," Nolan said, voice stripped. "Then monthly when boards got loud. Then the marks stopped matching planes I could believe. Then she stopped arriving. I said traveling because men like me sandpaper absence into itinerary."
+He walked her down. The private car first, the brass cage, the chime. Neither of them spoke. In the reflection she watched him not look at her. Then the foyer, the black stone, his front door. He held it. This time he stepped aside far enough that she didn't have to touch him.
 
-[player_name] kept his wrist. Thumb on cufflink. Intimate interrogation. "Willing?"
+She noticed. She noticed that it hurt.
+
+The hall was twelve steps of gray carpet and recessed light. Her door at one end. His at the other. The window at the far end of the corridor showed a slice of Crownspire, cold and lit. On other floors, other neighbors had learned not to listen. This floor had two doors, and both of them listened to everything.
+
+She stopped in the middle. He stopped across from her.
+
+The light from above made every small thing on his face into a statement. The muscle at his jaw. The way his eyes kept going to her mouth and coming back up, like a man checking a door he'd promised not to open.
+
+"Weekly," he said quietly. "Monthly. Gone. I said it."
+
+"You said it," [player_name] said.
+
+"So?"
+
+She didn't answer. She didn't know yet. Her whole body was leaning a quarter inch toward him and her feet were nailed to the carpet.
+
+He took one step. Then stopped himself. His hands came out of his pockets and hung at his sides, open.
+
+"Tell me what you need," he said. "I'm out of guesses."
+
+"I need you to stand there," she said. "Just for a minute. Without fixing anything."
+
+He stood there. It was the hardest thing she'd ever watched him do.
+
+Down the shaft, the public elevator hummed. Somewhere below, Brooks was waiting with her notebook.
+
+His breath was close enough to feel. Hers was coming fast.`,
+  textHot: `His thumb was on her hip bone and her body wanted to melt into it. She caught his wrist instead.
+
+The cufflink was under her fingers. Cool gold. His pulse beat hard just above it.
+
+"Say it properly," [player_name] said.
+
+The phone buzzed again on the marble. He didn't look. His eyes were on her mouth. "Say what?"
+
+"Not travel. Not Milan. Not Pell." She held his wrist away from her. Every nerve she had wanted it back where it was. "The calendar. Out loud. While I can still walk out."
+
+He went still. She felt the stillness in his tendons. Then the click, under her thumb, before he'd said a single word.
+
+He heard it too. For one second his face was something she'd never seen on him. Pinned.
+
+"You're being dramatic," he said. His voice went soft and dangerous, the voice he used in bed right before he made her beg.
+
+It almost worked. Her knees almost went. "I'm being specific," [player_name] said. "You hate that more."
+
+He laughed, short, at nothing. It died fast.
+
+"Once a week," Nolan said. Low. Stripped. "She came up. Dinner. She slept in the east room. Then the weeks stretched. Monthly, when the board was quiet. Then the monthly dates stopped matching any plane Pell could show me." His jaw worked. "Then she stopped coming. I said traveling. It's what men like me say."
+
+[player_name] kept her thumb on the cufflink. Like a pulse she was taking. "Did she want to go?"
 
 "I don't know."
 
-"Paid vanish?"
+"Did you pay her to?"
 
-"I don't know what Pell bought in rooms without me."
+"I don't know what Pell bought without me."
 
-"Dead?"
+"Is she dead?"
 
-Click under her thumb. "No body. Missing-persons grammar. Don't eroticize a charge I haven't been given."
+Click. Right under her thumb. His wrist jerked. "There's no body. Brooks hasn't said the word. Don't you say it for her."
 
-"Staging?"
+"Is she doing this to you? On purpose?"
 
-"She's capable of theater. Mercy. Rage-as-absence. I stop knowing her where money stops translating."
+"She's capable of it." His voice roughened. "Theater. Mercy. Anger that looks like nothing at all. I stop knowing her where my money stops working."
 
-She released his wrist and stepped back because staying close made truth feel like foreplay. "I almost saw a bag. A long idle. Perfume opened and capped. I swallowed them to keep from becoming your accomplice before I knew the crime." Her voice shook with want she refused to spend. "No hands on me until the blanks stay blanks."
+She let go of his wrist and stepped back. Standing that close, with his voice gone raw, the truth was starting to feel like his mouth on her. She couldn't let it.
 
-Nolan's gaze dropped to her mouth, tortured and bright. "Brooks hears blanks as guilt."
+Her body didn't step back with her. It stayed tipped toward him. Her nipples were tight and aching against silk. Her pulse was a fist between her legs.
 
-"Brooks hears travel as insult once Rhea's slate lands," [player_name] said. "I'd rather ache for you honest than come soft on a prettier lie."
+"I almost saw things," she said. Her voice shook. Want, not fear. Or both. "A car idling twenty minutes. A bag outside your door, gone by morning. Her bottle in there, opened once and capped." She swallowed. "I kept them in my mouth so I wouldn't be your accomplice before I knew the crime."
 
-The vulgar honesty landed. His breath left him. "What do you want right now?"
+He breathed out. His hands flexed at his sides.
 
-"An answer I can stand," she whispered, "and a hallway where an almost-kiss is either courage or relapse—and I get to feel the difference in my knees."
+"No hands," she said. "Not until you stop turning the blanks into travel."
 
-They took it to the hall. No marble cushion. No wine. Twelve steps of Crownspire carpet and recessed light. Nolan stopped close enough that she smelled cologne and ghost-perfume; far enough that her nipples tightening under silk was her own betrayal. Vivienne's name hung unfinished. Weekly-monthly-gone sat between their mouths like a third tongue.
+His gaze dragged down her. Throat. Breasts. Hips. Back up, slow, hungry and miserable. "Brooks hears blanks as guilt."
 
-[player_name] had demanded the cadence. Now want asked whether to lean into an unfinished hallway kiss—or refuse romance until black-car nights and unredacted travel sat naked while her body burned for a man she still did not trust.
+"Brooks hears travel as an insult the second Rhea shows her the tablet." She lifted her chin. "I'd rather ache for you honest than come for you on a lie."
 
-She lifted her chin. His mouth hovered. City hush pressed the corridor walls. "If you kiss me before the rest," she said, almost against his lips, "I will hate how much I open anyway."
+That landed. She watched it land. His lips parted. His chest rose hard.
 
-"Then don't ask me to stand this close unless you want the hate," Nolan returned, cufflinks silent for once, hands fisted at his sides to keep from dragging her in. The elevator chimed. Brooks's badge waited below. Vivienne's fate stayed contested. [player_name]'s thighs ached with the choice.`,
+She knew exactly what she was refusing. Last week, on his bed, her wrists in one of his hands and his mouth between her thighs, his cufflinks scattered on the nightstand because she'd made him take them off. He'd licked her slow until she begged, and then slower. She'd said his name into the dark so many times it stopped sounding like a name.
+
+Her thighs pressed together just thinking it.
+
+"What do you want right now?" Nolan asked.
+
+"An answer I can stand," [player_name] said. "And not up here. Not with your wine and your view."
+
+He nodded once. The cufflinks stayed silent.
+
+The private car took them down. Brass. Chime. Her back to one wall, his to the other, and the space between them thick enough to drink. She could smell him. She could feel how much he wasn't touching her, everywhere at once. Halfway down he said her name. Just her name. She didn't answer. Her body did, a slow hot clench she was glad he couldn't see. When the doors opened she walked out fast.
+
+He held his front door. This time he stepped aside far enough that she didn't brush him. Her body registered the missing contact like a slap.
+
+The hall. Twelve steps. Gray carpet. Recessed light. Her door at one end, his at the other.
+
+She stopped in the middle. He stopped in front of her. Close. Too close. She could feel the heat of his body against the front of hers, chest to knees, without one point of contact.
+
+"I said it," he murmured. "Weekly. Monthly. Gone."
+
+"You said it."
+
+"So?"
+
+She didn't know. Her back found the wall. The plaster was cool through silk. He put one palm flat on the wall beside her head. Not touching her. Caging the air.
+
+"Tell me what you need," he said. "I'm out of guesses."
+
+"Stand there," she whispered. "Don't fix anything."
+
+He stood there. His whole body was shaking with it. She could see the strain in his forearm against the wall, the tendons standing out above the cufflink.
+
+His mouth hovered. She felt his breath on her lips, on her chin, on the seam where her lips had parted on their own.
+
+"If you kiss me before the rest," she whispered, "I'll hate how fast I open."
+
+"Then don't stand like that," he said, and didn't move.
+
+Far below, the public elevator hummed in its shaft.`,
   choices: [
     { id: "scene4c", text: "Almost-kiss him in the hall — take heat with the cadence unfinished", textHot: "Almost-kiss him in the hall — take the heat with Vivienne's name still between your mouths" },
     { id: "scene4d", text: "Refuse the romance — demand the unredacted travel story and black-car nights", textHot: "Refuse his mouth — demand unredacted travel and black-car nights while you still ache" }
