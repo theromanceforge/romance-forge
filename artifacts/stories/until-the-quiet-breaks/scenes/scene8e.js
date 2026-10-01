@@ -48,7 +48,7 @@ Outside, freight complained toward the yard. Two streets away, the blue door stu
 
 John stroked once at [player_name]'s pulse. Woodsmoke thickened. Wet boxwood tapped the glass in the wind. Clara waited with charcoal under her nails and a stage already built in her mouth.
 
-Freight complained again, a long metallic sound that made the radiator tick seem small. [player_name] thought of Clara at twelve, asleep above the diner lights while Henry turned grief into tea. Backing her meant walking into the kitchen with the folder and letting the mantel clock hear ice without weather. Waiting meant buying John one corridor of breath, and Clara's clock would not pretend mercy forever.
+Freight complained again, a long metallic sound that made the radiator tick seem small. [player_name] thought of Clara at six, asleep above the diner lights while Henry turned grief into tea. Backing her meant walking into the kitchen with the folder and letting the mantel clock hear ice without weather. Waiting meant buying John one corridor of breath, and Clara's clock would not pretend mercy forever.
 
 John's thumb stayed on her pulse. Clara's folder waited. The doorway refused to become a softer room.`,
   textHot: `Clara's room on Willow Lane smelled of charcoal dust and wet wool. A confession that had ridden in [player_name]'s body through every unfinished night with John was about to leave a younger sister's mouth, into a kitchen that still believed in tea.
