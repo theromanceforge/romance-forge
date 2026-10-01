@@ -2,19 +2,19 @@ export default {
   id: "scene10c",
   layer: 10,
   title: "Leave Free — she leaves Harborwick; Will respects the freedom",
-  text: `The pier smelled like salt and endings when [player_name] told William Akers she was leaving Harborwick.
+  text: `The pier smelled like salt and endings when [player_name] told Will she was leaving Harborwick.
 
-Fog clung to the chain-link the way memory clung to Renny's name—now spoken, now filed, now no longer a maybe. Cho had confirmed. The clerk was charged. Owen's deal had carved what mercy it would carve. The cold case was closed enough for daylight, and still [player_name]'s mid-twenties chest could not breathe inside the city's damp ribs without tasting every interview-room clock she had survived. Freedom was not spite. Freedom was the sister's last unspent gift: a life that did not have to be rebuilt on the same pier where the silence began.
+Fog clung to the chain-link the way memory clung to Renny's name—now spoken, now filed, now no longer a maybe. Cho had confirmed. The clerk was charged. Owen's deal had carved what mercy it would carve. The cold case was closed enough for daylight, and still [player_name]'s chest couldn't breathe inside the city's damp ribs without tasting every interview-room clock she had survived. Freedom wasn't spite. Freedom was the sister's last unspent gift: a life that didn't have to be rebuilt on the same pier where the silence began.
 
-Will stood with her in the wet, collar dark, scar catching what light the fog allowed. Mid-thirties detective who had every procedural reason to ask her to stay for residual testimony and every private reason to ask her to stay for him. He did neither. That was the mercy that hurt cleanest.
+Will stood with her in the wet, collar dark, scar catching what light the fog allowed. Detective who had every procedural reason to ask her to stay for residual testimony and every private reason to ask her to stay for him. He did neither. That was the mercy that hurt cleanest.
 
 "I packed light," she said. Renny's hoodie in the bag. Bracelet on her wrist, gap honest. "I gave Ellison the forwarding she needs. Cho has my number for the memorial paperwork. I'm not running from the truth. I'm walking away from the geography that taught me to lie."
 
-Will's cracked knuckles flexed once, then still. Brutal charm did not rise to bargain. "Then go free," he said. Voice steady as burnt coffee cooling. "I respect it. I hate it. Those can share a throat. You don't owe Harborwick your forever because the file finally got honest, and you don't owe me a forever because we learned how to trust under fluorescent light."
+Will's cracked knuckles flexed once, then still. Charm didn't rise to bargain. "Then go free," he said. Voice steady as burnt coffee cooling. "I respect it. I hate it. Those can share a throat. You don't owe Harborwick your forever because the file finally got honest, and you don't owe me a forever because we learned how to trust under fluorescent light."
 
-Rain needled the river. A foghorn rolled, low and lonely. [player_name] stepped close enough to smell soap and salt and scrubbed-dark past—Will's wound still sealed in places, Solis still a name he flinched around, love still real. "If I stay, I'll build a shrine out of grief and call it home," she admitted. "If I leave, I carry Renny without letting the pier own my mornings. You taught me daylight. Daylight includes the right to board."
+Rain needled the river. A foghorn rolled, low and lonely. [player_name] stepped close enough to smell soap and salt and sleeplessness—Will's wound still sealed in places, Solis still a name he flinched around, love still real. "If I stay, I'll build a shrine out of grief and call it home," she admitted. "If I leave, I carry Renny without letting the pier own my mornings. You taught me daylight. Daylight includes the right to board."
 
-His grey-green eyes held hers without pleading. "I'll keep the case clean behind you. No press ambush I can stop. No Owen message I can intercept. When you want the memorial date, you call. When you don't want my voice, you don't. Respect isn't a performance, [player_name]. It's me not turning your freedom into another interrogation."
+His eyes held hers without pleading. "I'll keep the case clean behind you. No press ambush I can stop. No Owen message I can intercept. When you want the memorial date, you call. When you don't want my voice, you don't. Respect isn't a performance, [player_name]. It's me not turning your freedom into another interrogation."
 
 They walked past warehouse glass beaded with old rain. A chain-link gate rattled in the alley wind—the same soundtrack as festival night seven years gone, now stripped of mystery and left only with weather. [player_name] stopped once to look at the water where Renny's absence had lived longest. "I'm not abandoning her," she said. "I'm refusing to become another Harborwick ghost who only knows how to haunt a railing."
 
@@ -26,16 +26,16 @@ At the station platform the departure board flickered. Will took her hand, squee
 
 [player_name] kissed him—soft, final for now, not theatrical. Salt on both their mouths. "Don't wait like a monument," she whispered. "Live. Stay dangerous and kind. Cook something that isn't precinct coffee. If I come back for the memorial, I come back as a guest who already told the truth—not as a witness you have to manage."
 
-"Go," Will said, and smiled the smallest velvet-blade smile that did not cut. "Before I forget how to be respectable about this."
+"Go," Will said, and smiled the smallest velvet-blade smile that didn't cut. "Before I forget how to be respectable about this."
 
-She boarded. Found a window seat. The train pulled. Harborwick's fog thinned until the pier was only a rumor of water and rust. Will's figure stayed on the platform until distance made him a dark shape with a scar she could no longer see. The city that had kept her sister's absence for seven years let her leave free, with Renny's name spoken, with William Akers's respect intact, with no new lie required to make the leaving look like love.
+She boarded. Found a window seat. The train pulled. Harborwick's fog thinned until the pier was only a rumor of water and rust. Will's figure stayed on the platform until distance made him a dark shape with a scar she could no longer see. The city that had kept her sister's absence for seven years let her leave free, with Renny's name spoken, with Will's respect intact, with no new lie required to make the leaving look like love.
 
-On the train she did not cry theatrically. She watched industrial edges give way to flatter light and felt Renny's name travel with her like a ticket stub she would never throw away. Will had respected the boarding; that respect would live in her longer than any argument for staying could have. Harborwick shrank. Freedom enlarged—not clean, not painless, but honest. When a stranger asked if she was all right, she said yes, and meant: all right enough to leave without lying.`,
+On the train she didn't cry theatrically. She watched industrial edges give way to flatter light and felt Renny's name travel with her like a ticket stub she would never throw away. Will had respected the boarding; that respect would live in her longer than any argument for staying could have. Harborwick shrank. Freedom enlarged—not clean, not painless, but honest. When a stranger asked if she was all right, she said yes, and meant: all right enough to leave without lying.`,
   textHot: `Leaving should not have made [player_name] wet, and it did—grief and want braided into a last Harborwick night she refused to pretend was casual.
 
-William Akers's apartment smelled like rain and endings. She had already said the pier speech; the bag waited by the door; Renny's hoodie sat folded on top like a soft flag. Will shut the door and looked at her with mid-thirties hunger scraped raw by respect. "Tell me to stop and I stop," he said. "Tell me you want a goodbye that isn't only words."
+Will's apartment smelled like rain and endings. She had already said the pier speech; the bag waited by the door; Renny's hoodie sat folded on top like a soft flag. Will shut the door and looked at her with hunger scraped raw by respect. "Tell me to stop and I stop," he said. "Tell me you want a goodbye that isn't only words."
 
-"I want you," she answered, mid-twenties voice rough. "Not as a reason to stay. As a reason I can leave without pretending we were only paperwork."
+"I want you," she answered, voice rough. "Not as a reason to stay. As a reason I can leave without pretending we were only paperwork."
 
 He crossed the room and kissed her like a man filing a last honest report with his mouth. Clothes shed in a hurry that still left room for consent in every unzip. Her back hit the mattress. Will's mouth dragged down her sternum, over her belly, and settled between her thighs with a groan she felt in her clit before his tongue found it. He licked her open—slow, filthy, reverent—sucking her clit until her hips jerked and her fingers fisted his hair at the scar. "Will—fuck—"
 
