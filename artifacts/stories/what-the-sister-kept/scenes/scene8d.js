@@ -2,112 +2,80 @@ export default {
   id: "scene8d",
   layer: 8,
   title: "Letter burned: mercy or cowardice",
-  text: `The kitchen sink in [player_name]'s Harborwick apartment held a metal mixing bowl, a book of matches from a pier-district bar that no longer existed, and Renny's cream letter folded once as if paper could still pretend it was only *only if*. Rain needled the warehouse glass. A foghorn rolled inland, low and lonely. Precinct coffee burnt bitter on the counter. William Akers stood opposite [player_name] with his cracked notebook closed against his thigh, charcoal shirt wrinkled from a dawn that had already delivered Dr. Lila Cho's second-victim pattern without christening anyone's sister.
+  text: `The kitchen sink in [player_name]'s apartment held a metal mixing bowl, a book of matches from a pier-district bar that no longer existed, and Renny's cream letter, folded once. Rain needled the warehouse glass. A foghorn rolled inland, low and lonely. Precinct coffee sat burnt on the counter. Will stood opposite her with his notebook closed against his thigh, shirt wrinkled from a dawn that had already delivered Dr. Lila Cho's second-victim pattern without naming anyone's sister.
 
-Mid-thirties. Scar through his left eyebrow. Brutal charm banked so low it looked like grief wearing a badge's posture. Captain Mara Ellison expected leverage by morning. Ellison was not getting this page. The journal copies and USB still lived under seal in Will's chain-of-custody; the letter—Renny's conditional truth, the second girl moved, Will's name written years early, the pier night [player_name] had kept—was about to become smoke in a bowl that smelled like dish soap and river damp.
+The scar through his left eyebrow. His charm banked so low it looked like grief standing in a badge's posture. Captain Ellison expected leverage by morning. She wasn't getting this page. The journal copies and USB were still sealed in Will's chain of custody. The letter, with Renny's conditional truth, the second girl moved, Will's name written years early, and the pier night [player_name] had kept, was about to become smoke in a bowl that smelled like dish soap and river damp.
 
-"Say it out loud before the match," Will said quietly. Not absolution. "Mercy or cowardice. I will not choose the word for you. I will hold the bowl steady either way. I will not pretend ash is the same as justice, and I will not pretend every page deserves a microphone while Cho still says *pending* on unidentified upriver remains." [player_name]'s mid-twenties throat worked. Renny had been a teenager when she vanished—seven years of absence folded into a hoodie upstairs, a silver charm bracelet missing one piece that *could* match Cho's debris, lab ID still pending.
+"Say it out loud before the match," Will said quietly. Not absolution. "Mercy or cowardice. I won't choose the word for you. I'll hold the bowl steady either way. I won't pretend ash is the same as justice, and I won't pretend every page deserves a microphone while Cho still says pending." [player_name]'s throat worked. Renny had been a teenager when she vanished. Seven years of absence folded into a hoodie upstairs and a silver charm bracelet missing one piece that could match Cho's debris.
 
-Hope and dread shared the kitchen linoleum. The remains were not Renny until science said so. Burning the letter would not make them Renny. Burning the letter would not unmake them. It would only decide whether Renny's last private weather became evidence or a private mercy that might also be the same soft cowardice that had kept Owen Vale off the official pier-night statement for seven years.
+The remains weren't Renny until science said so. Burning the letter wouldn't make them Renny. It wouldn't unmake them. It would only decide whether Renny's last private words became evidence or a private mercy, which might also be the same soft cowardice that had kept Owen Vale off the official pier-night statement for seven years.
 
-"Mercy," [player_name] tried, and the word tasted like copper. "If Cho confirms—if the remains become her—this letter becomes a second funeral in handwriting. If Cho spares her, this letter still hands Ellison a second-victim pattern and Owen's throat and your name in a dead girl's ink for IA to chew. Burning it keeps one scrap from becoming a rumor corpse before science speaks. That is what I am telling myself."
+"Mercy," [player_name] tried, and the word tasted wrong. "If Cho confirms, if the remains become her, this letter becomes a second funeral in handwriting. If Cho spares her, this letter still hands Ellison a second-victim pattern and Owen's throat and your name in a dead girl's ink for IA to chew. Burning it keeps one scrap from becoming a rumor corpse before science speaks. That's what I'm telling myself."
 
-Will's mouth twitched—almost velvet-blade, almost a joke about captains and clearance—and died. When Ellison had almost named the sealed past, Will had touched his ribs like checking a bruise that never yellowed. He touched nothing now. The dark past hummed under his badge: a partner's fall, a hallway, a sealed silence. pressure only. Teeth showing.
+Will's mouth twitched, almost a joke about captains and clearance, and then didn't. When Ellison had almost named his old partner, he'd touched his ribs like a man checking a bruise that never yellowed. He touched nothing now.
 
-"Cowardice," he said, not unkind. Flat enough to cut. "Is the twin that sleeps in the same bed. I have buried things. I am allergic to watching someone bury a kid's handwriting for comfort. I am also allergic to watching a city invent a corpse because cream paper was dramatic. Both allergies are true. Light the match when you mean it. Not when you want me to stop looking at you like I can see both words on your face."
+"Cowardice," he said, not unkind, "is the twin that sleeps in the same bed. I've buried things. I'm allergic to watching someone bury a kid's handwriting for comfort. I'm also allergic to watching a city invent a corpse because cream paper was dramatic. Both allergies are true. Light the match when you mean it. Not when you want me to stop looking at you like I can see both words on your face."
 
-Attraction hummed unwanted under procedural pressure: the sleep-deprived set of Will's shoulders, mid-thirties heat close enough to burn across a sink, the dangerous care of refusing to christen bone while still refusing to romanticize ash. Trust was the real plot. Trust right now tasted like burnt coffee and sulfur-to-come and a man who would stand in her kitchen while she destroyed what he had asked permission to find. [player_name] struck the match.
+He'd stand in her kitchen while she destroyed what he'd asked permission to find. That, more than anything, was why she trusted him. [player_name] struck the match.
 
-Flame caught. She held it to the corner of Renny's loops—*Ask William Akers if he still works Harborwick*—and watched the ink darken, curl, lift. Will held the bowl. His cracked knuckles went pale on the metal rim. Smoke rose thin and bitter, pier salt leaking through the cracked window as if Harborwick wanted to smell what they were doing. Chain-link rattled in the alley. The radiator knocked downstairs like a second interrogation clock learning a new crime.
+The flame caught. She held it to the corner of Renny's loops (Ask William Akers if he still works Harborwick) and watched the ink darken, curl, lift. Will held the bowl. His knuckles went pale on the metal rim. Smoke rose thin and bitter, pier salt leaking through the cracked window as if Harborwick wanted to smell what they were doing. Chain-link rattled in the alley.
 
-The page blackened through Warehouse C, through *M.K.*, through Owen still explaining, through *silence is worse*. [player_name]'s eyes watered—smoke, grief, both. Will did not look away from the fire. He looked at her face in the firelight as if memorizing the cost. Mid-thirties to her mid-twenties—close enough to burn, far enough that the badge still felt like a different country, and somehow both of them choosing ash in the same country anyway.
+The page blackened through Warehouse C, through M.K., through Owen is still explaining, through silence is worse. Her eyes watered. Smoke, grief, both. Will didn't look at the fire. He looked at her face in the firelight as if memorizing the cost.
 
-When the last corner collapsed into the bowl, Will ran tap water over the embers until the hiss sounded like a foghorn's smaller cousin. Black flakes floated. The kitchen smelled like extinguished weather. Renny's *only if* was no longer paper. It was a decision with a smell.
+When the last corner collapsed into the bowl, he ran tap water over the embers until the hiss sounded like a foghorn's smaller cousin. Black flakes floated. The kitchen smelled like extinguished weather. Renny's only if wasn't paper anymore. It was a decision with a smell.
 
-"It is done," Will said. Soft. Professional. The soft cost him. "Ellison gets the journal chain without this page. Cho still has no hard ID. Second-victim pattern still lives in Cho's packet and in what we remember. Memory is not admissible the same way. That is the point. That is the wound." He set the bowl in the sink like evidence he was choosing not to log.
+"It's done," Will said. Soft. Professional. The softness cost him. "Ellison gets the journal chain without this page. Cho still has no hard ID. The second-victim pattern lives in Cho's packet and in what we remember. Memory isn't admissible the same way. That's the point. That's the wound." He set the bowl in the sink like evidence he was choosing not to log.
 
-"I will not write the letter into my notebook. That is me spending something too. Do not thank me like it was free." Silence took the kitchen. [player_name] stared at the wet ash until it stopped looking like language. She thought of Renny at seventeen arguing about a pier curfew; of Owen's too-calm morning voice; of yellow tape ghosting in memory; of Ellison's tablet light; of a sealed IA file Will still would not open; of Cho's careful *pending*.
+"I won't write the letter into my notebook. That's me spending something too. Don't thank me like it was free." Silence took the kitchen. [player_name] stared at the wet ash until it stopped looking like language. She thought of Renny at sixteen arguing about a pier curfew; of Owen's too-calm morning voice; of Ellison's tablet light; of the IA file Will still wouldn't open.
 
-Mercy and cowardice sat on the counter beside the chipped mugs and refused to leave. "Two doors from the ash," Will said, voice low. He leaned against the counter close enough that soap, salt, and scrubbed-dark past filled the space between them, not quite touching.
+Mercy and cowardice sat on the counter beside the chipped mugs and refused to leave. "Two doors from the ash," Will said, low. He leaned against the counter close enough that she could smell soap and salt, not quite touching.
 
-"Live with the sealed pages—stay inside Ellison's quiet architecture, let the journal hunt the clerk while this letter stays smoke, wake up beside what we buried on purpose and decide whether the burial was protection. Or walk the pier dawn choice—take the smell of this ash to the water where she vanished, and decide whether leaving Harborwick is the only way to stop becoming the kind of person who burns truths for sleep, or whether staying means learning to breathe pier salt without lighting another match."
+"Live with the sealed pages: stay inside Ellison's quiet architecture, let the journal hunt the clerk while this letter stays smoke, and wake up beside what we buried on purpose, deciding whether it was protection. Or walk the pier dawn choice: take the smell of this ash to the water where she vanished, and decide whether leaving Harborwick is the only way to stop being someone who burns truths for sleep, or whether staying means learning to breathe pier salt without lighting another match."
 
-"Either way I smelled the smoke with you. Either way I will not pretend I am clean enough to lecture you on courage. I am only clean enough to tell you which door burns hotter after the fire is already out." [player_name] tasted smoke at the back of her throat. Attraction sharpened around ruin: Will's refusal to log the letter, his cracked knuckles still damp from the tap, the the sealed past-bruise silence in his shoulders when IA-shaped futures flickered through the kitchen air.
+"Either way, I smelled the smoke with you. Either way, I'm not clean enough to lecture you on courage. I'm only clean enough to tell you which door burns hotter after the fire's out." [player_name] tasted smoke at the back of her throat. Will's knuckles were still damp from the tap.
 
-Choosing sealed pages meant living inside a bargain's darkness—journal public enough to hunt, letter private enough to haunt—while hope and dread still shared every morning coffee. Choosing pier dawn meant standing in festival fog with leave-or-stay on her tongue while unidentified remains waited upriver and a charm upstairs still only *like*, and while the ash in the sink asked whether mercy had been love or the old soft lie with better lighting.
+The foghorn answered from the river, low enough to feel in the bones. Rain hit the glass harder.
 
-Foghorn answered from the river, low enough to feel in the bones. Rain freckled the glass harder. William Akers watched [player_name] the way a man watches a fuse after the spark has already become smoke.
+"I can love a woman who burned a page to keep hope clear," he said. "I can respect a woman who walks to the pier because ash tastes like the seven-year silence she swore she was done with. I can't do both kinds of careful while the bowl is still warm. Pick the door. I'll walk it. And I won't use my badge to make whatever you tell yourself afterward prettier."
 
-"I can love a woman who burned a page to keep hope's throat clear," he said. "I can respect a woman who walks to the pier because ash tastes like the seven-year silence she swore she was done with. I cannot do both kinds of careful in the same breath while the bowl is still warm. Pick the door. I will walk it. I will feel whatever lie you tell yourself about mercy afterward—and I will not use my badge to make the lie prettier."
+Downstairs the radiator knocked. A truck hissed past on wet asphalt. [player_name] looked from the wet ash to Will's scar to the dark warehouse window. Burning the letter hadn't ended the kept secret. It had moved it into a different tense. The matches sat beside the bowl like a smaller weapon. Cho's pending still lived in both their phones.
 
-Downstairs the radiator knocked again. Somewhere a truck hissed past on wet asphalt. [player_name] looked from the wet ash to Will's scar to the window's warehouse dark, and understood that burning the letter had not ended the kept secret. Burning had translated it into a different tense. The matches sat beside the bowl like a smaller weapon. Will's notebook stayed closed. Cho's *pending* still lived in both their phones like unfinished weather.
+Ash settled in the bowl like a small, obedient funeral for paper that had never been a corpse.`,
+  textHot: `The kitchen sink held a metal bowl, a book of matches and Renny's cream letter. Rain needled the warehouse glass. A foghorn rolled inland. Will stood opposite her, shirt wrinkled, scar catching the under-cabinet light, notebook closed in his hand.
 
-Whatever [player_name] did next would either teach her how to wake beside sealed smoke and a detective who had held the bowl, or walk them both to the pier where a festival had once eaten a sister and ask whether staying or leaving was the only honesty left after mercy and cowardice had shared the same match. Ash settled in the bowl like a small, obedient funeral for paper that had never been a corpse.
+Burning wouldn't name the bones. It would decide whether Renny's only if, the second girl moved, Owen explaining, Will's name in her handwriting, became evidence or smoke.
 
-Smoke thinned. The kitchen smelled like mercy and cowardice wearing the same coat. "Sealed pages means we wake beside smoke and a detective who held the bowl—file dark where Ellison cannot sand it soft, us living with what fire kept private," Will said, cracked knuckles still damp from the tap.
+"Say it before the match," Will murmured. "Mercy or cowardice. I'll hold the bowl. I won't choose the word. Light it when you mean it."
 
-"Pier dawn means we walk the boards where a festival ate a sister and ask whether leaving or staying is the cleaner burn. Both doors remember what you lit. Neither invents Renny on Cho's tray." [player_name] tasted smoke at the back of her throat. Attraction sharpened around ruin without needing a second name for his sealed past. The bowl cooled. Harborwick's rain kept time on the glass while she chose sealed life or pier fog with ash still ghosting her tongue and Will waiting like a man who would not pretend fire was tidy.
+[player_name] struck the match. The flame caught the loops. Will held the bowl; his other hand stayed steady at her hip as the ink curled (Ask William Akers) and smoke rose between them.
 
-Will's mouth twitched toward a joke about captains and died; the sealed past had lived in a rib-check he did not repeat now, ash and sealed silence answering instead.
+"Mercy," she whispered. "Or cowardice. Both. Watch me anyway."
 
-Will's mouth twitched toward a joke about captains and died; Nina Solis had lived in a rib-check he did not repeat now, ash and sealed silence answering instead.
+"I'm watching." His voice was rough. "That's my name going. It guts me. I'm grateful you chose my kitchen over Ellison's leverage."
 
-Sealed pages meant waking beside smoke and a detective who had held the bowl. Pier dawn meant walking festival boards to ask whether leaving or staying was the cleaner burn. [player_name] tasted smoke. The bowl cooled. Rain kept time while she chose sealed life or pier fog with ash still ghosting her tongue.`,
-  textHot: `The kitchen sink held a metal bowl, a book of matches, and Renny's cream letter. Rain needled warehouse glass. Foghorn rolled inland. Precinct coffee burnt bitter. Will stood opposite her, charcoal shirt wrinkled, scar catching the under-cabinet light, cracked notebook closed in his hand.
+The page collapsed. Will ran the tap; a hiss; black flakes. He set the bowl in the sink and turned the water off, and then they just stood there in the smell of it. His palm flat on the small of her back. Her forehead against his chest. The foghorn came and went twice before either of them moved.
 
-Grey-green eyes watched her like she was a fuse. Brutal charm banked—velvet over a blade sheathed for ash. Badge still on. Cho's unidentified upriver remains still waited: charm that *could* match, lab pending, hope and dread sharing her pulse. Not Renny until science said so.
+Forehead to forehead. Breathing hard. Cock hard against her belly. Her cunt clenched around nothing. "It is done," he said against her lips. "I will not log the letter. That is me spending something. Ellison gets journal chain without this page. Cho still says pending. Remains still unnamed. Charm upstairs still only like. Memory is not admissible the same way—that is the wound—and you are soaked against my thigh because wounds make you honest in ways courtrooms do not."
 
-Burning would not christen bone. Burning would decide whether Renny's *only if*—second girl moved, Owen explaining, Will's name in her handwriting—became evidence or smoke.
+She turned her face up. "I don't want to only taste ash tonight."
 
-"Say it before the match," Will murmured.
+"Then tell me what you want."
 
-"Mercy or cowardice. I will hold the bowl. I will not choose the word. I can feel you shaking. Light it when you mean it." When Ellison had almost said the sealed past, Will had touched his ribs—pressure only.
+"Your mouth. Not here. Not next to that."
 
-[player_name] struck the match. Flame caught the loops. Will held the bowl; his other hand stayed at [player_name]'s hip, thumb steady at her hip as ink curled—*Ask William Akers*—while smoke rose between them like a sacrament.
+He took her hand and walked her out of the kitchen, away from the sink and the bowl, down the short hall to her bed. He undressed her slowly, as if every piece of clothing was a question, and waited for each answer. When she was bare, he knelt at the edge of the bed and kissed the inside of her knee, then higher.
 
-Will watched her face in the firelight like the cost was also a kind of intimacy.
+His tongue found her slow and flat, then focused, circling her clit while two fingers slid into her and curled. She gripped the sheet, then his hair. He didn't hurry. He kept her right at the edge until her thighs shook against his shoulders, then gave her more. She came with her back arched and his name broken in her mouth, and he stayed with her through every aftershock.
 
-"Mercy," she whispered, ruined. "Or cowardice. Both. Watch me anyway." "I am watching," Will rasped, angling the bowl to keep smoke from the alarm.
+He climbed up beside her and pulled the blanket over them both. He was hard against her hip and didn't do anything about it. "That's yours," he said. "Not payment. Not penance."
 
-"Warehouse C going. Clerk initials going. My name going. That last one guts me, and I am grateful you chose my kitchen over Ellison's leverage." He did not smile. Velvet-blade wrecked soft.
+Rain ticked on the window. Down the hall, the bowl was cooling in the sink. The case hadn't moved. Cho's pending was still the only honest word about the remains.
 
-"Do not thank me with your mouth yet. Finish the burn." The page collapsed. Will ran tap water; hiss; black flakes. His hand slid from her hip to the small of her back, palm flat, holding her through the smell of extinguished weather. [player_name] turned into him without deciding to—mouth finding his—and Will kissed her like partnership and penance, then broke it.
+"Two doors from the ash," Will said quietly. "Live with the sealed pages: Ellison's quiet architecture, the journal hunting the clerk, me here on the nights you hate yourself for the match. Or walk the pier dawn: take the smell of this to the water and decide whether to leave or stay. Wanting you isn't the vote."
 
-Forehead to forehead. Breathing hard. Cock hard against her belly. Her cunt clenched around nothing. "It is done," he said against her lips. "I will not log the letter. That is me spending something. Ellison gets journal chain without this page. Cho still says *pending*. Remains still unnamed. Charm upstairs still only *like*. Memory is not admissible the same way—that is the wound—and you are soaked against my thigh because wounds make you honest in ways courtrooms do not."
+[player_name] lay against his chest and listened to the foghorn. "And if I pick wrong?"
 
-His thigh pressed between hers deliberately; slick fabric dragged; she whimpered; he groaned and stilled. "I could fuck the guilt out of you against this sink until the bowl falls. I will not. Not on ash. Not while the word is still mercy-or-cowardice. After you pick the next door." Foghorn rolled, low enough to feel in her clit and her bones. Chain-link rattled. Will's cracked knuckles cupped her jaw, thumb on her lower lip tasting smoke.
-
-"Two doors from the ash. Live with the sealed pages—stay inside Ellison's quiet architecture, journal hunting the clerk, me fucking you through the nights you hate yourself for the match, sealed life as kink and cost both. Or walk the pier dawn choice—take this smell to the water where she vanished, leave-or-stay on your tongue, and I will be hard for you on the pier boards without using my cock as an argument, because wanting you is not the vote."
-
-His free hand slid down, cupped her through her jeans—heel of palm against her cunt, pressure without rubbing enough to finish—counting her pulse there like evidence. "I can feel how ready you are. Sealed pages means I keep you aching in Harborwick's dark file. Pier dawn means I take you once in this kitchen like a vow that might be goodbye—then walk you to fog and respect the verb even if it guts me."
-
-[player_name] ground once against his palm despite herself; Will's eyes went black-green and he pulled his hand away like the leaving cost him, denial its own filthy stroke. "If I live with sealed pages," she managed, "I will need your mouth on me tonight so the ash is not the only thing I taste."
-
-"You will have it," Will said. "After the verb. On the bed, not the sink. I will put my mouth on you until cowardice translates back into mercy." Mid-thirties detective. Mid-twenties sister of the missing. Close enough to burn.
-
-"If you choose pier dawn, I will still put my mouth on you first—once—so you walk to the water knowing what you are leaving or staying for includes this. Then the fog gets the vote. Not my fingers." Rain freckled harder. [player_name] pressed her forehead to Will's scar and breathed him—salt, coffee, extinguished paper—while wet ash cooled in the bowl and her body throbbed unused beside a man who had held the fire with her.
-
-Choosing sealed pages meant waking beside buried truth and Will's mouth as penance. Choosing pier dawn meant leave-or-stay with ash still on her lips while unidentified remains waited upriver and hope still had a throat and dread still had teeth.
-
-"Pick the door," Will whispered, mouth at her ear, cock still hard against her, hands now only on her waist like restraint was the hottest thing left in the kitchen.
-
-"I smelled the smoke with you. I will walk sealed life or pier fog. I will feel whatever lie you tell yourself about mercy. It will make me harder and more careful with you in ways I should not catalogue over a bowl of wet ash. Verb. Now. Before I forget this was supposed to be only a burn and remember I can still taste how ready you are when you kiss me."
-
-[player_name]'s answer lived in her ruined pulse and the black flakes and the foghorn asking questions from the river. William Akers waited against her like a fuse after smoke—badge and hunger synchronized—while Harborwick remembered everything except the official story and the matchbook sat beside the sink like a smaller weapon they had already fired together. He kissed the corner of her mouth once more—smoke-sweet, restrained—and stepped half a pace back so she could choose without his cock doing the arguing against her hip.
-
-The space hurt. The space was the point. [player_name] gripped the sink edge, thighs pressed slick, cunt aching from palm-heel denial, and looked at the wet ash until it blurred. Sealed pages meant nights of Will's mouth translating guilt into something she could survive inside Harborwick's dark file. Pier dawn meant fog on her face and leave-or-stay spoken while her body still remembered his hand. Either way Cho's *pending* stayed the only honest word about bone.
-
-Either way the fire was out and the wanting was not. Will's grey-green eyes asked again without speaking. The radiator knocked. The foghorn answered. Will waited. The bowl cooled. Harborwick's rain kept time on the glass while [player_name] chose sealed life or pier fog with smoke still ghosting her tongue and want still humming between her legs like a second, unfinished match. Will boxed her against the counter while the bowl still ticked heat.
-
-His hand shoved into her jeans without ceremony—two fingers finding her shamefully slick—and he fucked the choice into her with kitchen patience, thumb on her clit, mouth at her ear.
-
-"Sealed life and I make you come against this counter with ash on your tongue until soft darkness feels like a verb you chose," he growled.
-
-[player_name] came close and was denied—Will easing out, painting her lower lip with a wet thumb, grey-green eyes wrecked and careful. The kitchen cooled enough to pretend the fire had only been paperwork. He waited. The bowl cooled. She had to pick sealed sheets or pier fog. the sealed past lived in one aborted rib-flinch while paper burned; he wore the sealed past like cologne [player_name] wanted on her tongue as smoke and slick shared the kitchen air.
-
-Nina Solis lived in one aborted rib-flinch while paper burned; he wore the sealed past like cologne [player_name] wanted on her tongue as smoke and slick shared the kitchen air.
-
-Hand into her jeans—two fingers finding her shamefully slick—thumb on clit. "Sealed life and I make you come against this counter with ash on your tongue," he growled. "Pier dawn and I walk you to the boards still dripping, leave-or-stay spoken while my fingers smell like your cunt." He eased out, painted her lower lip wet, grey-green eyes wrecked. Bowl cooling. She had to pick.`,
+"Then we'll be wrong together. Pick."`,
   choices: [
     { id: "scene9d", text: "Live with the sealed pages", textHot: "Live with the sealed pages" },
     { id: "scene9h", text: "Walk the pier dawn choice", textHot: "Walk the pier dawn choice" }
