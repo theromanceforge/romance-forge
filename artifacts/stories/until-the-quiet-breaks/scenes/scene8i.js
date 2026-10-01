@@ -6,7 +6,7 @@ export default {
 
 [player_name] stood on the wet boxwood side of the porch with rain needling her collar. She could hear the mantel clock even through the kitchen door John had closed without looking back. Woodsmoke threaded the eaves.
 
-Beyond the glass, Henry sat at the table, his shoulders smaller than the years had promised. John took the chair that had been his father's in every photograph Clara refused to throw away. The only hinge that mattered tonight was the one between nephew and uncle. [player_name] had chosen to stand outside it on purpose.
+Beyond the glass, Henry sat at the table, his shoulders smaller than the years had promised. John took the chair that had been his father's in every photograph Clara refused to throw away. Tonight the only thing that mattered was what passed between nephew and uncle. [player_name] had chosen to stand outside it on purpose.
 
 She tasted copper and rain. Fifteen years ago she had said yes to a cover that cast her exit as ambition. Tonight she had put the cover on the table and walked out, so John could hear Henry without her body becoming the buffer both men still half-wanted. Trust was the real question. Sometimes trust looked like absence wearing loyalty's coat.
 

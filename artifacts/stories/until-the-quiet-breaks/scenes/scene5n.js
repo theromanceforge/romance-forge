@@ -24,7 +24,7 @@ Noble alone. The phrase sat wrong and right at once. She set the phone face-down
 
 She slept badly. She dreamed the station steps, and Henry's hand on a suitcase that was also a shove. She dreamed John's grey eyes asking whether she was sorry for leaving or only sorry for being found out. She woke at three with her throat raw from a cry she had swallowed in the dream.
 
-At four she washed her face in water that never quite got hot. At five the freight yard shifted into a louder register, and the sky thinned to the bruised grey that meant a late-autumn dawn was negotiating with itself.
+At four she washed her face in water that never quite got hot. At five the freight yard grew louder, and the sky thinned to the bruised grey that meant a late-autumn dawn was negotiating with itself.
 
 She replayed the dish-pit hour while the radiator knocked. John bracing the steel sink, water beading on his wrist, the burn scar going white as he gripped metal instead of her. She had given him debts and ice and Henry's request without softening any of it. He had given her an hour of not-kind, then asked for a night, because kindness and cruelty were braiding too tight to touch safely. Walking away had felt like tearing fabric. Staying might have felt like burning it.
 
