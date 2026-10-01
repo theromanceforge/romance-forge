@@ -1,35 +1,39 @@
 export default {
   id: "scene6n",
   layer: 6,
-  title: "Badge number: internal inquiry shadow on Cassian",
+  title: "The Old Unit",
   text: `The badge number arrived like a bruise that had been waiting for language.
 
-Archivist Bram Kestrel laid the half-charred impression beside a Collegium registry slate in the supervised shelf-room that smelled of old parchment and ozone. Salt wind worried the high vents. Copper bells above Ashmere kept wrong time. Cassian Rook stood very still—scorched leather, sealed past, mid-thirties mouth gone blade-flat—while [player_name]’s cracked charm ticked against her throat as if it recognized the stamped digits the way the cliff had recognized Thorne’s frequency on trial night.
+Archivist Bram Kestrel laid the half-charred impression beside a Collegium registry slate in the supervised shelf-room. It smelled of old parchment and ozone. Salt wind worried the high vents. The bells above kept wrong time.
 
-“Maris half-heard it in Thorne’s last night,” Bram said carefully. “Ash-forensics filled the rest. The number belongs to a badge issued under Handler Rook’s old paired unit—years ago, border rotation, sealed inquiry adjacent. It does not prove Cassian wrote inland to a prefect. It proves someone wanted the trail to look like him. Or it proves the file the Collegium buried still has teeth.”
+Cassian Rook stood very still, his mouth gone flat. [player_name]'s cracked charm ticked against her throat. It seemed to recognize the stamped digits, the way the cliff had recognized Thorne's frequency on trial night.
 
-Isolde Vane would love either reading. Prefects already smelled blood. Internal inquiry shadow thickened from rumor into schedule: Cassian under review for closeness to a Warden-candidate whose song matched a Dark Sovereign’s leftover music. Living-key language still contested. Sacrifice map still unfinished. Unmade still pressing. Hope and dread sharing the registry slate.
+"Maris half-heard it from Thorne's last night," Bram said carefully. "The ash filled in the rest. The number belongs to a badge issued under Handler Rook's old paired unit. Years ago. Border rotation. Close to the sealed inquiry. It doesn't prove Cassian wrote inland to a prefect. It proves someone wanted the trail to look like him. Or that the file the Collegium buried still has teeth."
 
-Cassian did not deny the unit. He did not open his sealed drawer. “I know that number,” he said softly. “I know the village attached to the push that ate civilians. I know Vesper blamed dogma and left while I stayed and learned to smile for burial. What I do not know is who pressed that stamp into wax beside Thorne’s sigil last week—unless the Collegium’s own ghosts are writing letters again.”
+Isolde would love either reading. The prefects already smelled blood. The inquiry shadow was thickening from rumor into schedule. Cassian under review, for closeness to a Warden-candidate whose song matched a Dark Sovereign's leftover music.
 
-[player_name] tasted copper. “If we walk into review, they will ask how often your glove finds my pulse. They will dress want as compromised judgment. If I go public—candidate statement, assembly hearing, my song as shield—they may flinch from burning you while the bells are watching. Either path costs. Neither finishes whether Thorne is monster or revolutionary. Neither names me lineage clean.”
+Cassian didn't deny the unit. He didn't open his sealed drawer. "I know that number," he said softly. "I know the village tied to the push that ate civilians. I know Vesper blamed dogma and left, while I stayed and learned to smile for the burial. What I don't know is who pressed that stamp into wax beside Thorne's sigil last week. Unless the Collegium's own ghosts are writing letters again."
 
-Bram’s eyes were kind and terrified. “Ambiguity is not a luxury tonight. It is a life-support system. Do not let Isolde finish your sentences.”
+[player_name]'s mouth went dry. "If we walk into review, they'll ask how often your glove finds my pulse. They'll dress want up as compromised judgment. If I go public, with a candidate statement and an assembly hearing, my song as shield, they may flinch from burning you while the bells are watching. Either path costs."
 
-Cassian’s glance found [player_name]—brutal charm sanded to asking. “I’m under shadow either way. I’d rather face review with you beside me than watch you spend yourself in politics Isolde invented. But if public is the shield that keeps my hands free for the ward-line, I will hate it and accept it. Your call. Romance is not the inquiry’s business. Surviving long enough to choose each other is.”
+Bram's eyes were kind and terrified. "Ambiguity is not a luxury tonight. It is a life-support system. Do not let Isolde finish your sentences."
 
-Practice-yard blue glowed in memory. Veil Sea fog climbed. Calderyn’s farmlands failed inland. Maris’s fear walked halls. Want hummed under duty—unfinished, insistent, locked to Cassian alone.`,
-  textHot: `The badge number arrived like a bruise—and [player_name] felt it in her cunt as much as her throat. Bram’s supervised shelf-room. Parchment. Ozone. Salt wind. Copper bells wrong. Cassian Rook went blade-still while digits that looked like his old unit sat beside Thorne’s wax ghost. Her cracked charm ticked between her breasts. Nipples tight. Inquiry shadow meant closeness named as crime—and closeness was exactly what made her slick whenever his glove found her pulse.
+Cassian's glance found [player_name]. The charm was gone. Only the asking was left. "I'm under shadow either way. I'd rather face review with you beside me than watch you spend yourself in politics Isolde invented. But if going public is the shield that keeps my hands free for the ward-line, I'll hate it and accept it. Your call. What we are isn't the inquiry's business. Surviving long enough to choose each other is."
 
-“Someone wants the trail to look like me,” Cassian said softly. “Or the buried file still has teeth.” Sealed past. Nearly-following-Thorne. Brutal charm sanded to danger. [player_name] wanted to put her mouth on his throat until the Collegium forgot how to bill him.
+Fog climbed outside. Maris's fear walked the halls. Stand beside him under review, or go public as his shield.`,
+  textHot: `The badge number arrived like a bruise. [player_name] felt it in her cunt as much as her throat.
 
-Review would ask how often he touched her. Public would spend her song as shield. Living-key fog contested. Sacrifice unfinished. Unmade pressing. Want made politics feel like foreplay with knives.
+Bram's supervised shelf-room. Parchment. Ozone. Cassian went still as a blade while digits from his old unit sat beside Thorne's wax ghost. Her cracked charm ticked between her breasts. The inquiry shadow meant closeness named as a crime. And closeness was exactly what made her slick whenever his glove found her pulse.
 
-She stepped into Cassian’s space until scorched leather warmed her breasts through cloth. “If we face review, I want them to see my pulse under your glove on purpose. If I go public, I want you hard and furious in the wings while I spend myself protecting you—then I want you to collect afterward where Isolde’s ink can’t reach.”
+"Someone wants the trail to look like me," Cassian said softly. "Or the buried file still has teeth." [player_name] wanted to put her mouth on his throat until the Collegium forgot how to bill him.
 
-Cassian’s breath punched out. His forehead tipped to hers. “You can’t say collect in a shelf-room and expect me polite.” His gloved thumb stroked her charm once—spark straight to her clit. “Inquiry beside me—or public shield. Either way you’re not Isolde’s key. Either way I’ll be aching through the hearing.”
+Review would ask how often he touched her. Going public would spend her song as a shield. Want made politics feel like foreplay with knives.
 
-He did not fuck her against Bram’s shelves. Hope and dread shared her body. The hinge waited wet under Ashmere’s bells: face his review as vow—or go public, song as shield, want unfinished.`,
+She stepped into his space until scorched leather warmed her breasts through cloth. "If we face review, I want them to see my pulse under your glove on purpose. If I go public, I want you hard and furious in the wings while I spend myself protecting you. Then I want you to collect afterward, where Isolde's ink can't reach."
+
+Cassian's breath punched out. His forehead tipped to hers. "You can't say collect in a shelf-room and expect me polite." His gloved thumb stroked her charm once. A spark, straight to her clit. "Review beside me, or the public shield. Either way you're not Isolde's key. Either way I'll be aching through the hearing."
+
+He didn't fuck her against Bram's shelves. Face his review as a vow, or go public with her song as shield.`,
   choices: [
     { id: "scene7n", text: "Inquiry: stand with Cassian under review", textHot: "Inquiry: face his review beside him — let closeness be evidence and vow" },
     { id: "scene7o", text: "Politics: she goes public to protect Cassian", textHot: "Politics: go public for him — spend your song as shield" }
