@@ -43,45 +43,61 @@ The office hummed with fluorescent honesty and human heat. [player_name]'s palms
 One path meant leaning into Will: the pier night finally spoken where it could become evidence instead of shame, Renny's locked secrets opened under his notebook and Ellison's reluctant seal. The other meant holding the line, family first, one more night of protection that might already be poison, while access bled out of the room and rumor sprinted ahead of science.
 
 The shelf clock ticked like a second interrogation she hadn't agreed to and couldn't postpone. The kept secret pressed its whole weight into her mouth.`,
-  textHot: `Captain Mara Ellison's office smelled like policy ink, reheated coffee, and rain on wool, and under it the low animal thrum of two people who shouldn't want each other this hard under a captain's eye. The west window held the pier fog like a held breath. [player_name] stood because no chair had been offered. Will stood close enough that she could feel the heat off his shoulder, in a charcoal shirt that remembered the shape of him too well: broad back, lean waist, the kind of body that made interview tables feel like foreplay.
+  textHot: `Captain Mara Ellison's office smelled like policy ink, reheated coffee and rain on wool. Under that was the low animal thrum of two people who shouldn't want each other this hard under a captain's eye.
+
+The west window held the pier fog like a held breath. [player_name] stood, because no chair had been offered.
+
+Will stood close enough that she could feel the heat off his shoulder. His charcoal shirt remembered the shape of him too well: broad back, lean waist, the kind of body that made interview tables feel like foreplay when he leaned across them.
 
 Ellison set her tablet down like a verdict. "Access is not a right. Everything you withheld. Owen. The pier. The soft detail you called protection."
 
 [player_name] felt naked under the sentence. Will's cracked notebook pressed his thigh. When Ellison said everything, his gaze dragged over [player_name]'s mouth like a thumb, and her body answered before her brain did, a low, treacherous pulse of want she hated and couldn't shut off.
 
-"Define everything," she managed, and hated how rough her voice sounded, as if he had already been kissing her throat.
+"Define everything," she managed. She hated how rough her voice sounded, as if he had already been kissing her throat.
 
-Ellison listed Owen's timeline, the pier sighting, the omission at nineteen. She almost said a name, Nina Solis, and stopped. The pause bruised the room. The flinch at Will's jaw made [player_name]'s nipples tighten traitorously under her blouse. Broken men shouldn't be this hot, and Will wore broken like cologne she wanted to lick off his pulse point.
+Ellison listed Owen's timeline, the pier sighting, the omission at nineteen. She almost said a name, Nina Solis, and stopped. The pause bruised the room.
 
-Rain freckled the glass. Attraction was filthy timing. It flooded her anyway: thighs pressed hard together, clit throbbing once when Will stepped half a pace nearer, soap and salt filling her nose until she had to part her lips to breathe him without looking like she was breathing him.
+The flinch at Will's jaw made [player_name]'s nipples tighten under her blouse. Damaged men shouldn't be this hot. Will wore his damage like cologne she wanted to lick off his pulse point.
+
+Rain freckled the glass. She still tasted the almost-confession from downstairs: Owen at the pier with someone wrong, the lie that kept the house standing, seven years of sleeping on a secret.
+
+The timing was filthy. Want flooded her anyway. Her thighs pressed hard together, and her clit throbbed once when Will stepped half a pace nearer. Soap and salt filled her nose until she had to part her lips to breathe him without looking like she was breathing him.
 
 "If I cooperate, I stay in the room," [player_name] said, voice rough. "Cho's notes. Charm probability. Before rumor buries hope or sells dread as gospel."
 
 "You stay under my rules," Ellison said. "Akers primary. You do not date the case."
 
-Will's mouth twitched, an almost-joke about dating and case numbers, and died under Ellison's look. "Cutting her freezes the pier night. Cho has no hard ID. Quiet helps whoever wanted that night silent."
+Will's mouth twitched at that, an almost-joke about dating and case numbers, and it died under Ellison's look. "Cutting her freezes the pier night," he said. "Cho has no hard ID. Quiet helps whoever wanted that night silent."
 
 "Don't lecture me on quiet, Akers. You know what hallway chaos costs." The sealed past again: a partner, a fall, a file. Will took it. The wound showed in the set of his shoulders.
 
-"Full cooperation means I put Owen at the pier," [player_name] said, and saying it felt like a shove. "Means I admit the omission. Means I stop protecting ash because ash still looks like family if you squint."
+"Full cooperation means I put Owen at the pier," [player_name] said. Saying it felt like orgasm's mean cousin, release edged with ruin. "Means I admit the omission. Means I stop protecting ash because ash still looks like family if you squint."
 
 Ellison's tablet woke, cold light under her chin. "On record. Tonight. Before Cho drips. Before Owen burns the link."
 
-Will closed the half-pace. Not touching. Worse than touching. Heat off his chest warmed the front of her blouse. She could map where his mouth would land if Ellison vanished: the corner of her lips first, then deeper, then the confession pulled out of her with tongue and teeth while his hand found the damp between her thighs. "Or lean into me," he murmured, velvet for her, steel for the room. "Give the truth through me. Controlled. I'll walk you through the ugly."
+Will closed the half-pace. Not touching. Worse than touching. Heat off his chest warmed the front of her blouse.
 
-His eyes dropped to her throat, to the frantic pulse there, then lower for a fraction of a second that felt like fingers sliding under her waistband. Hunger on a leash Ellison could see and despise. [player_name] clenched around nothing and bit the inside of her cheek.
+She could map where his mouth would land if Ellison vanished. The corner of her lips first, then deeper, then the confession pulled out of her with tongue and teeth while his hand found the damp between her thighs.
 
-"Akers—"
+"Or lean into me," he murmured, velvet for her, steel for the room. "Give the truth through me. Controlled. I'll walk you through the ugly."
 
-"She has a choice," Will said, smile flashing. "Theater for the captain, or partnership for a case that's still alive. Don't choke hope for metrics, Mara."
+His eyes dropped to her throat, to the frantic pulse there, then lower for a fraction of a second. It felt like fingers sliding under her waistband. [player_name]'s cunt clenched around nothing. She bit the inside of her cheek.
+
+"Akers—" Ellison said.
+
+"She has a choice," Will said, and his smile flashed. "Theater for the captain, or partnership for a case that's still alive. Don't choke it for metrics, Mara."
 
 Ellison's jaw flexed. Rain thickened. "Sixty seconds. Lean into Akers and open everything, or hold the line and lose the file. Tick."
 
-The office hummed. [player_name]'s body hummed louder: lips parted, nipples aching against cotton, slick and clenched while Will watched her like he already knew how she'd sound opening for him, mouth and seven-year lock alike. Holding the line meant walking out with access bleeding and her thighs still slick for a man Ellison called a liability.
+The office hummed. [player_name]'s body hummed louder. Her lips parted and her nipples ached against cotton. She was slick and clenched while Will watched her like he already knew how she'd sound opening for him, mouth and seven-year lock alike.
 
-She shifted; wet fabric kissed her clit, a small, humiliating jolt of pleasure flickering up her spine in a captain's office. The kept secret pressed its whole weight into a mouth that wanted Will and the truth in the same breath. Ellison waited like a fuse. Will waited like a man who'd either catch her or ruin her if she fell forward.
+Holding the line meant walking out with access bleeding and her thighs still slick for a man Ellison called a liability.
 
-If she held the line, she'd walk into Harborwick rain with desire unfinished, pressing her own fingers later to the memory of his voice saying lean into me like it was both case strategy and the filthiest thing anyone had ever asked of her in a room with a clock. The foghorn sounded. She almost said his name out loud just to feel it shape her mouth the way she wanted his mouth to shape her.`,
+She shifted, and wet fabric kissed her clit. A small, humiliating jolt of pleasure flickered up her spine in a captain's office. Ellison waited like a fuse. Will waited like a man who'd either catch her or ruin her if she fell forward.
+
+She could still feel the ghost of his knee from the interview room, a brand on the inside of her thigh. If she held the line, she'd walk into the rain with desire unfinished. Later she'd press her own fingers to the memory of his voice saying lean into me, like it was case strategy and the filthiest thing anyone had ever asked of her in a room with a clock.
+
+The foghorn sounded. She almost said his name out loud, just to feel it shape her mouth. Ellison's clock ticked toward sixty.`,
   choices: [
     { id: "scene6a", text: "Lean into Will and the truth", textHot: "Lean into Will and the truth" },
     { id: "scene6b", text: "Hold the line — protect family first", textHot: "Hold the line — protect family first" }

@@ -53,35 +53,55 @@ A radio crackled: the second suspect lost in dock fog. The crates yielded nothin
 Dock fog took the ambulance light and made it look like a second moon. Will sat on the bumper with gauze at his temple, lip split, still trying to run the scene. Behind them the zip-tied man swore. The clerk-shaped shadow was gone. [player_name] felt the shot's unfinished thunder in her ribs.
 
 "Stay with me at the hospital," Will said quietly, "or testify for me at the hearing. Both keep Renny's finger alive. Both leave me wanting to finish the kiss we keep parking behind warrants, and now behind gauze."`,
-  textHot: `Raid air smelled like fish-rot and generator oil.
+  textHot: `Raid air smelled like fish-rot and generator oil, and like the filthy unfinished want that danger always woke in [player_name] when Will put his body between her and the dark.
 
-Entry A. Dock side. The borrowed vest was too tight across her chest. Will's voice in her earpiece felt like fingers on her spine. "Six," he murmured, and she stayed on his six.
+Entry A. Dock side. The borrowed vest was too tight across her chest, her nipples peaked from cold and adrenaline. Will's voice in her earpiece felt like fingers. "[player_name], six," he murmured. She felt the word in her cunt, a ridiculous and true answer to procedural dread.
 
-The warehouse opened in generator dark. Crates. A cage. Water dripping like a clock. A clean-jacket shape moved wrong. Hands up, then not. An angular flash. A gun. Will held. Then he fired once, controlled. Shoulder wound. The man went down against the chain-link, swearing. Will kicked the gun clear. The medic moved. [player_name]'s knees went soft with relief.
+The warehouse opened in generator dark. Crates. A cage. Water dripping like a clock. Her pulse lived in her throat and lower. Raid rooms shouldn't turn her on. Will walking a red door did it without trying.
+
+A clean-jacket shape moved wrong. Hands up, then not. An angular flash. A gun. Will held. Then he fired once, controlled. Shoulder wound. The man went down against the chain-link, swearing, bleeding into fabric. Will kicked the gun clear. The medic moved.
+
+[player_name]'s knees went soft with relief so sharp it felt like arousal's twin. She was wet. Absurd. True. Fear and loyalty and the shape of his competence had soaked her through her jeans like a secret she couldn't file.
 
 Then the second shape hit Will from the mezzanine blind.
 
-A pipe. A collision. Crates. Blood at his temple. Will on one knee, lip split, still trying to run the scene. A clerk-shaped shadow fled through the unlocked side door. Will lied, "I'm fine," with blood in his eyebrow.
+A pipe. A collision. Crates. Blood at his temple. Will on one knee, lip split, still trying to run the scene. A clerk-shaped shadow fled through the unlocked side door. Will lied, "I'm fine," with blood in his eyebrow, his eyes finding her.
 
-She was on him before the medic finished kneeling, hands framing his face. "You're bleeding on my raid."
+She was on him before the medic finished kneeling, hands framing his face, vest to vest. "You're bleeding on my raid."
 
-"Our raid," Will growled. His cracked knuckles caught her wrist and pressed her palm flat to his chest under the vest edge, over the hammer of his heart. "Feel that. The pipe didn't stop it."
+"Our raid," Will growled, and the growl went straight between her legs. His cracked knuckles caught her wrist and dragged her palm to his chest under the vest edge, over the hammer of his heart. Then lower, for one stolen second, against the hard line of his cock through his tactical pants.
 
-The medic cleaned the cut. Backup cleared the cage. Radios said the second suspect was lost in dock fog. Only when the warehouse was secured and they'd walked out into the night air, away from the blood on the concrete, did Will let her stand close.
+"Feel that," he said. "The pipe didn't kill it. I held my fire, and I still got hard for the way you said my name when I went down. That should scare Internal. It scares me."
 
-At the ambulance, out of camera angles, he pulled her against the cold panel and stopped an inch from her mouth. "I've wanted you all night. Even now. Tell me if this is the wrong moment."
+"[player_name]—" the medic started.
 
-"It's the moment."
+"Pocket," Will snapped, and got three meters of not-looking that felt like a gift with teeth. He pulled her into the cage shadow against cold chain-link and kissed her hard enough to bruise. Copper shared, tongue claiming. His thigh shoved between hers. She gasped at the pressure on her clit through denim, and he groaned into her mouth.
 
-He kissed her hard enough to bruise, careful of the split lip and not careful enough, copper and salt and want. His thigh slid between hers; she gasped at the pressure; he groaned into her mouth. His hand went under the vest, under her shirt, thumb finding a tight nipple and rolling it until her hips jerked against him. She felt him hard through his tactical pants, adrenaline and want together.
+His hand went under the vest, under her shirt, thumb finding a tight nipple and rolling it until her hips jerked. Then two fingers pushed into her jeans under soaked cotton. She was dripping. He cursed softly and pumped deep.
 
-"Stay with me at the hospital," he muttered against her throat, "and after the stitches, when they leave us alone, I'll lock the door and take my time with you, palm over your mouth so the nurses don't hear. Or testify for me at the hearing, and after, I'll lock a conference room and put you on the table where they asked about proximity."
+"Stay with me at the hospital," he muttered, "and after the stitches I'll fuck you careful in a supply closet, palm over your mouth. Or testify for me at the hearing, and after, I'll take you against a wall in a room the city empties."
 
-She pressed her palm against his cock through his pants and he hissed and caught her wrist. "Not here," he said, voice wrecked. "Not with a medic ten meters away and my head still ringing. But I'm not done with you."
+His thumb found her clit in tight circles, and her knees buckled against the chain-link. He freed himself enough to drag the head of his cock through her folds without entering, hot and blunt, painting her while backup radios crackled ten meters away.
 
-He pressed his forehead to hers carefully, around the gauze. Dock fog painted the ambulance light red. The zip-tied man swore behind them. Upriver, the remains were still unnamed.
+"I won't fuck you in a live warehouse," he breathed. "I'll make you choose while you drip on me."
 
-"Stay with me at the hospital," Will whispered, "or testify for me at the hearing. Both hurt. Pick before Ellison invents our posture for us."`,
+She came quiet against the cage, shaking, fist in his vest, biting his shoulder through nylon. Will eased back without chasing his own finish, his cock jumping against her thigh. He tucked himself away with unsteady hands and fastened her jeans with a mock courtesy that didn't reach his eyes.
+
+The medic cleaned the cut. Backup cleared the cage. Radios said the second suspect was lost in dock fog. Will steered her into the warehouse office, which smelled of oil and old clipboards, and kicked the door half-shut.
+
+He put her back against a filing cabinet that rattled. The gauze at his temple was a pale insult. He kissed her again, slower, meaner, gratitude with a pulse, and rubbed her clit through wet denim until her knees went.
+
+"Hospital means your mouth on the unbloodied parts after the stitch," he muttered. "Then I bend you over a supply counter and fuck you careful so I don't tear the suture."
+
+He opened her zipper again. Two fingers slid back into slick heat, curling, relentless. "Hearing means you walk into Rhee's recorders with fish-rot in your hair and my blood under your nails. And I repay you on the table where they asked about proximity."
+
+His old partner's file would stir either way. Sealed stayed sealed tonight. She didn't get the whole hallway because he'd been cracked open. She got this.
+
+He walked her out past the zip-tied, swearing man, into dock fog where an ambulance painted the night red. Out of camera angles, he boxed her against the cold panel and put her hand on his cock through his pants once more.
+
+"Hospital means my fingers back in this exact slick while machines beep," he said. "Hearing means you save my badge with sentences, and I repay you with my tongue until your testimony voice breaks on my name."
+
+He pressed his forehead to hers, careful of the gauze. Upriver, the remains were still unnamed. "Stay with me at the hospital," Will whispered, "or testify for me at the hearing. Choose before Ellison invents our posture for us."`,
   choices: [
     { id: "scene8m", text: "Stay with Will at the hospital", textHot: "Stay with Will at the hospital" },
     { id: "scene8n", text: "Testify for Will at the IA hearing", textHot: "Testify for Will at the IA hearing" }

@@ -51,15 +51,17 @@ Chain-link rattled. A reporter shouted Renny's name like a verdict. [player_name
 "The trial puts Owen under oath with Renny's loops as the spine," Will murmured. "The press hands Harborwick every plate number before Ellison can leash the narrative. I walk either. I won't invent a corpse because daylight is dramatic." His knuckles hovered a breath from her wrist, near enough to feel the heat, far enough that the cameras couldn't invent a romance angle without lying.`,
   textHot: `Rain silvered the precinct steps, and the air between [player_name] and Will was already too warm for a public that wanted blood and copy. Pier salt on the wind. Foghorns beyond the warehouses. She held Renny's cracked purple journal against her ribs hard enough to feel her heartbeat in the leather. Will stood at her shoulder close enough that soap and salt filled every breath.
 
-The scar through his eyebrow caught the wet light. His thigh almost brushed hers when he shifted, and the almost went straight through her before either of them pretended this was only about Warehouse C.
+Pier salt rode the wind. Will's scar caught the wet light, and the cameras got his face banked for them, velvet over a blade.
 
-"Last chance to walk it back," Will murmured against her ear. "Once the handwriting hits those mics, Owen stops being a whisper. Name the chain. Don't name bone." His knuckles ghosted the small of her back, a claim the lenses mustn't catalogue. "And try not to look like you want me to take the shaking out of you on these steps. I can feel it from here."
+Then his thigh almost brushed hers when he shifted. The almost shot straight between [player_name]'s legs before either of them pretended this was only about Warehouse C.
 
-She felt it too, low and stupid. The journal named a chain, not a corpse. Cho's remains upriver were still pending. Will treated that distinction like a sacrament, and somehow that made the want worse.
+"Last chance to walk it back," Will murmured against her ear, his breath hot enough to stroke. "Once the handwriting hits those mics, Owen stops being a whisper. The press will invent a corpse. Don't let them. Name the chain." His cracked knuckles ghosted the small of her back, a claim the lenses mustn't catalogue. "And try not to look like you want me to fuck the shaking out of you on these steps. I can feel it from here."
 
-Ellison appeared in the glass doors, tablet under her arm. "Akers. Circus."
+[player_name]'s cunt clenched around nothing. Shame and hunger and grief were breathing the same air. The journal named a chain, not a corpse, and Will treated that distinction like a sacrament. Somehow that made her wetter.
 
-"Honest," Will said. When Ellison's gaze flicked toward the hallway he never opened, his jaw flexed and his hand stayed on [player_name]'s back like a brand.
+Ellison appeared in the glass doors, tablet under her arm, mouth a line. "Akers. Circus."
+
+"Honest," Will said. When Ellison's gaze flicked toward the hallway he never opened, his jaw flexed and his hand stayed on [player_name]'s back like a brand. Damaged men shouldn't be this hot. She wanted to lick the damage off his throat between soundbites.
 
 [player_name] stepped to the mics and read the chain into Harborwick's weather: Warehouse C, clerk M.K., Owen's late nights, the pier night finally outdoors. "I'm not naming unidentified remains as hers," she said, voice ruined and holding. "Lab pending."
 
@@ -69,21 +71,29 @@ Questions surged: Owen, the clerk, whether the detective was sleeping with the w
 
 "Because I was afraid," [player_name] said. "Because Owen sold me a softer lie. Because Renny wrote that I knew, and she was right, and I'm done letting her be right alone."
 
-Ellison stepped close after the first wave. "Two doors by end of day. The full-testify trial path: Owen and the chain under oath, no soft edges. Or blow the rest open in the press yourselves before someone leaks worse. Akers's closeness is already IA-shaped. Public heroes make pretty targets."
+Ellison stepped close after the first wave, burnt coffee cutting the pier salt. "Two doors by end of day," she said, soft, for them only. "The full-testify trial path: Owen and the chain under oath, no soft edges. Or blow the rest open in the press yourselves before someone leaks worse. Akers's closeness is already IA-shaped. Public heroes make pretty targets."
 
-Will's mouth almost touched [player_name]'s temple. "She chooses. I stay." Lower, for her only: "I'm hard from watching you tell a city the truth it doesn't deserve, and I'm keeping that out of the vote. Pick the trial and I'll sit behind you in a courtroom wanting my mouth on your throat every time you say Warehouse C. Pick the press and you'll have me after the last live shot dies. Either way, nothing happens until you say so."
+Will's mouth almost touched [player_name]'s temple. "She chooses. I stay." Lower, for her only: "I'm hard from watching you tell a city the truth it doesn't deserve, and I'm choosing to keep my cock out of the vote. Pick the trial and I'll sit behind you in a courtroom wanting my mouth on your throat every time you say Warehouse C."
+
+[player_name] pressed her thighs together harder. Slick fabric dragged against her clit like a secret the rain mustn't catalogue. She gripped the journal until the leather squeaked, and Will's cracked knuckles covered hers: heat, calluses, partnership that was also a claim.
+
+The foghorn rolled, low enough to feel in her bones. Will angled his body to block one more lens from her throat, his thigh brushing hers deliberately now. "Trial or press storm," he whispered. "I'll still want you after. Tell me before I forget these are precinct steps and remember I can smell how ready you are under this rain."
 
 [player_name]'s pulse hammered in her wrist under his thumb and lower, unused and honest. Hope still had a throat. Dread still had teeth. Charm upstairs still only like. Remains still unnamed. Choosing full-testify meant oath and fluorescent ruin and Will's eyes on her mouth through every warehouse mark while her body throbbed through every sentence. Choosing the press blowout meant handing the city the USB and the map while want cooled into a bruise she would press later—bed, rain-dark sheets, a detective who would not invent a corpse because paper was dramatic and would not invent mercy that was really cowardice, only the kind of careful fucking that came after truth had already been spoken outdoors.
 
 The press pack reshuffled for better angles, and Will used the shuffle as cover. He moved her half a step behind a concrete pillar where one lens lost her throat. His thigh found hers through wet denim. His mouth went to her jaw, not her lips, and his knuckles slid under her coat to the damp small of her back until she bit a sound into the leather.
 
-"Listen to me," he said, voice stripped of briefing grammar. "I watched a precinct choose metrics over a kid in a hallway. I won't watch you choose a headline because dread wants a shortcut, or a trial that turns you into exhibit A while I sit there sworn and useless. You pick the door. I pick how I hold you after."
+"Listen to me," he said, his voice stripped of briefing grammar. "I watched a precinct choose metrics over a kid in a hallway. I won't watch you choose a headline because dread wants a shortcut. I won't watch a trial turn you into exhibit A while I sit there sworn and useless. You pick the door. I pick how I hold you after."
+
+Rain slicked his scar. She wanted to put her tongue on it.
 
 "If I take the trial," she whispered, "I'll need you in the hallway outside every recess."
 
-"You'll have me. In the hallway. In the car. In whatever room still smells like rain when you're done saying Warehouse C under oath." His thumb found her pulse and counted it. "If you blow the press open, you'll have me behind a locked door the second the cameras go home."
+"You'll have me. In the hallway. In the car. In whatever room still smells like rain when you're done saying Warehouse C under oath," Will said. "Blow the press open, and you'll have me against a wall with your skirt around your hips the second the last live shot dies."
 
-Then he stepped back. Rain. Mics. Ellison's tablet chiming. The cold came between them like a third witness, and Cho's word was still the only honest one about the remains.
+His thumb found her pulse at her wrist and counted it like he was timing an orgasm he refused to give her on precinct concrete. "Trial, and I take you apart in a locked room after the first deposition until you come quiet enough for foghorns. Press, and I keep you aching through every shutter."
+
+Then he stepped back. Rain. Mics. Ellison's tablet chiming. The cold came between them like a third witness.
 
 "Choose," he said. "Trial or press. Before I kiss you where they can see."`,
   choices: [

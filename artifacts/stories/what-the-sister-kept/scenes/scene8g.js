@@ -45,29 +45,45 @@ Ellison would call this authorized if the paperwork held, and cowboy if a family
 Sodium light leaked through the corrugated gaps. The clerk's wrists shone. The warm shredder still ticked somewhere in the dark like a mechanical conscience. Hope argued that Renny had walked out of rooms like this. Dread answered that someone hadn't wanted her to.
 
 "Hold the clerk, and we work him while the steel is fresh and Renny's map stays geography, not a corpse," Will said, notebook spine cracking. "Watch him slip, and you choose vigil over certainty, and I spend dawn chewing restraint two blocks away. Both leave Cho's tray unnamed." He didn't fill the silence with comfort. [player_name] drew a breath that tasted like rust and soap and unfinished trust.`,
-  textHot: `The clerk had a face after all: municipal-small eyes, a kiosk cigarette stuck to his lip. Pre-dawn fog held the warehouse in a soft fist. Salt. Rust. Chain-link. [player_name] stayed behind the frost latch where Will had put her, flashlight dark, pulse hammering, while he cleared angles like a man who still flinched at hallways.
+  textHot: `The clerk had a face after all: municipal-small eyes, a kiosk cigarette stuck to his lip. [player_name] felt the catch in her cunt as much as in her shoulders, Will's bulk turning steel into wet heat she had no business bringing to a crime scene.
+
+Pre-dawn fog held the warehouse in a soft fist. Salt. Rust. Chain-link. She stayed behind the frost latch where Will had put her, flashlight dark, thighs tight, pulse hammering. He cleared angles like a man who still flinched at hallways, and cuffed without theater.
 
 "Hands where I can count them," Will said. Final. The clerk's hands rose. Zip ties whispered. "Name. Desk code. Who taught you to shred warm. Who needed a teenager quiet during festival week."
 
 "Cho hasn't confirmed Renny among the dead. The charm is probability. No invented funerals. Living questions only." The clerk wanted a lawyer and a deal. Rain needled the roof. [player_name] stepped out on Will's nod. His gaze dropped to her for half a second, then went back to the clerk's hands.
 
-"Two ways," Will said quietly, for her, while Ellison's radio crackled. "Hold him: clean lean, work him until the killer can be named as a living fact. Or watch him slip, and I hunt while you wait."
+"Two ways," Will said quietly, for her, while Ellison's radio crackled. "Hold him: clean lean, work him until a name can stand as a living fact. Or watch him slip, and I hunt while you wait."
 
-Ellison's voice clipped through the radio. Will answered in shorthand, clerk cuffed, no hard ID, without saying [player_name]'s name. The radio went quiet. His boot found her shoe behind the clerk's sightline, a single touch in a room full of evidence, and she held her breath.
+The bay smelled like a bleach ghost and unfinished fucking. "Hold him," he went on, lower, "and after the brief I put you against corrugated steel and finish what the breach started with my mouth, until you come quiet enough for perimeter flashlights. Let him slip, and I hunt with my cock hard in every fog I chase."
 
-"If we hold him," she said, "we spend the catch on a name with teeth. If he slips, you hunt and I wait."
+Heat flooded her face. Ellison's voice clipped through the radio. Will answered in shorthand, clerk cuffed, no hard ID, without saying [player_name]'s name. The radio went quiet. His boot found her shoe behind the clerk's sightline, and she bit her tongue on a sound that would have become evidence.
 
-"Both hurt," Will murmured. "Both keep you close. I pushed early once and people bled. This catch isn't early. It's earned. Your call."
+"If we hold him," she said, voice rough, "we spend the catch on a name with teeth. If he slips, you hunt and I wait with my body still remembering your coat—" She stopped, too late. Will's mouth twitched like he could smell her.
 
-The clerk laughed thin. He knew who'd needed quiet. He knew pier-side stepfathers and mid-level throats. Pending was a leash. When the perimeter flashlight painted the red door, Will's hand found the small of her back, professional to any other badge, everything to her nervous system, and steered her half a step so the clerk couldn't read her face.
+"I pushed early once and people bled," Will murmured. "This catch isn't early. It's earned steel. Your call. Either way I'm going to fuck the leftover adrenaline out of you somewhere Ellison's channel can't reach."
 
-"Hold the clerk or watch the slip and let me hunt," he whispered at her ear. "I dig either way. And when this is done, when we're somewhere that isn't a crime scene, I'm going to want you more than I've ever wanted anything. Only if you want that too."
+The clerk laughed thin. He knew who'd needed quiet. He knew pier-side stepfathers and mid-level throats. Pending was a leash.
 
-She wanted it. It sat under her ribs like a second pulse, and she didn't let it into the room. Cuffs clicking. A warm shredder ticking. Bones unnamed on purpose.
+When the perimeter flashlight painted the red door, Will's hand found the small of her back, professional to any other badge, filthy to her nervous system. He steered her half a step so the clerk couldn't read her face.
 
-"Partner is a word that gets people killed," Will said under his breath, for her, not for the badge. Then he stepped away. The air between them went cold and correct. The clerk watched his fate arrive in cuff clicks.
+"Hold the clerk, or watch the slip and let me hunt," he whispered at her ear. His breath hit the shell of it until her pussy clenched empty and furious. "I dig either way. I also don't pretend I can smell you from here and stay only a detective."
 
-Sodium light leaked through the corrugated gaps and caught the scar at his thumb. "Clock," Will murmured. "The perimeter fills in minutes. Hold the clerk, or watch him slip and let me hunt."`,
+She almost moaned. Almost ruined the bay.
+
+"You're dripping on my endgame," Will said, not quite joking. "Hold steel until a name walks, or watch him slip and wait for me with your thighs wet. Speak."
+
+She pictured the slip: fog swallowing the clerk, Will hunting, her waiting in a precinct chair with a lab label that still said pending. Then a reunion fuck that tasted like rain and relief. She pictured the hold instead, and his fingers in her against frost-latch cold until she shook quiet. Either picture made her wetter.
+
+"Partner is a word that gets people killed," Will said under his breath, for her, not for the badge. "Either way I come back smelling like rain and want. Either way your body answers before your oath does."
+
+Will cleared the last angle, then crowded her for one stolen second. His gloved hand settled at her waist, and his ungloved thumb stroked the damp heat through her jeans until she nearly made a sound the warehouse would own.
+
+"Hold, and I finish you against this latch once the name lands," he whispered, "quiet enough for foghorns, filthy enough that steel still sings in your cunt. Hunt, and I leave you aching through the vigil, my mouth promised to the first locked room we earn."
+
+Then he stepped away. The air between them went cold and correct. The clerk watched his fate arrive in cuff clicks.
+
+Sodium light leaked through the corrugated gaps and caught the scar at his eyebrow. "Clock," Will murmured. "The perimeter fills in minutes. Hold the clerk, or watch him slip and let me hunt."`,
   choices: [
     { id: "scene9e", text: "Hold the clerk — killer named", textHot: "Hold the clerk — killer named" },
     { id: "scene9f", text: "Watch the clerk slip — Will hunts", textHot: "Watch the clerk slip — Will hunts" }

@@ -33,37 +33,49 @@ Will stepped half a pace nearer, not touching. "I'll dig either way," he said. "
 Ellison slid the tablet closer until the draft memo glowed against [player_name]'s reflection in the glass. "Decide. Vale on a plate, or your name on a sheet. Then tell me whether this office spends the next forty-eight hours fishing a chain or finishing one family's pier." Her gaze cut to Will's ribs and away. "Akers will live with either. He's lived with worse. Don't make me wear your stalling as my clearance failure."
 
 Outside, the fog thinned and thickened as if Harborwick couldn't decide what to reveal. Will watched her mouth the way he watched evidence that might burn him. His knuckles whitened on his pen. The CLEARANCE mug steamed between them like a small ultimatum. The flip was no longer optional. The blast radius still belonged to [player_name].`,
-  textHot: `Captain Mara Ellison didn't raise her voice. Harborwick captains who needed volume had already lost the room.
+  textHot: `Captain Mara Ellison didn't raise her voice. [player_name] felt the softness land between her legs like a held threat, practiced, already halfway to something irreversible.
 
-Her office held pier fog in the west glass and burnt coffee steam. On the tablet: Owen's name in ugly yellow and a draft charging memo that used obstruction like a weather report. Will stood to her left, close enough to [player_name]'s chair that she could feel the heat of him.
+Her office held pier fog in the west glass and burnt coffee steam, and the low animal thrum of two people who shouldn't want each other this hard under a captain's eye. Will stood to Ellison's left, close enough to [player_name]'s chair that she could feel the heat of him.
+
+On the tablet sat Owen's name in ugly yellow and a draft charging memo. It used obstruction like a finger on a clit: precise, unwelcome, effective enough to make her shift in the chair and feel damp fabric cling.
 
 "Flip on Owen Vale," Ellison said. Soft. Final. "Full statement under pressure. Soft nets gone. Or I charge you for the seven-year omission. This is the end of the controlled drip."
 
-Will's jaw flexed. "She corrected the record. The charm is probability. We're not burying a maybe for your schedule."
+Will's jaw flexed. His eyes dragged over [player_name]'s throat, her mouth, the place her pulse hammered. "She corrected the record. Cho's lab is probability. We're not burying a maybe for your schedule, and we're not pretending I'm only looking at her like a witness."
 
-"Partner," Ellison said, wrong on purpose. Will's flinch was small and old: ribs, a sealed file, a hallway [player_name] wasn't allowed into. She wanted to put her hand on that flinch and couldn't.
+"Partner," Ellison said, wrong on purpose. Will's flinch was small and old: ribs, a sealed file, a hallway [player_name] wasn't allowed into.
 
-"Akers won't save you from an ultimatum," Ellison went on. "Flip clean on Vale, or wear the charge while I take the case somewhere your mouth can't soften it. And Internal already has opinions about detectives who stand too close."
+The flinch tightened her nipples under her blouse until the cotton scraped. She wanted to lick his pulse point while Ellison watched and catalogued the flush climbing a family witness's chest.
 
-"If I flip," [player_name] said, "Owen goes hard. The house blows. Science still says unidentified. I become the hand that pulled the lever."
+"Akers won't save you from an ultimatum," Ellison went on. "Flip clean on Vale, or wear the charge while I take the case somewhere your mouth can't soften it. Internal already has opinions about detectives who stand too close."
 
-"If you refuse, you get a charge sheet that walks." Ellison's mouth thinned. "Don't romanticize martyrdom. It photographs poorly."
+Rain freckled the glass. A foghorn rolled into [player_name]'s ribs and lower, a vibration that shouldn't have felt like sex and did. Will's heat licked the air between them until her clit throbbed once, hard and humiliating under Ellison's stare.
 
-Will opened the notebook; the spine cracked. Under the desk, his boot found her shoe and stayed, a claim and a dare in leather, and the contact went straight through her. She had to bite her tongue on a sound.
+"If I flip," [player_name] said, voice rough, "Owen goes hard. The house blows. Science still says unidentified. I become the hand that pulled the lever, and my body—" She bit off the rest, too late. Will's gaze dropped to her parted lips.
+
+"If you refuse, you get a charge sheet that walks," Ellison said. Her mouth thinned. "Don't romanticize martyrdom. It photographs poorly. So does a detective watching his witness like he wants to fuck the rest of the truth out of her mouth before breakfast."
+
+Heat flooded [player_name]'s face. Will opened the notebook, and the spine cracked. Under the desk, his boot found her shoe and pressed, an unfinished fuck translated into leather. The contact shot straight to her cunt. She had to bite her tongue on a sound Ellison would have entered into evidence with a smile.
+
+Ellison let the silence sit. The CLEARANCE mug steamed between them.
 
 "There's a second temperature," Will said quietly. "Cho's pattern whisper. Not a hard ID. After you flip, and you're flipping, because the charge sheet is real, you choose the scope. Widen the case and spend Vale as a door into the clerk and the chain. Or keep Renny the only name and make Owen answer for one night."
 
 Ellison's laugh was dry as burnt coffee. "Akers always invents temperatures and calls it strategy. Decide the flip. Then decide the blast."
 
-[player_name]'s palms dampened the desk. Will leaned to murmur at her ear, Ellison watching, the CLEARANCE mug steaming, and his breath on her skin made her clench. "Flip," he whispered. "Then tell me if we widen or keep her name alone. I'll dig either way. And after hours, if you want it, I'll put you against a wall and remind you what honesty feels like. Fingers. Mouth. The kind of confession that doesn't need a red light."
+[player_name]'s palms dampened the desk. Will leaned to murmur at her ear, and his breath on her skin made her pussy clench empty and furious, a spasm she couldn't hide from anyone reading her thighs.
 
-Ellison slid the tablet closer. The obstruction language glowed against [player_name]'s reflection. Remains unnamed. Owen's costume dying on a schedule.
+"Flip," he whispered. "Then tell me how wide we go. After hours, I'll put you against a wall and remind your body what honesty feels like. Fingers. Mouth. The kind of confession that doesn't need a red light. If you survive this room without coming from the pressure alone."
+
+"You're dripping on my ultimatum," Ellison said, not quite joking. "I can smell Akers on your pulse from here. Don't make me smell him on a sealed complaint."
+
+She slid the tablet closer. The obstruction language glowed against [player_name]'s reflection. Remains unnamed. Owen's costume dying on a schedule.
 
 "Vale on a plate," Ellison said, quieter, almost human and therefore worse, "or your name on a sheet. And whether your sister stays a single blade or becomes the tip of a chain. Akers, keep your hands professional while she chooses."
 
-He did. It was worse than if he hadn't. [player_name] shifted, and Will's eyes followed the motion like a man reading a waveform he wasn't supposed to want. His boot pressed her shoe until her pulse beat in time with the clock.
+Will kept his hands professional. It was worse than if he hadn't. [player_name] shifted, and his eyes followed the motion like a man reading a waveform he wasn't supposed to want.
 
-She tasted burnt coffee and an unfinished dare. Widen, or keep Renny's name alone. She had to speak while the mug steamed and his restraint made her shameless.`,
+She tasted burnt coffee and an unfinished dare. Widen the case, or hold it to one name. She had to choose while the mug steamed and his restraint made her shameless.`,
   choices: [
     { id: "scene8e", text: "Widen the case", textHot: "Widen the case" },
     { id: "scene8f", text: "Keep Renny the only name", textHot: "Keep Renny the only name" }

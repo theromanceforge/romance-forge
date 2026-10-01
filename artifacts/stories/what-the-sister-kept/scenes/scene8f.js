@@ -39,29 +39,43 @@ Will had learned it the hard way. Push early and people bleed. Narrow late and p
 "Single blade means single sleep," he added, quieter, almost gentle and therefore more dangerous. "You'll dream about Renny either way. Mercy or full fire changes the dream's teeth, not who's in it. I'll be there if you let me. Notebook shut, badge on the dresser. That's not a proposal. That's a temperature."
 
 The narrow file stayed narrow on purpose: Renny's name underlined twice, the other marks only margin ghosts Ellison hated. Will's pen didn't move. His eyes did. "Mercy with Renny central means you bargain without letting the city rinse her into a statistic," he said. "Testifying fully means you spend every plate and late night, even if the lens stays sister-shaped. I won't widen for clearance theater. And I won't pretend narrow is cowardice, when narrow is how hope keeps a corridor."`,
-  textHot: `Ellison's west glass held pier fog. Owen Vale had flipped hard. [player_name] was still keyed up from the ultimatum room, where Will's boot had found her shoe and a captain had smelled proximity like a complaint.
+  textHot: `Ellison's west glass held pier fog. Owen Vale had flipped hard. [player_name] was still damp from the ultimatum room, where Will's boot had found her shoe and a captain had smelled proximity like a complaint.
 
-Remains still unidentified, pending. A narrow scope that somehow made the heat worse.
+Remains still unidentified, pending. Seen, not spent. The narrow scope somehow made the heat worse.
 
 "One name," Ellison said. Soft. Final. Displeased. "Vale burns for your pier night. No chain parade. No second funeral promised. Photograph carefully."
 
-Will's pen stopped. "Not a funeral," he said, his eyes moving over [player_name]'s throat, her mouth, cataloguing want as carefully as liability. "Narrow spends Owen as a single-house reckoning. It doesn't invent corpses for clearance. And I'm not only looking at her like a witness while we keep one name."
+Will's pen stopped. The morning's cracked notebook spine still hummed in [player_name]'s cunt like overuse. When Ellison said partner, his flinch tightened her nipples under her blouse until the cotton scraped.
+
+"Not a funeral," Will said. His eyes dragged over her throat, her mouth, the damp place her pulse lived lower down. "Narrow spends Owen as a single-house reckoning. It doesn't invent corpses for clearance. And I'm not only looking at her like a witness while we keep one name."
 
 She shifted in her chair. "If we keep Renny the only name, Owen answers for one night. Hope stays legal. Dread stays armed."
 
 "If we keep her only and then go soft," Will said, "Mara calls it cowardice dressed as mercy. I'll dig the single house."
 
-Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and calls it strategy. Nobody fucks the case closed in my war room."
+"I'll put you against a wall after the brief," he added, for her, "if you survive this narrow without coming from the pressure alone."
 
-Rain freckled the glass. "Mercy path," Will murmured at [player_name]'s ear, low enough that Ellison caught words and missed meaning, "means bargain weather and your mouth still telling the truth. Full testimony means a daylight burn. Either way, when we're out of this building, if you want me, I'm yours. Not before. Not here."
+Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and hard-ons and calls it strategy. Nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline again."
+
+Rain freckled the glass. A foghorn rolled into [player_name]'s ribs and lower.
+
+"Mercy path," Will murmured at her ear, low enough that Ellison caught words and missed filth, "means bargain weather and your mouth still telling the truth while I sit hard in a gallery. Then I take you apart in a locked room after the deal ink dries."
+
+"Full testimony means a daylight burn," he went on. "Every softened noun undone. Afterward I eat you quiet until you clench around my tongue for every sentence you gave without a softener."
+
+She pictured it: his cock buried in her in a stairwell that smelled like toner while she shook from adrenaline and orgasm. Either picture made her clench.
 
 When Ellison turned for a call, Will's hand found the inside of [player_name]'s wrist under the table, his thumb on her pulse like a wire check and a claim.
 
-"Partner," Ellison said into the phone, wrong on purpose, and his flinch traveled through his thumb into [player_name]'s pulse. She wanted her mouth on that bruise. Later.
+"You flipped him. You narrowed. Now choose the spend," he whispered. "Mercy leash or clean burn. Choose with your cunt telling the truth your mouth is still learning." She almost moaned. His thumb stroked once, filthy-soft, and she dripped further into cotton already ruined by the morning.
+
+"Partner," Ellison said into the phone, wrong on purpose, and his flinch traveled through his thumb into [player_name]'s pulse. She bit her lip to stay quiet. She wanted her mouth on that bruise.
 
 "Decide whether Vale gets a mercy leash or a clean burn," Ellison said, turning back. "I can smell Akers on your pulse from here. Don't make me smell him on a sealed complaint while Cho's tray still says pending."
 
-[player_name] laughed once, broken, furious with a body that answered Will's nearness like a vow.
+[player_name] laughed once, broken, furious with a body that answered Will's nearness like a vow. Under the table she opened her thighs a fraction, shameless and precise, and watched Will's jaw flex as if he'd felt the air change.
+
+His knee pressed hers hard enough to bruise. His fingers found the seam of her jeans and rubbed once, filthy punctuation, until her breath hitched.
 
 "Mercy or burn," he breathed. "I dig either. I fuck the leftover either. Say it." Copper and want filled her mouth. One hoodie. One bracelet gap. One detective with brutal charm and a sealed hallway. She nodded once before she could speak, body ahead of grammar, and Ellison's CLEARANCE mug ticked residual heat into the space between them like a joke that had learned patience.
 

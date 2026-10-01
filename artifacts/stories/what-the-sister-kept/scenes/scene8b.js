@@ -41,33 +41,55 @@ Chain-link rattled faintly in the alley wind below. Inside, the evidence sleeve 
 Will's mouth twitched, almost a joke about captains and confessions, and then didn't. "Copy," he said. He looked at [player_name]. "Your sister wrote a chain so someone would hunt it. Hunting doesn't need a parade. It needs a choice you can still respect when Cho finally calls. Pick the bargain you can wake up beside."
 
 Rain kept needling the glass. [player_name] looked from Ellison's flat mouth to Will's scar to the evidence sleeve holding what Renny had kept for the living. The journal sat between them like a third party who already knew silence was a language Harborwick spoke too fluently.`,
-  textHot: `Captain Mara Ellison's office smelled like burnt precinct coffee and sealed paper, and the air between [player_name] and Will was already too warm for a bargain that was supposed to be only politics. Rain needled the high window. [player_name] sat in the chair Will had angled toward her, thighs pressed together under the desk line, because want had no manners and Ellison's tablet was already lit with Cho's careful pending.
+  textHot: `Captain Mara Ellison's office smelled like burnt precinct coffee and sealed paper. The air between [player_name] and Will was already too warm for a bargain that was supposed to be only politics.
 
-Will stood rather than sat, sleeves rolled, scar catching the ugly light. His eyes dragged over her mouth before he forced them to Ellison. His knuckles had brushed her wrist in the hallway on the way up, and she was still feeling it.
+Rain needled the high window. A foghorn rolled inland. [player_name] sat in the chair Will had angled toward her, a small rebellion. Her thighs pressed together under the desk line, because want had no manners and Ellison's tablet was already lit with Cho's careful pending.
+
+Will's cracked knuckles had brushed her wrist in the hallway on the way up, and she'd soaked through her underwear on the stairs. Now he stood rather than sat, sleeves rolled, scar catching the ugly light. His eyes dragged over her mouth before he forced them to Ellison.
+
+When Ellison's gaze flicked toward IA ghosts, Will's jaw flexed. The sealed past, almost named. The hallway, almost opened. [player_name] wanted to lick his pulse point between sealed sentences.
 
 "Private," Ellison said. "The chain under seal instead of a circus. Tell me why I spend capital on a witness who withheld a pier night and a detective whose closeness is already IA-shaped."
 
-"Because rumor invents corpses," [player_name] said. "The handwriting names a chain, not those remains. I want the hunt. I don't want a headline funeral."
+"Because rumor invents corpses," [player_name] said, voice ruined and holding. "The handwriting names a chain, not those remains. I want the hunt. I don't want a headline funeral."
+
+Her nipples tightened against her blouse as Will's eyes flicked to her throat, noticed, banked. Wet heat gathered. Fabric clung to her clit like a filthy secret Ellison's metrics mustn't catalogue.
+
+"Controlled drip," Will said, low enough to stroke even in bargain grammar. He shifted half a step closer to her chair, soap and salt, until she felt her cunt clench around nothing.
+
+Ellison set the tablet down and waited.
 
 "Controlled drip," Will said, low. He shifted half a step closer to her chair. "Seals. A clerk package for a room with teeth. Owen pressured without a slaughter that paints her as the girl who killed her family for cameras. I won't pretend I'm not—" his knuckles whitened on the notebook "—compromised by how she shakes when she tells the truth."
 
 Ellison's eyes sharpened. "Two shapes. A mercy deal: she testifies, Owen gets a narrow flip door, seals hold on the ugliest pages until Cho clears or denies, the precinct looks measured. Or a quiet seal: parts stay dark, the hunt goes sideways, she lives with pages that never see a jury."
 
-Will's hand found the back of [player_name]'s chair, his fingers grazing her shoulder blade through cloth. A claim. Nothing Ellison could write up. Nothing [player_name] could ignore.
+Will's hand found the back of [player_name]'s chair, his fingers grazing her shoulder blade through cloth. A claim. Not yet sex, and already a stroke.
 
-"She's not Owen's soft place," Will said flatly. "She's why the chain has a map. Treat her like a liability and you'll dislike how I hunt." Silence. Rain.
+"Mercy means an oath with a sheath," he said. "Quiet means darkness we choose on purpose. She chooses which risk she can sleep beside, and which risk she can come beside afterward." His thumb stroked once at the edge of her shoulder, as if he could feel the wet from there. [player_name] almost whimpered.
 
-Ellison stood and walked to the window, giving them three seconds of her back. Will used every one. He bent close and didn't touch her. "When this office is behind us," he said, almost too quiet to hear, "I'm going to want you so badly it'll be embarrassing. Not here. Not on her carpet. But I need you to know that isn't part of the vote."
+Ellison's tablet chimed. She ignored it and almost said the old partner's name again, a warning shaped like a name. Will went still. [player_name]'s pulse hammered in her cunt and her throat both.
 
-[player_name]'s breath went short. "Noted."
+"She's not Owen's soft place," Will said flatly. "She's why the chain has a map. Treat her like a liability and you'll dislike how I hunt."
 
-"Mercy means you'll shake under oath, and I'll be in the hallway after every recess. Quiet means some nights you'll hate me for helping you bury pages, and I'll still be there."
+Silence. Rain. Ellison stood and walked to the window, giving them three seconds of her back. Will used every one.
+
+He cupped [player_name]'s jaw with one cracked hand, thumb on her lower lip, and didn't kiss her. The denial made her cunt throb harder than a kiss would have.
+
+"Hear the cost in your body, not just your head," he whispered. "The mercy deal means you'll shake under oath, and I'll want to put you on your knees in the witness-prep room afterward until you stop tasting Owen's name like shame. The quiet seal means some nights you'll wake up hating me for helping you bury pages. I'll still fuck you through that hate if you ask."
+
+Her lips parted against his thumb. She tasted salt and skin. "Both leave me wet and wrecked," she admitted. "You shouldn't get that information in Ellison's office."
+
+"It's the only information that makes the bargain real," Will said. His palm stayed at her jaw, not lower. The stop was a stroke of its own. "I'm leaving you aching on purpose, so the choice comes from the part of you that still knows the case is contested. Not the part that just wants my fingers."
+
+His boot hooked her ankle. The hard line of his cock pressed once against her knee through charcoal wool. "Mercy leash or clean burn," he murmured against the shell of her ear. "Take the bargain and I finish you in a toner closet until your deal voice breaks. Take the seal and I keep you dripping through her darkness."
+
+Ellison's shoulders shifted at the glass. The rain kept on.
 
 "Ellison is turning. Choose. Mercy or seal. I will walk either door with my mouth shut and my hands honest afterward." [player_name] pressed her thighs together around the ghost of his palm and nodded, ruined, hopeful, dread-bitten, still refusing to christen bone while Cho said pending and a charm upstairs still only like Renny's missing piece. The foghorn rolled again. When Ellison turned for the call she had been pretending not to take, Will's hand found the inside of [player_name]'s wrist under the table edge—thumb on her pulse like a wire check and a claim.
 
 Ellison turned back. Captain weather, not blind. "Decide before my patience becomes a memo. Akers, if she chooses seal, you don't leak because your feelings got loud. If she chooses mercy, you prep her like a partner, not like a man begging forgiveness for a hallway he won't name."
 
-"Copy." Will straightened. His hand left her chair. The cold came back into the space it had been. "Pick the bargain you can wake up beside," he said to [player_name]. "Mercy or seal."`,
+"Copy." Will straightened. His hand left her chair, and the cold came back into the space it had held. "Pick the bargain you can wake up beside," he said to [player_name]. "Mercy or seal."`,
   choices: [
     { id: "scene9b", text: "Testify with a mercy deal", textHot: "Testify with a mercy deal" },
     { id: "scene9d", text: "Seal parts of the file quietly", textHot: "Seal parts of the file quietly" }

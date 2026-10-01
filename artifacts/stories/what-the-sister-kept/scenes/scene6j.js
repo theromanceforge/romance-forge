@@ -41,7 +41,7 @@ His gaze found [player_name] across the kitchen, hungry for a break that wouldn'
 He didn't kiss [player_name]. Rain needled the kitchen glass. Owen slammed a cabinet for punctuation. Will's cracked knuckles flexed around the pen, choosing, for one more hour, not to.
 
 "Clock," Will said softly, pen tapping the notebook once. "Wire the thin-ice talk, or chase the sink-trap SIM to whatever clerk ghost lives in the ash. Either way, I leave this kitchen changed."`,
-  textHot: `Will didn't put steel on Owen Vale's wrists, and [player_name]'s body answered the missing click with a pulse of adrenaline she refused to tidy. His boot claimed the butter-colored porch. His bulk filled the doorway.
+  textHot: `Will didn't put steel on Owen Vale's wrists. [player_name]'s body answered the missing click with a filthy pulse of adrenaline and want she refused to tidy. His boot claimed the butter-colored porch. His bulk filled the doorway like an unfinished sentence and an unfinished fuck braided into one threat.
 
 She stood half a step behind him. Rain. Foghorns. The phone had burned in the alley, and ash cooled somewhere gloves would still dig. Will looked at Owen like a man who hated artisan liars.
 
@@ -53,17 +53,35 @@ Owen laughed thin. "She hid my pier silhouette for seven years. She tips and unt
 
 "Careful." Will didn't cuff him. He herded him with boot, shoulder and notebook spine until they were in Owen's narrow kitchen under a fluorescent strip that hummed like interrogation. He blocked the alley door with his body, a soft cage with no steel, while Owen shouted breakfast lies into the cabinets.
 
-[player_name] stood opposite the sink. Heat climbed her spine anyway, and she hated where it was happening.
+[player_name] stood opposite the sink. The strip light hummed like the pulse between her thighs. Will's cock was a thick line in his jeans that he didn't bother to hide from her. Not pushing early looked, on him, like hunger with a leash.
 
 "You won't arrest me tonight," Owen said, quieter, calculating. "Soft still sells. Ellison hates stalling. You hate early entries."
 
-"I won't arrest you tonight," Will agreed. "I'll wire thin ice if that keeps you reaching. Or I'll dig the sink-trap ash before Ellison turns this into a warrant that shuts every mouth." He crossed the small distance as Owen slammed a cabinet and put his palm on the small of her back, heat through wet cloth. "Not here," he said under his breath, for her alone. "Not in his house. But I want you, and I'm done pretending I don't."
+"I won't arrest you tonight," Will agreed, his voice flat and sex-rough under the manners. "I'll wire thin ice if that keeps you reaching. Or I'll dig the sink-trap ash before Ellison turns this into a warrant that shuts every mouth."
 
-She tasted rain and the almost of him. Owen's rant became wallpaper. Will leaned to her ear, wool and soap and gun oil. "I could cuff him. I'm not. Restraint is its own discipline. Budget for that honesty, and for what I'm going to do to you somewhere that locks."
+He crossed the small distance as Owen slammed a cabinet. His palm settled on the small of her back, heat through wet cloth, and his thumb stroked once at her waistband.
 
-"Two ways," he murmured, voice frayed. "Wire the thin-ice talk: Owen still out, reaching, you wearing a mic. Or we chase the sink-trap SIM and the bin ash to a clerk before Ellison's warrant teaches everyone silence." His thumb stroked once at her waistband, then stilled. "Old raids taught me early entries leave ashes. This porch wasn't early. What comes after is where I stay human or become Ellison's fear."
+She tasted rain and the almost of him. Owen's rant became wallpaper. Will leaned to her ear, wool and soap and gun oil, and slid his hand under her sweater onto bare ribs. His other hand kept the notebook angled like a shield.
 
-He stepped back a half-inch that hurt more than a cuff click would have. He adjusted her collar with a tenderness he hadn't spent on steel, scar white under the fluorescents. Owen slammed another cabinet.
+"I could cuff him," he murmured. "I'm not. Restraint is its own filthy discipline. Budget for that honesty, and for what I'm going to do to you when this kitchen stops echoing."
+
+His fingers found her nipple, already peaked. He pinched once, precise, then flattened his palm as if professionalism could still pretend. [player_name] bit her lip.
+
+Owen accused betrayal at the fridge. Will's thigh slotted briefly between hers against the counter edge: pressure, promise, denial.
+
+"Two ways," he murmured, voice frayed, only for her. "Wire the thin-ice talk: Owen still out, reaching, you wearing a mic. Or we chase the sink-trap SIM and the bin ash to a clerk before Ellison's warrant teaches everyone silence."
+
+Under the counter line Owen couldn't see, he opened her jeans a tooth and slid two fingers into her panties. She was shamelessly slick. He groaned low, like confession and hunger were one sound.
+
+"Guilty and wet for the detective who didn't cuff your stepfather," he breathed. He curled his fingers. "His old partner would call me compromised. She wouldn't be wrong."
+
+He rolled his hips against hers, cock thick through denim at her hipbone, then stopped, exact. "I could finish you here against his sink," he whispered. "I won't. Not until you choose. You stay wet on my hand and still have to decide."
+
+"Old raids taught me early entries leave ashes," he said against her temple. "This porch wasn't early. What comes after is where I stay human or become Ellison's fear."
+
+[player_name] tasted copper and rain off his coat. His scar brushed her forehead. His late smile finally arrived, crooked and wrong, the one that had first made her want him under procedural pressure.
+
+He zipped her halfway and adjusted her collar with a tenderness he hadn't spent on steel. Owen slammed another cabinet. Soft still held the doorway like a leash.
 
 Will's hand found the small of her back under Owen's strip light—proprietary, brief, filthy with restraint. "Wire the thin-ice talk—or chase the sink-trap SIM," he said against her hair. "Pick the hurt that keeps truth reachable while I can still smell you on my fingers in your stepfather's kitchen." [player_name] fixed her blouse where Owen's shout had made her clutch it, and felt Will's nearness answer between her thighs like a second argument. Festival ghosts. Missing charm. Unidentified bones. Owen still uncuffed and furious. William Akers with badge honest, charm scraped raw, cock still thick with what soft nets cost. Wire meant wearing the machine against a blowup. Sink-trap meant chasing ash while her body still hummed from how close he had stood when steel stayed holstered. Good. Fog erased the curb, and the unfinished kiss waited like a cuff that had not clicked.`,
   choices: [

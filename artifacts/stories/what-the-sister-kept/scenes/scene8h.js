@@ -39,31 +39,45 @@ Owen's cuffs clicked once against the table. "I gave you enough to lean on," he 
 Will closed the notebook without looking away from her face. "Decide before the tip-sheets decide for us," he said. "Use the partial to catch the clerk, or trade mercy for what he gave. Both leave science patient. Both leave me wanting your mouth after the cuffs, for reasons that aren't clearance."
 
 The interview-room clock hummed. Ellison waited with an empty mug. [player_name] drew a breath that tasted like rust and soap. Whatever she chose would spend a cracked confession without spending Renny early.`,
-  textHot: `The partial confession tasted like cold glass-room coffee and a stepfather's voice finally cracking. Downtown fluorescents hummed. Rain freckled the one-way glass. Owen's cuffs dulled on the table. Ellison watched from observation with her CLEARANCE mug. Will stood with his notebook open, and [player_name] sat where he'd put her, too aware of him to be comfortable and too angry at Owen to care.
+  textHot: `The partial confession tasted like cold glass-room coffee and a stepfather's voice finally cracking. Downtown fluorescents hummed. Rain freckled the one-way glass. Owen's cuffs dulled on the table. Ellison watched from observation with her CLEARANCE mug.
+
+Will stood with his notebook open, his working steel somehow making the air warmer and filthier at the same time. [player_name] sat where he'd put her, too aware of him to be comfortable and too angry at Owen to care.
 
 "Dates," Will said. "Companions. Who taught the lullaby. Who needed a teenager quiet."
 
 "Cho hasn't confirmed Renny among the dead. The charm is probability. No invented funerals. Living questions only." Owen gave a partial: near the pier, the friends-and-debt story he'd smoothed over for years, a clerk-shaped municipal mouth, a mid-level title moving paper into crates. No body in a river, he said. No death he'd watched. He wanted a deal.
 
-"Two ways from a cracked mouth," Will said quietly, for her. "Use Owen's partial to catch the clerk: hunt weather, living steel, the killer named when the municipal mouth earns it. Or trade mercy for what Owen gave: a deal shape, further names on a leash."
+[player_name] shifted. Damp fabric clung, and Will's gaze flicked to the motion like a man reading a waveform he wasn't supposed to want under Ellison's glass.
 
-Ellison clipped clearance hunger through the earpiece. Will answered in shorthand, partial, no hard ID, without saying [player_name]'s name. Under the table his boot found her shoe. One touch. A promise for later, in a room that wasn't this one.
+"Two ways from a cracked mouth," Will said quietly, for her, soft enough that Ellison might hear words and miss the filth. "Use Owen's partial to catch the clerk: hunt weather, living steel. Or trade mercy for what Owen gave: a deal shape, further names on a leash."
 
-"If we use the partial," [player_name] said, "we catch the clerk with Owen's own words as the blade. If we trade mercy, we leash him for more."
+"Either way," he went on, lower, "after the lean I put you against a locked-room wall. I fuck the leftover adrenaline out of you with my palm over your mouth, so Internal doesn't learn how justice sounds when it comes."
 
-"Both hurt." Will stepped half a pace nearer. Soap and salt. He didn't touch her. "I dig either way. I won't bury hope under a lullaby-shaped deal, and I won't let Mara turn dread into certainty because a stepfather cracked on cue."
+Heat flooded her face. Ellison clipped clearance hunger through the earpiece. Will answered in shorthand, partial, no hard ID, without saying [player_name]'s name. Under the table his boot found her shoe, an unfinished fuck translated into leather, and she bit her tongue on a sound Owen would have used as theater.
 
-Ellison entered soft and final, draft mercy language and clerk desk codes in a thinner file. Her gaze cut to Will's ribs, then to the color in [player_name]'s face. "Akers invents temperatures and calls it strategy. Catch leash or mercy leash. Neither one names Cho's tray."
+"If we use the partial," [player_name] said, voice rough, "we catch the clerk with Owen's own words as the blade. If we trade mercy, we leash him for more while my body—" She stopped, too late. Will's mouth twitched like he could smell her.
+
+Will stepped half a pace nearer, soap and salt, until his heat licked the air and her clit throbbed once, hard and humiliating under fluorescent honesty and a stepfather's cuffs.
+
+"I dig either way," he said. "I won't bury hope under a lullaby-shaped deal, and I won't let Mara turn dread into certainty because a stepfather cracked on cue. I'll also remind your cunt what honesty feels like afterward, if you survive this booth without coming from the partial alone."
+
+Ellison entered soft and final, draft mercy language and clerk desk codes in a thinner file. Her gaze cut to Will's ribs, then to the flush climbing [player_name]'s throat. "Akers invents temperatures and hard-ons and calls it strategy. Catch leash or mercy leash. Neither one names Cho's tray. And nobody fucks the case closed in my suite. I mention it because your witness is dripping on my timeline again."
+
+When Ellison turned to murmur at the glass, Will's hand found the inside of [player_name]'s wrist under the table, his thumb on her pulse like a wire check and a claim.
+
+"You pressed him. He cracked. Now choose the spend," he whispered. "Choose with your cunt telling the truth your mouth is still learning." She almost moaned. His thumb stroked once, filthy-soft, and she dripped further into cotton already ruined by a morning of glass-room pressure.
 
 "Use me to catch him before the tip sheets burn," Owen said, scared under the costume, "or trade mercy and I keep talking. Soft is dead. Hard is what's left. And your detective is looking at you like the hard includes something that isn't my confession."
 
 [player_name] didn't look at Owen. She looked at the glass. She would not give him anything of hers, not even her face.
 
+She pictured catching the clerk off Owen's dates, then Will's fingers in her in a locked conference room until she shook quiet enough for fluorescent lights. She pictured the mercy deal, and Will keeping her dripping through the bargain language. Either fantasy made her wetter.
+
 "You are inventing filth on my partial," Ellison said, not quite joking, eyes on the flush. "Use it as fuel. Speak the spend before tip-sheets burn the clerk's road." Will's thumb stroked her pulse once more—filthy-soft—and [player_name] nodded before grammar caught up, body ahead of oath, soaked and furious and precise. Copper and want filled her mouth. One hoodie. One bracelet gap. One detective with brutal charm and a sealed hallway she was not allowed to enter yet and still wanted to kiss open.
 
 Will's thumb left her wrist. The room came back: the clock, the cuffs ticking, Owen's breath. Ellison's empty mug. Rain on the glass.
 
-"Clock," Will murmured. "Use Owen's partial to catch the clerk, or trade mercy for what he gave. Your call."`,
+"Clock," Will murmured. "Catch the clerk off Owen's dates, and I put you on this table after transfer, fingers first, mouth second. Or trade mercy for what he gave. Your call."`,
   choices: [
     { id: "scene9e", text: "Use Owen's partial to catch the clerk", textHot: "Use Owen's partial to catch the clerk" },
     { id: "scene9b", text: "Trade mercy for what Owen gave", textHot: "Trade mercy for what Owen gave" }

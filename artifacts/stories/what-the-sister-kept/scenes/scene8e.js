@@ -45,29 +45,47 @@ Proximity was already a sealed complaint waiting for ink. [player_name] knew it 
 Ellison's phone glowed partner across the room and Will's jaw flexed once. Old bruise, no speech. The second-victim file lay open like a throat that had learned a second name without naming Renny's.
 
 "Widen into full trial testimony, and every other girl's mark becomes a vertebra under oath," Will said, pen still. "Name Renny's killer when the clerk is caught, and keep the lens narrow enough that hope still has a corridor upriver. I won't invent funerals to make a pattern prettier. I won't shrink a pattern to make your grief tidier." Outside, pier fog argued with itself. He watched her mouth the way he watched evidence that might burn him.`,
-  textHot: `Widening tasted like burnt precinct coffee and a heat [player_name] had no business bringing into a war room. Ellison's west glass held pier fog. The CLEARANCE mug sat empty. Owen Vale had flipped hard. She was still keyed up from the ultimatum room, where Will's boot had found her shoe under the table and Ellison had smelled proximity like a complaint waiting to happen.
+  textHot: `Widening tasted like burnt precinct coffee and a second pulse between [player_name]'s legs that she had no business bringing to a war room. Her cunt clenched while Will drew lines on a whiteboard.
 
-Will stood at the board, notebook open, his steel somehow making the air warmer. Cho's language still ruled: unidentified, pending.
+Ellison's west glass held pier fog. The CLEARANCE mug sat empty like a joke with teeth. Owen Vale had flipped hard. [player_name] was still wet from the ultimatum room, where Will's boot had found her shoe under the table and Ellison had smelled proximity like a complaint waiting to happen.
 
-"You flipped him," Ellison said. "Vale's on a plate. Widening spends him as a door. I want the chain. Clerk, mid-level, lullaby teachers." Will's pen scratched. When Ellison said partner into the air, his flinch went through the room, and [player_name] felt it in her own chest.
+Will stood at the board, cracked notebook open, his working steel somehow making the air warmer and filthier at the same time. Cho's language still ruled: unidentified, pending.
+
+"You flipped him," Ellison said. Soft. Final. "Vale's on a plate. Widening spends him as a door. I want the chain. Clerk, mid-level, lullaby teachers. Ambitious clearance photographs better than one unfinished pier."
+
+Will's pen scratched. When Ellison said partner into the air, his flinch went through the room. It tightened [player_name]'s nipples under her blouse until the cotton scraped. She wanted to lick his pulse point while a captain talked blast radius.
 
 "Not a funeral," Will said, eyes on her throat, then her mouth. "Nobody named. Widening fishes for living links. Accurate isn't the same as ambitious. And I'm not only looking at her like a witness while we fish."
 
-Heat climbed her neck. "If we widen," she said, "the pier becomes the tip of a chain. Other silences come in without becoming named corpses on Ellison's schedule. Owen spends as a door. The clerk spends as a pulse."
+She shifted. Damp fabric clung, and Will's gaze flicked to the motion like a man reading a waveform he wasn't supposed to want.
 
-Will stepped half a pace nearer. Soap and salt. His heat reached her before his voice did. "If we widen badly, Harborwick buries hope under a parade of maybes. I'll dig the chain."
+"If we widen," she said, voice rough, "the pier becomes the tip of a chain. Other silences come in without becoming named corpses on Ellison's schedule. Owen spends as a door. The clerk spends as a pulse." She bit off the rest, too late. Will's mouth twitched like he could read what pressure did to her.
 
-Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and calls it strategy. The scope is chosen. Widen. And nobody fucks the case closed in my war room. I mention it because your witness is blushing on my timeline."
+"If we widen badly, Harborwick buries hope under a parade of maybes," Will said. He stepped half a pace nearer, soap and salt, until his heat licked the air and her clit throbbed once, hard and humiliating under fluorescent honesty. "I'll dig the chain. I'll also put you against a wall after the brief, if you survive this board without coming from the scope alone."
 
-A foghorn rolled into [player_name]'s ribs.
+Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and hard-ons and calls it strategy. The scope is chosen. Widen. And nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline."
 
-"Trial path," Will murmured at her ear, soft enough that Ellison would hear words and miss the rest, "puts the chain in daylight while I sit in the gallery and watch your mouth tell the truth under oath. Hunt path puts a clerk in steel and a name in your ear. And after either one, if you want me, I'm yours behind a locked door. Your call. Always your call."
+A foghorn rolled into [player_name]'s ribs and lower.
+
+Will murmured at her ear, soft enough that Ellison would hear words and miss the filth. "The trial path puts the chain in daylight. I sit in the gallery hard as a sealed file and watch your mouth tell the truth under oath. Hunt path puts a clerk in steel. And after either one, I eat you quiet enough for fluorescent lights."
+
+She pictured the trial stand with Will in the gallery: scar catching courthouse light, cracked knuckles white on his knee, cock hard under wool while she named Owen and clerk and chain under oath.
+
+Afterward, a locked conference room. He'd shove her skirt up and fuck the leftover adrenaline out of her, his palm over her mouth so the bailiffs wouldn't learn how justice sounded when it came.
+
+She pictured the clerk catch instead: warehouse steel, Will's shoulder as a wall, and after, in the van, her cunt throbbing against his thigh. Either fantasy made her wetter.
 
 "Decide how wide the daylight runs," Ellison said, quieter, almost human and therefore worse. "Trial or catch-and-name. I can smell Akers on your pulse from here. Don't make me smell him on a sealed complaint while Cho's tray still says pending."
 
-When Ellison turned to take a call, Will's hand found the inside of [player_name]'s wrist under the table, his thumb on her pulse like a wire check and a claim. "You flipped him," he whispered. "You widened. Now you choose how loud."
+Will's boot found her shoe again under the table edge, an unfinished fuck translated into leather. [player_name] pressed her thighs together against a spasm that made her vision narrow.
 
-"Partner," Ellison said into the phone, wrong on purpose, and Will's flinch traveled through his thumb into [player_name]'s pulse. She wanted to put her mouth on the bruise under that word and make him say something honest that wasn't a case number. Not here. Later.
+When Ellison turned to take a call, Will's hand found the inside of [player_name]'s wrist under the table, his thumb on her pulse like a wire check and a claim.
+
+"You flipped him," he whispered. "You widened. Now you choose how loud. Trial means your mouth in daylight and my cock aching through every sentence. Catch means steel, and me finishing what the ultimatum started in a supply closet that smells like toner and rain."
+
+She almost moaned. His thumb stroked once, filthy-soft, and she felt herself drip further into cotton already ruined by a morning of chain maps.
+
+"Partner," Ellison said into the phone, wrong on purpose. Will's flinch traveled through his thumb into [player_name]'s pulse. She wanted to put her mouth on the bruise under that word and make him say something honest that wasn't a case number. Not here. Later.
 
 He let go of her wrist. The cold came back between them like a third chair.
 

@@ -33,29 +33,39 @@ Will bagged a final photo angle. "Remains unidentified. Charm probability twice 
 "Decide before Ellison's inbox grows teeth," he said. He didn't touch her. The not-touching felt louder than a hand on her waist. "Take Owen's partial confession, or wire him against the clerk."
 
 [player_name] ran the sequence once more in her own mouth, testing it for funeral words and finding none: rain window, smear, bleach miss, cable cut, cigarette brand, silver on exit, Owen's alibi collapsing, Renny's map confirmed as geography and not as a corpse. Someone had cleaned in a hurry. Someone had dropped silver like a missing tooth trying to come home. Vendors began pretending not to see. Partial meant downtown glass and a stepfather's cracked voice. Wire meant sending that voice back into the clerk's dark with a mic under the shirt that had taught lullabies.`,
-  textHot: `Dawn arrived at the warehouse threshold like a reluctant witness, and Will rebuilt the last hour in his notebook.
+  textHot: `Dawn arrived at the warehouse threshold like a reluctant witness. Will rebuilt the last hour in his notebook, and [player_name] felt him rebuild it in her body too, a pulse between her legs she had no business bringing to a smear.
 
 Soft reconstruction. His word. Fog held the pier district. Salt. Rust. Cho still said unidentified. The river charm was still only like. The bay silver was still only like.
 
 "Rain after midnight, stopped before three," Will said, pen scratching. "Smear dilution. Cho decides if it's blood. Bleach missed the lip. Camera cable cut neat. Cigarette brand from the clerk kiosk. Not unique. Not proof. Still a sequence. Still enough to lean on Owen without inventing a funeral."
 
-"Two ways from this hour," he said, standing. "Take Owen's partial confession: the sequence in his face until he cracks dates, companions, lullaby teachers. Or wire him against the clerk and hunt. Both move. Neither names the bones."
+His voice was soft enough to stroke. He refused to give hope a funeral, and that refusal kept her upright. [player_name] wanted to lick the bruise under the catalogue, and knew she would, later, if later survived Owen.
 
-"If I take the partial, Owen cracks in a room," she said. "If I wire him, I use the man who taught me the lullaby as a microphone."
+Will stood. Soap. Salt. "Two ways from this hour," he said, his eyes dragging over her mouth. "Take Owen's partial confession: the sequence in his face until he cracks dates, companions, lullaby teachers. Or wire him against the clerk and hunt. Both leave me hard from watching you hold up through this."
 
-He bagged the last photo angle. Then he walked her out of the bay, past the chain-link, to the car, away from the smear and the silver. Only there, with the threshold behind them and the engine ticking, did she let herself feel the rest of it.
+She almost moaned at hard. Rain needled a deeper roof. A generator coughed and died. When he tugged her glove's wrist cuff straight, his thumb brushed her pulse and her pussy fluttered.
 
-He tugged her glove's wrist cuff straight, and his thumb brushed her pulse. Her breath went uneven. He noticed.
+"If I take the partial, Owen cracks in a room," she whispered. Her breath rose. Will watched, and she watched him watch. "If I wire him, I use the man who taught me the lullaby as a microphone while my body—"
 
-"Ellison prefers the wire for clearance ambition," he said, softer. "Internal prefers the partial if they smell me wanting the family witness. And I do want you. Badly. Not here. Not until this is filed. But if you want it after, I'll be the landing."
+She bit it off, too late. His gaze dropped to the flush at her throat as if he could smell how wet the last hour had made her.
 
-"I want it," she said. "After."
+"While your body what?" he said. Soft. Filthy. The professional voice dying mid-sentence. "Say the case out loud. Say the rest with your eyes. Ellison prefers the wire for clearance ambition. Internal prefers the partial if they smell me wanting to fuck the family witness. I prefer you choosing before I put my mouth on the place your pulse is hammering and call it a status check."
 
-He leaned in until his mouth was almost on hers and stayed there, not kissing, a cruelty that somehow undid her more than kindness would have. "The partial puts Vale in a room where I can stand behind your chair while he cracks," he murmured. "The wire puts my hands over yours while we dress him in a mic, and afterward I take you somewhere Ellison can't smell and remind you that hope is allowed to shake."
+He bagged the last photo angle and walked her out of the bay, past the chain-link, to the car. Only there, with the threshold behind them and the engine ticking, did she let herself feel the rest of it.
 
-She stepped half an inch closer, until her shoulder touched his arm, and something electric wrote itself under the rain math. His cracked knuckles found her hip and rested there.
+She catalogued her own pulse: throat, wrists, clit. The partial meant downtown glass and Will behind her chair, close enough that watching Owen crack would feel like a hand on her thigh. The wire meant his hands over hers on the mic, and the almost-touch becoming a promise for after.
 
-"Partial across glass," he said, "or wire him at the clerk and hunt." Dawn finished arriving. Vendors began pretending not to see. She had to pick before the fog burned off.`,
+"Decide before Ellison's inbox grows teeth," Will murmured at her ear. His breath was a filthy kindness that made her cunt clench. "Glass-room pressure, or a living mic. Either way you're soaked and choosing. I'll be the landing afterward if you ask with more than your eyes."
+
+A vendor truck coughed diesel beyond the lot fence, and the vibration found her clit like Harborwick telling a filthy joke at the worst possible moment. She hated herself for noticing. She stepped half an inch closer anyway, until her shoulder touched his arm.
+
+He didn't kiss her. The not-kissing was louder than contact, a cruelty that somehow made her wetter than kindness would have.
+
+"You're dripping on my timeline," he murmured, almost kind, almost not. "The partial puts Vale in a room where I can stand behind you and let you feel what cracking a liar does to both of us. The wire puts my hands on yours while we dress him in a mic. Afterward I take you somewhere Ellison can't smell, and remind your body that hope is allowed to shake."
+
+[player_name] laughed once, broken, furious with a pulse that answered his catalogue voice like a vow. Owen still lived. The clerk still lived. The reconstructed hour had bought them leverage without a burial.
+
+His cracked knuckles found her hip and rested there. "Partial across glass," he said, mouth almost on hers, "or wire him at the clerk and hunt." Dawn finished arriving. Vendors began pretending not to see. She had to pick before the fog burned off.`,
   choices: [
     { id: "scene8h", text: "Take Owen's partial confession", textHot: "Take Owen's partial confession" },
     { id: "scene8i", text: "Wire Owen against the clerk", textHot: "Wire Owen against the clerk" }
