@@ -1018,10 +1018,44 @@ function trackViewTransition() {
   }
 }
 
+let _renderedView = '';
+
 function render() {
+  // Landing re-renders (story / spice pick) replace the whole DOM, which resets
+  // the .cover-overlay scroll container and drops focus. Preserve both.
+  const stayOnLanding = state.view === 'landing' && _renderedView === 'landing';
+  const overlay = app.querySelector('.cover-overlay');
+  const overlayTop = overlay ? overlay.scrollTop : 0;
+  const winY = window.scrollY;
+  const focusId = document.activeElement?.getAttribute?.('data-testid');
   app.innerHTML = state.view === 'landing' ? renderLanding() : renderReader();
+  if (stayOnLanding) {
+    const nextOverlay = app.querySelector('.cover-overlay');
+    if (nextOverlay) nextOverlay.scrollTop = overlayTop;
+    if (window.scrollY !== winY) window.scrollTo(0, winY);
+    if (focusId) {
+      /** @type {HTMLElement | null} */ (
+        app.querySelector(`[data-testid="${focusId}"]`)
+      )?.focus({ preventScroll: true });
+    }
+  } else if (state.view === 'reader' && _renderedView === 'landing') {
+    window.scrollTo(0, 0);
+  }
+  _renderedView = state.view;
   bindEvents();
   trackViewTransition();
+}
+
+/** After a story pick, bring the spice choice + Begin into view if hidden. */
+function revealSpiceMeter() {
+  const meter = app.querySelector('[data-testid="spice-meter"]');
+  if (!meter || typeof meter.scrollIntoView !== 'function') return;
+  const r = meter.getBoundingClientRect();
+  const box = meter.closest('.cover-overlay')?.getBoundingClientRect();
+  const top = Math.max(0, box ? box.top : 0);
+  const bottom = Math.min(window.innerHeight, box ? box.bottom : window.innerHeight);
+  if (r.top >= top && r.bottom <= bottom) return;
+  meter.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
 }
 
 function bindEvents() {
@@ -1033,6 +1067,7 @@ function bindEvents() {
       track('story_click', { storyId: id, meta: { via: 'card' } });
       setState({ storyId: id });
       refreshReadersSay(id);
+      revealSpiceMeter();
     });
   });
 
