@@ -60,7 +60,7 @@ The fourth time, a small click. He didn't hear it. She did. She filed it and sai
 
 She said it again. Her voice was steadier. That scared her more than the click.
 
-When they were done she walked to the corridor. Not into it. Just to the mouth of it, where the bath light was still on and the bottle stood on the counter, full to the shoulder. Jasmine. Something cold underneath. She had stood at that sink once, after midnight, with his shirt around her shoulders and her hair wet, and she'd lifted that bottle and put it down without opening it. She'd felt like a thief anyway.
+When they were done she walked to the corridor. Not into it. Just to the mouth of it, where the bath light was still on and the bottle stood on the counter, full to the shoulder. Jasmine. Something cold underneath. She had stood at that sink once after midnight, his shirt around her shoulders, her hair wet. She'd lifted that bottle and put it down without opening it. She'd felt like a thief anyway.
 
 She didn't go in now. If she touched it tonight, the story would remember her fingerprints.
 
@@ -98,7 +98,7 @@ He didn't move away. Neither did she. His breath was on her lips. Hers was on hi
 
 His fingers stayed under her jaw. She didn't turn her head. Not yet.
 
-Down the shaft, an elevator chimed. Rising.`,
+Down the shaft, an elevator chimed, rising. His breath stayed on her lips, and she didn't step back.`,
   textHot: `She took her hand off his chest. It cost her. "Answer it."
 
 Nolan picked up on the third buzz. Listened. "Thank you, Rhea." He laid the phone face down without looking at it, and his eyes never left her mouth.
@@ -169,7 +169,7 @@ She grabbed his wrist. Held his hand still against her. Breathing hard.
 
 "Nothing." She didn't let go. She didn't push him away either.
 
-Over his shoulder, down the corridor, the bath light was on. The bottle on the counter. Full to the shoulder. Jasmine reached her even here, under his cologne, under her own scent. She'd stood at that sink once wearing his shirt and nothing else, still slick between her thighs from him, and picked the bottle up, and put it down. She'd felt like a thief.
+Over his shoulder, down the corridor, the bath light was on. The bottle on the counter. Full to the shoulder. Jasmine reached her even here, under his cologne, under her own scent. She'd stood at that sink once in his shirt and nothing else, still slick between her thighs from him. She'd picked the bottle up and put it down. She'd felt like a thief.
 
 The want didn't leave her when she looked at it. It just went quiet and ashamed for a second. Then his breath hit her neck and it came roaring back.
 
@@ -193,15 +193,15 @@ She let go of his wrist and touched the small scar at the edge of his eyebrow in
 
 "Not by the time Pell was finished." He didn't smile. "Ask me something easier."
 
-He didn't move his hand. Just held it there, cupping her through cotton, the heat of his palm and the heat of her pressed together and neither of them moving. His forehead came down against hers.
+He didn't move his hand. He just held it there, cupping her through cotton, his heat and hers pressed together. His forehead came down against hers.
 
 He kissed the corner of her mouth. Just the corner. A seal.
 
 Her hips rocked once against his still hand. He made a sound in his chest like something breaking.
 
-Down the shaft, an elevator chimed. Rising.`,
+Down the shaft, an elevator chimed, rising toward them, and she didn't take her hips away from his hand.`,
   choices: [
-    { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi with Nolan — stay as cover with his mouth still unfinished on yours" },
-    { id: "scene4b", text: "Call Pell — lawyer the night before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }
+    { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi — stay his cover, his mouth still unfinished on yours" },
+    { id: "scene4b", text: "Call Pell — get a lawyer before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }
   ]
 };

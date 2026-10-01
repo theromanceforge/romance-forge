@@ -50,15 +50,13 @@ Rhea looked at her steadily. "And your fob pinged once."
 
 The floor tilted under [player_name]'s feet. Not much. Enough.
 
-She remembered the night. Or she remembered a night. Nolan at her door after one with his tie off and his hands cold, asking for nothing. She'd let him in. He'd held on to her like a man on a ledge, and she'd let him do that too, and later he'd fallen asleep on her couch with his head in her lap. She'd watched the city through her small window and stroked his hair. Some time before dawn he'd gone. She'd thought it was the sweetest night they'd had.
+She remembered the night. Or she remembered a night. Nolan at her door after one with his tie off and his hands cold, asking for nothing. She'd let him in. He'd held on to her like a man on a ledge, and she'd let him. Later he'd fallen asleep on her couch with his head in her lap. She'd watched the city through her small window and stroked his hair. Some time before dawn he'd gone. She'd thought it was the sweetest night they'd had.
 
 Now it was a line in a log.
 
 "Did he know?" [player_name] asked. "That his car was sitting out there without her?"
 
-"I don't know what Mr. Greer knows," Rhea said. "I know what his elevator does."
-
-"I didn't come to work to hang you," Rhea said, almost gently. "I came to work. Working means I see. Seeing means I decide what burns."
+"I don't know what Mr. Greer knows," Rhea said. "I know what his elevator does." Then, almost gently: "I didn't come to work to hang you. I came to work. Working means I see. Seeing means I decide what burns."
 
 "And what's burning?" [player_name] asked.
 
@@ -113,7 +111,7 @@ She went to the manager's alcove and looked at her phone. Not at them. Very care
 
 "Same face from over there."
 
-[player_name] leaned on the desk. Stone cold through her dress against her hip bone. "She wants the calendar in a voice she can play back. I give it raw, I'm a microphone with a pulse." Her mouth was dry. The rest of her wasn't. "Slow it down. Give me what the slate leaves out."
+[player_name] leaned on the desk. The stone was cold through her dress against her hip bone. "She wants the calendar in a voice she can play back. I give it raw, I'm a microphone with a pulse." Her mouth was dry. The rest of her wasn't. "Slow it down. Give me what the slate leaves out."
 
 "You want Pell down here?" Rhea asked.
 
@@ -137,7 +135,7 @@ Something moved behind Rhea's careful face. Rhea shifted six inches left and the
 
 A chill went over [player_name]'s skin and stayed, raising the fine hair on her arms.
 
-"Last month I marked her present," Rhea said, "the car idled twice with no wife. Both nights his private car ran late. After one." A pause, precise as a blade. "Your fob pinged once."
+"The last month I marked her present," Rhea said, "the car idled twice with no wife. Both nights his private car ran late. After one." A pause, precise as a blade. "Your fob pinged once."
 
 The floor tilted. Her body knew which night before her mind did.
 
@@ -155,7 +153,7 @@ Her face burned. Her thighs pressed together against the desk edge, because her 
 
 "I don't know what Mr. Greer knows. I know what his elevator does." Rhea watched her remember. "And you smell like his hallway right now. I'm not hanging you. I'm working. Working means I see. Seeing means I decide what burns."
 
-"Where does the car go," [player_name] said. "When it leaves without her."
+"Where does the car go?" [player_name] asked. "When it leaves without her."
 
 Rhea's hand went to her wrist. A small brass key on a thin chain, tucked under her cuff. [player_name] had never noticed it. Her eyes dropped to the desk's front panel. A narrow drawer. No handle. Just a keyhole.
 
@@ -187,7 +185,7 @@ Rhea's fingers whitened around the little key.
 
 The key slid halfway out of the cuff.`,
   choices: [
-    { id: "scene4g", text: "Pull the black-car nights from Rhea — learn which idles had no Vivienne", textHot: "Pull the black-car nights from Rhea — take the idle inventory while your pulse is still loud" },
-    { id: "scene4h", text: "Push until Rhea clams up — let Brooks lean on the neighbor door", textHot: "Push until Rhea clams up — let Brooks lean on your door while you still ache upstairs" }
+    { id: "scene4g", text: "Pull the black-car nights from Rhea — learn which idles had no Vivienne", textHot: "Pull the black-car nights from Rhea while your pulse is still loud" },
+    { id: "scene4h", text: "Push until Rhea clams up — let Brooks lean on your door", textHot: "Push until Rhea clams up — let Brooks lean on you, Nolan still waiting upstairs" }
   ]
 };

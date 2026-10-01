@@ -4,9 +4,9 @@ export default {
   title: "Unfinished Hallway Kiss",
   text: `Step six. Halfway between her door and his.
 
-Nolan stopped there, and so did [player_name], and the hallway held them like a held breath.
+Nolan stopped there, and so did [player_name]. The hallway held them like a breath.
 
-Weekly. Monthly. Gone. He'd said it out loud, up there under his own glass. She could still hear it in the corridor, ringing like a struck glass that hadn't stopped.
+Weekly. Monthly. Gone. He'd said it out loud, up there under his own glass. She could still hear it in the corridor, ringing like a struck wineglass that wouldn't go quiet.
 
 She had her back near the wall. Not touching it. Not touching him. Gray carpet. Recessed light. At the far end, above the emergency stairs, the black dome of a camera that everybody on this floor had agreed to forget.
 
@@ -30,7 +30,7 @@ She almost smiled. Didn't. "Your cufflinks."
 
 "I read everything into it. You taught me."
 
-He took that. Let it sit. The charm had gone out of his face sometime between the penthouse and here, and what was left was older and hungrier and less sure of itself. She'd never seen him less sure. She didn't know if she liked it. She couldn't stop looking.
+He took that. Let it sit. The charm had gone out of his face somewhere between the penthouse and here. What was left was older, hungrier, less sure of itself. She'd never seen him less sure. She didn't know if she liked it. She couldn't stop looking.
 
 "I gave you the calendar," he said. "Don't make me give you a confession I don't own yet."
 
@@ -86,7 +86,7 @@ She rose to him anyway.
 
 She didn't decide to. Her body did it, the way it had done everything since the first night. Up on her toes. Her hand on his lapel. His breath against her lips and then his mouth on hers.
 
-It wasn't a full kiss. It was the first half of one. Pressure. Heat. The small sound she made, which he swallowed. His hand came up and braced on the wall beside her head, same as three steps down all those months ago, and his cufflink ticked against the plaster.
+It wasn't a full kiss. It was the first half of one. Pressure. Heat. The small sound she made, which he swallowed. His hand came up and braced on the wall beside her head, as it had three steps down all those months ago. His cufflink ticked against the plaster.
 
 Then, far below, the elevator chimed.
 
@@ -120,14 +120,14 @@ His mouth came down the last half inch and stopped there, touching hers, not mov
 
 Her lips parted.
 
-Below them, the elevator stopped. The doors opened on some floor. Then a voice, too faint for words.`,
+Below them, the elevator stopped and the doors opened on some floor. A voice drifted up, too faint for words, and he didn't take his mouth from hers.`,
   textHot: `Step six. His palm still flat on the wall beside her head. Her back still against the plaster. The hallway pressed in from both sides, gray carpet, low light, and her whole body hummed like a struck wire.
 
 Weekly. Monthly. Gone. He'd said it. She could still feel the words in her chest where they'd landed.
 
 The space between them was so charged she could feel her nipples straining toward it through thin silk.
 
-At the end of the corridor, the black dome of the camera.
+At the end of the corridor hung the black dome of the camera.
 
 "It doesn't record sound," Nolan said.
 
@@ -155,7 +155,7 @@ He leaned in. Not touching. His heat reached her thighs, her belly, her breasts,
 
 "True one."
 
-The first time he kissed her was here. Step nine. Months ago. He'd asked, politely. She'd said yes before he finished. Then he'd kissed her against her own door until her legs gave and he had to hold her up by the hips, and she'd gone to bed alone that night and touched herself thinking of his mouth, and come so hard she bit the pillow.
+The first time he kissed her was here. Step nine. Months ago. He'd asked, politely. She'd said yes before he finished. Then he'd kissed her against her own door until her legs gave, and he'd had to hold her up by the hips. She'd gone to bed alone that night and touched herself thinking of his mouth. She'd come so hard she bit the pillow.
 
 He'd never asked politely since.
 
@@ -185,9 +185,9 @@ It went through her. Down. Into the place where wanting him lived, which didn't 
 
 She rose up on her toes.
 
-Her mouth found his. Soft first. Then not. His lips opened and his tongue found hers, slow, hot, tasting like wine, and a sound came out of her she'd never made in a hallway. His hand slapped flat on the wall beside her head. The cufflink ticked against the plaster. His other hand found her hip and dragged her off the wall into him, and she felt him hard against her stomach, and her knee came up along the outside of his thigh on its own.
+Her mouth found his. Soft first. Then not. His lips opened and his tongue found hers, slow and hot, tasting of wine. A sound came out of her she'd never made in a hallway. His palm pressed harder into the wall beside her head. The cufflink ticked against the plaster. His other hand found her hip and dragged her off the wall into him. She felt him hard against her stomach. Her knee came up along the outside of his thigh on its own.
 
-He pushed his thigh between hers. She ground down on it. Silk and wool and heat. His hand slid up under the silk at her ribs, thumb finding the underside of her breast and stroking once, and she arched into it like it was the only warm thing in the building. Her head fell back against the wall and he followed with his mouth, her jaw, her throat, the hollow under her ear, open and wet.
+He pushed his thigh between hers. She ground down on it. Silk and wool and heat. His hand slid up under the silk at her ribs, and his thumb found the underside of her breast and stroked once. She arched into it like it was the only warm thing in the building. Her head fell back against the wall and he followed with his mouth, her jaw, her throat, the hollow under her ear, open and wet.
 
 "Nolan," she breathed.
 
@@ -219,13 +219,13 @@ Her hand was still in his hair. His thumb was still on the inside of her thigh, 
 
 His mouth came down to hers again and stopped, touching, open, not moving. Breathing into her. Waiting.
 
+Below them the elevator doors opened on some floor. A voice drifted up, too faint for words.
+
 "Tell me which," he said against her lips.
 
-She couldn't. Her mouth was too busy wanting.
-
-Below them the elevator doors opened on some floor. A voice. Too faint for words.`,
+She couldn't answer. Her mouth was too busy wanting his.`,
   choices: [
-    { id: "scene5e", text: "Fall back into the unfinished kiss — heat against silence", textHot: "Fall back into the unfinished kiss — let heat outrun silence while the elevator might open" },
-    { id: "scene5f", text: "Break away — call Pell about the travel file that ages wrong", textHot: "Break away aching — call Pell about the travel file while your mouth still burns" }
+    { id: "scene5e", text: "Fall back into the unfinished kiss — let the silence wait", textHot: "Fall back into the unfinished kiss — let it outrun the elevator" },
+    { id: "scene5f", text: "Break away — call Pell about the travel file that doesn't add up", textHot: "Break away aching — call Pell about the travel file, mouth still burning" }
   ]
 };

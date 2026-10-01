@@ -1,12 +1,12 @@
 export default {
   id: "scene2a",
   layer: 2,
-  title: "Across the Hall / Private Elevator",
+  title: "Across the Hall",
   text: `Twelve steps. [player_name] had counted them on worse nights than this. Tonight she didn't count. She just crossed.
 
 Nolan Greer held his door open and didn't step aside far enough. She had to brush him to get in. He knew it. She knew he knew it.
 
-His foyer was black stone and one white orchid. Past it waited the private car, a brass cage that ran a single floor, from the front rooms up to the glass level where he actually lived. Crownspire's public elevators chimed for everyone. This one chimed for him.
+His foyer was black stone and one white orchid. Past it waited the private car, a brass cage that ran a single floor. It rose from the front rooms to the glass level where he actually lived. Crownspire's public elevators chimed for everyone. This one chimed for him.
 
 "Up," he said.
 
@@ -50,7 +50,7 @@ Nolan set his glass down inside the old ring. One hour stacked on another. "She'
 
 "It's the only one I give for free."
 
-She walked the room while he watched. Past the locked drawer in the credenza she had never seen open. Past the corridor to the master bath, where a bottle of Vivienne's perfume stood on the counter, full to the shoulder, like someone had stepped out mid-sentence. The scent still reached the hall when the air moved. Jasmine. Something colder under it.
+She walked the room while he watched. Past the locked drawer in the credenza she had never seen open. Past the corridor to the master bath, where Vivienne's perfume stood on the counter. The bottle was full to the shoulder, as if someone had stepped out mid-sentence. Jasmine. Something colder under it.
 
 Three things lived behind her teeth. She hadn't said them to anyone.
 
@@ -88,9 +88,9 @@ She came back to the table. Set her glass inside his ring. Two dark circles beca
 
 "It's a man asking you not to make him lose two women in one season." Click. He heard it too. His jaw flexed.
 
-Wind leaned on the glass. Down in the shaft the public elevator chimed, faint, someone else's night. She thought of Brooks in the lobby with her patient notebook. Of Rhea's careful face. Of the bottle on the bath counter, waiting for a hand.
+Wind leaned on the glass. Down in the shaft the public elevator chimed, faint, someone else's night. She thought of Brooks in the lobby with her patient notebook. Of the bottle on the bath counter, waiting for a hand.
 
-His palm rose to her waist and stopped a breath from the silk. Hovered. She felt it anyway. Her whole side lit.
+His palm rose to her waist and stopped a breath from the silk. She felt it anyway. Her whole side lit.
 
 "Say the word," he said, low. "I give Brooks a neighbor who was here with me. Dinner. Wine. Nothing sharp. Vivienne in Milan."
 
@@ -104,10 +104,10 @@ On the table his phone lit. RHEA — FRONT DESK. It buzzed once against the marb
 
 He didn't look at it. Neither did she.
 
-His mouth was an inch from hers. She could taste the wine on his breath. Her lips parted before she gave them permission. His hand finally landed at her waist, warm, sure, and she felt the cufflink press cold against her hip bone.
+His mouth was an inch from hers. She could taste the wine on his breath. Her lips parted before she gave them permission. His hand finally landed at her waist, warm and sure, and she felt the cufflink press cold against her hip bone.
 
-The phone buzzed again.`,
-  textHot: `Twelve steps of carpet under her bare feet. [player_name] felt every one in the soles, then the backs of her knees, then low in her belly where his knock had landed ten minutes ago and stayed.
+The phone buzzed again. Neither of them moved away.`,
+  textHot: `Twelve steps of carpet under her bare feet. [player_name] felt every one in her soles, then in the backs of her knees. Then low in her belly, where his knock had landed ten minutes ago and stayed.
 
 Nolan held his door and didn't move aside. She had to slide past him. Her breasts grazed his shirt. Her nipples went tight under the silk, instant, humiliating. He breathed in through his nose like he could smell it on her.
 
@@ -163,11 +163,11 @@ His gaze went to her mouth. Her throat. The pulse she couldn't hide. Lower, unhu
 
 "I'm greedy. You've noticed."
 
-She'd noticed. Here, against this glass, a month ago. Her palms flat on the window, city light on her bare breasts, his mouth open on her shoulder and his hand working between her thighs until she fogged the pane. Then him inside her from behind, slow, deep, the cufflinks cold on her hip every time he drove in. She'd come so hard she forgot what floor she was on. Vivienne's monthly mark had still been on Rhea's slate then.
+She'd noticed. Here, against this glass, a month ago. Her palms had been flat on the window, city light on her bare breasts. His mouth was open on her shoulder, his hand working between her thighs until she fogged the pane. Then him inside her from behind, slow, deep, the cufflinks cold on her hip every time he drove in. She'd come so hard she forgot what floor she was on. Vivienne's monthly mark had still been on Rhea's slate then.
 
 Now it wasn't.
 
-The thought should have cooled her. It didn't. It sat low in her belly beside the heat and made it heavier, and she hated what that said about her, and her hips still shifted toward him.
+The thought should have cooled her. It didn't. It sat low in her belly beside the heat and made it heavier. Her hips still shifted toward him.
 
 She set her glass inside his ring. "If I protect you, I protect a story I don't believe."
 
@@ -191,9 +191,9 @@ His phone lit on the marble. RHEA — FRONT DESK. Buzzed once.
 
 He didn't look. His hand landed at last on her hip, wide and hot, thumb pressing the bone, cufflink cold through silk. Her hips tipped toward him on their own. His mouth hovered over hers. She could taste his breath. Her lips were already open.
 
-The phone buzzed again.`,
+The phone buzzed again, and his mouth stayed where it was.`,
   choices: [
-    { id: "scene3a", text: "Protect Nolan — offer the soft alibi without naming what you saw", textHot: "Protect Nolan — offer your soft alibi with your mouth still hungry and your secrets shut" },
-    { id: "scene3b", text: "Demand the cadence — weekly to monthly to gone — before you touch him again", textHot: "Demand the cadence — make him say weekly to monthly to gone before your hands go back on him" }
+    { id: "scene3a", text: "Protect Nolan — offer the soft alibi without naming what you saw", textHot: "Protect Nolan — offer the soft alibi, mouth hungry, secrets shut" },
+    { id: "scene3b", text: "Make him say it — weekly, monthly, gone — before you touch him again", textHot: "Make him say weekly, monthly, gone before your hands go back on him" }
   ]
 };

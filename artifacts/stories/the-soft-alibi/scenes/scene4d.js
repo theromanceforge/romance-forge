@@ -20,7 +20,7 @@ The cufflink clicked. Not a lie this time. Anger. She'd learned the difference t
 
 His jaw worked. He looked down the hall at the camera dome. Then at the elevator. Then at her.
 
-Wind leaned on the window at the far end of the corridor. The shaft breathed. Somewhere far below, Brooks was still in the lobby with her patient notebook, and Rhea was still behind her desk, and the slate still had its white rows.
+Wind leaned on the window at the far end of the corridor. The shaft breathed. Somewhere far below, Brooks was still in the lobby with her patient notebook. Rhea was still behind her desk. The slate still had its white rows.
 
 Nolan dragged a hand down his face. When it came away the charm was gone. What was left looked tired and older, like a man doing arithmetic he hated.
 
@@ -28,7 +28,7 @@ Nolan dragged a hand down his face. When it came away the charm was gone. What w
 
 "And after spring?"
 
-"After spring it gets thinner." He looked at the carpet. "Some of the Zurich trips were Pell. Hotel holds with no room service charged. Cars booked and cancelled the same morning. A suite at the Baur that nobody slept in, as far as the minibar knows."
+"After spring it gets thinner." He looked at the carpet. "Some of the Zurich trips were Pell. Hotel holds with no room service charged. Cars booked and cancelled the same morning. A suite at the Baur that nobody slept in, as far as the minibar knew."
 
 "You checked the minibar."
 
@@ -58,7 +58,7 @@ He was quiet a long time.
 
 "I came to your door," Nolan said.
 
-Something turned over in her chest. She remembered nights he'd shown up late with cold hands and no explanation. She'd opened every time. She'd thought it was because he wanted her. Maybe it had been. Maybe it had also been because her door was the only one on the floor that would give him somewhere to have been, just by opening.
+Something turned over in her chest. She remembered nights he'd shown up late with cold hands and no explanation. She'd opened every time. She'd thought it was because he wanted her. Maybe it had been. Maybe it had also been because her door was the only one on the floor that could give him somewhere to have been. All it had to do was open.
 
 She didn't know which. That was the worst part. Both could be true at once, and he'd still be standing here, and she'd still want him.
 
@@ -68,9 +68,7 @@ She didn't know which. That was the worst part. Both could be true at once, and 
 
 "And now?"
 
-"Now it wants the truth." His voice dropped. "I'm finding out I'd rather give you that than anything else I own. Which is a problem, because I don't own much of it."
-
-"I'm telling you this in a hallway," he went on, "where Brooks could hear it if she timed the elevator right. That should count for something."
+"Now it wants the truth." His voice dropped. "I'm finding out I'd rather give you that than anything else I own. Which is a problem, because I don't own much of it. I'm telling you this in a hallway where Brooks could hear it if she timed the elevator right. That should count for something."
 
 "It counts."
 
@@ -84,7 +82,7 @@ He nodded once. Sharp. "Then you've got a partial truth. More than Pell would gi
 
 "You'd go down with me?"
 
-"I'd go down with you." A beat. "I'd hate every minute."
+"I'd go down with you." He didn't smile. "I'd hate every minute."
 
 He didn't reach for her. He kept his hands where she could see them. That restraint was either respect or punishment, and she couldn't tell which, and her body didn't care. Her body wanted his hands back. Her mouth still felt the inch where his had almost been.
 
@@ -117,7 +115,7 @@ The cufflink clicked. Anger, not a lie. She knew the difference in her skin now.
 
 "In a hallway," [player_name] said. "Milan. Zurich. Which planes were real, which were paper. Which nights the car sat empty." She made herself breathe. "And which nights you knew."
 
-He didn't step back. He stayed exactly where he was, close enough that she could feel the heat of his chest against her breasts through silk and wool and no contact at all. Her nipples ached. She hated them.
+He didn't step back. He stayed exactly where he was. She could feel the heat of his chest against her breasts through silk and wool, with no contact at all. Her nipples ached. She hated them.
 
 His jaw worked. He looked at the camera dome. At the elevator. At her mouth. Back to her eyes.
 
@@ -155,15 +153,13 @@ Silence. Long enough that she heard her own pulse.
 
 Her whole body went hot and then cold.
 
-She remembered those nights in her skin. Late. His hands cold. No words. Her pulling him in by his shirt. Him lifting her onto the kitchen counter and pushing her skirt up and going down on his knees in front of her like it was the only place in the city he could stand to be. His mouth on her until she was gasping and pulling his hair. Him fucking her after, slow and desperate, against the counter's edge, his face in her neck, like she was holding him to the earth.
+She remembered those nights in her skin. Late. His hands cold. No words. Her pulling him in by his shirt. Him lifting her onto the kitchen counter, pushing her skirt up, going down on his knees in front of her. Like it was the only place in the city he could stand to be. His mouth on her until she was gasping and pulling his hair. Him fucking her after, slow and desperate, against the counter's edge, his face in her neck, like she was holding him to the earth.
 
 She'd thought it meant he needed her.
 
 Maybe it did. Maybe it also meant her door was the only one on this floor that gave him somewhere to have been.
 
-She didn't know which. Her thighs pressed together anyway.
-
-Her body didn't care which. Her body remembered the cold edge of the counter under her, his hot mouth, his voice cracking on her name. It wanted that again. Right now. Here. It wanted it so badly she had to press her shoulder blades into the wall to keep from grabbing his belt.
+She didn't know which. Her body didn't care. It remembered the cold edge of the counter under her, his hot mouth, his voice cracking on her name. It wanted that again. Right now. Here. It wanted it so badly she had to press her shoulder blades into the wall to keep from grabbing his belt.
 
 "Did you come to me," she said, "or to an alibi?"
 
@@ -171,9 +167,7 @@ Her body didn't care which. Her body remembered the cold edge of the counter und
 
 "And now?"
 
-"Now it wants the truth." His voice dropped. "I'd rather give you that than anything else I own. Problem is, I don't own much of it."
-
-"I'm telling you this where Brooks could hear," Nolan said. "That should matter."
+"Now it wants the truth." His voice dropped. "I'd rather give you that than anything else I own. Problem is, I don't own much of it. I'm telling you this where Brooks could hear. That should matter."
 
 "It matters." Her throat was tight. "So does not kissing you quiet while planes don't exist."
 
@@ -205,9 +199,9 @@ Her mouth opened. Nothing came out.
 
 Down the hall, the elevator chimed.
 
-Her hand stayed on the key.`,
+Her hand stayed on the key, and she didn't say no again.`,
   choices: [
-    { id: "scene5g", text: "Confront Nolan alone with the partial calendar truth", textHot: "Confront Nolan alone — partial calendar truth with refused heat still screaming" },
-    { id: "scene5h", text: "Bring Nolan to Brooks's soft interview with the unredacted story", textHot: "Bring Nolan to Brooks's soft interview — unredacted story with your want on a leash" }
+    { id: "scene5g", text: "Confront Nolan alone with the partial calendar truth", textHot: "Confront Nolan alone — the partial truth, the heat you refused still screaming" },
+    { id: "scene5h", text: "Bring Nolan to Brooks's soft interview — tell the unredacted story", textHot: "Bring Nolan to Brooks's soft interview — the unredacted story, your want on a leash" }
   ]
 };

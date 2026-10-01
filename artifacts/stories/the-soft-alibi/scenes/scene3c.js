@@ -86,7 +86,7 @@ The doors closed. Three women in a mirrored box. Brooks watching the numbers. Rh
 
 In her pocket the phone buzzed. Once. She knew whose name it would be.
 
-She didn't take it out. She could feel it there against her hip, warm from her body. Whatever he'd written, he'd written it with the same mouth that had said her name in her doorway an hour ago. She wanted to read it more than she wanted to breathe.
+She didn't take it out. She could feel it there against her hip, warm from her body. Whatever he'd written, it was in the voice that had said her name in her doorway an hour ago. She wanted to read it more than she wanted to breathe.
 
 Brooks glanced at her pocket. Then at her face. Then back at the numbers.
 
@@ -94,7 +94,7 @@ Rhea finally looked up. One quick look. Her mouth moved without sound. Two words
 
 The elevator slowed. Seven. Eight.
 
-The phone buzzed again.`,
+The phone buzzed again, and her hand went to it before she could stop it.`,
   textHot: `"You understand you're speaking voluntarily," Detective Brooks said.
 
 "I understand." [player_name]'s voice came out lower than she meant. She was still wet from Nolan's breath in her doorway, from his text, from her own imagination on the ride down. She stood very straight to hide it.
@@ -109,7 +109,7 @@ Rhea turned the tablet to face the detective. Her hands stayed flat on either si
 
 The elevator chimed somewhere behind her. The sound went down her spine like a fingertip. "Meaning the floor went quiet."
 
-That wasn't what it meant. It meant his knock at eleven-forty. His shirt on her floor by midnight. Her bedroom window open and the city wind on her bare skin while he moved inside her, slow and deep, saying nothing, and her not caring what the floor heard.
+That wasn't what it meant. It meant his knock at eleven-forty. His shirt on her floor by midnight. Her bedroom window open, the city wind on her bare skin while he moved inside her, slow and deep, saying nothing. She hadn't cared what the floor heard.
 
 "Did Mrs. Greer seem distressed on the later visits?" Brooks asked.
 
@@ -145,13 +145,13 @@ Heat climbed her chest to her face. She let it. There was no stopping it. Beside
 
 "Was he with you the whole night?" Brooks asked. "On those."
 
-"Most of it." [player_name] remembered waking to cool sheets and the dent of him in the pillow, his warmth still in the cotton, her body still sore and pleased. "He leaves before it's light."
+"Most of it." [player_name] remembered waking to cool sheets and the dent of him in the pillow. His warmth was still in the cotton, her body sore and pleased. "He leaves before it's light."
 
 "Every time?"
 
 "Every time I've noticed."
 
-Brooks's eyes held hers one beat longer than they needed to. Not a smirk. Just a woman who'd heard every version.
+Brooks's eyes held hers a moment longer than they needed to. Not a smirk. Just a woman who'd heard every version.
 
 "Some nights I was alone," [player_name] said. "Listening to nothing. Wanting anyway. I can't swear to every blank. I can swear to the pattern."
 
@@ -167,7 +167,9 @@ Rhea breathed out through her nose. Very soft.
 
 "That's not what I asked."
 
-"It's what I answered, Detective." Polite as silk. Brooks wrote something short and underlined it twice.
+"It's what I answered, Detective." Polite as silk.
+
+Brooks wrote something short and underlined it twice.
 
 "Did he ever tell you where she was?" Brooks asked.
 
@@ -203,9 +205,9 @@ Rhea looked up. Just once. Her lips shaped two words. Not yet.
 
 Seven. Eight.
 
-The phone buzzed again.`,
+The phone buzzed again against her hip, and her whole body answered it.`,
   choices: [
-    { id: "scene4e", text: "Confess the calendar into record — beg Brooks for the softer interview", textHot: "Confess the calendar into record — beg for softness while the badge still feels like a hand" },
-    { id: "scene4f", text: "Tip Rhea — warn her Brooks will raid the guest logs", textHot: "Tip Rhea — warn her with your pulse still loud from saying Nolan's empty nights aloud" }
+    { id: "scene4e", text: "Confess the calendar on the record — beg Brooks for the softer interview", textHot: "Confess the calendar on the record — beg for softness, the badge on you like a hand" },
+    { id: "scene4f", text: "Tip Rhea — warn her Brooks will raid the guest logs", textHot: "Tip Rhea — warn her about the logs, your pulse still loud with Nolan" }
   ]
 };

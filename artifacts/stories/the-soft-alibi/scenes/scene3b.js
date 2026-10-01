@@ -157,7 +157,7 @@ His gaze dragged down her. Throat. Breasts. Hips. Back up, slow, hungry and mise
 
 That landed. She watched it land. His lips parted. His chest rose hard.
 
-She knew exactly what she was refusing. Last week, on his bed, her wrists in one of his hands and his mouth between her thighs, his cufflinks scattered on the nightstand because she'd made him take them off. He'd licked her slow until she begged, and then slower. She'd said his name into the dark so many times it stopped sounding like a name.
+She knew exactly what she was refusing. Last week, on his bed, he'd held her wrists in one hand with his mouth between her thighs. His cufflinks lay scattered on the nightstand because she'd made him take them off. He'd licked her slow until she begged, and then slower. She'd said his name into the dark so many times it stopped sounding like a name.
 
 Her thighs pressed together just thinking it.
 
@@ -167,7 +167,9 @@ Her thighs pressed together just thinking it.
 
 He nodded once. The cufflinks stayed silent.
 
-The private car took them down. Brass. Chime. Her back to one wall, his to the other, and the space between them thick enough to drink. She could smell him. She could feel how much he wasn't touching her, everywhere at once. Halfway down he said her name. Just her name. She didn't answer. Her body did, a slow hot clench she was glad he couldn't see. When the doors opened she walked out fast.
+The private car took them down. Brass. Chime. Her back to one wall, his to the other, and the space between them thick enough to drink. She could smell him. She could feel how much he wasn't touching her, everywhere at once.
+
+Halfway down he said her name. Just her name. She didn't answer. Her body did, a slow hot clench she was glad he couldn't see. When the doors opened she walked out fast.
 
 He held his front door. This time he stepped aside far enough that she didn't brush him. Her body registered the missing contact like a slap.
 
@@ -189,15 +191,15 @@ She didn't know. Her back found the wall. The plaster was cool through silk. He 
 
 He stood there. His whole body was shaking with it. She could see the strain in his forearm against the wall, the tendons standing out above the cufflink.
 
+Far below, the public elevator hummed in its shaft.
+
 His mouth hovered. She felt his breath on her lips, on her chin, on the seam where her lips had parted on their own.
 
 "If you kiss me before the rest," she whispered, "I'll hate how fast I open."
 
-"Then don't stand like that," he said, and didn't move.
-
-Far below, the public elevator hummed in its shaft.`,
+"Then don't stand like that," he said, and didn't move.`,
   choices: [
-    { id: "scene4c", text: "Almost-kiss him in the hall — take heat with the cadence unfinished", textHot: "Almost-kiss him in the hall — take the heat with Vivienne's name still between your mouths" },
-    { id: "scene4d", text: "Refuse the romance — demand the unredacted travel story and black-car nights", textHot: "Refuse his mouth — demand unredacted travel and black-car nights while you still ache" }
+    { id: "scene4c", text: "Almost kiss him in the hall — leave the calendar unfinished", textHot: "Almost kiss him in the hall — Vivienne's name still between your mouths" },
+    { id: "scene4d", text: "Refuse his mouth — demand the unredacted travel story and the black-car nights", textHot: "Refuse him while you ache — demand the unredacted travel story and the black-car nights" }
   ]
 };

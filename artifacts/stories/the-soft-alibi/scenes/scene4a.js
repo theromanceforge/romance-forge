@@ -80,7 +80,7 @@ She almost laughed. "That's the most romantic threat anyone's ever made me."
 
 "Honest." He kissed her again, shorter, harder. "I don't do a lot of that. Notice it."
 
-She noticed. She noticed everything. His heartbeat against her palm. The heat of his hip against hers. The way his hand had slid from her face down to the small of her back and stayed there, pressing her into him, claiming and protecting in the same motion. She couldn't tell which. She'd stopped needing to.
+She noticed. She noticed everything. His heartbeat against her palm. The heat of his hip against hers. His hand had slid from her face to the small of her back and stayed there, pressing her into him. Claiming or protecting. She couldn't tell which, and she'd stopped needing to.
 
 "Tell me one true thing," [player_name] said. "Not for Brooks. For me."
 
@@ -108,8 +108,8 @@ She didn't. Her hand found his belt.
 
 The phone buzzed again. And again. And then, from her end of the floor, faint through two doors, someone was knocking on hers.
 
-Three measured taps.`,
-  textHot: `"Stay," Nolan said. His hand was still between her thighs where he'd left it, still and hot, and she was still rocking against it in tiny movements she couldn't stop.
+Three measured taps, and her hand was still on his belt.`,
+  textHot: `"Stay," Nolan said. His hand was between her thighs where he'd left it, motionless and hot. She was still rocking against it in tiny movements she couldn't stop.
 
 "I'm staying," [player_name] breathed.
 
@@ -119,7 +119,7 @@ Down the shaft the elevator stopped on some lower floor. Didn't come up. Not yet
 
 "Again," he said. "From the Tuesday."
 
-They built the week on the couch. Her lying back across the cushions, him beside her, his fingers undoing the tiny buttons down the front of her dress one at a time as she talked. Dinners. Elevator logs. Delivery receipts with her name. Each fact got a button. By the Friday her dress was open to the waist and his mouth was on her breast, slow, wet, sucking until she arched and lost the date.
+They built the week on the couch. She lay back across the cushions with him beside her. His fingers undid the tiny buttons down the front of her dress, one at a time, as she talked. Dinners. Elevator logs. Delivery receipts with her name. Each fact got a button. By the Friday her dress was open to the waist. His mouth was on her breast, slow and wet, sucking until she arched and lost the date.
 
 "Thursday," he said against her nipple.
 
@@ -133,7 +133,7 @@ They built the week on the couch. Her lying back across the cushions, him beside
 
 "You know why."
 
-She'd caught him on the hour and he lifted his head and looked at her, her hair wild on the cushion, her breast wet from his mouth, correcting his lie in a calm voice. Something in his face went soft and frightened at the same time.
+He lifted his head and looked at her. Her hair was wild on the cushion, her breast wet from his mouth, and his alibi was nearly word-perfect in her calm voice. Something in his face went soft and frightened at the same time.
 
 "Brooks will ask if Vivienne knew about you," he said.
 
@@ -157,7 +157,7 @@ Nobody had moved the hairpin. In all these white weeks, nobody had put it in a d
 
 In the mirror she saw herself, flushed, dress clutched shut, mouth swollen. Behind her, Nolan in the doorway, shirt half open, hair wrecked from her fingers.
 
-The want in her body didn't go away in that room. It just went quiet and ashamed.
+The want in her body didn't leave in that room. It only lowered its voice.
 
 "Not in here," he said.
 
@@ -165,7 +165,7 @@ The want in her body didn't go away in that room. It just went quiet and ashamed
 
 "I know. Not in here." He held out his hand.
 
-She took it. He walked her back to the window, to the city light, away from that bottle. He turned her to face the glass. Stood behind her. Pressed his body full along her back so she felt all of him, his chest, his belt, the hard length of him against the curve of her ass.
+She took it. He walked her back to the window, to the city light, away from that bottle. He turned her to face the glass. Stood behind her. Pressed his body full along her back. She felt all of him: his chest, his belt, the hard length of him against the curve of her ass.
 
 "Stay through the interview," he said into her ear. His hands slid her dress off her shoulders and it fell to her waist. The glass was cold on her nipples. "Be across the hall when she knocks. Be here when she leaves."
 
@@ -207,13 +207,11 @@ He didn't stop. "Ignore it."
 
 It buzzed again. And again.
 
-And then, faint, from her end of the floor, through his door and down the hall: someone knocking on hers.
+And then, faint, from her end of the floor, through his door and down the hall: someone knocking on hers. Three measured taps.
 
-His hand went still inside her. Her whole body clenched around his fingers, right at the edge, and couldn't go over.
-
-The knocking came again. Three measured taps.`,
+His hand went still inside her. Her whole body clenched around his fingers, right at the edge, and couldn't go over.`,
   choices: [
-    { id: "scene5a", text: "Cooperate fully as soft alibi — keep Nolan's protection", textHot: "Cooperate fully as soft alibi — keep his protection while your mouth still tastes like seal" },
-    { id: "scene5b", text: "Take him across the hall — off-record honesty after the cover", textHot: "Take him across the hall — off-record honesty with the cover still warm on your skin" }
+    { id: "scene5a", text: "Cooperate fully as his soft alibi — keep Nolan's protection", textHot: "Cooperate fully as his soft alibi — keep his protection, his taste still on you" },
+    { id: "scene5b", text: "Take him across the hall — get the honest version off the record", textHot: "Take him across the hall — get the truth off the record, skin still burning" }
   ]
 };

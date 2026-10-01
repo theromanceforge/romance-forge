@@ -1,7 +1,7 @@
 export default {
   id: "scene2b",
   layer: 2,
-  title: "Rhea's Desk / Concierge Slate",
+  title: "Rhea's Desk",
   text: `The lobby elevator let her out at 11:14. [player_name] checked the clock on the wall behind the concierge desk because checking the time was easier than checking her face.
 
 Nolan's knock was still on her door upstairs. She'd left him standing in it.
@@ -16,7 +16,7 @@ Crownspire's lobby was built to make people whisper. Stone floor. Glass three st
 
 [player_name] rested her fingertips on the stone. Cold. "Show me."
 
-Rhea held still for one breath. Then she angled the tablet a few degrees. Away from the camera over the mail room. Toward [player_name].
+Rhea held still for one breath. Then she angled the tablet a few degrees, away from the camera over the mail room and toward [player_name].
 
 The guest slate. Columns of names and times in Rhea's neat entries. Vivienne Greer, present. Present. Present. A visit every week, regular as rent. Then the gaps opened. One a month. A blank. Another. Then nothing at all, row after row of nothing, the kind of white space that made a building start telling travel stories.
 
@@ -38,7 +38,7 @@ Behind them, the lobby glass caught movement. A woman stepped out of the back of
 
 [player_name] almost laughed. The laugh got stuck somewhere around her sternum.
 
-"Did Mrs. Greer ever ask about me?" [player_name] said.
+"Did Mrs. Greer ever ask about me?" [player_name] asked.
 
 Rhea took a long moment. "Once."
 
@@ -50,7 +50,7 @@ Rhea took a long moment. "Once."
 
 "I track everything," Rhea said. "I just don't say it to wives."
 
-Close. A soft word with a hard center. She could still smell Nolan's cologne on her wrist from where he'd leaned in her doorway. She could still feel the click of his cufflink like it had happened against her skin.
+Close. Rhea's word from a minute ago, soft with a hard center. She could still smell Nolan's cologne on her wrist from where he'd leaned in her doorway. She could still feel the click of his cufflink like it had happened against her skin.
 
 She traced one blank row with her eyes. Not her finger. Fingers left marks.
 
@@ -60,7 +60,7 @@ She traced one blank row with her eyes. Not her finger. Fingers left marks.
 
 "And if I don't? If I ask you for an hour?"
 
-Rhea's eyes went to the back office and returned. "Then you get an hour. Maybe. You ask me what the slate doesn't say. Which nights the car idled and which nights it didn't. And you hope her patience lasts longer than your nerve." A beat. "Patience isn't her reputation."
+Rhea's eyes went to the back office and returned. "Then you get an hour. Maybe. You ask me what the slate doesn't say. Which nights the car idled and which nights it didn't. And you hope her patience lasts longer than your nerve." Rhea's mouth thinned. "Patience isn't her reputation."
 
 Marcus Pell wasn't here. [player_name] could feel the space where he'd be. NDAs. Planes. The word traveling polished until it reflected whatever you needed. Nolan would want her upstairs. Brooks would want her on record. Rhea wanted what Rhea always wanted: the building upright in the morning.
 
@@ -74,7 +74,7 @@ Across the lobby, the manager stopped talking. Brooks turned.
 
 She had a face that had heard every version of every story and didn't hold it against anyone. Gray at the temples she hadn't bothered to hide. She crossed the stone without hurrying, notebook already open.
 
-"Evening," Brooks said. She glanced at Rhea, then at the angled tablet, then at [player_name]. She said [player_name]'s name like she'd already underlined it. "You're the neighbor. Across from Greer."
+"Evening," Brooks said. She glanced at Rhea, then at the angled tablet, then at [player_name]. She looked at [player_name] like she'd already underlined her. "You're the neighbor. Across from Greer."
 
 "I live on that floor," [player_name] said.
 
@@ -90,10 +90,10 @@ Heat climbed her throat. Brooks watched it climb.
 
 "Ms. [player_name]?" Brooks said.
 
-The tablet glowed between them, its blank rows bright as teeth.`,
+The tablet glowed between them, its blank rows bright as teeth. Upstairs, his door was still open.`,
   textHot: `Her thighs still hummed when the lobby elevator opened. Nolan had leaned in her doorway two minutes ago, close enough to breathe on her mouth, and she'd stepped past him to come down here. Her body hadn't agreed. Her body was still upstairs, pressed against him.
 
-11:14 on the clock behind the concierge desk. [player_name] fixed her eyes on it and made her breathing slow.
+It was 11:14 by the clock behind the concierge desk. [player_name] fixed her eyes on it and made her breathing slow.
 
 Rhea Quinn looked up. Gold lamp, careful eyes, nothing on her face. Concierges in Crownspire were trained like that. Rhea had gone further. Rhea had made it an art.
 
@@ -125,7 +125,7 @@ Heat flooded [player_name]'s face. Her neck. Her chest under the silk. "She aske
 
 Close. The word went down her spine and spread. Close was his mouth an inch from hers in the doorway. Close was his thigh between hers on her own couch, her skirt rucked up, the cufflink cold against the inside of her knee. Close was what she'd been every empty night since the slate went thin.
 
-"What did you tell her?"
+"What did you tell her?" [player_name] asked.
 
 "That I'm a concierge, not a priest."
 
@@ -139,7 +139,7 @@ A chill slid down [player_name]'s back and met the heat coming up. The two of th
 
 "That I don't track residents' mail." Rhea's mouth barely moved. "I track everything. I just don't say it to wives."
 
-She remembered the first thin night with her whole body. Vivienne crossing this lobby in cream silk, bag too small, perfume faint like she'd stopped wearing it fresh. Rhea marked her present. An hour later Nolan was in [player_name]'s doorway. He hadn't said a word. He'd backed her against the wall and kissed her like a man coming up for air, his hand already under her skirt, finding her wet, groaning into her mouth like she'd done it to him. She'd told herself it was once. The calendar had told her otherwise.
+She remembered the first thin night with her whole body. Vivienne crossing this lobby in cream silk, bag too small, perfume faint like she'd stopped wearing it fresh. Rhea marked her present. An hour later Nolan was in [player_name]'s doorway. He hadn't said a word. He'd backed her against the wall and kissed her like a man coming up for air. His hand was already under her skirt, finding her wet, and he groaned into her mouth like she'd done it to him. She'd told herself it was once. The calendar had told her otherwise.
 
 "If I walk this to her," [player_name] said, "I'm cooperating."
 
@@ -151,13 +151,13 @@ She remembered the first thin night with her whole body. Vivienne crossing this 
 
 Marcus Pell wasn't here. She could feel the shape of where he'd stand. Silk-lined NDAs. Planes. Nolan would want her back upstairs, in his bed, quiet. Brooks would want her mouth on the record. Rhea wanted the building standing at dawn.
 
-Behind her the elevator chimed, empty, heading back up. Her body leaned toward the sound like it was his voice. Twelve steps. His door. His hands. She'd be on his bed with her dress around her waist before Brooks finished her next sentence, and for twenty minutes none of this would exist. The thought made her ache so sharply she had to put more weight on her palms to stay still.
+Behind her the elevator chimed, empty, heading back up. Her body leaned toward the sound like it was his voice. Twelve steps. His door. His hands. She could be on his bed with her dress around her waist before Brooks finished her next sentence. For twenty minutes, none of this would exist. The thought made her ache so sharply she had to put more weight on her palms to stay still.
 
-Under all of it, hope and dread lay against each other like two bodies in one bed. Vivienne in Milan, laughing. Vivienne paid to fade. Vivienne nowhere. Vivienne writing her own white rows. The slate didn't pick. It just kept the beat.
+Under all of it, hope and dread lay against each other like two bodies in one bed. Vivienne in Milan, laughing. Vivienne paid to fade. Vivienne nowhere. Vivienne writing her own white rows. The slate didn't choose. It only kept time.
 
 Brooks finished with the manager and turned.
 
-Her eyes went to Rhea. To the tablet. To [player_name]. They stayed on [player_name] a beat too long, on her flushed throat, her tight shoulders. Brooks had read faces like hers before. [player_name] could tell.
+Her eyes went to Rhea. To the tablet. To [player_name]. They stayed on [player_name] a second too long, on her flushed throat, her tight shoulders. Brooks had read faces like hers before. [player_name] could tell.
 
 "You're the neighbor," Brooks said. She crossed the stone, unhurried, notebook open. "Across from Greer."
 
@@ -175,9 +175,11 @@ The words hit low. Her thighs pressed together under her dress. Her nipples ache
 
 Brooks watched her read it.
 
-"Ms. [player_name]?" Brooks said.`,
+"Ms. [player_name]?" Brooks said.
+
+Upstairs, his door was open. Her body was already halfway there.`,
   choices: [
-    { id: "scene3c", text: "Walk Rhea's log toward Brooks — cooperate on the calendar gaps", textHot: "Walk Rhea's log toward Brooks — let the calendar gaps open you for the badge" },
-    { id: "scene3d", text: "Stall the slate — buy Rhea's silence before the badge climbs", textHot: "Stall the slate — buy Rhea's silence with your pulse still racing for Nolan" }
+    { id: "scene3c", text: "Walk Rhea's log toward Brooks — cooperate on the calendar gaps", textHot: "Walk Rhea's log toward Brooks — cooperate with his text still burning" },
+    { id: "scene3d", text: "Stall the slate — buy Rhea's silence before the badge climbs", textHot: "Stall the slate — buy Rhea's silence, pulse still racing for Nolan" }
   ]
 };

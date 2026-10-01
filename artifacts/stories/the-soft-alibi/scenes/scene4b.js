@@ -4,7 +4,7 @@ export default {
   title: "Lawyer the Night",
   text: `The elevator chime was still in the air when [player_name] stepped back from Nolan and picked up the house phone.
 
-He didn't stop her. He'd said he wouldn't. He watched her press the button for the front desk and say, "Rhea, connect me to Mr. Pell, please," in a voice that didn't shake. And his cufflinks went completely still.
+He didn't stop her. He'd said he wouldn't. He watched her press the button for the front desk and say, "Rhea, connect me to Mr. Pell, please," in a voice that didn't shake. His cufflinks went completely still.
 
 Still was worse than a click. A click was a lie. Still was a man deciding what to do with his hands.
 
@@ -70,7 +70,7 @@ Pell turned his head. "The rest?"
 
 Pell considered [player_name] the way he might consider an unsigned contract. "Your want is noted," he said. "Your want is not a legal strategy."
 
-Something in her chest went hot and tight. Not shame. Anger. And under the anger, the thing that made the anger worse: she still wanted to cross the six feet to Nolan and put her face in his neck and have him hold her while the lawyer talked.
+Something in her chest went hot and tight. Not shame. Anger. Under the anger was the thing that made it worse. She still wanted to cross the six feet to Nolan, put her face in his neck, and let him hold her while the lawyer talked.
 
 Pell opened the folio. Inside, a single page. Typed. A pen clipped to it.
 
@@ -115,7 +115,7 @@ Heat flooded her face. "You can't see me."
 
 "I've met you twice. That's enough."
 
-She'd confessed with her hips a hundred times. In her bed. On his couch. Once in the brass car between floors, her back against the mirror, her skirt around her waist, the chime going off when they reached the top and him not stopping. "She's missing-persons," she said. "She wants the calendar."
+She'd confessed with her hips a hundred times. In her bed. On his couch. Once in the brass car between floors, her back against the mirror and her skirt around her waist. The chime had gone off at the top, and he hadn't stopped. "She's missing-persons," she said. "She wants the calendar."
 
 "I sell calendars that look like flight plans," Pell said. "Twelve minutes."
 
@@ -131,7 +131,7 @@ Nolan stood at the window with his back to her. His shirt was still half open fr
 
 "It feels like I'm not going to be your only soft surface," she said. Her voice was rough. Her body was still arguing with every word. "Brooks records neighbors. Pell records exits."
 
-"Pell records silence." He turned then. His face was calm. His eyes went over her, her flushed throat, her dress buttoned wrong, her bare feet. "There's a difference between silence and you deciding my mouth isn't safe on you tonight."
+"Pell records silence." He turned then. His face was calm. His eyes went over her: flushed throat, dress buttoned wrong, bare feet. "There's a difference between silence and you deciding my mouth isn't safe on you tonight."
 
 "I didn't decide that."
 
@@ -149,7 +149,7 @@ They waited. He poured a glass he didn't drink. She sat on the arm of the couch 
 
 Eleven minutes after the call the private car chimed. Pell didn't knock. Pell had a key.
 
-Rain and paper. Silver hair. Gray coat. A slim leather folio. His eyes did one pass of the room and caught everything: the rings on the marble, her mis-buttoned dress, the color still high on her chest, the way Nolan's hands were fisted at his sides. Pell didn't smile. He didn't need to.
+Rain and paper. Silver hair. Gray coat. A slim leather folio. His eyes did one pass of the room and caught everything. The rings on the marble. Her mis-buttoned dress, the color still high on her chest. Nolan's hands, fisted at his sides. Pell didn't smile. He didn't need to.
 
 "Brooks stays missing-persons," he said, "if the neighbor interview stays controlled." He set the folio on the table. "Controlled means drip. I'm present. What you saw comes out in pieces, in my order."
 
@@ -165,7 +165,7 @@ Nolan laughed once. Ugly. "Tell her the rest, Marcus."
 
 Pell didn't look at him. "Which is exactly why it stays out of the statement."
 
-Her face burned. Her nipples were still tight against the silk. Her body hadn't gotten the memo. Her body was still standing at the window with his fingers inside her.
+Her face burned. Her nipples were still tight against the silk. Her body hadn't caught up. Her body was still standing at the window with his fingers inside her.
 
 "You've buttoned that wrong," Pell said to her, mildly. "Fix it before the detective comes up."
 
@@ -191,9 +191,9 @@ Nolan's thumb moved once, slow, over the silk at the top of her thigh. Her knees
 
 Pell's footsteps started back toward them.
 
-Nolan didn't move his hand. She didn't let him.`,
+Nolan didn't take his hand away. She didn't let him.`,
   choices: [
-    { id: "scene5c", text: "Accept Pell's controlled drip — let counsel sand what you saw", textHot: "Accept Pell's controlled drip — let counsel sand what you saw while Nolan watches your mouth" },
-    { id: "scene5d", text: "Refuse counsel — raw-admit weekly to monthly to gone", textHot: "Refuse counsel — raw-admit the cadence with your want still bruised and loud" }
+    { id: "scene5c", text: "Accept Pell's controlled drip — let counsel sand what you saw", textHot: "Accept Pell's controlled drip — let counsel sand it while Nolan watches" },
+    { id: "scene5d", text: "Refuse counsel — say weekly, monthly, gone in your own words", textHot: "Refuse counsel — say it raw, your want still bruised and loud" }
   ]
 };
