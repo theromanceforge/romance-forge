@@ -16,7 +16,7 @@ Will's knuckles brushed hers, not claiming, offering. "I kept a sealed IA file f
 
 They walked the pier at noon. Festival ghosts lived in the chain-link and the salt. The foghorns rolled low. The yellow tape lived only in memory. It was a small gathering: Ellison; Cho, with her clinical kindness; a reporter who would get the honest version instead of the rumor; neighbors who'd gossiped Renny into a runaway for seven years and now had to learn a harder grammar.
 
-[player_name] spoke first, her voice steady. She named the night. She named Owen near the water with someone who shouldn't have been there. She named her omission. She named the remains. She named Renny Irene as murdered and mourned, and no longer a maybe.
+[player_name] spoke first, her voice steady. She named the night. She named Owen near the water with someone who shouldn't have been there. She named her omission. She named the remains. She named Irene—Renny—as murdered and mourned, and no longer a maybe.
 
 Will spoke second: the case closed in daylight, the clerk charged, the chain mapped, the cold file retired. He didn't make it about the romance. He made it about a teenager who'd deserved better than Harborwick's appetite for unfinished stories. When he finished, his hand found the small of [player_name]'s back, public and irreversible. Ellison's side-eye softened into something like reluctant respect.
 

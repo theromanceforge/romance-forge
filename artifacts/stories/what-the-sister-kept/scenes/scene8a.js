@@ -4,7 +4,7 @@ export default {
   title: "Journal public: name the chain",
   text: `Rain silvered Harborwick's precinct steps like a second set of handcuffs. Wet iron, pier salt on the wind, foghorns arguing beyond the warehouse roofs. [player_name] stood under the ugly overhang with Renny's cracked purple journal against her ribs, and Will at her shoulder like a weather system that had decided to stay. Charcoal jacket over a shirt that still smelled faintly of burnt precinct coffee.
 
-The scar through his left eyebrow. Eyes bloodshot and sharp. His charm was filed down to a public edge; he watched the press pack gathering at the bottom of the steps like a second interrogation room with worse lighting. Captain Mara Ellison had wanted a sealed drip. She wasn't getting one. The journal was going into daylight: Warehouse C, midnight trucks that didn't match any shipping board, clerk initials M.K., Owen Vale's late nights in a teenager's looping script. Harborwick was about to learn that Renny had been looking at the city's throat while the official story still pretended she'd run.
+The scar through his left eyebrow. Eyes bloodshot and sharp. His charm was filed down to a public edge; he watched the press pack gathering at the bottom of the steps like a second interrogation room with worse lighting. Captain Mara Ellison had wanted a sealed drip. She wasn't getting one. The journal was going into daylight: Warehouse C, midnight trucks that didn't match any shipping board, clerk initials M.H., Owen Vale's late nights in a teenager's looping script. Harborwick was about to learn that Renny had been looking at the city's throat while the official story still pretended she'd run.
 
 "Last chance to walk it back," Will said quietly, his mouth near her ear, not quite touching. "Once your sister's handwriting hits those mics, Ellison can't soft-pedal the clerk. Owen's name stops being a family whisper. The press will invent a corpse before Cho finishes speaking. Don't let them. You name the chain. You don't name bone." [player_name] had bitten her cheek. Dr. Lila Cho's unidentified remains upriver still waited in careful language: an age range that could fit, a charm that could match the missing bracelet piece still upstairs in Renny's room, lab ID pending.
 
@@ -26,7 +26,7 @@ Attraction was a stupid animal to bring onto precinct steps, and it came anyway:
 
 Will's notebook opened at her elbow. Witness, not puppeteer. He read chain-of-custody timestamps in a voice that made paperwork sound like a vow. Ellison's tablet lit her chin from below like a second, uglier dawn. Questions started: Owen's whereabouts, the clerk's full name, whether Will was sleeping with the witness, whether the charm meant Renny was dead. Will shut the last one down with a look that could have stopped a truck.
 
-"Charm probability isn't an ID," he said. "Ask Cho. Ask science. Don't ask grief to do your job." The pack surged. [player_name]'s palms dampened the leather until Renny's certainty felt warm again, teenage and terrible and finally outdoors. Owen's name moved through the crowd like a live wire. M.K. became a hunt. Warehouse C became a destination. Ellison's eyes promised a sealed-room reckoning that wouldn't wait for the rain to stop.
+"Charm probability isn't an ID," he said. "Ask Cho. Ask science. Don't ask grief to do your job." The pack surged. [player_name]'s palms dampened the leather until Renny's certainty felt warm again, teenage and terrible and finally outdoors. Owen's name moved through the crowd like a live wire. M.H. became a hunt. Warehouse C became a destination. Ellison's eyes promised a sealed-room reckoning that wouldn't wait for the rain to stop.
 
 A reporter near the front shoved a phone closer. "If the journal is real, why did you withhold the pier night for seven years?" The question landed like a hand on her sternum. Will went still beside her. He didn't step in or steal the answer. He gave her the space, the way he gave her coffee.
 
@@ -63,7 +63,7 @@ Ellison appeared in the glass doors, tablet under her arm, mouth a line. "Akers.
 
 "Honest," Will said. When Ellison's gaze flicked toward the hallway he never opened, his jaw flexed and his hand stayed on [player_name]'s back like a brand. Damaged men shouldn't be this hot. She wanted to lick the damage off his throat between soundbites.
 
-[player_name] stepped to the mics and read the chain into Harborwick's weather: Warehouse C, clerk M.K., Owen's late nights, the pier night finally outdoors. "I'm not naming unidentified remains as hers," she said, voice ruined and holding. "Lab pending."
+[player_name] stepped to the mics and read the chain into Harborwick's weather: Warehouse C, clerk M.H., Owen's late nights, the pier night finally outdoors. "I'm not naming unidentified remains as hers," she said, voice ruined and holding. "Lab pending."
 
 Questions surged: Owen, the clerk, whether the detective was sleeping with the witness. "Charm probability isn't an ID," Will said. "Ask Cho." Behind the journal, his free hand found the inside of her wrist and squeezed once.
 

@@ -45,7 +45,7 @@ Will pulled the hard chair out for her. The courtesy felt intimate in a building
 
 Through the wired glass, Captain Ellison's gaze snagged on Will. Not a greeting. A side-eye with teeth. Will didn't return it. "Ellison gave us thirty," he said, low enough to live behind the sternum. "Conversational if you cooperate. Formal if you lawyer. Your call. The file stays hungry either way."
 
-She sat. The clock ticked against her collarbone. Renny rose in her—sixteen, festival, hoodie, bracelet missing its tiny anchor—and with Renny came the other heat: unidentified remains under Cho's care, a charm that might be a sister's and might be a stranger's, hope and dread sharing the same seat in her gut. Will's eyes on her did not help.
+She sat. The clock ticked against her collarbone. Renny rose in her—sixteen, festival, hoodie, bracelet missing its tiny anchor—and with Renny came the other weight: unidentified remains under Cho's care, a charm that might be a sister's and might be a stranger's, hope and dread sharing the same seat in her gut. Will's eyes on her did not help.
 
 Photographs. Pier. Tape. Renny's grin. The old bracelet inventory. Then the upriver charm beside a ruler, and Will's fingertip on the photo's edge as if steadying something that wanted to cut. "Cho's prelim," he murmured, close enough that coffee and rain and clean soap reached her. "Partial. Age range wide. No dental lock. No DNA yet. I'm asking for familial comparison without promising you a corpse with your sister's name. I need festival night again. Not the statement from when you were eighteen. The one your mouth keeps swallowing."
 

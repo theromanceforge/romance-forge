@@ -12,7 +12,7 @@ When Captain Ellison had almost named his old partner two nights ago, Will had t
 
 Dr. Lila Cho's remains upriver still waited in careful language: an age range that could fit; a charm that could match; lab ID pending. The remains weren't Renny until science said so. The letter might not care about science. Attraction hummed under the lamp heat anyway: Will's knuckles pale against the pillowcase, the tired set of his mouth, the badge on the dresser.
 
-[player_name] picked up the page. Pier salt leaked through the cracked window. Downstairs a radiator knocked. She read. If you are reading this, something went wrong and Owen is still explaining. Renny named Warehouse C, clerk initials M.K., sealed crates under foghorn cover. Plainer than the journal, crueler for the plainness. Then the line that made [player_name]'s vision tunnel: I saw him move a girl once. Not me. Someone quieter. If I disappear, don't let him tell you I ran. Ask William Akers if he still works Harborwick. Badges can be wrong, but silence is worse.
+[player_name] picked up the page. Pier salt leaked through the cracked window. Downstairs a radiator knocked. She read. If you are reading this, something went wrong and Owen is still explaining. Renny named Warehouse C, clerk initials M.H., sealed crates under foghorn cover. Plainer than the journal, crueler for the plainness. Then the line that made [player_name]'s vision tunnel: I saw him move a girl once. Not me. Someone quieter. If I disappear, don't let him tell you I ran. Ask William Akers if he still works Harborwick. Badges can be wrong, but silence is worse.
 
 Will went very still. His name, written years before he knocked on [player_name]'s door with a warrant and a look that said he knew she kept something, landed between them like a third pulse.
 
@@ -36,7 +36,7 @@ Rain hit the glass harder. Will shifted closer, his knees almost bracketing hers
 
 "I've buried things," he said, flat enough to cut. "I'm allergic to watching you bury this now that it has a voice. That isn't the same as saying you owe the city every vowel tomorrow morning. You owe Renny the honesty you just spoke. You owe yourself a decision about whether I'm part of the dawn that comes after."
 
-She thought of Ellison's tablet light, of Warehouse C and clerk M.K., of Owen's too-calm mornings, of a teenager who'd researched cold-case detectives while she still had breath. The letter's only if had happened: something had gone wrong, Owen was still explaining, and [player_name] had finally stopped explaining with him.
+She thought of Ellison's tablet light, of Warehouse C and clerk M.H., of Owen's too-calm mornings, of a teenager who'd researched cold-case detectives while she still had breath. The letter's only if had happened: something had gone wrong, Owen was still explaining, and [player_name] had finally stopped explaining with him.
 
 "I can love you in a hospital hallway," Will added, softer, almost wrecked. "I can respect you if you walk the pier and choose a bus out of Harborwick. I can't do both kinds of careful in the same breath while your sister's handwriting is still warm from your mouth. Pick the dawn. I'll walk it."
 
@@ -51,7 +51,7 @@ His badge was on the dresser, his notebook on the floor. Will lay facing her, kn
 
 She picked up the page with shaking hands. His knuckles brushed her wrist, and the contact steadied her.
 
-She read. If you are reading this, something went wrong and Owen is still explaining. Warehouse C. Clerk M.K. Foghorn cover. I saw him move a girl once. Not me. Someone quieter. Badges can be wrong, but silence is worse. Every sentence landed in her chest, and Will watched her face like a man keeping vigil, one hand flat on her back, asking for nothing.
+She read. If you are reading this, something went wrong and Owen is still explaining. Warehouse C. Clerk M.H. Foghorn cover. I saw him move a girl once. Not me. Someone quieter. Badges can be wrong, but silence is worse. Every sentence landed in her chest, and Will watched her face like a man keeping vigil, one hand flat on her back, asking for nothing.
 
 "A second victim," he said when she paused. "Not an ID. Keep reading. I'm right here until her last line." She kept reading, her voice ruined. Tell [player_name] I knew she saw Owen on the pier night. Tell her keeping it was love and also a mistake. Tell her silence is worse.
 

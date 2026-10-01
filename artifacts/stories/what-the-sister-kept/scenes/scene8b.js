@@ -8,7 +8,7 @@ Her pulse was hammering. Renny's cracked purple journal lay in a sealed evidence
 
 He was sleepless, his charm filed down to bargaining grammar for a captain who distrusted family witnesses and tired detectives equally. When Ellison's gaze flicked toward the sealed drawer where the IA ghosts lived, Will's knuckles flexed once against his notebook. He didn't say hallway. Pressure only.
 
-"Private," Ellison said, as if the word could leash daylight. "You bring me a teenager's smuggling chain: Warehouse C, clerk initials M.K., Owen Vale's late nights. And you ask for seals instead of a circus. Tell me why I should spend political capital protecting a family contact who withheld a pier night for seven years, and a detective whose closeness to that contact is already an IA-shaped rumor."
+"Private," Ellison said, as if the word could leash daylight. "You bring me a teenager's smuggling chain: Warehouse C, clerk initials M.H., Owen Vale's late nights. And you ask for seals instead of a circus. Tell me why I should spend political capital protecting a family contact who withheld a pier night for seven years, and a detective whose closeness to that contact is already an IA-shaped rumor."
 
 Renny, a teenager when she vanished, missing seven years, still wasn't confirmed among the dead. This bargain wasn't a burial. It was a knife with a sheath.
 

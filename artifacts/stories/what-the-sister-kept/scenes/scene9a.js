@@ -4,7 +4,7 @@ export default {
   title: "Trial path: testify against Owen fully",
   text: `Harborwick Courthouse smelled like wet wool and floor wax. Rain needled the tall windows. Foghorns answered the river like unpaid witnesses. [player_name] sat in the hard witness chair. Renny's journal lay on the prosecutor's table, logged as Exhibit C. Will sat in the gallery two rows back, in charcoal, still as a closed notebook, his eyes on her mouth as if her next sentence were a fuse he'd already agreed to hold.
 
-Owen Vale sat at the defense table in a suit that tried to look like remorse and mostly looked like money. For seven years she'd kept him off her official statement. Admitting she'd seen him near the pier the night Renny vanished would have blown what was left of the house apart. Testifying fully meant no soft edges. It meant Warehouse C, the clerk's initials, M.K., the midnight trucks, and the pier night, spoken under oath without mercy.
+Owen Vale sat at the defense table in a suit that tried to look like remorse and mostly looked like money. For seven years she'd kept him off her official statement. Admitting she'd seen him near the pier the night Renny vanished would have blown what was left of the house apart. Testifying fully meant no soft edges. It meant Warehouse C, the clerk's initials, M.H., the midnight trucks, and the pier night, spoken under oath without mercy.
 
 Captain Mara Ellison occupied the aisle end of the prosecution row like a weather system in a blazer. She had wanted a sealed drip once. She had gotten a docket instead. Dr. Lila Cho's unidentified upriver remains still waited in careful language on a side table of exhibits nobody was allowed to baptize: age range that could fit; a charm that could match the missing bracelet piece still upstairs in Renny's room; lab ID pending. Hope and dread shared the gallery like co-counsel who refused to leave. The remains were not Renny until science said so. Rumor had already tried to invent a funeral for ratings. Will shut rumor down every time a reporter found him in the hallway—pending was still the only honest word.
 
@@ -12,7 +12,7 @@ The bailiff swore [player_name] in. Her palm rested on a Bible that smelled like
 
 "On the night of the pier-side festival," the prosecutor asked, "did you see Owen Vale near Harborwick Pier?"
 
-"Yes," [player_name] said. The word scraped. "With someone who wasn't supposed to be there. Afterward I accepted his story that Renny had run off with friends. I kept him off my statement. Renny's journal names the smuggling and evidence-tampering chain, and I'm naming it under oath now. Warehouse C. The clerk, M.K. Owen's late nights." She held the prosecutor's eyes. "I'm not naming the unidentified remains as my sister's. Identification is pending. Hope is still allowed."
+"Yes," [player_name] said. The word scraped. "With someone who wasn't supposed to be there. Afterward I accepted his story that Renny had run off with friends. I kept him off my statement. Renny's journal names the smuggling and evidence-tampering chain, and I'm naming it under oath now. Warehouse C. The clerk, M.H. Owen's late nights." She held the prosecutor's eyes. "I'm not naming the unidentified remains as my sister's. Identification is pending. Hope is still allowed."
 
 In the gallery, Will's knuckles flexed against his notebook's spine. The defense attorney's gaze flicked toward the aisle, almost naming a sealed IA file, almost saying Nina Solis the way lawyers say warnings. Will didn't flinch for the gallery. The old raid hummed under his badge anyway: a partner's fall, a hallway, a silence that rhymed too closely with a sister kept quiet.
 
@@ -51,7 +51,7 @@ A bailiff called for the parties to return. Downriver, a foghorn answered, lonel
 "You put him under the lights without inventing a corpse," Will said, almost a vow. "Now choose what kind of ending the lights get to keep. Daylight with me, or the cut that buries Owen so clean the city can't pretend the pier night was weather."`,
   textHot: `Harborwick Courthouse smelled like wet wool and floor wax, and the air was already too warm for fluorescent justice. Rain needled the tall windows. She sat in the hard witness chair, the journal logged as Exhibit C. Will sat in the gallery two rows back in charcoal, the scar through his left eyebrow pale. His eyes dragged over her mouth before he forced them to Owen Vale at the defense table, as if professionalism were a restraint he was choosing to keep on for her sake.
 
-Owen wore remorse like a suit that didn't fit. Today meant full testimony. No soft edges. Warehouse C. The clerk, M.K. The pier night, under oath.
+Owen wore remorse like a suit that didn't fit. Today meant full testimony. No soft edges. Warehouse C. The clerk, M.H. The pier night, under oath.
 
 Captain Mara Ellison sat aisle-end like weather in a blazer. Dr. Lila Cho's unidentified upriver remains still waited unnamed on the side table: lab pending, hope and dread sharing [player_name]'s pulse.
 

@@ -28,6 +28,8 @@
 
 **Canonical ages (locked):** Renny 16 when she vanished, 7 years ago (23 if alive). [player_name] about 18 then, about 25 now. Will mid-30s. No minor is present, named or remembered inside any sexual moment (Warm or Hot); Renny's objects (bracelet/charm, hoodie, room, posters, photos, letters, journal, flyer) stay out of sex beats.
 
+**Continuity canon (locked):** The clerk is **Marcus Hale** (city licensing desk / Port Authority routing); Renny's journal and letter mark him as **M.H.** He is the man who silenced her. Whether he is caught (9e → charged in the endings) or escapes (9f → still at large in 10d/10j) is a branch choice. Owen is in custody on the 6h/6i arrest paths (visitation in 7i/8i) and out on conditions in 7j/8j; nothing claims he was never booked. Renny's silver charm bracelet was already **missing its tiny anchor by dusk** on festival night. Her given name is **Irene**; everyone calls her **Renny**.
+
 ---
 
 ## Setting — Harborwick

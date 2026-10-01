@@ -20,7 +20,7 @@ He'd stand in her kitchen while she destroyed what he'd asked permission to find
 
 The flame caught. She held it to the corner of Renny's loops (Ask William Akers if he still works Harborwick) and watched the ink darken, curl, lift. Will held the bowl. His knuckles went pale on the metal rim. Smoke rose thin and bitter, pier salt leaking through the cracked window as if Harborwick wanted to smell what they were doing. Chain-link rattled in the alley.
 
-The page blackened through Warehouse C, through M.K., through Owen is still explaining, through silence is worse. Her eyes watered. Smoke, grief, both. Will didn't look at the fire. He looked at her face in the firelight as if memorizing the cost.
+The page blackened through Warehouse C, through M.H., through Owen is still explaining, through silence is worse. Her eyes watered. Smoke, grief, both. Will didn't look at the fire. He looked at her face in the firelight as if memorizing the cost.
 
 When the last corner collapsed into the bowl, he ran tap water over the embers until the hiss sounded like a foghorn's smaller cousin. Black flakes floated. The kitchen smelled like extinguished weather. Renny's only if wasn't paper anymore. It was a decision with a smell.
 

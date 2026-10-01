@@ -56,7 +56,7 @@ They sat with the engine ticking heat into fogged glass. Will flipped the notebo
 
 "If we go badge," Will answered, "we might walk into Internal Affairs weather that eats soft nets for breakfast." He turned his head. Late smile. Wound showing. "I've survived worse breakfasts. You get the map Marta drew in fryer smoke. Choose which line we darken first."
 
-Pier salt crept through the vents. [player_name] closed her eyes and saw Renny's bracelet flashing beside a generator's roar, whole and pretty, not yet missing the charm that would one day sit in an evidence bag. When she opened her eyes, Will was watching her as if her decision were another kind of confession.
+Pier salt crept through the vents. [player_name] closed her eyes and saw Renny's bracelet flashing beside a generator's roar, pretty and already gapped where the tiny anchor should have hung, the missing charm that might one day sit in an evidence bag. When she opened her eyes, Will was watching her as if her decision were another kind of confession.
 
 "I'll hate leaving either," she whispered.
 
