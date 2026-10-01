@@ -22,11 +22,14 @@ describe('landing scroll preservation', () => {
     );
   });
 
-  it('story pick reveals spice meter + Begin in overlay and window, after async re-render', () => {
-    expect(main).toMatch(/revealSpiceMeter\(\);\s*\/\/[^\n]*\n[^\n]*\n\s*refreshReadersSay\(id\)\.finally\(/);
-    expect(main).toMatch(/if \(state\.view === 'landing' && state\.storyId === id\) revealSpiceMeter\(\)/);
+  it('story pick reveals spice meter + Begin above the sticky bar, surviving async re-renders', () => {
+    expect(main).toMatch(/_revealUntil = Date\.now\(\) \+ \d+;\s*revealSpiceMeter\(\);/);
+    expect(renderFn).toMatch(/if \(Date\.now\(\) < _revealUntil\) revealSpiceMeter\(\)/);
+    expect(main).toMatch(/\['wheel', 'pointerdown', 'keydown'\][\s\S]{0,120}_revealUntil = 0/);
     const reveal = main.slice(main.indexOf('function revealSpiceMeter'), main.indexOf('function bindEvents'));
-    expect(reveal).toMatch(/overlay\.scrollTop \+= delta/);
-    expect(reveal).toMatch(/window\.scrollBy\(0, dy\)/);
+    expect(reveal).toMatch(/querySelector\('\.sticky-begin'\)/);
+    expect(reveal).toMatch(/const viewBottom = window\.innerHeight - stickyH/);
+    expect(reveal).toMatch(/overlay\.scrollTop \+= delta\(Math\.max\(o\.top, 0\), Math\.min\(o\.bottom, viewBottom\)\)/);
+    expect(reveal).toMatch(/delta\(0, viewBottom\)/);
   });
 });

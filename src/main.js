@@ -1019,6 +1019,8 @@ function trackViewTransition() {
 }
 
 let _renderedView = '';
+/** Until this time (ms), landing re-renders re-run revealSpiceMeter(). */
+let _revealUntil = 0;
 
 function render() {
   // Landing re-renders (story / spice pick) replace the whole DOM, which resets
@@ -1038,6 +1040,9 @@ function render() {
         app.querySelector(`[data-testid="${focusId}"]`)
       )?.focus({ preventScroll: true });
     }
+    // Async re-renders (readers-say, review stars, auth) resize content above
+    // the meter after a story pick; keep it revealed until the reader scrolls.
+    if (Date.now() < _revealUntil) revealSpiceMeter();
   } else if (state.view === 'reader' && _renderedView === 'landing') {
     window.scrollTo(0, 0);
   }
@@ -1055,6 +1060,16 @@ function revealSpiceMeter() {
   const meter = app.querySelector('[data-testid="spice-meter"]');
   const begin = app.querySelector('[data-testid="start-btn"]') || meter;
   if (!meter || !begin) return;
+  // Reserve the fixed sticky Begin bar (mobile only; display:none on desktop).
+  const bar = /** @type {HTMLElement | null} */ (app.querySelector('.sticky-begin'));
+  let stickyH = 0;
+  if (bar) {
+    const wasHidden = bar.hidden;
+    bar.hidden = false;
+    stickyH = bar.getBoundingClientRect().height;
+    bar.hidden = wasHidden;
+  }
+  const viewBottom = window.innerHeight - stickyH;
   // Shift so [meter top, Begin bottom] fits in [top, bottom]; meter top wins.
   const delta = (top, bottom) => {
     const m = meter.getBoundingClientRect();
@@ -1066,9 +1081,9 @@ function revealSpiceMeter() {
   const overlay = meter.closest('.cover-overlay');
   if (overlay) {
     const o = overlay.getBoundingClientRect();
-    overlay.scrollTop += delta(o.top, o.bottom);
+    overlay.scrollTop += delta(Math.max(o.top, 0), Math.min(o.bottom, viewBottom));
   }
-  const dy = delta(0, window.innerHeight);
+  const dy = delta(0, viewBottom);
   if (dy) window.scrollBy(0, dy);
 }
 
@@ -1080,12 +1095,9 @@ function bindEvents() {
       if (!id) return;
       track('story_click', { storyId: id, meta: { via: 'card' } });
       setState({ storyId: id });
+      _revealUntil = Date.now() + 4000;
       revealSpiceMeter();
-      // readers-say fetch re-renders (and resizes the strip above the meter):
-      // reveal again once it settles.
-      refreshReadersSay(id).finally(() => {
-        if (state.view === 'landing' && state.storyId === id) revealSpiceMeter();
-      });
+      refreshReadersSay(id);
     });
   });
 
@@ -1570,6 +1582,9 @@ function bindEvents() {
 }
 
 // Boot
+['wheel', 'pointerdown', 'keydown'].forEach((type) =>
+  window.addEventListener(type, () => { _revealUntil = 0; }, { passive: true })
+);
 bindOutboundTracking();
 render();
 
