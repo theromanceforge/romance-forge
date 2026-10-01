@@ -85,7 +85,7 @@ She had shown him almost everything. Voss. The numbers. The softened drafts. The
 
 He came around the booth without asking. Rain ticked the awning. He set his palm flat over the fold, over paper and bra and the frantic beat beneath, and pressed until she gasped. "There. Protection with a body count. What's on the page, [player_name]?"
 
-Heat punched through her. "Henry's request, raw," she managed. "The girl will carry the story so the boy does not learn how close ruin came. My agreement, itemized. The creditor's shadow. The sum under the sum. Clara circled the edges. I stole the center."
+Heat punched through her. "Henry's request, raw," she managed. "The girl will carry the story so the boy does not learn how close ruin came. My agreement, itemized. The creditor's shadow. The sum under the sum. The edges are circled. I stole the center."
 
 "Christ." John's forehead dropped to hers. When he stepped in, his cock was already a thick line against her hip, anger and arousal refusing separate rooms. "You hid the part that makes you an invoice. And you did it while I was hard under the table, listening to Voss's name like it was dirty talk. Do you understand how fucked that is?"
 
@@ -105,7 +105,7 @@ His other hand popped the button of her jeans, slid in over soaked cotton, and p
 
 "John—fuck—"
 
-He circled, exact and merciless, the paper warming between his palm and her breast. "Show me, and you read it while my fingers are in your jeans, so you can't pretend the truth is separate from how wet you get on shame. Or take it to Clara while you're still shaking, and let her tell you whether this center sentences you before I get to taste it. Either way, this hour ends with your pocket empty. Either way, I stay hard through the verdict."
+He circled, exact and merciless, the paper warming between his palm and her breast. "Show me, and you read it while my fingers are in your jeans, so you can't pretend the truth is separate from how wet you get on shame. Or take it up to Willow while you're still shaking, and find out there whether this center sentences you before I get to taste it. Either way, this hour ends with your pocket empty. Either way, I stay hard through the verdict."
 
 Rain sheeted. [player_name] rolled into his hand, chasing, hating how much the threat of the page sharpened the pleasure. He eased back just enough for speech to return, though his cock stayed pressed to her hip and the folded sheet stayed branded to her skin.
 
@@ -127,7 +127,7 @@ She laughed, shaky and filthy with honesty. "You make justice sound like oral se
 
 He paced a tight line between the booth and the pie case, adjusting himself once with a blunt shamelessness that made her mouth go dry.
 
-"Every time you protect me, my body hears abandon," he said. "Every time you hide a page, I get hard and furious in the same breath, because the shrine I built was also a bed I never got to share with the real you. Clara's reading might save us from a bad swing. Showing me anyway might finally let me stop fucking a ghost in my head when the woman is standing here soaked and scared."
+"Every time you protect me, my body hears abandon," he said. "Every time you hide a page, I get hard and furious in the same breath, because the shrine I built was also a bed I never got to share with the real you. Taking it up the hill first might save us from a bad swing. Showing me anyway might finally let me stop fucking a ghost in my head when the woman is standing here soaked and scared."
 
 "If I show you," [player_name] said, her voice rough, "you read it with your hands off me long enough to hear the words. Or with your hands on me, and we admit the invoice and the want are one negotiation. If I go to Clara, I walk through the rain with this page under my coat, and you don't follow until she speaks."
 

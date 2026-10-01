@@ -67,15 +67,15 @@ Rain thickened until speech had to lean closer. Clara's shoulder pressed [player
 Henry's voice carried faintly from the porch. Her name, then John's, then nothing, as if even he understood that entering the shed would make him the story again. The notebook's rubber band waited to snap. A draft from the warped door lifted the ledger's next page, almost turning it on its own.
 
 "I'm not leaving this crate blank," Clara said. "Someone turns the page. Tell me who."`,
-  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm, brass cold, string rough, while the rest of her stayed stupidly fixed on John. His wet diner jacket clung to his shoulders. His throat worked. The heat of him walked one step behind her like a hand at the small of her back that hadn't landed yet. Digging shouldn't make her wet. It did. Fear and wanting shared a bloodstream, and she had stopped pretending otherwise somewhere between Clara's sketches and his climb up the wet hill.
+  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm, brass cold, string rough, while the rest of her stayed stupidly fixed on John. His wet diner jacket clung to his shoulders. His throat worked. The heat of him walked one step behind her like a hand at the small of her back that hadn't landed yet. Digging shouldn't make her wet. It did. Fear and wanting shared a bloodstream, and she had stopped pretending otherwise somewhere on his climb up the wet hill.
 
 Clara took the key. "Margins first. Then the tin. He doesn't narrate."
 
 Henry stayed in the study. John followed them through the boxwood into the shed's gasoline-and-rope dark. When Clara pulled the bulb chain, yellow light hit John's mouth, and [player_name] felt herself clench around nothing, traitorous and honest. She wanted his hands on the evidence. She also wanted his hands on her. The night wasn't going to rank those cleanly.
 
-"Open it," John said, his voice rough. He stood close behind her, and when she braced the tin for Clara, his chest brushed her shoulder blades, solid and damp and breathing too fast. Her nipples went hard under her wet shirt. She didn't step away.
+"Open it," John said, his voice rough. He stood close behind her, and when she braced the tin, his chest brushed her shoulder blades, solid and damp and breathing too fast. Her nipples went hard under her wet shirt. She didn't step away.
 
-The tin gave. Paper smell. Oilcloth. Green ledger cloth. Clara set her sketches beside it: John's hands, drawn in charcoal with an accuracy that made [player_name]'s mouth go dry, because she knew those hands now as heat and pressure, not graphite.
+The tin gave. Paper smell. Oilcloth. Green ledger cloth. Clara set her sketches beside it: John's hands, drawn in charcoal with an accuracy that made [player_name]'s mouth go dry.
 
 Clara flipped pages, flashlight steady, focused on numbers because someone had to be. Forty-eight thousand. Twelve more. Voss, erased light. His father's signature on a wrong line. John's forehead dropped to [player_name]'s temple as the grief punched out of him. His hand flattened on her belly under her coat, possessive and shaking.
 
@@ -113,7 +113,7 @@ John turned a page. Numbers. Skips. Voss. His hand stayed where it was like a vo
 
 She let go and left him aching. A fair trade for the unfinished stroke between her legs.
 
-Outside, Henry called once from the porch, thin and far. Clara answered something sharp. John's fingers twitched on her clit without granting the stroke, fury translated into almost-pleasure. [player_name] bit her lip hard enough to taste copper. She could push his hand deeper and take what her body screamed for. She could step away and call Clara back in, and let the flashlight be the only heat in the shed.
+Outside, Henry called once from the porch, thin and far. John's fingers twitched on her clit without granting the stroke, fury translated into almost-pleasure. [player_name] bit her lip hard enough to taste copper. She could push his hand deeper and take what her body screamed for. She could step away and open the shed door, and let the flashlight be the only heat in the shed.
 
 She could still feel the shape of him in her palm after she let go. He could still feel her flutter against his still fingers when he'd read the line about wanting more. Neither of them moved to finish. Finishing would have been mercy, and mercy was Henry's word. It had no place on this oilcloth.
 

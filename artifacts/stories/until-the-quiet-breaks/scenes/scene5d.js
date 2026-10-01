@@ -59,7 +59,7 @@ John kissed her then, finally, deep and grateful and filthy with restraint spent
 
 "Tell me where," he murmured against her throat, teeth grazing. "Tell me stop if the demand comes back early. Otherwise I'm going to take the soft hour you refused and make it honest another way. Your pleasure in my hands. My name in your mouth. No lies between your legs, even if the ledger waits for dawn."
 
-[player_name] guided his hand to the button of her jeans. He groaned like a prayer. His fingers worked the denim open, slid beneath cotton, and found her already wet from hours of denial. He stroked her with work-rough patience, the burn scar a secret against sensitive skin, until she trembled in his lap and bit his shoulder to stay quiet for Clara's sake.
+[player_name] guided his hand to the button of her jeans. He groaned like a prayer. His fingers worked the denim open, slid beneath cotton, and found her already wet from hours of denial. He stroked her with work-rough patience, the burn scar a secret against sensitive skin, until she trembled in his lap and bit his shoulder to stay quiet.
 
 He took her over the edge with his thumb and two careful fingers, his mouth on hers to catch her cry. He held her through the shaking the way the rain held the town. When she slumped against him, wrecked and soft, he kissed her temple and didn't push for more.
 
@@ -69,7 +69,7 @@ She chose with her hands. She opened his jeans, wrapped him, stroked until his f
 
 They moved together under the blanket, deep and unhurried, then harder when thunder covered the sounds. Her nails dug into his shoulders. His mouth found her breast when he tugged her shirt higher. The booth creaked like an accomplice. She came again with him buried deep. He followed with a groan pressed to her throat, arms locked around her as if dawn might try to steal her and he had decided otherwise.
 
-After, they cleaned up with napkins and tenderness and dressed enough for dignity in case Clara came down. Then they tangled again under the wool. Small truths returned between kisses: cities without boxwood, lean years, almost-tickets home. His thumb at her jaw. Her leg over his hip. The letter waited on the far side of the booth like a chaperone they had ignored but not erased.
+After, they cleaned up with napkins and tenderness and dressed enough for dignity in case anyone came down. Then they tangled again under the wool. Small truths returned between kisses: cities without boxwood, lean years, almost-tickets home. His thumb at her jaw. Her leg over his hip. The letter waited on the far side of the booth like a chaperone they had ignored but not erased.
 
 "I'm still angry," John murmured into her hair, spent and honest. "I'm still glad. I'm still going to ask for the whole cover story when light comes, and I'm still going to remember how you felt around me when I ask." He tipped his forehead to hers. "Sleep if you can. We don't pretend sex erased the ledger. We use it as proof we can face the ledger without running."
 

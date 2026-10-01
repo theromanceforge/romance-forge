@@ -65,7 +65,9 @@ John's forehead stayed against hers. His breath shook. The kiss hung between the
 
 "Outside," she said, breath fogging. "Not the diner yet. Here. We decide what this family says next before Market Street decides for us."
 
-He made a sound that was half agreement, half groan, and steered her into the boxwood corridor along the house. Leaves slapped damp against her sleeve. Clara hesitated in the doorway. [player_name] tipped her chin: stay, watch him. Clara pulled the door to a seam of lemon-warm light. Alone enough. Not alone forever.
+He made a sound that was half agreement, half groan, and steered her into the boxwood corridor along the house. Leaves slapped damp against her sleeve.
+
+Clara hesitated in the doorway. [player_name] tipped her chin: stay, watch him. Clara pulled the door to a seam of lemon-warm light. Alone enough. Not alone forever.
 
 John backed her one step into the hedge until boxwood spines pricked her shoulders through cloth. He didn't kiss her. He breathed against her cheek, nose brushing her temple, and let her feel how hard restraint sat in his body. Chest tight. Hips held carefully off hers. Hands shaking once at her waist before they steadied.
 
@@ -105,7 +107,7 @@ John's thumb stroked the seam of her jeans between her legs once, light and deva
 
 He waited, and the waiting was its own friction. His hand stayed between her legs over denim, pressure light enough to madden. Her hips tried to chase it. She gripped the fence rail behind her, wet wood biting her palms. She thought of how the burn scar would feel dragged slow along the inside of her thigh, and a soft, broken sound escaped her throat. John answered with another almost-kiss, his lip catching hers, tongue teasing the seam without entering.
 
-"Whatever I choose," she managed against his mouth, "you don't get to disappear into useful work after and call it space. You stay in the consequences. If it's Clara and a table, you stay. If it's my clothes half off in the wet, you stay after that too."
+"Whatever I choose," she managed against his mouth, "you don't get to disappear into useful work after and call it space. You stay in the consequences. If it's a table and a plan, you stay. If it's my clothes half off in the wet, you stay after that too."
 
 "I rebuilt a life out of not disappearing," he said, his voice gone to gravel. "I'm asking which consequence we walk into first. Pages on a table, or my mouth finally treating yours like I mean it."
 
@@ -121,7 +123,7 @@ Boxwood dripped cold down her collar and into the heat he had woken. His thumb d
 
 The porch seam brightened. A hesitant knock from the inside. Clara, muffled: "They're still out there—"
 
-John's hips pressed once, filthy and brief, then held agonizingly still. The kiss stayed unfinished on her lip where his thumb had opened her. Her cunt throbbed against nothing. Clara was twenty feet away, ready to be called. Henry's hand was on the knob. And John's mouth hovered a breath from hers, waiting for her to take it or turn her head and call her sister's name.`,
+John's hips pressed once, filthy and brief, then held agonizingly still. The kiss stayed unfinished on her lip where his thumb had opened her. Her cunt throbbed against nothing. Henry's hand was on the knob. And John's mouth hovered a breath from hers, waiting for her to take it or turn her head toward the door.`,
   choices: [
     { id: "scene6h", text: "Pull Clara into the wet — lock the family's order of truth", textHot: "Pull Clara into the wet — lock the truth before you let him finish the kiss" },
     { id: "scene6i", text: "Take his mouth in the boxwood — steal the hour before Henry opens", textHot: "Take his mouth in the boxwood — finish the kiss before the door opens" }

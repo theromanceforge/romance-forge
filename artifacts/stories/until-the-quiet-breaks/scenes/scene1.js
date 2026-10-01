@@ -36,7 +36,9 @@ She left anyway, carrying Henry's winter truth alone: debts, an accident, a fath
 
 Beyond the square, the old Shaw house breathed woodsmoke under wet eaves. Market Street waited with more appetite. Coffee steam fogged the diner windows. Fryer oil and pie spice braided into the rain. The cracked counter stool John never replaced. The blue door that stuck the way wanting sticks: awkward, faithful, refusing to swing easy.
 
-Henry would be at Willow Lane with careful eyes and late courage. John would be at the diner with work-rough hands and a body she had mapped once in stolen minutes. Forearms dusted with flour. The low furnace of him when he leaned close. Coffee and soap and heat under his shirt. Clara, restless and sharp-eyed, might be in either place, hunting the paperwork that had finally forced Henry's pen.
+Henry would be at Willow Lane with careful eyes and late courage. John would be at the diner with work-rough hands and a body she had mapped once in stolen minutes. Forearms dusted with flour. The low furnace of him when he leaned close. Coffee and soap and heat under his shirt.
+
+Clara, restless and sharp-eyed, might be in either place, hunting the paperwork that had finally forced Henry's pen.
 
 [player_name] touched the letter through her coat and felt the choice settle, not only in her bones but lower, a slow, inconvenient pulse she would not name on a public platform. The afternoon still belonged to her. She could walk toward the man she had almost been brave enough to take to bed and keep. Or toward the uncle who taught her that some truths were kinder unnamed. Neither path was soft. Both led through the same rain, which slicked her throat when she swallowed.
 

@@ -53,7 +53,9 @@ Henry's next knock was softer, almost resigned. The coffee had gone cold in the 
 
 [player_name] did not go to the door.
 
-She caught Clara's wrist and tugged her toward the back booth before the second knock could become a voice. John came with them, eyes dark, the unfinished kiss still on his mouth. His body remembered hers: the press of hips at the counter, the sound she had made into his mouth, the hard heat the papers had interrupted but not cancelled.
+She caught Clara's wrist and tugged her toward the back booth before the second knock could become a voice. John came with them, eyes dark, the unfinished kiss still on his mouth.
+
+His body remembered hers: the press of hips at the counter, the sound she had made into his mouth, the hard heat the papers had interrupted but not cancelled.
 
 "Booth," [player_name] said. Not loud. Not for Henry. "All of us. Now."
 
@@ -71,25 +73,27 @@ John turned the sheet with his free hand. His thumb stroked the inside of [playe
 
 "A debt that wasn't only money," Clara said. "Receipts from a man named Voss. An old exchange number on the back." She slid a softer page free. "And this is the draft Henry never mailed you. He makes it softer each try. The first try still has the accident. Ice. Your father. The glove box. The part where she agreed to become the story so you wouldn't carry the uglier one."
 
-The booth shrank around heat and ink. John's thigh pressed hers, deliberate now, a brace and a claim. Shame sat in her like a swallowed coin. Hunger had nowhere to go with Clara across the table and the truth in her hands. [player_name] read her own exile written as mercy.
+The booth shrank around heat and ink. John's thigh pressed hers, deliberate now, a brace and a claim. Shame sat in her like a swallowed coin. [player_name] read her own exile written as mercy.
 
 "There's more," Clara whispered, eyes on her brother. "A page I almost didn't bring. The ugliest one. It names what Voss threatened. What Henry traded besides money. Your father's signature on a line that shouldn't exist if the story was clean." She swallowed. "I circled it in red. Red means it scared me. Red means I didn't know how to draw it."
 
 Under the table John's calf hooked hers. He didn't look away from his sister. "Put it on the table. All of it. I'm done learning my life through softened versions, even if the real ones make me want to break something."
 
-Clara looked at [player_name], asking whether the woman who had practiced silence would flinch now. [player_name] nodded once. The nod cost her. John's eyes darkened as he registered her courage, as if it were another kind of arousal.
+Clara looked at [player_name], asking whether the woman who had practiced silence would flinch now. [player_name] nodded once. The nod cost her. John's eyes darkened as he registered her courage.
 
 The red-circled page came out last. Voss in the header like a stain. Terms. A winter date. A signature that made John's breath leave him in a short, broken sound against her shoulder. She felt it in her ribs and between her legs alike, grief and want refusing to take turns.
 
 "He's still out there," Clara said softly. "What do we do with what we know before he decides the story again?"
 
-Clara went upstairs for water and a moment of air, not leaving the night, only thinning the booth's privacy. In that brief absence John turned fully toward [player_name]. His mouth found the hinge of her jaw. Not a kiss. A brand of heat. His hand slid higher on her thigh, still over denim, still waiting on her word.
+Clara went upstairs for water and a moment of air.
+
+In that brief absence John turned fully toward [player_name]. His mouth found the hinge of her jaw. Not a kiss. A brand of heat. His hand slid higher on her thigh, still over denim, still waiting on her word.
 
 "I keep thinking about the counter," he murmured against her skin. "Your sound in my mouth. How close we were." He drew back enough to meet her eyes, grey gone nearly black. "The papers don't cancel that. They make it mean more. If I learn the worst with you beside me, I want to know you'll still let me touch you after. Not as forgetting. As proof."
 
 She cupped his face and traced the tired line beside his mouth. She wanted to pull him in and finish the almost until the booth forgot Henry existed. She also wanted the red circle not to become one more kindness that left him guessing.
 
-Clara's footsteps came back down the stairs, deliberate, giving warning. John's hand retreated to safer territory, though his eyes promised nothing had cooled. Clara set a glass of water on the table and, mercifully, said nothing about their faces.
+Clara's footsteps came back down the stairs, deliberate, giving warning. By then John's hands were on the table, on the papers, where they belonged. Clara set a glass of water down and sat.
 
 "Uncle's still under the lamp," she reported. She tapped the red circle. "I can put this page back in the sketchbook and we read the blue ones first. Or we stop pretending any page is optional."
 

@@ -77,7 +77,7 @@ He fucked her in strokes that matched the rain on the roof. Measured. Deep. Each
 
 He slowed on purpose, denying the finish, his burn scar white where he gripped the sheets, his forehead against hers. Her nipples ached against his chest. She fluttered around the thick, still length of him. Mae's gold light held across the wet walk.
 
-"Clara knocks like a dare," John groaned, hitching her knee higher and grinding against her clit with the base of his cock until her vision whitened. "She can dare the morning. Tonight belongs to this locked door and whatever sentence you put in my mouth before dawn."
+"Morning knocks like a dare," John groaned, hitching her knee higher and grinding against her clit with the base of his cock until her vision whitened. "She can dare the morning. Tonight belongs to this locked door and whatever sentence you put in my mouth before dawn."
 
 John pulled out only long enough to turn her onto her stomach, then sank back into her with a groan that vibrated through the mattress into the diner's bones. [player_name] turned her face into the pillow that smelled of him and coffee and clean sweat. He covered her, chest to back, mouth at her neck, one hand braced beside her head. The other slid under her to find her clit again with ruthless patience.
 

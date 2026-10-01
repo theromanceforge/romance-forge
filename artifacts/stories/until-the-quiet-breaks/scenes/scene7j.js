@@ -63,7 +63,7 @@ He stood and pushed the soft pants down, and his cock sprang free, flushed and w
 
 "Clara will hate whichever clock we pick if she feels left out," she whispered.
 
-"Clara hates secrets more than clocks." John caught her wrist and pinned it beside her hip as he nudged her thighs wider. "She can survive a week if the week has a name." He pushed into her in one slow, filthy glide. Stretching her. Filling her. He held deep while she shook.
+"Secrets hate clocks." John caught her wrist and pinned it beside her hip as he nudged her thighs wider. "A week can be survived if it has a name." He pushed into her in one slow, filthy glide. Stretching her. Filling her. He held deep while she shook.
 
 He fucked her in measured strokes that matched the rain on slate. Not rushed. Not gentle. Each thrust a question with weight. The radiator clicked. He held himself still inside her, jaw tight, denying the finish they both wanted until the calendar had a shape. She clenched around him on purpose, and he cursed softly into her hair, his hips stuttering once before he locked them down again.
 

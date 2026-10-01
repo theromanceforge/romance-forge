@@ -91,15 +91,15 @@ His laugh broke. He kissed her once, deep and filthy, then tore back, leaving he
 
 "I've held both of you for fifteen years," she said. "The boy who needed shelter. The man who rebuilt a diner. Which one gets the next hour?"
 
-Outside, a car hissed. John took her hand and put it on his cock over denim, honest and shaking. "Henry will call. Or show up. Or Clara comes down the hill demanding the rest of the syllable. It travels anyway. Choose who hears it first while I can still hear something besides how badly I want to come from your voice alone."
+Outside, a car hissed. John took her hand and put it on his cock over denim, honest and shaking. "Henry will call. Or show up. Or someone comes down the hill demanding the rest of the syllable. It travels anyway. Choose who hears it first while I can still hear something besides how badly I want to come from your voice alone."
 
 She squeezed him once through the cloth, felt him buck, and let go, because finishing would have been escape.
 
-John pressed his mouth to her knuckles, then opened her hand and put his tongue to the center of her palm. Wet. Unfinished. "I'm done pretending protection is the only way I get to love you," he said. "If it's me first, I'm going to finger you while you confess, so your body knows the truth isn't another suitcase. If it's Clara first, I walk beside you hard and furious and proud."
+John pressed his mouth to her knuckles, then opened her hand and put his tongue to the center of her palm. Wet. Unfinished. "I'm done pretending protection is the only way I get to love you," he said. "If it's me first, I'm going to finger you while you confess, so your body knows the truth isn't another suitcase. If it's Willow first, I walk beside you furious and proud."
 
-She thought of Clara's charcoal on the mantel, the red circle, a sister who deserved sentences. And of how easy it would be to drop to her knees on the mat and take him into her mouth until the surname blurred. Escape dressed as intimacy. She refused the blur even while her cunt clenched for it.
+She thought of the charcoal on the mantel, the red circle, the sentences still owed up the hill. And of how easy it would be to drop to her knees on the mat and take him into her mouth until the surname blurred. Escape dressed as intimacy. She refused the blur even while her cunt clenched for it.
 
-"If I choose Clara," she said, squeezing his hip instead of his cock, mean with restraint, "you walk with me, hard and quiet. You don't hide at the grill."
+"If I choose Willow first," she said, squeezing his hip, mean with restraint, "you walk with me, quiet. You don't hide at the grill."
 
 "If you choose me," John answered, dragging her hand back to the thick line of him for one punishing second, "you don't soften a single line because I'm fingering you. You say Voss and suitcase and agreement while you drip on my hand. Truth first. Fucking after, or during. No more covers."
 
@@ -109,7 +109,7 @@ John moved behind the counter out of habit and reached for the coffee. Cold. He 
 
 "They'll say I came back to make trouble," she said.
 
-"Fuck Mae's stamps," John answered. "I care what Clara knows before the gossip does. I care what I know before I get my mouth on you and pretend the war is over."
+"Fuck Mae's stamps," John answered. "I care what Willow knows before the gossip does." He swallowed. "And I care what I know before I get my mouth on you and pretend the war is over."
 
 In Henry's firelight the accusation had been a clean blade. Here it was kitchen-real: sugar grit, grill metal, a calendar stuck on last month. She thought of the platform, the suitcase, and how telling John alone could become another suitcase if Clara was left outside the lock.
 
@@ -131,7 +131,7 @@ A soft sound came at the glass. Knuckles, or rain pretending to be knuckles. Joh
 
 "Say it before whoever that is knocks for real," he whispered. "If they knock first, Henry gets the night back."
 
-Spit cooled on her palm. His cock pressed her hip, a hard, unanswered question. She throbbed against his thigh and tasted coffee and fear and want. Clara's name sat on one side of her tongue and his on the other, and the almost-knock waited like a held breath she had to break first.`,
+Spit cooled on her palm. His cock pressed her hip, a hard, unanswered question. She throbbed against his thigh and tasted coffee and fear and want. Willow sat on one side of her tongue and his name on the other, and the almost-knock waited like a held breath she had to break first.`,
   choices: [
     { id: "scene6k", text: "Climb back to Clara — put the surname in her hands before midnight", textHot: "Climb back to Clara — put the surname in her hands before you finish him" },
     { id: "scene6l", text: "Keep the lock thrown — pour the indictment into John alone", textHot: "Keep the lock thrown — pour the indictment into John while he fingers you through it" }

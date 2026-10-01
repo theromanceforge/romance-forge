@@ -113,7 +113,7 @@ She didn't ask. She answered the next line with her voice shaking and her cunt c
 
 "Stay or go," John said at last, his voice wrecked against her skin. His thigh had slotted between hers, and she was riding the pressure in tiny, traitorous shifts she couldn't fully stop. "If you stay, I'm going to ask everything with my hands on you. Not inside your clothes unless you say so. On you. Anchoring. I won't apologize for needing the weight while I tear my uncle's sentences apart."
 
-He rolled his hips once, filthy and helpless, his cock thick against her. "If you go to Willow and wait with Clara, I'll finish this alone and come to you when I can want you without tasting rage in your mouth. I don't know which mercy is real. I know if you leave right now, my hands will shake on this paper like a drunk's."
+He rolled his hips once, filthy and helpless, his cock thick against her. "If you go to Willow and wait there, I'll finish this alone and come to you when I can want you without tasting rage in your mouth. I don't know which mercy is real. I know if you leave right now, my hands will shake on this paper like a drunk's."
 
 [player_name] slid her palm down his chest, over the hammering heart, and stopped above his belt. She was soaked. Standing this close, he could probably smell the wanting under the rain and coffee.
 
@@ -123,7 +123,7 @@ John caught her wrist and pressed it lower, over the hard shape of him, for thre
 
 "Either way, I'm done pretending the letter and the wanting cancel each other out," he said. "They don't. They stack."
 
-"Clara will know if you come up the hill wrecked," he added, his mouth near her temple. "She's sixteen going on forty and notices everything. If you wait with her, go with your coat closed and your face clean. If you stay, stay knowing I might put my mouth between your legs after the last question, just to remember we're not only made of paper."
+"If you go up the hill, go," he added, his mouth near her temple. "If you stay, stay knowing I might put my mouth between your legs after the last question, just to remember we're not only made of paper."
 
 [player_name] shivered hard enough that the stool leaned its half-degree, as if it agreed. "You don't get to threaten me with your mouth as a reward for surviving your uncle's penmanship."
 

@@ -53,7 +53,7 @@ John crowded her back against the brick between the awning posts. Not hiding the
 
 [player_name] tasted copper and rain. Fifteen years of brighter rooms hadn't taught her how to negotiate justice with John Shaw's cock pressed thick against her hip and Mae's silhouette moving behind fogged gold letters.
 
-"If I tell Mae," she managed, her voice steadier than her thighs, "I'm not only telling Mae. I'm telling the town through the woman who sorts its paper. Clara hears before noon. The diner fills with eyes. Eggs go cold while someone asks whether your father died on ice or on a lie."
+"If I tell Mae," she managed, her voice steadier than she felt, "I'm not only telling Mae. I'm telling the town through the woman who sorts its paper. Clara hears before noon. The diner fills with eyes. Eggs go cold while someone asks whether your father died on ice or on a lie."
 
 "I know." His mouth found the side of her neck, open and hot, and sucked hard enough to mark. His free hand spanned her ribs, thumb brushing the underside of her breast through her bra until her nipple peaked against lace. "I rebuilt that diner around a wound. I can survive Mae. What I can't survive is you inventing a softer blade because you think my name is too fragile for gossip."
 

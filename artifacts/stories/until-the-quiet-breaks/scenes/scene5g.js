@@ -83,7 +83,7 @@ He froze. The number sat unspoken in Clara's book. The truck keys waited somewhe
 
 "No," she said. "We don't come back for it. We take it now."
 
-John's hand found her hip as she pushed inside. His grip was hard, thumb digging in through wet cloth, as if he needed her body to stay upright while the night got uglier. Clara stood frozen in the arch. Henry was by the grate, mouth still shaped around the unfinished syllable. [player_name]'s pulse sat between her legs as much as in her throat. Accusing Henry had left her shaking and sharp and stupidly aware of John's heat at her back.
+John's hand found her elbow as she pushed inside, steadying, as if he needed her upright while the night got uglier. Clara stood frozen in the arch. Henry was by the grate, mouth still shaped around the unfinished syllable. Accusing Henry had left [player_name] shaking and sharp.
 
 "Say the rest," she told Henry. "The creditor. The winter pages. The name you flinched from."
 
@@ -105,7 +105,7 @@ John stepped in. Water on clean boards. No apology. "Is he still collecting?"
 
 John moved in behind her, chest to her shoulder blades, rain-cold jacket against her spine. She felt the thick fact of his cock brush her ass as he crowded close, not meaning to, not able to stop. He cursed under his breath.
 
-"Sorry," he muttered into her hair, not sorry. "Hearing him call you leverage makes me want to fuck you right here, just to prove he doesn't get to say what you're for. I won't. Clara's here. My cock didn't get the memo."
+"Sorry," he muttered, not sorry. "Hearing him call you leverage makes me want to break something, just to prove he doesn't get to say what you're for. I won't."
 
 She reached back and gripped his thigh, high, warning and claim at once, and felt him shudder. "Hold it," she whispered. "Use it as fuel. Not as escape."
 

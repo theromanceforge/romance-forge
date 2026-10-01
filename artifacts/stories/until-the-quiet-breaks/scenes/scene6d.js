@@ -121,7 +121,9 @@ She wiped rain from his jaw with her thumb, tender and filthy at once. "Itemize 
 
 John's hand slid from her hip to splay over her stomach under the wet shirt, possessive and grounding. "Both ways end with Voss named. Both end with my mouth on you, if you still want it after. The only difference is whose eyes Henry has to hold while he stops being kind."
 
-No light bloomed upstairs yet. Clara still slept. [player_name] still ached, and the ache somehow made her braver, not smaller. Desire as courage's indecent twin.
+No light bloomed upstairs yet.
+
+[player_name] still ached, and the ache somehow made her braver, not smaller. Desire as courage's indecent twin.
 
 "I can feel you shaking," she whispered.
 

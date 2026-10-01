@@ -79,13 +79,15 @@ Or she could go back alone. No buffer. Her body and her confession together, the
 
 She dressed in yesterday's damp clothes, underwear kicked into a corner. Her shirt clung to her back. Bra lace scraped nipples still sensitive from how hard they had peaked under his thumb. Henry's letter sat in her coat pocket like a third pulse. She stepped into the alley rain tasting copper and shameless resolve.
 
-Walking Market Street alone felt like walking toward a verdict and a bed at once. She imagined the upstairs flat. Narrow stairs. His mouth on hers before the key finished turning. Her back against the door, jeans open, his cock thick against her belly while she tried to say "creditor" and managed only his name. She imagined stopping him with Clara's name like a cold towel. She imagined not stopping him.
+Walking Market Street alone felt like walking toward a verdict and a bed at once. She imagined the upstairs flat. Narrow stairs. His mouth on hers before the key finished turning. Her back against the door, jeans open, his cock thick against her belly while she tried to say "creditor" and managed only his name. She imagined stopping him with the word "creditor" like a cold towel. She imagined not stopping him.
 
 She could feel it in advance. His hands under her coat before words finished. His fingers finding how wet the night apart had left her. His voice wrecked: You gave me the night and came back dripping. What am I supposed to do with that except take you?
 
-She wanted that. She also wanted Clara's sketches not to become one more thing postponed by heat until postponing hardened again. Wanting both made her dizzy. It made her press her thighs together on the wet sidewalk like a woman negotiating with her own pulse in public.
+She wanted that. She also wanted the sketches not to become one more thing postponed by heat until postponing hardened again. Wanting both made her dizzy. It made her press her thighs together on the wet sidewalk like a woman negotiating with her own pulse in public.
 
-If she brought Clara, she would have to keep her hands decent in front of a sixteen-year-old. If she came alone, decency was a door she could lock behind them. Alone meant upstairs. It meant her confession broken by moans, his cock finally where her fingers had only imitated. It meant justice postponed by an hour that might save them or damn them into another pretty silence.
+If she brought Clara, tonight would be about the sketches and nothing else.
+
+If she came alone, there would be a door she could lock behind them. Alone meant upstairs. It meant her confession broken by moans, his cock finally where her fingers had only imitated. It meant justice postponed by an hour that might save them or damn them into another pretty silence.
 
 Dawn laid a thin blade over the station roof. Up the hill, Clara waited with charcoal and papers that could end a cover story. Ahead, John waited with anger softening into hunger and a body that had already told her the truth under fluorescent light.
 

@@ -49,13 +49,13 @@ John didn't step back. His cock pressed against [player_name]'s ass through deni
 
 [player_name] still ached from the awning. Her nipples peaked against lace when Mae's gaze flicked to John's arm and back, with only a raised brow that said she had sorted worse heat with the mail.
 
-"I'm telling you the truth," [player_name] said, steadier than her thighs. "John's father went through the ice. Henry drank. Voss circled. Henry asked me to leave, and I said yes. Clara found the papers. If I own the gossip, you stamp this into circulation and the eggs go cold by noon. If I ask you to hold it, you pause, while we put Clara and John inside the story before the pie case turns us into sport."
+"I'm telling you the truth," [player_name] said, steadier than she felt. "John's father went through the ice. Henry drank. Voss circled. Henry asked me to leave, and I said yes. Clara found the papers. If I own the gossip, you stamp this into circulation and the eggs go cold by noon. If I ask you to hold it, you pause, while we put Clara and John inside the story before the pie case turns us into sport."
 
 Mae set her stamp down. Rain needled the glass. "Gossip isn't registered mail," she said. "It doesn't return to sender. Holding is a pause with a clock. I won't lie if I'm asked straight over the counter. So say it."
 
 Behind the counter's edge, out of Mae's sightline, John's hand slid up under [player_name]'s sweater. His palm spanned her ribs. His thumb brushed the underside of her breast through the bra until she bit her lip to keep the sound off Mae's tidy trays.
 
-"Own it," he breathed against her ear, too low for Mae, "and walk out of here wet for me, knowing the town will chew by lunch. Or ask her to hold, family first, and I'll still fuck you against the pie case after we wake Clara. Delaying the chorus doesn't delay what your body's already decided about coming home."
+"Own it," he breathed against her ear, too low for Mae, "and walk out of here wet for me, knowing the town will chew by lunch. Or ask her to hold, family first, and I'll still fuck you against the pie case after we've told Willow. Delaying the chorus doesn't delay what your body's already decided about coming home."
 
 [player_name] gripped the counter's edge. Ink and radiator heat and John's cock and Mae's waiting stamp, all braided together. "I'm deciding whether Market Street hears before we finish with Henry," she told Mae, her voice rough, "or after two midnights teach the Shaw house what broken silence costs."
 

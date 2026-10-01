@@ -85,7 +85,7 @@ She popped his button, dragged down his zipper, and wrapped her hand around him,
 
 John caught her wrist, not stopping her, steadying himself, and pressed his forehead to hers. His other hand pushed into her jeans, past soaked cotton, and two fingers slid inside her with a groan that sounded like prayer and curse braided.
 
-"A public claim," he rasped, fucking her slow on his hand while she held his cock like a vow. "We walk out that door with my mouth still tasting you and my hand on you where Mae can see enough to invent true gossip. We seal it in daylight. Or we keep the secret a little longer. My cock in you upstairs, the ugliest pages closed until we deal with Clara and Henry without turning our heat into the town's show. Either way, I stay yours. Either way, you don't get to leave my hands and call it timing."
+"A public claim," he rasped, fucking her slow on his hand while she held his cock like a vow. "We walk out that door with my mouth still tasting you and my hand on you where Mae can see enough to invent true gossip. We seal it in daylight. Or we keep the secret a little longer. My cock in you upstairs, the ugliest pages closed until we deal with Willow Lane without turning our heat into the town's show. Either way, I stay yours. Either way, you don't get to leave my hands and call it timing."
 
 She clenched around his fingers. He swore. The fluorescent lights hummed like cheap witnesses.
 

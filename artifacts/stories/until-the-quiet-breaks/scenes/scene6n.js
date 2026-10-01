@@ -51,9 +51,9 @@ Outside, the rain turned Willow's gravel to paste. Inside, the coiled hose dripp
 [player_name] didn't look at the door. She looked at Clara. At Voss's name. At her own old yes in the margin. Then she reached for the phone on the crate and the ledger beside it at the same time, and her hands stopped an inch from both.`,
   textHot: `The ledger smelled like oilcloth and rain, and [player_name]'s body refused to treat evidence like a celibacy assignment.
 
-She knelt with Clara on the shed's warped floorboards, knees aching, jeans damp at the hems. Her bra lace rubbed every time the cold made her breathe too sharply. The bare bulb swung. The rubber band had snapped. The pages lay open between them like a dare.
+She knelt with Clara on the shed's warped floorboards, knees aching, jeans damp at the hems. The bare bulb swung. The rubber band had snapped. The pages lay open between them like a dare.
 
-And under the cold, filthy and loyal and wrong-timed, [player_name] kept thinking about John. His hands. His mouth. His cock hard from anger somewhere outside this oilcloth winter, while she and Clara fixed the order of the truth without him.
+And under the cold, filthy and loyal and wrong-timed, [player_name] kept thinking about John. His hands. His mouth. Somewhere outside this oilcloth winter, angry, without her.
 
 "Read it with your mouth," Clara said, charcoal under her nails. "If you only look, Henry gets to keep it quiet. Say the ugly so it can't crawl home and call itself protection."
 
@@ -85,7 +85,7 @@ She tasted rain on her lip and the ghost of John's coffee-bitter kiss. Her palm 
 
 Wind slammed the siding. The bulb flickered. [player_name] pictured walking into Henry's kitchen with the original. Then John shoving her against the blue door afterward, belt, hands, mouth, fucking the confrontation out of her spine until she said his name like a verdict. She pictured the camera roll instead, cold and careful, and John's fury at being archived out of the first look. Both pictures left her wet. Only one could be spent now.
 
-The shed air tasted like rust and old rope. She rolled her shoulders and felt her shirt drag over her tight nipples. She hissed through her teeth and didn't adjust, letting the discomfort keep her honest. Clara waited. The ledger waited. Rain wrote impatient sentences on the tin roof.
+The shed air tasted like rust and old rope. She rolled her shoulders and let the cold keep her honest. Clara waited. The ledger waited. Rain wrote impatient sentences on the tin roof.
 
 "It won't be simple," Clara said. "Simple died with the cover story."
 

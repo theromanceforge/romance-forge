@@ -57,7 +57,7 @@ His jaw tightened by degrees. Once he laughed without humor. Once he looked at h
 
 "I said yes." Her voice didn't hide. "I thought I was saving you. I became the lie instead. And I still came home wet for you. I'm standing in your dish pit aching for you while I spill the winter into the soap smell. I'm not asking you to forgive me with your mouth on mine. I'm asking you to hear it from me before Henry softens it again."
 
-Through the swing door, Clara laughed at something a customer said. John's knuckles whitened on the sink. Then he turned and crowded [player_name] back against the wet steel. Not gentle. Not cruel. Present. He pressed his forehead to hers hard enough to hurt. His cock nudged her hip. She felt the anger and the wanting braided in every inch of him.
+Through the swing door, a customer laughed. John's knuckles whitened on the sink. Then he turned and crowded [player_name] back against the wet steel. Not gentle. Not cruel. Present. He pressed his forehead to hers hard enough to hurt. His cock nudged her hip. She felt the anger and the wanting braided in every inch of him.
 
 "Thank you for not making me hear it first from him," he said. The thanks sounded like a crack. "Thank you for spilling it where I can smell soap and fryer oil and you. I'm furious. I'm hard. Both are true. Don't you dare vanish while I stitch myself closed with the dinner rush."
 
@@ -81,13 +81,13 @@ He came to her when the last wet coat left. "I'm still in the hour," he said. "B
 
 She held his gaze. "He asked. I said yes. I became the cleaner story. I'm done. I want your anger until it softens. I want your cock when it does. I won't soften either."
 
-His hand found her thigh under the counter overhang, high and possessive, his thumb stroking the inner seam where the denim was damp from more than rain. "Stay and weather it," he murmured. "Or give me the night and come back with Clara's proof. Either one hurts. Either one keeps me hard."
+His hand found her thigh under the counter overhang, high and possessive, his thumb stroking the inner seam where the denim was damp from more than rain. "Stay and weather it," he murmured. "Or give me the night and come back with the proof. Either one hurts. Either one keeps me hard."
 
 Before she could answer, the bell cried again.
 
 Not a customer's rattle. A firm, familiar knock, and the stick-and-yield of someone who had known the door's moods for fifteen years. Through the glass, under the lamp, Henry's umbrella tilted toward them.
 
-John's voice went flat and quiet. His hand stayed on her thigh. "Of course." The crack was bright in his eyes. "Stay, and weather me until the anger turns into my mouth where your truth opened. Or leave me the night, come back with Clara's proof, and ask for my mouth after. Tell me before I open that door."
+John's voice went flat and quiet. His hand stayed on her thigh. "Of course." The crack was bright in his eyes. "Stay, and weather me until the anger turns into my mouth where your truth opened. Or leave me the night, come back with the proof, and ask for my mouth after. Tell me before I open that door."
 
 Henry knocked again. John's thumb stroked once more at the damp seam of her jeans, his anger already softening toward want, and the unlocked door stood between his uncle and everything the spill had started.`,
   choices: [

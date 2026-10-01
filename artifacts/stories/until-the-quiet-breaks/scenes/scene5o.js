@@ -85,7 +85,7 @@ Henry flinched, small and human. John's forehead dropped briefly to the back of 
 
 The fantasy hit. Cold air, his mouth, her back against crates, jeans at her thighs, his cock driving into her while Henry waited on the mat. She rejected it, because heat had to move them forward, not erase what came next. Still she clenched. Still she felt herself soak the seam of her underwear in a slow, humiliating pulse.
 
-John's mouth brushed her ear, rough enough to count as a touch. "Your call. I can let him past, and we refuse every soft edge with my hand on you. Or Clara speaks first, and I keep you close enough that he knows exactly what he interrupted. Either way I'm not polite. Either way, you don't get to step forward and pretend your thighs aren't still shaking."
+John's mouth brushed her ear, rough enough to count as a touch. "Your call. I can let him past, and we refuse every soft edge with my hand on you. Or Clara speaks first, and I stand beside you while she does. Either way I'm not polite. Either way, you don't get to step forward and pretend your thighs aren't still shaking."
 
 She squeezed his wrist. The rain draft cooled her lip and did nothing lower. She thought of Clara's charcoal. Henry's letter against her ribs. John upstairs after this, finishing what the knock had stolen.
 

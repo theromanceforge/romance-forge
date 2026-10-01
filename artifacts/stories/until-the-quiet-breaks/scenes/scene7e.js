@@ -67,11 +67,13 @@ The CLOSED sign hung crooked on the blue door. Coffee steamed. John's cock was a
 
 "Say it again." Not soft. His grey eyes bright. Coffee on his breath when he leaned closer without crossing. "Say you left me with my name and a lie. And say it while you keep your hands off me the way I'm keeping mine off you."
 
-"I said yes," [player_name] repeated, and the word went through her like a stroke. "I believed silence would protect you. I bought a ticket. I left you the diner and Clara and a story that cast me as hunger. I'm not twenty now. I'm sitting here wet for you, telling you the cover had my voice in it. And I'm not asking you to fuck that into forgiveness."
+"I said yes," [player_name] repeated, and the word went through her like a stroke. "I believed silence would protect you. I bought a ticket. I left you the diner and your sister and a story that cast me as hunger."
+
+She held his eyes. "I'm not twenty now. I'm sitting here wet for you, telling you the cover had my voice in it. And I'm not asking you to fuck that into forgiveness."
 
 John laughed, wrecked, and the sound made her clench around nothing. "Good. Don't ask." He walked the length of the counter and came back. He stopped between her knees where she sat on the cracked stool, still not touching, heat radiating through denim. "Voss. Alive?"
 
-"Alive enough to leave messages. Alive enough Henry flinches. Clara found paper. The quiet is cracking." Her voice stayed steadier than her thighs. "Clara does not yet know the full shape of my yes. That is still mine to give—or yours—after."
+"Alive enough to leave messages. Alive enough Henry flinches. Clara found paper. The quiet is cracking." Her voice stayed steadier than she felt. "Clara does not yet know the full shape of my yes. That is still mine to give—or yours—after."
 
 John braced his hands on either side of her hips on the counter, caging without contact, his forehead nearly to hers. "Last question before the terms expire. If I ask you to stay, not as penance, can you stay without smoothing tonight over? Can you let me hate the yes and still fuck the woman saying it?"
 

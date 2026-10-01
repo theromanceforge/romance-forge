@@ -110,13 +110,15 @@ The house creaked the way old houses confess, slowly, in the joints. Toward town
 
 She looked at the papers under the glass. A name from that winter. A charcoal study of hands open as if dropping something too heavy. She thought of John's hands specifically: the scar, the flour dust, the way they had trembled once against her ribs.
 
-"You asked me to leave so he wouldn't have to see the whole of it," she said. "I did. I practiced being the girl who wanted more until the practice became a life." What she had wanted was him, naked of story, fucking her through the fear instead of sending her away with a kinder lie. "Now Clara has made practicing impossible. So have you, by writing."
+"You asked me to leave so he wouldn't have to see the whole of it," she said. "I did. I practiced being the girl who wanted more until the practice became a life. Now the papers have made practicing impossible. So have you, by writing."
+
+What she had wanted was him, naked of story, fucking her through the fear instead of sending her away with a kinder lie.
 
 Henry's smile was tired and almost proud. "If you press me now, I won't tidy. If you go to the diner, I'll be here when you come back. Tell John I'm done rehearsing, if you get there first."
 
 Soft footsteps sounded in the kitchen. Clara didn't appear, but her presence pressed the air like a held breath.
 
-"I'm not here to absolve you," [player_name] said. "If I stay, you finish. If I go to John—" she let his name land with the heat it carried "—you wait. And you don't call the diner to warn him into another careful face. He deserves my mouth telling him the truth before you sand it soft again."
+"I'm not here to absolve you," [player_name] said. "If I stay, you finish. If I go to John—" she let his name land with the heat it carried "—you wait. And you don't call the diner to warn him into another careful face. He deserves my mouth telling him the truth before you smooth it over again."
 
 My mouth. She didn't correct it. Henry's eyes flickered. He understood more than she had said.
 

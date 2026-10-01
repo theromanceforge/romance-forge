@@ -59,7 +59,7 @@ The mantel clock struck a thin half hour that vibrated in [player_name]'s teeth.
 [player_name] looked back down the hallway at the stuck left drawer, then at Clara's hands, and felt her own fingers curl as if they already knew which one they wanted to hold.`,
   textHot: `Willow Lane smelled like wet boxwood and woodsmoke, and [player_name]'s body did not care that waiting was supposed to be virtuous.
 
-Rain still clung to her thighs where her jeans had wicked the damp from Market Street. Her bra seam rubbed every time she breathed too deep, a small mean friction that kept her nipples tight under lace. She stood in the Shaw front room with Clara's sketchbook on the coffee table and Henry's absence loud as a slammed drawer.
+Rain still clung to her jeans from Market Street. She stood in the Shaw front room with Clara's sketchbook on the coffee table and Henry's absence loud as a slammed drawer.
 
 All she could think about was John alone with that letter. His jaw locked. Hard under denim from anger and unfinished almost-kisses. Reading Henry's pen while she stood here pretending space was mercy instead of a slow torture she had chosen with her eyes open.
 
@@ -93,7 +93,7 @@ She didn't say the rest. She wanted him in her while he was still angry about th
 
 [player_name] turned back toward the front room. Rain sheeted the slate. Every breath dragged lace over her nipples until she wanted to strip just to stop the tease. She could still feel the thick line of John against her knee from earlier. The way anger and arousal shared his bloodstream. The way his mouth had almost finished the kiss and left her aching around absence. Space was eating her alive, a pulse between her legs that matched the clock's tick.
 
-Clara had poured fresh tea that neither of them would drink. [player_name] sat on the edge of the sofa and pressed her thighs together hard enough to feel the slick shift. Small mercy. Small torment.
+Clara had poured fresh tea that neither of them would drink. [player_name] sat on the edge of the sofa and waited.
 
 "If we search," she said, "we dig until we find what he hid. No polite stopping when the drawer sticks. If we prep, we map where you stand when he arrives mid-break. Witness, not shield. And I don't get to use your shoulder to hide."
 

@@ -88,7 +88,7 @@ He stood and came closer: coffee, rain, clean male heat. He lifted a hand toward
 
 He swallowed. "Clara cracked Henry. Henry wrote you home. What happens next is ours. If you want every ugly line before I touch you, you'll get them, even if standing this close without my tongue in your mouth kills me a little."
 
-The apron was still knotted at her ribs. Upstairs, Clara's pencil rasped. His hand hovered at her jaw, and her thighs had already parted under the apron, as if her body had answered before she had.`,
+The apron was still knotted at her ribs. His hand hovered at her jaw, and her thighs had already parted under the apron, as if her body had answered before she had.`,
   choices: [
     { id: "scene4a", text: "Lean into the spark — kiss him before the secret lands", textHot: "Take the spark — kiss him hard before the secret lands" },
     { id: "scene4b", text: "Hold the line — demand the truth before any closeness", textHot: "Hold the line — demand every ugly truth before you touch" }

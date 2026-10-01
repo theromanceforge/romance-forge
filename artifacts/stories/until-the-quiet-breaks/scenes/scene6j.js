@@ -77,7 +77,7 @@ Clara snorted. "Uncle discovers honesty like it is a new spice. Note the date." 
 His pulse showed at his throat. Henry's keys chimed once more in his fist, and [player_name] reached out and closed her hand over the cold metal without yet knowing whether she meant to take them or hold them still.`,
   textHot: `Voss's name still hung in the kitchen like smoke in [player_name]'s lungs, and her body had not stopped answering John since the naming.
 
-Henry's truck keys chimed in the cracked dish. Clara's charcoal book lay open, a number circled raw. Rain needled the slate. John stood dripping on the Willow linoleum with his grey eyes on [player_name]'s mouth. There was heat under his stillness that had nothing to do with ledgers. It had everything to do with the way her pulse had jumped when the creditor's surname landed.
+Henry's truck keys chimed in the cracked dish. the charcoal book lay open, a number circled raw. Rain needled the slate. John stood dripping on the Willow linoleum with his grey eyes on [player_name]'s mouth. There was heat under his stillness that had nothing to do with ledgers. It had everything to do with the way her pulse had jumped when the creditor's surname landed.
 
 "Daylight numbers," Henry said. "Ride with me. We pay. We close what Voss still pretends is open."
 
@@ -97,7 +97,7 @@ John noticed. Of course he noticed. His gaze dropped once to her throat, her han
 
 "It is never only about columns with you in the room," John said bluntly. He caught her wrist—thumb on her pulse, exact, indecent in its accuracy—and she felt the count leap. "You named Voss and my cock got interested like a bastard. You talk about ledgers and I think about taking you against the pantry door before anyone spends a dollar. Do not ask me to be tidy."
 
-"Pay with him if paying keeps a creditor's hand off your throat and Clara's," John said, not looking away from [player_name]. His thumb stroked once over the vein. "Refuse if refusal is the only way I stop fucking a shrine in my head every night above the diner. I jerked off to a costume for years. Today I want the real woman and the real debt in the same sentence."
+"Pay with him if paying keeps a creditor's hand off your throat and my family's," John said, not looking away from [player_name]. His thumb stroked once over the vein. "Refuse if refusal is the only way I stop fucking a shrine in my head every night above the diner. I jerked off to a costume for years. Today I want the real woman and the real debt in the same sentence."
 
 Henry's keys chimed again. "Choose, [player_name]. Pay and close the ghost forever. Or refuse the money and expose the debt where noon can hear. I won't make it easier."
 

@@ -71,7 +71,9 @@ Wet boxwood scraped the window in a gust. Woodsmoke thickened near the ceiling. 
 The mantel clock struck. Clara waited. The front door held its tongue.`,
   textHot: `Willow Lane's front room held woodsmoke like a held breath. Clara sat on the rug with her sketchbook open, as if charcoal could armor a throat.
 
-[player_name] had chosen to prepare Clara instead of searching Henry's desk again. The choice did nothing to quiet her body. Preparing meant saying John's name, and saying his name meant imagining him: rain on his coat, fury in his jaw, his hands. She kept that heat folded away behind her ribs, where it belonged in this room. Rain needled the windows. The mantel clock ticked. The house smelled of lemon-oil guilt trying to pass as cedar.
+[player_name] had chosen to prepare Clara instead of searching Henry's desk again.
+
+The choice did nothing to quiet her body. Preparing meant saying John's name, and saying his name meant imagining him: rain on his coat, fury in his jaw, his hands. She kept that heat folded away behind her ribs, where it belonged in this room. Rain needled the windows. The mantel clock ticked. The house smelled of lemon-oil guilt trying to pass as cedar.
 
 "He won't arrive soft," [player_name] said.
 

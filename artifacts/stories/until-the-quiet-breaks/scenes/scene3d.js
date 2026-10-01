@@ -68,13 +68,13 @@ John closed his eyes for a breath. When he opened them, they were dark with a hu
 
 His voice roughened. "God help me, standing this close I feel more than answers. I feel my cock voting while my mouth tries to be careful. I'm done pretending those are separate rooms."
 
-Beyond the swing door, Clara corrected an order and deflected questions about the woman who had just walked in. His breath touched her cheek, and her nipples tightened against wet fabric. She shifted. Her hip brushed his. Neither apologized. She felt him, thick and insistent, and her own slick answer made standing still a kind of fucking without moving.
+Beyond the swing door, the dining room murmured. His breath touched her cheek, and her nipples tightened against wet fabric. She shifted. Her hip brushed his. Neither apologized. She felt him, thick and insistent, and her own slick answer made standing still a kind of fucking without moving.
 
 "I remember you crying on the station steps and pretending you weren't," he said, softer. "Henry's hand on your suitcase like a blessing and a shove. Being told you wanted more. Not believing it, and believing it anyway, because belief kept the diner open and Clara fed and my hands from breaking things."
 
 His voice dropped further. "I remember wanting you on those steps. Wanting you every year after. That part never got softened. I remember getting hard in this hall on worse nights than this and hating myself for it. I don't hate it tonight. You're here."
 
-Rain hammered the alley door. A cup shattered in the pit, and Clara swore softly. John's thigh brushed hers again. Heat flared low and bright. She didn't step back. She rolled her hips a fraction, deliberately, and felt him suck a breath through his teeth.
+Rain hammered the alley door. A cup shattered somewhere out front. John's thigh brushed hers again. Heat flared low and bright. She didn't step back. She rolled her hips a fraction, deliberately, and felt him suck a breath through his teeth.
 
 "If you tell me everything he hinted, I'll listen," he said. "I'll get angry. I'll probably walk up Willow before close and make him say it to my face. If you'd rather hear what I remember first, I'll give you every scrap, and we decide together how much of my uncle's voice we let back in."
 

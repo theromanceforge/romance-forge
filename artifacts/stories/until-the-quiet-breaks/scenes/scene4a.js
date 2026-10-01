@@ -65,7 +65,7 @@ The papers waited on the counter like a second pulse. Henry's shadow lengthened 
 
 The rush was dead. Fluorescent light pooled on the laminate. The blue door held the night, and the cracked stool leaned half a degree left like a voyeur. Fifteen years of unfinished almost had nowhere left to hide except in their mouths and between her thighs.
 
-His hand settled against her cheek, warm, work-rough, proprietary. She smelled coffee and rain on him and the clean animal heat underneath. Desire had lived in the room since she tied Clara's apron. Now it had a pulse, and a cock already thickening behind his jeans.
+His hand settled against her cheek, warm, work-rough, proprietary. She smelled coffee and rain on him and the clean animal heat underneath. Desire had lived in the room since she tied on the borrowed apron. Now it had a pulse, and a cock already thickening behind his jeans.
 
 [player_name] leaned in.
 
@@ -95,13 +95,13 @@ She was close, hips stuttering, thighs shaking, when the stairs complained.
 
 Not a scrape. A deliberate descent: wood announcing weight, then a pause on the landing.
 
-John didn't yank his hand free like a boy caught. He eased his fingers out of her with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted, cock still hard against her hip. It wasn't the building settling. It was Clara.
+John didn't yank his hand free like a boy caught. He eased his fingers out of her with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted, cock still hard against her hip.
 
-She stood on the landing with a stack of papers hugged to her ribs and a charcoal thumbprint on her jaw. Her eyes were wide, furious, and somehow relieved. A sketchbook rode the top of the stack. Beneath it: bank paper, a folded note, a winter date grooved into the sheet.
+It wasn't the building settling. It was Clara. By the time she came into view they had stepped apart. She stood on the landing with a stack of papers hugged to her ribs and a charcoal thumbprint on her jaw. Her eyes were wide, furious, and somehow relieved. A sketchbook rode the top of the stack. Beneath it: bank paper, a folded note, a winter date grooved into the sheet.
 
-"If you're going to do that," Clara said, voice cracking and then steadying, her gaze carefully on the papers, "you should know what you're standing on."
+"Before anybody decides anything," Clara said, voice cracking and then steadying, her gaze on the papers, "you should know what you're standing on."
 
-John's hand stayed at [player_name]'s waist. He didn't shove her behind him or step into shame, though his body was plainly unfinished. He turned to face his sister, and [player_name] felt the tremor run through him. Not fear of Clara. Fear of the papers, and of the claiming turning into a reckoning before it was done.
+John's hand stayed at [player_name]'s waist. He didn't shove her behind him or step into shame. He turned to face his sister, and [player_name] felt the tremor run through him. Not fear of Clara. Fear of the papers, and of the claiming turning into a reckoning before it was done.
 
 Clara came down two steps and held out the top page. A winter date fifteen years old. Henry's neat, slanted hand. [player_name]'s name underlined twice beside a note: she agreed to go—for him.
 
@@ -127,7 +127,7 @@ John made a sound low in his throat, half growl, half grief. The kiss still live
 
 "I'm not leaving," she said. The old pattern wanted her to vanish. Her body wanted the opposite. "Not between this page and morning. Not because the almost got interrupted."
 
-John nodded once, pupils still wide. "Good. Because I'm done rehearsing loss. And I'm done putting my fingers in you on top of a lie I only half understand, even if stopping nearly killed me." His hand squeezed her waist, a private promise that the heat was paused, not cancelled. "Clara. Is there anything in this stack that names the people he owed?"
+John nodded once, pupils still wide. "Good. Because I'm done rehearsing loss. And I'm done building anything on top of a lie I only half understand." His hand squeezed her waist. "Clara. Is there anything in this stack that names the people he owed?"
 
 Clara's chin lifted. "There is a name. More than one. I was waiting until she was real and not a rumor." She glanced toward the front windows.
 

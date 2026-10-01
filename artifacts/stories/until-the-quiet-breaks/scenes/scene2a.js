@@ -78,11 +78,15 @@ When his knuckles brushed hers on the towel, heat slid up her arm and settled be
 
 "Clara found papers," he said, leaning in so the booth couldn't harvest every word. Close enough that she felt his breath on her temple. "In the desk Henry swore was empty. Sketches in the margins, charcoal pressed hard enough to ghost the next page. Underneath, names, dates, a winter I only half remember. Receipts. A letter draft that never got sent. Two days after she laid them out on this counter, Henry said he'd mailed something. He wouldn't say to whom. I knew."
 
-"What does Clara think she found?" Her voice came out steadier than her body. She was aware of every inch of him: his forearms, his open collar, the way his hips settled against the counter as if he needed something solid between them.
+"What does Clara think she found?"
+
+Her voice came out steadier than her body. She was aware of every inch of him: his forearms, his open collar, the way his hips settled against the counter as if he needed something solid between them.
 
 "Enough to ask why you left." John's mouth tightened. "Enough to ask why everyone told me you wanted a bigger life, when the night I remember doesn't match. I remember you crying on the station steps. Henry's hand on your shoulder. You saying sorry like someone who wasn't chasing a city." His voice dropped. "And I remember wanting to pull you into the ticket office and keep you with my mouth if my words wouldn't do it."
 
-He exhaled like the admission cost him. "Then you were gone. I stayed. I ran this place. I raised Clara after our mother stopped being someone we could reach. I didn't spend fifteen years hating you. I spent them trying to make the pieces fit." Another drop, raw. "And some nights trying not to remember how you felt against me. How wet you were. How close I came to fucking you against that brick and calling it forever."
+He exhaled like the admission cost him. "Then you were gone. I stayed. I ran this place. I raised Clara after our mother stopped being someone we could reach. I didn't spend fifteen years hating you. I spent them trying to make the pieces fit."
+
+Another drop, raw. "And some nights trying not to remember how you felt against me. How wet you were. How close I came to fucking you against that brick and calling it forever."
 
 Rain hammered the glass into a smear of headlights. Wet coats shook out in the vestibule. The cook called through the pass. A man in a feed-store cap claimed the cracked stool two seats down and nodded at John without looking at her. [player_name] felt exposed anyway: rain-damp, aching, sitting in the room where she had once mapped his mouth and left before either of them came.
 
@@ -90,7 +94,9 @@ She watched his shoulders roll as he plated, the flex of his back under cotton. 
 
 "You can stay," he said when he came back, voice rough. "Through the rush. We talk when the booths empty, really talk, without ears in every corner. Or—" He nodded toward the climb to Willow. "We go to Henry together. I'm tired of getting the truth secondhand. I want to hear it in a room where I can watch his face." His gaze held hers a moment too long. "And I want you where I can still reach you after. I'm done pretending I only want answers."
 
-Through the pass, Clara called that the soup was ready and someone needed to taste the salt. John didn't turn. Under the counter his knuckles brushed the wood near her knee, a near-miss that made her breath catch and her cunt clench around nothing. She wanted him to close the distance. She wanted him to wait until the room emptied and then not wait at all.
+Through the pass, someone called that the soup was ready. John didn't turn.
+
+Under the counter his knuckles brushed the wood near her knee, a near-miss that made her breath catch and her cunt clench around nothing. She wanted him to close the distance. She wanted him to wait until the room emptied and then not wait at all.
 
 A truck hissed past on Market Street. "People here still tell the story Henry gave them," John said. "That you were too bright for us. That I was too quiet to keep you. I let them, because arguing meant admitting I didn't know my own life. The night my father died and the night you left were braided, and nobody would show me the knot."
 
@@ -108,7 +114,7 @@ John nodded once. He plated stew for the feed-store cap without looking away fro
 
 "Stay or walk to Willow," he said. "Either way, don't vanish between the bell and the rain. I've practiced losing you. I'm done rehearsing it."
 
-His thumb brushed the mug's rim, then, deliberately, the side of her hand. The slow stroke sent heat straight between her legs. "If you stay, I'll feed this room and then give you what I have. What Clara found. What I remember of that winter. And if the booths empty and you're still looking at me like that, I'm not promising to keep my hands to myself. I might lock the door and put you on your back on this laminate and finally learn what fifteen years of almost tastes like."
+His thumb brushed the mug's rim, then, deliberately, the side of her hand. The slow stroke sent heat straight between her legs. "If you stay, I'll feed this room and then give you what I have. What the papers say. What I remember of that winter. And if the booths empty and you're still looking at me like that, I'm not promising to keep my hands to myself. I might lock the door and put you on your back on this laminate and finally learn what fifteen years of almost tastes like."
 
 A flicker of grey-eyed heat. "If we walk, we put my uncle in a chair, and we don't let him tidy the story into kindness again. I want you. I want the truth. I want both in the same night if you'll let me."
 

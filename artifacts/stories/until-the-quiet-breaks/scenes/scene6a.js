@@ -91,23 +91,23 @@ She read Henry's first draft aloud because he asked, his hand still on her. Ice.
 
 The second draft smoothed it over. The third made her ambition's costume. She hated the third draft with her mouth, and with the way she shifted on the vinyl, soaked through her underwear from nothing but voice and the blunt honesty of his grip.
 
-"Clara circled don't tell the boy," John muttered. He dragged her hand under the table and pressed it to the thick line of his cock through his jeans, once, deliberately, as proof. Then he put her hand back on the papers, as if evidence and erection belonged in the same negotiation. "She circled the hospital request. She circled your ticket. She didn't circle the years I built a shrine and set myself on fire inside it. I'm circling those now. With my mouth on your throat, if you keep looking at me like that."
+"Don't tell the boy. Circled," John muttered. He dragged her hand under the table and pressed it to the thick line of his cock through his jeans, once, deliberately, as proof. Then he put her hand back on the papers, as if evidence and erection belonged in the same negotiation. "The hospital request, circled. Your ticket, circled. Nobody circled the years I built a shrine and set myself on fire inside it. I'm circling those now. With my mouth on your throat, if you keep looking at me like that."
 
 He did. His mouth on her pulse, sucking hard enough to mark while she tried to name Voss's payments in order. Teeth. Tongue. His thigh pressed tighter against hers. She gasped a number, and he groaned as if it were filthy.
 
-"Copies," [player_name] managed, fingers twisted in his shirt, papers crumpling under her other hand. "Or justice, your shape. Don't fuck the vocabulary out of me before I finish Clara's margins."
+"Copies," [player_name] managed, fingers twisted in his shirt, papers crumpling under her other hand. "Or justice, your shape. Don't fuck the vocabulary out of me before I finish these margins."
 
 "Then finish fast." John pulled back enough to see her face, his mouth wet from her throat. His thumb found her nipple through shirt and bra, a cruel, precise circle, and her hips jerked.
 
 "I want Henry at noon with nothing softened and copies that can't vanish into a glove box," he said. "Or I want you to ask me what justice looks like while I can still feel how wet you are through these jeans. Because if justice includes keeping you in my hands through the town noise, I need to say that before I come in my pants like a teenager over a ledger."
 
-She kept going. Bank slips. The faded envelope. Clara's charcoal of the station steps, Henry drawn as a door. The furious margin note about love meaning lying prettier. She read it while John worked the button of her jeans open just enough to slide two fingertips inside. Not entering her. Just pressing against soaked cotton until she whimpered a circled date into his mouth.
+She kept going. Bank slips. The faded envelope. the charcoal of the station steps, Henry drawn as a door. The furious margin note about love meaning lying prettier. She read it while John worked the button of her jeans open just enough to slide two fingertips inside. Not entering her. Just pressing against soaked cotton until she whimpered a circled date into his mouth.
 
 "Fuck," he breathed. "You're dripping on family history. Do you understand how insane that is? I still want to put you on this table and take you until the pie case ticks and Voss is just a name we fucked through."
 
 "Then don't tidy it into forgetting," she said. She caught his wrist, not stopping him, holding him exactly where the pressure narrowed her vision. "Anger gets the papers. My body gets honesty. Whatever we do next, don't pretend my cunt is a distraction from the debt."
 
-"It isn't a distraction." He kissed her hard, coffee-bitter, teeth scraping, and pressed his hand firmer, circling her clit through the wet cotton with a patience that felt like punishment and worship on the same schedule. "It's proof I stayed alive in the shrine. Every quiet year. Every almost-date. You come back, you spread Clara's circles, and my cock votes before my mouth finishes the verdict."
+"It isn't a distraction." He kissed her hard, coffee-bitter, teeth scraping, and pressed his hand firmer, circling her clit through the wet cotton with a patience that felt like punishment and worship on the same schedule. "It's proof I stayed alive in the shrine. Every quiet year. Every almost-date. You come back, you spread those circles on my table, and my cock votes before my mouth finishes the verdict."
 
 Rain sheeted the awning. A receipt slid to the floor, and neither of them reached for it. [player_name] rolled into his palm on purpose, chasing friction, keeping one hand flat on the ledger so the numbers stayed in the room. His other hand found her breast under her shirt, bra shoved aside, thumb stroking the peaked nipple until she arched with a broken sound.
 
@@ -119,7 +119,7 @@ His fingers pressed harder. Her breath shattered.
 
 She laughed, shaky and hungry, and eased his hand back up to her waistband. Permission paused, not revoked. She gathered the papers into a stack still warm from both their hands, Voss's name facing up. His cock was a thick line against her hip when he shuddered and held still.
 
-"I can still smell the fryer on you," he said. "I can still feel Clara's charcoal on these pages. I want both. The diner open tomorrow and your thighs open tonight, and Henry's kindness burned down to ash that can't settle anyone's debt. Tell me you understand the want isn't separate from the papers."
+"I can still smell the fryer on you," he said. "I want both. The diner open tomorrow and your thighs open tonight, and Henry's kindness burned down to ash that can't settle anyone's debt. Tell me you understand the want isn't separate from the papers."
 
 "I understand," she said, her voice rough. "I understand I got wet reading Voss aloud. I understand you put my hand on your cock to prove the shrine had a body. I understand noon and justice both have teeth."
 

@@ -75,7 +75,7 @@ He had crowded her against the porch post in the rain, mouth hungry, thigh pushe
 
 His palm had stayed at the small of her back when Henry opened the door. It stayed there now in the front room, fingers splayed under her sweater against bare skin. A secret claim while she stripped the cover aloud.
 
-"I said yes," [player_name] began, her voice steady while his thumb stroked the dip of her spine in slow encouragement. "You asked me to carry the winter. Debts. Ice. Voss. Clara as leverage in sentences that made you shake. I loved John. Silence sounded like armor. I said yes. I left on a story about brighter rooms. I enforced the lie with my absence, aching in other cities for a man who thought I wanted maps more than him."
+"I said yes," [player_name] began, her voice steady. "You asked me to carry the winter. Debts. Ice. Voss. Clara as leverage in sentences that made you shake. I loved John. Silence sounded like armor. I said yes. I left on a story about brighter rooms. I enforced the lie with my absence, aching in other cities for a man who thought I wanted maps more than him."
 
 Henry flinched at the bluntness. Clara's mouth twitched, not quite a smile. John's breath hit her hair, hot.
 

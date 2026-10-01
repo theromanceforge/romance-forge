@@ -59,7 +59,7 @@ John's grey eyes darkened. She saw the thought of pulling her into his lap cross
 
 "Forty-eight thousand first." She kept her hand on his knee, a tether. "Your father owed Voss. Not a polite bank. Voss. Loans behind jokes and overtime until the jokes died. The night of the ice, he shouldn't have been driving with that weight. Henry called it weather. Weather was the stage. The debt was the script. I heard the quiet part in Willow's kitchen. If the story went wide, Voss wouldn't stop at money. The diner. Clara, used as leverage."
 
-John's jaw jumped. Under the table his hand covered hers and squeezed, grief and gratitude and want braided so tight she felt all three in her wrist. "Clara found the name. She waited until you were real. I told myself morning. Morning came early because you're brave and I'm done being softened."
+John's jaw jumped. Under the table his hand covered hers and squeezed, grief and gratitude braided so tight she felt both in her wrist. "Clara found the name. She waited until you were real. I told myself morning. Morning came early because you're brave and I'm done being softened."
 
 "Henry paid what he could," [player_name] said. "Settled in kindness. His phrase. His religion. Kindness meant my suitcase and a speech about wanting more. Kindness meant you believing it in the rain so this diner stayed lit." His thumb stroked her knuckles in a rhythm that wasn't innocent and wasn't hidden. "There was more. Twelve thousand. Terms that weren't only money. Threats. Henry kept an exchange number like a relic and a weapon. I saw it the week I left and memorized it, because I was twenty and terrified and thorough. I still know it."
 
@@ -71,7 +71,9 @@ John made a sound, half groan, half prayer. "Say the number. Let it live in this
 
 "I'm angry," he said. "At Henry. At Voss. At my father. At myself." He looked at her as if her courage had gone straight into his blood. "Not at you. You demanded truth before a kiss, and you're delivering while I sit here hard and grateful and wrecked. Wanting you this much while you hand me a creditor's number isn't soft either. Both are true."
 
-Upstairs Clara turned in her sleep, headphones on, the papers safe from the drip. John rose, stiff with more than sitting, checked the latch, and came back to stand at the booth's edge. His gaze dropped to her mouth and lifted again.
+Upstairs Clara turned in her sleep, headphones on, the papers safe from the drip.
+
+John rose, stiff with more than sitting, checked the latch, and came back to stand at the booth's edge. His gaze dropped to her mouth and lifted again.
 
 "If the ridge clears at first light, we take my truck up and wake Henry with the number still hot on our tongues," he said. "In his hallway, where diner weather can't water it down." His voice dropped, intimate as fingers under cotton. "Or we use the phone by the pie case. Call the exchange. See who answers when the Shaws stop running."
 

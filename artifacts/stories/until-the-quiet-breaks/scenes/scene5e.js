@@ -117,7 +117,7 @@ John shifted behind her. She felt the hard line of him brush once against the ba
 
 "Ignore that," he muttered into her hair. "Or don't. I'm not a saint in your uncle's living room. I watched you make him say yes and got stupidly fucking hard about your courage. My cock has opinions about your spine. I can stand here anyway."
 
-Her laugh came out broken and quiet. She reached back blindly and squeezed his wrist, felt the jump of his pulse, and let go before Clara could turn the gesture into a question. She pressed her palm flat to her own thigh to stop the shake and felt how warm she was through the denim. Her body was ready to leave this confession and climb him on the dark porch, if the night would grant them ten unwatched minutes.
+Her laugh came out broken and quiet. She reached back blindly and squeezed his wrist, felt the jump of his pulse, and let go before Clara could turn the gesture into a question. She pressed her palm flat to her own knee to stop the shake.
 
 Henry watched them with the exhausted clarity of a man who finally understood he was no longer the author of the room. "I can leave you two the house," he offered, wretchedly practical. "If that's what—"
 

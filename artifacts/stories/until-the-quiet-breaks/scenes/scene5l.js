@@ -75,7 +75,7 @@ The pie case ticked. The urn clicked off. The fluorescent light didn't flatter a
 
 Clara hugged the book. John's eyes flashed. "Then no editing on the way down. What she drew, I see under my lights."
 
-Henry called from the porch. They didn't turn. The walk downhill was rain and breath and John's shoulder brushing [player_name]'s once, electric, then again, not by accident. Her nipples tightened under wet cloth. He noticed. Neither of them named it while Clara walked ahead with the evidence.
+Henry called from the porch. They didn't turn. The walk downhill was rain and breath and John's shoulder brushing [player_name]'s once, electric, then again, not by accident. Clara walked ahead with the evidence.
 
 The blue door stuck. John shouldered it open and locked them in like a man sealing a crime scene he intended to survive. Chairs half-flipped. Urn ticking. Pie case dark. He didn't offer coffee.
 
@@ -95,7 +95,7 @@ John stepped behind [player_name] to look over her shoulder instead of beside he
 
 His hands braced the counter on either side of her, caging. "I'm going to study every margin. You're going to stay in my arms while I do it. Or you're going to put unforgiveness in my mouth before I go soft. My cock doesn't get a vote. It's voting anyway."
 
-He turned pages with one hand. The other slid under her coat and cupped her breast over her shirt, his thumb stroking her nipple to a hard peak while his eyes tracked Clara's charcoal. Want as a way to concentrate. Filth as a stay against vanishing. [player_name] tipped her head back onto his shoulder and let him. When he pinched lightly she moaned, and he took the sound as proof she hadn't turned into paper.
+He turned pages with one hand. The other slid under her coat and cupped her breast over her shirt, his thumb stroking her nipple to a hard peak while his eyes tracked the charcoal. Want as a way to concentrate. Filth as a stay against vanishing. [player_name] tipped her head back onto his shoulder and let him. When he pinched lightly she moaned, and he took the sound as proof she hadn't turned into paper.
 
 "This one," he murmured, tapping the station pillar, still rolling her nipple between finger and thumb. "I was watching you leave and calling it weather. Fuck him for that. Fuck me for swallowing it."
 

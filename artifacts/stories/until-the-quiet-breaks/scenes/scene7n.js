@@ -61,7 +61,7 @@ Rain needled the tin. The ledger waited under Clara's palm. The phone sat warm a
 She drew a breath that tasted of rust and rain. Copies could be love, if love meant refusing to let one man hold the only match.`,
   textHot: `The shed bulb flickered and held. [player_name]'s body treated every camera flash like a secret she was keeping from John on purpose.
 
-She braced the ledger on the oilcloth crate. Clara stood close enough that charcoal grit striped her sleeve. Rain hammered the tin. Wet boxwood pressed the warped door. Phone unlocked. Hands steadier than her thighs. She had chosen to photograph. What remained was who got the copies when the roll filled: a lawyer outside Somerton, or Clara and John only.
+She braced the ledger on the oilcloth crate. Clara stood close enough that charcoal grit striped her sleeve. Rain hammered the tin. Wet boxwood pressed the warped door. Phone unlocked. Hands steady. She had chosen to photograph. What remained was who got the copies when the roll filled: a lawyer outside Somerton, or Clara and John only.
 
 "Every page," Clara said. "No mercy skips. If you soft-focus a sum because it hurts, I'll take the phone."
 

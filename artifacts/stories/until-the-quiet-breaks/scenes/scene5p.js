@@ -59,7 +59,9 @@ Under the table their knees stayed locked like a second deadbolt. John traced id
 His forehead stayed against hers. Rain sheeted. The pie case ticked once in the dark like a yes from the furniture. [player_name] almost smiled and almost cried and did neither cleanly. The words were already rising in her, a promise or a plan, and his mouth was a breath away, waiting to find out which one she would give him first.`,
   textHot: `Clara bolted the blue door on [player_name]'s nod, and the sound went through [player_name]'s body like a starter pistol.
 
-Henry's third knock hit locked wood. Startled. Then quiet. Rain silvered his retreat. Clara squeezed [player_name]'s wrist, muttered about ambition costumes, and fled into wet Market Street toward Willow, leaving the closed diner to steam and rain and the heat the hall had banked when the knock came.
+Henry's third knock hit locked wood. Startled. Then quiet. Rain silvered his retreat. Clara squeezed [player_name]'s wrist, muttered about ambition costumes, and fled into wet Market Street toward Willow.
+
+That left the closed diner to steam and rain and the heat the hall had banked when the knock came.
 
 John turned the deadbolt a second time. Then he had her against it, his mouth on hers, before the shared memory could become only talk again.
 
@@ -71,7 +73,7 @@ The kiss wasn't polite. Coffee-bitter. Wet from the rain still on her lip. His t
 
 John groaned as if she had hurt him usefully. He dragged her to the front booth anyway, cracked vinyl sighing under them, and kept her half in his lap while they spoke the last scraps with their mouths close enough to share breath.
 
-The walk home alone. Forced belief. Measuring women against a ghost. Clara's charcoal. Henry's request in the front room. Loving and leaving as one motion. The letter's blade. Each sentence ended with a kiss stolen between clauses. Each kiss ended with his hand higher on her thigh. Each inch made the next sentence shakier.
+The walk home alone. Forced belief. Measuring women against a ghost. the charcoal. Henry's request in the front room. Loving and leaving as one motion. The letter's blade. Each sentence ended with a kiss stolen between clauses. Each kiss ended with his hand higher on her thigh. Each inch made the next sentence shakier.
 
 "I can survive tomorrow if tonight stays ours," he murmured, his thumb rubbing the inseam where the denim was already warm from her. "A vow, or a plan that kills the cover. I want both. The night only fits one first. And while you decide, I'm going to put my fingers where your pulse is loudest."
 

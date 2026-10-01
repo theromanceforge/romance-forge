@@ -89,7 +89,7 @@ Then she was gone, and the diner narrowed again to rain and half-light and two p
 
 John checked the back bolt and slid into the booth. His knee found hers again. "I'm still angry. I'm still glad. Those can sit in the same booth overnight." He nodded at her coat on the hook by the pass. "The letter. Read it aloud. So I hear Henry's careful voice in this room and decide what I ask him tomorrow with my own ears."
 
-She read. Weather. The blue door sticking. Clara's margins. The silence large enough to walk into. When a line landed hard, his hand slid under the table and gripped her thigh above the knee. Hard enough to bruise. Not climbing higher. Anchoring, as if her body were the only true thing in the paragraph.
+She read. Weather. The blue door sticking. the margins. The silence large enough to walk into. When a line landed hard, his hand slid under the table and gripped her thigh above the knee. Hard enough to bruise. Not climbing higher. Anchoring, as if her body were the only true thing in the paragraph.
 
 When she finished, he exhaled as if he had been underwater with her. His thumb stroked once along the inner seam of her jeans and stopped.
 
@@ -97,7 +97,7 @@ When she finished, he exhaled as if he had been underwater with her. His thumb s
 
 Lightning whitened the diner. In the black glass [player_name] saw two people in a back booth, blankets waiting, coffee gone cold, and the unmistakable lean of two bodies that wanted to fuck and had chosen truth as the price of entry.
 
-John laced his fingers through hers across the table. His other hand stayed on her thigh, warm through denim. Above them Clara's floorboards creaked once and went quiet.
+John laced his fingers through hers across the table. His other hand stayed on her thigh, warm through denim. Above them the floorboards creaked once and went quiet.
 
 Between her legs, [player_name] was still wet. She shifted once and felt his fingers tighten in answer, a man holding a line he meant to cross only when she opened the gate.
 

@@ -47,7 +47,7 @@ Rain needled Market Street beyond the blue door. Fryer oil ticked in the cooling
 
 "You hung up," John said. He stood and backed her against the three-compartment sink before the sentence finished landing. His coat was open, his chest to hers. "Good. They don't get your voice. They don't get Shaw like a plea. Now decide what the number gets. Ash in this sink, or leverage warm in your pocket. While I finish what that phone call started, with your pulse under my mouth."
 
-She tasted copper and rain. His thigh pushed between hers. His mouth was already open against her neck, sucking hard enough to mark. "If I burn it," she managed, steadier than the clench of her thighs, "I choose poverty. No proof when Henry starts softening things again. Only the hang-up, and Clara's papers, and whatever noon demands of my mouth."
+She tasted copper and rain. His thigh pushed between hers. His mouth was already open against her neck, sucking hard enough to mark. "If I burn it," she managed, steadier than the clench of her thighs, "I choose poverty. No proof when Henry starts softening things again. Only the hang-up, and the papers, and whatever noon demands of my mouth."
 
 "If you keep it," he rasped, his hand under her sweater, his thumb brushing the underside of her breast until her nipple peaked against lace, "you choose a different poverty. A number under the mattress. Mornings wondering whether today you dial Uncle into silence with a ghost's digits."
 
@@ -67,7 +67,7 @@ She could have come from the sentence alone. She fought it, thighs shaking. Comi
 
 "Hold it," he murmured. "Anger and want in the same fist."
 
-The blue door stuck like a promise that needed force. [player_name] thought of Mae's tidy stamps. Of Henry's pages. Of Clara waking to a house that smelled like fear dressed as patience. She felt John's cock twitch against her belly and refused to let wanting pick the knife alone.
+The blue door stuck like a promise that needed force. [player_name] thought of Mae's tidy stamps. Of Henry's pages. Of Willow waking to a house that smelled like fear dressed as patience. She felt John's cock twitch against her belly and refused to let wanting pick the knife alone.
 
 "If I burn it," she breathed, "you keep your hand on me until the ash is wet. If I keep it, you don't go gentle on the walk to Willow. You stay hard and angry and mine while I put the number in my pocket and the hang-up in Henry's face."
 

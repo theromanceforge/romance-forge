@@ -47,7 +47,7 @@ Clara's floorboard creaked once upstairs and went still. [player_name] thought o
 The mantel clock ticked. [player_name] drew a breath that tasted of woodsmoke and rain and old coins. John's open hand waited at his side, fingers slightly curled, and she watched them tremble once before her own hand moved.`,
   textHot: `Willow Lane smelled like wet boxwood and woodsmoke and the particular heat of a confession that had hitchhiked into [player_name]'s body before Henry finished a single sentence.
 
-She stood in the Shaw kitchen with John at her back, close enough that his cock pressed a thick line against the curve of her ass through denim whenever he breathed too deep. Half-hard from dread and proximity and the unfinished morning. Rain stitched the windows. The mantel clock ticked like it wanted an audience. Clara had gone up to bed. Henry's hands shook around an empty mug.
+She stood in the Shaw kitchen with John at her back, close enough that his cock pressed a thick line against the curve of her ass through denim whenever he breathed too deep. Half-hard from dread and proximity and the unfinished morning. Rain stitched the windows. The mantel clock ticked like it wanted an audience. Henry's hands shook around an empty mug.
 
 John's hand stayed at [player_name]'s hip, his thumb under her sweater on the bare skin above her waistband. Out of Henry's line of sight. Claiming the room without softening it.
 

@@ -77,7 +77,9 @@ John groaned. He stretched her with a patience that felt like cruelty. His other
 
 "Night at the flat," he said, his voice wrecked. "I take you upstairs. I strip you. I put my mouth on this"—he curled and she saw stars—"until you come on my tongue with Market Street dripping outside. Then I fuck you slow enough that you remember every year you were gone, and hard enough that you stop practicing brighter rooms. No uncle. No keys. Just the lock and the rain and you taking me until dawn."
 
-Her head tipped back into the wet leaves. Pleasure coiled low and mean. She was close already. "And Clara," she forced out. "The keys. If we vanish into your bed while she walks into Henry alone—"
+Her head tipped back into the wet leaves. Pleasure coiled low and mean. She was close already. Then she caught his wrist and made him stop.
+
+"Wait. Clara," she forced out. "The keys. If we vanish into your bed while she walks into Henry alone—"
 
 "I know." He eased the rub just enough that speech could return, though his cock stayed a blunt insistence against her hip. His fingers stayed inside her, counting her pulse from the inside. "Cut the hour short and I walk into that kitchen with you still on my hand. I'll still be hard. I'll still want to bend you over the first flat surface that isn't a hedge. But my sister doesn't face Henry's silence alone."
 
