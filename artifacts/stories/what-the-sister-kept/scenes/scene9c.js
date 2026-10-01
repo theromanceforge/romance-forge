@@ -79,7 +79,7 @@ He used a reshuffle of cameras as cover and pressed her into the canopy's deeper
 
 She rocked on his thigh once, ruined. He groaned like restraint was a wound. "I ordered a hallway once," he said, and the old ash stirred in his voice. "I won't order your ending. Choose. Please."
 
-The please cracked the armor. [player_name] nodded once. Will's thumb found her pulse again and counted, as if timing an orgasm he refused to give her on pier concrete. "Before I kiss you where they can see," he said, "and make Ellison's shadow into a headline we didn't earn."`,
+The please cracked the armor. [player_name] nodded once. Will's thumb found her pulse again and counted, as if timing an orgasm he refused to give her on wet concrete. "Before I kiss you where they can see," he said, "and make Ellison's shadow into a headline we didn't earn."`,
   choices: [
     { id: "scene10e", text: "Lead Renny's public story — sister's reckoning", textHot: "Lead Renny's public story — sister's reckoning" },
     { id: "scene10h", text: "Endure the open secret with Will", textHot: "Endure the open secret with Will" }

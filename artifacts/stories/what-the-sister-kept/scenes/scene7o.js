@@ -47,7 +47,7 @@ They escaped into a service stairwell that smelled like floor wax. When the door
 
 He kissed her hard, thigh between hers, hand under her coat and blouse to palm her bare waist and then the underside of her breast until her nipple peaked against his thumb. His cock pressed her hip through his trousers, thick and insistent; she rocked on his thigh and felt how soaked she already was.
 
-He worked her jeans open and slid two fingers into her; she gasped; he kissed the sound quiet. "Hide together through the storm," he murmured, pumping slowly, thumb on her clit, "blinds taped, my bed, and I'll keep you until flashbulbs are just weather. Or meet me at the pier anniversary, and after the crowd thins I'll propose truth with my mouth between your thighs."
+He worked her jeans open and slid two fingers into her; she gasped; he kissed the sound quiet. "Hide together through the storm," he murmured, pumping slowly, thumb on her clit, "blinds taped, my bed, and I'll keep you until flashbulbs are just weather. Or meet me at the pier, and after the crowd thins I'll take you somewhere warm, away from the boards, and propose truth with my mouth between your thighs."
 
 She rocked on his hand, forehead to his. He freed his cock enough to drag the head through her folds without entering, hot and blunt, painting her clit until she jerked. She came on the head of his cock and his thumb, quiet, shaking, fist in his collar, while a foghorn groaned outside. He eased back without chasing his own finish, tucked himself away with shaking hands, fastened her jeans, and pressed his forehead to hers.
 

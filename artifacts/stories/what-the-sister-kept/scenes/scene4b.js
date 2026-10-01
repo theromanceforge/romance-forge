@@ -85,7 +85,7 @@ A knock. "Counsel in the lobby. Ms. Patel. Retainer as of this morning."
 
 "Efficient," Will said to the weather. "Texted from the bathroom before we sat. Planning isn't lying, right?" He turned, pupils still a little wide from the hour he'd spent undressing her silence. "You were about to tell me. I felt it in your breathing. In the way you said my name like you wanted it against your skin. Don't insult us both."
 
-Heat flooded her face and lower. Owen at the pier with someone wrong; the friends story swallowed; the statement scrubbed. Will had nearly pulled it free while her body opened like a second confession.
+Heat flooded her face and lower. Will had nearly pulled the truth free while her body opened like a second confession.
 
 "With a lawyer," she said, voice rough, "I drip what is safe. Controlled. On the record without hanging myself for your captain."
 

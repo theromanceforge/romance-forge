@@ -39,7 +39,7 @@ Outside, Harborwick tried to become day. [player_name] drew a breath that tasted
 "Clock," Will said softly. "Together in truth at dawn, or a soft rebuild from hospital light. Either way you stayed. Pick."`,
   textHot: `Dawn arrived like soft language: antiseptic, machine beeps, rain freckling the hospital glass. And [player_name]'s body answered Will's bedside quiet with a pulse she refused to tidy.
 
-Will sat on the edge of the bed. The gauze at his temple was neat enough for Ellison's footnotes and ugly enough to remember the pipe and the red door. Cho was careful: remains unidentified, charm maybe. The quiet had come back as bedside stillness, and as the hard line of Will's cock under a thin gown he didn't apologize for.
+Will sat on the edge of the bed. The gauze at his temple was neat enough for Ellison's footnotes and ugly enough to remember the pipe and the red door. The quiet had come back as bedside stillness, and as the hard line of Will's cock under a thin gown he didn't apologize for.
 
 "You stayed," Will said, his voice sex-rough under the detective flatness. It was recognition, dangerous as any warrant. "CT clear enough. The clerk got the hours we spent on machines. You chose dawn. And I'm still hard for the way you said my name when I went down."
 
@@ -51,11 +51,11 @@ Will's late smile arrived, wrong and fond. His knuckles found her wrist. Then, w
 
 "Together in truth means we walk out in daylight as partners who won't let the press invent a corpse before Cho speaks," he said. "And after the first statement I take you, carefully, in a supply closet that smells like antiseptic, my palm over your mouth, my temple throbbing while I make you come for surviving the shot with me." He rolled her palm once.
 
-"A soft rebuild means we keep one sealed page healing. The Solis drawer, or a pier detail you're not ready to put on a stand. And I go down on you quietly after every soft beep until the rebuild tastes like sweat, and you clench around my tongue for every footnote Ellison invents. Either way the bones stay unnamed, and I stay aching."
+"A soft rebuild means we keep one sealed page healing. The Solis drawer, or a detail you're not ready to put on a stand. And I go down on you quietly after every soft beep until the rebuild tastes like sweat, and you clench around my tongue for every footnote Ellison invents. Either way the bones stay unnamed, and I stay aching."
 
 Nina Solis stayed sealed: a hint, a flinch at partner, the charm he wore like armor. Not a striptease for bedside comfort.
 
-[player_name] tasted copper and want. Hospital dawn did not finish the mystery. It finished a fork: body over trail. The spend was still hers and her jeans were still damp from the night's stolen alcove. "Ellison will call soft partnership proximity with better lighting," Will murmured, eyes on wet parking lot, free hand already under her shirt finding a tight nipple and rolling until her hips jerked. "You sitting through CT is cooperation that chose a wounded detective. Remains unidentified. Charm maybe. I asked for dawn because lightly wounded still wants your hand—and your cunt—while machines beep. Offering chase made me slightly less bastard. Slightly."
+[player_name] tasted copper and want. Hospital dawn did not finish the mystery. It finished a fork: body over trail. The spend was still hers and her jeans were still damp from the night's stolen alcove. "Ellison will call soft partnership proximity with better lighting," Will murmured, eyes on wet parking lot, free hand already under her shirt finding a tight nipple and rolling until her hips jerked. "You sitting through CT is cooperation that chose a wounded detective. I asked for dawn because lightly wounded still wants your hand—and your cunt—while machines beep. Offering chase made me slightly less bastard. Slightly."
 
 When the corridor cleared, he pulled her into the blind corner of the bay. The gauze brushed her temple as he kissed her, hard enough to bruise, copper shared, teeth both threat and tenderness. His thigh pushed between hers. She gasped. He groaned into her mouth as if the sound hurt more than the cut. His fingers pushed into her jeans, under soaked cotton. She was dripping. He cursed softly and pumped deep.
 

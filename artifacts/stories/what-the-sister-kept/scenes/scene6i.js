@@ -93,7 +93,7 @@ Ellison left them burnt coffee and wet wool. In the empty corridor, the heat tha
 
 He stepped into her space until his thigh slotted between hers against the corridor wall, breath on her mouth, the kiss denied on purpose. His hand slid under her sweater onto bare ribs, then up, his thumb finding a nipple already peaked.
 
-"Two ways," he murmured, voice frayed. "Sit across from him cuffed, then let me take you apart after, in a room that locks. Or we float thin ice: release on conditions Ellison hates, a wire while he's still out talking to the pier-someone, and I keep my hands on you between briefings." He opened her jeans a tooth and slid two fingers into her panties where she was slick, groaning low. "Tell me to stop."
+"Two ways," he murmured, voice frayed. "Sit across from him cuffed, then let me take you apart after, in a room that locks. Or we float thin ice: release on conditions Ellison hates, a wire while he's still out talking to his contact, and I keep my hands on you between briefings." He opened her jeans a tooth and slid two fingers into her panties where she was slick, groaning low. "Tell me to stop."
 
 "Don't."
 

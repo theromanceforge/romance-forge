@@ -30,7 +30,7 @@ They left Ellison's glass for the bullpen. Detectives glanced and glanced away. 
 
 [player_name] leaned into his hand despite herself. "Thank me by not becoming the push that makes witnesses go blank. Thank me by keeping Cho's pending sacred. Thank me by remembering Renny is still a pointed finger and unidentified bones, not a clearance metric."
 
-"Done," Will said. "Also not done. Shielding me bought rope, and rope has two ends. One end is the machine: memos, briefings, me smiling captains into patience while you sit in chairs looking soft enough to keep Internal bored. The other end is volume: cameras, the sister's story, Renny's festival night loud enough that Internal can't quietly bury closeness without looking like they buried a missing girl." He stopped on the landing. "You can speak to the cameras for me, your voice as the shield instead of your chair. Or you can meet me at the pier anniversary: posters and crowds, Renny's night under sodium light and fog, a place to finish what we keep interrupting without giving Ellison a press clipping yet."
+"Done," Will said. "Also not done. Shielding me bought rope, and rope has two ends. One end is the machine: memos, briefings, me smiling captains into patience while you sit in chairs looking soft enough to keep Internal bored. The other end is volume: cameras, the sister's story, Renny's festival night loud enough that Internal can't quietly bury closeness without looking like they buried a missing girl." He stopped on the landing. "You can speak to the cameras for me, your voice as the shield instead of your chair. Or you can meet me at the pier anniversary: crowds under sodium light and fog, Renny's night said out loud in public. What we keep interrupting waits for somewhere warm afterward, away from the boards, without giving Ellison a press clipping yet."
 
 [player_name] almost touched the white knuckle at his side. Then did. His pulse jumped once under her fingers. Will didn't pull away.
 
@@ -57,13 +57,13 @@ His mouth claimed hers, thigh between her legs, hand under her blouse to palm he
 
 "Will—someone—"
 
-"Later," he muttered, working her jeans open with one hand while the other pinned her wrist above her head against cold glass. Two fingers slid into her; she gasped; he kissed the sound quiet. He pumped deep and curled, thumb on her clit in tight circles. "Meet me at the pier anniversary and I'll walk those boards with my hand on your back like a man who still has rope. And after the crowd thins, I'll put my mouth on you until you can't stand."
+"Later," he muttered, working her jeans open with one hand while the other pinned her wrist above her head against cold glass. Two fingers slid into her; she gasped; he kissed the sound quiet. He pumped deep and curled, thumb on her clit in tight circles. "Meet me at the pier and I'll walk those boards with my hand on your back like a man who still has rope. And after the crowd thins, I'll put my mouth on you until you can't stand."
 
 "If I go loud—"
 
 "Public storms dig," Will said, freeing his cock enough to drag the head through her folds without entering, hot, blunt, cruel, until she jerked. "Loud doesn't respect kept silences. The pier keeps us inside the machine a little longer." He pushed just the tip in and held, trembling with restraint, then eased out and rubbed her again.
 
-She came on his thumb and the head of his cock, quiet, shaking, fist in his collar, while rain streaked the glass and a foghorn groaned. Will eased back without chasing his own finish and tucked himself away with shaking hands. He fastened her jeans and pressed his forehead to hers. "Speak to the cameras for me," he whispered, voice wrecked, "or meet me at the pier anniversary. I can sell either to Ellison's night desk. I can't sell hesitation."
+She came on his thumb and the head of his cock, quiet, shaking, fist in his collar, while rain streaked the glass and a foghorn groaned. Will eased back without chasing his own finish and tucked himself away with shaking hands. He fastened her jeans and pressed his forehead to hers. "Speak to the cameras for me," he whispered, voice wrecked, "or meet me at the pier. I can sell either to Ellison's night desk. I can't sell hesitation."
 
 He walked her down one more flight before the bullpen cameras could invent a story, into the parking garage's concrete chill. He boxed her against a pillar between a cruiser and his own unmarked, rain still beading on his shoulders, and put her hand on his cock through his pants. "Feel what the shield did," he muttered. "You stopped Ellison from cutting me and I got harder for the mercy. That should scare you. It scares me."
 

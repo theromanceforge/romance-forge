@@ -99,7 +99,7 @@ Gone. Door click. Ellison's voice rose beyond the door: access, cooperation, lia
 
 Two exits burned. Upstairs: Ellison's office, full cooperation traded for access, every soft place exposed under fluorescent judgment while Will watched her strip out truths he had nearly tasted. Or the wet lot: Will's car, off-record honesty in close quarters, his hands on the wheel and maybe nowhere else yet, breath fogging the windshield.
 
-Choosing Ellison meant walking toward judgment with her cunt still aching for the man Ellison was warning her about. Choosing his car meant climbing into the smell of him, gun oil and rain, and telling the pier truth while neither of them pretended this was only a case. Beyond the door Will laughed once without humor, and [player_name] bit her lip hard enough to taste copper.`,
+Choosing Ellison meant walking toward judgment with her cunt still aching for the man Ellison was warning her about. Choosing his car meant climbing into the smell of him, gun oil and rain, and telling the truth while neither of them pretended this was only a case. Beyond the door Will laughed once without humor, and [player_name] bit her lip hard enough to taste copper.`,
   choices: [
     { id: "scene5a", text: "Follow Ellison upstairs — trade full cooperation for case access", textHot: "Follow Ellison upstairs — strip every soft truth for access while Will watches" },
     { id: "scene5b", text: "Walk Will to his car — spill the rest off-record", textHot: "Climb into Will's car — spill the pier truth while his want still fills the cabin" }

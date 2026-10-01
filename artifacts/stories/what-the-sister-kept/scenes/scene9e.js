@@ -41,7 +41,7 @@ Ellison's tablet painted the glass from below like a second, uglier dawn. On ano
 The corridor clock hummed. Hale's cuffs clicked once. Hope argued that Renny might still walk out of a room like this. Dread answered that Marcus Hale hadn't wanted her to.
 
 "Clock," Will said softly. "Speak Renny's fate honestly together, or carry the naming into the sister's reckoning. Either way, Hale spoke. Either way, his name comes into daylight. Pick."`,
-  textHot: `The interview room smelled like burnt precinct coffee and wet wool and the filthy patience of a clock that had watched [player_name] get wet for William Akers under worse lights than these. Ellison watched through glass. Cho's memo lived in Will's cracked notebook without baptism: remains unidentified, charm maybe, age range ugly with hope. Science careful. Hope employed. Dread armed. [player_name]'s cunt throbbed stupidly anyway because Will's scar nick was pale under fluorescents and his brutal charm was locked to inventory and she had been unfinished since the wire, the warehouse, the rain.
+  textHot: `The interview room smelled like burnt precinct coffee and wet wool and the filthy patience of a clock that had watched [player_name] get wet for William Akers under worse lights than these. Ellison watched through glass. [player_name]'s cunt throbbed stupidly anyway because Will's scar nick was pale under fluorescents and his brutal charm was locked to inventory and she had been unfinished since the wire, the warehouse, the rain.
 
 Will stood pinning Hale with his attention, like a warrant with a pulse. Attraction was a stupid animal after a catch. It came anyway. Soap and salt. Cracked knuckles. His restraint was its own stroke.
 

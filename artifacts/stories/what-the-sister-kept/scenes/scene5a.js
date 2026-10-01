@@ -71,7 +71,7 @@ Will's mouth twitched at that, an almost-joke about dating and case numbers, and
 
 "Don't lecture me on quiet, Akers. You know what hallway chaos costs." The sealed past again: a partner, a fall, a file. Will took it. The wound showed in the set of his shoulders.
 
-"Full cooperation means I put Owen at the pier," [player_name] said. Saying it felt like orgasm's mean cousin, release edged with ruin. "Means I admit the omission. Means I stop protecting ash because ash still looks like family if you squint."
+"Full cooperation means I put Owen at the pier," [player_name] said. Saying it felt like release edged with ruin. "Means I admit the omission. Means I stop protecting ash because ash still looks like family if you squint."
 
 Ellison's tablet woke, cold light under her chin. "On record. Tonight. Before Cho drips. Before Owen burns the link."
 

@@ -87,7 +87,7 @@ Later he lifted her onto the chipped kitchenette counter, her jeans shoved to he
 
 "I want the hiding to last," Will said against her throat. "Wanting that makes me selfish. Offering you the storm anyway makes me slightly less." He freed himself again and slid through her without entering while she gasped into his shoulder.
 
-"Pier dawn means I bend you over the boards in the fog until Harborwick-or-elsewhere is just how deep I am." One shallow thrust, then out. "The storm means you walk into the mics with me on your thighs."
+"Pier dawn means I walk you off those boards to the boathouse and bend you over the bench until Harborwick-or-elsewhere is just how deep I am." One shallow thrust, then out. "The storm means you walk into the mics with me on your thighs."
 
 [player_name] came a third time on his hand, shaking, laughing once into his collar. Will finally let himself spill against her thigh with a groan that sounded like a sealed file cracking without opening. He cleaned her with a cheap towel, mock-courteous, and laced their fingers hard.
 

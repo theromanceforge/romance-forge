@@ -81,7 +81,7 @@ Silence pooled. A fridge hummed. Owen's throat worked. "You don't know what you 
 
 Owen laughed once, thin. "Courtesy. You sound like that Akers bastard. Ellison's attack dog with the scar. You sleeping with him yet, or just letting him rewrite your memory?"
 
-The jab landed exactly where she was wet. Her face burned and her nipples peaked hard enough to ache. Will would have smelled the truth on her if he were in the room. She gave Owen nothing. "He's allergic to lies. So am I, lately. Start with the someone on the pier."
+The jab landed. Her face burned. She gave Owen nothing. "He's allergic to lies. So am I, lately. Start with the someone on the pier."
 
 Owen turned to the sink, hands braced on porcelain. For a second she saw the festival night in his shoulders: the wrong silhouette, the too-clean hands, the friends story delivered like a sedative.
 
