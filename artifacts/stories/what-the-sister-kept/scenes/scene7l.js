@@ -22,7 +22,7 @@ Attraction wasn't a flicker anymore. It was the room's weather. She touched the 
 
 Will's forehead found hers. The kiss he'd been denying held one more breath, then broke. His cracked knuckles framed her jaw. Her hands found the badge and set it aside so metal wouldn't lie between them for one more minute.
 
-They did not take the whole night. War did not gift whole nights. They took the kitchen—coat on the floor, hoodie watching from the chair, radiator knocking like a second clock—heat advancing trust instead of cosplaying the kill. [player_name]'s hands on his scar said I see the wound without needing the whole hallway yet. When they stopped, unfinished again because hooks mattered, Will rested his brow against hers and let the raid wound under his charm show a tooth without dumping the sealed file.
+They did not take the whole night. War did not gift whole nights. They took the kitchen—coat on the floor, radiator knocking like a second clock—heat advancing trust instead of cosplaying the kill. [player_name]'s hands on his scar said I see the wound without needing the whole hallway yet. When they stopped, unfinished again because hooks mattered, Will rested his brow against hers and let the raid wound under his charm show a tooth without dumping the sealed file.
 
 "Two ways from here," he murmured. "Take the quiet deal if the SIM leverage buys it: sealed pages, supervised truth, a map without a false funeral on municipal steps. Or ride the raid aftermath when the call comes, hospital or chase if I catch some damage and the clerk still runs, and prove that choosing each other means staying when radios crackle. The deal protects a kind of peace. The raid protects a kind of honesty. Neither puts Renny on bone tonight."
 
@@ -59,7 +59,7 @@ He dropped to his knees on the linoleum and put his mouth on her through the aft
 
 Rain thickened. Will picked up the badge and held it without pinning it on. His free hand cupped her nape, grounding her, his wrist still shining with her. "Clock. The quiet deal, or hospital or chase after the raid. Either way, we already chose each other. Either way, Cho's tray stays unnamed tonight."
 
-[player_name] left her jeans half-honest where his hands had been and met his eyes across the tip of evidence on the table. Missing charm. Unidentified bones. Quiet deal with him—or ride the raid fork after the red door. Romance was no longer theoretical; the next procedural hour still had teeth. The table would not forgive a soft lie—and neither would the detective who had set his badge down like a breakup note and pinned it back like a man choosing war beside her.
+[player_name] left her jeans half-honest where his hands had been and met his eyes across the table. Quiet deal with him—or ride the raid fork after the red door. The next procedural hour still had teeth. The table would not forgive a soft lie—and neither would the detective who had set his badge down like a breakup note and pinned it back like a man choosing war beside her.
 
 He guided her hand along him once more, then set both palms on either side of the badge, his covering hers, his pulse jumping. "Quiet means the bargain. Raid means the radios. Either way, I leave this kitchen changed. Say it, [player_name]. The quiet deal, or hospital or chase when the raid writes the next sentence in static."
 

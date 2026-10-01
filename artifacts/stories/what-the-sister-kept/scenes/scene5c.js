@@ -67,7 +67,7 @@ Patel's breath caught. [player_name]'s face burned. He'd seen. Of course he had.
 
 Under the table his knee pressed again, deliberate, and [player_name] had to bite her tongue to keep from rocking into it. Patel offered water, air, a break. Will smiled without humor. "She doesn't need air. She needs to decide if her mouth belongs to your pad or to the truth making her squirm in that chair."
 
-"I'm not your enemy," he added, quieter, for her body as much as her ears. "I'm the dig. Measured teaspoons keep Mara calm and keep me hard and unfinished while you perform careful. The whole pier night costs you counsel's smile and buys you my trust. And maybe, if you still want it after, my mouth where your pulse is loudest."
+"I'm not your enemy," he added, quieter, for her body as much as her ears. "I'm the dig. Measured teaspoons keep Mara calm and keep me hard and unfinished while you perform careful. The whole truth about Owen costs you counsel's smile and buys you my trust. And maybe, if you still want it after, my mouth where your pulse is loudest."
 
 Her clit throbbed once, hard, traitorous. A cart rattled past in the corridor, evidence bags on soft wheels. Patel's pen hovered over later. Will's want sat across from her silence and didn't apologize for thickening behind his zipper while counsel talked columns.
 

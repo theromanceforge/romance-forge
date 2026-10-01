@@ -63,7 +63,7 @@ Rain freckled the glass. She still tasted the almost-confession from downstairs:
 
 The timing was filthy. Want flooded her anyway. Her thighs pressed hard together, and her clit throbbed once when Will stepped half a pace nearer. Soap and salt filled her nose until she had to part her lips to breathe him without looking like she was breathing him.
 
-"If I cooperate, I stay in the room," [player_name] said, voice rough. "Cho's notes. Charm probability. Before rumor buries hope or sells dread as gospel."
+"If I cooperate, I stay in the room," [player_name] said, voice rough. "Cho's notes. Before rumor buries hope or sells dread as gospel."
 
 "You stay under my rules," Ellison said. "Akers primary. You do not date the case."
 

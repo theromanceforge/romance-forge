@@ -73,7 +73,7 @@ When Ellison turned to murmur at the glass, Will's hand found the inside of [pla
 
 She pictured catching the clerk off Owen's dates, then Will's fingers in her in a locked conference room until she shook quiet enough for fluorescent lights. She pictured the mercy deal, and Will keeping her dripping through the bargain language. Either fantasy made her wetter.
 
-"You are inventing filth on my partial," Ellison said, not quite joking, eyes on the flush. "Use it as fuel. Speak the spend before tip-sheets burn the clerk's road." Will's thumb stroked her pulse once more—filthy-soft—and [player_name] nodded before grammar caught up, body ahead of oath, soaked and furious and precise. Copper and want filled her mouth. One hoodie. One bracelet gap. One detective with brutal charm and a sealed hallway she was not allowed to enter yet and still wanted to kiss open.
+"You are inventing filth on my partial," Ellison said, not quite joking, eyes on the flush. "Use it as fuel. Speak the spend before tip-sheets burn the clerk's road." Will's thumb stroked her pulse once more—filthy-soft—and [player_name] nodded before grammar caught up, body ahead of oath, soaked and furious and precise. Copper and want filled her mouth. One detective with brutal charm and a sealed hallway she was not allowed to enter yet and still wanted to kiss open.
 
 Will's thumb left her wrist. The room came back: the clock, the cuffs ticking, Owen's breath. Ellison's empty mug. Rain on the glass.
 

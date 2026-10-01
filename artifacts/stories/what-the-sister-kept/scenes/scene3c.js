@@ -47,7 +47,7 @@ She said it again. Her voice broke. Will absorbed it like a man who'd taken wors
 
 "Cho hasn't ID'd anyone," he went on, quieter. "We also don't pretend your silence was nothing. You told me. That matters. What you do in the next hour matters more."
 
-She couldn't breathe in here anymore, with the bracelet and the posters and the folded hoodie. She stood and walked out past him, and Will followed her down the narrow hall to her own kitchen and its single buzzing bulb. Out here the air was only rain, coffee, and him. She leaned back against the counter and felt the shaking turn into something else.
+She couldn't breathe in that room anymore. She stood and walked out past him, and Will followed her down the narrow hall to her own kitchen and its single buzzing bulb. Out here the air was only rain, coffee, and him. She leaned back against the counter and felt the shaking turn into something else.
 
 Will stopped close enough that she felt his warmth through her shirt. His soft voice made everything worse. "Beg me soft," he said, gaze dropping to her throat, her breasts, "or warn him. I'll hate neither. I'll want you through both, and that's my problem, not the case's."
 

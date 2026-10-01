@@ -55,7 +55,7 @@ Outside, Harborwick shouted. Inside, the quiet held for one more hour.
 "Pick," Will said. "The boards at dawn, or the microphones now."`,
   textHot: `The safehouse smelled like old paint, takeout ginger, and the unfinished want that hiding always woke in [player_name] when Will locked a deadbolt. He looked at her like the city's storm was just weather. The blinds were taped. The phones lay facedown. A muted chyron looped City Hall. His knuckles were white on the bolt. [player_name]'s pulse lived in her throat and lower, and her jeans were already a problem after the run through the rain.
 
-Nipples peaked under her shirt from adrenaline and the way Will watched her mouth. Remains unnamed upriver. Charm still only like. Hope and dread on the taped glass. Owen off her paper. his old wound sealed.
+Nipples peaked under her shirt from adrenaline and the way Will watched her mouth. Hope and dread on the taped glass. Owen off her paper. his old wound sealed.
 
 "You lit a match, or Internal leaked one," Will growled, already closing the distance. He boxed her against the taped window, where fog showed as a gray slice. His thigh pushed between hers until she gasped at the pressure through denim.
 
@@ -67,7 +67,7 @@ Nipples peaked under her shirt from adrenaline and the way Will watched her mout
 
 "Or we step back into the storm. Blow the windows wider. And after, I take you in the first stairwell off the steps, my palm over your mouth, my name inside you while the city shouts." [player_name] rocked on his hand. It felt like loyalty's filthy twin.
 
-"If we stay hidden—" "Us over narrative for soft hours," Will snarled, curling his fingers until her knees buckled against the glass. "If you step back—narrative as weapon again. Cho will not name bones because we hid. Charm stays like. Your kept secret presses—storms dig; hiding buys time and costs control; pier dawn buys geography; stepping back buys daylight hunting." He freed himself enough to smear the head of his cock through her folds without entering—hot, blunt, cruel, painting her while the muted television flickered.
+"If we stay hidden—" "Us over narrative for soft hours," Will snarled, curling his fingers until her knees buckled against the glass. "If you step back—narrative as weapon again. Your kept secret presses—storms dig; hiding buys time and costs control; pier dawn buys geography; stepping back buys daylight hunting." He freed himself enough to smear the head of his cock through her folds without entering—hot, blunt, cruel, painting her while the muted television flickered.
 
 She came quietly against the taped blinds, shaking, her fist in his shirt, biting his shoulder. Will eased back without chasing his own finish. His cock jumped against her thigh. "I'll make you choose while you drip on a detective who chose to hide with you," he said, "and still wants inside you more than he wants Ellison's drafts."
 

@@ -31,7 +31,7 @@ When [player_name] opened, Detective William Akers filled the frame the way weat
 
 "Ms. [player_name]." Her name left him like a fingertip at a pulse point. "Cold case. Your sister. Renny."
 
-The hallway clock hummed. Festival night rose sudden and sharp: pier lights, Renny at sixteen in a borrowed hoodie, the silver bracelet missing its tiny anchor. Seven years of almost. [player_name] kept one hand on the knob. The other wanted, traitorously, to smooth the damp from his coat.
+The hallway clock hummed. Festival night rose sudden and sharp: pier lights, Renny in a borrowed hoodie, the silver bracelet missing its tiny anchor. Seven years of almost. [player_name] kept one hand on the knob. The other wanted, traitorously, to smooth the damp from his coat.
 
 Will held up the bag without crossing the threshold. The silver charm caught light like a held breath. Water-stained. Possibly Renny's. Possibly anyone's. His soft voice did more damage than a shout.
 

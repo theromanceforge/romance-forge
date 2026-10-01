@@ -53,7 +53,7 @@ She almost said his name like a prayer. "If I read it in bed," she admitted, "I'
 
 The honesty landed between her legs like a stroke. She gripped his wrist and felt his pulse hammer, badge and hunger in time. Pier salt leaked through the cracked window.
 
-"Two ways," he said, thumb stroking once at her hipbone. "Tell me the letter truth in bed, aloud, all of it, and I listen until the page is finished. Nothing else. Grief isn't foreplay. Or burn what would break the focus and keep the case sharp while you shake in my arms over ash." His laugh was wrecked. "Choose before I forget I'm a badge."
+"Two ways," he said, thumb stroking once at her hipbone. "Tell me the truth in bed, aloud, all of it, and I listen until you're finished. Nothing else. Grief isn't foreplay. Or burn what would break the focus and keep the case sharp while you shake in my arms." His laugh was wrecked. "Choose before I forget I'm a badge."
 
 The foghorn answered from the river. Will kissed her forehead, not her mouth. She covered his cracked knuckles with her palm at last, heat and calluses, and his breath left him like a man punched soft.
 

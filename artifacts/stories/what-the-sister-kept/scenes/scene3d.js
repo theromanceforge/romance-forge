@@ -71,7 +71,7 @@ She stepped half out of the shadow so the vendor could see her: not a badge, jus
 
 He let her plea sit beside the flyer. The vendor's gaze darted: exit, Will, her, flyer, exit. A security radio crackled.
 
-Will drew her a step back from the counter, into the dark seam between the booth and a stack of crates, giving the vendor room to sweat. Out here it was only crate shadow and generator hum. His coat sleeve brushed her forearm, and heat ran straight to the base of her spine.
+Will drew her a step back from the counter, into the dark seam between the booth and a stack of crates, giving the vendor room to sweat. Out here it was only crate shadow and generator hum. His coat sleeve brushed her forearm.
 
 "You asked me to chase witnesses," he said, quiet enough to be intimacy, and it was. His hip nearly brushed hers; she felt how hard the chase had made him and bit her tongue. His fingers found the small of her back under her coat, claiming, steadying, a brand that shot heat between her legs. "This is what chasing looks like when the witness prefers dough to truth. I can keep smiling until he talks. Or you can put a hand on me and haul the smile back before he decides the exit is safer than my manners."
 

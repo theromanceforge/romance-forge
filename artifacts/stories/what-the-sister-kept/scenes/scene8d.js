@@ -55,7 +55,7 @@ Burning wouldn't name the bones. It would decide whether Renny's only if, the se
 
 The page collapsed. Will ran the tap; a hiss; black flakes. He set the bowl in the sink and turned the water off, and then they just stood there in the smell of it. His palm flat on the small of her back. Her forehead against his chest. The foghorn came and went twice before either of them moved.
 
-Forehead to forehead. Breathing hard. Cock hard against her belly. Her cunt clenched around nothing. "It is done," he said against her lips. "I will not log the letter. That is me spending something. Ellison gets journal chain without this page. Cho still says pending. Remains still unnamed. Charm upstairs still only like. Memory is not admissible the same way—that is the wound—and you are soaked against my thigh because wounds make you honest in ways courtrooms do not."
+Forehead to forehead. Breathing hard. "It is done," he said quietly. "I will not log the letter. That is me spending something. Ellison gets the chain without this page. Memory is not admissible the same way—that is the wound."
 
 She turned her face up. "I don't want to only taste ash tonight."
 
@@ -71,7 +71,7 @@ He climbed up beside her and pulled the blanket over them both. He was hard agai
 
 Rain ticked on the window. Down the hall, the bowl was cooling in the sink. The case hadn't moved. Cho's pending was still the only honest word about the remains.
 
-"Two doors from the ash," Will said quietly. "Live with the sealed pages: Ellison's quiet architecture, the journal hunting the clerk, me here on the nights you hate yourself for the match. Or walk the pier dawn: take the smell of this to the water and decide whether to leave or stay. Wanting you isn't the vote."
+"Two doors from the ash," Will said quietly. "Live with the sealed pages: Ellison's quiet architecture, the paper trail hunting the clerk, me here on the nights you hate yourself for the match. Or walk the pier dawn: take the smell of this to the water and decide whether to leave or stay. Wanting you isn't the vote."
 
 [player_name] lay against his chest and listened to the foghorn. "And if I pick wrong?"
 

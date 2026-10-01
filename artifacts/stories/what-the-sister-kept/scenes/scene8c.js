@@ -67,7 +67,7 @@ His mouth found hers, careful and then not careful, his tongue answering the hon
 
 "Two doors from this bed," he said against her mouth. "The hospital dawn: we walk the evidence into the living case and face Cho's pending side by side, and I'm in every fluorescent morning with you. Or the pier dawn: we take this to the water and you decide whether to leave or stay. Wanting you isn't the vote. Remember that."
 
-He kissed the corner of her mouth, then her throat, then the place between her breasts over her hammering heart. "Ellison can smell closeness later. Cho still says pending. Charm upstairs still only like. Remains still unnamed. I will not invent a corpse because we are wet. I will not invent forever because my cock is against your cunt. I will invent a verb with you. Say it." Rain freckled the glass harder.
+He kissed the corner of her mouth, then her throat, then the place between her breasts over her hammering heart. "Ellison can smell closeness later. I will not invent forever because my cock is against your cunt. I will invent a verb with you. Say it." Rain freckled the glass harder.
 
 She pushed his shirt off his shoulders. He tugged her underwear down, slow, watching her face for a no that didn't come. His fingers found her wet and he groaned, low. He slid two inside her and curled them, thumb circling her clit, his mouth on her throat. She rocked up into his hand. He took his time, until her breath came in broken pieces and her nails were in his back.
 

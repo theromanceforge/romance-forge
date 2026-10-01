@@ -43,9 +43,9 @@ Owen would plead to lesser counts on the chain (Warehouse C, the clerk M.K., the
 
 Will's knuckles flexed. Ellison almost named Nina Solis. Will's jaw worked, and his eyes stayed on [player_name] as if he were counting her pulse through cloth. Broken men shouldn't be this hot. "Cho's remains stay pending," he said, his voice rough enough that she felt it low. "Mercy doesn't christen bone."
 
-Owen came under escort, porch-butter calm cracked. He named the clerk and the trucks and asked for a sentence he could survive. Charm upstairs still only like. Lab still pending. Hope and dread still sharing [player_name]'s soaked pulse under hearing-room polyester.
+Owen came under escort, porch-butter calm cracked. He named the clerk and the trucks and asked for a sentence he could survive. Hope and dread still shared [player_name]'s pulse.
 
-She testified more quietly than full blade would have allowed, and somehow it was filthier for the kindness: the pier night under oath, Warehouse C, her own silence undressed. Will watched her mouth from two rows back like a man watching a body he hadn't been allowed to open yet. When counsel tried to make her a whore with a badge, he didn't stand. He let her answer while wet fabric dragged against her. "Attraction doesn't invent the chain," she said, thighs pressed together. Will's hand pressed his own thigh once, hard. The denied hunger was its own stroke.
+She testified more quietly than full blade would have allowed, and somehow it was filthier for the kindness: Warehouse C under oath, her own silence undressed. Will watched her mouth from two rows back like a man watching a body he hadn't been allowed to open yet. When counsel tried to make her a whore with a badge, he didn't stand. He let her answer while wet fabric dragged against her. "Attraction doesn't invent the chain," she said, thighs pressed together. Will's hand pressed his own thigh once, hard. The denied hunger was its own stroke.
 
 At the recess they found a stairwell. Rain on concrete. A foghorn inland. Will stood one step below her, so their mouths lined up. "Mercy has teeth," he murmured against her ear.
 

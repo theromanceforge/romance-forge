@@ -49,7 +49,7 @@ Outside, the pier road hissed with rain. Ellison's memo was already writing itse
 "I put you behind my six tonight," Will said, "and I'd do it again. Hospital dawn with me, or wait while I hunt. Pick before the CT does."`,
   textHot: `The ambulance bay smelled like antiseptic and diesel, and like the unfinished want that danger always left in [player_name]. Will had bled for a door and still looked at her as if he wanted inside her more than he wanted the stitch count. Gurney edge. Gauze at his temple. The medic saying lightly like a prayer. His knuckles, white, forced open on the rail.
 
-Vest borrowed and too tight. Nipples peaked from cold and adrenaline and the way Will's grey-green eyes found her mouth like unfinished fucking. Remains unnamed upriver. Charm still only like. Hope and dread soaked her the way his attention did: low, relentless.
+Vest borrowed and too tight. Nipples peaked from cold and adrenaline and the way Will's grey-green eyes found her mouth like unfinished fucking. Hope and dread soaked her the way his attention did: low, relentless.
 
 "You stayed," Will said, low enough that the medic could pretend not to hear. "Hospital chair. Soft partnership. Still selfish. Still hard." He caught her wrist and drew her palm under the edge of the gown the medic had half-forced on him, over the hammer of his heart. Then lower, for one stolen second, against the thick line of his cock through thin fabric.
 
@@ -67,7 +67,7 @@ His thigh pushed between hers. She gasped at the pressure through denim, and he 
 
 "Body over trail for a few soft hours," Will said, curling his fingers, his thumb circling her clit until her knees buckled against the tile.
 
-"If you choose chase—trail over body while you wait as the living soft. Cho will not name bones because I got cracked. Charm stays like. Owen stays off your paper. Public and private storms both dig if you feed them wrong—but this fork is bedside quiet or waiting while fog eats a clerk." He freed himself enough to smear the head of his cock through her folds without entering—hot, blunt, cruel, painting her while radios crackled down the hall.
+"If you choose chase—trail over body while you wait as the living soft. Owen stays off your paper. Public and private storms both dig if you feed them wrong—but this fork is bedside quiet or waiting while fog eats a clerk." He freed himself enough to smear the head of his cock through her folds without entering—hot, blunt, cruel, painting her while radios crackled down the hall.
 
 "I won't take you all the way in an open bay," he said. "I'll make you choose while you drip on a detective who held his fire until the gun was real." She came quietly against the tile, shaking, her fist in his gown, biting his good shoulder through the cotton. He eased back without chasing his own finish, his cock jumping against her thigh.
 
@@ -91,7 +91,7 @@ Will stood and wiped his mouth with the back of his hand, like a man finishing a
 
 "If you choose to wait," he added, "I'll spend the first hour of the hunt aching, and the first minute back making you find new ways to stay quiet." His knuckles brushed her jaw.
 
-Rain ticked the bay glass. Fluorescents hummed like a third recorder. "Either verb keeps Renny a pointed finger and Cho's bones unnamed. Either verb leaves the sealed past sealed tonight. Neither verb lets me pretend I am clean. Pick, [player_name]. The bay is waiting. So is my mouth." [player_name] stood between diesel and fluorescent future, wet jeans, remains unnamed, charm probable—and the choice sitting between them like unfinished fucking: hospital dawn with Will's blood under gauze, or waiting while he hunted dock fog with a light wound and old raid ash stirring without a full sealed-file dump yet.`,
+Rain ticked the bay glass. Fluorescents hummed like a third recorder. "Either verb leaves the sealed past sealed tonight. Neither verb lets me pretend I am clean. Pick, [player_name]. The bay is waiting. So is my mouth." [player_name] stood between diesel and fluorescent future, wet jeans—and the choice sitting between them like unfinished fucking: hospital dawn with Will's blood under gauze, or waiting while he hunted dock fog with a light wound and old raid ash stirring without a full sealed-file dump yet.`,
   choices: [
     { id: "scene9g", text: "Choose the hospital dawn with Will", textHot: "Choose the hospital dawn with Will" },
     { id: "scene9f", text: "Chase — wait while Will hunts", textHot: "Chase — wait while Will hunts" }

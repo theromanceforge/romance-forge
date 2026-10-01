@@ -41,7 +41,7 @@ Will's notebook drank the grid. His eyes flicked from the red door to her mouth 
 
 He stayed on Owen, butter-porch glow in the distance, notebook on the dash, the Solis bruise humming under his ribs when he said soft like it cost him. Fog. Salt. Rust. Dawn undecided. Cho's unidentified still ruled the upriver remains.
 
-Red door blistered where the map promised. [player_name] did not kick. Mid-twenties, flashlight shaking, not a raid story, not his ex-partner, not the hallway Will refused to unpack. Cold-storage hummed. Camera cable cut neat. At the pried bay she found blood-rust first—old-penny smear, rain-diluted—and the smell punched her low, fear and arousal braided stupidly because Will was not here to put a hand on her back and the absence of his hand felt like a stroke. Not a funeral. A maybe. Then silver under the weatherstrip winked—tooth-cousin, bracelet-gap ghost, similar not unique not baptism—and bagging it in a sandwich bag made her pulse hammer in her clit as much as her throat. Filthy. Honest. Grief making her body loud.
+Red door blistered where the map promised. [player_name] did not kick. Mid-twenties, flashlight shaking, not a raid story, not his ex-partner, not the hallway Will refused to unpack. Cold-storage hummed. Camera cable cut neat. At the pried bay she found blood-rust first—old-penny smear, rain-diluted—and the smell punched her low. Not a funeral. A maybe. Then silver under the weatherstrip winked—similar, not unique, not proof—and bagging it in a sandwich bag made her pulse hammer in her throat. Honest. Grief making her hands shake.
 
 Phone. Will. "Talk."
 

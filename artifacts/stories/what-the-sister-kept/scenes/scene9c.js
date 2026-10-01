@@ -41,13 +41,13 @@ A reporter shouted Renny's name like a verdict. [player_name] closed her hand ar
 Hope still had a throat. Dread still had teeth. Charm upstairs still only like. Solis ash stirred under IA shadow without dumping every sealed page. Attraction and grief shared the canopy.
 
 "You blew it open," Will murmured. "Now you decide. Is this a sister's reckoning you lead, or an open secret we endure together? Pick the ending the storm gets to keep, before Ellison drafts it for you."`,
-  textHot: `Harborwick's press storm took the pier district like weather with microphones, and the air between [player_name] and Will was already too warm for floodlights. Rain silvered Warehouse C's chain-link. [player_name] clutched the USB and the journal copies to her ribs hard enough to feel her heartbeat, and lower, traitorously, where want had no manners. Will stood at her shoulder, close enough that soap and salt filled every breath. His eyes dragged over her mouth before he forced them to the pack, as if professionalism were a restraint he kept on for her sake.
+  textHot: `Harborwick's press storm took the pier district like weather with microphones, and the air between [player_name] and Will was already too warm for floodlights. Rain silvered Warehouse C's chain-link. [player_name] clutched the USB to her ribs hard enough to feel her heartbeat. Will stood at her shoulder, close enough that soap and salt filled every breath. His eyes dragged over her mouth before he forced them to the pack, as if professionalism were a restraint he kept on for her sake.
 
 His charm was banked for the cameras, velvet over blade. But his thigh almost brushed hers when he shifted, and the almost shot straight between her legs before either of them pretended this was only about plates and clerks.
 
 "Last chance to let Ellison draft the softer version," Will murmured against her ear. "Once the USB hits those feeds, the clerk can't hide. Owen stops being a whisper. The press will invent a corpse. Don't let them." His knuckles ghosted the small of her back, a claim the lenses mustn't catalogue. "And try not to look like you want me to take the shaking out of you under this canopy. I can feel it from here."
 
-[player_name]'s cunt clenched around nothing. Shame and hunger and grief fucked the same oxygen. Cho's unidentified remains still waited: charm that could match, lab pending, hope and dread sharing her pulse. Will treated that distinction like sacrament, which made her wetter.
+[player_name]'s cunt clenched around nothing. Shame and hunger and grief fucked the same oxygen.
 
 Ellison appeared at the edge of the canopy. "Circus."
 
@@ -67,9 +67,9 @@ She pressed her thighs harder. A whimper almost escaped. She gripped the USB unt
 
 A camera flash stuttered at the canopy's edge. Will turned his body into a shield and used the turn to drag his knuckles once, deliberately, down the front of her rain-dark skirt, where she was soaked. Her breath broke. He spoke into her hair. "If you lead the reckoning, I watch you lead and go home hard enough to hurt. If we endure the open secret, I hold you through the scream and then spend it into you until the noise is just bedding." The almost-kiss hovered and died for politics. Somehow the denied kiss was hotter than contact.
 
-A foghorn rolled, low enough to feel in her bones. Will angled himself to block one more lens. His thigh brushed hers deliberately now. "Choose," he whispered. "The sister's reckoning you lead, or the open secret we endure. I'll still want you after. Tell me before I forget these are floodlights and remember I can smell how ready you are under this rain."
+A foghorn rolled, low enough to feel in her bones. Will angled himself to block one more lens. His thigh brushed hers deliberately now. "Choose," he whispered. "The public reckoning you lead, or the open secret we endure. I'll still want you after. Tell me before I forget these are floodlights and remember I can smell how ready you are under this rain."
 
-[player_name]'s pulse hammered in her wrist under his thumb and lower, unused and honest. Hope still had a throat. Dread still had teeth. Charm upstairs still only like. Remains still unnamed. Solis ash stirred under IA without dumping every sealed hallway page. Choosing to lead meant sister as public reckoning, Will present and hard and sworn not to invent corpses, her body throbbing through every outdoor sentence. Choosing open-secret endurance meant city noise as shared bed-climate, want cooled into a bruise she would press later—wall, rain-dark sheets, a detective who would not invent a funeral because paper was dramatic.
+[player_name]'s pulse hammered in her wrist under his thumb and lower, unused and honest. Solis ash stirred under IA without dumping every sealed hallway page. Choosing to lead meant a public reckoning, Will present and hard, her body throbbing through every outdoor sentence. Choosing open-secret endurance meant city noise as shared bed-climate, want cooled into a bruise she would press later—wall, rain-dark sheets, a detective who would wait for her.
 
 She pressed the USB to her chest and felt her nipples peak against the plastic. Will's gaze caught it: noticed, banked, promised. "If I lead," she whispered, "I'll need you in every green room."
 

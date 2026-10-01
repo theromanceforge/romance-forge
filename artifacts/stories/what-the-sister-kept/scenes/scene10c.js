@@ -33,7 +33,7 @@ She boarded and found a window seat. The train pulled out. Harborwick's fog thin
 She didn't cry theatrically. She watched the industrial edges give way to flatter light, and felt Renny's name travel with her like a ticket stub she'd never throw away. When a stranger asked if she was all right, she said yes, and meant: all right enough to leave without lying.`,
   textHot: `Leaving shouldn't have made [player_name] wet, and it did. Grief and want braided into a last Harborwick night she refused to pretend was casual.
 
-William Akers's apartment smelled like rain and endings. She had already said the pier speech; the bag waited by the door; Renny's hoodie sat folded on top like a soft flag. Will shut the door and looked at her with mid-thirties hunger scraped raw by respect. "Tell me to stop and I stop," he said. "Tell me you want a goodbye that isn't only words."
+William Akers's apartment smelled like rain and endings. She had already said the pier speech; the bag waited by the door. Will shut the door and looked at her with mid-thirties hunger scraped raw by respect. "Tell me to stop and I stop," he said. "Tell me you want a goodbye that isn't only words."
 
 "I want you," she answered, her voice rough. "Not as a reason to stay. As a reason I can leave without pretending we were only paperwork."
 
@@ -43,13 +43,13 @@ He crossed the room and kissed her like a man filing a last honest report with h
 
 She came shaking, her thighs clamped around his head, with a sob that was pleasure and departure sharing the same air. He rose, wiped his mouth with the back of his hand, and pushed into her in one thick slide that knocked the breath out of both of them. They moved like a countdown: deep strokes, foreheads touching, her heels in his back, his thumb on her clit until she came again around him with a broken yes. Will followed with a curse bitten into her shoulder, spilling deep, and held her through the aftershocks as if holding could become a city she didn't have to live in.
 
-They lay sticky and quiet. Then she climbed down and took him in her mouth while he was still sensitive, tasting them both, not to restart a future but to memorize. Will groaned her name like evidence. When he hardened again she straddled him and rode slow—eyes open, bracelet cold on her wrist, goodbye written in the roll of her hips—until he gripped her waist and came with a shattered sound, and she followed grinding her clit on him, unfinished freedom blooming behind her eyes.
+They lay sticky and quiet. Then she climbed down and took him in her mouth while he was still sensitive, tasting them both, not to restart a future but to memorize. Will groaned her name like evidence. When he hardened again she straddled him and rode slow—eyes open, goodbye written in the roll of her hips—until he gripped her waist and came with a shattered sound, and she followed grinding her clit on him, unfinished freedom blooming behind her eyes.
 
 Afterward he cleaned her with a warm cloth, as if tenderness were a closing procedure. At the door he kissed her once more, softly, not claiming. "Go free," he said, his heart loud in his throat. "I'll respect it in the morning, when it hurts worse."
 
 She left with her body still remembering him and her ticket honest. Harborwick fog took the street.
 
-In the rideshare to the station her thighs still hummed; she pressed them together and tasted Will on her tongue from the goodbye and did not regret the ache. Freedom included carrying pleasure out of the city that had taught her silence. She boarded sore in the best temporary way, bracelet gap cold, cunt tender, heart bruised clean.
+In the rideshare to the station her thighs still hummed; she pressed them together and tasted Will on her tongue from the goodbye and did not regret the ache. Freedom included carrying pleasure out of the city that had taught her silence. She boarded sore in the best temporary way, cunt tender, heart bruised clean.
 
 She slept on the train in fits, her body remembering the stretch of him, her mind replaying the moment on the platform when he let go of her hand.`,
   choices: []

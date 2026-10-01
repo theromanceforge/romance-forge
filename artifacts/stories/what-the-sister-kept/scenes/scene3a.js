@@ -51,7 +51,7 @@ Coffee trembled in her paper cup. Will opened the cold file with hands that had 
 
 "I know what withheld looks like," he murmured. Almost a confession. Almost a come-on. Almost both, which was worse. "Used to leave pages out better than I put them back. Learned charm where charm was a way out. The badge corrected some of that." The smile tilted. "Not all. You don't have to like me to tell the truth. You have to decide if Ellison hears it raw, or if we shape it while your mouth is still mine to listen to."
 
-His questions became friction. Festival fog. When Owen claimed she ran, before or after [player_name] saw him near the pier. Each careful answer left her thighs pressed tight under the bolted table. Will leaned in until burnt coffee and rain-on-skin filled her head. She wanted, traitorously, to know what that pale line on his thumb would feel like drawn along her lower lip. She wanted his notebook closed and his mouth open.
+His questions became friction. Festival fog. When Owen claimed she ran, before or after [player_name] saw him near the pier. Each careful answer cost her something.
 
 "Ellison's on the floor." He glanced toward the door without fully turning his back. For half a second his eyes went somewhere else: a raid hallway, a kid who shouldn't have been there, a name like Solis almost shaping his mouth before he killed it. Then the detective was back, sealed as any IA folder. "Clearance language, remains unidentified, charm like Renny's. Or a witness who obstructed. Your call how close to confession we get before that door opens."
 

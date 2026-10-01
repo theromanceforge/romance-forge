@@ -57,7 +57,7 @@ Then his thigh almost brushed hers when he shifted. The almost shot straight bet
 
 "Last chance to walk it back," Will murmured against her ear, his breath hot enough to stroke. "Once the handwriting hits those mics, Owen stops being a whisper. The press will invent a corpse. Don't let them. Name the chain." His cracked knuckles ghosted the small of her back, a claim the lenses mustn't catalogue. "And try not to look like you want me to fuck the shaking out of you on these steps. I can feel it from here."
 
-[player_name]'s cunt clenched around nothing. Shame and hunger and grief were breathing the same air. The journal named a chain, not a corpse, and Will treated that distinction like a sacrament. Somehow that made her wetter.
+[player_name]'s cunt clenched around nothing. Shame and hunger and grief were breathing the same air.
 
 Ellison appeared in the glass doors, tablet under her arm, mouth a line. "Akers. Circus."
 
@@ -75,11 +75,11 @@ Ellison stepped close after the first wave, burnt coffee cutting the pier salt. 
 
 Will's mouth almost touched [player_name]'s temple. "She chooses. I stay." Lower, for her only: "I'm hard from watching you tell a city the truth it doesn't deserve, and I'm choosing to keep my cock out of the vote. Pick the trial and I'll sit behind you in a courtroom wanting my mouth on your throat every time you say Warehouse C."
 
-[player_name] pressed her thighs together harder. Slick fabric dragged against her clit like a secret the rain mustn't catalogue. She gripped the journal until the leather squeaked, and Will's cracked knuckles covered hers: heat, calluses, partnership that was also a claim.
+[player_name] pressed her thighs together harder. Slick fabric dragged against her clit like a secret the rain mustn't catalogue. She gripped the edge of the table until her knuckles ached, and Will's cracked knuckles covered hers: heat, calluses, partnership that was also a claim.
 
 The foghorn rolled, low enough to feel in her bones. Will angled his body to block one more lens from her throat, his thigh brushing hers deliberately now. "Trial or press storm," he whispered. "I'll still want you after. Tell me before I forget these are precinct steps and remember I can smell how ready you are under this rain."
 
-[player_name]'s pulse hammered in her wrist under his thumb and lower, unused and honest. Hope still had a throat. Dread still had teeth. Charm upstairs still only like. Remains still unnamed. Choosing full-testify meant oath and fluorescent ruin and Will's eyes on her mouth through every warehouse mark while her body throbbed through every sentence. Choosing the press blowout meant handing the city the USB and the map while want cooled into a bruise she would press later—bed, rain-dark sheets, a detective who would not invent a corpse because paper was dramatic and would not invent mercy that was really cowardice, only the kind of careful fucking that came after truth had already been spoken outdoors.
+[player_name]'s pulse hammered in her wrist under his thumb and lower, unused and honest. Choosing full-testify meant oath and fluorescent ruin and Will's eyes on her mouth through every warehouse mark while her body throbbed through every sentence. Choosing the press blowout meant handing the city the USB and the map while want cooled into a bruise she would press later—bed, rain-dark sheets, a detective who would not invent mercy that was really cowardice, only the kind of careful fucking that came after truth had already been spoken outdoors.
 
 The press pack reshuffled for better angles, and Will used the shuffle as cover. He moved her half a step behind a concrete pillar where one lens lost her throat. His thigh found hers through wet denim. His mouth went to her jaw, not her lips, and his knuckles slid under her coat to the damp small of her back until she bit a sound into the leather.
 

@@ -43,7 +43,7 @@ Want had no manners. The case had teeth.
 
 "You kept one thing," Will said, voice low enough to stroke. Grey-green eyes tracked the pocket all evening. Brutal charm banked—velvet over a blade—but his allergy to lies made her nipples tighten under her blouse as if honesty were a mouth. "I felt it when you closed the box. Soft edge. I said I would understand. Understanding is not pretending I cannot see the shape in that pocket."
 
-[player_name] sat on the couch. A charm that could match. Lab pending. Will crossed the room and sat on the edge of the coffee table, knees bracketing hers, soap and salt filling the space between them. When Ellison had almost said Nina Solis, he'd touched his ribs. He did it again now without noticing.
+[player_name] sat on the couch. Will crossed the room and sat on the edge of the coffee table, knees bracketing hers, soap and salt filling the space between them. When Ellison had almost said Nina Solis, he'd touched his ribs. He did it again now without noticing.
 
 "Find it," she whispered, ruined already. "Find it anyway. I cannot hand it to you. I can let you take what I am too wet and too cowardly to give."
 

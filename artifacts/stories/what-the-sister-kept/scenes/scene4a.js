@@ -87,7 +87,7 @@ Captain Mara Ellison filled the frame: charcoal blazer, tablet, policy for a fac
 
 Will closed the notebook slowly. [player_name]'s unfinished sentence hung between them, sharp as unfinished sex. He stood, and for a second the air between their bodies felt physical. She could imagine his mouth on hers, his hand under the table where her thighs were slick, his cock hard from the same tension that made her confession climb. "Captain. Mid-thread."
 
-"You're mid-something," Ellison said. "Family witness. Charm unconfirmed. Remains unidentified. You're leaning like this is a date with a case number. I will not have another Akers special. Not after Nina Solis. Outside."
+"You're mid-something," Ellison said. "Family witness. Remains unidentified. You're leaning like this is a date with a case number. I will not have another Akers special. Not after Nina Solis. Outside."
 
 Will's eyes held hers: apology, filthy promise, a vow that Ellison had only interrupted, not ended. Then the charm shuttered into blank professionalism so fast it was frightening. Interest still showed in the set of his shoulders, in the way he didn't adjust his jacket quite fast enough. His palm went to his ribs when Ellison said special, as if the Solis raid still lived under the bone. He didn't explain.
 

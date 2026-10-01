@@ -57,7 +57,7 @@ His thumb stroked once behind her knee, a slow metronome, and his jaw flexed. Sh
 
 She made a sound, small and helpless, and his hand spread on her thigh, still not climbing. He kissed her forehead, not her mouth, hard enough to feel like a withheld climax. "Not yet," he said against her skin. "I'll still want you after either choice. Want isn't the vote."
 
-He sat back, and it cost him. The foghorn answered from the river. Pier salt leaked through the window. On the counter, the journal's tape peeled in the lamp heat.
+He sat back, and it cost him. The foghorn answered from the river. Pier salt leaked through the window.
 
 "Two ways," he said softly. "Make the journal public: walk the smuggling chain into daylight, with my notebook as witness. Or bargain it privately with Ellison: my badge as cushion, her seal as leash, a controlled drip in a room that smells like politics and burnt coffee." His thumb found her pulse at the wrist, counting. "Public means the city watches while Cho still says pending. Private means Ellison keeps a leash that might choke it. Either way, Owen stops being a whisper. Choose."
 

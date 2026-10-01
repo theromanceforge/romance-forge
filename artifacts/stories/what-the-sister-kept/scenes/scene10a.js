@@ -45,13 +45,13 @@ Will kissed her forehead, then her mouth, soft as rain after a long drought. "Th
 They stood there until the kettle clicked off and the city noise rose like a tide that no longer threatened to erase a girl's name. Harborwick would gossip. Ellison would monitor. Owen would face what he faced. None of that wrote the ending. The ending was this: the two of them, the case closed in daylight, Renny's fate spoken honestly, and a love that no longer needed a lie to survive the night.`,
   textHot: `She had spoken Renny's name into the public record, and the record had held.
 
-Truth sat in her mouth. Want sat lower, shameless and earned.
+Truth sat in her mouth.
 
-On the walk to the pier, Will's knuckles brushed hers, and the brush went through her like a touch she hadn't been given yet. The scar through his brow was pale. His charm had been scraped raw into devotion.
+On the walk to the pier, Will's knuckles brushed hers, and the brush went through her like a touch she hadn't been given yet. The scar through his brow was pale. His charm had been scraped raw into devotion. Want sat lower, shameless and earned.
 
-By the time the gathering emptied, Will's hand at the small of her back was not comfort alone—it was a claim she arched into, damp already from hours of almost-touch under fluorescent honesty. "Apartment," he said, voice velvet-blade low. "Now. Daylight did not ruin this. Daylight made me hard for the woman who finally stopped sandbagging her own sister's case."
+By the time the gathering emptied, Will's hand at the small of her back was not comfort alone—it was a claim she arched into, damp already from hours of almost-touch under fluorescent honesty. "Apartment," he said, voice velvet-blade low. "Now. Daylight did not ruin this. Daylight made me hard for the woman who finally stopped sandbagging the truth."
 
-His place smelled like pier salt and soap. The door shut. Will pressed her gently against it and kissed her like a man who'd waited through warrants and withheld letters and Cho's pending, and was done waiting for grief's permission. [player_name] opened for him: mouth, thighs, the hunger that had lived under every interrogation-room look.
+His place smelled like pier salt and soap. The door shut. Will pressed her gently against it and kissed her like a man who'd waited through warrants and withheld truths, and was done waiting for grief's permission. [player_name] opened for him: mouth, thighs, the hunger that had lived under every interrogation-room look.
 
 "Fuck. Will."
 
@@ -67,10 +67,10 @@ Will followed with a curse bitten into her throat, spilling deep, his hips stutt
 
 Later there was shower steam, and his fingers inside her while she braced on the tile. She came on his hand with her forehead on the cool porcelain, laughing wetly when he muttered that Ellison would never believe partnership could look like this.
 
-Night found them tangled and sore in the best way. Will traced the bracelet's gap on her wrist. "Together in truth," he said into her hair.
+Night found them tangled and sore in the best way. "Together in truth," he said into her hair.
 
-"Together," she answered, thighs sticky, heart loud, case closed, sister spoken, body claimed without shame. Harborwick could gossip itself hoarse.
+"Together," she answered, thighs sticky, heart loud, case closed, body claimed without shame. Harborwick could gossip itself hoarse.
 
-Morning after, Will made eggs that were only half a disaster and fed them to her in bed with his bare thigh against hers, cock soft until she licked salt from his fingers and he thickened again with a helpless laugh. They moved slow in daylight—her on her back, him rocking deep, talking filthy-soft about closed files and open mouths until she came quiet and shaking with the bracelet cold on her wrist and his name warm on her tongue. Afterward he said, "Daylight again tomorrow," and [player_name] believed him the way she had not believed Owen's pier-night story: because this promise tasted like coffee and sweat and a sister finally spoken, not like protection wearing a lie.`,
+Morning after, Will made eggs that were only half a disaster and fed them to her in bed with his bare thigh against hers, cock soft until she licked salt from his fingers and he thickened again with a helpless laugh. They moved slow in daylight—her on her back, him rocking deep, talking filthy-soft about closed files and open mouths until she came quiet and shaking with his name warm on her tongue. Afterward he said, "Daylight again tomorrow," and [player_name] believed him the way she had not believed Owen's old story: because this promise tasted like coffee and sweat, not like protection wearing a lie.`,
   choices: []
 };

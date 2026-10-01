@@ -69,7 +69,7 @@ The call died. Rain. Foghorns. Will lowered the phone and looked at her like the
 
 She tasted salt. Seven years of kept detail climbed her throat: Owen at this pier with someone wrong, the friends story swallowed, the statement wiped clean. Cho's soft contradiction pressed the bruise of her silence. The bones unnamed. The alibi not.
 
-Black water. Festival ghosts. Renny laughing. Charm gap. Will's notebook sagging damp. Nina haunting his ribs. [player_name] pressed her thighs together once and felt how ready she still was for a man who was offering forensics instead of fingers. "Ellison will want clearance."
+Black water. Festival ghosts. Renny laughing. Charm gap. Will's notebook sagging damp. Nina haunting his ribs. "Ellison will want clearance."
 
 "If you sit with hope, you give him time to hear Ellison's inbox and invent better lies." Respect, edged with unspent hunger. "Soft surveillance. Hard pull. Or I stand here smelling like the almost you killed. Your call. I'm allergic to lies and employed by a captain who thinks my feelings get people hurt."
 

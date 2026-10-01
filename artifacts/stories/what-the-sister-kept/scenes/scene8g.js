@@ -36,7 +36,7 @@ Someone had shredded in a hurry, though. Someone had smoked the wrong brand besi
 
 "You're the living link the initials dared," he told the clerk. "Hold you and we work you until a killer can be named without theater. Slip you and I hunt every desk code and cigarette kiosk until Harborwick runs out of fog. She chooses. I dig either way." A perimeter team's flashlight painted the red door from outside: Ellison's patience with a warrant attached.
 
-Minutes left before the bay filled with other badges and other hungers for clearance photographs. [player_name] flexed cold fingers inside Will's spare glove and felt seven years press upward. Surveillance, raw admissions and warehouse breaches had all poured into this catch. Endgame wasn't emptying every pocket. It was standing over a cuffed municipal pulse and choosing.
+Minutes left before the bay filled with other badges and other hungers for clearance photographs. [player_name] flexed cold fingers in Will's spare glove and felt seven years press upward. Surveillance, raw admissions and warehouse breaches had all poured into this catch. Endgame wasn't emptying every pocket. It was standing over a cuffed municipal pulse and choosing.
 
 "Decide before the perimeter decides for us," Will whispered. "Hold the clerk until his mouth earns a name, or watch the slip and let me hunt while you keep hope intact. I won't let you bury hope under a cuff, or turn dread into certainty because a routing stamp rhymed with a pier night." The warehouse hummed its low animal note. Chain-link rattled.
 

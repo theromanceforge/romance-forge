@@ -55,7 +55,7 @@ Will looked at [player_name] once, with a hunger he refused to tidy, and then te
 
 Hale cracked. His eyes went to [player_name]. "Kade said if the girl kept pointing, the pier would go quiet. I moved paper. Owen covered for the silhouette. Kade put hands on the problem. Festival night. East dock. Under the generator noise. I watched the routing stamp. Michael Kade. He silenced her."
 
-The room did not become a funeral and [player_name]'s body did not become pure. Will's pen stopped. She tasted copper and want. Killer named—living fact—while Cho's tray refused to print a sister on bone. Ambiguity held. Charm stayed like. Naming was justice's grammar, not baptism, and Will's nearness still dragged along her wet seam through denim like a second warrant.
+The room did not become a funeral. Will's pen stopped. She tasted copper. Killer named—living fact. Naming was justice's grammar, not baptism.
 
 "Alive enough to charge," Will said quietly, for her. His hand found the small of her back, professional to Ellison's glass and filthy to her nervous system. "Kade becomes a warrant. Hale cooperates. Owen corroborates. You stand where the chain has a name at the top. And after this briefing I put you against a locked-room wall and finish what tonight started, until you come quietly enough for the corridor clocks."
 
@@ -69,7 +69,7 @@ His knuckles brushed her wrist, then slid once under the hem of her shirt onto h
 
 Hale's cuffs clicked. [player_name] almost laughed, almost cried, soaked and furious with a body that answered Will's nearness like a vow.
 
-"I kept a lie. Owen kept a clerk. Hale kept permits. Kade kept quiet by force. You kept a sealed hallway. Everybody keeps something." She pressed his palm flat to her stomach under the shirt—claiming, demanding, conjugating with her body—then lower for one filthy stolen second over denim heat so he felt exactly how unfinished catch weather left her. "Together—I speak contested fate with you and you finish me after the brief. Reckoning—I hate every camera and still soak for the record if it keeps the map breathing. I am not inventing purity. I am not inventing a funeral. I am asking which hurt leaves Renny reachable while you can still feel me through jeans."
+"I kept a lie. Owen kept a clerk. Hale kept permits. Kade kept quiet by force. You kept a sealed hallway. Everybody keeps something." She pressed his palm flat to her stomach under the shirt—claiming, demanding, conjugating with her body—then lower for one filthy stolen second over denim heat so he felt exactly how unfinished catch weather left her. "Together—I speak contested fate with you and you finish me after the brief. Reckoning—I hate every camera and still soak for the record if it keeps the map breathing. I am not inventing purity. I am not inventing a funeral. I am asking which way you want me while you can still feel me through jeans."
 
 Will's pen stopped. Respect moved through his face like weather changing. He almost kissed her, and stopped a breath short on purpose. Then, with Ellison's back half-turned over the charging draft, he slid his hand into her jeans, under cotton, for three precise strokes. "Not yet," he said. "Not until you pick."
 
@@ -77,7 +77,7 @@ On another floor, warrants for Michael Kade were growing feet. Owen's lawyers wo
 
 He drew her against the file cabinet out of Hale's sightline for one last stolen breath and put her hand on his cock through his pants, so she could feel the unfinished claim. "Together means your mouth on my throat after the naming, and my fingers back in you while the corridor clocks hum. The reckoning means you save the soft for after the steps, and I repay you with my tongue." His thumb brushed her lower lip.
 
-[player_name] stood between burnt coffee and named steel, wet jeans, remains unnamed, charm probable—and the choice sitting between them like unfinished fucking: together in truth at the table where Michael Kade had finally been spoken, or sister's reckoning on steps with Will's method still on her tongue and Cho's pending still refusing to soothe anyone.
+[player_name] stood between burnt coffee and named steel, wet jeans—and the choice sitting between them like unfinished fucking: together in truth at the table where Michael Kade had finally been spoken, or a public reckoning on steps with Will's method still on her tongue.
 
 Before Ellison fully turned back, Will walked [player_name] into the alcove off the interview corridor and shut the door with his heel. He crouched and drew her jeans down far enough to put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision. She clapped a hand over her own mouth.
 

@@ -77,7 +77,7 @@ When Ellison turned for a call, Will's hand found the inside of [player_name]'s 
 
 His knee pressed hers hard enough to bruise. His fingers found the seam of her jeans and rubbed once, filthy punctuation, until her breath hitched.
 
-"Mercy or burn," he breathed. "I dig either. I fuck the leftover either. Say it." Copper and want filled her mouth. One hoodie. One bracelet gap. One detective with brutal charm and a sealed hallway. She nodded once before she could speak, body ahead of grammar, and Ellison's CLEARANCE mug ticked residual heat into the space between them like a joke that had learned patience.
+"Mercy or burn," he breathed. "I dig either. I fuck the leftover either. Say it." Copper and want filled her mouth. One detective with brutal charm and a sealed hallway. She nodded once before she could speak, body ahead of grammar, and Ellison's CLEARANCE mug ticked residual heat into the space between them like a joke that had learned patience.
 
 Will let go of her wrist. The room cooled by a degree. Clerk desk codes waited in Ellison's later folder. The second pattern stayed crossed out, not forgotten.
 

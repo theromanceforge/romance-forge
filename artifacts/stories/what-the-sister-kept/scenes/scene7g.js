@@ -30,7 +30,7 @@ Rain began again on the roof like needlepoint. [player_name] looked at the warm 
 
 A radio crackled on Will's hip: Ellison's channel, clipped, asking for status. Will answered in shorthand: inside, warm shredder, routing stamp, no hard ID. He didn't say [player_name]'s name like a liability. The radio went quiet.
 
-[player_name] flexed cold fingers inside Will's offered spare glove and felt seven years press upward. The bracelet gap lived in memory. Soft surveillance and raw admissions and Ellison ultimatums had all poured into this bay. The kept secret's remaining scraps—letters, warmer mercies—still waited somewhere that was not a shredder basket. Breach was not emptying every pocket.
+[player_name] flexed cold fingers in Will's offered spare glove and felt seven years press upward. The bracelet gap lived in memory. Soft surveillance and raw admissions and Ellison ultimatums had all poured into this bay. The kept secret's remaining scraps—letters, warmer mercies—still waited somewhere that was not a shredder basket. Breach was not emptying every pocket.
 
 Footsteps, distant, then nearer. Not yet a face. Will angled the light off, then on, signaling. His body blocked [player_name]'s without drama.
 
@@ -51,7 +51,7 @@ When he moved her behind him at a metal-on-metal sound, his hand on her coat was
 
 "Someone left in a hurry," he said. His eyes flicked to her mouth in the dark. "Or someone is still here. Stay behind me. If you get scared, hand in my coat. If you get wet from the dark, tell me later, when Ellison can't smell it on a report."
 
-She almost moaned at later. They moved. Generator carcass. Zip ties. Silver display tray missing teeth—cousin of a bracelet gap, probability not baptism. Ledger page with Owen's festival-week dates in someone else's hand. Hope argued. Dread answered. Bones unnamed. [player_name]'s throat tightened and her cunt clenched empty in the same breath; grief and want refused to queue separate rooms.
+She almost laughed at later. They moved. Generator carcass. Zip ties. Silver display tray missing teeth. Ledger page with Owen's dates in someone else's hand. Hope argued. Dread answered. [player_name]'s throat tightened.
 
 Will stopped at a frost-latched door. Breath ghosted. His body heat licked her front when she nearly walked into his back.
 

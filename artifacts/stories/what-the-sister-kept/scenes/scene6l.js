@@ -67,7 +67,7 @@ His hand returned under her open jeans, not thrusting, just cupping, holding her
 
 She tasted herself and wet wool. His scar brushed her forehead when he leaned.
 
-[player_name] held his gaze with her pulse loud between her legs. Missing charm. Unidentified bones. Tip alive. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Choose each other mid-war. Or take the raid call.
+[player_name] held his gaze with her pulse loud between her legs. Tip alive. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Choose each other mid-war. Or take the raid call.
 
 He set both their palms flat on either side of the badge, his covering hers, cracked knuckle white, pulse jumping into her skin. "Choosing each other means I stay," Will said, voice wrecked. "The raid call means we earn staying under fish-rot air and radio crackle. Either way, I leave this kitchen changed."`,
   choices: [

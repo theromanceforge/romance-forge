@@ -85,7 +85,7 @@ His boot hooked her ankle. The hard line of his cock pressed once against her kn
 
 Ellison's shoulders shifted at the glass. The rain kept on.
 
-"Ellison is turning. Choose. Mercy or seal. I will walk either door with my mouth shut and my hands honest afterward." [player_name] pressed her thighs together around the ghost of his palm and nodded, ruined, hopeful, dread-bitten, still refusing to christen bone while Cho said pending and a charm upstairs still only like Renny's missing piece. The foghorn rolled again. When Ellison turned for the call she had been pretending not to take, Will's hand found the inside of [player_name]'s wrist under the table edge—thumb on her pulse like a wire check and a claim.
+"Ellison is turning. Choose. Mercy or seal. I will walk either door with my mouth shut and my hands honest afterward." [player_name] pressed her thighs together around the ghost of his palm and nodded, ruined, hopeful, dread-bitten. The foghorn rolled again. When Ellison turned for the call she had been pretending not to take, Will's hand found the inside of [player_name]'s wrist under the table edge—thumb on her pulse like a wire check and a claim.
 
 Ellison turned back. Captain weather, not blind. "Decide before my patience becomes a memo. Akers, if she chooses seal, you don't leak because your feelings got loud. If she chooses mercy, you prep her like a partner, not like a man begging forgiveness for a hallway he won't name."
 

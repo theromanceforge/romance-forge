@@ -57,9 +57,9 @@ The soft net had burned. The quiet deal was refused. The press was chosen. Will 
 
 "Rumor will try." He didn't soften it. Then, lower: "Ride the press conference open and keep the hunt loud, and after the storm I'll put you against a blind wall and finish what my fingers started, with my mouth. Turn the heat into a trial, fold the shutters into warrants, and I'll take you apart in a locked room when the docket cools."
 
-On the steps he walked the press through red doors and pencil Xs without naming a corpse. She spoke when he nodded, her thighs tight, aching. The pier night. Owen. Soft grammar on a nano-SIM. A clerk's desk after midnight.
+On the steps he walked the press through red doors and pencil Xs without naming a corpse. She spoke when he nodded. The pier night. Owen. Soft grammar on a nano-SIM. A clerk's desk after midnight.
 
-"Because Cho hasn't earned a name," Will said to the first shouted question, flat and fierce, and [player_name] clenched at the refusal as if it were foreplay. "Printing a sister on silt for a chyron is how cities make false funerals. Next question that doesn't ask me to bury a maybe."
+"Because Cho hasn't earned a name," Will said to the first shouted question, flat and fierce, and [player_name] steadied at the refusal. "Printing a name on silt for a chyron is how cities make false funerals. Next question that doesn't ask me to bury a maybe."
 
 After the storm, the elevator again. Will boxed her into the corner the cameras couldn't follow, hips and heat, and slid his hand under her skirt where the podium had hidden what she wanted. Two fingers found her shamelessly slick.
 
@@ -71,9 +71,9 @@ He pushed them in slow. She clenched. He groaned like confession and pleasure we
 
 "Clock," he said. "Ride it open, or turn the heat into a trial. Either way, the chain spoke under lights." She fixed her skirt a tooth short of tidy and held his gaze.
 
-Missing charm. Unidentified bones. Clerk throat breathing in daylight. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Ride open. Or trial. Corridor hum thickened when the doors opened. Will steadied her with the hand that still shone faintly with her slick, grounding, practical, filthy.
+Clerk throat breathing in daylight. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Ride open. Or trial. Corridor hum thickened when the doors opened. Will steadied her with the hand that still shone faintly with her slick, grounding, practical, filthy.
 
-"Ellison will smell proximity on this storm," he murmured. "Let her. You stood on steps for a maybe without christening silt. That is cooperation under shutters that happens to leave you wet. Remains still unidentified. Charm still only maybe. Soft ran out. Press was the next honest grammar. What comes after is the verb that keeps the clerk reachable without turning you into his old wound-weather I already know how to mourn."
+"Ellison will smell proximity on this storm," he murmured. "Let her. That is cooperation under shutters that happens to leave you wet. Soft ran out. Press was the next honest grammar. What comes after is the verb that keeps the clerk reachable without turning you into his old wound-weather I already know how to mourn."
 
 He pressed her palm to his cock, thick and hot through his trousers, and rolled once into her fist in the blind stretch of corridor. "Feel what a press conference does to me. Soft's dead. The hunt's loud. Ride it open, or go to trial. Either way, daylight spoke."
 
@@ -87,7 +87,7 @@ He pressed her palm to his cock, thick and hot through his trousers, and rolled 
 
 Will's breath left him like a wound. "That's the only question worth asking in this corridor."
 
-"Ride it open and I fuck the adrenaline out of you in the first locked stairwell after the last question," he said. "Convert to trial and I keep you dripping through every recess because unfinished climax is bagged evidence I refuse to log." He rolled his hips once—honest, filthy—and stopped, unfinished held like a vow. Flashbulbs stuttered. [player_name]'s cunt clenched around the public risk. Charm probable. Bones unnamed.`,
+"Ride it open and I fuck the adrenaline out of you in the first locked stairwell after the last question," he said. "Convert to trial and I keep you dripping through every recess because unfinished climax is bagged evidence I refuse to log." He rolled his hips once—honest, filthy—and stopped, unfinished held like a vow. Flashbulbs stuttered. [player_name]'s cunt clenched around the public risk.`,
   choices: [
     { id: "scene9c", text: "Ride the press conference open", textHot: "Ride the press conference open" },
     { id: "scene9a", text: "Convert press heat into trial", textHot: "Convert press heat into trial" }

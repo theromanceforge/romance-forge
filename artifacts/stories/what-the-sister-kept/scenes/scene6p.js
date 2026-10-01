@@ -53,7 +53,7 @@ He boxed her against the fence, mouth at her ear, thigh pushing between hers unt
 
 "If I reunite—"
 
-"Pier festival," Will snarled, pumping slow, filthy, precise. "Posters. Crowds. My hand on your back like soft partnership—and after I put you against a piling and fuck the walk out of you until fog knows your moan, until anniversary ghosts share the wet with how hard I get for a woman who fled my lean and still soaks my hand." He freed his cock enough to smear the head through her folds without entering—hot, blunt, cruel, painting her clit until she jerked. "Or circle back to the locked box and the cream envelopes while I take the warehouse alone and come back smelling like fish-rot and unfinished want to find you shaking over paper. After, I fuck you on a floor that is not hers if you ask—grief and sex can share oxygen. Cho's bones stay unnamed. Charm stays like."
+"The crowd," Will snarled, pumping slow, filthy, precise. "My hand on your back like soft partnership—and after I put you against the car and fuck the walk out of you until fog knows your moan, until you feel how hard I get for a woman who fled my lean and still soaks my hand." He freed his cock enough to smear the head through her folds without entering—hot, blunt, cruel, painting her clit until she jerked. "Or circle back to the box while I take the warehouse alone and come back smelling like fish-rot and unfinished want. After, I fuck you in my bed if you ask."
 
 She clenched around nothing when he drew his fingers free and rubbed her with the wet head of his cock instead, shallow, maddening, never fully inside. "Walking didn't free your secret," Will muttered against her mouth. "Public storms dig. Locked boxes dig quieter."
 
@@ -63,13 +63,13 @@ He tucked himself away with shaking hands, fastened her jeans and pressed his fo
 
 "Feel what the walk did," Will muttered. "You left and I wanted you more for it. That should scare you. It scares me."
 
-She stroked him, slow, feeling thick heat jump against her palm. "Festival means I meet you under sodium and posters and then take you somewhere the crowd cannot see until you come with my name in your teeth. Box means you dig Renny's metal while I chase fourteen-or-forty-one alone—and when I find you after, I put you on the hood in this fog and finish what the fence started." "Both leave you shaking. Both move the case. Both leave me chasing case and woman until one of us breaks open."
+She stroked him, slow, feeling thick heat jump against her palm. "The crowd means I meet you under sodium light and then take you somewhere the crowd cannot see until you come with my name in your teeth. The box means you dig through the past while I chase fourteen-or-forty-one alone—and when I find you after, I put you on the hood in this fog and finish what the fence started." "Both leave you shaking. Both move the case. Both leave me chasing case and woman until one of us breaks open."
 
 She whimpered. He kissed her hard enough to bruise, then pulled back and cupped her jaw with cracked knuckles. The fog came back between them, and so did the case.
 
-"I kept a badge by letting a partner take a fall I should've shared," he said. "You kept a pier night off paper. We're both fluent in expensive quiet. Walking doesn't make either of us clean. It makes us honest about what quiet costs." The remains were still unnamed upriver. The red door still waited in rumor.
+"I kept a badge by letting a partner take a fall I should've shared," he said. "You kept Owen off paper. We're both fluent in expensive quiet. Walking doesn't make either of us clean. It makes us honest about what quiet costs." The red door still waited in rumor.
 
-He lifted her onto the hood of the unmarked, metal cold through wet jeans, and stood between her knees with his mouth at her throat. "If you reunite at the festival, I'll be soft in the crowd and filthy in the first alley we find. If you circle to the box, I'll leave you the key-hour and come back for you after. Either way, I chase." His hand cupped her through denim, one firm press, and she arched.
+He lifted her onto the hood of the unmarked, metal cold through wet jeans, and stood between her knees with his mouth at her throat. "If you meet me in public, I'll be soft in the crowd and filthy in the first alley we find. If you circle to the box, I'll leave you the key-hour and come back for you after. Either way, I chase." His hand cupped her through denim, one firm press, and she arched.
 
 "Pick," Will said. "Festival or box. You walked first. Now decide where the walking leads, before the fog decides for us."`,
   choices: [

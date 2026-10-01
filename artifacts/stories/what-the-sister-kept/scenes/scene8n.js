@@ -51,7 +51,7 @@ The recorder's red light made every breath look like evidence. [player_name] dre
 "Pick," Will murmured. "Neither invents a funeral for clearance."`,
   textHot: `The Internal Affairs hearing room smelled like burnt coffee and the ridiculous truth that [player_name] was already wet for Will under fluorescent judgment, while she prepared to put his method in her mouth for a recorder. Fluorescents hummed. The recorder sat at the center of the table. Lieutenant Rhee was mild as a laid-down blade. Captain Mara Ellison's folder was thick enough to bruise. Will sat too straight, his late smile dead, his knuckles forced open on his knee, his cock a problem he was pretending policy could solve.
 
-Proximity. Closeness. Soft nets. Sister-shaped testimony. his old wound sealed— pressure only. [player_name]'s pulse lived in her throat and lower. Her thighs pressed. Jeans already a quiet crime from the elevator ride where Will had said hearing like a filthy word dressed as procedure. Remains unnamed. Charm like. Hope and dread on the table. Owen still off her paper. Rhee named his old wound as association smoke, not subject. Will answered with science shields—bones unnamed, charm probable, closeness not sandbagging.
+Proximity. Closeness. Soft nets. his old wound sealed— pressure only. [player_name]'s pulse lived in her throat and lower. Her thighs pressed. Jeans already a quiet crime from the elevator ride where Will had said hearing like a filthy word dressed as procedure. Hope and dread on the table. Owen still off her paper. Rhee named his old wound as association smoke, not subject. Will answered with science shields—closeness not sandbagging.
 
 Ellison catalogued stairwells and parking garages like a woman who could read arousal through memos. [player_name] testified: the maybe was sacred; the soft nets were witness preservation; the shoot/don't-shoot had held; wanting him didn't make the maybe false. Rhee priced the loyalty and laid out the choice like a dare: build a future after IA, or carry the IA stand into Owen's trial. Then Rhee and Ellison stepped out for three manufactured minutes. Coffee neither of them needed. A test dressed as courtesy.
 
@@ -61,7 +61,7 @@ The door snicked shut. Will had [player_name] against the filing cabinet before 
 
 "Build a future, and I walk you out of this room smelling like you, lying only about how hard I got when you defended me. Then I take you in the first empty office after, like gratitude with teeth, my palm over your mouth." He pushed his hand into her jeans, under cotton. She was soaked. Two fingers slid into her without preamble.
 
-"[player_name]—Jesus—they'll come back—" "Then come quiet," Will murmured, pumping slow, filthy, precise, thumb on her clit in tight circles that made her knees buckle. "Cho will not name bones for a hearing. Charm stays like. Hope and dread do not get a review pass. Your kept secret presses—trial volume does not respect fed silences; future soft buys rebuild and costs the sharper justice." He curled his fingers until her hips jerked.
+"[player_name]—Jesus—they'll come back—" "Then come quiet," Will murmured, pumping slow, filthy, precise, thumb on her clit in tight circles that made her knees buckle. "Hope and dread do not get a review pass. Your kept secret presses—trial volume does not respect fed silences; future soft buys rebuild and costs the sharper justice." He curled his fingers until her hips jerked.
 
 A third finger stretched her. She bit his shoulder through his shirt to stay silent for the hall. "Pick while you clench around the detective Internal wanted to muzzle for loving a witness," he breathed. He kissed her hard enough to bruise, then eased his fingers out, painted her lower lip once, and sucked his own knuckles clean as footsteps came back.
 
@@ -75,7 +75,7 @@ The please was a crack in the armor. It went through her like a finger. When the
 
 "A future means you saved my badge with your mouth," he said softly, "and I repay you with mine until your voice breaks on hospital-dawn sheets."
 
-"Both leave you shaking. Both move the case. Both leave Renny unnamed among the dead until science earns otherwise." Pulse hammered. Wet jeans. Hearing unfinished. Want unfinished and louder. In the recess hallway, after Rhee called ten minutes, Will pulled [player_name] into a copy room that smelled like toner and burnt coffee and shoved her onto the edge of a low cabinet.
+"Both leave you shaking. Both move the case." Pulse hammered. Wet jeans. Hearing unfinished. Want unfinished and louder. In the recess hallway, after Rhee called ten minutes, Will pulled [player_name] into a copy room that smelled like toner and burnt coffee and shoved her onto the edge of a low cabinet.
 
 She clapped a hand over her own mouth. He knelt, drew her jeans down, and braced her thighs open with his knuckles.
 
