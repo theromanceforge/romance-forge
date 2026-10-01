@@ -16,7 +16,7 @@ The interview room seemed to expand and shrink at once when counsel gathered her
 
 "The night Renny vanished I went to the pier looking for her," [player_name] said, voice steady by force. "Near the ferry slip I saw Owen Vale. He was with someone who shouldn't have been there. I never got a clean face: jacket, shoulder, the wrong kind of stillness for a festival. Owen saw me. Later, at home, he told me Renny ran off with friends. He made it sound like drugs and debt, like soft shame. He implied that putting it on a police form would hurt her more than silence."
 
-She made herself finish. "I was nineteen. I loved my sister. I loved the house staying upright. I signed a statement that left Owen off the pier. That's what I kept. That's the lie shaped like protection."
+She made herself finish. "I was eighteen. I loved my sister. I loved the house staying upright. I signed a statement that left Owen off the pier. That's what I kept. That's the lie shaped like protection."
 
 Will's pen moved, then stopped. He looked up, respect and hunger braided so tight they might have been the same rope. "Clean," he said softly. "Christ. Clean and late and exactly what Mara will weaponize if I walk this upstairs without a plan." He rubbed his thumb over the pen cap, the tell. "You just handed me Owen at the scene and your own obstruction by omission. There's no going back from that sentence. You understand that."
 
@@ -55,7 +55,7 @@ Counsel left. The door click stripped the room naked. Fluorescent hum. Rain. Wil
 
 She stood because sitting hid nothing anymore, and for a moment the heat drained out of her and left only the night.
 
-"The night Renny vanished I went looking. Ferry slip. Owen Vale. Someone who shouldn't have been there: jacket, shoulder, wrong stillness. He saw me. Told me she ran off with friends. Drugs. Debt. Soft shame. I left him out. I was nineteen. That's what I kept."
+"The night Renny vanished I went looking. Ferry slip. Owen Vale. Someone who shouldn't have been there: jacket, shoulder, wrong stillness. He saw me. Told me she ran off with friends. Drugs. Debt. Soft shame. I left him out. I was eighteen. That's what I kept."
 
 Will's pen stopped. "Clean. Christ. Late. Exactly what Mara will weaponize." His thumb found the pen cap. "There's no going back from that sentence. You handed me Owen and your obstruction. Don't lie about that either."
 

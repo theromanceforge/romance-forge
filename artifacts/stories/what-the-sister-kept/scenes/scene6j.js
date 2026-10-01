@@ -28,7 +28,7 @@ Will's notebook stayed closed against his thigh, restraint as a different kind o
 
 Owen didn't invite them. He spat near [player_name]'s shoe, not at her, near. The rest of the blowup came in fragments: Owen naming betrayal, [player_name] naming the pier silhouette at last into open rain, Will naming obstruction without yet naming arrest. A neighbor's dog barked. A trash lid clanged like the alley ghost of burned plastic.
 
-They ended in Owen's narrow kitchen under a fluorescent strip that hummed like an interview-room clock. Will didn't sit. He stood with his back to the side door that led to the alley bin, blocking the exit without steel. His notebook was finally open, pen scratching, while Owen's voice tore through breakfast lies and festival fog and a sister who'd been seventeen and pointing east.
+They ended in Owen's narrow kitchen under a fluorescent strip that hummed like an interview-room clock. Will didn't sit. He stood with his back to the side door that led to the alley bin, blocking the exit without steel. His notebook was finally open, pen scratching, while Owen's voice tore through breakfast lies and festival fog and a sister who'd been sixteen and pointing east.
 
 "You won't arrest me tonight," Owen said at last, quieter, calculating. "Because soft still sells. Because Ellison hates stalling and you hate early entries. Because my stepdaughter still wants hope more than a funeral the lab hasn't authorized."
 

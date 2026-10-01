@@ -18,7 +18,7 @@ Heat crawled up [player_name]'s throat, and not only fear. Attraction had climbe
 
 "The night Renny vanished," she began, and stopped. Rain thickened. Will waited with the patience of a man who'd waited out worse rooms. He didn't fill the silence with comfort. His attention lay there like a blade laid down, edge available, not yet cutting.
 
-"I saw Owen near the pier," [player_name] said. The words came out small and then larger, as if saying them grew them. "Not with Renny. With someone who wasn't supposed to be there. I still can't name him cleanly. I only saw a shoulder, a jacket, a way of standing that didn't belong to festival kids. Owen saw me see him. Later he told me Renny ran off with friends. He made her trouble sound like drugs, debt, the soft shame families hide. I was nineteen. I put none of it in the statement. I told myself I was protecting her. I was protecting the house."
+"I saw Owen near the pier," [player_name] said. The words came out small and then larger, as if saying them grew them. "Not with Renny. With someone who wasn't supposed to be there. I still can't name him cleanly. I only saw a shoulder, a jacket, a way of standing that didn't belong to festival kids. Owen saw me see him. Later he told me Renny ran off with friends. He made her trouble sound like drugs, debt, the soft shame families hide. I was eighteen. I put none of it in the statement. I told myself I was protecting her. I was protecting the house."
 
 Her voice cracked. "The house is ash. She's still missing, or she's among remains that don't have her name yet. Cho hasn't said. Rumor has. I won't let rumor bury her before science speaks."
 
@@ -38,7 +38,7 @@ Rain hammered the roof in soft percussion. [player_name] thought of Renny's hood
 
 The cabin felt too small. Outside, a uniform walked past under an umbrella and didn't look in. Yet. Ellison's reach was long. Time was short.
 
-The station's upper windows glowed like indifferent stars. Down here in the lot, [player_name] had rain, Will, and a choice that would feed either the captain's blotter or a private ledger no form could capture. She thought of Renny at seventeen forever in photographs. She thought of Cho's careful language, unidentified and pending and consistent with, that never yet said Renny. Holding hope open hurt. Closing it early would hurt worse.
+The station's upper windows glowed like indifferent stars. Down here in the lot, [player_name] had rain, Will, and a choice that would feed either the captain's blotter or a private ledger no form could capture. She thought of Renny at sixteen forever in photographs. She thought of Cho's careful language, unidentified and pending and consistent with, that never yet said Renny. Holding hope open hurt. Closing it early would hurt worse.
 
 A truck hissed past on wet asphalt beyond the chain-link. Will's profile in the dash-dark looked carved from sleeplessness and old decisions. "Whatever you pick," he said, quieter, "don't pick it to spare me. I've survived uglier audits than Mara's side-eye. I haven't decided yet if I can survive watching you disappear behind a lawyered wall or a family lie again. That's my problem. The pier night is yours to spend or keep. Spend it with me upstairs, or keep one piece warm between us. Either way, you walk out of this car knowing I see you. Not only the witness file."`,
   textHot: `Will's unmarked car smelled like rain on vinyl, gun oil, burnt coffee, and the low electric musk of two people who had fled a captain's clock to sit too close in the dark. The lot was a slick black mirror. Fog pressed the chain-link. [player_name] sat in the passenger seat with her thighs pressed tight, pulse hammering in her throat and lower, the unfinished interview sentence still on her tongue.
@@ -57,7 +57,7 @@ She made a small sound she couldn't swallow. Soap, salt, his shoulder near enoug
 
 Then she made herself look at the windshield instead of him, and the heat drained enough for the words to come.
 
-"I saw Owen near the pier. He saw me see him. Told me she ran off with friends. Made her trouble sound like drugs and debt. I was nineteen. I put none of it in the statement. I protected the house. The house is ash. And she's still missing, or she's among remains that don't wear her name yet. I won't let rumor bury her."
+"I saw Owen near the pier. He saw me see him. Told me she ran off with friends. Made her trouble sound like drugs and debt. I was eighteen. I put none of it in the statement. I protected the house. The house is ash. And she's still missing, or she's among remains that don't wear her name yet. I won't let rumor bury her."
 
 The rain filled the silence for a long moment. Will didn't touch her. He let the confession sit in the car the way it deserved to.
 

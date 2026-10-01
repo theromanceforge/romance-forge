@@ -20,7 +20,7 @@ Will stood in the doorway a full three seconds before entering, as if this thres
 
 She sat on the edge of Renny's bed. The mattress sighed. Rain found the window in soft ticks, and somewhere downstairs a pipe knocked; Harborwick buildings always sounded like they were thinking. [player_name] looked at the bracelet, then at the bagged charm that might match and might not. Hope braided with dread so tightly she couldn't tell which strand was cutting her palm.
 
-"I searched until dawn," she said. "Fog horn. Empty pier. Owen told me she'd run off—said she'd gotten into something with friends, money trouble he didn't want on a police report because it would follow her. I was nineteen. I wanted to believe the version that kept her alive and kept the family from detonating on a sidewalk."
+"I searched until dawn," she said. "Fog horn. Empty pier. Owen told me she'd run off—said she'd gotten into something with friends, money trouble he didn't want on a police report because it would follow her. I was eighteen. I wanted to believe the version that kept her alive and kept the family from detonating on a sidewalk."
 
 Will's pen appeared. He wrote without looking down, a trick of men who had taken statements in worse rooms than this. "Owen Vale. Stepfather. Estranged now?"
 
@@ -63,7 +63,7 @@ She nodded. His fingers, careful and sure, opened the top drawer. Hoodies. Festi
 
 "Your statement said friends," he said. "Friends said alone toward the water. Somebody edited. Kindness gets people missing." The ugliness in his charm smoothed into something almost gentle and somehow more dangerous. "I'm not calling you a killer. I'm saying the night had more rooms than your paperwork showed."
 
-She sat on the edge of Renny's bed. Mattress sigh. Rain on glass. "I searched till dawn. Owen said she'd run off. Money, friends, don't put it on a report. I was nineteen. I wanted the version that kept her breathing and the family off the sidewalk."
+She sat on the edge of Renny's bed. Mattress sigh. Rain on glass. "I searched till dawn. Owen said she'd run off. Money, friends, don't put it on a report. I was eighteen. I wanted the version that kept her breathing and the family off the sidewalk."
 
 Will wrote without looking at the page. "Estranged now?"
 

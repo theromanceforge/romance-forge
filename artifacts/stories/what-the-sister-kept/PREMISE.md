@@ -19,12 +19,14 @@
 
 | Name | Role |
 |------|------|
-| **[player_name]** | Female protagonist only (`she/her`). Mid-**20s**. Sister of the missing teen. Fill-in name. |
+| **[player_name]** | Female protagonist only (`she/her`). Mid-**20s** (about **25** now; about **18** on festival night seven years ago). Sister of the missing teen. Fill-in name. |
 | **William Akers** | Male LI **only** (v1). Mid-**30s**. Homicide/cold-case detective with a **real dark past**, buried secrets, and **brutal charm** — not clean-cut. **Not** John Shaw from *Until the Quiet Breaks*. |
-| **Renny** | Younger sister (Irene/Renee). A **teenager** when she vanished (~5–10 years younger than MC). Missing **seven years**. Alive-or-dead remains **unresolved early**. |
+| **Renny** | Younger sister. Given name **Irene**; everyone calls her **Renny** (no surname used in prose; Owen Vale is the stepfather). **16** when she vanished, seven years ago (would be **23** now). ~2–3 years younger than MC. Missing **seven years**. Alive-or-dead remains **unresolved early**. |
 | **Captain Mara Ellison** | Will’s superior; presses for clearance, distrusts family witnesses. |
 | **Owen Vale** | [player_name]’s estranged stepfather / family pressure node; knows too much or pretends not to. |
 | **Dr. Lila Cho** | Medical examiner / forensics contact; delivers hard facts that fracture cover stories. |
+
+**Canonical ages (locked):** Renny 16 when she vanished, 7 years ago (23 if alive). [player_name] about 18 then, about 25 now. Will mid-30s. No minor is present, named or remembered inside any sexual moment (Warm or Hot); Renny's objects (bracelet/charm, hoodie, room, posters, photos, letters, journal, flyer) stay out of sex beats.
 
 ---
 

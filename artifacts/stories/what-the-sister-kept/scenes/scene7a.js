@@ -10,7 +10,7 @@ Will stood at the window with his notebook closed against his thigh, shirt wrink
 
 [player_name]'s throat worked. Renny had been a teenager when she vanished: seven years of absence folded into cotton, silver and this journal, which had spent those years under a bed like a second spine. Upriver, Cho's remains still waited in careful language: an age range that could fit, a charm that could match the bracelet's missing piece, lab ID pending. The remains weren't Renny until science said so. Rumor had already tried to bury her. The journal wouldn't help the burial. It named a chain.
 
-[player_name] read. Renny's certainty was teenage and terrible: Harborwick Pier Warehouse C, midnight trucks that didn't match any shipping board, a city clerk's initials, M.K., scratched beside Owen Vale's late nights, a fear that sounded older than seventeen. They move sealed crates when the foghorn covers the dock noise. Owen says it's overtime. Owen lies with his whole mouth. If something happens to me, ask [player_name] about the pier night. She saw him. She knows she saw him.
+[player_name] read. Renny's certainty was teenage and terrible: Harborwick Pier Warehouse C, midnight trucks that didn't match any shipping board, a city clerk's initials, M.K., scratched beside Owen Vale's late nights, a fear that sounded older than sixteen. They move sealed crates when the foghorn covers the dock noise. Owen says it's overtime. Owen lies with his whole mouth. If something happens to me, ask [player_name] about the pier night. She saw him. She knows she saw him.
 
 The sentence landed like a hand on [player_name]'s sternum. She'd kept Owen off the official statement. Renny had known. Renny had written the secret into purple leather as if sisters could be subpoenaed by ink.
 

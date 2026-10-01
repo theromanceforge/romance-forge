@@ -12,7 +12,7 @@ Will's cracked notebook stayed closed against his thigh. His charm was banked lo
 
 "Define everything," [player_name] said. Her voice held. Barely.
 
-Ellison's smile wasn't Will's kind of smile. No velvet. "Owen Vale's real timeline. Who you saw on the pier. What you left out of the statement you signed at nineteen. The detail you told yourself was protection." She tapped the tablet. "Akers already has you halfway there. I interrupted because I won't have another family soft spot turning my detective into a liability. Not after—" She stopped. Nina Solis lived in the pause like a draft under a door. Will's hand twitched toward his ribs and aborted. He didn't speak. Ellison's eyes said she hadn't needed him to.
+Ellison's smile wasn't Will's kind of smile. No velvet. "Owen Vale's real timeline. Who you saw on the pier. What you left out of the statement you signed at eighteen. The detail you told yourself was protection." She tapped the tablet. "Akers already has you halfway there. I interrupted because I won't have another family soft spot turning my detective into a liability. Not after—" She stopped. Nina Solis lived in the pause like a draft under a door. Will's hand twitched toward his ribs and aborted. He didn't speak. Ellison's eyes said she hadn't needed him to.
 
 Rain freckled the west glass. Below, a foghorn rolled inland, low and lonely. [player_name] tasted burnt coffee and fear and the almost-confession still stuck from the interview room. Owen near the pier with someone who wasn't supposed to be there. The run-off-with-friends story she'd accepted because the house needed to stay standing. An omission that had become a seven-year debt she paid every time she said Renny's name out loud.
 
@@ -26,7 +26,7 @@ Will's mouth twitched, almost a joke about turkey and knives, and the humor died
 
 [player_name] thought of Renny's empty chair downstairs. Of the silver charm that was close enough to gut hope and not close enough to bury it. Of Owen's bleach-clean alibi, and the way his voice had sounded the morning after the festival, too calm, too practiced. Of Will's knee under the interview table, accidental, devastating. Attraction was a stupid animal to bring into Ellison's office, and it came anyway: the sleep-deprived set of his shoulders, the scar catching light, a man who used charm as armor over something that still bled when named sideways.
 
-"Full cooperation means I put Owen at the pier," [player_name] said. The words tasted like cutting a rope and finding it was also a noose. "It means I admit I saw him with someone who shouldn't have been there. It means I admit I lied by omission, because I was nineteen and scared and he made Renny's trouble sound like the kind you hide if you love her. Drugs, debt. The soft crimes families bury so the hard ones never get a hearing."
+"Full cooperation means I put Owen at the pier," [player_name] said. The words tasted like cutting a rope and finding it was also a noose. "It means I admit I saw him with someone who shouldn't have been there. It means I admit I lied by omission, because I was eighteen and scared and he made Renny's trouble sound like the kind you hide if you love her. Drugs, debt. The soft crimes families bury so the hard ones never get a hearing."
 
 Ellison's tablet woke under her palm, screen casting a cold light up her face. "Then say it on record. Tonight. Before Cho's next drip. Before Owen hears the charm rumor and burns whatever still links him to that festival. Before you decide again that protection is the same as love."
 
@@ -55,7 +55,7 @@ Ellison set her tablet down like a verdict. "Access is not a right. Everything y
 
 "Define everything," she managed. She hated how rough her voice sounded, as if he had already been kissing her throat.
 
-Ellison listed Owen's timeline, the pier sighting, the omission at nineteen. She almost said a name, Nina Solis, and stopped. The pause bruised the room.
+Ellison listed Owen's timeline, the pier sighting, the omission at eighteen. She almost said a name, Nina Solis, and stopped. The pause bruised the room.
 
 The flinch at Will's jaw made [player_name]'s nipples tighten under her blouse. Damaged men shouldn't be this hot. Will wore his damage like cologne she wanted to lick off his pulse point.
 

@@ -16,7 +16,7 @@ Fluorescents hummed. Rain freckled the high window over Harborwick's pier roofs.
 
 Will closed the notebook. The sound was soft and final. "I asked you for the night you kept. Not a Miranda performance."
 
-"You asked me to hang myself with honesty while your captain listens through the wall." Her palms were damp on the scarred table. "Ellison already interrupted once. I heard the word liability. I'm not nineteen anymore, Will. I won't put Owen on a page without someone who works for me sitting where you're sitting."
+"You asked me to hang myself with honesty while your captain listens through the wall." Her palms were damp on the scarred table. "Ellison already interrupted once. I heard the word liability. I'm not eighteen anymore, Will. I won't put Owen on a page without someone who works for me sitting where you're sitting."
 
 Something flickered in his eyes: hurt, respect, calculation. Ellison's look had said enough. Akers specials cost careers. Nina Solis's name was still a quiet bruise in precinct hallways, a raid that hadn't ended clean. Will didn't share the story. He used the smile instead, and when the smile failed, you saw why people feared the failure as much as the charm.
 

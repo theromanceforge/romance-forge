@@ -14,7 +14,7 @@ She looked at the microphone grille. "I saw Owen Vale near the festival pier the
 
 Will's pen scratched. His eyes didn't leave her mouth. "Name the companion if you can."
 
-"I can't invent a face to make Ellison's clearance prettier," [player_name] said, steady by force. "I can say Renny was tracking warehouse marks along the waterfront: east of the old fish auction, red door, cold-storage row, a generator loud enough to eat grammar. She had a clerk's initials in her head like a dare. Owen's late nights didn't match the bleach-clean story he carved into family dinners. I kept that map soft because I was nineteen and scared and loyal to the wrong quiet. I'm not nineteen anymore. I'm still scared. I'm done being loyal to a quiet that might have helped bury my sister's last honest hour."
+"I can't invent a face to make Ellison's clearance prettier," [player_name] said, steady by force. "I can say Renny was tracking warehouse marks along the waterfront: east of the old fish auction, red door, cold-storage row, a generator loud enough to eat grammar. She had a clerk's initials in her head like a dare. Owen's late nights didn't match the bleach-clean story he carved into family dinners. I kept that map soft because I was eighteen and scared and loyal to the wrong quiet. I'm not eighteen anymore. I'm still scared. I'm done being loyal to a quiet that might have helped bury my sister's last honest hour."
 
 The recorder took every word without mercy. Will's jaw flexed. His cracked knuckles whitened on the pen. He let the silence sit, then spoke.
 
@@ -51,7 +51,7 @@ Room B smelled like burnt coffee and wet wool. Fluorescent hum nested under her 
 
 "You asked for this on record," he said, soft enough to feel like fingers on the inside of her wrist. "Raw. Once the red light owns a syllable, it owns the house."
 
-She made herself stop looking at his hands and look at the microphone. "I saw Owen Vale near the festival pier the night Renny vanished," she said. "Not across town. A jacketed shoulder with him, office muscle, a silhouette that made Renny go quiet. I accepted his friends-and-debt lullaby because I was nineteen and scared and loyal to the wrong quiet. I never put him at the scene. That omission is mine."
+She made herself stop looking at his hands and look at the microphone. "I saw Owen Vale near the festival pier the night Renny vanished," she said. "Not across town. A jacketed shoulder with him, office muscle, a silhouette that made Renny go quiet. I accepted his friends-and-debt lullaby because I was eighteen and scared and loyal to the wrong quiet. I never put him at the scene. That omission is mine."
 
 Will's pen scratched. "Name the companion if you can."
 

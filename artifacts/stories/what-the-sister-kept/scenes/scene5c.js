@@ -32,7 +32,7 @@ Patel turned a page; the paper whispered like a second clock. "We can take five,
 
 "I am not your enemy," Will said, quieter, for her alone. "I am the man who will dig whether you feed me measured teaspoons or the whole pier night. Measured teaspoons keep Ellison calm and keep me wondering which parts of you are still performing protection. The whole pier night costs you counsel's smile and buys you my trust until I prove I deserve it. I am not asking you to bury hope. I am asking you not to starve the dig because a pad has a column called never."
 
-A cart rattled past in the corridor—evidence bags, the soft plastic sound of other people's tragedies wheeled under fluorescent light. Patel's pen hovered over *later* as if later were a country with better weather. [player_name] watched Will's scar catch and lose the light when he breathed. Mid-thirties competence sat across from mid-twenties silence and refused to apologize for wanting both the truth and the woman holding it. She remembered Renny at fifteen arguing about festival tickets, silver charm bracelet flashing as she gestured, the missing piece already gone even then—lost at school, Renny had said, laughing. Now a charm *like* that one waited in an evidence photo while Cho refused to finish the sentence rumor wanted spoken.
+A cart rattled past in the corridor—evidence bags, the soft plastic sound of other people's tragedies wheeled under fluorescent light. Patel's pen hovered over *later* as if later were a country with better weather. [player_name] watched Will's scar catch and lose the light when he breathed. Mid-thirties competence sat across from mid-twenties silence and refused to apologize for wanting both the truth and the woman holding it. She remembered Renny at sixteen arguing about festival tickets, silver charm bracelet flashing as she gestured, the missing piece already gone even then—lost at school, Renny had said, laughing. Now a charm *like* that one waited in an evidence photo while Cho refused to finish the sentence rumor wanted spoken.
 
 "Whatever you choose," Will said, almost gentle, which was worse, "don't choose because you're afraid of me. Choose because you're afraid of another seven years. Fear me after, if you need to. Fear Ellison. Fear Owen. Fear the lab tray. Just don't fear your own mouth into another omission." His thumb rubbed the pen cap once, the tell she'd learned to read as hunger on a short leash. Not only for the case.
 
@@ -47,7 +47,7 @@ Will's pen tapped. "I'm not here to bury anyone. Quiet has a body count even whe
 
 "The night of the festival," Patel prompted, fingers on [player_name]'s forearm—anchoring, owning the script.
 
-"Renny went to the pier. I went looking later. I saw Owen near the ferry slip." Patel squeezed: pace. "He wasn't alone. Jacket. Shoulder. Stance. He told me she ran off with friends. Drugs. Debt. I left him out of the statement. I was nineteen. I protected the house."
+"Renny went to the pier. I went looking later. I saw Owen near the ferry slip." Patel squeezed: pace. "He wasn't alone. Jacket. Shoulder. Stance. He told me she ran off with friends. Drugs. Debt. I left him out of the statement. I was eighteen. I protected the house."
 
 Will's pen moved in vicious strokes. "That's the drip. Seven years late." Velvet wrong-side out. "What else did she leave locked? A letter. A box. A password. Sisters always keep something."
 

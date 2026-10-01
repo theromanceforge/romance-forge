@@ -18,7 +18,7 @@ She had chosen the stage. Quiet deals had been offered and refused. Ellison stoo
 
 "Rumor will try," Will had said. He didn't offer comfort. "We ride the press conference open, keep the hunt loud and name the chain under lights. Or we turn the press heat into a trial as fast as warrants allow, and stop letting cameras be the only courtroom. Both leave Cho's tray contested tonight."
 
-Now he walked the press through red doors and pencil Xs without naming a corpse. [player_name] watched his shoulders under charcoal that still held alley rain. She spoke when he nodded. The pier night. Owen. A stranger wrong on the pier. A clerk's desk that never slept after midnight. Renny, seventeen and pointing.
+Now he walked the press through red doors and pencil Xs without naming a corpse. [player_name] watched his shoulders under charcoal that still held alley rain. She spoke when he nodded. The pier night. Owen. A stranger wrong on the pier. A clerk's desk that never slept after midnight. Renny, sixteen and pointing.
 
 "If those bones upriver are Renny," a reporter shouted, "why won't you say so?"
 

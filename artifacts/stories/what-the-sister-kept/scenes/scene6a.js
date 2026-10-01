@@ -26,7 +26,7 @@ Inside: a thin journal bound in cracked purple leather. A folded Harborwick pier
 
 Will didn't reach first. He waited, patience laid out like a tool. "Cho still has no hard ID," he said, as if the reminder could cushion whatever lived in paper. "Whatever this is, it doesn't make those remains your sister. It makes her a girl who was looking at something Harborwick didn't want looked at. Smuggling. Tampering. A chain. We read carefully. We don't invent a body because a journal is dramatic."
 
-[player_name] lifted the journal. The first page smelled like dust and teenage certainty. Renny's looping script named warehouses, a clerk's initials, Owen's late nights, a fear that sounded older than seventeen. Not a confession of death. A map of trouble.
+[player_name] lifted the journal. The first page smelled like dust and teenage certainty. Renny's looping script named warehouses, a clerk's initials, Owen's late nights, a fear that sounded older than sixteen. Not a confession of death. A map of trouble.
 
 Will's notebook opened at last. Pen scratched. Rain freckled the window. Downstairs a radiator knocked like a second interrogation clock. [player_name] read passages aloud when her voice worked and passed him the book when it didn't. Will translated Renny's shorthand into cold-case grammar without stripping the girl out of it.
 

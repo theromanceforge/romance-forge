@@ -20,7 +20,7 @@ Owen watched her sit. He looked like a man who'd taught her to scrub silhouettes
 
 "You came with Akers's mouth on your pulse," Owen said. Not quite a question. His eyes hunted her collar for the tiny tell of tape. "Or you came alone and the glass is lying. Which stepdaughter am I confessing to? The girl who scrubbed me off a statement, or the woman who wears badge heat like perfume and calls it courage?"
 
-"Unidentified," [player_name] said, using Will's precision as armor. Her voice held. Barely. "Cho hasn't printed Renny on bone. I'm here because soft burned and your sink trap still talked, and a clerk's initial keeps showing up like a toothache. Talk about M. Talk about call M if soft. Talk about who stood with you when Renny was seventeen and pointing at red doors."
+"Unidentified," [player_name] said, using Will's precision as armor. Her voice held. Barely. "Cho hasn't printed Renny on bone. I'm here because soft burned and your sink trap still talked, and a clerk's initial keeps showing up like a toothache. Talk about M. Talk about call M if soft. Talk about who stood with you when Renny was sixteen and pointing at red doors."
 
 Owen smiled wrong. Stepfather theater, cracking at the edges. "M moves permits and looks the other way when crates need a municipal throat. I warned him when your detective's patience got close. You want a full name on visitation glass while the rain makes us both look honest?" He leaned forward. Steel whispered.
 

@@ -48,7 +48,7 @@ const MINOR_ALLOW = [
 /** Per-story minor characters (names) — canonical ages noted for reviewers. */
 const MINOR_NAMES = {
   'until-the-quiet-breaks': ['Clara'], // Clara Shaw, 16 ("sixteen going on forty")
-  'what-the-sister-kept': ['Renny', 'Irene', 'Renee'], // Renny (Irene/Renee), 15-17 when she vanished
+  'what-the-sister-kept': ['Renny', 'Irene', 'Renee'], // Renny (Irene; 'Renee' kept as a guard), 16 when she vanished
   'the-living-key': [], // Ashmere trains adults only
   'the-soft-alibi': [], // no minors in cast
 };

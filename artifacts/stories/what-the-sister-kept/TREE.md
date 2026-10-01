@@ -4,7 +4,7 @@
 
 **Total: 97 scenes** (same writable counts as story one). Non-endings: 2 outbound IDs. Layer 10: endings (`choices: []`).
 
-Spice: Warm (`text`) + Hot (`textHot`); same choice IDs. LI: **William Akers** (mid-30s). MC: `[player_name]` she/her (mid-20s). Renny was a **teen** when she vanished.
+Spice: Warm (`text`) + Hot (`textHot`); same choice IDs. LI: **William Akers** (mid-30s). MC: `[player_name]` she/her (mid-20s). Renny (Irene) was **16** when she vanished seven years ago (23 if alive); MC was about **18** then and is about **25** now.
 
 **Ambiguity lock:** Upriver remains are **not** confirmed as Renny in early/mid layers — hope/dread linger.
 

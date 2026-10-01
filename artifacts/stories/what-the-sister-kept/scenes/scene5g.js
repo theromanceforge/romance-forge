@@ -10,7 +10,7 @@ The partial ME report lived in her coat pocket as a printed email Will had forwa
 
 She knocked.
 
-Owen opened in a sweater that smelled like dryer sheets and denial. Mid-life sag at the jaw. Eyes that had taught her how to clean up a statement. "Kid," he said, and the word tried to make her fifteen again. "It's late. It's raining. You look like you've been standing on a pier with cops."
+Owen opened in a sweater that smelled like dryer sheets and denial. Mid-life sag at the jaw. Eyes that had taught her how to clean up a statement. "Kid," he said, and the word tried to make her small again. "It's late. It's raining. You look like you've been standing on a pier with cops."
 
 "I have." [player_name] didn't step inside until he moved back. Small victory, threshold stolen. The house still smelled like bleach and old arguments. Renny's absence hung in the hallway where teenage shoes no longer cluttered the mat. "Cho's lab sent timing notes. The remains upriver, still not named, still not confirmed as Renny, sit in a debris window that contradicts where you said you were the night she vanished. Soft contradiction. Enough to lean. I'm leaning."
 

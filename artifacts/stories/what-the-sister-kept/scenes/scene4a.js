@@ -8,7 +8,7 @@ He was not a clean badge. Dark hair roughened by Harborwick weather, a mouth tha
 
 She kept her hands flat on the table so they wouldn't shake. Seven years of practiced silence sat in her throat. Renny's absence occupied the empty chair beside her like a third party with a claim on every word. The festival pier. A silver charm that might match the missing piece of the bracelet Renny never took off. Remains upriver with no name, only rumor sprinting ahead of science.
 
-"Walk me through the night again," Will said. Soft. Almost gentle. The gentleness was the weapon. "Not the statement you signed when you were nineteen and scared. The part you still taste when it rains on warehouse glass."
+"Walk me through the night again," Will said. Soft. Almost gentle. The gentleness was the weapon. "Not the statement you signed when you were eighteen and scared. The part you still taste when it rains on warehouse glass."
 
 She swallowed. Precinct coffee. The faint metallic tang of the radiator. His cologne was barely there: soap and salt and something sharper underneath, as if he'd scrubbed a worse smell off himself and never quite succeeded. Secrets sat behind his teeth. He didn't offer them. He offered attention like a hand on a locked door: patient, devastating, almost kind.
 
@@ -18,7 +18,7 @@ Will's pen didn't move. His eyes did, sleep-deprived and too sharp. "Owen Vale. 
 
 Heat crawled up her throat. Not only fear. Attraction had arrived with him at her threshold and refused to leave: the way he listened like a body listens, the way his voice could cut or cradle. She wanted his attention and hated wanting it, while unidentified bone waited in Cho's lab for an answer that might shatter hope or feed it.
 
-"I was nineteen," she said. "I believed him because believing him kept the house standing. Because he implied Renny's trouble was the kind you don't put on a police form if you want anyone left to love her."
+"I was eighteen," she said. "I believed him because believing him kept the house standing. Because he implied Renny's trouble was the kind you don't put on a police form if you want anyone left to love her."
 
 "And now the house is already ash." Will leaned forward. The table between them felt suddenly too narrow. "Partial remains upriver. An age range that could fit a lot of stories, including hers. A charm that could be Renny's. Lab ID pending. I'm not here to bury your sister before science speaks. I'm here because someone wanted that night quiet, and quiet is my least favorite lie."
 
@@ -52,7 +52,7 @@ Then he was gone into the hallway with his captain, the door clicking shut on ra
 
 One path led upstairs into Ellison's office, where full cooperation might buy [player_name] a seat at the case and cost her every soft edge she still owned. The other led out to Will's car in the wet lot, where off-record honesty waited like another kind of confession: dangerous, intimate, irreversible.
 
-[player_name] looked at the empty chair. Renny was seventeen forever in photographs, her fate still unnamed. The charm in the evidence photos was only like hers. Outside, Ellison said his name like a warning, and Will answered without apology. [player_name]'s palms left damp prints on the scarred table. The night she kept was climbing her throat again, and the clock ticked like a second interrogation she hadn't agreed to yet.`,
+[player_name] looked at the empty chair. Renny was sixteen forever in photographs, her fate still unnamed. The charm in the evidence photos was only like hers. Outside, Ellison said his name like a warning, and Will answered without apology. [player_name]'s palms left damp prints on the scarred table. The night she kept was climbing her throat again, and the clock ticked like a second interrogation she hadn't agreed to yet.`,
   textHot: `The interview room smelled like burnt coffee, wet wool, and the low animal heat of two people who shouldn't want each other across a case file. Fluorescents hummed. Rain freckled the high window. Will sat across from [player_name] with his cracked notebook open and his body angled like a man who knew exactly how close was too close, and closed the distance anyway.
 
 He was not clean. Dark hair weather-rough, a scar through his left eyebrow like a private signature of violence survived. When he smiled, it was velvet over a blade, the kind of mouth that made witnesses confess and women forget why confession was dangerous. [player_name] felt that smile in her cunt before she admitted it in her head: heat pooling low, thighs pressed tight under the table. Ellison had assigned him the way you load a gun. Sitting here, [player_name] understood the warning in her bones.
@@ -67,7 +67,7 @@ Will's pen stayed still. His eyes moved, sleep-starved, hungry in a way that was
 
 She wanted his hands on the truth and on her hips, and the wanting felt like a betrayal she couldn't afford.
 
-"I was nineteen," she said, voice rough. "I believed him because believing him kept the house standing. Because he made her trouble sound like the kind you hide if you love someone."
+"I was eighteen," she said, voice rough. "I believed him because believing him kept the house standing. Because he made her trouble sound like the kind you hide if you love someone."
 
 "And now the house is ash." Will's thumb rubbed the pen cap, a tell, hunger on a leash that frayed when he looked at her mouth. "Partial remains. An age range that fits too many stories. A charm that could be hers. No hard ID. I'll dig until Harborwick stops lying. Say the part you kept."
 
