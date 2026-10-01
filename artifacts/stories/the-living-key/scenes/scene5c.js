@@ -1,47 +1,57 @@
 export default {
   id: "scene5c",
   layer: 5,
-  title: "Counsel present: controlled drip of the frequency truth",
-  text: `The counsel chamber smelled of wet parchment, copper ink, and the particular caution of people who believed paper could outrun a war. Rain tracked the leaded windows overlooking Ashmere’s practice yards, where blue bruises still glowed on sparring candidates and ozone clung to chalk circles smeared pale by weather. Isolde Vane sat at the head of a long ashwood table with Collegium counsel flanking her—two advocates in grey, a scribe whose quill never stopped tasting the air for actionable phrases. Cassian Rook stood behind [player_name]’s chair rather than beside it, handler distance restored for an audience, scorched leather and practice-blade oil still ghosting the room whenever he shifted.
+  title: "Counsel Present",
+  text: `The counsel chamber smelled of wet parchment, copper ink, and the caution of people who believed paper could outrun a war. Rain tracked the leaded windows above the practice yards. Below, blue bruises still glowed on sparring candidates.
 
-[player_name]’s cracked personal ward-charm ticked warm against her throat. She had lawyered the oath with counsel present; Cassian’s trust had cracked then, loyalty bruised by paper. Now counsel wanted the frequency truth dripped carefully enough to keep access without handing Isolde a finished key. Controlled drip. Not silence. Not the raw admission that would write her song next to Lord Vesper Thorne’s leftover music in a ledger that loved daylight.
+Isolde Vane sat at the head of a long ashwood table. Collegium counsel flanked her: two advocates in grey, and a scribe whose quill never stopped hunting for actionable phrases. Cassian Rook stood behind [player_name]'s chair rather than beside it. Handler distance, restored for an audience.
 
-“State for the record,” said the senior advocate, “what your braid answered on trial night—without speculation that cannot be supervised.”
+[player_name]'s cracked ward-charm ticked warm against her throat. She had lawyered the oath with counsel present, and Cassian's trust had cracked then. Now counsel wanted the frequency truth dripped carefully. Enough to keep access. Not enough to hand Isolde a finished key, or to write her song beside Lord Vesper Thorne's in a ledger that loved daylight.
 
-[player_name] glanced at Cassian. His jaw was a held braid. Mid-thirties battlemage exhaustion. Brutal charm filed to courtroom stillness. Sealed inquiry teeth showing without the full dump.
+"State for the record," said the senior advocate, "what your braid answered on trial night—without speculation that cannot be supervised."
 
-“My braid held longer than expected,” [player_name] said carefully. “Then it cracked Ashmere’s outer song. The stone answered a frequency that did not match Collegium copper. Bram’s fragments call the match suggestive of a leftover Dark Sovereign pattern. I claim neither lineage nor allegiance. I report resonance under supervision.”
+[player_name] glanced at Cassian. His jaw was a held braid. His charm was filed down to courtroom stillness.
 
-Isolde’s smile was thin. “Handler Rook—corroborate?”
+"My braid held longer than expected," [player_name] said carefully. "Then it cracked Ashmere's outer song. The stone answered a frequency that did not match Collegium copper. Bram's fragments call the match suggestive of a leftover Dark Sovereign pattern. I claim neither lineage nor allegiance. I report resonance under supervision."
 
-“I corroborate fracture along Bram’s half-translation,” Cassian said, soft and absolute. “Living-key hymns remain incomplete. I do not corroborate seals that pretend ambiguity is consent.”
+Isolde's smile was thin. "Handler Rook—corroborate?"
 
-“Dawn and dusk blood-song readings with counsel for three days,” Isolde pressed.
+"I corroborate fracture along Bram's half-translation," Cassian said, soft and absolute. "Living-key hymns remain incomplete. I do not corroborate seals that pretend ambiguity is consent."
 
-“Yes—with Rook in the room, contested notes attached, sacrifice language unmarked until mapped,” [player_name] said. “No pyre dressed as partnership.”
+"Dawn and dusk blood-song readings with counsel for three days," Isolde pressed.
 
-“It’s survival,” Cassian added when an advocate called her tone argument. “Bill me.”
+"Yes—with Rook in the room, contested notes attached, sacrifice language unmarked until mapped," [player_name] said. "No pyre dressed as partnership."
 
-Controlled drip accepted; access remained; revocation threatened. They left into rain-scent and spent magic. Two turns of stair later Cassian stopped her with two fingers at her elbow—heat leaping where leather met pulse.
+"It's survival," Cassian added, when an advocate called her tone argument. "Bill me."
 
-“You sandbagged beautifully,” he murmured. “She knows. Tonight we decide whether the rest comes off-record—map on my floor—or war only if you order the want shut. Counsel made you careful. Careful can become cold.”
+The controlled drip was accepted. Access remained. Revocation was threatened. They left into rain-scent and spent magic.
 
-[player_name] tasted copper. “If we go to your quarters, I won’t pretend the map is the only thing I want on the floor.”
+Two turns of stair later, Cassian stopped her with two fingers at her elbow. Heat leapt where leather met pulse.
 
-“I know.” His eyes darkened. “If we keep war only, I won’t pretend the unfinishedness doesn’t cost. Choose anyway. The Unmade doesn’t wait for dignity.”
+"You held back beautifully," he murmured. "She knows. Tonight we decide whether the rest comes off-record, with the map on my floor. Or war only, if you order the want shut. Counsel made you careful. Careful can become cold."
 
-Salt wind. Wrong-interval bells. Living-key fog. Thorne temptation without second claim. Want humming under every controlled word. The hinge: off-record intimacy with a ward-map—or intimacy refused, war only—while Calderyn’s song thinned beyond Veil Sea fog.`,
-  textHot: `The counsel chamber smelled of wet parchment and copper ink, but [player_name] smelled Cassian under all of it—scorched leather, blade oil—standing behind her chair close enough that his heat licked her spine like a hand she wasn’t allowed to arch into. Her charm ticked between her breasts; nipples tight; cunt already interested in the theater of controlled truth. Isolde hungry. Quills waiting to undress her song into inventory.
+[player_name]'s mouth went dry. "If we go to your quarters, I won't pretend the map is the only thing I want on the floor."
 
-She dripped on purpose: resonance, not allegiance; contested fragments; living-key sacrifice unmarked until mapped. Each careful word was a slow undressing refused in daylight. Cassian’s soft absolute corroboration went through her like a thumb stroke she couldn’t ask for in front of grey advocates. Isolde smelled the sandbag and smiled thin. Readings ordered. Access dangled. Revocation threatened like a rival finger on [player_name]’s sternum.
+"I know." His eyes darkened. "If we keep war only, I won't pretend the unfinishedness doesn't cost. Choose anyway. The Unmade doesn't wait for dignity."
 
-Corridor. Stairs. Cassian’s two fingers at her elbow shocked straight to her clit. “Sandbagged beautifully,” he murmured near her mouth. “Tonight: off-record map and my mouth where your charm pulses—or war only, want shut. Your call.”
+Salt wind. Bells at the wrong interval. Want humming under every controlled word. Off-record intimacy with a ward-map. Or intimacy refused, and war only, while Calderyn's song thinned beyond the fog.`,
+  textHot: `The counsel chamber smelled of wet parchment and copper ink. [player_name] smelled Cassian under all of it. He stood behind her chair, close enough that his heat licked her spine like a hand she wasn't allowed to arch into.
 
-She was slick walking. “I won’t pretend the map is the only thing I want on the floor.”
+Her charm ticked between her breasts. Her nipples were tight. Her cunt was already interested in the theater of controlled truth. Isolde looked hungry. The quills waited to undress her song into inventory.
 
-He backed her to cold stone; gloved palm at her waist; hips meeting the thick restrained line of his cock—almost, unfinished, filthy. “Say intimacy-and-map and I’ll put parchment under your knees. Say war-only and I’ll teach survival with my hands off you until it kills me politely.”
+She dripped on purpose. Resonance, not allegiance. Contested fragments. Living-key sacrifice unmarked until mapped. Each careful word was a slow undressing refused in daylight.
 
-[player_name] caught his wrist to her sternum so he felt her breathing. She wanted his glove between her legs; wanted ward-ink on her thighs; wanted Thorne’s frequency kept as rumor while Cassian’s heat stayed the only claim. Living-key unmapped. Want refusing to blink between map-and-mouth and war-only refusal.`,
+Cassian's corroboration, soft and absolute, went through her like a thumb stroke she couldn't ask for in front of grey advocates. Isolde smelled the holding back and smiled thinly. Readings were ordered. Access dangled. Revocation was threatened.
+
+Corridor. Stairs. Cassian's two fingers at her elbow shocked straight to her clit. "You held back beautifully," he murmured near her mouth. "Tonight: the map off-record and my mouth where your charm pulses. Or war only, want shut. Your call."
+
+She was slick as she walked. "I won't pretend the map is the only thing I want on the floor."
+
+He backed her to cold stone. Gloved palm at her waist. Her hips met the thick, restrained line of his cock. Almost. Unfinished. Filthy.
+
+"Say intimacy and map, and I'll put parchment under your knees," he said. "Say war only, and I'll teach survival with my hands off you until it kills me politely."
+
+[player_name] caught his wrist to her sternum so he felt her breathing. She wanted his glove between her legs. She wanted ward-ink on her thighs. She wanted Thorne's frequency kept as rumor, while Cassian's heat stayed the only claim. Map and mouth, or war-only refusal. Her body had already voted.`,
   choices: [
     { id: "scene6c", text: "Off-record night: intimacy + ward-map on the floor", textHot: "Off-record night: ward-map on the floor — put his mouth where your song is loudest" },
     { id: "scene6d", text: "Off-record night: intimacy refused; war only", textHot: "Off-record night: refuse the heat — war only while you’re still wet for him" }
