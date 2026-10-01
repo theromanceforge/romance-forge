@@ -14,11 +14,11 @@ Nolan didn't move for a second. Then he took his hand off the wall.
 
 "Now. While I'm here to hear it," [player_name] said.
 
-He looked at her a long moment. Then he turned and walked back toward his door, and she followed him the six steps, and he held it open for her without a word.
+He looked at her a long moment. Then he turned and walked back toward his door. She followed him the six steps, and he held it open for her without a word.
 
 His study was off the front room. Dark wood. Books nobody read. A wide desk with one lamp, a laptop, a phone. He sat behind the desk and she took the chair beside it, close enough that their knees almost touched.
 
-On the shelf behind him was a framed photograph turned slightly toward the wall. She had never asked who was in it. She didn't ask now. The lamp made a small gold circle on the desk and left the rest of the room in shadow, and her mouth still felt the shape of his.
+On the shelf behind him was a framed photograph turned slightly toward the wall. She had never asked who was in it. She didn't ask now. The lamp made a small gold circle on the desk and left the rest of the room in shadow. Her mouth still felt the shape of his.
 
 He put the call on speaker.
 
@@ -82,7 +82,7 @@ Nolan's hand moved on the desk. It came to rest next to hers. Not touching. Just
 
 "And the other move?" [player_name] asked.
 
-"You go back to Brooks's soft door. Tomorrow. The lounge, the coffee, the nice version. And Nolan goes with you, as far as the hallway, and makes himself available, and takes some of the weight off you. Very visibly. Cooperatively." A dry beat. "The neighbor stays soft if the husband looks helpful."
+"You go back to Brooks's soft door. Tomorrow. The lounge, the coffee, the nice version. And Nolan goes with you, as far as the hallway, and makes himself available, and takes some of the weight off you. Very visibly. Cooperatively." A dry pause. "The neighbor stays soft if the husband looks helpful."
 
 "I'm not a husband in this," Nolan said quietly. "I'm the man she's asking about."
 
@@ -114,10 +114,10 @@ The line stayed open. Nobody spoke.
 
 Nolan's thumb began to move. Slowly, back and forth across the inside of her wrist, right over her pulse. He wasn't looking at the phone. He was looking at her mouth.
 
-She didn't pull her hand away. Downstairs Brooks was waiting, and on the desk his thumb kept moving, and she sat very still and let it.`,
+She didn't pull her hand away. Downstairs Brooks was waiting. Forty minutes out, Hangar Nine was waiting too. On the desk his thumb kept moving, and she sat very still and let it.`,
   textHot: `She let go of his hair.
 
-It almost hurt. His mouth was on hers, open, his thumb an inch below her hem on the inside of her thigh, and every part of her was leaning into him. She turned her face away. His lips dragged across her cheek. He breathed out hard, like she'd struck him.
+It almost hurt. His mouth was on hers, open, his thumb an inch below her hem on the inside of her thigh. Every part of her was leaning into him. She turned her face away. His lips dragged across her cheek. He breathed out hard, like she'd struck him.
 
 "Call Pell," she said.
 
@@ -125,7 +125,7 @@ It almost hurt. His mouth was on hers, open, his thumb an inch below her hem on 
 
 "Now. While I can hear it," [player_name] said.
 
-He took his hand off her thigh slowly. The skin there stayed hot. He turned and walked back the six steps to his door and held it open, and she went past him so close her breasts brushed his arm.
+He took his hand off her thigh slowly. The skin there stayed hot. He turned and walked back the six steps to his door and held it open. She went past him so close her breasts brushed his arm.
 
 His study was dark wood and one lamp. Books nobody read. A wide desk, a laptop, a phone. He sat behind the desk. She took the chair beside him, close, her knee against his under the wood.
 
@@ -187,7 +187,7 @@ His thumb went still. Then started again, slower, higher, on the inside of her t
 
 "And the other?" [player_name] asked. Her voice almost broke.
 
-"Brooks's soft door. Tomorrow. Coffee, the lounge, the nice version. Nolan in the corridor making himself very visibly helpful, taking weight off you." A dry beat. "The neighbor stays soft if the husband looks cooperative."
+"Brooks's soft door. Tomorrow. Coffee, the lounge, the nice version. Nolan in the corridor making himself very visibly helpful, taking weight off you." A dry pause. "The neighbor stays soft if the husband looks cooperative."
 
 "I'm not the husband in this," Nolan said. His thumb kept moving. "I'm the man she's asking about."
 
@@ -215,9 +215,9 @@ Nobody spoke. The line stayed open, hissing faintly.
 
 Nolan's thumb didn't stop. It slid over the lace, slow, pressing, right where she ached. She bit the inside of her cheek so hard she tasted salt. Her hips tipped up into his hand under the desk.
 
-Downstairs Brooks was waiting. On the speaker Pell was waiting. And under the wood his thumb kept moving on her, slow and sure, and she sat very still in the lamplight with her knees open and let it.`,
+Downstairs Brooks was waiting. On the speaker Pell was waiting. Forty minutes out, a hangar was waiting. Under the wood his thumb kept moving on her, slow and sure. She sat very still in the lamplight with her knees open and let it.`,
   choices: [
-    { id: "scene6h", text: "Follow the hangar lead alone — perfume twin and packed bag", textHot: "Follow the hangar lead alone — perfume twin and packed bag while his hand still burns on your knee" },
-    { id: "scene6i", text: "Return to Brooks's soft interview door — watch Nolan move to relieve you", textHot: "Return to Brooks's soft interview door — watch Nolan buy you air while your want stays private and loud" }
+    { id: "scene6h", text: "Follow the hangar lead alone — perfume twin and packed bag", textHot: "Follow the hangar lead alone — perfume twin and packed bag, his hand still burning on your knee" },
+    { id: "scene6i", text: "Return to Brooks's soft interview door — watch Nolan move to relieve you", textHot: "Return to Brooks's soft interview door — let Nolan buy you air while your want stays private" }
   ]
 };

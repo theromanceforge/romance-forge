@@ -22,7 +22,7 @@ She unlocked her own door. Then she turned and looked at him.
 
 "Come in," she said.
 
-He hesitated. In all these months he'd been in her apartment maybe a dozen times. He always came at night, always left before dawn, and he always looked at her rooms as if they were too small to hold whatever he'd brought with him.
+He hesitated. In all these months he'd been in her apartment maybe a dozen times. He always came at night and always left before dawn. He always looked at her rooms as if they were too small to hold whatever he'd brought with him.
 
 "Pell doesn't get this," she said. "Not this hour. Not here."
 
@@ -58,7 +58,7 @@ He reached into the inside pocket of his jacket and took out a thick fold of pap
 
 "Why didn't you?" she asked.
 
-"I don't know." He looked tired. Mid-forties and tired all the way down. "Maybe I wanted someone else to read them first."
+"I don't know." He looked tired all the way down. "Maybe I wanted someone else to read them first."
 
 He set the fold on her marble table, next to the old wine glass with its ring.
 
@@ -72,7 +72,7 @@ That night would be in those pages. Some version of it. A fob read. A door. A ti
 
 If she unfolded them, the night stopped being hers. It became a row in a log. Something Brooks could photograph.
 
-If she didn't, she'd keep the one thing she had seen with her own eyes, unexplained, and walk into Major Crimes at nine with a secret that might be nothing.
+If she didn't, she'd keep the one thing she had seen with her own eyes, unexplained. She'd walk into Major Crimes at nine with a secret that might be nothing.
 
 "You don't have to read them," Nolan said.
 
@@ -104,12 +104,12 @@ She pulled the fold toward her. Her fingers found the first crease. The paper wa
 
 He didn't move. He didn't breathe, as far as she could tell.
 
-She lifted the first fold open, slowly. A column of times. Doors. Her own floor number, again and again, down the page.`,
+She lifted the first fold open, slowly. A column of times. Doors. Her own floor number, again and again, down the page. She could spread every sheet across the marble and read them with him. Or she could fold one night back under before it became a row.`,
   textHot: `Three taps. Then nothing.
 
 His fingers were still inside her. Her body was clenched tight around them, right at the edge, shaking.
 
-"That's my door," she said. It came out as a gasp.
+"That's my door," she gasped.
 
 "Don't," Nolan said against her neck.
 
@@ -157,11 +157,11 @@ She stared at it. Her pulse was everywhere, in her throat, her wrists, between h
 
 "Why didn't you?" she asked.
 
-"Maybe I wanted you to read them first." He sounded tired, mid-forties and worn all the way through. "Maybe I wanted someone to."
+"Maybe I wanted you to read them first." He sounded worn all the way through. "Maybe I wanted someone to."
 
 He stepped back and set the fold on her marble table, beside the old wine glass and its ring.
 
-She followed him. Her legs were unsteady. She stood at the table edge and he stood behind her, close enough that she could feel him hard against the small of her back, his breath stirring her hair.
+She followed him. Her legs were unsteady. She stood at the table edge, and he stood behind her. She could feel him hard against the small of her back, his breath stirring her hair.
 
 There was a night she'd never told him. Last winter. His door ajar. A woman's packed bag inside. Perfume in the gap, fresh, opened and capped again. A black car at the curb for forty minutes, then gone. She'd gone back to bed and told herself it was nothing.
 
@@ -195,9 +195,9 @@ She pulled the fold toward her. Her fingers found the first crease. Warm from hi
 
 His fingers moved on her in slow circles. She shook.
 
-She lifted the first fold open. A column of times. Doors. Her own floor, again and again down the page, and his hand still moving between her legs.`,
+She lifted the first fold open. A column of times. Doors. Her own floor, again and again down the page, and his hand still moving between her legs. She could spread the pages across the marble under her palms. Or she could keep one night folded shut and let him finish anyway.`,
   choices: [
-    { id: "scene6b", text: "Withhold one unnamed night — honesty with a sealed edge", textHot: "Withhold one unnamed night — honesty with a sealed edge while his thigh still splits yours" },
-    { id: "scene6c", text: "Spread calendar printouts on the marble — intimacy with evidence", textHot: "Spread calendar printouts on the marble — intimacy with evidence under your palms and his mouth unfinished" }
+    { id: "scene6b", text: "Withhold one unnamed night — honesty with a sealed edge", textHot: "Withhold one unnamed night — honesty with a sealed edge, his thigh still between yours" },
+    { id: "scene6c", text: "Spread calendar printouts on the marble — intimacy with evidence", textHot: "Spread the printouts on the marble — intimacy with evidence under your palms" }
   ]
 };

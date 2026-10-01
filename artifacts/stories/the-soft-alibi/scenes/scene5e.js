@@ -6,7 +6,7 @@ export default {
 
 Her hand came back and found his shirt instead, and she pulled, and the half inch closed.
 
-He kissed her slowly. Like he'd been waiting at step six for a year. His hand stayed flat on the wall beside her head and the other came up to her face, his thumb at the corner of her mouth, and she felt the kiss go all the way down through her, warm and heavy, until her knees didn't feel like hers.
+He kissed her slowly, like he'd been waiting at step six for a year. One hand stayed flat on the wall beside her head. The other came up to her face, his thumb at the corner of her mouth. She felt the kiss go all the way down through her, warm and heavy, until her knees didn't feel like hers.
 
 She'd kissed him a hundred times. Never like this. Never in the middle, with both doors shut and nowhere to go.
 
@@ -94,7 +94,7 @@ She took a breath. It shook.
 
 "I keep meaning it," he said.
 
-She looked at the card. Then at him. He didn't look like a man in control of a building. He looked like a man in his mid-forties who hadn't slept properly in weeks, standing in a hallway with his heart pounding, holding out the one thing he'd been too afraid to use.
+She looked at the card. Then at him. He didn't look like a man in control of a building. He looked like a man who hadn't slept properly in weeks. He stood in a hallway with his heart pounding, holding out the one thing he'd been too afraid to use.
 
 She didn't take it from his fingers. She put her hand over his.
 
@@ -104,7 +104,7 @@ He drew her in. Not a kiss. Just closer, until her forehead was at his collarbon
 
 Down the stairwell, very faint, a door opened again.
 
-She stayed where she was, pressed against him with the card between them, his heart under it, and lifted her face toward his mouth.`,
+She stayed where she was, pressed against him with the card between them and his heart under it. Before dawn, with him driving. Or alone, with the card in her own pocket. She lifted her face toward his mouth.`,
   textHot: `Her legs had stopped. Her hand in his hair had not.
 
 She pulled his mouth down to hers and stopped thinking about doors.
@@ -117,7 +117,7 @@ He kissed her hard this time. Open, deep, his tongue sliding against hers, a sou
 
 "Doesn't hear." She bit his lip. "You told me."
 
-His hand reached the edge of her underwear and slid inside, and his fingers found her soaked, and they both made a sound at the same time. He stroked her slowly, all the way, and her head fell back against the wall and her knee came up around his hip. He held it there. His mouth went to her throat. His fingers pushed into her and curled, and she bit down on her own hand so she wouldn't cry out in the open hall.
+His hand reached the edge of her underwear and slid inside. His fingers found her soaked, and they both made a sound at the same time. He stroked her slowly, all the way. Her head fell back against the wall, and her knee came up around his hip. He held it there. His mouth went to her throat. His fingers pushed into her and curled, and she bit down on her own hand so she wouldn't cry out in the open hall.
 
 Then the stairwell door at the end of the hall carried a voice up from below.
 
@@ -145,7 +145,7 @@ He was quiet so long she thought he wouldn't answer.
 
 "Not the airport," he said. "Kessler Field. Private strip, forty minutes out. Hangar Nine."
 
-It went into her like cold water, right through all that heat. All these months the word airport had sat in her head harmless. Terminal. Coffee. Gate. It had never been that. It had been a hangar with a number on it, forty minutes away in the dark, and she had been in his bed on the nights it was used.
+It went into her like cold water, right through all that heat. All these months the word airport had sat in her head harmless. Terminal. Coffee. Gate. It had never been that. It had been a hangar with a number on it, forty minutes away in the dark. She had been in his bed on the nights it was used.
 
 "Pell's hangar?" she asked. Her voice was hoarse.
 
@@ -183,7 +183,7 @@ Her body answered that before her head did. A hot throb, low, where his fingers 
 
 "I keep meaning it." His voice cracked a little on the last word, and he didn't hide it.
 
-He didn't look like a man who owned buildings. He looked mid-forties and sleepless and scared, flushed from her mouth, holding out the one thing he'd been too afraid to use.
+He didn't look like a man who owned buildings. He looked sleepless and scared, flushed from her mouth, holding out the one thing he'd been too afraid to use.
 
 She didn't take it. She put her hand over his.
 
@@ -193,9 +193,9 @@ He pulled her in. Her breasts pressed to his chest, his arm around her back, his
 
 Down the stairwell, very faint, a door opened again.
 
-She rocked once against his thigh without meaning to, and he groaned, and she lifted her mouth to his with the card still pressed between them and his heart pounding behind it.`,
+She rocked once against his thigh without meaning to, and he groaned. His hand on her thigh in the car, the engine off. Or the card in her own pocket and the road to herself. She lifted her mouth to his with the card still pressed between them.`,
   choices: [
-    { id: "scene6g", text: "Chase the hangar / black-car lead with Nolan before dawn", textHot: "Chase the hangar with Nolan before dawn — heat unfinished between you as the black-car route opens" },
-    { id: "scene6h", text: "Chase the hangar alone — perfume twin and packed bag", textHot: "Chase the hangar alone — perfume twin and packed bag while your mouth still burns from the unfinished kiss" }
+    { id: "scene6g", text: "Chase the hangar / black-car lead with Nolan before dawn", textHot: "Chase the hangar with Nolan before dawn — the heat between you still unfinished" },
+    { id: "scene6h", text: "Chase the hangar alone — perfume twin and packed bag", textHot: "Chase the hangar alone — perfume twin and packed bag, your mouth still burning from the kiss" }
   ]
 };

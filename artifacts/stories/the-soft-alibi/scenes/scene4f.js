@@ -56,13 +56,13 @@ It wasn't a request. [player_name] followed her into the corridor, past the fram
 
 "I'm sorry," [player_name] said.
 
-"I know you are." Rhea looked tired suddenly. Older than her thirties, for a second. "That's the worst part. You're sorry and you did it anyway."
+"I know you are." Rhea looked tired suddenly, older than her thirties for a second. "That's the worst part. You're sorry and you did it anyway."
 
-She straightened her blazer, turned, and walked back toward the desk. Her heels clicked once, twice, then she was gone around the corner and the brass key at her wrist made a small sound against the chain.
+She straightened her blazer, turned, and walked back toward the desk. Her heels clicked once, twice. Then she was gone around the corner, and the brass key at her wrist made a small sound against its chain.
 
 [player_name] stood alone in the corridor.
 
-She thought about going home. She thought about going back down to the lobby and asking Rhea what was in the guest book. She thought about Brooks's car pulling out into the rain, Brooks reading the dates over at a red light, finding nothing wrong with them, and frowning anyway.
+She thought about going home. She thought about going back down to the lobby and asking Rhea what was in the guest book. She thought about Brooks's car pulling out into the rain. Brooks reading the dates again at a red light, finding nothing wrong with them, and frowning anyway.
 
 She took the elevator up instead.
 
@@ -104,11 +104,11 @@ She took one step.
 
 He held the door wider.
 
-She took another, and another, counting without meaning to. Five. Six. Seven. At eight his hand came out, and she stopped just short of it, close enough to feel the warmth coming off his palm, close enough that if either of them breathed wrong they'd touch.
+She took another, and another, counting without meaning to. Five. Six. Seven. At eight his hand came out. She stopped just short of it, close enough to feel the warmth off his palm. If either of them breathed wrong, they'd touch.
 
 "Nine," he said quietly.
 
-She looked at his mouth. She didn't move.`,
+She looked at his mouth. She didn't move. Brooks would be back at nine with a harder lean. She could walk into that room still spinning on what she'd done tonight, or own it before Brooks named it.`,
   textHot: `Brooks's phone rang. Twenty past eleven. She checked it, said, "Excuse me," and walked to the lounge window with her back to them.
 
 Nine seconds.
@@ -125,7 +125,7 @@ Brooks turned back. "Sorry. Where were we?"
 
 [player_name] gave it. Steady mouth. Her stomach dropped like the elevator.
 
-Guilt came hot and fast. It sat low in her belly and spread, and it felt wrong how much it felt like wanting. She'd just betrayed the detective she'd helped an hour ago. Her skin prickled under her dress. Her pulse beat in her throat, in her wrists, between her legs. She pressed her knees together and kept her hands still.
+Guilt came hot and fast. It sat low in her belly and spread, and it felt wrong how much it felt like wanting. She'd just betrayed the detective she'd helped an hour ago. Her skin prickled under her dress. Her pulse hammered in her throat, in her wrists, between her legs. She pressed her knees together and kept her hands still.
 
 Upstairs, his cufflinks in the dish by his door. The perfume nobody wore. Pell would have a word for this. Obstruction.
 
@@ -155,7 +155,7 @@ Around the corner, out of the lamplight, Rhea's hand clamped on her elbow. Hard 
 
 "I was trying to help," [player_name] said.
 
-"If I burn a page tonight, she smells you on it," Rhea said. "If I don't, she takes it all clean and still smells you, because you warned me. You made me the hinge."
+"If I burn a page tonight, she smells you on it," Rhea said. "If I don't, she takes it all clean and still smells you, because you warned me. You put me in the middle."
 
 "I was trying to keep the building from closing on you," [player_name] said.
 
@@ -203,7 +203,7 @@ He breathed out. "Of course you did."
 
 He didn't move. "Come here."
 
-She walked. Five steps. Six. Her heels loud. Seven. Eight. At nine he reached out and took her by the hips and pulled her the rest of the way, and her back hit his doorframe, and his mouth came down on hers.
+She walked. Five steps. Six. Her heels loud. Seven. Eight. At nine he reached out, took her by the hips and pulled her the rest of the way. Her back hit his doorframe. His mouth came down on hers.
 
 He kissed her like he'd been holding it for days. Open, deep, his tongue in her mouth, his hand sliding under her hair to hold her head. She gripped his shirt in both fists. Her body arched off the frame into him. She could feel him hard against her through his trousers and she rocked into it without deciding to.
 
@@ -219,9 +219,9 @@ His fingers found the edge of her underwear and traced it. She was wet already. 
 
 He stepped back over his own threshold. One step. His hand stayed on her, pulling.
 
-She stayed against the doorframe, one foot in the hall, one foot on his floor, her dress rucked up and her mouth wet, breathing hard, and didn't follow him yet.`,
+She stayed against the doorframe, one foot in the hall and one on his floor. Her dress was rucked up, her mouth wet, her breath hard. Somewhere below, Brooks was already planning nine a.m. Her guilt was loud enough to show, or she could own it and walk in ready. She didn't follow him yet.`,
   choices: [
     { id: "scene5k", text: "Spiral on the tip — let guilt make Brooks sense obstruction", textHot: "Spiral on the tip — let guilt run so loud Brooks feels it on your skin" },
-    { id: "scene5l", text: "Own the sandbagging — meet Brooks's harder lean ready", textHot: "Own the sandbagging — meet Brooks's harder lean with your pulse still conspiratorial" }
+    { id: "scene5l", text: "Own the sandbagging — meet Brooks's harder lean ready", textHot: "Own the sandbagging — meet Brooks's harder lean with your pulse still racing" }
   ]
 };
