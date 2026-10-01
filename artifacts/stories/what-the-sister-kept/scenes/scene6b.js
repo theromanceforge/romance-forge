@@ -20,7 +20,7 @@ Will's jaw flexed. Cracked knuckles whitened on his pen, old scars across the ri
 
 "You keep one card. I catalogue the rest. When Cho calls, when the USB opens, when Owen's name in Renny's script matches the pier sighting you finally put on paper, we revisit the pocket. Tonight you get mercy. Mercy has an expiration date in Harborwick. So does my willingness to stall a captain for you."
 
-Rain thickened on the glass. [player_name] read the journal aloud in pieces while Will translated teenage shorthand into cold-case grammar: warehouse marks along the waterfront, a city clerk's initials scrawled like a dare, Owen's late nights that didn't match the bleach-clean alibi, a fear older than sixteen. No corpse named. A chain sketched in looping ink.
+Rain thickened on the glass. [player_name] read the journal aloud in pieces while Will translated teenage shorthand into cold-case grammar: warehouse marks along the waterfront, a city clerk's initials scrawled like a dare, Owen's late nights that didn't match the bleach-clean alibi, a fear older than seventeen. No corpse named. A chain sketched in looping ink.
 
 Will photographed the pier map with its pencil Xs. He bagged the USB in an evidence sleeve he had brought, because he was always partly on duty even when his voice went quiet for her. The notebook spine cracked every time he flexed it shut and open: habit, armor, a small prayer to order.
 

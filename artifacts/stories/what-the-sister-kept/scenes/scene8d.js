@@ -26,7 +26,7 @@ When the last corner collapsed into the bowl, he ran tap water over the embers u
 
 "It's done," Will said. Soft. Professional. The softness cost him. "Ellison gets the journal chain without this page. Cho still has no hard ID. The second-victim pattern lives in Cho's packet and in what we remember. Memory isn't admissible the same way. That's the point. That's the wound." He set the bowl in the sink like evidence he was choosing not to log.
 
-"I won't write the letter into my notebook. That's me spending something too. Don't thank me like it was free." Silence took the kitchen. [player_name] stared at the wet ash until it stopped looking like language. She thought of Renny at sixteen arguing about a pier curfew; of Owen's too-calm morning voice; of Ellison's tablet light; of the IA file Will still wouldn't open.
+"I won't write the letter into my notebook. That's me spending something too. Don't thank me like it was free." Silence took the kitchen. [player_name] stared at the wet ash until it stopped looking like language. She thought of Renny at seventeen arguing about a pier curfew; of Owen's too-calm morning voice; of Ellison's tablet light; of the IA file Will still wouldn't open.
 
 Mercy and cowardice sat on the counter beside the chipped mugs and refused to leave. "Two doors from the ash," Will said, low. He leaned against the counter close enough that she could smell soap and salt, not quite touching.
 

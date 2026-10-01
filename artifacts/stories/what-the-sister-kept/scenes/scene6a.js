@@ -10,7 +10,7 @@ Will stood in the doorway with his cracked notebook closed against his thigh. Ra
 
 "Ellison gets the pier night," he said quietly. Full cooperation had bought them this hour under Captain Mara Ellison's reluctant seal: Owen Vale named near the festival pier, the omission confessed, access kept on a leash. "This is what she doesn't get until we know what it is. You open it with me. We decide what becomes evidence and what becomes grief she'll weaponize for clearance."
 
-[player_name]'s throat worked. Renny had been sixteen when she vanished, seven years of absence folded into cotton and silver and this locked scrap of trust. Upriver, unidentified remains waited in Dr. Lila Cho's careful language: an age range that could fit, a charm that could match, lab ID pending. The remains weren't Renny until science said so. Rumor had already tried to bury her. [player_name] wouldn't help.
+[player_name]'s throat worked. Renny had been a teenager when she vanished, seven years of absence folded into cotton and silver and this locked scrap of trust. Upriver, unidentified remains waited in Dr. Lila Cho's careful language: an age range that could fit, a charm that could match, lab ID pending. The remains weren't Renny until science said so. Rumor had already tried to bury her. [player_name] wouldn't help.
 
 "She left the key in the hoodie pocket," [player_name] said. Her voice held. Barely. "I found it three years ago and put it back. I told myself opening it alone would be stealing the last private thing she had. That was a lie. I was afraid of what she kept."
 
@@ -26,7 +26,7 @@ Inside: a thin journal bound in cracked purple leather. A folded Harborwick pier
 
 Will didn't reach first. He waited, patience laid out like a tool. "Cho still has no hard ID," he said, as if the reminder could cushion whatever lived in paper. "Whatever this is, it doesn't make those remains your sister. It makes her a girl who was looking at something Harborwick didn't want looked at. Smuggling. Tampering. A chain. We read carefully. We don't invent a body because a journal is dramatic."
 
-[player_name] lifted the journal. The first page smelled like dust and teenage certainty. Renny's looping script named warehouses, a clerk's initials, Owen's late nights, a fear that sounded older than sixteen. Not a confession of death. A map of trouble.
+[player_name] lifted the journal. The first page smelled like dust and teenage certainty. Renny's looping script named warehouses, a clerk's initials, Owen's late nights, a fear that sounded older than seventeen. Not a confession of death. A map of trouble.
 
 Will's notebook opened at last. Pen scratched. Rain freckled the window. Downstairs a radiator knocked like a second interrogation clock. [player_name] read passages aloud when her voice worked and passed him the book when it didn't. Will translated Renny's shorthand into cold-case grammar without stripping the girl out of it.
 

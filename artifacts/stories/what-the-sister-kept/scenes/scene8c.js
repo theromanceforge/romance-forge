@@ -18,7 +18,7 @@ Will went very still. His name, written years before he knocked on [player_name]
 
 "A second victim," he said finally, soft. "Renny thought she saw another girl moved. That isn't an ID on our remains. That's a sister hunting a chain while she still had breath. We don't collapse them. Cho still says pending. Keep reading if there's more. Stop if you need my hand instead of my notebook." [player_name] kept reading.
 
-The last lines were smaller, tighter: plate numbers, a dock latch, a fear that sounded older than sixteen. Tell [player_name] I knew she saw Owen on the pier night. Tell her keeping it was love and also a mistake. Tell her silence is worse. The page trembled. Or her hands did. She finished on a breath that sounded like a sob trying to wear adult grammar. Will didn't reach for the notebook.
+The last lines were smaller, tighter: plate numbers, a dock latch, a fear that sounded older than seventeen. Tell [player_name] I knew she saw Owen on the pier night. Tell her keeping it was love and also a mistake. Tell her silence is worse. The page trembled. Or her hands did. She finished on a breath that sounded like a sob trying to wear adult grammar. Will didn't reach for the notebook.
 
 He reached for her wrist and held her pulse the way he held chain of custody: careful, claiming, not courtroom yet. "You did it," he murmured. "Her voice is in the room. Ellison doesn't own it yet. The press doesn't. I don't. You spoke it. That matters more than any seal." A foghorn rolled inland from the pier district, low and lonely, and she felt it through the bedframe.
 

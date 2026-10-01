@@ -6,7 +6,7 @@ export default {
 
 Ellison set her tablet face-down on the blotter. Mid-fifties, charcoal blazer, sleepless eyes that measured people the way Cho measured bone: for fit, for fracture, for liability. "Access is not a right," she said. "Family witnesses do not get to shop the file. You want updates on the upriver remains, the charm analysis, Cho's timeline—you give me everything you withheld seven years ago. Full cooperation. Or you walk out of Harborwick Precinct tonight and you hear about your sister through rumor like everyone else."
 
-[player_name] felt thin under that sentence. Renny had been sixteen when she vanished from the pier festival. Seven years of absence, folded into a hoodie still waiting in a drawer at home, a bracelet missing one charm, a name that still refused to settle among the dead. The remains were unidentified. An age range that could fit Renny. A charm that could match. Lab ID pending.
+[player_name] felt thin under that sentence. Renny had been a teenager when she vanished from the pier festival. Seven years of absence, folded into a hoodie still waiting in a drawer at home, a bracelet missing one charm, a name that still refused to settle among the dead. The remains were unidentified. An age range that could fit Renny. A charm that could match. Lab ID pending.
 
 Will's cracked notebook stayed closed against his thigh. His charm was banked low now, sheathed for his captain, but the wound underneath showed in the flex of his jaw. When Ellison said full cooperation, his eyes flicked to [player_name] once. Warning, want, a silent promise that he wouldn't let the captain hang her if he could help it. And a harder truth: don't make me choose between you and the badge in a room where the badge owns the walls.
 
