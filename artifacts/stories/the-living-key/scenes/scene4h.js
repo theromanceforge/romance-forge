@@ -1,27 +1,35 @@
 export default {
   id: "scene4h",
   layer: 4,
-  title: "Rumor path — Maris clams up; Cassian wants to lean on her harder",
-  text: `The interrogation circle in the lower ready-room was only chalk and four stools, but Ashmere made circles into verdicts. Maris Quill sat clam-shut, lips white, eyes on the floor where rain tracked in from Cassian’s boots. Copper bells thudded faintly above. Ozone from a freshly failed practice braid still hung in the corners. [player_name]’s cracked charm ticked like a nervous second heart.
+  title: "The Chalk Circle",
+  text: `The interrogation circle in the lower ready-room was only chalk and four stools, but Ashmere made circles into verdicts. Maris Quill sat clam-shut, her lips white, her eyes on the floor where rain had tracked in from Cassian's boots. The copper bells thudded faintly above. Ozone from a freshly failed practice braid still hung in the corners. [player_name]'s cracked charm ticked like a nervous second heart.
 
-Cassian Rook did not raise his voice. He never needed to. Mid-thirties, scarred, scorched-leather gloves planted on his knees as he leaned in, brutal charm converted entirely into pressure. “You heard something before the mark bloomed,” he said. “You went pale in the dining hall when the bells screamed. You are not protecting a friend by swallowing glass, Quill. You are choosing which throat Isolde cuts first when she decides rumor is evidence.”
+Cassian Rook didn't raise his voice. He never needed to. He leaned in with his scorched-leather gloves planted on his knees, all his charm turned into pressure.
 
-Maris said nothing. Not defiance—terror shaped like silence. Living-key fog still unnamed in full; Thorne’s aim still contested; Bram’s shelves still half-translated. The clam-up made every absence louder.
+"You heard something before the mark bloomed," he said. "You went pale in the dining hall when the bells screamed. You aren't protecting a friend by swallowing glass, Quill. You're choosing which throat Isolde cuts first when she decides rumor is evidence."
 
-Cassian glanced at [player_name]. “I can lean harder. Legal hard. Collegium hard. The kind that leaves marks on careers if not skin. Or you walk her out and I lose the thread—and maybe we lose a week we don’t have while Calderyn’s outer song keeps thinning.”
+Maris said nothing. Not defiance. Terror shaped like silence. It made every absence in the room louder.
 
-“She’s not the enemy,” [player_name] said.
+Cassian glanced at [player_name]. "I can lean harder. Legal hard. Collegium hard. The kind that leaves marks on careers, if not skin. Or you walk her out, and I lose the thread. Maybe we lose a week we don't have, while Calderyn's outer song keeps thinning."
 
-“Neither is hesitation,” Cassian answered, softer, sealed-past warning under the softness. “I hesitated at a border once. People didn’t get to be complicated afterward. Soft is not the same as safe.”
+"She's not the enemy," [player_name] said.
 
-The ready-room smelled of wet wool and fear. Want tangled with moral heat: wanting Cassian’s competence and hating the shape of it when aimed at Maris; wanting to be the shield and wanting to be the woman he trusted to let him work. Two stances crystallized. Become the bad-cop shield—stand between his lean and Maris’s silence, absorb the pressure, broker scraps. Or walk out of the circle entirely and force him to chase war and loyalty both.
+"Neither is hesitation," Cassian answered, softer. There was an old warning under the softness. "I hesitated at a border once. People didn't get to be complicated afterward. Soft isn't the same as safe."
 
-Maris’s knuckles whitened. Cassian waited, blade-patient. Salt wind found the door seam. [player_name] felt Ashmere hold its breath for a choice that would teach everyone what kind of Warden she intended to become before the living key’s full map ever landed in her hands. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. The cracked charm at [player_name]’s throat ticked once against her pulse, unsettled and alive. Somewhere beyond the Veil Sea fog, Calderyn’s outer wards thinned and farmlands failed in quiet increments. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above.`,
-  textHot: `Chalk circle. Four stools. Maris clam-shut. Cassian leaning in with scorched-leather gloves on his knees—scarred mouth soft, pressure absolute—and [player_name] hated how the competence made her cunt throb even as her ethics flinched. Brutal charm as interrogation. She wanted that voice aimed at her in a locked room for different reasons; watching it aimed at Maris felt like arousal crossed with nausea.
+The ready-room smelled of wet wool and fear. [player_name] wanted his competence, and hated its shape when he aimed it at Maris. She wanted to be the shield. She wanted to be the woman he trusted to let him work.
 
-“I can lean harder,” he told [player_name], eyes flicking to her mouth, then the charm at her throat, then Maris. “Or you walk her out and I lose the thread.” Sealed-past teeth: border hesitation, buried cost. Soft not safe.
+She could become the bad-cop shield. Stand between his lean and Maris's silence, take the pressure, and broker scraps. Or she could walk out of the circle entirely and force him to chase the war and her both.
 
-[player_name]’s thighs pressed. Nipples tight under her shirt from adrenaline and unwanted heat. Become bad-cop shield—stand in his lean, broker, stay close enough to smell blade oil while protecting Maris—or walk out and make him chase both war and her, want unfinished, living-key still contested, Thorne still rumor, Ashmere’s bells scoring the split. Want pooled low and shameless. [player_name]’s cunt ached around emptiness while scorched leather memory filled her lungs. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless. Want pooled low and shameless.`,
+Maris's knuckles whitened. Cassian waited, blade-patient. Salt wind found the door seam. [player_name] felt Ashmere hold its breath, waiting to learn what kind of Warden she meant to become.`,
+  textHot: `A chalk circle. Four stools. Maris, clam-shut. Cassian leaned in with his scorched-leather gloves on his knees, his scarred mouth soft and his pressure absolute.
+
+[player_name] hated how his competence made her cunt throb while her ethics flinched. She wanted that voice aimed at her, in a locked room, for different reasons. Watching it aimed at Maris felt like arousal crossed with nausea.
+
+"I can lean harder," he told [player_name]. His eyes flicked to her mouth, then the charm at her throat, then Maris. "Or you walk her out, and I lose the thread." Under it lay the old cost: a border, a hesitation, people who paid. Soft wasn't safe.
+
+[player_name]'s thighs pressed together. Her nipples were tight under her shirt from adrenaline and unwanted heat.
+
+She could become the bad-cop shield. Stand in his lean, broker, stay close enough to smell blade oil while she protected Maris. Or walk out, and make him chase both the war and her. Ashmere's bells waited on her answer.`,
   choices: [
     { id: "scene5o", text: "Cassian leans hard — she becomes the bad-cop shield for Maris", textHot: "Become the bad-cop shield — stay in his pressure while you protect her" },
     { id: "scene5p", text: "Cassian leans hard — she walks out of the interrogation circle", textHot: "Walk out of the circle — make him chase war and you both" }

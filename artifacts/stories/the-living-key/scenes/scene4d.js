@@ -1,41 +1,59 @@
 export default {
   id: "scene4d",
   layer: 4,
-  title: "Cliff spar — she refuses the romance; demands Bram’s unredacted hymn on *unidentified* living keys",
-  text: `The cliff stairs shone with rain and old chalk washed down from practice rings above. [player_name] refused the lean-in when Cassian’s sparring rod locked against hers and their mouths came close enough to share breath. “No,” she said, clear over salt wind. “Not because I don’t feel it. Because if I kiss you on a stair that’s pulsing Thorne’s mark, I won’t know what I’m choosing—you, or the hunger in the stone.”
+  title: "The Refused Kiss",
+  text: `The cliff stairs shone with rain and old chalk washed down from the practice rings above. Cassian's sparring rod locked against hers, and their mouths came close enough to share breath. [player_name] refused the lean-in.
 
-Cassian Rook froze, mid-thirties scarred face unreadable for a beat, then nodded once like a man accepting a blade cleanly. Brutal charm dimmed to respect. “Good. Better than me.” He stepped back, gloves flexing, practice-blade oil scent cutting through rain. “Then use the clarity. What do you want instead of my mouth?”
+"No," she said, clear over the salt wind. "Not because I don't feel it. Because if I kiss you on a stair that's pulsing with Thorne's mark, I won't know what I'm choosing. You, or the hunger in the stone."
 
-“Bram’s unredacted hymn,” [player_name] said. Her cracked charm ticked cold then hot. “On unidentified living keys. Not Isolde’s summary. Not the half-page he showed Maris. The shelf he pretends isn’t there.”
+Cassian Rook froze. His scarred face went unreadable for a moment. Then he nodded once, like a man accepting a blade cleanly. The charm in him dimmed to respect.
 
-They found Archivist Bram Kestrel in the lower stacks where ozone mixed with old parchment and the Collegium’s forbidden humidity. Bram’s eyes were tired and kind in the way of men who knew too many endings. “Unredacted is a word that gets people sealed,” he murmured. “But your trial cracked the outer song. Thorne’s mark is wet on our cliff. And Handler Rook looks like he’s about to break my door if I say no.”
+"Good," he said. "Better than me." He stepped back, his gloves flexing, practice-blade oil cutting through the rain. "Then use the clarity. What do you want instead of my mouth?"
 
-Cassian did not smile. “She asked. I’m only the hinge.”
+"Bram's unredacted hymn," [player_name] said. Her cracked charm ticked cold, then hot. "On unidentified living keys. Not Isolde's summary. Not the half-page he showed Maris. The shelf he pretends isn't there."
 
-Bram laid a slim volume between them, edges singed as if someone had tried to burn caution into paper. The hymn spoke of living keys without naming lineages—blood that could sing a wall shut, candidates whose songs ran “wrong,” refusals whispered as theoretical. No full sacrifice map. No [player_name]’s name. Ambiguity preserved like a blade in cloth. Isolde’s almost-seal in the oath chamber suddenly looked less like honor and more like habit.
+They found Archivist Bram Kestrel in the lower stacks, where ozone mixed with old parchment and the Collegium's forbidden humidity. His eyes were tired and kind, the way of men who knew too many endings.
 
-[player_name]’s hands shook on the page. “This is enough to confront her.”
+"Unredacted is a word that gets people sealed," he murmured. "But your trial cracked the outer song. Thorne's mark is wet on our cliff. And Handler Rook looks like he's about to break my door if I say no."
 
-“Or enough to die politely,” Bram said. “Alone, you may catch Isolde without her performance face. With Rook, you bring a witness she fears—and a man whose sealed file she can open if she feels cornered.”
+Cassian didn't smile. "She asked. I only carried the question."
 
-Cassian’s jaw tightened at sealed file. Rain hammered the high slit windows. Under the Collegium, the cliff’s pulse seemed to travel through shelves. [player_name] closed the hymn on unidentified keys and felt want of truth rather than mouth: the romance refused for now, the war louder, Thorne’s aim still contested, living-key shape still fog.
+Bram laid a slim volume between them. Its edges were singed, as if someone had tried to burn caution into the paper.
 
-“Choose,” Cassian said quietly. “Isolde’s door alone—or Isolde’s door with me at your shoulder, dread and hope both unfinished.” Salt wind moved through Ashmere like a third witness. Copper bells answered from above. The cracked charm at [player_name]’s throat ticked once against her pulse, unsettled and alive. Somewhere beyond the Veil Sea fog, Calderyn’s outer wards thinned and farmlands failed in quiet increments. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above. Salt wind moved through Ashmere like a third witness. Copper bells answered from above.`,
-  textHot: `Rain-slick cliff stairs. Rods locked. Cassian’s mouth a breath from [player_name]’s and her cunt already wet from the almost—then she refused. “No. Not because I don’t feel it.” Her voice shook with want she wouldn’t spend. “If I kiss you while Thorne’s mark pulses under us, I won’t know whose claim I’m answering.”
+The hymn spoke of living keys without naming lineages. Blood that could sing a wall shut. Candidates whose songs ran "wrong." Refusals, whispered as theory. No full sacrifice map. Not [player_name]'s name. Isolde's almost-seal in the oath chamber suddenly looked less like honor and more like habit.
 
-Cassian Rook—scarred, mid-thirties, scorched leather, brutal charm banked—stepped back like she’d still touched him. “Good. Better than me. What do you want instead of my mouth?”
+[player_name]'s hands shook on the page. "This is enough to confront her."
 
-“Bram’s unredacted hymn on unidentified living keys.”
+"Or enough to die politely," Bram said. "Alone, you may catch Isolde without her performance face. With Rook, you bring a witness she fears. And a man whose sealed file she can open if she feels cornered."
 
-Saying it while aching for him was its own erotic discipline. Her charm burned; nipples peaked in rain; thighs slick. She wanted his glove between her legs and chose parchment instead, and the choosing made her wetter with angry pride.
+Cassian's jaw tightened at sealed file. Rain hammered the high slit windows. Under the Collegium, the cliff's pulse seemed to travel through the shelves.
 
-Lower stacks: ozone, parchment, Bram Kestrel’s tired eyes. The hymn arrived singed, speaking living keys without naming her—wrong songs, quiet burnings, refusal as theory. No full sacrifice map. Ambiguity intact. Cassian’s sealed-file flinch was a hint of past teeth that made her want to fuck the truth out of him later.
+[player_name] closed the hymn. What she wanted now was truth, not his mouth. The romance refused, for now. The war louder.
 
-[player_name] shook on the page, body still humming from refused kiss. “Enough to confront Isolde.”
+"Choose," Cassian said quietly. "Isolde's door alone. Or Isolde's door with me at your shoulder."
 
-“Alone,” Bram said, “or with Rook—witness she fears, file she can open.”
+The cracked charm ticked once against her pulse, unsettled and alive. Go alone, and catch Isolde unguarded. Or bring him, and risk his sealed file on the table. Either way, Isolde would see the hymn in her hands.`,
+  textHot: `Rain-slick cliff stairs. Locked rods. Cassian's mouth a breath from [player_name]'s, and her cunt already wet from the almost. Then she refused.
 
-Cassian’s voice went soft and filthy with restraint. “Choose. Her door alone—or with me at your shoulder while I try not to remember how your mouth almost opened for me on the stairs.”`,
+"No. Not because I don't feel it." Her voice shook with a want she wouldn't spend. "If I kiss you while Thorne's mark pulses under us, I won't know whose claim I'm answering."
+
+Cassian Rook stepped back as if she'd touched him anyway. Scarred, smelling of scorched leather, his charm banked. "Good. Better than me. What do you want instead of my mouth?"
+
+"Bram's unredacted hymn on unidentified living keys."
+
+Saying it while she ached for him was its own erotic discipline. Her charm burned. Her nipples peaked in the rain. Her thighs were slick. She wanted his glove between her legs and chose parchment instead, and the choosing made her wetter with angry pride.
+
+The lower stacks smelled of ozone and parchment. Bram Kestrel's eyes were tired. The hymn arrived singed. It spoke of living keys without naming her: wrong songs, quiet burnings, refusal as theory. No full sacrifice map.
+
+Cassian flinched at the words sealed file. It hinted at old teeth, and made her want to fuck the truth out of him later.
+
+[player_name] shook over the page, her body still humming from the refused kiss. "It's enough to confront Isolde."
+
+"Alone," Bram said, "or with Rook. A witness she fears. A file she can open."
+
+Cassian's voice went soft and filthy with restraint. "Choose. Her door alone. Or with me at your shoulder, while I try not to remember how your mouth almost opened for me on the stairs."
+
+She held the hymn against her chest. Alone, still aching from the kiss she'd refused. Or with him beside her, want humming under duty all the way to Isolde's door.`,
   choices: [
     { id: "scene5g", text: "Partial hymn — she confronts Isolde alone while the Unmade still contested", textHot: "Partial hymn — confront Isolde alone, still aching from the refused kiss" },
     { id: "scene5h", text: "Partial hymn — she brings Cassian to Isolde’s door; dread/hope unresolved", textHot: "Partial hymn — bring Cassian to Isolde’s door while want still hums under duty" }

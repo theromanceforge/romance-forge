@@ -1,69 +1,131 @@
 export default {
   id: "scene2b",
   layer: 2,
-  title: "Archives/cliff — Bram’s forbidden shelf + the cracked throat-charm; Thorne’s mark still wet on stone",
-  text: `The archives under Ashmere smelled of old parchment, ozone trapped in stone, and the faint copper of wardsinging bells whose sound reached even here as a pressure in the teeth. [player_name] took the cliff stair down with her cracked throat-charm hot against her pulse and Veil Sea fog climbing the steps behind her like a second shadow. Thorne's sigil still darkened the cliff face outside—wet-black, last seen the year the old Warden died—and every time the wind turned she tasted salt and the memory of the outer song cracking under her braid.
+  title: "The Forbidden Shelf",
+  text: `The archives under Ashmere smelled of old parchment, ozone trapped in stone, and the faint copper of the wardsinging bells. Even down here their sound reached her as a pressure in the teeth.
 
-Archivist Bram Kestrel did not look surprised to see a newly named Warden-candidate at his threshold before dawn. He was thin as a ledger spine, ink on his fingers, eyes the color of rain on slate. He locked the public stacks with a gesture and led her past a copper grate into a narrower hall where chalk circles had been scrubbed and redrawn so often the stone remembered them as scars.
+[player_name] took the cliff stair down with her cracked throat-charm hot against her pulse. Veil Sea fog climbed the steps behind her like a second shadow. Outside, Thorne's sigil still darkened the cliff face, wet-black, last seen the year the old Warden died. Every time the wind turned she tasted salt and the memory of the outer song cracking under her braid.
 
-"Forbidden shelf is not a metaphor," Bram said. "It is a shelf. Isolde Vane pretends it holds only failed hymns. It holds the ones that worked too well." He tipped a volume free. Dust and ozone rose together. "Your braid answered a frequency. Frequencies have authors. Authors have aims. Aims, in this century, remain contested—and anyone who tells you otherwise is selling certainty like a charm that does not crack."
+Archivist Bram Kestrel didn't look surprised to see a newly named Warden-candidate at his threshold before dawn. He was thin as a ledger spine, with ink on his fingers and eyes the color of rain on slate. He locked the public stacks with a gesture. Then he led her past a copper grate into a narrower hall, where chalk circles had been redrawn so often the stone remembered them as scars.
 
-[player_name] set her charm on the reading table. The cracked disc of sung-copper hummed against the wood—louder here, as if the archive stones recognized a relative. Bram did not touch it. He opened the hymn instead: half-translated ward-lore, redactions like bitten tongues, a margin note in a dead Warden's hand that read *living key — lineage — do not name the vessel aloud*. Hope and dread shared the lamplight. The page did not say she was the vessel. It did not say she was not. It did not say whether Thorne wanted the wards down to free Calderyn or to feed the Unmade or to rewrite a sacrifice the Collegium had been burning candidates to keep quiet.
+"The forbidden shelf isn't a metaphor," Bram said. "It's a shelf. Isolde Vane pretends it holds only failed hymns. It holds the ones that worked too well."
 
-"Maris Quill was here yesterday," Bram added, almost idle, turning a page with ink-stained care. "Asking about voices in the Unmade press. Warm wine. Broken glass. I gave her nothing she could weaponize. She left pale. Pale is not proof. Pale is also not nothing." He glanced at the arrow-slit where a slice of cliff showed Thorne's mark still glistening. "Marks that bloom the hour a candidate cracks a song are rarely coincidence. They are also rarely simple invitations. Treat simplicity as a trap."
+He tipped a volume free. Dust and ozone rose together.
 
-Boots on the stair. Cassian Rook filled the archive doorway the way weather filled a narrow room: mid-thirties, battlemage coat scorched at the cuffs, leather gloves tucked in his belt for once, practice-blade oil still clinging under the fog-damp. Sleep bruised under his eyes. The half-smile he wore for students did not appear. He looked at the open hymn, at [player_name]'s charm on the table, at Bram—and something sealed and old moved behind his gaze, the shape of a drawer he refused to open on kind days.
+"Your braid answered a frequency," he said. "Frequencies have authors. Authors have aims. Anyone who tells you they know Thorne's aim is selling certainty like a charm that doesn't crack."
 
-"Candidate chose lore over the yard," Cassian said. "Bold. Isolde will call it disobedience by breakfast." He stepped in. Salt wind came with him off the cliff stair and cut through the parchment dust. "Bram. If you are feeding her half-hymns to make her run toward Thorne's mark, I will put your shelves in the sea and smile while I do it."
+[player_name] set her charm on the reading table. The cracked disc of sung copper hummed against the wood, louder here, as if the archive stones recognized a relative. Bram didn't touch it. He opened the hymn instead.
 
-"If I wanted her running, Rook, I would have given her the unredacted page." Bram closed the volume with care that bordered on reverence. "I gave her the shape of a question. The living-key lineage is real. Whether the Collegium has been spending candidates to keep a song shut is a rumor with teeth. Whether Lord Vesper Thorne is monster, revolutionary, or both—" He shrugged, ink-stained. "The Unmade does not publish editorials. Neither do I. Your sealed inquiry is quieter than my shelves, and louder."
+It was half-translated ward-lore, with redactions like bitten tongues. In the margin, a dead Warden's hand had written: living key — lineage — do not name the vessel aloud.
 
-Cassian's jaw flexed at sealed. He braced his scarred knuckles on the table edge near the charm—white at the joints, old impact, old inquiries buried under Collegium wax. [player_name] remembered Isolde assigning him before the applause died; remembered his voice on the terrace: *try not to finish what Thorne started*. She told them both, carefully, what the crack had felt like: not failure. An answer. A frequency that felt almost familiar, as if the stone had been waiting for a mouth that knew the harmony, and her braid had been the mouth before she understood the song.
+The page didn't say she was the vessel. It didn't say she wasn't. It didn't say whether Thorne wanted the wards down to free Calderyn, or to feed the Unmade, or to expose a sacrifice the Collegium had been burning candidates to keep quiet.
 
-Cassian did not look at Bram. "That stays between us until I say otherwise. Frequency match to Thorne is the kind of sentence that gets a candidate bound, burned, or turned into a banner for people who sleep above the waterline. I have a sealed drawer in my office I do not open on days I need to be kind. Today is not kind. Do not make me open it for you before you understand what kindness costs on this cliff."
+"Maris Quill was here yesterday," Bram added, almost idly, turning a page with ink-stained care. "Asking about voices in the Unmade press. Warm wine. Broken glass. I gave her nothing she could use as a weapon. She left pale. Pale isn't proof. Pale also isn't nothing."
 
-The ambiguity sat thick as fog between the three of them. Outside, through the narrow arrow-slit, [player_name] could see a slice of black stone and the wet edge of Thorne's sigil catching the first copper light. Ward-bells tolled above, unsettled, each note pressing copper against her teeth. Her charm clicked when she picked it up; the crack caught lamplight like a held breath. Bram murmured something about a second hymn fragment still half-translated—something about keys that could be refused—and then, as if the thought itself were dangerous, he added, "Refusal is not in Isolde's preferred vocabulary. Nor, historically, in Thorne's. That does not make refusal impossible. It makes it expensive." He retreated to catalog a shelf that did not need cataloging, leaving handler and candidate in the pool of oil-lamp light.
+He glanced at the arrow-slit, where a slice of cliff showed Thorne's mark still glistening. "Marks that bloom the hour a candidate cracks a song are rarely coincidence. They're also rarely simple invitations. Treat simplicity as a trap."
 
-[player_name] turned the charm in her fingers. The crack caught lampglow like a thin mouth. "People keep saying living key as if it were weather," she said. "Is it blood? Is it a song? Is it a person Isolde can spend?" Cassian's mouth flattened. "All three, if the worst rumors are true. None confirmed in a way that would survive a council vote. Bram drips. Isolde seals. I—" He stopped, glanced at the sealed shape of whatever lived in his office drawer, and did not finish. "I keep candidates breathing. That used to be simpler." Salt wind pushed through the arrow-slit and stirred the parchment dust between them. Outside, Thorne's mark still looked wet enough to smear if someone were fool enough to climb down and touch it.
+Boots sounded on the stair.
 
-Cassian watched her throat where the charm settled again. For a moment he looked like a man arguing with a past that wore Thorne's face and his own. "Maris is spreading a rumor that she heard his voice in the Unmade whisper. If she is telling truth, we have a leak. If she is telling fear, we have a contagion. Either way, Isolde will want your oath and your silence braided into the same knot." He flexed his scarred knuckles once against the table, quiet crack of bone-habit. "You can tell me the frequency matched what you felt when the sigil bloomed, and I will have to decide whether to report Thorne-contact up the chain before noon. Or you can hide the match for one more night and send me after Maris first while you keep Bram's question under your tongue. Both paths cost. Only one keeps Isolde's ledger off you until dawn. I will not pretend either path is safe."
+Cassian Rook filled the archive doorway the way weather filled a narrow room. His battlemage coat was scorched at the cuffs. For once his leather gloves were tucked in his belt, and practice-blade oil clung to him under the fog-damp. Sleep bruised under his eyes.
 
-[player_name] tasted copper and parchment and the salt still living in his coat. She thought of Calderyn's thinning farms, of candidates Isolde might have spent quietly, of a Dark Sovereign who might want honesty or hunger or both. The living-key truth remained unfinished—hope that the wards could be held without a martyr, dread that she was already written into the song. Cassian waited, storm-eyed, a man who had nearly followed Thorne once and had stayed to teach candidates how not to repeat his push. The archive hummed. The cliff mark waited wet. Fog breathed at the stair like something listening.
+The half-smile he wore for students didn't appear. He looked at the open hymn, at the charm on the table, at Bram. Something old moved behind his gaze, the shape of a drawer he refused to open on kind days.
 
-Fog thickened once more at the stair, carrying salt and the distant complaint of unsettled bells. [player_name] thought of Maris's pale face, of Isolde's neat ledger columns, of Bram's expensive refusal, of a sealed drawer Cassian would not open on kind days. Truth would put Thorne-contact on a report. Delay would put Maris under his attention while the frequency match stayed hot and unspoken against [player_name]'s own pulse. Neither erased the wet mark on the cliff. Neither finished the living-key question. Ozone lingered on her tongue from the opened hymn; copper bells complained above like a throat clearing before a verdict.
+"The candidate chose lore over the yard," Cassian said. "Bold. Isolde will call it disobedience by breakfast."
 
-She had to choose what to put in his hands before the ward-bells finished their uneasy morning and Isolde's runners found the copper grate.`,
-  textHot: `The archives found [player_name]'s body first: old parchment dust in the sinuses, ozone trapped in cold stone, copper pressure of the ward-bells vibrating through her teeth and down into the cracked charm at her throat until the charm felt like a second pulse between her breasts. Veil Sea fog climbed the cliff stair behind her, damp on her calves. Thorne's sigil still wet-black on the stone outside made the salt wind taste like a mouth she had not agreed to kiss—and her body, traitor, noticed the taste anyway.
+He stepped in. Salt wind came with him off the cliff stair and cut through the parchment dust. "Bram. If you're feeding her half-hymns to make her run toward Thorne's mark, I'll put your shelves in the sea and smile while I do it."
 
-Bram Kestrel locked the public stacks and led her to the forbidden shelf without small talk. Ink on his fingers. Rain-slate eyes. The hymn he opened smelled like spent magic and secrets handled too often by hands that shook. *Living key — lineage — do not name the vessel aloud.* Redactions like bitten tongues. Hope and dread shared the lamplight and settled low in her belly—not settled, coiled, warm in a way that had nothing to do with the lamp. The page did not convict her. It did not free her. It did not say whether Thorne wanted Calderyn honest, eaten, or remade with mercy still somewhere in the rewrite. Ambiguity pressed her thighs together under the table without permission.
+"If I wanted her running, Rook, I'd have given her the unredacted page." Bram closed the volume with something close to reverence. "I gave her the shape of a question. The living-key lineage is real. Whether the Collegium has been spending candidates to keep a song shut is a rumor with teeth. Whether Lord Vesper Thorne is a monster, a revolutionary, or both—"
+
+He shrugged. "The Unmade doesn't publish editorials. Neither do I. Your sealed inquiry is quieter than my shelves, Rook. And louder."
+
+Cassian's jaw flexed at sealed. He braced his scarred knuckles on the table edge near the charm, white at the joints.
+
+[player_name] remembered Isolde assigning him before the applause died. She remembered his voice on the terrace: try not to finish what Thorne started.
+
+She told them both, carefully, what the crack had felt like. Not failure. An answer. A frequency that felt almost familiar, as if the stone had been waiting for a mouth that knew the harmony. Her braid had been that mouth before she understood the song.
+
+Cassian didn't look at Bram. "That stays between us until I say otherwise. A frequency match to Thorne is the kind of sentence that gets a candidate bound, burned, or turned into a banner. I have a sealed drawer in my office that I don't open on days I need to be kind. Today isn't kind. Don't make me open it for you before you understand what kindness costs on this cliff."
+
+Through the arrow-slit, [player_name] could see black stone and the wet edge of Thorne's sigil catching the first copper light. Above them, the bells tolled, unsettled. Her charm clicked when she picked it up.
+
+Bram murmured something about a second hymn fragment, still half-translated. Something about keys that could be refused. Then, as if the thought itself were dangerous, he added, "Refusal isn't in Isolde's preferred vocabulary. Nor, historically, in Thorne's. That doesn't make it impossible. It makes it expensive."
+
+He retreated to catalog a shelf that didn't need cataloging. He left handler and candidate alone in the oil-lamp light.
+
+[player_name] turned the charm in her fingers. The crack caught the lamplight like a thin mouth. "People keep saying living key as if it were weather," she said. "Is it blood? A song? A person Isolde can spend?"
+
+Cassian's mouth flattened. "All three, if the worst rumors are true. None of it confirmed in a way that would survive a council vote. Bram drips. Isolde seals. I—"
+
+He stopped, and didn't finish. "I keep candidates breathing. That used to be simpler."
+
+Salt wind pushed through the arrow-slit and stirred the dust between them. Outside, Thorne's mark still looked wet enough to smear, if someone were fool enough to climb down and touch it.
+
+Cassian watched her throat where the charm settled again. For a moment he looked like a man arguing with a past that wore Thorne's face and his own.
+
+"Maris is spreading a rumor that she heard his voice in the Unmade whisper," he said. "If she's telling the truth, we have a leak. If she's telling fear, we have a contagion. Either way, Isolde will want your oath and your silence braided into the same knot."
+
+He flexed his scarred knuckles once against the table. "You can tell me the frequency matched what you felt when the sigil bloomed. Then I'll have to decide whether to report Thorne-contact up the chain before noon. Or you can hide the match one more night and send me after Maris first, while you keep Bram's question under your tongue. Only one of those keeps Isolde's ledger off you until dawn. I won't pretend either is safe."
+
+[player_name] tasted parchment and the salt still living in his coat. She thought of Calderyn's thinning farms. Of candidates Isolde might have spent quietly. Of a Dark Sovereign who might want honesty or hunger or both.
+
+Maybe the wards could be held without a martyr. Maybe she was already written into the song. Cassian waited, storm-eyed, a man who had nearly followed Thorne once and had stayed to teach candidates not to make the same fall.
+
+The fog thickened at the stair, carrying the distant complaint of the bells. Truth would put Thorne-contact on a report. Delay would put Maris under his attention, while the frequency match stayed hot and unspoken against her pulse. Neither one erased the wet mark on the cliff.
+
+She had to choose what to put in his hands before the bells finished their uneasy morning and Isolde's runners found the copper grate.`,
+  textHot: `The archives found [player_name]'s body first. Old parchment dust in her sinuses. Ozone trapped in cold stone. The copper pressure of the ward-bells hummed through her teeth and down into the charm at her throat, until it felt like a second pulse between her breasts.
+
+Veil Sea fog climbed the cliff stair behind her, damp on her calves. Thorne's sigil was still wet-black on the stone outside. It made the salt wind taste like a mouth she hadn't agreed to kiss, and her body, traitor, noticed the taste anyway.
+
+Bram Kestrel locked the public stacks and led her to the forbidden shelf without small talk. Ink on his fingers. Rain-slate eyes. The hymn he opened smelled of spent magic and secrets handled too often by hands that shook.
+
+Living key — lineage — do not name the vessel aloud. Redactions like bitten tongues.
+
+The words coiled low in her belly, warm in a way that had nothing to do with the lamp. The page didn't convict her. It didn't free her. It didn't say whether Thorne wanted Calderyn honest, eaten, or remade with mercy somewhere in the rewrite. Not knowing pressed her thighs together under the table.
 
 "Maris Quill asked about voices," Bram murmured. "Warm wine over broken glass. I gave her nothing sharp. She left pale anyway." His glance flicked to the arrow-slit and the wet mark beyond. "Bloomed sigils are not love letters. They are also not always threats. Treat simplicity as a trap, Candidate."
 
-Cassian Rook arrived like weather with a pulse: mid-thirties, coat scorched at the cuffs, gloves tucked away, bare scarred knuckles bracing the table near her charm close enough that she felt the heat of his hands without a touch. Sleep-bruised under the eyes. Blade oil and fog-damp salt cutting through parchment dust. When he looked at her—charm, mouth, the place her breath jumped in her throat—want flared inconvenient and alive under war pressure, a heat that had no business in an archive and lived there anyway.
+Cassian Rook arrived like weather with a pulse. His coat was scorched at the cuffs, and his gloves were tucked away. He braced his bare, scarred knuckles on the table near her charm. She felt the heat of his hands without a touch.
 
-"Lore over the yard." His voice was low enough to live behind her sternum and lower. "Isolde will call it disobedience. I call it you walking toward the crack with your throat bare and that charm begging to be touched." He flicked a glance at Bram that could have cut shelves into driftwood. "Half-hymns make candidates run. If she runs toward his mark because of you—"
+Sleep bruised under his eyes. Blade oil and fog-damp salt cut through the parchment dust. He looked at her charm, her mouth, the place her breath jumped in her throat. Want flared under the war pressure, a heat that had no business in an archive and lived there anyway.
 
-"I gave her a question, not a map," Bram said, and withdrew with the volume, leaving them in a pool of light too small for how loud Cassian's attention felt against her skin.
+"Lore over the yard," he said, low enough to live behind her sternum and lower. "Isolde will call it disobedience. I call it you walking toward the crack with your throat bare and that charm begging to be touched."
 
-[player_name] set the charm back against her pulse; the cracked copper kissed hot, a bright point she felt in her mouth. She told Cassian what the braid had done—answered, not failed—and the frequency that had shivered through her ribs and down when the outer song cracked, almost familiar, almost like a hand finding the place under her clothes where fear and hunger braided into one wet want. Talking it while he watched her mouth felt like confessing into a kiss she had not taken yet. Her thighs pressed harder. Want had no manners among hymns.
+He flicked a glance at Bram that could have cut the shelves into driftwood. "Half-hymns make candidates run. If she runs toward his mark because of you—"
 
-His jaw flexed. Scarred knuckles whitened on the table edge an inch from her wrist—close enough that if she shifted, skin would meet skin. "That stays between us until I say." Soft was worse. Soft put the words against the inside of her wrist like a tongue. "Frequency match to Thorne gets a candidate bound or burned or hung as a banner. I have a sealed drawer I do not open when I need to be soft with someone. Do not make me open it because your song tastes like his and your mouth is this close to telling me how it felt in your body."
+"I gave her a question, not a map," Bram said. He withdrew with the volume. Before he went, he left one more line in the air: keys could be refused, and refusal was as expensive as any cliff-fall.
 
-Ambiguity pressed them together without touching: living keys, burned candidates, monster or revolutionary or both, Unmade still contested behind the cracked cliff song. Through the arrow-slit, copper dawn-light striped the wet sigil. Cassian's gaze dropped to her throat again—charm rising with her breath—and the nearness of him was a fuse laid along her spine. Salt wind. Ozone. The archival quiet making every shift of his coat sound intimate, every breath shared. She could smell scorched leather and the clean under-note of his skin where fog had opened his collar.
+The pool of light he left them in was too small for how loud Cassian's attention felt against her skin.
 
-"Maris heard a voice," he said, rougher now, as if the roughness were the only honesty left. "Warm wine over broken glass. You have two moves, Candidate, and both of them go through me." He leaned a fraction; burnt-copper and blade oil reached her tongue. Not touching. Close enough that want lived in the inch between his mouth and hers like a held braid about to snap. Her cracked charm thrummed. "Tell me the frequency matched what you felt when his mark bloomed—and I decide whether to report Thorne-contact while your mouth is still shaping the truth against the air where I could take it. Or hide the match one night. Send me after Maris first. Keep Bram's question under your tongue where I can almost taste you not saying it—and know that hiding will not make me want you less on this side of the table."
+[player_name] set the charm back against her pulse. The cracked copper kissed hot, a bright point she felt in her mouth. She told Cassian what the braid had done. It had answered, not failed.
 
-Her pulse beat between her legs and against the charm at once. The cracked edge was a bright point of heat. Cassian did not smile. Brutal charm without the smile was worse—patience, hunger disciplined into duty, a man who had nearly followed the Dark Sovereign and now stood close enough to ruin her for a different reason, scarred knuckles open on the wood like an offer that was not safe. Ward-bells tolled above, unsettled, each copper note traveling down her throat. Fog breathed at the stair. Bram's distant cataloguing sounded like another world.
+She told him about the frequency that had shivered through her ribs and down when the outer song cracked. Almost familiar. Almost like a hand finding the place under her clothes where fear and hunger braided into one wet want. Saying it while he watched her mouth felt like confessing into a kiss she hadn't taken yet. Her thighs pressed harder.
 
-Before he had fully gone, Bram had left one more barb in the air—keys that could be refused, expensive as any cliff-fall—and [player_name] turned the charm in her fingers until the crack kissed her thumb. "Living key," she said, tasting the words against the inch of air between her and Cassian. "Blood, song, or a person Isolde can spend?" His mouth flattened; his eyes did not leave hers. "All three, if the worst rumors are true. None locked. Bram drips. Isolde seals. I keep you breathing." The last sentence landed like a hand at the small of her back. Salt wind pushed through the arrow-slit and stirred dust across the table; outside, Thorne's mark still looked wet enough to smear. She imagined climbing down to touch it and felt Cassian's attention sharpen as if he had read the thought on her skin. "Don't," he said quietly. "Not the mark. Not yet. Choose me a truth or a delay first."
+His jaw flexed. His knuckles whitened on the table edge an inch from her wrist. If she shifted, skin would meet skin.
 
-[player_name] felt the choice settle between her ribs and lower, want and war braided: confess the match against the almost-touch of his mouth, or hide it and put him on Maris's rumor while want and dread shared her tongue like a secret kiss she had not agreed to finish.
+"That stays between us until I say," he said. Soft was worse. Soft put the words against the inside of her wrist like a tongue. "A frequency match to Thorne gets a candidate bound or burned or hung as a banner. I have a sealed drawer I don't open when I need to be soft with someone. Don't make me open it because your song tastes like his and your mouth is this close to telling me how it felt in your body."
 
-He waited. Storm eyes. Sealed past. The forbidden shelf humming behind them, Thorne's mark wet on the cliff, and the living-key truth still unfinished enough to hurt—and unfinished enough to keep her leaning toward the heat of him without crossing the last inch.
+Through the arrow-slit, copper dawn-light striped the wet sigil. Cassian's gaze dropped to her throat again, to the charm rising with her breath. The nearness of him was a fuse laid along her spine.
 
-The lamp guttered once; blue ward-light ghosted across his scarred knuckles and the damp open collar of his coat. [player_name]'s cracked charm thrummed in time with the unsettled bells above, and for a heartbeat the archive felt as small as a shared bed—war outside, want inside, ambiguity thick as fog on the stair. She could confess into the heat of his mouth. She could send him after Maris and keep the frequency match aching unspoken under her tongue. Either way his eyes would stay on her like a promise that cooperation was never going to be only paperwork again.
+The archive quiet made every shift of his coat sound intimate. She could smell scorched leather, and the clean note of his skin where the fog had opened his collar.
 
-She could feel the cracked charm's heat travel down her sternum when he shifted closer by half a step—still not touching, still worse than touching—blade oil and salt wind braided into one breath she wanted to steal from his mouth. Want made her reckless: she imagined confessing with her lips against his, frequency and Thorne and the shiver that had lived low in her body when the ward-song cracked. She imagined the other path too—sending him after Maris while the unspoken match ached like a held orgasm under her tongue, his trust half-given, her thighs tight under the table. War pressed the cliff. Want pressed her. The Unmade remained a hunger without a settled name, and so did he—handler, almost-sovereign's echo, the only man in the archive whose restraint made her pulse stutter harder than any mark on stone. Fog breathed. Bells complained. She had to give him truth or delay before her body decided for her.
+"Living key," she said, tasting the words in the inch of air between them. "Blood, song, or a person Isolde can spend?"
+
+His mouth flattened. His eyes didn't leave hers. "All three, if the worst rumors are true. None of it settled. Bram drips. Isolde seals. I keep you breathing."
+
+The last sentence landed like a hand at the small of her back.
+
+"Maris heard a voice," he said, rougher now, as if roughness were the only honesty left. "Warm wine over broken glass. You have two moves, Candidate, and both of them go through me."
+
+He leaned a fraction. Burnt copper and blade oil reached her tongue. Not touching. Want lived in the inch between his mouth and hers like a held braid about to snap.
+
+"Tell me the frequency matched what you felt when his mark bloomed," he said, "and I decide whether to report Thorne-contact while your mouth is still shaping the truth. Or hide the match one night. Send me after Maris first. Keep Bram's question under your tongue, where I can almost taste you not saying it. Hiding won't make me want you less."
+
+Her pulse beat between her legs and against the charm at once. Cassian didn't smile. Without the smile he was worse: patience, hunger disciplined into duty. He was a man who had nearly followed the Dark Sovereign, standing close enough to ruin her for a different reason. His scarred hands lay open on the wood like an offer that wasn't safe.
+
+The bells tolled above, unsettled. Fog breathed at the stair. Bram's distant cataloguing sounded like another world.
+
+She could confess with her lips nearly on his. She could send him after Maris, and keep the match aching unspoken under her tongue like a held breath. Either way, his eyes would stay on her like a promise that nothing between them would be only paperwork again.
 
 "Choose," Cassian said, soft as a glove peeled off. "Before Isolde's runners find the grate and take the choosing out of your mouth."`,
   choices: [
