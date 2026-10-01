@@ -69,7 +69,7 @@ His hand slid fully under her sweater then, his palm spanning her ribs, his thum
 
 [player_name] reached back and gripped John's thigh—hard, warning, wanting—and felt his cock twitch against her. "Say the rest," she told Henry, steadier than the clench of her thighs. "Voss. The letter. What you stole."
 
-Henry said it all. The shadow in the ledger. The letter as a cracking cover. Youth shaped as ambition, grief shaped as weather, Clara's careful breakfasts. Henry kept his eyes on the grate. John slid his hand past her waistband at the front, below the edge of the counter, the heel of his palm pressing her through cotton already damp.
+Henry said it all. The shadow in the ledger. The letter as a cracking cover. Youth shaped as ambition, grief shaped as weather. Henry kept his eyes on the grate. John slid his hand past her waistband at the front, below the edge of the counter, the heel of his palm pressing her through cotton already damp.
 
 "John—" Not a stop. A calibration aimed at upstairs sleepers and kitchen acoustics.
 

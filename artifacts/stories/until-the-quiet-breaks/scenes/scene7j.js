@@ -45,13 +45,13 @@ Now the upstairs flat held them like a held breath that smelled of sex and coffe
 
 "A little longer isn't a plan," he said, stopping in front of her, his hands braced on the mattress on either side of her hips. "A little longer is how Henry turned one winter into fifteen years. I chose you with my mouth on you. I won't unchoose you. But if we keep the secret warm between us, it'll start tasting like the cover story again."
 
-"I know." Her throat worked. "I'm not asking for silence forever. I'm asking for a pocket of air before Clara's papers become the only narrator. You chose me. Let me choose the tempo without turning it into another escape."
+"I know." Her throat worked. "I'm not asking for silence forever. I'm asking for a pocket of air before the papers become the only narrator. You chose me. Let me choose the tempo without turning it into another escape."
 
 John pushed the flannel open with one hand and cupped her bare breast, his thumb rough on her nipple until she gasped. "Then give the pocket edges," he rasped. "A deadline. Not a fog. One week, and we put the whole thing on the table."
 
 His other hand slid between her thighs and found her still slick. Two fingers pressed in, slow, like punctuation. "Or you admit you're afraid and hand me the deadline. You let me decide when the secret stops being mercy. I can carry that. What I can't carry is waking up hard for a woman who's still packing silence in her suitcase."
 
-[player_name] tipped her forehead to his. Rain needled the glass. "If I set one week," she managed, her hips rolling on his hand, "I'm promising you a date when my mouth stops protecting anyone. Clara hears. Henry faces it. You get the raw version."
+[player_name] tipped her forehead to his. Rain needled the glass. "If I set one week," she managed, her hips rolling on his hand, "I'm promising you a date when my mouth stops protecting anyone. Willow hears. Henry faces it. You get the raw version."
 
 "If you hand me the deadline," he answered, curling his fingers against the place that whitened her vision, "you're trusting me not to use fear as a weapon." He kissed her hard, then dropped to his knees between her legs, as if the argument required a body. "That admission isn't weakness." His mouth found her again, tongue flat and greedy, and she cried out into the flannel collar while Market Street pretended to sleep.
 
@@ -61,7 +61,7 @@ A freight horn complained toward the yard. [player_name] tangled her hands in hi
 
 He stood and pushed the soft pants down, and his cock sprang free, flushed and wet at the tip. [player_name] reached for him without deciding anything yet. She stroked once and felt him jerk in her fist.
 
-"Clara will hate whichever clock we pick if she feels left out," she whispered.
+"Willow will hate whichever clock we pick if anyone feels left out," she whispered.
 
 "Secrets hate clocks." John caught her wrist and pinned it beside her hip as he nudged her thighs wider. "A week can be survived if it has a name." He pushed into her in one slow, filthy glide. Stretching her. Filling her. He held deep while she shook.
 

@@ -37,7 +37,7 @@ Midweek, they walked the pier without cameras. [player_name] told Will about Ren
 
 She shifted. His fingers flexed. He woke the way detectives wake—alert, then soft when he found her face. "Morning," he rasped, and the word stroked straight to her clit. "You smell like sleep and me."
 
-"There's a sealed page downtown," she murmured, straddling his hip, Renny's grief a quiet third presence they had learned not to eroticize and not to exile. "It doesn't get to ban this."
+"There's a sealed page downtown," she murmured, straddling his hip. "It doesn't get to ban this."
 
 Will's hands gripped her ass and pulled her cunt along the hard line of his cock through thin sleep pants until she moaned. "Soft rebuild includes fucking," he said, velvet-blade humor finally kind. "I checked the statute."
 
@@ -47,9 +47,9 @@ She laughed into his mouth and then the laugh broke into a gasp when he shoved t
 
 She did—shaking, cunt clenching, a wet cry into his throat that was trust as much as orgasm. He followed with hips jerking up, spilling into her, forehead pressed to hers, brutal charm dissolved into helpless heat.
 
-Later in the shower he fingered her to a second climax against the tile, slow and filthy and careful, two fingers crooking while his thumb circled her clit and water sheeted their shoulders. He murmured that healing could be this: steam, his mouth on her neck, her thigh over his hip, no warrant, no Ellison clock, just mid-twenties and mid-thirties bodies practicing repair. She came on his hand with Renny's name soft in her chest—not spoken into the steam as porn, just held—and Will kissed her wet eyelids like seals of a different kind.
+Later in the shower he fingered her to a second climax against the tile, slow and filthy and careful, two fingers crooking while his thumb circled her clit and water sheeted their shoulders. He murmured that healing could be this: steam, his mouth on her neck, her thigh over his hip, no warrant, no Ellison clock, just mid-twenties and mid-thirties bodies practicing repair.
 
-Afternoon they lived ordinary: grocery list, a call to Cho about memorial timing, Will's notebook left shut on purpose. Evening he bent her over the kitchenette counter and fucked her from behind while burnt coffee reheated, one hand on her clit, the other braced beside Renny's folded hoodie on the chair—life and death and want sharing furniture without apology. [player_name] came hard enough to knock a spoon to the floor. Will laughed into her spine and came after, cursing fondly, staying inside her until he softened.
+Afternoon they lived ordinary: grocery list, a call to Cho about memorial timing, Will's notebook left shut on purpose. [player_name] came hard enough to knock a spoon to the floor. Will laughed into her spine and came after, cursing fondly, staying inside her until he softened.
 
 Before sleep he laid her out and ate her slow—tongue flat, patient, filthy praise muffled against her cunt—until she pulled his hair at the scar and came a fourth time with her heels on his back. He crawled up and slid into her lazy and deep for a last quiet fuck, faces close, sealed page downtown and love loud in the room.
 
@@ -59,7 +59,7 @@ Night: tangled, sore, soft. "One sealed page," she whispered.
 
 She stayed. Harborwick rain wrote the window. Love rebuilt around what they could not yet open—and around what they opened every time she took him into her body without tasting betrayal. Soft did not mean chaste. Soft meant honest heat with room for a bruise to yellow at its own pace.
 
-Two mornings later the soft rebuild earned another kind of daylight: Will came home from a short Ellison briefing with rain in his hair and hunger that had nothing to do with burnt coffee. He found [player_name] at the window in Renny's hoodie and nothing underneath; the discovery made his breath leave like a confession. "Hoodie stays," he said, voice ruined. "Everything else is mine for the next hour."
+Two mornings later the soft rebuild earned another kind of daylight: Will came home from a short Ellison briefing with rain in his hair and hunger that had nothing to do with burnt coffee. He found [player_name] at the window in his old precinct hoodie and nothing underneath; the discovery made his breath leave like a confession. "Hoodie stays," he said, voice ruined. "Everything else is mine for the next hour."
 
 He knelt, lifted the cotton hem, and put his mouth on her bare cunt while she braced on the glass—foghorn weather outside, his tongue inside, sealed page downtown irrelevant while she soaked his chin and came with her palm squeaking on the pane. Then he stood, turned her, and fucked her from behind with the hoodie still on, one hand cupping her breast under soft fabric, the other rubbing her clit until she shattered again and he followed with a groan bitten into her shoulder. They slid to the floor laughing and shaking. "Healing," he muttered, "is going to kill me."
 

@@ -47,11 +47,11 @@ John didn't look back. Clara waited, the red ink bright under the fluorescent li
 
 Rain sheeted Market Street into slate and lamplight. Henry's umbrella tilted under the lamp. John Shaw put both hands on [player_name]'s face as if he meant to memorize her with his mouth before the papers could steal the heat from under his skin.
 
-"Once more," he said, voice rough. "Deep enough that I feel it while I'm standing at that door pretending I'm only angry. Then you and Clara take the stack, and I hold Henry off. Give me something filthy and true to carry while I stand guard."
+"Once more," he said, voice rough. "Deep enough that I feel it while I'm standing at that door pretending I'm only angry. Then you and Clara take the stack, and I hold Henry off. Give me something true to carry while I stand guard."
 
 [player_name] rose onto her toes and gave him exactly that.
 
-She felt him hard against her, unmistakable, unashamed, a fact the fluorescent light couldn't make polite. His mouth tasted of burnt coffee. She tipped her head, and he kissed down to the place beneath her ear that made her shiver. His other hand slid under the back of her shirt far enough to find bare skin at her waist, fingers splayed, possessive without being rough. She made a sound into his mouth that would have embarrassed her in daylight. It only made him press closer, until the counter edge bit her hip and she felt every unfinished inch of him.
+His mouth tasted of burnt coffee. She tipped her head, and he kissed down to the place beneath her ear that made her shiver. His other hand slid under the back of her shirt far enough to find bare skin at her waist, fingers splayed, possessive without being rough. She made a sound into his mouth that would have embarrassed her in daylight. It only made him press closer, until the counter edge bit her hip and she felt every unfinished inch of him.
 
 When he drew back, he was breathing like he had run. His thumb brushed her lower lip, wet from him.
 
@@ -63,7 +63,7 @@ John took the front, hand on the latch. Henry knocked. John's voice carried, low
 
 "He hates that," Clara said. "Good."
 
-She spread the pages. A winter date. [player_name]'s name underlined twice beside she agreed to go—for him. Drafts softened from ice into ambition. Receipts stamped with the surname Voss. An exchange number grooved in pencil hard enough to scar. [player_name] tried to focus through her pulse, through the ghost of John's hand under her shirt, through the ache between her legs that grief and wanting refused to untangle.
+She spread the pages. A winter date. [player_name]'s name underlined twice beside she agreed to go—for him. Drafts softened from ice into ambition. Receipts stamped with the surname Voss. An exchange number grooved in pencil hard enough to scar.
 
 "I found these because I stopped believing the neat version," Clara said. "False bottom. A glove-box ledger photocopy. A draft that still had the accident in it before he erased the winter into a prettier exile." She tapped her sketch. "I drew the gap before I could name it. The papers named it. You walked into the diner and made the naming worth the risk."
 

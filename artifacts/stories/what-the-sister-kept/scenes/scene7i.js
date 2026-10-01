@@ -47,23 +47,23 @@ A knock on the booth door—time. Will's voice in her earpiece, low, frayed, onl
 Owen's cuffs clicked once against the booth table—small, final, not enough. Behind dark glass Will would be whitening knuckles on a visit that had almost worked. Catching the clerk clean meant letting the wire keep hunting while family stayed detonated on a porch memory. Risking being made meant walking back into Owen's weather with honesty taped to her pulse and no soft lie left to spend. Fog erased the curb outside. [player_name] looked from cuffed hands to the glass and felt the choice land like a second bracelet: open catch, or shut risk, while hope and dread still shared Cho's tray without a name.`,
   textHot: `The visitation booth smelled like bleach and old coffee, and [player_name]'s body answered the glass with a filthy pulse she refused to tidy while Owen Vale sat cuffed opposite her and William Akers's mic taped under her collar like a second mouth and a second cuff braided into one secret.
 
-Owen's bracelets dulled against the shelf. Public-defender folder open like a shield. Mid-level calm cracked mean. [player_name] sat with Harborwick rain still ghosting her coat and Renny's absence filling the booth like a fourth person. Cho's unidentified remains still upriver without Renny's name—timing lean, charm maybe, hope and dread sharing the tray—and none of that science stopped the thick idle memory of Will's cock against her hip in the stairwell where he had taped the wire with detective care that felt like foreplay and threat. Soft dead. Hard cuff done. Visit-and-wire: sit across from a stepfather and let him talk toward a clerk while Ellison's van listened and Will's mid-thirties hunger watched from one-way glass she could not see and could feel in her cunt anyway.
+Owen's bracelets dulled against the shelf. Public-defender folder open like a shield. Mid-level calm cracked mean. Soft dead. Hard cuff done. Visit-and-wire: sit across from a stepfather and let him talk toward a clerk while Ellison's van listened and Will's mid-thirties hunger watched from one-way glass she could not see and could feel in her cunt anyway.
 
-"You wired yourself to visit me," Owen said. Not a question. Eyes on her throat. "Your detective taught you. Or Ellison. Breakfast is over—unless he is fucking the guilt out of you between briefings."
+"You wired yourself to visit me," Owen said. Not a question. Eyes on her throat. "Your detective taught you. Or Ellison. Breakfast is over—unless he is buying your guilt between briefings."
 
 "Unidentified," [player_name] said, Will's precision her armor, voice shaking, thighs tight from stairwell almosts. "Cho has not printed Renny on bone. Charm still only maybe. Hope still works. Dread still bites. Soft ran out. Pier silhouette stopped scrubbing. Talk about the clerk. Talk about who stood with you when Renny was a teenager pointing at warehouses."
 
 Owen laughed thin through the handset. "Seven years off the statement. Now badge heat looks like absolution and a mic looks like courage. What do I get—reduced counts, or William Akers smiling like a knife while you soak for his voice in your ear?"
 
-Behind glass Will would be whitening knuckles, Solis-shaped flinch under charm—Nina, raid, hallway kid, sealed file. Trying not to push early through a stepdaughter's mouth looked like hunger with a leash made of wire tape. [player_name] wanted that hunger. Wanted it while bleach air tried to make her pure. Grief and sex could share a body.
+Trying not to push early through a stepdaughter's mouth looked like hunger with a leash made of wire tape. [player_name] wanted that hunger. Wanted it while bleach air tried to make her pure. Grief and sex could share a body.
 
 "You get a chance to stop inventing purity," she said. "Name M. Name what *call M if soft* meant while you rinsed a SIM into a sink trap."
 
-Owen's eyes flickered—caught, masked. "M works City Hall adjacent. Clerk who moves paper for people who move crates. Soft meant Akers's patience costume. Call if soft meant warn the chain. I burned a phone. I rinsed ritual. None of that prints your sister on Cho's table. If those bones are Renny, a clerk's name will not resurrect her. If not, you ruin us for a maybe."
+Owen's eyes flickered—caught, masked. "M works City Hall adjacent. Clerk who moves paper for people who move crates. Soft meant Akers's patience costume. Call if soft meant warn the chain. I burned a phone. I rinsed ritual. If not, you ruin us for a maybe."
 
-[player_name] tasted copper and bleach and the almost of Will's mouth from the stairwell—wool, gun oil, scar nick brushing her forehead while he slid the mic under her bra band with fingers that had been inside her an hour earlier and still smelled faintly of her when he taped the pack. "Say the name. Full. For the recorder and for Renny's map."
+[player_name] tasted copper and bleach and the almost of Will's mouth from the stairwell—wool, gun oil, scar nick brushing her forehead while he slid the mic under her bra band with fingers that had been inside her an hour earlier and still smelled faintly of her when he taped the pack. "Say the name. Full. For the recorder and for the map."
 
-Owen fogged the glass. "Courage borrowed from a detective with a sealed hallway in his teeth. Chains notice wires. Clerks notice daughters with perfect posture. Name him clean—your van gets a gift. Name him dirty—you get made in a garage before Will reaches the stairwell. Soft ice still exists outside these bracelets. Wired women leave heat signatures—and you are already wet enough that a smart chain could smell it."
+Owen fogged the glass. "Courage borrowed from a detective with a sealed hallway in his teeth. Chains notice wires. Clerks notice daughters with perfect posture. Name him clean—your van gets a gift. Name him dirty—you get made in a garage before Will reaches the stairwell. Soft ice still exists outside these bracelets. Wired women leave heat signatures—and you are already flushed enough that a smart chain could read it."
 
 The defender stirred. Owen ignored him. Will's voice in [player_name]'s earpiece, low, sex-rough under detective flat: "Steady. Breathe. I can hear your pulse on the mic like you are fucking the booth. Do not tidy it. Do not invent a funeral. Get the name."
 
@@ -71,7 +71,7 @@ She pressed. Owen gave first name, desk code, a pause like a blade turning. "Eno
 
 Knock—time. Will in her ear, frayed: "We float a clean lean—let the wire catch the clerk with what he gave—or we push a hotter meet and risk you being made. Both leave bones unnamed. Both leave me hard enough to take you apart in a locked room after bleach. Pick."
 
-[player_name] stood, cunt still stupid from stairwell denial, mic itching against peaked nipples Will had pinched once for luck and for honesty. Owen watched her like a man learning scrubbing expired. Hope breathed. Dread bit. Renny still contested.
+[player_name] stood, cunt still stupid from stairwell denial, mic itching against peaked nipples Will had pinched once for luck and for honesty. Owen watched her like a man learning scrubbing expired. Hope breathed. Dread bit.
 
 In the corridor Will pulled her into a blind alcove before Ellison's van door opened—chest to hers, thigh between her legs, mouth on her jaw, center kiss denied on purpose. His hand under her sweater, over the mic pack, down, into her jeans where she was shamelessly slick from visit-heat and stepfather venom and the filthy mercy of being believed. Two fingers. She clenched. He groaned like confession and hunger were one sound.
 
@@ -83,9 +83,9 @@ He pressed her palm to his cock through jeans—thick, hot, brutal honesty—and
 
 Rain freckled the precinct glass. A foghorn rolled inland. Will's free hand cupped her nape, grounding, thumb stroking hairline while his other wrist shone with her slick under fluorescents he did not wipe. "the sealed past taught me early entries leave ashes," he said against her temple, wound leaking in pieces, sealed file still sealed. "This visit was not early. Soft ran its road into steel. What comes after—catch the clerk or risk being made—is where I stay human or become Ellison's fear. Help me pick with your cunt telling the truth."
 
-She rocked once on his thigh; he hissed and stopped her hip, unfinished climax held like evidence. "I could finish you here. I will not. Not until the verb is chosen. Wanting you past professionalism does not make obstruction cute and it does not make a false Renny funeral holy. Bones stay unnamed. Charm stays maybe. Hope stays employed. You stay wet on my hand and still have to conjugate."
+She rocked once on his thigh; he hissed and stopped her hip, unfinished climax held like evidence. "I could finish you here. I will not. Not until the verb is chosen. Bones stay unnamed. Charm stays maybe. Hope stays employed. You stay wet on my hand and still have to conjugate."
 
-[player_name] tasted copper and herself and bleach ghosting off her coat. Festival fog behind her eyes: Renny's laugh, funnel-cake sugar, Owen's silhouette, the stranger wrong on the pier, seven years of protection that had become a different violence—and tonight's booth finishing one sentence so another could start. Will's scar nick brushed her forehead. Late smile wrong—weapon and wound—the brutal charm that had first made her want him under procedural pressure.
+[player_name] tasted copper and herself and bleach ghosting off her coat. Will's scar nick brushed her forehead. Late smile wrong—weapon and wound—the brutal charm that had first made her want him under procedural pressure.
 
 He zipped her halfway, adjusted her collar over the mic with cuff-tenderness, scar nick white. "Clock. Let the wire catch the clerk—or risk being made on the wire. Pick the hurt that keeps truth reachable while I can still smell your cunt on my hand under Ellison's nose."
 

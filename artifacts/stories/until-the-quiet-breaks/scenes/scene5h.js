@@ -28,7 +28,7 @@ She stepped close enough to feel his warmth. Not touching yet. "Then let's not p
 
 He looked up, grey eyes raw. "If we tell Clara first, we walk back up that hill before courage cools. If we tell me first, I'm going to ask questions that sound like accusations and touch you like a man who's done being protected. Can you hold both of those?"
 
-"I've been holding both of you for fifteen years," [player_name] said. "The boy who needed shelter. The man who rebuilt a diner instead of leaving. I'm asking which one gets the next hour."
+"I've been holding both of you for fifteen years," [player_name] said. "The twenty-year-old who needed shelter. The man who rebuilt a diner instead of leaving. I'm asking which one gets the next hour."
 
 Outside, a car hissed past. The fryer gave one settling tick. John's hand found hers on the counter, work-rough and wet, the burn scar warm against her knuckles. Desire lived under the dread: the almost of the walk, the way his mouth looked when he said kiss and furious in the same breath.
 
@@ -75,21 +75,21 @@ The door stayed locked. The knock, if it was a knock, didn't repeat. Yet. Her pu
 
 By Market Street her underwear was damp from more than weather. The fight in Henry's front room had left her sharp, and John's touch made her pulse with every slick neon stripe on the pavement. He unlocked the diner one-handed and pulled her inside. Pie case ticking. Fluorescent stutter. He locked the door and crowded her against the counter before the click finished echoing.
 
-"Clara's at Willow," he said, mouth close enough that she felt the words on her lips. "She heard the syllable. She'll invent the rest by midnight."
+"Willow heard the syllable," he said, mouth close enough that she felt the words on her lips. "They'll invent the rest by midnight."
 
-His thigh pushed between hers, firm and deliberate. She gasped, hips tipping for friction he only half gave. "Or we keep this between us first. Locked door. The full story. Then we decide how she hears it."
+His thigh pushed between hers, firm and deliberate. She gasped, hips tipping for friction he only half gave. "Or we keep this between us first. Locked door. The full story. Then we decide how Willow hears it."
 
 He was hard.
 
-"I want both," John said, forehead to hers. "Shield my sister. Hear every line from your mouth without an audience, including the part where you agreed to leave for me. I want to be furious, and I want to fuck you on this counter until the fluorescent light looks kind."
+"I want both," John said, forehead to hers. "Hear every line from your mouth without an audience, including the part where you agreed to leave for me. I want to be furious, and I want to fuck you on this counter until the fluorescent light looks kind."
 
-[player_name] gripped the counter edge behind her. "Then choose. Tell Clara first, so she isn't blindsided. Or tell only you tonight, behind this lock, and let me put the whole ugly thing in your mouth with my tongue."
+[player_name] gripped the counter edge behind her. "Then choose. Walk back up that hill tonight, so nobody there is blindsided. Or tell only you tonight, behind this lock, and let me put the whole ugly thing in your mouth with my tongue."
 
 His laugh broke. He kissed her once, deep and filthy, then tore back, leaving her chasing air.
 
-"If we tell Clara first, we walk back up that hill before courage cools, and I'm hard the whole climb, hating myself," he said. "If we tell me first, I ask questions like accusations and put my hand in your jeans while you answer. Can you hold both of those?"
+"If it's the hill first, we climb before courage cools, and I hate myself the whole way," he said. "If we tell me first, I ask questions like accusations and put my hand in your jeans while you answer. Can you hold both of those?"
 
-"I've held both of you for fifteen years," she said. "The boy who needed shelter. The man who rebuilt a diner. Which one gets the next hour?"
+"I've held both of you for fifteen years," she said. "The twenty-year-old who needed shelter. The man who rebuilt a diner. Which one gets the next hour?"
 
 Outside, a car hissed. John took her hand and put it on his cock over denim, honest and shaking. "Henry will call. Or show up. Or someone comes down the hill demanding the rest of the syllable. It travels anyway. Choose who hears it first while I can still hear something besides how badly I want to come from your voice alone."
 
@@ -111,9 +111,9 @@ John moved behind the counter out of habit and reached for the coffee. Cold. He 
 
 "Fuck Mae's stamps," John answered. "I care what Willow knows before the gossip does." He swallowed. "And I care what I know before I get my mouth on you and pretend the war is over."
 
-In Henry's firelight the accusation had been a clean blade. Here it was kitchen-real: sugar grit, grill metal, a calendar stuck on last month. She thought of the platform, the suitcase, and how telling John alone could become another suitcase if Clara was left outside the lock.
+In Henry's firelight the accusation had been a clean blade. Here it was kitchen-real: sugar grit, grill metal, a calendar stuck on last month. She thought of the platform, the suitcase, and how telling John alone could become another suitcase if Willow was left outside the lock.
 
-"I'm not exiling your sister," she said. His thigh slid between hers again. She rode the pressure once, helpless, and stopped. "I'm trying not to make her the audience while we use each other's bodies to survive the first shock."
+"I'm not exiling anyone," she said. His thigh slid between hers again. She rode the pressure once, helpless, and stopped. "I'm trying not to use each other's bodies to survive the first shock."
 
 "Using." His breath hitched. He rolled his hips against her, filthy and brief. "Say it uglier. I can take it."
 

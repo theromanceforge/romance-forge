@@ -55,13 +55,13 @@ She drew a breath that tasted of rain and old coins and fryer oil. The flat held
 
 She stood in his kitchenette with his chest to her back. Market Street hummed through the floorboards. The CLOSED sign hung crooked. The fryer ticked toward cold. His hand was under her sweater, possessive as a claim. Wet boxwood clung to her coat from Willow. John's mouth found her ear.
 
-"I love you," he said, plain and filthy at once. "That's not the terms. The terms are these. You accept a life rebuilt in Somerton on my terms. Diner mornings. My bed as the center. Clara at the table. Henry's consequences before Mae's slots. No ticket the first time it hurts."
+"I love you," he said, plain and filthy at once. "That's not the terms. The terms are these. You accept a life rebuilt in Somerton on my terms. Diner mornings. My bed as the center. Family at the table. Henry's consequences before Mae's slots. No ticket the first time it hurts."
 
 "Or you accept love but refuse to erase your years away. Keep the rooms you built. The suitcase, if you need the honesty of it. The right to a back door, even while I fuck you like you live here. Either way, don't invent a third map where nobody gets muddy."
 
 [player_name] ached from the unfinished almost downstairs and the climb up the narrow stairs. Her nipples peaked against lace when his thumb brushed the underside of her breast. "Your terms sound like a collar," she said, steadier than her thighs. "My years away aren't a rival. They're the woman who learned to breathe without your woodsmoke."
 
-"I know," John rasped. He rolled his hips once against her, so she felt every thick inch through denim. "I stayed. I rebuilt. I raised Clara while the town called you ambition. Somerton on my terms means this street is gravity, and I take you on this counter after you say yes like a vow. Love without erasing your years means I still take you. But I love a woman who might keep a packed bag and call it truth. I can try either. I can't try silence dressed as strategy."
+"I know," John rasped. He rolled his hips once against her, so she felt every thick inch through denim. "I stayed. I rebuilt. I kept this street alive while the town called you ambition. Somerton on my terms means this street is gravity, and I take you on this counter after you say yes like a vow. Love without erasing your years means I still take you. But I love a woman who might keep a packed bag and call it truth. I can try either. I can't try silence dressed as strategy."
 
 He pushed past her waistband and found cotton already wet. He pressed two fingers against her clit through the fabric, not to finish her, only to make her decide. "Choose," he whispered. "Say yes to my terms and I'll bury myself in you until the fryer ticking sounds like a clock we own. Say you're keeping your years and I'll still fuck you, back door and all. Wanting you never required amnesia."
 

@@ -66,11 +66,11 @@ Henry stood in the frame as if he had been listening since the envelope left his
 
 "You came," he said. Not surprise, not triumph. Something closer to relief at being caught. He stepped aside, and warm air met her: wood heat, old books, lemon polish. For a treacherous second she wished it were John's hands doing the warming, rough palms and a mouth at her throat, undressing the journey off her before any uncle got to speak.
 
-A mantel clock ticked. The fire had been fed recently enough to speak of nerves. Among the frames stood a photograph of John as a boy, elbows on the diner counter, grin half-hidden. Even young, even framed, he pulled a low heat through her.
+A mantel clock ticked. The fire had been fed recently enough to speak of nerves. Among the frames stood a photograph of John at twenty, elbows on the diner counter, grin half-hidden. Even young, even framed, he made her chest ache.
 
 She knew the man he had become only in her imagination, on nights when loneliness made her reckless with her own hands. Fingers slick between her legs. His work-rough palms, his scarred thumb, his cock pushing into her until the cover story broke. She always woke ashamed and unfinished. The unfinished had followed her up Willow Lane like a second suitcase.
 
-Beside the photo hung Clara's charcoal sketch of the diner. Papers sat stacked under a glass paperweight like evidence tidied into innocence. A ledger corner. A pencil date.
+Beside the photo hung a charcoal sketch of the diner. Papers sat stacked under a glass paperweight like evidence tidied into innocence. A ledger corner. A pencil date.
 
 "Sit," Henry said. "Or don't. I've rehearsed this long enough to know rehearsal doesn't help."
 
@@ -90,7 +90,7 @@ His gaze flicked to her and away. "You saw enough. I told you silence would prot
 
 Bitter and aroused in the same breath, she thought: I wanted John. His mouth, his future, the unfinished heat of him. I wanted to fuck him honest and stay. You called that ambition so my cunt and my conscience would leave town together.
 
-A chair scraped in the kitchen. Clara, close enough to hear and far enough to pretend. Henry lowered his voice. "She'll come in if we pretend she can't hear. She's earned that. Without her, I might have kept rehearsing until I died of carefulness."
+A chair scraped in the kitchen. Henry lowered his voice. "She'll come in if we pretend she can't hear. She's earned that. Without her, I might have kept rehearsing until I died of carefulness."
 
 He turned back. "John is at the diner. He doesn't know for certain that I mailed the letter, though he suspects. He's always suspected something didn't fit."
 
@@ -106,7 +106,7 @@ Henry's hand hovered near her sleeve without touching, the same almost-gesture f
 
 He touched the frame of John's photograph. "He looks like his father when he's angry. He looks like me when he's kind. I told myself I was sparing him. What I spared him was the chance to forgive us properly." He glanced toward the kitchen. "Clara sketched that night before she found the papers. Rain. A car. Your silhouette on the station steps. John waiting. Me standing between."
 
-The house creaked the way old houses confess, slowly, in the joints. Toward town, a faint square of amber might have been the diner window. John was moving through his evening, unaware that she stood here wet and furious, nipples tight under damp cloth from memory alone.
+The house creaked the way old houses confess, slowly, in the joints. Toward town, a faint square of amber might have been the diner window.
 
 She looked at the papers under the glass. A name from that winter. A charcoal study of hands open as if dropping something too heavy. She thought of John's hands specifically: the scar, the flour dust, the way they had trembled once against her ribs.
 

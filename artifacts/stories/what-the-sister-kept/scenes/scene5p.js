@@ -69,7 +69,7 @@ Will caught her at the lot edge, matched her pace, rain on his stubble, mid-thir
 
 [player_name] felt him thick against her hip through wet clothes and hated how her body answered. "If leaning was the only way—"
 
-"Then you relocated the pressure onto us," Will finished, mouth at her ear, hand gripping her waist under her coat. "Marta goes blank. Scrap stays fog. I still hunt. I still want the warehouse and the badge spit and you. Anniversary or disappearance. Meet me at the pier festival ghost where Renny vanished—crowds, posters, my hand on your back, unfinished kiss in public memory. Or disappear into Harborwick fog and make me chase both case and cunt until one of us breaks open."
+"Then you relocated the pressure onto us," Will finished, mouth at her ear, hand gripping her waist under her coat. "Marta goes blank. Scrap stays fog. I still hunt. I still want the warehouse and the badge spit and you. Anniversary or disappearance. Or disappear into Harborwick fog and make me chase both case and cunt until one of us breaks open."
 
 She gasped when his palm slid down and cupped her through soaked jeans. "Will—"
 
@@ -77,7 +77,7 @@ She gasped when his palm slid down and cupped her through soaked jeans. "Will—
 
 [player_name] rocked into his hand despite the rain, despite the walk-out, grief and lust sharing her body. "If I disappear—"
 
-"Then I pull files at three a.m. and hate how your absence looks like another missing name on my board," Will said harshly. "And when I find you—because I will—I will take you in whatever room you hid in until fog is the only witness." His smile cut against her temple. "If you meet me at the anniversary, I put my mouth on you behind festival noise and make hope and dread share an orgasm with Renny's night returning in posters. Either way I am not nice. Either way I am not clean. Pick."
+"Then I pull files at three a.m. and hate how your absence looks like another missing name on my board," Will said harshly. "And when I find you—because I will—I will take you in whatever room you hid in until fog is the only witness." His smile cut against her temple. "If you meet me at the anniversary, I put my mouth on you behind festival noise and make hope and dread share an orgasm. Either way I am not nice. Either way I am not clean. Pick."
 
 He shoved his hand into her jeans under cotton, fingers sliding through slick heat while chain-link bit her shoulders through her coat. [player_name] bit his rain-wet collar to stay quiet. Will pumped slow, filthy, precise. "Anniversary is a date with the boards. Fog is a map you refuse to give me. Soft partner dies a little either way. Romance stays unfinished. That is the bar. That is the hook. Say it while you soak my hand or I stop and make you choose cold in the rain like a witness who walked."
 
@@ -87,7 +87,7 @@ He shoved his hand into her jeans under cotton, fingers sliding through slick he
 
 She clenched, close, conscience and cunt arguing. Will denied the finish—slowed, pressed his forehead to hers, rain stitching their faces. "Not yet. Verb first. Meet him at the pier anniversary. Or disappear into Harborwick fog. Come on the words or button up and walk. I will be angry either way. I will want you either way. I will dream raid noise if soft fails—and you just taught soft a different shape by leaving the trailer."
 
-[player_name] kissed him like a fight, tasted rain and lean-refused and unfinished fucking. Remains unnamed. Charm probable. Marta blank. Owen unnamed. Will's cock hard against her hip, fingers inside her, patience brutal. "You use chase like a love language."
+[player_name] kissed him like a fight, tasted rain and lean-refused and unfinished fucking. Remains unnamed. Charm probable. Marta blank. Owen unnamed. "You use chase like a love language."
 
 "It is the only one I trust," Will said against her lips. "Anniversary. Or fog. Hurt to leave either. Good. Means both matter. Means you are still in this with your skin. Pick before I open the car and lose the ability to offer both like a man who was never a gentleman." His thumb circled once, wicked, then stilled. "Speak. I am listening with my hand in your jeans and my badge in the rain and every quiet thing the sealed past left in me waiting to see if you vanish or meet me where your sister's night comes back to haunt the boards."
 
@@ -103,13 +103,13 @@ She shivered, want and dread braided. "Cho—"
 
 "Will not name bones for our drama," he cut in. "Charm stays *like*. Hope and dread stay roommates. Owen stays your quiet unless fog or anniversary digs him up. The sealed past stays my ash. Ellison prefers you gone. I prefer you on the boards with me. Preferring is not ordering. Ordering is what I did in a hallway once. I am trying—badly—not to order you." He stepped back enough to let her choose the open car or the open mist. "Speak or walk. Meet him at the pier anniversary. Or disappear into Harborwick fog. Both hurt. Both keep the tab open. Both leave my cock aching and my badge wet and my charm scraped raw by a sister who walked out rather than watch me become the clean jacket."
 
-Rain sheeted. Chain-link sang. [player_name] tasted herself and Will and the metallic bright of a chase that had just relocated onto their bodies. The trailer light glowed behind fog. Renny's night waited in the calendar. William Akers waited in the rain—brutal, hard, unfinished.
+Rain sheeted. Chain-link sang. [player_name] tasted herself and Will and the metallic bright of a chase that had just relocated onto their bodies. The trailer light glowed behind fog. William Akers waited in the rain—brutal, hard, unfinished.
 
 He did not leave her against the chain-link. He walked her two steps into the deeper shadow between a dumpster and the lot's rusted light pole, rain dripping off both of them, and put her palm flat on his cock through soaked fabric so she could feel the full thick pulse of what walking out had done to him. "This is what mercy costs me," Will muttered. "You stopped the lean and I got harder for the refusal. Touch it. Know what you are scheduling or denying."
 
-[player_name] squeezed once, felt him kick, felt her own empty ache answer. Will groaned and shoved two fingers back into her jeans, fucking her slow against the pole while fog horns covered the wet sounds. "Anniversary means I wait for the posters and then I find you in the crowd and drag you behind the generator where Renny argued—and I put my mouth on your cunt until hope and dread share the same orgasm and festival music lies about safety." His thumb found her clit. "Fog means you vanish and I hunt. When I catch you I bend you over the first horizontal surface that is not a cake stall and I fuck you until the map is back in both our mouths. Either way you leave this rain shaking. Either way I stay not nice."
+[player_name] squeezed once, felt him kick, felt her own empty ache answer. Will groaned and shoved two fingers back into her jeans, fucking her slow against the pole while fog horns covered the wet sounds. His thumb found her clit. "Fog means you vanish and I hunt. When I catch you I bend you over the first horizontal surface that is not a cake stall and I fuck you until the map is back in both our mouths. Either way you leave this rain shaking. Either way I stay not nice."
 
-She was so close the denial made her eyes sting. Will slowed on purpose, cruel craft, forehead to hers. "Verb," he whispered. "Meet me at the pier anniversary—or disappear into Harborwick fog. Say it with my fingers inside you. Come on the choice or walk cold. I will still want you. I will still chase Renny's scrap without crushing Marta. I will still dream hallways if soft fails another way. His sealed past stays a hint with teeth. Unidentified bones stay unnamed. Owen stays your quiet. You get this chase relocated onto our bodies. Pick, [player_name], before I button you up and offer both options like a gentleman I have never been."`,
+She was so close the denial made her eyes sting. Will slowed on purpose, cruel craft, forehead to hers. "Verb," he whispered. "Meet me at the pier anniversary—or disappear into Harborwick fog. Say it with my fingers inside you. Come on the choice or walk cold. I will still want you. I will still dream hallways if soft fails another way. His sealed past stays a hint with teeth. Unidentified bones stay unnamed. Owen stays your quiet. You get this chase relocated onto our bodies. Pick, [player_name], before I button you up and offer both options like a gentleman I have never been."`,
   choices: [
     { id: "scene6p", text: "Meet him at the pier anniversary", textHot: "Meet him at the pier anniversary" },
     { id: "scene6a", text: "Disappear into Harborwick fog", textHot: "Disappear into Harborwick fog" }

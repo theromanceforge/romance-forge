@@ -67,21 +67,23 @@ Rain thickened until speech had to lean closer. Clara's shoulder pressed [player
 Henry's voice carried faintly from the porch. Her name, then John's, then nothing, as if even he understood that entering the shed would make him the story again. The notebook's rubber band waited to snap. A draft from the warped door lifted the ledger's next page, almost turning it on its own.
 
 "I'm not leaving this crate blank," Clara said. "Someone turns the page. Tell me who."`,
-  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm, brass cold, string rough, while the rest of her stayed stupidly fixed on John. His wet diner jacket clung to his shoulders. His throat worked. The heat of him walked one step behind her like a hand at the small of her back that hadn't landed yet. Digging shouldn't make her wet. It did. Fear and wanting shared a bloodstream, and she had stopped pretending otherwise somewhere on his climb up the wet hill.
+  textHot: `Rain made the yard a black sheet. The shed key bit [player_name]'s palm, brass cold, string rough, while the rest of her stayed stupidly fixed on John. His wet diner jacket clung to his shoulders. His throat worked. The heat of him walked one step behind her like a hand at the small of her back that hadn't landed yet. Digging shouldn't have her thinking about his hands. It did. Fear and wanting shared a bloodstream, and she had stopped pretending otherwise somewhere on his climb up the wet hill.
 
 Clara took the key. "Margins first. Then the tin. He doesn't narrate."
 
-Henry stayed in the study. John followed them through the boxwood into the shed's gasoline-and-rope dark. When Clara pulled the bulb chain, yellow light hit John's mouth, and [player_name] felt herself clench around nothing, traitorous and honest. She wanted his hands on the evidence. She also wanted his hands on her. The night wasn't going to rank those cleanly.
+Henry stayed in the study. John followed them through the boxwood into the shed's gasoline-and-rope dark. When Clara pulled the bulb chain, yellow light hit John's mouth, and [player_name] felt the want for him land hard, traitorous and honest, and put it away for later. She wanted his hands on the evidence. She also wanted his hands on her. The night wasn't going to rank those cleanly.
 
-"Open it," John said, his voice rough. He stood close behind her, and when she braced the tin, his chest brushed her shoulder blades, solid and damp and breathing too fast. Her nipples went hard under her wet shirt. She didn't step away.
+"Open it," John said, his voice rough. He stood close behind her, and when she braced the tin, his chest brushed her shoulder blades, solid and damp and breathing too fast. She kept her eyes on the tin and didn't step away.
 
 The tin gave. Paper smell. Oilcloth. Green ledger cloth. Clara set her sketches beside it: John's hands, drawn in charcoal with an accuracy that made [player_name]'s mouth go dry.
 
-Clara flipped pages, flashlight steady, focused on numbers because someone had to be. Forty-eight thousand. Twelve more. Voss, erased light. His father's signature on a wrong line. John's forehead dropped to [player_name]'s temple as the grief punched out of him. His hand flattened on her belly under her coat, possessive and shaking.
+Clara flipped pages, flashlight steady, focused on numbers because someone had to be. Forty-eight thousand. Twelve more. Voss, erased light. His father's signature on a wrong line. John's forehead dropped to [player_name]'s temple as the grief punched out of him. His hand flattened on her coat at her waist, steadying and shaking.
 
-Clara looked up at the two of them, then back at the page with ruthless discretion. "There's a notebook too. Drafts of what he asked her. Her name underlined twice." She handed John the flashlight. "I'm going to stand under the eave and keep Uncle off the porch. You two get five minutes with it. Then I'm back, and we lock what we found. I already dug. I'm not also managing whatever this is."
+Clara looked up at the two of them, then back at the page with ruthless discretion. "There's a notebook too. Drafts of what he asked her. Her name underlined twice." She handed John the flashlight. "I'm going back to the house to keep Uncle in the study. You two get ten minutes with it. Then I'm back, and we lock what we found. I already dug. I'm not also managing whatever this is."
 
-She stepped out and pulled the warped door almost shut behind her. Rain drummed. Through the gap, [player_name] could see the back of Clara's hood under the eave, facing the house.
+She stepped out and pulled the warped door shut behind her. Through the dirty window, [player_name] watched the flashlight cross the yard, climb the porch steps, and vanish inside.
+
+The back door closed. Rain drummed on the shed roof, and for the first time since the hill there was no one between them but the paper.
 
 John exhaled like a man coming up from under water. His cock nudged the small of her back through wet jeans, hard from adrenaline and proximity, and the honesty of it punched a soft sound out of her.
 
@@ -119,9 +121,9 @@ She could still feel the shape of him in her palm after she let go. He could sti
 
 "I won't come as a punctuation mark on Henry's draft," she managed, though her hips betrayed her with a tiny push into his palm. He denied the rhythm and held her on the edge, using desire as a stay against vanishing. "Ask me while I can still think."
 
-"I'm asking." His teeth scraped her earlobe. "Pull my hand out and call her back, and we lock the proof before I finish what I started. Or keep me here, fingers on you and on every page, and stop treating me like glass."
+"I'm asking." His teeth scraped her earlobe. "Pull my hand out and we lock the proof before I finish what I started. Or keep me here, fingers on you and on every page, and stop treating me like glass."
 
-A knock rattled the warped door. Clara's voice, muffled by rain: "Two minutes."
+Up at the house, the porch light blinked twice. Time.
 
 The bulb swung. The ledger lay face-up. His thumb rested on her clit, unmoving, cruel, and his cock strained against her through wet denim while she decided which of them got to turn the next page.`,
   choices: [

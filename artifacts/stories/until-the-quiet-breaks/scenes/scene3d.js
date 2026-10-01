@@ -52,7 +52,7 @@ He looked up mid-order, saw her face, and handed the plate off without glancing 
 
 Clara took the ticket spike like a sword. "Don't vanish between the bell and the rain," she murmured as [player_name] passed. "He practiced losing you. He's done rehearsing." Then, dry as chalk: "Also, he's been staring at that door like it owes him something. Go before I start drawing it."
 
-John steered [player_name] through the swing door into the narrow back hall by the dish pit. Steam and soap closed around them. The fan roared. The hall was too narrow for politeness. When he turned, his chest nearly brushed her breasts. Her back found the shelf. The air went tight and hot.
+John steered [player_name] through the swing door into the narrow back hall by the dish pit. Steam and soap closed around them. The fan roared. The hall was too narrow for politeness. When he turned, there was no room left between them. Her back found the shelf. The air went tight and hot.
 
 He braced a hand on the shelf above her shoulder, close and careful. It shook once. Coffee, fryer oil, register mint, and her woodsmoke braided on his skin. She wanted her mouth on the burn scar. She wanted mint and salt and grill-heat. She kept her hands at her sides by theatrical will. Her cunt pulsed once, hard, when his hips stayed close enough that the heat of him bled through damp wool.
 
@@ -68,7 +68,7 @@ John closed his eyes for a breath. When he opened them, they were dark with a hu
 
 His voice roughened. "God help me, standing this close I feel more than answers. I feel my cock voting while my mouth tries to be careful. I'm done pretending those are separate rooms."
 
-Beyond the swing door, the dining room murmured. His breath touched her cheek, and her nipples tightened against wet fabric. She shifted. Her hip brushed his. Neither apologized. She felt him, thick and insistent, and her own slick answer made standing still a kind of fucking without moving.
+Beyond the swing door, the dining room murmured. She shifted. Her hip brushed his. Neither apologized. She felt him, thick and insistent, and her own slick answer made standing still a kind of fucking without moving.
 
 "I remember you crying on the station steps and pretending you weren't," he said, softer. "Henry's hand on your suitcase like a blessing and a shove. Being told you wanted more. Not believing it, and believing it anyway, because belief kept the diner open and Clara fed and my hands from breaking things."
 

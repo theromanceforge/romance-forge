@@ -73,13 +73,13 @@ Clara's mouth twitched. Almost a smile. Not soft. "Then do it with teeth."
 
 "Charger's in the kitchen drawer," Clara said. "Don't stop. I'll be two minutes." She pulled her hood up and ducked out into the rain. The warped door banged behind her.
 
-Alone, [player_name] let out a breath she had been holding since the diner. Her jeans seam dragged against her, and she was already slick from cold fear and unfinished wanting braided into one weather. Her nipples peaked under lace every time the flash bleached the shed. That did not make the question less legal. It made it honest.
+Alone, [player_name] let out a breath she had been holding since the diner. The want hadn't gone anywhere. It had only been waiting for the door to close.
 
-She pressed the heel of her hand between her legs over denim. One hard grind, to take the edge off so she would not drop the phone. She pictured John shoving her against the blue door after he saw Voss in pixel clarity. Belt, hands, a coffee-bitter kiss, fucking the insurance into a vow. She squeezed her thighs together and kept shooting.
+She pictured John's face when he saw Voss in pixel clarity, and kept shooting.
 
-She photographed a page that mentioned "platform" in a margin Henry had tried to erase with pressure instead of ink. The paper was scarred lighter where the apology had been scraped away. The flash made the scar glow. She wanted John's mouth on her neck while she showed him that glow. She wanted his cock in her hand while he read Voss aloud. The want did not derail the archive. It funded it.
+She photographed a page that mentioned "platform" in a margin Henry had tried to erase with pressure instead of ink. The paper was scarred lighter where the apology had been scraped away. The flash made the scar glow. The want did not derail the archive. It funded it.
 
-She rolled her hips once against the crate's edge, a small, filthy motion the bulb witnessed without comment. Then she forced herself still. Coming in a shed full of Voss felt like letting Henry narrate her body too. She was going to stay sharp. Sharp was the point.
+Then she made herself still. Wanting John in a shed full of Voss felt like letting Henry narrate her body too. She was going to stay sharp. Sharp was the point.
 
 The door banged again. Clara came in shaking rain off her hood and handed over the charger. [player_name] plugged in and finished the last pages with steady hands. Freight horn. Ordinary Somerton. Inside: rope smell, oil, rain-cold, the ledger's ugly math.
 

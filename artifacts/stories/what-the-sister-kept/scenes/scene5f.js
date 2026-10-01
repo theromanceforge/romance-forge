@@ -63,9 +63,9 @@ Rain needled the evidence stake's memory. [player_name] felt Harborwick's damp m
 
 His grey-green eyes flicked to her—mid-thirties, scar wet, brutal charm locked down because she had chosen science over his mouth. The almost lived between them anyway: heat lightning, unstruck, her nipples tight from cold and from him, thighs slick under rain-cold clothes for a detective she had refused to finish. "Witness present," he said. "Language she can use."
 
-Cho, precise over lab noise: "Partial remains upriver—unidentified. I will say it twice. No hard ID. Age range keeps hope ugly. Charm consistent with bracelet type, not unique. Probability, not proof. Do not let anyone tell the family the bones are Renny. Not named. Not confirmed. Question with silt."
+Cho, precise over lab noise: "Partial remains upriver—unidentified. I will say it twice. No hard ID. Age range keeps hope ugly. Charm consistent with bracelet type, not unique. Probability, not proof. Not named. Not confirmed. Question with silt."
 
-[player_name]'s hands went numb on the rail while her body stayed traitorously awake. Hope lifted. Dread did not lie down. Renny's hoodie folded inland. Absence everywhere. Unidentified. She mouthed it like a prayer with teeth and felt Will's coat brush her breast when he shifted—accidental, electric.
+[player_name]'s hands went numb on the rail while her body stayed traitorously awake. Hope lifted. Dread did not lie down. Absence everywhere. Unidentified. She mouthed it like a prayer with teeth and felt Will's coat brush her breast when he shifted—accidental, electric.
 
 "More useful: soil and debris timing contradict Owen Vale's across-town window. Soft contradiction. Not a cuff. Enough to lean. Debris sequences rarely lie as creatively as stepfathers."
 
@@ -77,23 +77,21 @@ Call dead. Rain. Foghorns. Chain-link. Will lowered the phone and looked at [pla
 
 She tasted salt. Seven years of kept detail climbed her throat—Owen at this pier with someone wrong; friends story swallowed; statement scrubbed—and the climb made her wetter, angrier, more alive. Cho's soft contradiction pressed the bruise of her silence. Bones unnamed. Alibi not. Attraction ached unused: dangerous, unfinished, her clit throbbing at the sound of his voice saying *Owen* like a threat and a promise.
 
-"If I chase the timing, I make him a target before we know if the upriver dead are my sister."
-
 "If you sit with hope, you give him time to hear Ellison's inbox and invent better lies." Charm wrong-side out: respect edged with spent hunger. "Soft surveillance. Hard pull. Or I stand here smelling like the almost you killed while my jeans are still a problem. Your call. I am allergic to lies and employed by a captain who thinks my feelings get people hurt—the sealed past rhyme included."
 
 Black water. Festival ghosts. Renny laughing. Charm gap. Will's notebook sagging damp. Nina haunting his ribs. [player_name] pressed her thighs together once and felt how ready she still was for a man who was offering forensics instead of fingers. "Ellison will want clearance."
 
 "Ellison always wants clearance. She also wants me not to turn you into a personal disaster. Too late. Cho made Owen another. Remains still not Renny on paper. Cruel mercy. Take it or spend it."
 
-Warehouse door slammed inland. [player_name] squared up against wind and against the gravity of Will's mouth she had refused. Chase the timing hole—lean on Cho, push Owen's window, risk hope on a lead while her body hummed unused. Or sit with hope that unidentified meant Renny might still walk out of fog, refuse to spend a sister's maybe-life on a rush to cuff, let dread wait while Will's want stayed a bruise on the air.
+Warehouse door slammed inland. [player_name] squared up against wind and against the gravity of Will's mouth she had refused. Chase the timing hole—lean on Cho, push Owen's window, risk hope on a lead while her body hummed unused.
 
-He watched her with raid-wound patience. Mouth close enough to finish what rain offered. She did not. Case had her mouth. Almost stayed a bruise. "Kids in hallways—" Joke died. He grimaced. "Occupational haunting. I pushed early once. People bled. I will not push Owen early unless you tell me the lean is worth the rhyme." Hand hovered at her elbow, then brushed—barely—the wet fabric over her waist, a touch that was not quite professional. She sucked a breath. He pulled back like he had burned. "Chase the hole with me. Or hold the hope and make me wait with a hard-on and a conscience. Both hurt. That is how you know they are real."
+He watched her with raid-wound patience. Mouth close enough to finish what rain offered. She did not. Case had her mouth. Almost stayed a bruise. He grimaced. "Occupational haunting. I pushed early once. People bled. I will not push Owen early unless you tell me the lean is worth the rhyme." Hand hovered at her elbow, then brushed—barely—the wet fabric over her waist, a touch that was not quite professional. She sucked a breath. He pulled back like he had burned. "Chase the hole with me. Or hold the hope and make me wait with a hard-on and a conscience. Both hurt. That is how you know they are real."
 
-Precinct ghosts: burnt coffee, Ellison's leash, clocks measuring family breaks. Cho's refusal to let rumor wear a name. Owen inland with lights on. Renny teenager in photos, question in trays. Mid-twenties and mid-thirties sharing soaked boards without a kiss to blame for the heat still under [player_name]'s skin, in her cunt, in the pulse at her throat when Will said her name like evidence.
+Precinct ghosts: burnt coffee, Ellison's leash, clocks measuring family breaks. Cho's refusal to let rumor wear a name. Owen inland with lights on. Mid-twenties and mid-thirties sharing soaked boards without a kiss to blame for the heat still under [player_name]'s skin, in her cunt, in the pulse at her throat when Will said her name like evidence.
 
 She could still feel where his breath had been when the almost-kiss hovered—before Cho, before science, before she chose the phone. That ghost-heat made the ME update land harder: every clinical word about unidentified bone stroked the same nerve his mouth had aimed at. She hated him a little for that. She wanted him more for it. The contradiction was soft and sharp at once, like Cho's lean on Owen.
 
-"You shut me down and then stood close enough that I can smell your shampoo," Will said, low, sex-rough under detective flat. "That is not fair play. Neither is asking me to honor hope while my body has not gotten the memo that we are professionals on a pier. Decide. Chase Owen's timing hole until it screams, or sit with the maybe-it-is-not-Renny and make me keep my hands and my badge in polite formation. I will do either. I will not do calm."
+"You shut me down and then stood close enough that I can smell your shampoo," Will said, low, sex-rough under detective flat. "That is not fair play. Neither is asking me to honor hope while my body has not gotten the memo that we are professionals on a pier. Decide. I will do either. I will not do calm."
 
 Harborwick rain wrote the question on black planks. Spend the lean or sit with the maybe. [player_name]'s pulse hammered either answer—chest and lower, traitor and sister and woman who had refused a detective's mouth and still felt owned by his voice. The pier had given her science instead of orgasm.
 
@@ -103,13 +101,11 @@ A flatbed rumbled past, headlights cutting Will's scar white. [player_name] used
 
 "If it is not her," she said, voice rough, "and I help you break him anyway, what am I?"
 
-"A woman in rain with a detective who wants to fuck her and a captain who wants clearance and an ME who will not let her lie with a name." Will's charm flickered, then died into honesty. "Owen earned a lean. Not a funeral for Renny. Different receipts. I can hold both while hard. Question is whether you can while wet and furious."
+"A woman in rain with a detective who wants to fuck her and a captain who wants clearance and an ME who will not let her lie with a name." Will's charm flickered, then died into honesty. "Owen earned a lean. Different receipts. I can hold both while hard. Question is whether you can while wet and furious."
 
 She thought of Owen's kitchen light, bleach, *friends*, hands too clean—and the silhouette never stated. Cho cracked the alibi, not the silhouette. The rest was hers. Will's notebook opened under the coat; his other hand flexed like it wanted her waist again. "Hope path: note the lean, do not move tonight, sit with unidentified, do not become Ellison's headline. Chase path: call a unit, ask where he was when debris says he lied. No easy third. And [player_name]—" his gaze dropped to her mouth, then lower, shameless "—either path, I am going to smell like wanting you through the whole damn thing. Budget for that."
 
-Rain needled. She pressed her thighs together and felt slick truth. Two futures, one soaked coat: hunt Owen's window until it screamed, or hold maybe-not-Renny like a live bird while Will's cock and her cunt stayed unfinished business. The raid-wound smoked. Renny unnamed. The choice hurt in her chest and between her legs, which was how she knew Cho had told the truth and Will had not stopped being dangerous. Will waited with rain in his lashes and want in his silence and Cho's lean burning both their pockets.
-
-Leaving either door would leave her wet and unfinished—Cho's lean burning her pocket, Will's almost still throbbing between her legs, Renny still unnamed on a lab tray that refused to finish the sentence Harborwick wanted spoken.`,
+Rain needled. She pressed her thighs together and felt slick truth. The raid-wound smoked. The choice hurt in her chest and between her legs, which was how she knew Cho had told the truth and Will had not stopped being dangerous. Will waited with rain in his lashes and want in his silence and Cho's lean burning both their pockets.`,
   choices: [
     { id: "scene6f", text: "Chase the timing hole in Owen's night", textHot: "Chase the timing hole in Owen's night" },
     { id: "scene6g", text: "Sit with hope that it isn't Renny", textHot: "Sit with hope that it isn't Renny" }

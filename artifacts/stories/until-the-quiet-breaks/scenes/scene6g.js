@@ -73,7 +73,7 @@ Smoke, graphite, wet wool. Fury braided with pity braided with the heat of John 
 
 He had crowded her against the porch post in the rain, mouth hungry, thigh pushed between hers. "Your part first," he had whispered. "Before he finds a sentence. And keep my hand on you while you do it, so you don't float away into penance."
 
-His palm had stayed at the small of her back when Henry opened the door. It stayed there now in the front room, fingers splayed under her sweater against bare skin. A secret claim while she stripped the cover aloud.
+His palm had stayed at the small of her back when Henry opened the door. It stayed there now in the front room, fingers splayed at the small of her back. A secret claim while she stripped the cover aloud.
 
 "I said yes," [player_name] began, her voice steady. "You asked me to carry the winter. Debts. Ice. Voss. Clara as leverage in sentences that made you shake. I loved John. Silence sounded like armor. I said yes. I left on a story about brighter rooms. I enforced the lie with my absence, aching in other cities for a man who thought I wanted maps more than him."
 
@@ -91,21 +91,21 @@ Henry's voice scraped. "I was trying to protect—"
 
 "Brand name noted," John said flatly. His fingers dug into [player_name]'s side hard enough to bruise. "Her floor."
 
-She stepped closer to the grate, and the movement pressed her back against him, a thick line through denim. Neither of them moved away.
+She stepped closer to the grate, and the movement pressed her back against him. Neither of them moved away.
 
 "I was wrong too," she said to Henry, while her body answered John. "Wrong and trying. Both. John lived inside the lie. Clara sketched around it. You called fear stewardship. My yes is on the table. So is my return. So is the fact that your nephew's hand is on me right now, because we're done pretending tenderness and truth belong in different rooms."
 
-Henry stared. The mantel clock ticked like a metronome for sin. John's mouth found the hinge of her jaw for one open kiss, possessive and brief, then stopped so she could keep speaking. She clenched around nothing.
+Henry stared. The mantel clock ticked like a metronome for sin. John's mouth found the hinge of her jaw for one open kiss, possessive and brief, then stopped so she could keep speaking.
 
 "I can ask you for forgiveness I may not give," she said, each word vibrating through the place where his chest met her back. "Put absolution in your hands like bait and decide later whether mercy is possible. Or I can refuse forgiveness and demand restitution. The truth where it counts. Papers copied. The cover ended. The cost on your name, where it belongs."
 
 John lowered his mouth to her ear, too quiet for anyone else. "Either way, I stay hard through the hearing," he admitted, shameless. "Ask him or bill him. Then let me get you out of this woodsmoke and into a room with a lock, before I forget he's my uncle."
 
-Henry's hands flattened harder on his knees. [player_name] felt John's thumb slip under her waistband at the back. Just the tip. A promise.
+Henry's hands flattened harder on his knees. Just the tip. A promise.
 
 "Open the door you can live with tomorrow without hating your own mouth," John murmured. "I won't choose it. I'll only keep my hand where it is until you do."
 
-Wet boxwood dripped outside. Inside, a woman owned her yes with a man pressed hard against her and an uncle's guilt open in the chair. The mantel chimed. Her nipples ached against her bra.
+Wet boxwood dripped outside. The mantel chimed.
 
 Henry rose halfway and sat again. John didn't move his hand. If anything, he drew her tighter, as if shielding her from softened mercy with sheer heat.
 
@@ -115,7 +115,7 @@ Henry rose halfway and sat again. John didn't move his hand. If anything, he dre
 
 She kept her eyes on Henry. "You'll get one word from me. Forgiveness asked, or restitution demanded. After that, you get whatever daylight we choose. You don't get to read my wanting as proof I've already pardoned you."
 
-John's laugh was wrecked against her neck. His voice dropped to a breath only she could hear. "Tell him. Then let me get you out of these jeans before I come in my pants in my uncle's front room like a teenager who never learned quiet. If you ask him, I'll hold you through the word, even if you never hand it over. If you bill him, I'll help you collect. And then I'll take you to the car or the shed or the damn stairs and fuck the adrenaline out of both of us until woodsmoke smells like sex instead of guilt."
+John's laugh was wrecked against her neck. His voice dropped to a breath only she could hear. "Tell him. If you ask him, I'll hold you through the word, even if you never hand it over. If you bill him, I'll help you collect. And then I'll take you somewhere that isn't this house, and we'll burn the adrenaline off together."
 
 [player_name] shivered. She ached. She kept her eyes on Henry, because looking at John would end speech.
 

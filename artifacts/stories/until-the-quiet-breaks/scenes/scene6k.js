@@ -95,9 +95,9 @@ Henry exhaled woodsmoke-old air. "Choose the room's shape. Witness or protected 
 
 "Bringing you in is surgery," she whispered. "You hear every seam. My part. His. Voss. You watch his face crack. You might hate him in a way that never softens. You might fuck me after like anger is a sacrament."
 
-"I might," John said against her temple. "If you shield me, you translate again. I hate translators. I also remember being a boy who needed one. So you carry it, then you come to Market Street and put the truth in my mouth while I put my fingers in you. We stop pretending information and sex belong in different rooms."
+"I might," John said against her temple. "If you shield me, you translate again. I hate translators. I also remember needing one. So you carry it, then you come to Market Street and put the truth in my mouth while I put my fingers in you. We stop pretending information and sex belong in different rooms."
 
-Her knees wanted to buckle. She locked them. Rain hammered. The mantel clock ticked like a metronome for ruin. "Clara calls shielding a pattern," [player_name] said louder, for the room. "She is not wrong. Bringing you in means I stop wearing Henry's coat. Shielding means I wear it one more hour and pray it does not become exile cloth."
+Her knees wanted to buckle. She locked them. Rain hammered. The mantel clock ticked like a metronome for ruin. "Shielding is a pattern," [player_name] said louder, for the room. "I know that now. Bringing you in means I stop wearing Henry's coat. Shielding means I wear it one more hour and pray it does not become exile cloth."
 
 His fingers dipped under her waistband at the small of her back. Just the tips, a secret pressure, and she clenched hard around nothing, slick between her thighs.
 

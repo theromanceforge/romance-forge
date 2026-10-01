@@ -65,7 +65,7 @@ All she could think about was John alone with that letter. His jaw locked. Hard 
 
 "He texted don't come," Clara said, charcoal under her nails like war paint. "Said the letter needs a room without an audience. Which means he wants you there and he's punishing both of you for it."
 
-[player_name] hung her coat. Cooler air hit her damp shirt; her nipples peaked harder, shameless. The house remembered her. That made the ache worse. "How long has Henry been gone?"
+[player_name] hung her coat. The house remembered her. That made the ache worse. "How long has Henry been gone?"
 
 "Errands." Clara's mouth twisted. "Men who bury debts under glass weights don't run errands. They run. The shed key's still on the peg. The desk is still full of whatever he thinks we're too polite to find twice."
 
@@ -73,13 +73,13 @@ Waiting hurt between [player_name]'s legs as much as in her chest. That was the 
 
 Clara watched her with ruthless accuracy. "You look like someone who left a half-kiss on a counter and then pretended space was mercy."
 
-[player_name] laughed once—cracked glass. Heat climbed her throat and dropped lower, a flush she could not hide. "Fair. Brutally fair."
+[player_name] laughed once—cracked glass. Heat climbed her throat, a flush she could not hide. "Fair. Brutally fair."
 
 "Two roads," [player_name] said, her voice rough. "Search Henry's desk again and get what's underneath before he comes home smelling like errands and lemon oil. Or get you ready for John, for when the letter finishes eating him and he walks up this hill furious."
 
 "Rage prep," Clara said. "Or evidence theft. Both honest. Neither pretty." She opened the sketchbook. Winter road, circled numbers, graphite over a creditor thread. "If we prep, I'm a witness. Not a kid with pretty margins. If we search, we look for the letter under the letter. The one he never mailed."
 
-They moved through the house. [player_name] stopped in the hallway outside Henry's study. Dark lamp. The stuck left drawer she remembered from when she was twenty and stupid with love. The smell of old ink and dust. Her palm flattened on the doorframe. She imagined John's thumb on her pulse the way it had been at the diner sink, counting, claiming. Her hips tipped forward into empty air like a woman answering a thrust that wasn't there. She clenched around nothing. Shame tried to arrive. Want arrived first.
+They moved through the house. [player_name] stopped in the hallway outside Henry's study. Dark lamp. The stuck left drawer she remembered from when she was twenty and stupid with love. The smell of old ink and dust. Her palm flattened on the doorframe. She imagined John's thumb on her pulse the way it had been at the diner sink, counting, claiming. Shame tried to arrive. Want arrived first.
 
 "Christ," she muttered.
 
@@ -87,11 +87,11 @@ Behind her, Clara said, "Say it out loud. So we stop lying to the mantel clock."
 
 "I want to be the one he comes to," [player_name] said. "Not the one he hears about later."
 
-She didn't say the rest. She wanted him in her while he was still angry about the letter. His cock and his questions in the same hour. She wanted him to push her against a wall that smelled like woodsmoke and fuck the apology out of both of them, then make her answer every line Henry wrote while she was still shaking. Waiting here was supposed to give him room. It was also leaving her soaked and useless.
+She didn't say the rest. She wanted him in her while he was still angry about the letter. Waiting here was supposed to give him room. It was also leaving her soaked and useless.
 
 "Good," Clara said. "Gentle built the cover story. Use the wait like a weapon." She tipped her chin at the study, then at her own chest. "Desk or me. The clock won't wait. Neither will his truck. And if you pick me, I need you sharp, not staring at the door."
 
-[player_name] turned back toward the front room. Rain sheeted the slate. Every breath dragged lace over her nipples until she wanted to strip just to stop the tease. She could still feel the thick line of John against her knee from earlier. The way anger and arousal shared his bloodstream. The way his mouth had almost finished the kiss and left her aching around absence. Space was eating her alive, a pulse between her legs that matched the clock's tick.
+[player_name] turned back toward the front room. Rain sheeted the slate. The way his mouth had almost finished the kiss and left her aching around absence.
 
 Clara had poured fresh tea that neither of them would drink. [player_name] sat on the edge of the sofa and waited.
 

@@ -71,7 +71,7 @@ John leaned over her on the table, his free hand braced beside her hip, the othe
 
 John cursed and sucked a mark onto the side of her neck hard enough that morning would ask questions. "That's the room," he rasped. "Now tell me whether you're editing. And if you are, say the word triage, so I can hate it honestly when I fuck you after."
 
-She clenched around his fingers and held, using want as ballast instead of escape. "Clara will hear gaps by lunch if I soften," she whispered. "She draws gaps. Softening nothing wakes the house angry in high resolution. Afford is Henry's word. I'm done budgeting truth like rent. I'm only deciding whether love gets a pencil before your ear gets the page."
+She clenched around his fingers and held, using want as ballast instead of escape. "The house will hear gaps by lunch if I soften," she whispered. "Softening nothing wakes it angry in high resolution. Afford is Henry's word. I'm done budgeting truth like rent. I'm only deciding whether love gets a pencil before your ear gets the page."
 
 John's thumb circled her clit once, slow, punishing and tender in the same stroke. "I won't choose for you. I'll only keep my hand honest until you do."
 

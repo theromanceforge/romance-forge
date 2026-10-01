@@ -53,17 +53,17 @@ Will's hand left her knee. Engine stayed off. He was calculating—hard take now
 The porch light burned. The alley flared orange for a heartbeat.`,
   textHot: `Harborwick after midnight wore rain like a second skin, and [player_name] sat wet-thighed in William Akers's unmarked car with soft-net patience and a cunt that had been humming since the precinct hallway where he agreed to hunt Owen with manners and fuck the rest of her composure without touching the center of the kiss.
 
-Two blocks from Owen Vale's brick row house. Heater ticking. Windshield freckled. Porch light performing innocence. Renny's hoodie folded across town; bracelet missing a charm; upriver remains still unidentified, charm *maybe* hers, hope and dread sharing Cho's table the way want and grief shared [player_name]'s body—never tidy, never polite.
+Two blocks from Owen Vale's brick row house. Heater ticking. Windshield freckled. Porch light performing innocence.
 
 Will kept the soft promise. No cuffs. Surveillance. A mirror on habits. He looked like restraint was a kink he hated and excelled at.
 
 Mid-thirties, rain in dark hair, scar nick at the eyebrow, whitened knuckle on bitter thermos coffee, cracked notebook on his thigh, badge under jacket, cock a thick idle threat in his jeans when he shifted. Not clean-cut. Brutal charm banked for stakeout—late smile held like a loaded thing, hazel eyes doing warrant-work without paper.
 
-"Unit's quiet," Will murmured, voice low enough to drag along her spine. "Curtain twitched. Cat or guilty man. You asked for soft. Soft is still a hunt with better shoes—and sitting this close to you while I watch your stepfather makes my cock forget which hunt it prefers." He did not look at her. He put his hand on her knee anyway—warm, claiming—then higher, slow, detective patience turned filthy, palm riding the inseam until heat punched low in her belly. "Ellison hates soft. She wants Owen hard and recorded. I am spending a costume I earned in ashes because you begged beautifully. Nina Solis taught me what hard takes leave behind—raid, hallway, a kid who should not have been there, sealed file I will not open while my fingers are this close to your cunt. Soft for Owen. Not soft for you. Say you understand with your legs open enough for my hand to believe it."
+"Unit's quiet," Will murmured, voice low enough to drag along her spine. "Curtain twitched. Cat or guilty man. You asked for soft. Soft is still a hunt with better shoes—and sitting this close to you while I watch your stepfather makes my cock forget which hunt it prefers." He did not look at her. He put his hand on her knee anyway—warm, claiming—then higher, slow, detective patience turned filthy, palm riding the inseam until heat punched low in her belly. "Ellison hates soft. She wants Owen hard and recorded. I am spending a costume I earned in ashes because you begged beautifully. Soft for Owen. Not soft for you. Say you understand with your legs open enough for my hand to believe it."
 
 [player_name] sucked a breath. She parted her thighs a fraction. Will's fingers pressed the seam of her jeans, finding damp already, a shameful slick fact, and he groaned soft like clocking a confession. "Good girl. Soft nets love wet witnesses."
 
-"I will not tip him," she managed, wrecked already, grief and arousal braided. "I meant what I asked. Evidence intact. Bones that might not be Renny. Owen reaching while he thinks he can breathe."
+"I will not tip him," she managed, wrecked already, grief and arousal braided. "I meant what I asked. Evidence intact. Owen reaching while he thinks he can breathe."
 
 "Breathing men reach. Reaching men leave traces. Burning men—" Will's thumb rubbed a slow circle over her clit through denim, precise, cruelly patient. "—teach me whether my passenger kept her mouth off the leak." He leaned across the console and kissed the corner of her mouth without giving her the center, denial as foreplay, stubble scraping, coffee-bitter breath. "You sit. You watch. You keep your phone away from his number. If your body asks for more than surveillance, use words. Or keep soaking my fingers through your jeans while we pretend this is only procedure."
 
@@ -71,7 +71,7 @@ Foghorn. Chain-link. Warehouse ghosts. Notebook timeline: festival night, Owen's
 
 "Tell me why soft," he whispered, "while I feel how hard you are for patience."
 
-"If the bones are Renny—" her voice broke on his next press "—I want truth intact. If not, I still want his pier night without him teaching Harborwick to forget again. Hard makes him burn first."
+"Whatever Cho finds—" her voice broke on his next press "—I want truth intact. If not, I still want his pier night without him teaching Harborwick to forget again. Hard makes him burn first."
 
 "Someone taught me ashes." Will's voice scraped—sealed past, expensive lesson—then smoothed as his hand popped her button, eased her zipper, slid into panties where she was slick and aching. Two fingers found her, slow, filthy, stakeout rhythm. "I wear soft so I do not make the same fire twice. You asked me to spend it on Owen. I am spending it in you at the same time. Multitasking. Charm as survival. Cock as honesty." He curled his fingers; she clenched; the porch light blurred. "Do not come yet. Soft means we wait. Soft means I edge the woman who named her stepfather while we watch him sleep wrong."
 
@@ -99,15 +99,15 @@ She sucked without being told. His hazel eyes went nearly black. His hips shifte
 
 "If we watch," he went on, voice wrecked and precise, "I will document every second of that fire, and then I will take you somewhere that is not this block, and I will put my mouth where my fingers were until you come with ashes on your conscience and my name in your throat. Soft hunt. Hard aftermath. If we stop him, I kick the soft costume off in the alley, and I will still be hard when the cuffs come out, because catching Owen while I smell like your cunt is the most honest badge work I have done in months."
 
-Rain thickened on the roof. The foghorn complained again. Somewhere a warehouse door slammed like a rumor. Will withdrew his fingers from her mouth, trailing wet across her chin, and zipped her only halfway—deliberate unfinished business, denim open enough that cool air kissed slick heat every time she breathed.
+Rain thickened on the roof. The foghorn complained again. Somewhere a warehouse door slammed like a rumor.
 
-"Ellison will smell this either way," he said. "Family witness in the car. Soft net broken or soft net documented into ashes. She already thinks Akers fucks his cases sideways. Tonight she will not be wrong about the sideways. She will only be wrong if she thinks I stopped caring about Renny's file because I started caring about Renny's sister's mouth."
+"Ellison will smell this either way," he said. "Family witness in the car. Soft net broken or soft net documented into ashes. She already thinks Akers fucks his cases sideways. Tonight she will not be wrong about the sideways. She will only be wrong if she thinks I stopped caring about the file because I started caring about Renny's sister's mouth."
 
-[player_name]'s hand found his thigh without permission from her better angels. Higher. The hard line of him under cloth. Will hissed through his teeth and caught her wrist—not stopping, only pacing, the same way he paced a confession.
+[player_name]'s hand found his thigh without permission from her better angels. Higher. Will hissed through his teeth and caught her wrist—not stopping, only pacing, the same way he paced a confession.
 
 "Careful," he murmured. "You stroke me now and I will forget which fire we are supposed to put out first." He pressed her palm once against his cock through jeans, shameless, thick, brutal honesty, then lifted her hand back to her own open zipper. "Touch yourself while you choose. Stay in the want. Do not tidy it into procedure. Murder stays plot; this—" his gaze dropped to where her fingers trembled at her own slick "—is trust wearing a filthy dress. I need to know you can hold both without eroticizing the bones upriver or the burn in that bin. Grief and sex can share a body. They do not get to share a joke."
 
-She touched—one circling stroke over her clit, eyes on the alley flare—and Will watched like a man taking notes for later cruelty and later tenderness. The phone in the bin was dying. Soft was dying. The question *is it Renny* still lived, unresolved, sacred and sharp.
+She touched—one circling stroke over her clit, eyes on the alley flare—and Will watched like a man taking notes for later cruelty and later tenderness. The phone in the bin was dying. Soft was dying.
 
 "My sealed past," Will said suddenly, almost against his will, forehead tipping to hers while his camera hand stayed ready, "would tell me I am compromised. The file would not be wrong. Compromised is the only way I know how to stay human after a hallway that still answers when I drink. You do not get the whole story tonight. You get the hint in my voice and the fact that I am asking you to choose while you are open and wet and shaking, because that is when people tell the truth about what they want to save."
 

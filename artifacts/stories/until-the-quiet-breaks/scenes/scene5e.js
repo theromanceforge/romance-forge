@@ -65,7 +65,7 @@ Clara's pencil woke with one sharp tap against the sketchbook cover. Henry's unf
 
 She didn't leave.
 
-Coat half up, then down. John's fingers had already found her hip in the doorway. When she stopped, his grip tightened once, thumb digging into the soft give above her waistband, then released so she could turn back into the lemon-polish trap of the front room. Her skin missed the pressure immediately. Annoying. Useful. True.
+Coat half up, then down. John's fingers had already found her hip in the doorway. When she stopped, his grip tightened once, thumb digging into her hip, then released so she could turn back into the lemon-polish trap of the front room. Her skin missed the pressure immediately. Annoying. Useful. True.
 
 "We stay," she said, her voice scraped. "Until he breaks. Not until he tidies."
 
@@ -81,7 +81,7 @@ Henry's throat clicked. "John asked me to sit with the word. I'm sitting."
 
 "He started a name on the porch and stopped," Clara said. "I erased the syllable because I was scared. Don't make me guess again."
 
-Rain sheeted the windows. [player_name]'s pulse sat high in her throat and lower, shameless, where John's nearness kept rewriting the argument into something her body understood better than her pride. She had almost kissed him on the climb up the hill. She could still map where his mouth would have landed. Her nipples had tightened under her shirt from nothing but memory and the warm drag of his thumbs. She hated how easy her body was for him. She loved it more.
+Rain sheeted the windows. She had almost kissed him on the climb up the hill. She could still map where his mouth would have landed. She hated how easy her body was for him. She loved it more.
 
 "I can wait," she said to Henry, and felt John's exhale stir her hair. "What I won't do is leave so you can soften the yes overnight into something you can mail."
 
@@ -107,15 +107,15 @@ John leaned down. His mouth brushed the hinge of her jaw. Not quite a kiss. Heat
 
 His hand slid from her shoulder to the side of her neck, thumb at her pulse, a claim held quiet because Clara was six feet away and Henry was breaking in a chair. "Either way, I'm taking you out of this room after. Not as a reward. As a fact. I'm done pretending truth cancels wanting you."
 
-His other hand stayed on the chair, knuckles white. She felt how carefully he was not sliding it lower, not finishing what the hill had started. Restraint shook in him. She wanted to ruin it. She wanted Henry to finish breaking first.
+His other hand stayed on the chair, knuckles white. Restraint shook in him. She wanted to ruin it. She wanted Henry to finish breaking first.
 
-She tipped her head a fraction into his hand. Shame and hunger braided. She tasted woodsmoke and the salt of her own bitten lip. Under her jeans she was wet from proximity and grief and the filthy mercy of being claimed in a room built for silence, soaked enough that shifting in the chair made her bite down on a sound.
+She tipped her head a fraction into his hand. Shame and hunger braided. She tasted woodsmoke and the salt of her own bitten lip.
 
 "He breaks either way," Clara whispered, almost kind. "Decide what you put in his hands."
 
-John shifted behind her. She felt the hard line of him brush once against the back of the chair as he adjusted, and the knowledge punched low in her belly. He cursed under his breath, almost laughing at himself.
+John shifted behind her. He cursed under his breath, almost laughing at himself.
 
-"Ignore that," he muttered into her hair. "Or don't. I'm not a saint in your uncle's living room. I watched you make him say yes and got stupidly fucking hard about your courage. My cock has opinions about your spine. I can stand here anyway."
+"Ignore that," he muttered into her hair. "Or don't. I'm not a saint in your uncle's living room. I can stand here anyway."
 
 Her laugh came out broken and quiet. She reached back blindly and squeezed his wrist, felt the jump of his pulse, and let go before Clara could turn the gesture into a question. She pressed her palm flat to her own knee to stop the shake.
 

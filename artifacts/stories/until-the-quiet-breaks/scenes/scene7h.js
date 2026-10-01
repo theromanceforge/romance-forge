@@ -47,7 +47,7 @@ She stood on the rain-dark mat with John close behind her. His coat was open, hi
 
 John didn't step back. His cock pressed against [player_name]'s ass through denim whenever he breathed. "She came to tell you what Henry turned into weather," he said to Mae. "Ice. Whiskey called tea. Voss. Her yes at twenty. Ambition as cover. My grief as a season. Now she decides whether you let it travel today, or hold it forty-eight hours while we finish with the family."
 
-[player_name] still ached from the awning. Her nipples peaked against lace when Mae's gaze flicked to John's arm and back, with only a raised brow that said she had sorted worse heat with the mail.
+[player_name] still ached from the awning. Mae's gaze flicked to John's arm and back, with only a raised brow that said she had sorted worse heat with the mail.
 
 "I'm telling you the truth," [player_name] said, steadier than she felt. "John's father went through the ice. Henry drank. Voss circled. Henry asked me to leave, and I said yes. Clara found the papers. If I own the gossip, you stamp this into circulation and the eggs go cold by noon. If I ask you to hold it, you pause, while we put Clara and John inside the story before the pie case turns us into sport."
 
@@ -67,7 +67,7 @@ John's fingers slipped under her waistband just far enough to find cotton soaked
 
 A delivery truck hissed past. Coffee steam drifted through the shared wall from the diner.
 
-"If I own it," she breathed, "you don't go gentle on the walk to the blue door. You stay angry and hard and mine while the town learns the winter was never only weather. If I ask for the hours, you don't waste them on Henry's careful morning. You help me put Clara inside the truth before Mae's clock runs out."
+"If I own it," she breathed, "you don't go gentle on the walk to the blue door. You stay angry and hard and mine while the town learns the winter was never only weather. If I ask for the hours, you don't waste them on Henry's careful morning. You help me put family inside the truth before Mae's clock runs out."
 
 John withdrew his fingers slowly and caught her wrist instead, his sticky thumb on her pulse. His mouth found the side of her neck in one open kiss that Mae absolutely saw and absolutely filed under memory. "I won't love you less either way," he murmured. "I'll only need to be inside you after. Upstairs. The pie case. The wet boxwood."
 

@@ -83,7 +83,7 @@ His hand pushed past waistband and cotton. Two fingers found her with humiliatin
 
 "[player_name]," she said, and John's fingers pressed exactly on the syllable of her name. Her hips jerked. He held her upright with the arm across her ribs.
 
-"Standing with John Shaw," she went on. "The story that cast me as someone who wanted brighter rooms is cracking on Market Street. Clara found the papers. Henry's out of silence. You can tell Voss the Shaws are done running. Or I hang up and refuse your ghost a callback."
+"Standing with John Shaw," she went on. "The story that cast me as someone who wanted brighter rooms is cracking on Market Street. The papers are out. Henry's out of silence. You can tell Voss the Shaws are done running. Or I hang up and refuse your ghost a callback."
 
 John groaned into her skin, filthy and grateful. He curled his fingers inside her, thick and sure, crooking against the place that whitened the edges of the fluorescent light. The heel of his palm ground slow while the automated patience on the line waited for a decision her body was already trying to make. Her free hand braced on the pie case glass, cold under her palm.
 

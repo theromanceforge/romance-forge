@@ -69,7 +69,7 @@ Harborwick rain thickened until the porch became a stage with three actors and o
 
 William Akers took Owen Vale's porch steps like a man who had kicked doors and regretted one of them—and like a man who still wanted [player_name] under his hands from a pier almost that science or rain had left unfinished.
 
-She walked half a pace ahead with Cho's ME report fisted—unidentified, timing lean, charm maybe, hope ugly. Badge on the boards by her choice. Dread and hope climbing. Renny open as lab tray and charm gap. Will's mid-thirties bulk filled butter light: scar, dark coat, brutal charm locked to steel. His hand brushed the small of her back—heat through wet cloth, not professional—and fell away as if Ellison watched from hedges. [player_name]'s cunt answered the brush anyway, traitor to the hour.
+She walked half a pace ahead with Cho's ME report fisted—unidentified, timing lean, charm maybe, hope ugly. Badge on the boards by her choice. Dread and hope climbing. Will's mid-thirties bulk filled butter light: scar, dark coat, brutal charm locked to steel. His hand brushed the small of her back—heat through wet cloth, not professional—and fell away as if Ellison watched from hedges. [player_name]'s cunt answered the brush anyway, traitor to the hour.
 
 "You sure?" low, sex-rough under detective flat.
 
@@ -83,21 +83,21 @@ Owen opened. Denial loading. Eyes found badge, her face, Cho paper—math that l
 
 Will's cracked notebook: courtesy and threat. "Conversation on linoleum while hope works—or downtown with Ellison smelling clearance. She asked me up these steps. Only reason I am not reading harder."
 
-Owen thin-laughed. "She scrubbed family off your pages seven years. Now she burns the house for silt without Renny's name—and for a man who looks at her like he wants to fuck the grief out of her."
+Owen thin-laughed. "She scrubbed family off your pages seven years. Now she burns the house for silt without Renny's name—and for a man who looks at her like he owns the grief."
 
 Will's charm went wound-sharp. "Unidentified. I will not print a sister on bone. I will ask where you were when debris calls you a liar. I will ask who stood with you on the pier—because she finally stopped scrubbing that silhouette. Careful how you talk about her body. That topic is not yours."
 
-Kept secret hit porch air. [player_name] felt it leave like heat and almost came from the relief—filthy, wrong, true. Will looked at Owen like he hated artisan liars. Attraction flared: believed in public, detective at her back, rain ticking, foghorns distant, Renny's absence in the shoe-mat gap. Owen's hand whitened on the frame. "Not enough for cuffs."
+Kept secret hit porch air. [player_name] felt it leave like heat and almost came from the relief—filthy, wrong, true. Will looked at Owen like he hated artisan liars. Owen's hand whitened on the frame. "Not enough for cuffs."
 
-"Not yet." Brutal honesty. "Enough for a soft net—surveillance, phone work, patience that makes captains nervous and stepfathers sloppy. Or—" grey-green eyes on [player_name], asking, hungry "—she says escalate. Ellison thanks her. My sealed file rhymes with pushing early. Kids in hallways—" Joke died. Swallowed. "Your call. Soft or hard. I am the badge. You are why I am on this porch instead of a raid van with my cock still stupid for you."
+"Not yet." Brutal honesty. "Enough for a soft net—surveillance, phone work, patience that makes captains nervous and stepfathers sloppy. Or—" grey-green eyes on [player_name], asking, hungry "—she says escalate. Ellison thanks her. My sealed file rhymes with pushing early. Kids in hallways—" Joke died. Swallowed. "Your call. Soft or hard. I am the badge. You are why I am on this porch instead of a raid van with my head still stupid for you."
 
-She looked at Owen—bleach, too-clean hands, festival shoulders—and Will—scar, rain, the sealed past-smoke, want. Hope: bones maybe not Renny. Dread: Owen knows either way. Soft = time for hope, time for Owen to smash a phone, time for Will to stay near without cuff-clang, time for unfinished heat to become a door later. Hard = lean spent now, Ellison fed, family detonated, Renny unnamed on a precinct bench night.
+She looked at Owen—bleach, too-clean hands, festival shoulders—and Will—scar, rain, the sealed past-smoke, want. Dread: Owen knows either way. Soft = time for hope, time for Owen to smash a phone, time for Will to stay near without cuff-clang, time for unfinished heat to become a door later.
 
 "You sleeping with him?" Owen vicious. "Badge climbs for free?"
 
 "Careful," Will said, and the word was a hand on a throat without touching.
 
-"Do not." [player_name] to both. To Owen: "My cunt is not your alibi." To Will, quieter: "Your past is not my leash. The sealed past is your ghost. Renny is mine. Cho gave a crack. Watch it widen—or kick. I need the verb while I can still feel you at my back."
+"Do not." [player_name] to both. To Owen: "My cunt is not your alibi." To Will, quieter: "Your past is not my leash. The sealed past is your ghost. Cho gave a crack. Watch it widen—or kick. I need the verb while I can still feel you at my back."
 
 Will nodded, eyes saying he wanted Owen on the boards. Cracked knuckles flexed on notebook. "Soft = no cuffs tonight. I park. I listen. He thinks the lean is small. Hard = unit, porch theater over. You brought me. Finish the verb." He leaned to her ear, wool and soap and gun oil. "I want him downtown. I also remember what pushing early costs. You kept seven years. I kept five. Same shape. Help me not be Ellison's fear tonight—and later, if you still want, help me finish what the pier started."
 
@@ -105,19 +105,19 @@ The murmur licked her spine. She pressed her thighs together once under Owen's u
 
 Owen: "Soft means you haunt me. Hard means you own morning. Either way she loses breakfast-me. That what you want, kid—his badge in my house and his hands in your head?"
 
-"I want Renny's name off bone until science earns it." Voice shook, held, heat under it. "I want your pier-someone in a statement. I want Will to leave without another the sealed past rhyme if soft works—and I want him to cuff you if soft is bleach and stalling." She tasted rain and Will's nearness. "Ask soft surveillance—or let him cuff you now. Only doors left. And Owen? If he cuffs you, I am still going to want him after. Budget for that honesty."
+Voice shook, held, heat under it. "I want your pier-someone in a statement. I want Will to leave without another the sealed past rhyme if soft works—and I want him to cuff you if soft is bleach and stalling." She tasted rain and Will's nearness. "Ask soft surveillance—or let him cuff you now. Only doors left. And Owen? If he cuffs you, I am still going to want him after. Budget for that honesty."
 
 Silence. Fridge hum. Rain. Will waiting, charm raw, badge either temperature, cock and conscience in the same coat. Unidentified silence across the city. Hope and dread in butter light. [player_name] felt Harborwick ask which justice she could live with while wet for the detective holding both options in cracked hands.
 
-She looked from Owen's fear to Will's hunger-and-warning and felt the choice like a cuff clicking open or shut between her legs as much as in her chest. Soft net. Or hard steel. Renny contested. The porch would not forgive a soft lie—and neither would her body, which had already chosen Will's gravity and was only waiting to learn whether justice came gentle or biting tonight.
+She looked from Owen's fear to Will's hunger-and-warning and felt the choice like a cuff clicking open or shut between her legs as much as in her chest. Soft net. Or hard steel. The porch would not forgive a soft lie—and neither would her body, which had already chosen Will's gravity and was only waiting to learn whether justice came gentle or biting tonight.
 
-A car passed slow—possible unit—and Will's posture changed, raid-memory in muscle. [player_name] saw the sealed past in the fraction and wanted to put her mouth on his throat for trying soft when hard would feed captains. Loving a badge was a soft contradiction that lived between her legs. Cho would not romanticize it. Renny would have rolled her eyes if Renny still had eyes that were not maybe silt.
+A car passed slow—possible unit—and Will's posture changed, raid-memory in muscle. [player_name] saw the sealed past in the fraction and wanted to put her mouth on his throat for trying soft when hard would feed captains. Loving a badge was a soft contradiction that lived between her legs. Cho would not romanticize it.
 
 "Decide," Will said, not unkind, voice scraping her nerves. "Rain is not warmer. Neither is Ellison. Neither am I, standing this close without touching you the way I want."
 
-Owen's porch had hosted birthdays and the night Renny did not come home. Tonight: lean and fork and [player_name]'s pulse hammering for justice and for Will. She folded UNIDENTIFIED into her fist like a charm. Soft surveillance—haunt, wait, keep wanting him through stakeout hours. Or cuffs now—steel, Ellison fed, family broken, heat spent as aftermath against a precinct wall if she was reckless enough. She had brought Will to the door. Now she had to tell him what the door was for while her cunt and her grief shared one soaked, unbearable verdict.
+Tonight: lean and fork and [player_name]'s pulse hammering for justice and for Will. She folded UNIDENTIFIED into her fist like a charm. Soft surveillance—haunt, wait, keep wanting him through stakeout hours. Or cuffs now—steel, Ellison fed, family broken, heat spent as aftermath against a precinct wall if she was reckless enough. She had brought Will to the door. Now she had to tell him what the door was for while her cunt and her grief shared one soaked, unbearable verdict.
 
-She thought of Renny's hoodie, festival charms, the empty link—and of Will's hand on her back, of pier almosts, of how soft net meant nights in a dark car with him smelling like want while Owen twitched. Hard cuffs meant booking-room aftermath, maybe Will's mouth on hers in a stairwell after, grief and lust braided while Renny stayed unnamed. Soft = leash Will held instead of steel, phone unbroken, town unleft, pier-someone uncalled—and [player_name]'s cunt learning stakeout patience against his thigh if she was shameless. Hard = narrative by morning, hope under numbers, the sealed past rhyme risked for clearance.
+Soft = leash Will held instead of steel, phone unbroken, town unleft, pier-someone uncalled—and [player_name]'s cunt learning stakeout patience against his thigh if she was shameless. Hard = narrative by morning, hope under numbers, the sealed past rhyme risked for clearance.
 
 "If we go soft," she said, voice rough, "no destroyed phone. No leaving town. No calling the pier-someone. Soft is not free. Soft is a leash I ask Will to hold instead of steel—and I am asking while wet for him, so do not invent purity you can use."
 
@@ -127,7 +127,7 @@ Will did not rise. Knuckles whitened, eased—restraint as charm. "She asked. I 
 
 Rain thickened. Porch as stage: three actors, ghosts too many, [player_name]'s pulse in throat and clit. Unidentified fourth presence. Hope breathed. Dread bit. Temperature choice before Ellison, Owen's fear, Will's sealed past picked it. Soft surveillance—haunt, ache, wait. Or cuff now—steel, heat spent as aftermath. Door open on both futures. Butter light. Will's eyes asking. Her body already answering yes to him and only deciding which justice came with the yes. Will waited in the butter light with rain on his scar and want in his silence and both temperatures of justice ready in his cracked hands.
 
-Soft surveillance meant another night of stakeout heat with Renny unnamed and Owen un-cuffed and Will's cock a patient threat in the dark. Cuffs now meant steel and spectacle and no place left for the unfinished almost between them. Both doors hurt. Her body already knew which one made her wetter—and which one might save a sister who was still only a question.`,
+Cuffs now meant steel and spectacle and no place left for the unfinished almost between them. Both doors hurt. Her body already knew which one made her wetter—and which one might save a sister who was still only a question.`,
   choices: [
     { id: "scene6h", text: "Ask Will for soft surveillance", textHot: "Ask Will for soft surveillance" },
     { id: "scene6i", text: "Let him cuff Owen now", textHot: "Let him cuff Owen now" }

@@ -75,11 +75,11 @@ Henry looked at [player_name] as if seeing the price written in real time. The w
 
 Rain softened to mist on the windows. Clara's breath sounded loud in the archway.
 
-John's hand found [player_name]'s, brief and fierce and public. Then, for her alone, his thumb stroked the inside of her wrist over her pulse, a filthy little metronome. "Then you'll say it again tomorrow, where Clara can write it down. Tonight you don't get to explain it into softness. No debts tidied into metaphors. Just the yes."
+John's hand found [player_name]'s, brief and fierce and public. Then, for her alone, his thumb stroked the inside of her wrist over her pulse, a private little metronome. "Then you'll say it again tomorrow, where Clara can write it down. Tonight you don't get to explain it into softness. No debts tidied into metaphors. Just the yes."
 
 Henry nodded, eyes wet, mouth shut. The silence that followed wasn't the old quiet. The old quiet had been a construction: polished furniture, rehearsed weather talk. This was a man without a script. The mantel clock ticked like a verdict while John's thumb kept time on her pulse.
 
-"I carried what you asked," [player_name] told Henry. "I became the exit wound so John wouldn't have to watch the whole of it. I practiced wanting more in cities that never smelled like boxwood. And I still woke wet for him. I still came with his name in my teeth when I was alone enough to be honest."
+"I carried what you asked," [player_name] told Henry. "I became the exit wound so John wouldn't have to watch the whole of it. I practiced wanting more in cities that never smelled like boxwood."
 
 She held Henry's eyes. "I'm done being the cleaner story. He spoke because I asked him to. That doesn't absolve either of us. It only means the lie has a name in this room at last, and wanting him is no longer something I have to hide behind ambition."
 
@@ -87,7 +87,7 @@ Clara stepped forward with her sketchbook open to a margin study: the station pl
 
 Henry's mouth trembled toward a smile that failed. "I won't. I may still fail at the uglier lines. The debts, the names, the glove box I still flinch to open even in my own mind. But I won't call her ambition again."
 
-John's palm settled flat at the small of her back under her coat. He turned to her with a question that wasn't about Henry at all.
+John's palm settled flat at the small of her back. He turned to her with a question that wasn't about Henry at all.
 
 "Come outside with me," he said, rough. "Or stay and take what else he'll give tonight. I'll follow either way. I only know I can't stand in this room much longer without wanting to break that paperweight just to hear something honest shatter. Or without wanting to push you up against the wet boxwood and finish what the hill started."
 

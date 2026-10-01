@@ -59,9 +59,9 @@ Rain-soaked leaves dragged cold along [player_name]'s spine as John backed her i
 
 [player_name] gasped into his mouth. Boxwood scraped her shoulder. Woodsmoke braided through the wet and somehow made the grind of his thigh worse. Filthy timing, against a house full of unfinished guilt. She hooked a leg around his and dragged him closer until the seam of her jeans rode his muscle and a bright, humiliating pulse lit her clit. Water ran into her collar. She arched into the cold and the heat at once.
 
-"Clara has keys," she managed.
+"Someone up there has keys," she managed.
 
-"Then she can wait while I ruin you politely in a hedge," John said, his laugh cracking. His hand pushed under her coat and sweater and found bare skin at her waist. It climbed. His palm spanned her ribs, then cupped her breast over the bra, his thumb stroking the peaked nipple until she arched with a sound that had no elegance. He tugged the cup down. Rain-cold air, then his fingers pinching, rolling. "Christ. You came out here soaked already. I'm going to find out with my fingers before Henry invents a verdict."
+"Then they can wait while I ruin you politely in a hedge," John said, his laugh cracking. His hand pushed under her coat and sweater and found bare skin at her waist. It climbed. His palm spanned her ribs, then cupped her breast over the bra, his thumb stroking the peaked nipple until she arched with a sound that had no elegance. He tugged the cup down. Rain-cold air, then his fingers pinching, rolling. "Christ. You came out here soaked already. I'm going to find out with my fingers before Henry invents a verdict."
 
 He popped the button of her jeans. Zipper. Cold air. His hand slid into her underwear and found her slick, swollen, embarrassingly ready for a stolen hour. Two fingers parted her. The middle one rubbed a slow, exact circle over her clit that whitened the edges of the kitchen light. She bit his shoulder through wet wool to keep from crying out toward the upstairs window.
 
@@ -79,9 +79,9 @@ John groaned. He stretched her with a patience that felt like cruelty. His other
 
 Her head tipped back into the wet leaves. Pleasure coiled low and mean. She was close already. Then she caught his wrist and made him stop.
 
-"Wait. Clara," she forced out. "The keys. If we vanish into your bed while she walks into Henry alone—"
+"Wait. The keys," she forced out. "If we vanish into your bed while someone walks into Henry alone—"
 
-"I know." He eased the rub just enough that speech could return, though his cock stayed a blunt insistence against her hip. His fingers stayed inside her, counting her pulse from the inside. "Cut the hour short and I walk into that kitchen with you still on my hand. I'll still be hard. I'll still want to bend you over the first flat surface that isn't a hedge. But my sister doesn't face Henry's silence alone."
+"I know." He eased the rub just enough that speech could return, though his cock stayed a blunt insistence against her hip. His fingers stayed inside her, counting her pulse from the inside. "Cut the hour short and I walk into that kitchen with you still on my hand. I'll still be hard. I'll still want to bend you over the first flat surface that isn't a hedge. But nobody faces Henry's silence alone."
 
 The upstairs light stayed on. John cursed and pressed his forehead to [player_name]'s, breath shaking, fingers still buried while rain sheeted the slate. The wet sound of his hand working her. Freight complaining in the yard. Stopping would hurt. Continuing would cost something neither of them could tidy. [player_name] clenched around him once, deliberately, and watched his eyes go dark.
 

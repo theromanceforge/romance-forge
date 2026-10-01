@@ -71,7 +71,7 @@ Henry's unsent ink sat half-alive on the blotter. John's absence sat heavier. [p
 
 Clara had gone down to the front porch to watch the lane for Henry's truck. "Shout if you find anything," she had said. "I'll shout if he turns in." Her footsteps faded down the stairs. The front door clicked. [player_name] was alone with the stuck left drawer, the rain on the window, and the wet boxwood pressed to the glass.
 
-Her bra seam rubbed every time she breathed too deep. Her nipples were tight under lace, as if the house were teasing her for arriving without John. Wanting him ran under her coat like a second pulse. She could still feel the ghost of his thigh against hers, still taste coffee and the almost-kiss. John was not here. The absence made her wet anyway.
+Wanting him ran under her coat like a second pulse. She could still feel the ghost of his thigh against hers, still taste coffee and the almost-kiss. John was not here.
 
 The drawer fought. She put her weight into it the way she wanted to put her mouth on him, with no polite stop when it resisted. Wood complained. Paper whispered. The folder inside was thinner than Clara's find, dressed as nothing, Henry's favorite costume for ugliness. [player_name] clicked the desk lamp on and opened the folder on the blotter.
 

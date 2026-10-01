@@ -72,7 +72,7 @@ She lifted the sketchbook. "I drew the gap before the papers named it. Rain. A c
 
 Henry's mouth twitched. "She forced my hand. The letter was late courage. This—" the papers, the cold tea "—is late courage out of euphemism."
 
-[player_name] went to the table and looked under the glass. A winter name. A charcoal study of hands open as if dropping too much weight. She thought of John's hands: the burn scar, the mint from the register, how they would feel on her waist if she walked into the diner with open hands. How his cock would feel if open hands became hands under his shirt, if Henry's speech bought her the right to be filthy and honest in the same night.
+[player_name] went to the table and looked under the glass. A winter name. A charcoal study of hands open as if dropping too much weight. She thought of John's hands: the burn scar, the mint from the register, how they would feel on her waist if she walked into the diner with open hands.
 
 "You asked me to leave so he wouldn't see the whole of it," she said. "I did. I practiced wanting more until the practice became a life. I'm not sure who the silence protected. John, you, or Somerton's neat story about itself."
 
@@ -86,7 +86,7 @@ Clara stepped fully into the room. Her margins were crowded with the blue door, 
 
 "I know where he tucked the rest," she said. "False panel in the desk. Envelope taped under the bottom drawer. The schoolbook he thought was only mine. If you want the map instead of his speech, I'll give it to you. If you want John first, I'll wait. Another hour won't kill me. It might kill the tidy version. Good." A ghost of a smile. "And he's been wiping the same stretch of counter since dusk. Like a man waiting for a woman, not a rumor."
 
-The diner's closing hour beat in [player_name]'s bones like a second clock. She pictured walking into that steam with Henry's confession warm on her tongue and her body already half-undone. Open hands on John's chest, or open hands offering paper. Either way close enough to smell his skin. Close enough that the truth might end with her back against the pie case and his mouth on her throat.
+The diner's closing hour beat in [player_name]'s bones like a second clock. She pictured walking into that steam with Henry's confession warm on her tongue and her body already half-undone. Open hands on John's chest, or open hands offering paper. Either way close enough to smell his skin.
 
 Henry waited. Clara waited. The taped envelope waited under a drawer an arm's length away. Between [player_name]'s legs, traitorous and alive, her body had already voted for John, and her mind was still weighing the dark corners of the house.`,
   choices: [

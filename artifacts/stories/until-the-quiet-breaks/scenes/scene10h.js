@@ -37,11 +37,11 @@ Behind the counter, [player_name] felt the knowing like hands on her skin every 
 
 "You don't have to smile," he murmured, low enough that only she heard. His palm claimed the small of her back under her apron for a moment, fingers flexing once in promise. "Just stay in the room. Tonight I'll have you like they already know you're mine, because they do. Open secret. Closed door. My mouth where their gossip can't reach."
 
-Heat punched through her mid-shift. Public noise, private throb. She pressed her thighs together under her skirt and plated orders with hands that wanted his belt instead. "I'm staying," she said, and meant later as much as now.
+Heat punched through her mid-shift. She pressed her thighs together under her skirt and plated orders with hands that wanted his belt instead. "I'm staying," she said, and meant later as much as now.
 
 They endured Mae's too-bright questions, the careful-cruel neighbor, the stares that stuck harder than the blue door. John answered yes without decorating it. [player_name] served pie and kept her face still. Clara swung through in the afternoon, taped a sketch of the open blue door above the coffee machine, and went home to Willow.
 
-Lockup came like a starting gun. John shoved the CLOSED sign into place, backed [player_name] against the blue door, and kissed her hard. Tongue, teeth, the grind of him against her belly through their clothes. "Open secret," he growled. "They know about Henry. They don't get to know how wet you are for me. That's ours. Say you want it."
+Lockup came like a starting gun. John shoved the CLOSED sign into place, backed [player_name] against the blue door, and kissed her hard. Tongue, teeth, the grind of him against her belly through their clothes. "Open secret," he growled. "They know about Henry. That's ours. Say you want it."
 
 "I want it," she breathed. "Take the noise out of my head. Leave the truth. Take everything else."
 

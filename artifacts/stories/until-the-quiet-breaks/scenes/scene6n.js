@@ -57,7 +57,7 @@ And under the cold, filthy and loyal and wrong-timed, [player_name] kept thinkin
 
 "Read it with your mouth," Clara said, charcoal under her nails. "If you only look, Henry gets to keep it quiet. Say the ugly so it can't crawl home and call itself protection."
 
-[player_name] read. Dates. Debts. The hospital ask. Voss, like a bruise you press to prove it still hurts. Her own younger yes in the margin made her clench with humiliating timing. Memory and shame and want, sharing a bloodstream the way John's fury and arousal always did. She kept her voice steady while her nipples peaked in the cold and her underwear lost an argument with adrenaline.
+[player_name] read. Dates. Debts. The hospital ask. Voss, like a bruise you press to prove it still hurts. Her own younger yes in the margin made her clench with humiliating timing.
 
 Clara watched her face the way she watched a sketch take shape. Ruthless. Tender. Unwilling to look away when the line went wrong. Rain hammered the shed roof.
 
@@ -65,13 +65,13 @@ Clara watched her face the way she watched a sketch take shape. Ruthless. Tender
 
 "Two roads," [player_name] said. "Photograph every page, insurance Henry can't burn. Or walk the original into his kitchen and confront him while the ink is still cold."
 
-She stood. Her thighs were slick where the denim pressed, her pulse loud between her legs. She paced the aisle between the crates and felt every step as friction. If she confronted Henry, she would go to John after with the smell of this shed still on her skin. She would ask him to take her apart for leaving him out.
+She stood. She paced the aisle between the crates and felt every step as friction. If she confronted Henry, she would go to John after with the smell of this shed still on her skin. She would ask him to take her apart for leaving him out.
 
 "I am afraid photographing is cowardice with a camera roll," she said. "I am afraid confronting is theater that burns the house. I am afraid John will see either choice as another woman scripting his life. And I am still going to choose, because waiting for a fearless hour and a clean conscience is how Henry wins another decade."
 
 Clara rose, fierce in the bulb's swing. "Then choose. Before his truck comes back smelling like invented errands. Before the bulb dies. Before waiting for perfect courage turns into another cover story with better lighting."
 
-The pages fluttered. Face-up. [player_name]'s clit throbbed in time with the rain. She could copy every wound for safekeeping while soaked and shaking. Or she could carry the original into Henry's kitchen, make him look, then go find John hard and furious and unfinished, the ledger's cold ink still on her hands when she reached for his belt.
+The pages fluttered. Face-up. She could copy every wound for safekeeping while soaked and shaking. Or she could carry the original into Henry's kitchen, make him look, then go find John hard and furious and unfinished, the ledger's cold ink still on her hands when she reached for his belt.
 
 She tasted rain on her lip and the ghost of John's coffee-bitter kiss. Her palm pressed flat to the ledger as if she could pin the winter in place. Photographing meant twenty minutes bent over these pages while her body counted the minutes until she could get to her knees for him and apologize for the order with her mouth. Confronting meant walking into Henry's woodsmoke with proof and coming out needing John so badly she couldn't pretend it had only been righteous.
 
@@ -79,11 +79,11 @@ She tasted rain on her lip and the ghost of John's coffee-bitter kiss. Her palm 
 
 "Now," Clara whispered. "Before courage cools. Before Henry invents morning. Before I photograph it myself and resent you for making me the adult."
 
-[player_name] crouched again, because standing made the denim seam press her clit in a rhythm that threatened to turn justice into a private emergency. Oilcloth filled her nose. She framed the first page with her phone light and didn't press yet. The not-pressing made her hands shake worse.
+Oilcloth filled her nose. She framed the first page with her phone light and didn't press yet. The not-pressing made her hands shake worse.
 
 "You're stalling," Clara said, not unkind. "Either start the photos or pick up the book and walk."
 
-Wind slammed the siding. The bulb flickered. [player_name] pictured walking into Henry's kitchen with the original. Then John shoving her against the blue door afterward, belt, hands, mouth, fucking the confrontation out of her spine until she said his name like a verdict. She pictured the camera roll instead, cold and careful, and John's fury at being archived out of the first look. Both pictures left her wet. Only one could be spent now.
+Wind slammed the siding. The bulb flickered. [player_name] pictured walking into Henry's kitchen with the original. She pictured the camera roll instead, cold and careful, and John's fury at being archived out of the first look. Only one could be spent now.
 
 The shed air tasted like rust and old rope. She rolled her shoulders and let the cold keep her honest. Clara waited. The ledger waited. Rain wrote impatient sentences on the tin roof.
 

@@ -47,7 +47,7 @@ They lay sticky and quiet. Then she climbed down and took him in her mouth while
 
 After, he cleaned her with a warm cloth like tenderness was a closing procedure. At the door he kissed her once more—soft, not claiming. "Go free," he said, cock spent, heart loud in his throat. "I'll respect it in the morning when it hurts worse."
 
-She left with her body still remembering him and her ticket honest. Harborwick fog took the street. The ending was want honored and freedom kept—no leash dressed as love, no betrayal in the goodbye fuck, just William Akers letting [player_name] leave with Renny's truth spoken and her cunt still aching sweetly from a man who knew how to release a hand.
+She left with her body still remembering him and her ticket honest. Harborwick fog took the street.
 
 In the rideshare to the station her thighs still hummed; she pressed them together and tasted Will on her tongue from the goodbye and did not regret the ache. Freedom included carrying pleasure out of the city that had taught her silence. She boarded sore in the best temporary way, bracelet gap cold, cunt tender, heart bruised clean.
 

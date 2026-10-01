@@ -14,7 +14,7 @@ Her coat, too thin for the cold. The station boards dark with rain. Henry's hand
 
 Piece by piece they rebuilt the night until it stood between them in the steam, ugly and shared, missing teeth, but finally belonging to both of them. John rested his forehead against the shelf above her. His breath warmed her hair.
 
-"I can survive this better if it's ours first," he murmured. "Henry can have tomorrow. Clara can have the papers. Tonight I want the version that lived in my chest when I was half a boy and you were crying on the steps."
+"I can survive this better if it's ours first," he murmured. "Henry can have tomorrow. Clara can have the papers. Tonight I want the version that lived in my chest when I was twenty and you were crying on the steps."
 
 She lifted her face. Almost a kiss. A shared breath instead, more intimate for the restraint, mouths close, eyes open.
 
@@ -67,7 +67,7 @@ A knock sounded on the blue door. Firm, familiar, not a customer's rattle. John 
 
 The letter in [player_name]'s pocket felt like a third pulse. He jumped in her fist, and she squeezed once in answer, refusing to let the knock steal the rebuild.
 
-"We can pretend we didn't hear," John said. His hand closed over hers around him and stilled her stroke without taking her away. "Or we open up and make him stand in what we just made. Or we lock it and finish this first." His breath was ragged. "I'm still hard. You're still wet. The knock doesn't get to decide for us unless we let it."
+"We can pretend we didn't hear," John said. His hand closed over hers around him and stilled her stroke without taking her away. "Or we open up and make him stand in what we just made. Or we lock it and finish this first." His breath was ragged. "I'm still hard. The knock doesn't get to decide for us unless we let it."
 
 Another knock. John tucked himself away with visible effort, buttoned enough for dignity, and kept his hands on her waist like a vow. A moment later Clara appeared in the hall mouth, menus hugged to her chest, eyes wide.
 

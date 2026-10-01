@@ -47,7 +47,7 @@ Henry didn't step forward. He didn't step back. He waited with the patience of d
 Rain drummed the awning. The empty stool creaked, as if Somerton furniture had opinions. John's hand stayed warm at her back through the wool, and [player_name] drew breath to decide who would speak first before Henry found the voice that turned everything soft.`,
   textHot: `The blue door stuck, then yielded, and the draft that came in with Henry did nothing to cool what the hall had started.
 
-Rain and woodsmoke entered on his coat. His umbrella dripped onto the mat. [player_name] felt John's hand spread at the small of her back, bracing and claiming, his thumb stroking once at the edge of her waistband like a secret the threshold wasn't invited to hear.
+Rain and woodsmoke entered on his coat. His umbrella dripped onto the mat. [player_name] felt John's hand spread at the small of her back, bracing and claiming, his thumb stroking once at her spine like a secret the threshold wasn't invited to hear.
 
 The hall still lived in her mouth. The station steps they had rebuilt together. His knee between hers by the dish pit. His hardness admitted and left unfinished when the knock arrived. Now Henry stood in the gap smelling of Willow and fear. Clara hugged the menus hard. The CLOSED sign watched the street. [player_name] was still tender from wanting, and her past was dripping on the linoleum like it had a body.
 
@@ -55,9 +55,9 @@ The hall still lived in her mouth. The station steps they had rebuilt together. 
 
 John's laugh was quiet and sharp. "You're dripping on my mat. That's entry enough until we say otherwise."
 
-He stayed close behind her. Close enough that she felt he was still half-hard from the hall, anger and arousal refusing to file into separate drawers just because family had knocked. "We rebuilt the night you shipped her out. Our scraps. You stand in that, or you stay on the threshold rehearsing mercy."
+He stayed close behind her. "We rebuilt the night you shipped her out. Our scraps. You stand in that, or you stay on the threshold rehearsing mercy."
 
-Henry's eyes flicked from John to [player_name] to the nearness between them, and something in him understood he had interrupted more than talk. Good. Let him see it. [player_name] didn't step away from John's body. Her nipples were still tight from the almost-kiss and the rain draft. The bra lace scraped when she breathed, and she let the scrape be honest.
+Henry's eyes flicked from John to [player_name] to the nearness between them, and something in him understood he had interrupted more than talk. Good. Let him see it. [player_name] didn't step away from John's body.
 
 "He can drip all night," Clara said, her voice shaking only if you knew her. "Or I tell him what I found before he softens it. I didn't break a desk open for umbrella manners."
 
@@ -67,33 +67,33 @@ John's breath warmed her ear: agreement, hunger, warning. His fingers dug once i
 
 "I'm out of swallowable stories," Henry said. "I used you. I used a sentence the town could swallow. Clara's charcoal and my cowardice share a deadline."
 
-"Then wait while we decide who talks," John said. He shifted closer, and [player_name] felt the thick line of him against the curve of her ass through her coat. Shameless. Accidental, then not. "You've had fifteen years."
+"Then wait while we decide who talks," John said. Shameless. Accidental, then not. "You've had fifteen years."
 
 [player_name] reached back and caught his wrist, holding him there. Not stopping the press. Owning it. Her body clenched at the pressure anyway, traitor and compass.
 
-She could have turned and kissed him in front of Henry, marked the night as theirs with tongue and teeth. The fantasy arrived so vivid her mouth parted. She didn't. Not yet. But when John's cock twitched against her through coat and denim, she pushed back a fraction on purpose, a filthy private answer, and heard his breath catch like a man reminded he wasn't only a nephew in a morality play.
+She could have turned and kissed him in front of Henry, marked the night as theirs with tongue and teeth. The fantasy arrived so vivid her mouth parted. She didn't. Not yet.
 
 "Threshold or linoleum," she said, loud enough for the room. "We don't do limbo. Limbo is how Shaws drown."
 
-In the hall, before the knock, John had admitted he wanted her mouth once the scraps were spoken. She had held the line, memory before mouth, and her body had filed a complaint she was still hearing. Now Henry's umbrella counted out seconds she could have spent with John's tongue on her nipple and his fingers inside her jeans. Resentment, lust, and family dread braided together. She let the braid show in how she leaned into John's chest, and she didn't smooth her face into niece-polite for the man on the mat.
+In the hall, before the knock, John had admitted he wanted her mouth once the scraps were spoken. She had held the line, memory before mouth, and her body had filed a complaint she was still hearing. Resentment, lust, and family dread braided together. She let the braid show in how she leaned into John's chest, and she didn't smooth her face into niece-polite for the man on the mat.
 
 "You interrupted," she told Henry plainly. "Not just a talk. I'm not ashamed of what you walked in on. I'm ashamed of the years I let your story keep our hands empty. If you come in, you come into a room where I'm done pretending desire and truth work different shifts."
 
-Henry flinched, small and human. John's forehead dropped briefly to the back of her head, then lifted. His hand slid under her coat, palm spanning her stomach over her shirt, fingers splayed just above her waistband where the heat pooled. Hidden by wool. Indecent enough for an uncle who had edited her into exile.
+Henry flinched, small and human. John's forehead dropped briefly to the back of her head, then lifted. His hand stayed at her back. Hidden by wool. Indecent enough for an uncle who had edited her into exile.
 
 "Christ," John murmured into her hair, almost inaudible. "Decide before I forget he's here and take you into the walk-in."
 
-The fantasy hit. Cold air, his mouth, her back against crates, jeans at her thighs, his cock driving into her while Henry waited on the mat. She rejected it, because heat had to move them forward, not erase what came next. Still she clenched. Still she felt herself soak the seam of her underwear in a slow, humiliating pulse.
+The fantasy hit. She rejected it, because heat had to move them forward, not erase what came next. Still she clenched.
 
 John's mouth brushed her ear, rough enough to count as a touch. "Your call. I can let him past, and we refuse every soft edge with my hand on you. Or Clara speaks first, and I stand beside you while she does. Either way I'm not polite. Either way, you don't get to step forward and pretend your thighs aren't still shaking."
 
-She squeezed his wrist. The rain draft cooled her lip and did nothing lower. She thought of Clara's charcoal. Henry's letter against her ribs. John upstairs after this, finishing what the knock had stolen.
+She squeezed his wrist. The rain draft cooled her lip and did nothing to the heat. She thought of Clara's charcoal. Henry's letter against her ribs. John upstairs after this, finishing what the knock had stolen.
 
 Henry waited on the mat. Clara waited with bent menus. The blue door stayed ajar.
 
 "Decide," Clara whispered. "I'm done being furniture."
 
-[player_name]'s pulse hammered against John's fingers. Rain dripped from Henry's coat like a clock with bad manners. And the place between her legs, which had never learned to wait politely for family, throbbed while she opened her mouth to say who would speak first.`,
+[player_name]'s pulse hammered against John's fingers. Rain dripped from Henry's coat like a clock with bad manners.`,
   choices: [
     { id: "scene6d", text: "Let Henry in — refuse every soft edge of the truth", textHot: "Let Henry in — refuse soft edges while John's hands stay on you" },
     { id: "scene6n", text: "Let Clara answer — she found the crack", textHot: "Let Clara answer — keep John close while her charcoal speaks" }

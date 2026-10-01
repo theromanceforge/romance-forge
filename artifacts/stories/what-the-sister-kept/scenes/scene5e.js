@@ -38,7 +38,7 @@ Will froze with his mouth open on her pulse. Brutal charm as restraint again—t
 
 Rain sheeted the black planks. The evidence tag wept ink into memory. [player_name] felt Harborwick ask her which almost she would spend: deepen the kiss past every tape the case had ever hung—finish it despite the line, despite Cho, despite the captain's leash—or break away and let the ME's call cut the hour open while her mouth stayed swollen and unfinished.
 
-Will drew back just enough to see her. Water ran off his scarred brow. His cracked notebook dug into her hip where it lived in his coat, overuse made physical. "Your sister is still a question," he said, low. "Owen is becoming an answer with edges. I am a badge with a past who just put his mouth on a familial contact at a charm-find site. Choose before I stop being able to."
+Will drew back just enough to see her. Water ran off his scarred brow. His cracked notebook dug into her hip where it lived in his coat, overuse made physical. "Owen is becoming an answer with edges. I am a badge with a past who just put his mouth on a familial contact at a charm-find site. Choose before I stop being able to."
 
 A gull screamed over the channel and vanished into fog. [player_name] tasted him still—coffee, rain, the metallic edge of almost becoming yes. Seven years of kept detail pressed up behind her teeth: Owen near this pier with someone who should not have been there; the friends story swallowed; the statement scrubbed clean of stepfather silhouettes. Kissing Will did not erase the kept night. It only made the cost of keeping it louder, because now there was a man who hated lies standing inside her pulse with his own sealed silence for company.
 
@@ -59,7 +59,7 @@ Will did not pocket the phone. He held the almost and the ringtone in the same s
 
 His lips were cold then hot. Coffee, salt, gun oil under soap. Scarred brow brushing her forehead—mid-thirties, coat soaked, brutal charm cracking into a groan she felt in her clit. She tasted detective and wound. Foghorns answered. Chain-link shivered. His thigh drove between hers and she rocked on it once, shameless, rain making a slide of her collarbones while heat pooled low and mean.
 
-Will cursed into her mouth and walked her into the ferry-slip rail. Hand in her hair. Not careful. Crime-scene tape only memory—UNIDENTIFIED / PENDING ID—but the line lived in how hard he was against her hip and how hard she was trying not to grind. Witness. Badge. Mid-twenties. Mid-thirties. Hope and dread sharing soaked boards while Renny stayed contested bone upriver, unnamed, and [player_name]'s body still chose Will's tongue over sense.
+Will cursed into her mouth and walked her into the ferry-slip rail. Hand in her hair. Not careful. Crime-scene tape only memory—UNIDENTIFIED / PENDING ID—but the line lived in how hard he was against her hip and how hard she was trying not to grind. Witness. Badge. Mid-twenties. Mid-thirties.
 
 "Fuck—Ellison—"
 
@@ -69,41 +69,41 @@ He laughed against her teeth—dangerous, tender, ruined—and his palm found he
 
 "Not silence." Breathless. "Tired of it. Including yours. Including the sealed shit in your ribs."
 
-His hand spasmed near his side—Solis flinch—and the raid wound rose between them without the name fully spoken. Nina. Partner. Hallway. Teenager. Chaos he ordered. Sealed IA. Ellison's *Not another the sealed past* still smoking. Kissing him was putting a hand on armor and finding him burning, cock hard, charm scraped raw. "Kids in hallways—" The joke died. He swallowed it like blood. "You should not trust a man who will not open his own file."
+His hand spasmed near his side—Solis flinch—and the raid wound rose between them without the name fully spoken. Nina. Partner. Hallway. Chaos he ordered. Sealed IA. Ellison's *Not another the sealed past* still smoking. He swallowed it like blood. "You should not trust a man who will not open his own file."
 
 "I don't trust you." Honest. Wet. "I want you. Different crimes." Her hand slid down and cupped him through denim—firm, deliberate—and his forehead dropped to hers with a sound that was not procedural. "I want this while the bones stay unidentified. While the charm is only *like*. While hope still has a throat. Do not make me name my sister to earn your mouth."
 
-"Christ." He kissed her like the distinction was fuel—tongue deep, hand shoving under her shirt to bare-skin waist, fingers spanning heat. She opened. Harborwick damp slid under clothes; Renny's absence pressed the edges; [player_name] fucked her tongue against his and refused to let upriver partials become Renny just because her cunt needed somewhere to put seven years.
+"Christ." He kissed her like the distinction was fuel—tongue deep, hand shoving under her shirt to bare-skin waist, fingers spanning heat. She opened.
 
-She thought of the hoodie in the drawer and the bracelet gap and Cho's careful *consistent with*, and still she ground against his thigh until friction sparked behind her navel. Will's free hand braced the rail beside her hip. His mouth dragged to her throat. Teeth. Not hard enough to mark for Ellison's eyes—hard enough that [player_name] whimpered and felt herself go slicker under rain-cold fabric. "You feel like a bad decision with a pulse," he muttered into her skin. "I collect those. Ask my sealed file."
+She thought of the case, and still she ground against his thigh until friction sparked behind her navel. Will's free hand braced the rail beside her hip. His mouth dragged to her throat. Teeth. Not hard enough to mark for Ellison's eyes—hard enough that [player_name] whimpered and felt herself go slicker under rain-cold fabric. "You feel like a bad decision with a pulse," he muttered into her skin. "I collect those. Ask my sealed file."
 
 "Then collect this." She guided his hand lower, over the button of her jeans, not inside—permission as threat—and watched his pupils blow. Brutal charm gone; only hunger and the raid-wound making him careful even while hard. He pressed the heel of his palm against her through denim and she jerked, mouth open on a sound the foghorn almost covered.
 
-Phone buzzed. Cho. He ignored it, palm working a slow filthy circle while his mouth returned to hers. Buzz insistent. ME timing that could gut Owen's alibi without printing Renny on bone. Unfinished kiss and ringtone sharing one soaked second while she throbbed against his hand.
+Phone buzzed. Cho. He ignored it, palm working a slow filthy circle while his mouth returned to hers. Buzz insistent. Unfinished kiss and ringtone sharing one soaked second while she throbbed against his hand.
 
 "Do not," she whispered—phone or stopping, both.
 
 Will froze with his mouth open on her pulse, cock pressed shameless to her hip, hand still cupped between her legs, restraint as brutal charm. Wound showing. "Cho. Timing. Owen's window. She will say unidentified. Soft contradiction. Lean. If I answer, this—" he pressed once, filthy punctuation "—becomes footnote. If I don't, Ellison calls it personal and the sealed past rhymes with another night I wanted more than the warrant."
 
-Rain sheeted. Evidence tag wept in memory. [player_name]'s lips swollen, nipples aching, cunt slick under his palm. Two hungers, both physical: finish the kiss despite every tape—take his mouth and the grind until she came against a detective's hand on a pier that remembered festival lights—or break away, call Cho, chase Owen's timing hole while Will's cock stayed hard and unfinished against her and hope kept its teeth.
+Rain sheeted. Evidence tag wept in memory.
 
-He drew back enough to see her. Water on scar. Notebook digging her hip. Voice sex-rough and case-sharp. "Your sister is still a question. Owen is getting edges. I just put my tongue in a familial contact at a charm-find site with my dick hard enough to hurt and my hand on your cunt through jeans. Choose before I stop being able to be a detective about it."
+He drew back enough to see her. Water on scar. Notebook digging her hip. "Your sister is still a question. Owen is getting edges. Choose before I stop being able to be a detective about it."
 
-A gull screamed. [player_name]'s body answered Will instead—pulse in her throat, pulse under his palm, rain making her clothes a second skin. Seven years of kept detail surged behind her teeth—Owen at this pier, someone wrong, statement scrubbed—and the surge made her wetter, angrier, more alive. Kissing him had not erased the secret; it had wired the secret into her clit until truth and orgasm threatened to arrive as the same confession.
+A gull screamed. [player_name]'s body answered Will instead—pulse in her throat, pulse under his palm, rain making her clothes a second skin.
 
-"If we finish," Will said, forehead to hers, hand not leaving, "I am going to need a door. A bed. Your truth after your orgasm, not instead of it. I am not noble. I am a badge who got a teenager hurt in a hallway I will not describe while I finger you through clothes in the rain. Help me know which ruin you want."
+"If we finish," Will said, forehead to hers, hand not leaving, "I am going to need a door. A bed. Your truth after your orgasm, not instead of it. I am not noble. Help me know which ruin you want."
 
-She could still taste him. Coffee. Rain. Threat. The lamp flickered. Precinct ghosts hummed at the edge of the hour—burnt coffee, Ellison's leash, clocks that measured how long families took to break. Renny's laugh lived in the rail's memory. Hope insisted that laugh might still exist somewhere that was not a lab. Dread insisted otherwise. [player_name]'s thighs shook around his hand either way.
+She could still taste him. Coffee. Rain. Threat. The lamp flickered. Precinct ghosts hummed at the edge of the hour—burnt coffee, Ellison's leash, clocks that measured how long families took to break. Hope insisted that laugh might still exist somewhere that was not a lab. Dread insisted otherwise. [player_name]'s thighs shook around his hand either way.
 
-Foghorn. Chain-link. His sealed past in his ribs. Renny in the bracelet gap. Phone blue between their bodies. She could finish the unfinished—filthy, complete, shove his palm harder until she came with yellow tape only a ghost between them—or let science interrupt what the case could not afford to make this personal, walk into Cho's timing with her cunt aching and his mouth a bruise through the briefing.
+Foghorn. Chain-link. His sealed past in his ribs. Phone blue between their bodies. She could finish the unfinished—filthy, complete, shove his palm harder until she came with yellow tape only a ghost between them—or let science interrupt what the case could not afford to make this personal, walk into Cho's timing with her cunt aching and his mouth a bruise through the briefing.
 
-She rolled her hips once against his palm, deliberate, and watched his jaw go tight. "You want a door," she said against his mouth. "I want a name that is not Renny on those remains and a stepfather who stops smelling like a soft contradiction. I also want you to keep touching me like the case is not allowed to have this minute. Can your brutal charm hold all three, Akers, or does the sealed past get a vote?"
+She rolled her hips once against his palm, deliberate, and watched his jaw go tight. "You want a door," she said against his mouth. "I want Cho's answer and a stepfather who stops smelling like a soft contradiction. I also want you to keep touching me like the case is not allowed to have this minute. Can your brutal charm hold all three, Akers, or does the sealed past get a vote?"
 
 "The sealed past does not get a vote." His voice went wrecked. "It gets a sealed file and a flinch and every night I wake up counting exits. You get my hand and my mouth and the part of me that knows kissing a witness in the rain is how captains build desks for men like me." He kissed her again—then stopped with their lips still brushing. "Last chance. Finish this past the tape, or I answer Cho and we both pretend my cock is not still hard while she talks timing."
 
 [player_name] felt the choice in her cunt and her chest at once: complete the rain's unfinished business, or break for science and let Owen's timeline take the hit while her body stayed furious and open. Yellow tape ghosted. Hope breathed. Dread bit. Will's thumb stroked once more between her legs through denim—promise or threat—and waited.
 
-Rain thickened until the lamp was a smear. [player_name] could smell the channel and Will's soap and the iron tang of old pier nails. Her nipples ached against wet cloth. His cock was a hard line she wanted in her hand again. The ME ringtone drilled on. Somewhere Ellison existed with a leash cut from a sealed raid. Somewhere Renny existed as absence or as bone or as a girl who might still walk out of fog. [player_name] had to choose which almost to kill while Will's breath fogged the inch between their mouths.
+Rain thickened until the lamp was a smear. [player_name] could smell the channel and Will's soap and the iron tang of old pier nails. Her nipples ached against wet cloth. His cock was a hard line she wanted in her hand again. The ME ringtone drilled on. Somewhere Ellison existed with a leash cut from a sealed raid. [player_name] had to choose which almost to kill while Will's breath fogged the inch between their mouths.
 
 Will did not pocket the phone. He held the almost and the ringtone and her heat in the same soaked hands, waiting on her mouth to choose which hunger got spent first. Harborwick rain kept writing want down her spine. The kiss hung unfinished mid-sentence the way the case hung mid-name, and leaving either way would hurt.`,
   choices: [

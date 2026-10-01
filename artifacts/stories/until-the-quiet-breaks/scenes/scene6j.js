@@ -109,7 +109,7 @@ Henry cleared his throat like a man who had heard enough heat to understand he w
 
 "Decide before I decide for you with a text," Clara called down the stairwell.
 
-Rain sheeted the glass. The mantel clock ticked like a metronome for wanting. [player_name] felt John's cock twitch against her when she breathed too deep. The choice was cash or exposure. Under both lived the unfinished pressure of his fingers at her thigh, and the knowledge that going gentle would kill them.
+Rain sheeted the glass. The mantel clock ticked like a metronome for wanting. The choice was cash or exposure. Under both lived the unfinished pressure of his fingers at her thigh, and the knowledge that going gentle would kill them.
 
 She pulled back enough to speak for the whole kitchen, though her pulse still hammered under his thumb. "Close the ledger with Henry in daylight, or refuse payment and drag Voss's debt into the open." Then, low, for John: "My body already voted for you either way. The vote that matters for Somerton is keys or noon."
 

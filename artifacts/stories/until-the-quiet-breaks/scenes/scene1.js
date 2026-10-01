@@ -9,7 +9,7 @@ export default {
 
 He wrote of weather. He wrote of the diner's blue door sticking again in the damp. He wrote of Clara sketching in the margins of old schoolbooks, as if the past could be redrawn if one pressed hard enough with charcoal. He did not write the thing that made her buy the ticket. He only left a silence large enough to walk into, and she had walked.
 
-Fifteen years. She had been twenty the last time these boards took her weight. John had been a boy with rain in his hair, waiting after school on the station steps: stubborn chin, grey eyes already practicing the stillness of men who stay. She had loved him in the unfinished way of people who believe they have time.
+Fifteen years. She had been twenty the last time these boards took her weight. John had been twenty with rain in his hair, waiting out his shift on the station steps: stubborn chin, grey eyes already practicing the stillness of men who stay. She had loved him in the unfinished way of people who believe they have time.
 
 She had left anyway. She had believed silence would protect him from a truth Henry asked her to carry alone. It was a winter truth about debts and an accident and a father's death that Somerton still refused to say aloud.
 

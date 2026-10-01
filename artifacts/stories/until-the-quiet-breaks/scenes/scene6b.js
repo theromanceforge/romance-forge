@@ -95,11 +95,11 @@ He kissed her once, hard and coffee-bitter, then tore back as if the kiss betray
 
 "Show me anyway," he said against her mouth. "Before this page owns you and my patience. Before I fuck you against the pie case with the secret still in your pocket, like you think sex can pay for the hour you stole."
 
-"Or Clara," [player_name] breathed. She caught his wrist, not stopping the drag, only owning it. "A second reading. Her charcoal doesn't love me enough to lie. If the center is a knife, she'll say knife. If I hand it to you raw, you might swing it before dawn and call the swinging justice."
+"Or a second reading first," [player_name] breathed. She caught his wrist, not stopping the drag, only owning it. "Fresh eyes that don't love me enough to lie. If the center is a knife, they'll say knife. If I hand it to you raw, you might swing it before dawn and call the swinging justice."
 
 John laughed, cracked and hungry. He pushed her coat open and pulled her shirt up far enough to set the folded page directly against the bare skin above her bra. Cold ink, hot flesh. He held it there with his palm.
 
-"Feel that? That's ownership. Your body is filing the page under want, whether your mouth chooses me or Clara."
+"Feel that? That's ownership. Your body is filing the page under want, whether your mouth chooses me or the second reading."
 
 His other hand popped the button of her jeans, slid in over soaked cotton, and pressed two fingers against her clit until her knees dipped. "You're dripping on a cover story. Again. Keep hiding, and I'll make you come with Henry's handwriting on your tits, then ask if protection still feels clean."
 
@@ -109,7 +109,7 @@ He circled, exact and merciless, the paper warming between his palm and her brea
 
 Rain sheeted. [player_name] rolled into his hand, chasing, hating how much the threat of the page sharpened the pleasure. He eased back just enough for speech to return, though his cock stayed pressed to her hip and the folded sheet stayed branded to her skin.
 
-"I'm afraid you'll see an invoice," she said. "Afraid Clara will sketch a villain. Afraid protection is still my drug."
+"I'm afraid you'll see an invoice," she said. "Afraid a second reading will find a villain. Afraid protection is still my drug."
 
 "Then overdose on a choice instead of an hour," John said.
 
@@ -119,7 +119,7 @@ He kissed the corner of her mouth, unfinished. He peeled the page from her breas
 
 The CLOSED sign faced the street like a dare. [player_name] could have opened her coat and ended the negotiation. The knowledge sat bright behind her teeth beside the taste of his kiss. Instead she held the fold and let her body tell the truth her protection kept trying to edit. Nipples tight where the paper had branded her. Jeans damp. Thighs unsteady.
 
-John braced both hands on the booth behind her hips, caging without trapping. "Last chance to stop performing the uncle," he murmured. "Show me the center and let me hate the invoice while I still want to drop to my knees and put my mouth on you until you shake. Or go to Clara, and I'll wait here hard and furious with an empty, pocket-shaped hole in my patience."
+John braced both hands on the booth behind her hips, caging without trapping. "Last chance to stop performing the uncle," he murmured. "Show me the center and let me hate the invoice while I still want to drop to my knees and put my mouth on you until you shake. Or take it uphill, and I'll wait here hard and furious with an empty, pocket-shaped hole in my patience."
 
 She laughed, shaky and filthy with honesty. "You make justice sound like oral sex."
 

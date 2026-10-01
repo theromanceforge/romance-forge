@@ -48,15 +48,15 @@ His grey eyes held hers, practiced at weather, still capable of breaking. "Clara
 The apron was still tied at her ribs. The coffee cooled between them. Upstairs, Clara's pencil rasped across paper. His hand still hovered, close enough that she could feel its warmth along her jaw, and the last inch was hers to close or to keep.`,
   textHot: `Heat hit [player_name] first. The pass breathed on the back of her neck, coffee steam dampened her lashes, and the fryer's hymn hummed up through her shoes into places that had no business waking on Market Street. Coats shook rain onto the mat. Voices stacked. John moved through the rush like a man married to competence. Every time his hands returned to the counter edge where her mug cooled, something low and shameless in her clenched, as if those hands had already found her.
 
-She stayed. The decision lived in her cunt first, her ribs second, her mouth last.
+She stayed.
 
 Clara tossed her an apron, charcoal smudging the hem. "If you're here, you're useful," she said, sixteen going on forty. "[player_name], right? Henry wrote you. John practiced what he'd say if you came back. Don't make him use the polite version." Her eyes flicked once to John's mouth and back, as if she had already scored the wanting in the room. Then she was gone with a ladle.
 
-[player_name] tied the apron. The bib pressed her breasts flat enough that she felt every breath as fabric and heat. She was suddenly, absurdly naked under diner cotton, aware of her nipples tightening when John's gaze dragged across her, aware of the damp starting between her thighs.
+[player_name] tied the apron.
 
 She slid plates. She refilled coffee. When she rose from the cracked stool between tickets, John's eyes went to the empty wood, then her face, then, hungrier, to the cinch of the apron at her waist. Gratitude. Fear. A hard almost, held behind a counter and fifteen years of practice.
 
-Passing him toward the pie case, she brushed close enough to catch the burn scar at the base of his thumb. Close enough that her breast dragged along his upper arm. Neither of them said accident. She wanted her mouth on that scar. She wanted his thumb inside her while the stew plated itself. The rush allowed only hips nearly touching at the pass and the smell of his skin under coffee and fryer oil. When the aisle narrowed, her cunt pulsed once, hard, like a second bell.
+Passing him toward the pie case, she brushed close enough to catch the burn scar at the base of his thumb. Neither of them said accident. She wanted her mouth on that scar. The rush allowed only hips nearly touching at the pass and the smell of his skin under coffee and fryer oil.
 
 Clara passed with a pie. "Henry's letter smelled like fear," she murmured. "Good."
 
@@ -70,7 +70,7 @@ The hours thinned. John wiped the laminate in slow circles that looked like a ma
 
 Clara retreated upstairs with her sketchbook. "I'm not asleep," she called. "I'm drawing. Same thing."
 
-John poured burnt-strong coffee and set it in front of [player_name], handle toward her hand. He came around and sat on the cracked stool beside her. Their knees touched. Neither moved. She felt the solid heat of his thigh through denim and knew, pulse shameless between her legs, that he was hard, or close enough that the almost counted. He knew she knew.
+John poured burnt-strong coffee and set it in front of [player_name], handle toward her hand. He came around and sat on the cracked stool beside her. Their knees touched. Neither moved. She felt the solid heat of his thigh through denim, and he knew she felt it.
 
 "I used to invent reasons you left that made me the fool instead of the abandoned," he said, voice rough with more than anger. "Easier than wondering if Henry asked you to disappear. Easier than wondering if I was too small a life. On bad days I remembered your face on the station steps. And God help me, I remembered how you used to look at my mouth when you thought I wasn't watching. I still get hard remembering it. Sitting here doesn't make that cleaner."
 
@@ -84,7 +84,7 @@ Thunder rolled over Market Street. The pie-case glass trembled. Upstairs, a chai
 
 He stood and came closer: coffee, rain, clean male heat. He lifted a hand toward her cheek and stopped, leaving her the last inch. She felt the warmth as if he had already claimed her. She wanted that palm on her face, her throat, her waist. She wanted it under the apron, fingers slick with what the rush had built.
 
-"We can have this before the papers and the uncle and the rest," John said, voice dropped low. "Or we do this clean. Truth first, whatever follows. I won't hate either answer. My hands shake either way." His eyes didn't hide the hunger. "My cock doesn't care which door we open first, and I'm done pretending that's separate from loving you."
+"We can have this before the papers and the uncle and the rest," John said, voice dropped low. "Or we do this clean. Truth first, whatever follows. I won't hate either answer. My hands shake either way." His eyes didn't hide the hunger.
 
 He swallowed. "Clara cracked Henry. Henry wrote you home. What happens next is ours. If you want every ugly line before I touch you, you'll get them, even if standing this close without my tongue in your mouth kills me a little."
 

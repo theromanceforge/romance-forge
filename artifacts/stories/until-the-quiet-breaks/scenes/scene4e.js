@@ -55,7 +55,7 @@ She sat. Their fingers touched on the mug's handle and didn't pretend it was an 
 Henry's letter was still in her coat pocket, three pages folded soft against her ribs. His words were in there, careful and complete, the only version John could read without her voice in the way. And John's mouth was an arm's length away, his grey eyes on hers, waiting to see which she would give him first.`,
   textHot: `Rain made Market Street into a black mirror. [player_name] walked it with open hands and an ache still low in her from Henry's front room. Not from touch. From the denial of it, from standing wet for John while the confession did the work mouths wanted to do.
 
-Boxwood and woodsmoke still clung to her coat. Clara's voice followed her down the hill: Tell him I didn't dig to hurt him. Tell him the sketches were the only language this house would let me use.
+Boxwood and woodsmoke still clung to her coat. Tell him the sketches were the only language this house would let me use.
 
 She put her shoulder to the blue door. It stuck, then yielded. The bell cried thin and true.
 

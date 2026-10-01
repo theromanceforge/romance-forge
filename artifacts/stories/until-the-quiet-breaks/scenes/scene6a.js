@@ -54,7 +54,7 @@ John's hand found the edge of the table, knuckles pale. He didn't touch her face
 
 "Justice," he said, tasting the word like burnt coffee. "I want Henry to say the ugly line without softening it. I want Voss's name spoken where Clara can hear it, so she stops drawing ghosts in schoolbook margins. I want you—" He stopped. Restarted. "I want you in the room when it happens. Not as the exile who comes back for sentencing. As the woman who carried the debt's shadow and came back anyway."
 
-Her ribs ached with how badly she wanted his mouth, and how completely the papers refused to become foreplay. "Noon is public enough to keep him from inventing another draft," she said. "Asking you what justice looks like first is private enough that Clara's circles don't turn into my crusade alone."
+Her ribs ached with how badly she wanted his mouth, and how completely the papers refused to become an excuse. "Noon is public enough to keep him from inventing another draft," she said. "Asking you what justice looks like first is private enough that Clara's circles don't turn into my crusade alone."
 
 Rain sheeted harder. John flipped back to the Voss receipt, the exchange number staring up like an eye that had learned patience.
 
@@ -73,7 +73,7 @@ He waited, too close. Coffee and rain and ink lived between them.
 "Either way, you don't leave this booth with the circles unread," he said, his voice rough. "And either way, my hands are done pretending paper is colder than wanting you."
 
 His unfinished touch hung near her jaw. The post office copier was four doors down and opened at nine. Up on Willow, Henry waited in woodsmoke. And John waited here, close enough to kiss, for her to say what they would do with the pages under his hand.`,
-  textHot: `Clara's blue circles looked like bruises, and [player_name]'s body answered them before her mouth did.
+  textHot: `The blue circles looked like bruises, and [player_name]'s body answered them before her mouth did.
 
 She sat in the back booth with John's thigh pressed hard along hers, heat soaking through denim, the paper stack spread between the coffee mugs like something indecent laid out under fluorescent light. Rain needled the awning. The CLOSED sign watched. Her shirt clung damp at the small of her back. Every time John turned a page, his knuckle brushed her knee, and she clenched around nothing with humiliating timing.
 
@@ -111,7 +111,7 @@ She kept going. Bank slips. The faded envelope. the charcoal of the station step
 
 Rain sheeted the awning. A receipt slid to the floor, and neither of them reached for it. [player_name] rolled into his palm on purpose, chasing friction, keeping one hand flat on the ledger so the numbers stayed in the room. His other hand found her breast under her shirt, bra shoved aside, thumb stroking the peaked nipple until she arched with a broken sound.
 
-"Clara will want a say," he said against her mouth, the kiss unfinished. "Henry will offer kindness like currency. If we copy them, Mae's machine learns our shame, and noon puts him on a clock with daylight teeth. If you ask me what justice looks like—"
+"Willow will want a say," he said against her mouth, the kiss unfinished. "Henry will offer kindness like currency. If we copy them, Mae's machine learns our shame, and noon puts him on a clock with daylight teeth. If you ask me what justice looks like—"
 
 His fingers pressed harder. Her breath shattered.
 

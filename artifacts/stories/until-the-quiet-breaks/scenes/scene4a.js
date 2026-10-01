@@ -95,7 +95,7 @@ She was close, hips stuttering, thighs shaking, when the stairs complained.
 
 Not a scrape. A deliberate descent: wood announcing weight, then a pause on the landing.
 
-John didn't yank his hand free like a boy caught. He eased his fingers out of her with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted, cock still hard against her hip.
+John didn't yank his hand free like a boy caught. He eased his hand free with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted.
 
 It wasn't the building settling. It was Clara. By the time she came into view they had stepped apart. She stood on the landing with a stack of papers hugged to her ribs and a charcoal thumbprint on her jaw. Her eyes were wide, furious, and somehow relieved. A sketchbook rode the top of the stack. Beneath it: bank paper, a folded note, a winter date grooved into the sheet.
 
@@ -105,9 +105,9 @@ John's hand stayed at [player_name]'s waist. He didn't shove her behind him or s
 
 Clara came down two steps and held out the top page. A winter date fifteen years old. Henry's neat, slanted hand. [player_name]'s name underlined twice beside a note: she agreed to go—for him.
 
-She read the line once. It landed like cold water poured over heat. She had lived that sentence. Seeing it in Henry's hand made the ache between her legs feel like standing on a floor with a hollow beneath, desire and dread braided so tight she couldn't tell which pulse was which.
+She read the line once. It landed like cold water poured over heat. She had lived that sentence.
 
-John read over her shoulder. His thumb brushed her hip once, apology and promise and warning, and stayed. The papers had interrupted the act, not the wanting. She could feel how hard he still was when he shifted.
+John read over her shoulder. His thumb brushed her hip once, apology and promise and warning, and stayed. The papers had interrupted the act, not the wanting.
 
 "Clara," he said, voice rough from her mouth. "How long have you had that?"
 
@@ -135,7 +135,7 @@ Outside, under the Market Street lamp, a figure paused with an umbrella tilted t
 
 Clara whispered, "He's here."
 
-John didn't look away from [player_name]. His mouth was still kiss-bruised, and his fingers still smelled like her. "Then the night we started with my hand in your jeans ends with a knock. Whatever he says, we hear it together, and we don't let him soften it again." A flicker of unfinished heat. "After that, I finish what I started. Or we don't. But we decide with the truth in the room and my cock still remembering the shape of your fist."
+John didn't look away from [player_name]. "Then the night ends with a knock. Whatever he says, we hear it together, and we don't let him soften it again." A flicker of unfinished heat, kept for later. "After that, we finish what we started. Or we don't. But we decide with the truth in the room."
 
 The papers waited on the counter like a second pulse. Henry's shadow lengthened toward the door. [player_name] tasted coffee and John and herself on his mouth, her body still humming, his hand still hot at her waist, the stack close enough to touch.`,
   choices: [

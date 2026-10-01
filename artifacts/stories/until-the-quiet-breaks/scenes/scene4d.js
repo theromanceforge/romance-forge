@@ -63,11 +63,11 @@ Wet boxwood pressed its perfume through the door Henry hadn't fully closed. Unde
 
 She drew Henry's letter and held it up like a summons. The paper trembled once. She made her hand steady. Desire didn't leave because justice had entered. It sharpened. She felt John's attention on her mouth as she spoke, on the line of her throat, on the way indignation made her stand taller until her coat fell open and her sweater clung.
 
-"You wrote I thought you should know," she said. Her voice filled the front room without shouting. "So know this. I'm done being the exit wound. Tell John, here, now, why you put my suitcase on that platform. Tell him what his father died owing, and what you promised, and how you failed. Tell him I left because you asked a girl to disappear for a boy's sake and called it mercy." Her chin lifted. "Tell him while I'm standing here wet for him, so he understands I didn't come back only for paper."
+"You wrote I thought you should know," she said. Her voice filled the front room without shouting. "So know this. I'm done being the exit wound. Tell John, here, now, why you put my suitcase on that platform. Tell him what his father died owing, and what you promised, and how you failed. Tell him I left because you asked a girl to disappear for a boy's sake and called it mercy." Her chin lifted.
 
 The room absorbed the words the way old plaster absorbs smoke. From the kitchen arch, Clara's pencil began to whisper. Henry's face crumpled, then arranged itself into late courage.
 
-John went very still. Not overruled. Present, and choosing, still, to want her while she did it. She saw him thicken against his jeans when her voice went hard. The sight made her cunt clench.
+John went very still. Not overruled. Present, and choosing, still, to want her while she did it. She saw him thicken against his jeans when her voice went hard.
 
 Henry spoke.
 
@@ -75,7 +75,7 @@ Money John's father had hidden behind jokes and overtime until the jokes ran out
 
 Then the night he sat a twenty-year-old [player_name] down in this room and asked her to become absence. The station speech he had coached her on: wanting more, brighter rooms. Almost true. Also a lie with a purpose that had hardened, and that left her faking pleasure in brighter rooms with John's unfinished face behind her eyelids.
 
-When Henry reached the part where he put his hand on her suitcase like a blessing and a shove, John made a sound low in his throat, wounded and awake. [player_name] felt it in her own body like a touch. She wanted, absurdly and exactly, to put her palm on his chest and feel the rage and the wanting beat together. Then slide that palm lower until he cursed in his uncle's front room.
+When Henry reached the part where he put his hand on her suitcase like a blessing and a shove, John made a sound low in his throat, wounded and awake. [player_name] felt it in her own body like a touch. She wanted, absurdly and exactly, to put her palm on his chest and feel the rage and the wanting beat together.
 
 "You used her," John said. Not a question. "You used her mouth. You used her leaving. You used the way I looked at her even then, like she was the only soft thing I meant to keep, and you turned it into your excuse. You made my survival the reason I never got to have her honestly."
 
@@ -89,21 +89,21 @@ Henry looked at her, proud and wrecked. "I wrote around the wound. She's cutting
 
 [player_name] lowered the letter but didn't pocket it. She met John's gaze. He was really looking, as if measuring comfort against space, and as if memorizing her mouth after she had used it as a blade.
 
-"I needed to say it," she told him quietly. "Not because you couldn't. Because I've lived too long inside speeches written for someone else's sake." Her voice dropped for him alone. "I didn't come back only to indict him. I came back still wanting you inside me. The indictment just had to go first."
+"I needed to say it," she told him quietly. "Not because you couldn't. Because I've lived too long inside speeches written for someone else's sake." Her voice dropped for him alone. "I didn't come back only to indict him. The indictment just had to go first."
 
-A flare of hunger crossed John's face, and he didn't hide it from her. "You used her," he repeated to his uncle, colder now. "And you used me as the reason. Tomorrow you open every drawer. Tonight I'm taking her out of this house before you start softening it again. Before I forget I'm angry long enough to put my hands under her coat in your front room."
+A flare of hunger crossed John's face, and he didn't hide it from her. "You used her," he repeated to his uncle, colder now. "And you used me as the reason. Tomorrow you open every drawer. Tonight I'm taking her out of this house before you start softening it again."
 
 Henry didn't argue. He sat as if the chair had finally admitted his weight.
 
 Clara set her sketchbook on the table, open to a fresh page. "I'm staying," she said. "Someone should watch him not tidy. I've gotten good at margins. Tonight I want the center."
 
-John offered [player_name] his arm without demanding she take it. When she did, the contact was brief lightning: rain-cold sleeve, warm forearm, the scar she could feel through cloth. He drew her a fraction closer than politeness required. Her breast brushed his sleeve. His hip nudged hers, and she felt how hard he still was.
+John offered [player_name] his arm without demanding she take it. When she did, the contact was brief lightning: rain-cold sleeve, warm forearm, the scar she could feel through cloth. He drew her a fraction closer than politeness required. His hip nudged hers.
 
 "Thank you," he said, low, "for not letting him narrate you into a footnote again. And for saying you still want me with his letter in your hand. That nearly put me on my knees in front of the man who taught me to kneel for silence."
 
 They moved toward the door. On the porch, [player_name] paused. Through the gap came Henry's voice again, lower, rawer, beginning a name John had never heard. A creditor from that winter. The syllable made Clara's pencil stop mid-stroke.
 
-John went taut beside her, the hard line of him pressed for a heartbeat against her hip as he turned back toward the warmth and the unfinished word.
+John went taut beside her as he turned back toward the warmth and the unfinished word.
 
 "Tomorrow," he said, as if reminding himself. His free hand found the small of her back, fingers dipping just under her waistband to touch bare skin. "We come back for that name. If we stay for it now, I'll break something that isn't mine to break, and he gets to be the calm one again. And I don't get to take you somewhere the rain covers the sounds I want to hear you make."
 

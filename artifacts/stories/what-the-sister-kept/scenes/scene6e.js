@@ -53,15 +53,15 @@ Outside, pier fog thinned and thickened again, as if Harborwick could not decide
 [player_name] drew a breath that tasted like policy ink and rain on wool and the metallic edge of a point arriving. Flip—or brace. Sandbagging's end either way.`,
   textHot: `Captain Mara Ellison smelled sandbagging the way Harborwick smelled rain—and the way [player_name] smelled William Akers when he stood too close: constant, practiced, already halfway to something irreversible.
 
-Her office held pier fog in the west glass and burnt clearance-coffee steam and the low animal thrum of two people who should not want each other this hard under a captain's eye. Will stood to Ellison's left, mid-thirties, cracked notebook shut, brutal charm locked behind blankness that made [player_name]'s cunt pulse anyway—stupid, traitorous, wetting cotton under a blazer lecture. Mid-twenties. Thighs tight. Renny's absence in the air like a fourth body.
+Her office held pier fog in the west glass and burnt clearance-coffee steam and the low animal thrum of two people who should not want each other this hard under a captain's eye. Will stood to Ellison's left, mid-thirties, cracked notebook shut, brutal charm locked behind blankness that made [player_name]'s cunt pulse anyway—stupid, traitorous, wetting cotton under a blazer lecture. Mid-twenties. Thighs tight.
 
 "Controlled drip," Ellison said. Tablet face-up, revised statement yellowed. "Counsel's columns. Soft nouns. Owen near a ferry slip. Companion fogged. Omission corrected late and sanded. Families sandbag. What I do not expect is my detective looking at a familial witness like he wants to fuck the rest of the truth out of her mouth."
 
-Will's jaw flexed. Grey-green eyes dragged over [player_name]'s throat, her mouth, the place her pulse hammered—cataloguing want as carefully as lies. "She is correcting the record. Cho has not confirmed Renny among the upriver dead. Charm is probability. We are not burying a maybe for your schedule."
+Will's jaw flexed. Grey-green eyes dragged over [player_name]'s throat, her mouth, the place her pulse hammered—cataloguing want as carefully as lies. "She is correcting the record. Charm is probability. We are not burying a maybe for your schedule."
 
 "Do not lecture me on Cho." Soft. Dangerous. "Unidentified. Timing that leans on Owen. Hope and dread are not evidence. Sandbagging is. You are still holding a locked scrap, and Akers is pretending not to smell it because his badge goes soft where his cock goes hard."
 
-Heat flooded [player_name]'s face and the hinge of her thighs together. Controlled drip had starved Will on measured sentences while her body throbbed unused—Patel's peppermint shield, pier truth half-given, Renny's locked unless still warm under a bed. Ellison had listened. Of course she had. Captains catalogued slips and flushed throats the way detectives catalogued omissions.
+Heat flooded [player_name]'s face and the hinge of her thighs together. Ellison had listened. Of course she had. Captains catalogued slips and flushed throats the way detectives catalogued omissions.
 
 "I put Owen at the pier," [player_name] said, voice sandpaper. "I will not invent a face to make your clearance prettier."
 
@@ -73,7 +73,7 @@ Will shifted. Notebook spine cracked under his thumb. "Mara—"
 
 "Akers will not save you from an ultimatum," Ellison went on. "Flip on Owen Vale—full statement, soft net gone—or keep dripping while a recording of what you already said walks toward press and hungry ears. Harborwick leaks. Controlled drip becomes uncontrolled the minute someone sells your half-truth as a headline."
 
-Rain freckled the glass. Foghorn rolled into [player_name]'s ribs and lower. She thought of Renny's hoodie in a drawer, bracelet gap, upriver charm only *like*—hope with a throat, dread with teeth, bones unnamed—while Will stepped half a pace nearer. Soap. Salt. Scrubbed-dark past. His heat licked the air between them until her clit throbbed once, hard, humiliating under Ellison's stare.
+Rain freckled the glass. Foghorn rolled into [player_name]'s ribs and lower. Soap. Salt. Scrubbed-dark past.
 
 "You can flip," Will said quietly, velvet for her. "Give Mara Owen clean. Ugly daylight. Or brace for the leak and we manage what the recording does before it manages us—manage including the part where I put you against a wall after hours and remind your body what honesty feels like. Both hurt. Both move. Neither names Renny until Cho earns it."
 
@@ -85,9 +85,9 @@ Ellison's mouth thinned. "Akers specials always think they can manage leaks with
 
 "If you brace, you gamble the recording stays inside," Ellison said. "Someone already asked Records for a copy. I denied it. Denials have half-lives—like the way you two pretend this is only about a sister."
 
-Will's pen tapped. Brutal charm flickered wrong-side velvet. Under the desk line of sight Ellison could not quite see, his boot found [player_name]'s shoe and pressed—claim, dare, unfinished fuck translated into leather. The contact shot straight to her clit; she bit her tongue on a sound. "I can pull the warehouse lead while you decide," he said aloud, professional as a lie. "Or sit here and watch Mara turn your drip into a flood. Your mouth. Your sister. Your call—and later, if you brace or flip clean, your mouth again where the captain is not invited."
+Will's pen tapped. Brutal charm flickered wrong-side velvet. Under the desk line of sight Ellison could not quite see, his boot found [player_name]'s shoe and pressed—claim, dare, unfinished fuck translated into leather. The contact shot straight to her clit; she bit her tongue on a sound. "I can pull the warehouse lead while you decide," he said aloud, professional as a lie. "Or sit here and watch Mara turn your drip into a flood. Your mouth. Your call—and later, if you brace or flip clean, your mouth again where the captain is not invited."
 
-Warehouse east of fish auction flickered behind [player_name]'s eyes—red door, Renny pointing—but this hour belonged to Ellison's nose and Will's boot-pressure and the wet cotton clinging between her thighs. Controlled drip had bought time and spent trust and left her aching.
+Controlled drip had bought time and spent trust and left her aching.
 
 She looked at the CLEARANCE mug and the scar she wanted to kiss and Ellison's tablet glowing pending cruelty. Flip meant Owen as lever, house blown, Will's dig fed, her body unfinished in the wreckage until someone closed a door and used honesty as foreplay. Brace meant riding leak weather—press, recording, intimacy forced into raw daylight—while Cho refused to christen bones and Will's hunger went sharp enough to cut her open sweetly after.
 
@@ -95,13 +95,13 @@ She looked at the CLEARANCE mug and the scar she wanted to kiss and Ellison's ta
 
 Clock hum. Coffee bitter. Remains unnamed. Charm only *like*. Detective with sealed-silence teeth and a boot still pressing her shoe. Captain with weather. The choice would hand Owen to the machine or hand the machine a recording—and either path left Will watching her mouth like he intended to ruin it kindly the minute Ellison's door clicked shut.
 
-Fog thinned and thickened. Notebook waited with [player_name]'s name half-written beside a question mark. Heat unfinished. Renny's fate still hope versus dread. [player_name] drew a breath that tasted like policy ink and Will's soap and the metallic edge of a point arriving between her legs as much as in the case. Flip—or brace. Sandbagging's end either way.
+Fog thinned and thickened. Notebook waited with [player_name]'s name half-written beside a question mark. Heat unfinished. [player_name] drew a breath that tasted like policy ink and Will's soap and the metallic edge of a point arriving between her legs as much as in the case. Flip—or brace. Sandbagging's end either way.
 
 Ellison turned to the window as if pier fog might vote. The pause let Will lean in—mouth near [player_name]'s ear, breath hot enough to mist the air between captain and witness. "If you flip," he whispered, too low for Ellison's theater, "I will still want you in the stairwell afterward. Ultimatum sex is ugly. So am I. If you brace, I will put my hand over your mouth when the leak hits so you do not scream my name where Mara can hear." The words stroked her clit without touch; wetness slicked further; she had to dig nails into her palm to keep from turning her face into his.
 
 "Akers," Ellison snapped without turning. "Distance."
 
-He stepped back a precise inch that still left [player_name] aching. Brutal charm banked to pilot light: visible heat, no open flame. She imagined dismissing the room, locking the door, letting him fuck the sandbagging out of her on Ellison's desk while clearance coffee went cold—fantasy filthy and procedural at once, grief and lust sharing oxygen without eroticizing Cho's unnamed bones.
+He stepped back a precise inch that still left [player_name] aching. Brutal charm banked to pilot light: visible heat, no open flame.
 
 "You look like you are deciding with the wrong organ," Ellison said, facing them again. Tablet light carved her cheekbones. "Good. Fear makes honest mouths. Flip on Owen under this pressure—give me the stepfather clean—or brace for the recording leak and learn how Harborwick fucks a half-confession into public weather. Akers will dig either way. You will wet either way. Only one path lets you choose the audience for your sister's night."
 

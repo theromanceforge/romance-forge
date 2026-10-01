@@ -74,7 +74,7 @@ She wanted her mouth on that scar. She wanted his palm at her waist the way it h
 
 Three locals in a back booth pretended not to listen. John wiped a clean circle on the laminate and poured her coffee black without asking, the way she had taken it at twenty. His wrist flexed. The scar moved. She imagined tracing it with her tongue until he made a sound he couldn't plate for customers. Under the counter's edge she pressed her thighs together, a useless discipline against the pulse that had started when the blue door gave.
 
-When his knuckles brushed hers on the towel, heat slid up her arm and settled between her legs. She dried her face and tasted rain and coffee and the old ache of almost, sharpened now into something she could name. She wanted John Shaw's cock. Not as a metaphor. As a fact her body had been keeping like a secret ledger.
+She dried her face and tasted rain and coffee and the old ache of almost, sharpened now into something she could name. Not as a metaphor. As a fact her body had been keeping like a secret ledger.
 
 "Clara found papers," he said, leaning in so the booth couldn't harvest every word. Close enough that she felt his breath on her temple. "In the desk Henry swore was empty. Sketches in the margins, charcoal pressed hard enough to ghost the next page. Underneath, names, dates, a winter I only half remember. Receipts. A letter draft that never got sent. Two days after she laid them out on this counter, Henry said he'd mailed something. He wouldn't say to whom. I knew."
 
@@ -84,7 +84,7 @@ Her voice came out steadier than her body. She was aware of every inch of him: h
 
 "Enough to ask why you left." John's mouth tightened. "Enough to ask why everyone told me you wanted a bigger life, when the night I remember doesn't match. I remember you crying on the station steps. Henry's hand on your shoulder. You saying sorry like someone who wasn't chasing a city." His voice dropped. "And I remember wanting to pull you into the ticket office and keep you with my mouth if my words wouldn't do it."
 
-He exhaled like the admission cost him. "Then you were gone. I stayed. I ran this place. I raised Clara after our mother stopped being someone we could reach. I didn't spend fifteen years hating you. I spent them trying to make the pieces fit."
+He exhaled like the admission cost him. "Then you were gone. I stayed. I ran this place. I kept this place alive after our mother stopped being someone we could reach. I didn't spend fifteen years hating you. I spent them trying to make the pieces fit."
 
 Another drop, raw. "And some nights trying not to remember how you felt against me. How wet you were. How close I came to fucking you against that brick and calling it forever."
 
@@ -102,7 +102,7 @@ A truck hissed past on Market Street. "People here still tell the story Henry ga
 
 He scrubbed at laminate already clean. "Clara doesn't let anyone keep a story that neat. She's why you're standing here. She's why I'm terrified. Once the quiet breaks, I don't know what version of us survives the noise."
 
-He swallowed. Color rose along his throat. "I do know I've spent too many nights imagining you back in this room. Not as a ghost. As a woman I could put on this counter after lockup. As a cunt I could taste. As a mouth that might finally tell me why she left while I was inside her. Having you here and not touching you is a particular kind of hell."
+He swallowed. Color rose along his throat. "I do know I've spent too many nights imagining you back in this room. Not as a ghost. As a woman I could put on this counter after lockup. Having you here and not touching you is a particular kind of hell."
 
 [player_name] thought of Henry's hand on her shoulder fifteen winters ago. Of the debt she had been asked not to name. Of the accident that took John's father and left Somerton a kinder story. Thighs pressed together, wet under wool, she felt the lie loosen like a stitch giving way. Want rushed into the gap.
 

@@ -55,19 +55,19 @@ Fog thickened until the cold-storage row became a rumor with loading docks. [pla
 She drew a breath that tasted like salt and unfinished truth. The remains stayed unnamed. Owen stayed a ghost she was still feeding with silence. And the red door waited with its scraped number like a mouth that had been waiting seven years for someone brave enough—or foolish enough—to ask it what Renny had known.`,
   textHot: `Marta named the warehouse, and [player_name] felt the words land low in her belly as William Akers went still beside her—predator focus, mid-thirties danger, late smile banked while geography became hunger for the break.
 
-"Cold-storage row. East of the old fish auction. Red door, number half scraped—fourteen or forty-one. Renny pointed. Said the warehouse knows. Clean jacket on her wrist." Marta twisted the rag, eyes hard. "Take the edges. Leave my lease."
+"Cold-storage row. East of the old fish auction. Red door, number half scraped—fourteen or forty-one. Said the warehouse knows. Clean jacket on her wrist." Marta twisted the rag, eyes hard. "Take the edges. Leave my lease."
 
-Will's notebook opened like a mouth. No charm theater—just appetite. [player_name] stood close enough to smell rain in his hair and the clean-dirty heat of his attention. Watching him take a lead made her wet; grief and want shared her jeans while Renny pointed east behind her eyes, bracelet flashing, sixteen and angry and alive under festival lies. Marta caught the look between them and snorted. "Jesus. Even the sister gets the smile." Then the trailer door slapped shut and fog took the pier.
+Will's notebook opened like a mouth. No charm theater—just appetite. [player_name] stood close enough to smell rain in his hair and the clean-dirty heat of his attention. Marta caught the look between them and snorted. "Jesus. Even the sister gets the smile." Then the trailer door slapped shut and fog took the pier.
 
 In the car he drove them into warehouse fog with one hand and put the other on [player_name]'s thigh high enough to cheat, thumb stroking the inner seam until she shifted against the seat with a sound she hated for how honest it was. "Cho's bones stay unnamed," he said, voice rough. "Charm is probability, not a funeral. Write Renny on a red door until science earns the rest. You steered me at carnival ghosts. They paid in geography. I can raid-plan before dawn—warrants, backup, Ellison sold soft if I smile right. Or you walk that red door alone first and text me a pin while I sit hard and furious waiting to see if you come out with evidence or with a wound I will not forgive you for earning without me."
 
 She gasped when his thumb pressed the damp seam of her jeans. Heat bloomed. Rain freckled the windshield. "Will—"
 
-"Alone is not soft," he murmured. "Alone is you choosing to meet what Renny pointed at without my mouth or my gun as comfort. Raid-plan is you choosing to let me run the entry like a man who learned from Nina Solis what early pushes cost—kid in a hallway, chaos, sealed file, charm for a face. You do not get the whole raid story with my hand between your legs. You get the map and the choice and the way my cock gets honest when a lead opens because you steered me here."
+"Alone is not soft," he murmured. "Alone is you choosing to walk into that warehouse without my mouth or my gun as comfort. Raid-plan is you choosing to let me run the entry like a man who learned from Nina Solis what early pushes cost—chaos, sealed file, charm for a face. You do not get the whole raid story with my hand between your legs. You get the map and the choice and the way my cock gets honest when a lead opens because you steered me here."
 
-He parked two blocks short of the east cold-storage row, killed the lights, and pulled her across the console into a kiss that tasted like pier salt and unfinished fucking. His tongue claimed; his hand shoved into her jeans under cotton, two fingers sliding through slick heat while fog horns groaned over warehouse silhouettes. [player_name] clenched around him, moaning into his mouth, Renny's pointed finger and Owen's unnamed pier night and unidentified remains braided into the same unbearable want. Will swallowed her sound like evidence.
+He parked two blocks short of the east cold-storage row, killed the lights, and pulled her across the console into a kiss that tasted like pier salt and unfinished fucking. Will swallowed her sound like evidence.
 
-"Raid with me," he said against her lips, pumping slow, filthy, precise, "and I will keep the entry clean enough that the sealed past does not rhyme with your sister's warehouse. Go alone and I will still be this hard when you text—angry-hard, chase-hard—because watching you walk toward Renny's door without me makes me want to fuck the fear out of both of us afterward." His thumb found her clit. "Pick while you soak my hand. Ellison does not get this hour. Marta already gave it to us. Do not tidy it."
+"Raid with me," he said against her lips, pumping slow, filthy, precise, "and I will keep the entry clean enough that the sealed past does not rhyme with your sister's warehouse. Go alone and I will still be this hard when you text—angry-hard, chase-hard—because watching you walk toward Renny's door without me makes me want to fuck the fear out of both of us afterward." "Pick while you soak my hand. Ellison does not get this hour. Marta already gave it to us. Do not tidy it."
 
 [player_name] rocked on his fingers, forehead to his, rain hammering the roof. Chain-link sang somewhere in the dark. Sodium light painted his scar nick gold. "If I find Owen's name in there—"
 
@@ -79,15 +79,15 @@ He eased his fingers almost out, cruel, then pushed back in deep enough that she
 
 [player_name] laughed once, broken, and kissed him like an argument. "You use charm like a blade."
 
-"It works on vendors. It works on you. It scares me that I want the blade closer to your sister's door." Will's free hand found hers and wrapped it around the thick ridge of his cock through cloth, guiding one slow stroke, then another, until his breath stuttered. "Feel what geography does to me. Feel what you do. I have kicked wrong doors. The sealed past paid. I kept my badge and this smile. You kept Owen off a statement. Tonight we decide whether dawn gets a team or midnight gets your flashlight and my restraint chewing itself two blocks away."
+"It works on vendors. It works on you. It scares me that I want the blade closer to your sister's door." "Feel what geography does to me. Feel what you do. I have kicked wrong doors. The sealed past paid. I kept my badge and this smile. You kept Owen off a statement. Tonight we decide whether dawn gets a team or midnight gets your flashlight and my restraint chewing itself two blocks away."
 
-She stroked him through the fabric, felt him kick against her palm, felt her own orgasm gathering like a storm behind her teeth. Will slowed his hand inside her again—denying, commanding. "Not yet. Verb first. I want you coming on a decision, not on avoidance."
+"Not yet. Verb first. I want you coming on a decision, not on avoidance."
 
 "That is cruel," she panted.
 
 "Renny pointed at a building that might still hold the chain—smuggling, tampered evidence, mid-level smiles, desperate stepfathers. Cho will not rush an ID to soothe your hope. The charm stays *like*. The bones stay unnamed. What we have is a red door and your wet and my raid-noise dreams. Choose which hunger moves us."
 
-[player_name] looked past him at the cold-storage row, scraped numbers waiting in rain, and clenched around his fingers as if she could hold the unfinished finish and the case in the same fist. "If I go alone and something is wrong—"
+"If I go alone and something is wrong—"
 
 "You scream. You run. You pin-drop. You do not play martyr for a sister who might still be alive enough to hate you for dying stupid." His eyes burned. "I dream hallways when soft fails. Do not put your body in my dream without my badge beside it unless you are sure the truth is worth that particular nightmare."
 
@@ -97,9 +97,9 @@ She kissed the scar nick at his eyebrow, soft contrary to the filthy way his fin
 
 The fog horn blew. She held his wrist inside her jeans and felt the choice like a second climax waiting. Remains unnamed. Charm probable. Owen off the page. William Akers—brutal, hard, the sealed past-haunted. She left the edge unfinished, because unfinished was how they survived Harborwick, and the red door waited with its scraped number like a mouth that had been hungry for seven years.
 
-He drew his fingers out slowly, glistening, and painted her lower lip once before kissing the taste back into her mouth—filthy communion in a fogged car two blocks from Renny's pointed east. [player_name] whimpered. Will fastened her jeans with mock courtesy that made her want to bite him, then rested his forehead on hers while both of them breathed like runners.
+[player_name] whimpered. Will fastened her jeans with mock courtesy that made her want to bite him, then rested his forehead on hers while both of them breathed like runners.
 
-"Hurt to leave either option," he whispered. "Good. Means both matter. Means you are still in this with your skin and your cunt and your sister's name not yet carved into Cho's tray. Raid-plan or alone. Say it when you can speak. I will be hard either way. I will not be clean either way. A sealed raid taught me clean is optional; results are not. You get the hint. You get this choice. You do not get a tidy man—only a red door and a detective who wants you too much to pretend the case is the only thing between your legs."`,
+"Hurt to leave either option," he whispered. "Good. Means both matter. Raid-plan or alone. Say it when you can speak. I will be hard either way. I will not be clean either way. A sealed raid taught me clean is optional; results are not. You get the hint. You get this choice. You do not get a tidy man—only a red door and a detective who wants you too much to pretend the case is the only thing between your legs."`,
   choices: [
     { id: "scene6m", text: "Raid-plan with Will before dawn", textHot: "Raid-plan with Will before dawn" },
     { id: "scene6n", text: "Go to the warehouse alone first", textHot: "Go to the warehouse alone first" }

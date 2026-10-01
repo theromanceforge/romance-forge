@@ -49,7 +49,7 @@ Clara hugged [player_name] hard enough to leave charcoal on her coat. "Sisters,"
 
 The diner went quiet. John locked the blue door behind them and took [player_name] upstairs. Pride and terror and relief had all built up in him, and they needed somewhere to go.
 
-"Do you know what it did to me," he rasped, pushing her coat off, "watching you stand behind her instead of taking the stage?" His mouth was on her throat. His hands were under her sweater, cupping her bare breasts, his thumbs rough on her nipples.
+"Do you know what it did to me," he rasped, pushing her coat off, "watching you stand back instead of taking the stage?" His mouth was on her throat. His hands were under her sweater, cupping her bare breasts, his thumbs rough on her nipples.
 
 "Show me." She opened his belt, freed him, and stroked him hard. "Don't narrate."
 

@@ -67,9 +67,9 @@ He walked her to the Records stairwell—ironic theater—and the moment the doo
 
 [player_name] gasped as he rolled once against her—thick ridge, brutal honesty—rain freckling wired glass, lobby murmur far below. "If I say yes—"
 
-"You become the woman I know how to want with my eyes open." His hand slid under her sweater onto bare skin, up to the underside of her breast, thumb circling until she arched. "Worse and better than enemy. Soft currency I earned in ashes—you may have spent it with one call. I need the ledger before Ellison invoices us. I need my hands on you while you admit the tip so I know guilt is useful and not only hunger wearing regret."
+"You become the woman I know how to want with my eyes open." "Worse and better than enemy. Soft currency I earned in ashes—you may have spent it with one call. I need the ledger before Ellison invoices us. I need my hands on you while you admit the tip so I know guilt is useful and not only hunger wearing regret."
 
-He opened her jeans with detective efficiency, found her already slick through cotton. "Guilty and wet. Grief and sex sharing a body. Do not tidy it. Do not eroticize Cho's bones—unnamed, unconfirmed, Renny still a question mark—but do not pretend the tip made you pure." Two fingers slid into her; she clenched; he kissed the corner of her mouth and denied the center on purpose. "Warehouse lead or badge-number rumor. Both digs. Both keep you close enough to watch. Neither confirms the remains. I will not let your spiral baptize dread into a false funeral."
+"Guilty and wet. Do not tidy it. Do not eroticize Cho's bones—unnamed, unconfirmed, Renny still a question mark—but do not pretend the tip made you pure." "Warehouse lead or badge-number rumor. Both digs. Both keep you close enough to watch. Neither confirms the remains. I will not let your spiral baptize dread into a false funeral."
 
 He worked her slow on his hand in the stairwell, thumb precise, forehead to hers, breath coffee-bitter and rain-wet. "Follow the warehouse with me—pier district, smuggling ghosts, Renny's possible path—while you soak my wrist. Or follow the badge rumor that makes captains nervous and stepfathers burn phones. Pick while you ride my fingers. Ellison gets charming Will if you choose strategy. She gets sharp Will if you keep drowning and calling it penance."
 
@@ -85,7 +85,7 @@ Rain needled glass. Clock hummed through concrete. Owen moved through a warned m
 
 She almost said the tip aloud again just to feel the blade; Will shook his head once, reading her, and put two fingers back against her lips—not entering, sealing. "We are past confession theater. We are in consequence. Ellison's clock. Cho's queue. Owen's ordered house. My cock still hard in a stairwell because wanting you did not stop when you became a leak. That is my problem and my promise. Yours is the next verb."
 
-[player_name] tasted salt and herself and the metallic edge of a man with a sealed file. She thought of Renny laughing under festival lights, of the missing charm, of Harborwick fog eating pier boardwalks, of Will's whitened knuckle and raid-shaped silence. Strategy or spiral. Warehouse or badge. The soft net trembling between tip and hunt while morning brightened toward a briefing that would smell whatever she chose to carry upstairs.
+[player_name] tasted salt and herself and the metallic edge of a man with a sealed file. Strategy or spiral. Warehouse or badge. The soft net trembling between tip and hunt while morning brightened toward a briefing that would smell whatever she chose to carry upstairs.
 
 Will fixed her collar with a tenderness that felt like a threat, then nodded toward the stairwell door. "Warehouse or badge rumor. Both hurt Ellison's patience. Both keep Renny's name off a premature toe tag. Both leave me hard for a woman who tipped a suspect and still looks at me like trust might be possible. Choose before I forget I am supposed to brief a captain instead of finish what my fingers started against this plaster."
 
@@ -95,7 +95,7 @@ He did not take her upstairs yet. He made her stand in the cool stairwell air wi
 
 [player_name] closed her eyes. Opened them. Wanted his mouth. Wanted the tip undone. Wanted Renny alive in a way science had not authorized. Will's hand returned to her nape, thumb stroking her hairline the way he had in the car after the stairwell sin—claiming, almost gentle, interrogation dressed as comfort.
 
-"Guilt spirals make good lovers and bad witnesses," he murmured. "Break the spiral with a verb. Warehouse lead. Badge-number rumor. I will still taste you later. I will still be angry. I will still put Renny's open question above your need to be punished and above my need to fuck the anger quiet. Murder stays plot. This heat advances trust or it advances nothing. Pick the dig that lets trust survive Ellison's office."
+"Guilt spirals make good lovers and bad witnesses," he murmured. "Break the spiral with a verb. Warehouse lead. Badge-number rumor. I will still taste you later. I will still be angry. Murder stays plot. This heat advances trust or it advances nothing. Pick the dig that lets trust survive Ellison's office."
 
 Footsteps passed on the floor above. Will stepped fully back, charm armor sliding into place for anyone who might open the door—late smile ready, hunter hidden, cock still an obscene line he did not bother to hide from her alone.
 

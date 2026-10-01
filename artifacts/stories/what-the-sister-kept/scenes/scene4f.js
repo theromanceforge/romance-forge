@@ -44,7 +44,7 @@ She replayed the call in fragments while the heater ticked. Owen's careful breat
 
 Outside, Will walked the block once like a man stretching legs and once like a man counting exits. He paused under a streetlamp and looked back at the car—not waving, just marking her. Rain silvered his shoulders. The badge flashed and vanished. [player_name] thought of Captain Mara Ellison pressing for clearance, of Dr. Lila Cho's lab queue, of Renny at sixteen laughing with festival lights in her hair, of the silver bracelet missing one charm. Unidentified. Unconfirmed. Still able to be hope if [player_name] did not poison every path with panic.
 
-Will opened the driver door again, wetter, eyes brighter. "Unit's spinning up. Soft as promised." He smelled like rain and the city's iron edge. "You look like a woman who already regrets a verb. Good. Regret means you still have a conscience I can work with. Men like Owen count on consciences going quiet. I count on them making noise at the wrong time."
+"Unit's spinning up. Soft as promised." He smelled like rain and the city's iron edge. "You look like a woman who already regrets a verb. Good. Regret means you still have a conscience I can work with. Men like Owen count on consciences going quiet. I count on them making noise at the wrong time."
 
 "And if the noise is me?" she asked.
 
@@ -63,7 +63,7 @@ She stood in the stairwell with Harborwick rain freckling the narrow window and 
 
 "Sweetheart—what did you tell him?"
 
-"Enough." She hung up. Deleted the log. Her hands shook. Her nipples peaked against her bra from adrenaline and from the knowledge that Will would read her face like a body. Renny's hoodie waited folded at home. Unidentified remains waited upriver. Hope and dread shared every stair.
+"Enough." She hung up. Deleted the log. Her hands shook. Her nipples peaked against her bra from adrenaline and from the knowledge that Will would read her face like a body. Unidentified remains waited upriver. Hope and dread shared every stair.
 
 She descended. Will looked up—mid-thirties, dark stubble, hazel eyes hunting, scar nick at the eyebrow, whitened knuckle on his phone. Not clean-cut. Not safe. The kind of man who smiled late and meant it like a cuff closing.
 
@@ -95,7 +95,7 @@ At her curb he did not walk her to the door like a gentleman. He walked her to t
 
 "Last chance to come clean before I leave you alone with your phone," Will whispered. His fingers popped her jeans button. Slid in over panties. Found her soaked. Two fingers stroked her through the cotton while he watched her face with detective patience and lover cruelty. "This is what tipping him did to your body. Do not tidy it. Tell me the stairwell verb—or tell me nothing and let soft break on its own while I remember how you flutter when you lie."
 
-[player_name] gasped. Grabbed his wrist. Did not pull him away. Renny's name was still a question mark; Owen's name was a fuse; Will's name was becoming a hunger that did not care about clearance calendars. "Will—"
+[player_name] gasped. Grabbed his wrist. Did not pull him away. "Will—"
 
 "Choose," he said, and withdrew his hand slowly, glistening, and painted her lower lip with her own wetness before stepping back into the rain with that late smile. "Guilt spiral or fallout. Both end with me knowing. Only one ends with you deciding to say it aloud before Owen's panic does the talking for you."
 
@@ -103,7 +103,7 @@ In the entry he did not stop at the almost. After he painted her lip with her ow
 
 "You want to know why soft costs me," Will said, forehead to hers, fingers still glistening, cock a thick line against her hip. "Because the last time I went hard without thinking, a woman named Solis paid for my speed. Not your business tonight. But understand: when I agree to watch Owen instead of taking him, I am spending a currency I earned in ashes. If your tip burns that currency, I will not be charming about the receipt."
 
-[player_name] shuddered. Guilt and arousal braided until she could not tell which made her knees weak. She thought of Renny's festival laugh, of unidentified bones, of Owen's porch light, of Will's mouth denying her the center of the kiss on purpose. "I did not mean—"
+[player_name] shuddered. Guilt and arousal braided until she could not tell which made her knees weak. "I did not mean—"
 
 "You meant family." His thigh pressed up. She rocked once, shameless. "Family is how soft nets become funerals. I have seen it. I have *been* it." His hand returned between her legs over panties, two fingers stroking slow, filthy patience, detective rhythm. "Sit in the guilt if you want. Let it soak you. Or brace for me to call the tip what it is—obstruction wrapped in a stepdaughter's panic—and still put my mouth on you after, because I am not clean enough to pretend wanting you stops when you lie."
 

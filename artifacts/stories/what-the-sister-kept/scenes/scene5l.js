@@ -53,9 +53,9 @@ She thought of the festival night in fragments while the bulb hummed: Renny's la
 
 Not a question. Rain on his shoulders. Mid-thirties. Scar nick white. Whitened knuckle on cracked notebook. Badge visible. Cock a thick idle threat in wet jeans. Brutal charm locked down into pure hunter.
 
-"Owen got a head start because Renny's sister ranked family panic over my patience," Will said, stepping inside, pier salt and burnt coffee on his coat. "Soft net. Soft promise. Soft lie. Stairwell was not plumbing. His porch light told me. Soft currency I earned in ashes—you spent for him. That is obstruction. Ellison's favorite noun beside Vale."
+"Soft net. Soft promise. Soft lie. Stairwell was not plumbing. His porch light told me. Soft currency I earned in ashes—you spent for him. That is obstruction. Ellison's favorite noun beside Vale."
 
-[player_name]'s back found the wall. Renny's hoodie folded upstairs. Bracelet missing a charm. Upriver remains still unidentified, charm only *maybe* hers, hope and dread sharing Cho's bag while Will closed the distance until his thigh slotted between hers and his breath hit her mouth without giving her the kiss.
+[player_name]'s back found the wall. Bracelet missing a charm. Upriver remains still unidentified, charm only *maybe* hers, hope and dread sharing Cho's bag while Will closed the distance until his thigh slotted between hers and his breath hit her mouth without giving her the kiss.
 
 "I was trying to keep him from burning maps," she managed.
 
@@ -69,9 +69,9 @@ Two fingers pushed in slow. She clenched. He fucked the truth into her with stak
 
 "You are still the tip," Will finished, curling fingers, thumb on her clit. "Triage. Not absolution. Keeps the file in my hands. Walking is not freedom. It is making me chase both until something else burns." He painted her lower lip with her slick, then put those fingers in her mouth. "Taste the fallout. Soft dead. Hunt live. The sealed past would call me compromised. She would not be wrong. Compromised is how I stay human after ashes. You get hints. You get my cock hard against your hip while I ask for a verb. You do not get clean."
 
-He pressed her palm to the thick line of him through jeans—shameless, brutal honesty—and rolled once into her fist while his fingers returned between her legs, unfinished grammar of almost-climax held exact and cruel. "Not yet. Not until you pick. Forty minutes. Ellison. Soft net trembling. Remains unnamed. Charm still only maybe Renny's. I will not let you bury hope under punishment-fucking or baptize dread into a false funeral. Murder stays plot. This heat advances trust or it is nothing."
+He pressed her palm to the thick line of him through jeans—shameless, brutal honesty—and rolled once into her fist while his fingers returned between her legs, unfinished grammar of almost-climax held exact and cruel. "Not yet. Not until you pick. Forty minutes. Ellison. Soft net trembling. Remains unnamed. I will not let you bury hope under punishment-fucking or baptize dread into a false funeral. Murder stays plot. This heat advances trust or it is nothing."
 
-Rain needled the glass. Foghorn low. Will withdrew, zipped her halfway, left her shaking and shining and empty around nothing. The late smile finally arrived—weapon, wound, no comfort. "Shield me from Ellison—or walk out and make me chase both. Either way I leave changed. Either way Renny stays a question mark tonight. Pick the hurt that keeps truth reachable."
+Rain needled the glass. Foghorn low. Will withdrew, zipped her halfway, left her shaking and shining and empty around nothing. The late smile finally arrived—weapon, wound, no comfort. "Shield me from Ellison—or walk out and make me chase both. Either way I leave changed. Pick the hurt that keeps truth reachable."
 
 He did not kiss the center. [player_name] tasted herself and copper and the metallic edge of a sealed file she was not meant to hold yet. Obstruction bruised the air. Want bruised everything else.
 
@@ -85,13 +85,13 @@ He made her stand in the cool entry air with her jeans half-open while he recite
 
 "If you shield me," he murmured against her temple, "I will still be angry in the elevator after. I will put you against the precinct wall where cameras are blind and finish what my fingers started—mouth on you until you come quiet enough for fluorescent lights, tip still true, trust under reconstruction. If you walk, I will not chase you immediately. I will brief Ellison alone with a hole in my story shaped like your empty chair. Then I will find your stairwell. Then I will ask again with fewer manners and more teeth whether obstruction was panic or a choice you would make twice."
 
-[player_name] shuddered. His hand slid back into her open jeans, not thrusting, just cupping heat, claiming, holding her on the edge of a climax he refused to authorize. "Feel that? That is fallout wearing a detective's palm. Soft died when you dialed Owen. What lives is this: I can still work the case with you if you stand in Ellison's weather beside me. I can still want you if you walk—wanting is not the same as trusting. Trust is the real plot. You tipped a hole in it. Shield is triage tape. Walk is ripping the rest."
+[player_name] shuddered. "Feel that? That is fallout wearing a detective's palm. Soft died when you dialed Owen. What lives is this: I can still work the case with you if you stand in Ellison's weather beside me. I can still want you if you walk—wanting is not the same as trusting. Trust is the real plot. You tipped a hole in it. Shield is triage tape. Walk is ripping the rest."
 
-She rocked once against his palm despite herself; he hissed and stopped her hip with his other hand, precise control, sealed-ash behind his eyes when he added, almost against will: "The last time I confused speed with care, a partner took the fall and a kid paid in a hallway. I wear charm so nobody asks. You asked anyway by becoming a leak I cannot stop touching. Do not make me choose between cuffing your stepfather and cuffing this—" a flex of fingers against her clit through slick cotton "—before you give me a verb I can carry upstairs."
+She rocked once against his palm despite herself; he hissed and stopped her hip with his other hand, precise control, sealed-ash behind his eyes when he added, almost against will: "The last time I confused speed with care, a partner took the fall and a kid paid in a hallway. I wear charm so nobody asks. You asked anyway by becoming a leak I cannot stop touching. Do not make me choose between cuffing your stepfather and cuffing this—" a flex of fingers at her hip "—before you give me a verb I can carry upstairs."
 
 Rain thickened on the glass. Somewhere a foghorn complained. Will withdrew his hand slowly, glistening, wiped nothing, let her see the shine in the weak bulb light like evidence. He checked his watch—scarred knuckle white against cheap metal—and the countdown made the entry feel smaller.
 
-"Thirty-five minutes now," he said. "Shield or walk. Renny's name stays off Cho's toe tag either way tonight. My cock does not care about the briefing. My badge does. Pick which one you are trying to save when you open your mouth."
+"Thirty-five minutes now," he said. "Shield or walk. Renny's name stays off Cho's toe tag either way tonight. My badge does. Pick which one you are trying to save when you open your mouth."
 
 [player_name] tasted copper and her own slick on her lip and the almost of a kiss Will still withheld like the last clean procedure in Harborwick. She nodded toward the door—not yet walking, not yet shielding—only acknowledging the blade of the choice while want and obstruction shared her pulse and Renny's unresolved fate shared the rain. Will waited without softening, badge bright, charm scraped raw, the unfinished kiss still the sharpest hook in the room.`,
   choices: [

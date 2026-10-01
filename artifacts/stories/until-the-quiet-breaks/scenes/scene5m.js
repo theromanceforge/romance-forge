@@ -34,7 +34,7 @@ She set the mug down. She spoke slowly, each sentence a stone placed where it co
 
 "Because your father was already gone, and the debts weren't. Because Henry stood in that front room smelling of woodsmoke and fear and asked me to carry the part of the night that would have made you a different kind of orphan. One who knew about money and ice and how close ruin came."
 
-Her throat worked. "Because I was twenty and stupid with love, and silence sounded like armor. Because the town already liked simple wounds. Because saying no meant watching you learn the uglier facts while you were half a boy raising Clara on diner lights and stubbornness. I thought absence was love in a harder coat. I was wrong in ways that still live in my ribs. I was also trying to keep the creditor's shadow from eating what was left of the Shaw name. Both can be true. Both still make me sick."
+Her throat worked. "Because I was twenty and stupid with love, and silence sounded like armor. Because the town already liked simple wounds. Because saying no meant watching you learn the uglier facts while you were twenty and raising Clara on diner lights and stubbornness. I thought absence was love in a harder coat. I was wrong in ways that still live in my ribs. I was also trying to keep the creditor's shadow from eating what was left of the Shaw name. Both can be true. Both still make me sick."
 
 John's jaw flexed. He braced both hands on the counter beside her hips, caging without trapping, and the nearness sent heat up her spine that had nothing polite to do with apology.
 
@@ -75,7 +75,7 @@ His pulse showed at his throat. Hers answered. Not forgiveness yet, not exile. O
 
 Henry's knock had faded into the rain. Clara had fled to Willow with charcoal under her nails and a sister's accurate mercy. That left the closed diner. Fryer oil cooling. Lemon cleaner on the prep board. And John's anger pacing the linoleum like a third person who smelled of coffee and clean sweat and wanted, obscenely, to put his hands on the woman who had just ruined his evening.
 
-[player_name]'s shirt still clung damp at the small of her back. She sat at the far end of the counter with coffee she wasn't drinking, thighs pressed together against a pulse that had no business showing up for an apology, and watched John wipe the same laminate until the towel squeaked.
+[player_name]'s shirt still clung damp at the small of her back. She sat at the far end of the counter with coffee she wasn't drinking, a pulse that had no business showing up for an apology loud in her throat, and watched John wipe the same laminate until the towel squeaked.
 
 "You could have lied softer," he said, not looking up, his voice low enough to vibrate in her sternum. "You spilled debts and ice and my uncle's request while standing close enough that I got hard under my apron listening to you leave me in the past tense. Do you understand how fucked that is?"
 
@@ -109,7 +109,7 @@ He groaned and kissed her once, hard, coffee-bitter, teeth scraping. Then he tor
 
 He rolled his hips once against her knee, helpless and filthy, and held still. "Clara says Henry's waiting at Willow with a glass and a verdict face. Tomorrow he'll knock again. Tonight I only have this counter and you and a body that won't stop asking for yours."
 
-Rain sheeted the awning. [player_name] was soaked through her underwear from nothing but his voice and nearness and the blunt print of him against her leg. She could have opened her knees and ended the negotiation. The knowledge sat bright and dangerous behind her teeth.
+Rain sheeted the awning. She could have opened her knees and ended the negotiation. The knowledge sat bright and dangerous behind her teeth.
 
 John dragged her off the stool. Her back met the pie case glass, cold through her shirt, while his mouth found her throat and sucked hard enough to mark. She gasped. Her hips jerked. His thigh pushed between hers and stayed there, grinding slow, anger still roughening his breath.
 

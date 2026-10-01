@@ -42,7 +42,7 @@ His eyes found [player_name]'s. "You've already heard pieces. John has lived wit
 The fire popped. Boxwood dripped onto the porch boards. John glanced at [player_name], fear held like a plate still hot from the pass. His hand hung near hers without taking it, the same last inch he had offered at the counter.
 
 [player_name] tasted rain and woodsmoke and the old metal of an anger she had carried for fifteen years. John was ready to become the man who refused protection. Henry was waiting to be spoken to or spoken for. The clock ticked, Henry's mouth parted on another unfinished sentence, and the first word in the room was still hers to give or to hand away.`,
-  textHot: `[player_name]'s body left the diner before her feet did. Her nipples were still tight from John's knee against hers. Her cunt was still humming from the locked-door almost. The blue door's cold was no reset at all.
+  textHot: `[player_name]'s body left the diner before her feet did. The blue door's cold was no reset at all.
 
 John left the tickets with Clara and promised to be back before close. Clara's mouth flattened into something older than sixteen. "Bring her back in one piece," she told him.
 
@@ -52,7 +52,7 @@ John shrugged a dark jacket over his diner shirt and put his shoulder to the blu
 
 Rain beaded on John's lashes. She wanted, absurdly, filthily, to lick it off. She wanted the walk to be longer and shorter at once.
 
-He talked in fragments, as if the truth needed warming like coffee left on a burner. The lean years. The empty pie case. Teaching Clara the till and how to spot a lie, the same skill she later turned on family paper. The night Clara came downstairs with charcoal on her hands and pages that dropped Henry onto the cracked stool. When John said [player_name]'s name in the story, his voice roughened. She heard the rasp and felt it between her legs like a thumb.
+He talked in fragments, as if the truth needed warming like coffee left on a burner. The lean years. The empty pie case. Teaching Clara the till and how to spot a lie, the same skill she later turned on family paper. The night Clara came downstairs with charcoal on her hands and pages that dropped Henry onto the cracked stool. When John said [player_name]'s name in the story, his voice roughened.
 
 She talked too. Trains that never smelled like boxwood. Cities that rewarded leaving and punished return. Nights alone when the memory of his hands at twenty was the only heat she allowed herself. The grown man beside her made those memories feel almost chaste, almost insulting to what she wanted now.
 
@@ -62,7 +62,7 @@ Halfway up the hill their hands brushed. Neither pulled away. The second brush b
 
 She wondered if he was hard under the jacket. She wondered if the rain would hide it if she checked. She didn't check. The wondering soaked her anyway.
 
-At the gate John stopped. "If I speak first, he remembers the boy he protected," he said, voice low enough to live in her sternum. "He softens it again and calls it love. Fifteen years of love that never fit, while I wanted you in ways a protected boy wasn't supposed to keep wanting."
+At the gate John stopped. "If I speak first, he remembers the boy he protected," he said, voice low enough to live in her sternum. "He softens it again and calls it love. Fifteen years of love that never fit, while I wanted you in ways a protected nephew wasn't supposed to keep wanting."
 
 He turned to face her. Close enough that she smelled his skin under the rain: coffee, mint, clean sweat from the rush. "If you speak first, he faces the woman he sent away. He can't tidy you into ambition while you stand in his front room smelling of rain and refusal." An almost-smile. "And of me, if I'm honest about how close I've walked."
 
@@ -76,7 +76,7 @@ He aged a year in a second. His eyes flicked, uncle-sharp, over John's damp hair
 
 "We came for the truth that fits," John said, the rasp still in his voice. "Not the version that kept the diner open and my sleep broken. Not trains and brighter rooms. Clara found papers. You wrote a letter. She's standing here because of both. Finish what you started, Uncle, or we finish it for you."
 
-Henry stepped aside. Wood heat, old books, lemon polish. Clara's charcoal stood on the mantel beside the boyhood photograph of John. The paperweight sat on its stacked pages. Henry's hands shook once and stilled.
+Henry stepped aside. Wood heat, old books, lemon polish. Charcoal sketches stood on the mantel beside the boyhood photograph of John. The paperweight sat on its stacked pages. Henry's hands shook once and stilled.
 
 Rain cooled on [player_name]'s coat. The heat John had banked in her didn't. Standing in Henry's careful room with desire still under her skin felt like carrying a lit match into church, her cunt still slick from one stroke of a thumb and a hill of almost.
 

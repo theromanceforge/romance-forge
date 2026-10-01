@@ -85,7 +85,7 @@ Clara hugged the folder to her chest. "Now," she said. "Boots get muddy either d
 
 Clara shifted the folder once, a paper whisper like punctuation. "Then decide before Henry invents another cup of tea. My quilt doesn't care about anyone's feelings. It cares what leaves this room, in which order."
 
-Freight complained again toward the yard. [player_name] thought of the station platform and the sticking blue door. Backing Clara meant walking downstairs with John close behind her and the folder between them like a third pulse. Waiting meant buying him a corridor, and spending it upstairs with his mouth on her neck until Clara's clock ran down. Later, whichever she chose, there would be a locked door and his hands.
+Freight complained again toward the yard. [player_name] thought of the station platform and the sticking blue door. Backing Clara meant walking downstairs with John close behind her and the folder between them like a third pulse. Waiting meant buying him a corridor before the clock ran down. Later, whichever she chose, there would be a locked door and his hands.
 
 Rain on the slate kept time. Clara's folder waited. John's thumb stayed on her pulse. [player_name] drew a breath that tasted of rain and graphite and opened her mouth to choose.`,
   choices: [

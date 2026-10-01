@@ -41,17 +41,19 @@ At the window, fog thinned over the river. Will's arms circled her from behind. 
 Will kissed her forehead, then her mouth, soft as rain after a long drought of almost-trust. "Then we take it. Daylight. Work. Grief that gets to breathe. And you in my bed without either of us tasting betrayal in the morning."
 
 They stood there until the kettle clicked off and the city noise rose like a tide that no longer threatened to erase a girl's name. Harborwick would gossip. Ellison would monitor. Owen would face what he faced. None of that wrote the ending alone. The ending was this: [player_name] and William Akers, case closed in daylight, Renny's fate spoken honestly, love no longer requiring a lie to survive the night.`,
-  textHot: `Morning found Harborwick rinsed and [player_name]'s body already answering William Akers before the precinct steps finished shining—Renny named, remains confirmed, clerk charged, the old lie burned out of her throat like smoke after a long fire. Truth sat in her mouth. Want sat lower, shameless, earned.
+  textHot: `She had spoken Renny's name into the public record, and the record had held.
 
-Will's cracked knuckles brushed hers on the walk to the pier and the brush went through her like a finger along her clit without the finger: mid-thirties detective, scar through his brow, brutal charm scraped raw into devotion. She spoke Renny's name into the public record with her pulse hammering between her thighs, grief and arousal sharing a cord she refused to apologize for. Sex was the living who had survived the file.
+Truth sat in her mouth. Want sat lower, shameless, earned.
+
+Will's cracked knuckles brushed hers on the walk to the pier and the brush went through her like a finger along her clit without the finger: mid-thirties detective, scar through his brow, brutal charm scraped raw into devotion. Sex was the living who had survived the file.
 
 By the time the gathering emptied, Will's hand at the small of her back was not comfort alone—it was a claim she arched into, damp already from hours of almost-touch under fluorescent honesty. "Apartment," he said, voice velvet-blade low. "Now. Daylight did not ruin this. Daylight made me hard for the woman who finally stopped sandbagging her own sister's case."
 
-His place smelled like pier salt and soap and scrubbed-dark past. The door shut. Will shoved her gently against it and kissed her like a man who had waited through warrants and withheld letters and Cho's pending language and was done waiting for permission from grief. [player_name] opened for him—mouth, thighs, the mid-twenties hunger that had lived under every interrogation look. His thigh pressed between hers and she rocked on it with a broken sound, cunt already slick through underwear, soaking the seam while Renny's bracelet winked cold against her wrist as if honesty itself were an erogenous zone.
+His place smelled like pier salt and soap and scrubbed-dark past. The door shut. Will shoved her gently against it and kissed her like a man who had waited through warrants and withheld letters and Cho's pending language and was done waiting for permission from grief. [player_name] opened for him—mouth, thighs, the mid-twenties hunger that had lived under every interrogation look.
 
 "Fuck—Will—"
 
-"I know." He dragged her hoodie—her own, not Renny's, the living cotton—up and off. Bra followed. His mouth found her nipple and sucked hard enough that her knees buckled; she clutched his scarred brow and felt him smile against her breast like brutal charm had finally found a use that did not cut. "You kept a secret for seven years. I kept Solis sealed. Tonight we don't keep anything. Not your wetness. Not my cock. Not the way you say my name when you come."
+"I know." Bra followed. His mouth found her nipple and sucked hard enough that her knees buckled; she clutched his scarred brow and felt him smile against her breast like brutal charm had finally found a use that did not cut. "You kept a secret for seven years. I kept Solis sealed. Tonight we don't keep anything. Not your wetness. Not my cock. Not the way you say my name when you come."
 
 He got her to the bed stripped to skin, grey-green eyes dark, trousers shoved down so his cock sprang heavy and flushed against her stomach. [player_name] wrapped her hand around him and stroked once, filthy and reverent, thumb smearing precum over the head until his breath punched out. "Inside," she ordered, grief-bright and certain. "I want you in me while the case is closed. I want to feel something that isn't absence."
 
@@ -61,11 +63,11 @@ He fucked her in long deep strokes that made the headboard kiss the wall in a rh
 
 Will followed with a curse bitten into her throat, spilling deep, hips stuttering, the mid-thirties control cracking into something helpless and holy. They stayed locked. Sweat cooled. Outside, a foghorn rolled. Inside, his cock softened inside her and she clenched around the leaving like she was not ready to be empty of him yet.
 
-Round two was slower—her riding him in the late afternoon, breasts heavy in his hands, his thumb on her clit while she ground down until she shook apart again, saying Renny's name once soft into his shoulder like a blessing that belonged in the room with pleasure and did not make either filthy. Round three was shower steam and his fingers in her cunt while she braced on tile, coming on his hand with her forehead on cool porcelain, laughing wetly when he muttered that Ellison would never believe partnership could look like this.
+Round three was shower steam and his fingers in her cunt while she braced on tile, coming on his hand with her forehead on cool porcelain, laughing wetly when he muttered that Ellison would never believe partnership could look like this.
 
 Night found them tangled and sore in the best way. Will traced the bracelet's gap on her wrist. "Together in truth," he said into her hair.
 
-"Together," she answered, thighs sticky, heart loud, case closed, sister spoken, body claimed without shame. Harborwick could gossip itself hoarse. [player_name] slept on William Akers's chest with Renny's fate finally honest and her cunt still remembering his cock—and the ending, earned and explicit, was simply that they stayed, they told the truth, and they kept choosing each other's bodies in the light the old lie could no longer steal.
+"Together," she answered, thighs sticky, heart loud, case closed, sister spoken, body claimed without shame. Harborwick could gossip itself hoarse.
 
 Morning after, Will made eggs that were only half a disaster and fed them to her in bed with his bare thigh against hers, cock soft until she licked salt from his fingers and he thickened again with a helpless laugh. They moved slow in daylight—her on her back, him rocking deep, talking filthy-soft about closed files and open mouths until she came quiet and shaking with the bracelet cold on her wrist and his name warm on her tongue. Afterward he said, "Daylight again tomorrow," and [player_name] believed him the way she had not believed Owen's pier-night story: because this promise tasted like coffee and sweat and a sister finally spoken, not like protection wearing a lie.`,
   choices: []

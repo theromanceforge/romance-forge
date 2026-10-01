@@ -30,7 +30,7 @@ Rain began again on the roof like needlepoint. [player_name] looked at the warm 
 
 A radio crackle on Will's hip—Ellison's channel, clipped, asking for status without saying *do not rhyme his old partner*. Will answered in shorthand: inside, warm shredder, routing stamp, no hard ID, remains still pending language. He did not say [player_name]'s name like a liability. He did not say want. The radio went quiet. Harborwick's damp history leaned on the corrugated steel.
 
-[player_name] flexed cold fingers inside Will's offered spare glove and felt seven years press upward. Renny's hoodie lived folded across town. The bracelet gap lived in memory. Soft surveillance and raw admissions and Ellison ultimatums had all poured into this bay. The kept secret's remaining scraps—letters, warmer mercies—still waited somewhere that was not a shredder basket. Breach was not emptying every pocket. It was standing in the geography a teenager had pointed at and choosing which living man to spend it on.
+[player_name] flexed cold fingers inside Will's offered spare glove and felt seven years press upward. The bracelet gap lived in memory. Soft surveillance and raw admissions and Ellison ultimatums had all poured into this bay. The kept secret's remaining scraps—letters, warmer mercies—still waited somewhere that was not a shredder basket. Breach was not emptying every pocket.
 
 Footsteps—distant, then nearer. Not yet a face. Will angled the light off, then on, signaling. His body blocked [player_name]'s without drama. Mid-thirties bulk as shield. Mid-twenties pulse as drum. Remains unnamed. Charm probability. Owen's costume and a clerk's initials sharing the same dust.
 
@@ -43,17 +43,17 @@ Captain Mara Ellison would call this authorized if the paperwork held and cowboy
 Corrugated steel held the fog like a throat. Inside: warm shredder smell, a routing stamp, ledger page waiting like a blade, and still no hard ID waiting to baptize anyone. Catching the clerk here meant ending the chain in motion. Pressing Owen for a partial meant dragging family confession into warehouse dust before the clerk bolted. Will's flashlight painted rust and soap. A distant hinge complained. [player_name] drew a breath that tasted like unfinished trust and felt the next layer arrive on that sound—hope still arguing, dread still armed, Harborwick listening through metal.`,
   textHot: `The red door gave on the third shove, and [player_name] felt the give in her cunt as much as in her shoulders—breach as bodily fact, William Akers's weight translating into wet heat she had no business bringing into a crime scene.
 
-Pre-dawn fog soft-fisted the warehouse. Salt. Rust. Chain-link. Foghorn in the ribs and lower. She stayed at his shoulder, mid-twenties, flashlight low, thighs already tight from the way he moved—mid-thirties, scar catching sodium, brutal charm banked into steel that somehow failed because when his coat brushed her breast in the narrow bay her nipples peaked and her clit throbbed once like a traitor with a badge kink. Renny's absence walked with them. Cho's *unidentified* still ruled the upriver bones. Charm still only *like*. Hope and dread shared the dark with a third animal: want.
+Pre-dawn fog soft-fisted the warehouse. Salt. Rust. Chain-link. Foghorn in the ribs and lower. She stayed at his shoulder, mid-twenties, flashlight low, thighs already tight from the way he moved—mid-thirties, scar catching sodium, brutal charm banked into steel that somehow failed because when his coat brushed her breast in the narrow bay her nipples peaked and her clit throbbed once like a traitor with a badge kink. Cho's *unidentified* still ruled the upriver bones. Charm still only *like*. Hope and dread shared the dark with a third animal: want.
 
 "Clear left," Will murmured, and the Solis-flinch lived under the words. Broken should not be this hot. He wore broken like cologne she wanted to lick off his pulse while clearing cold-storage. Condensation. Bleach ghost. Diesel. Entry did not christen bone. Entry made [player_name] wet with adrenaline and proximity.
 
-They found the clerk's ghost first: invoices half-shredded, city routing stamp, Renny's dared initials scratched into wood, cigarette butt, warm shredder basket. Will's pen scratched. Notebook spine cracked. When he moved [player_name] behind him at a metal-on-metal sound, his hand on her coat was brief and professional and shot straight to her pussy anyway—claim, shield, unfinished fuck translated into fabric.
+Will's pen scratched. Notebook spine cracked. When he moved [player_name] behind him at a metal-on-metal sound, his hand on her coat was brief and professional and shot straight to her pussy anyway—claim, shield, unfinished fuck translated into fabric.
 
 "Someone left in a hurry," he said. Grey-green eyes flicked to her mouth in the dark. "Or someone is still here. Stay behind me. If you get scared, hand in my coat. If you get wet from the dark, tell me later when Ellison cannot smell it on a report."
 
 She almost moaned at *later*. They moved. Generator carcass. Zip ties. Silver display tray missing teeth—cousin of a bracelet gap, probability not baptism. Ledger page with Owen's festival-week dates in someone else's hand. Hope argued. Dread answered. Bones unnamed. [player_name]'s throat tightened and her cunt clenched empty in the same breath; grief and want refused to queue separate rooms.
 
-Will stopped at a frost-latched door. Breath ghosted. His body heat licked her front when she nearly walked into his back. "Two verbs," he said, velvet-blade quiet. "Catch the clerk in the warehouse—live link, warm shredder, the pulse Renny mapped. Or press Owen with what this room proves until he confesses partially—dates, companions, lullaby teachers—while a perimeter team owns the footsteps. Catch living steel. Or squeeze the stepfather. Both move. Neither names Renny among the dead. Both leave me hard from watching you survive this dark like it is a kind of sex."
+Will stopped at a frost-latched door. Breath ghosted. His body heat licked her front when she nearly walked into his back. "Two verbs," he said, velvet-blade quiet. "Catch the clerk in the warehouse—live link, warm shredder, the pulse the journal mapped. Or press Owen with what this room proves until he confesses partially—dates, companions, lullaby teachers—while a perimeter team owns the footsteps. Catch living steel. Or squeeze the stepfather. Both move. Both leave me hard from watching you survive this dark like it is a kind of sex."
 
 Rain needled the roof. Radio crackle—Ellison asking status, the raid wound under his charm caution without the name. Will answered shorthand: inside, warm shredder, no hard ID. He did not say that [player_name]'s breath on his neck was a problem. He did not say sealed-file risk. His boot found her shoe in the dark—dare—and she had to bite her tongue on a sound the warehouse would have loved.
 
@@ -61,7 +61,7 @@ Rain needled the roof. Radio crackle—Ellison asking status, the raid wound und
 
 "Both hurt the quiet-makers," Will said. Brutal charm failing into hunger. "Both keep you close enough to feel whether grief makes you careful or soaked and reckless. I push early and people bleed. I will not rhyme that hallway with this bay—but I will put my mouth on yours for one second if we live through the next five minutes and you ask with your eyes. Your map. Your call. Dawn is coming. So is whoever owns those footsteps."
 
-Soft surveillance and raw admissions and leaks had poured into this bay. The kept scraps still waited elsewhere. Breach was not emptying every pocket. It was choosing which living man to spend Renny's geography on while Will's heat made her thighs slick and Cho still refused a hard ID.
+Soft surveillance and raw admissions and leaks had poured into this bay. The kept scraps still waited elsewhere. Breach was not emptying every pocket. It was choosing which living man to spend the geography on while Will's heat made her thighs slick and Cho still refused a hard ID.
 
 Footsteps nearer. Will's flashlight low. Mid-thirties bulk as shield. Mid-twenties pulse as drum between her legs. Remains unnamed. Charm probability. Owen's costume and a clerk's initials sharing dust with her want.
 
@@ -77,7 +77,7 @@ His laugh was silent and filthy. "Then choose a verb before I choose for us with
 
 The silver tray missing teeth winked like a dare. The ledger page waited like a blade. his old partner smoked under Will's silence when the radio had said nothing with teeth.
 
-She catalogued her own pulse: throat, wrists, clit—professional then personal then fused. Renny had been scared under anger here. Standing here now, bravery was fear that had chosen heat as well as justice. Catch living steel or squeeze Owen across glass. The unfinished fuck at her front was not separate from the map—it was what trusting William Akers cost in Harborwick dark when clean distances had already failed them both.
+She catalogued her own pulse: throat, wrists, clit—professional then personal then fused. Standing here now, bravery was fear that had chosen heat as well as justice. Catch living steel or squeeze Owen across glass. The unfinished fuck at her front was not separate from the map—it was what trusting William Akers cost in Harborwick dark when clean distances had already failed them both.
 
 The warehouse hummed. [player_name]'s cunt throbbed in time with distant hinge complaint and Will's cracked-knuckle patience. Catch the clerk in endgame steel—or squeeze Owen with this room as lever.
 

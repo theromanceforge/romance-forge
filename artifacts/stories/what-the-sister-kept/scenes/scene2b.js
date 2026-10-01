@@ -63,7 +63,7 @@ She sat on Renny's bed. Mattress sigh. Rain on glass. Her thighs registered the 
 
 Will wrote without looking at the page, eyes on her mouth when she spoke Owen's name. "Estranged now?"
 
-"He calls. I don't let him up." The kept thing surged: Owen on the pier with a stranger whose posture said business while the festival sang; [player_name] seeing; [player_name] swallowing; [player_name] leaving him off the page. Want and guilt tangled until she could not tell whether the heat under her skin was shame or the simple animal fact of William Akers in her sister's room looking at her like truth was a kind of undressing.
+"He calls. I don't let him up." The kept thing surged: Owen on the pier with a stranger whose posture said business while the festival sang; [player_name] seeing; [player_name] swallowing; [player_name] leaving him off the page.
 
 He circled once. Stopped at the photo of them on the pier—wind, sun, bracelet flashing. His finger hovered. "Ellison thinks a bedroom contaminates. She'll side-eye this in the morning—she always side-eyes when I get close to a witness." Dry. Almost bitter. "Cho thinks charms are promiscuous. Me?" He glanced back, smile not clean, smile like a man who kept sealed files for days he needed to be decent and today was not one of those days. "I think people tell the truth faster inside what they lost. And faster when someone refuses to pretend the truth won't put its mouth on them."
 

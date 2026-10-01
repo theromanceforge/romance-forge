@@ -81,7 +81,7 @@ He came with her name bitten into her shoulder. She followed, shaking, and laugh
 
 Afterward he cleaned her with a kitchen towel warmed under the tap, so careful it nearly undid her more than the sex. They dressed in pieces and tangled again. His palm rested low on her belly under her shirt, possessive and gentle.
 
-"I used to stand at the station on nights like this," he murmured. "Listening for you. Mae noticed. Clara noticed. So I stopped going and put the wanting into work, and into nights alone above the diner that I won't describe if you'd prefer dignity. Though dignity left this booth about an hour ago."
+"I used to stand at the station on nights like this," he murmured. "Listening for you. Mae noticed. So I stopped going and put the wanting into work, and into nights alone above the diner that I won't describe if you'd prefer dignity. Though dignity left this booth about an hour ago."
 
 [player_name] laughed into his throat. "Describe enough. I spent years pretending ambition was the only heat I owned. Henry's letter cracked the quiet. Your mouth finished the job." She bit lightly at his jaw. "At first light I'll still be the woman who demanded truth. I'll also be the woman who took you inside her while the storm trapped us, and called it survival. Both stand."
 

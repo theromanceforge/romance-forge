@@ -105,7 +105,7 @@ His cock pressed harder against her. "I can feel mercy trying to sneak in, becau
 
 "If I sit," she said, stroking him once through the cloth, "you study. You ask. You don't use my body to mute what Clara drew." She squeezed. "If I ask you not to forgive him, you stay angry and you stay hard for me in the same breath. Unforgiveness isn't celibacy. I won't be the prize that smooths away your rage."
 
-"Christ." His hand left her breast, traveled down, popped her button, and slid into her underwear without ceremony. Two fingers found her slick and aching. He didn't push inside. He held her there, cupping, possessive, while his other hand turned a sketch of Henry as a door.
+"Christ." He didn't push inside. He held her there, cupping, possessive, while his other hand turned a sketch of Henry as a door.
 
 "Either way, this sketchbook stays on my counter tonight," he said. "Either way, Henry doesn't get these pages back. And either way I'm going to want to fuck you over this laminate when we're done, and I'm not softening that forecast."
 

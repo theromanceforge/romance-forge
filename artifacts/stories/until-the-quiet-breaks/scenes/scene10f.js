@@ -77,7 +77,9 @@ Henry nodded, tears standing. "I wrote you out of the uglier facts because I lov
 
 They made the grace concrete with ink and chores. Henry signed the list on John's order pad. Clara photographed it and stayed inside to file it.
 
-[player_name] walked the wet boxwood path in the rain with John behind her. Halfway to the gate, out of sight of the windows, he pressed her against the fence. His thigh slid between hers. "After he signed," he muttered against her throat, "I promised myself I'd take the courtroom out of your body." His hand slid down the front of her jeans and found her slick.
+[player_name] walked the wet boxwood path in the rain with John behind her. Halfway to the gate, out of sight of the windows, he pressed her against the fence.
+
+His thigh slid between hers. "After he signed," he muttered against her throat, "I promised myself I'd take the courtroom out of your body." His hand slid down the front of her jeans and found her slick.
 
 "Say it," he said, two fingers curling inside her. "Say the ending while I make you come in the rain."
 

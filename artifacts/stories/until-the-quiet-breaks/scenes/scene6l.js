@@ -77,13 +77,13 @@ His hand left her breast, popped her jeans button, and slid into her underwear. 
 
 She finished it shaking. Voss, the letter, the cracked shrines, the wanting that never quit. She rode his hand through the last sentences until pleasure whitened the fluorescent edges. She came with a broken sound into his shoulder, pulsing around his fingers while rain needled the awning. John kissed her temple and kept his fingers inside her through the aftershocks like a claim.
 
-"It's finished enough to act on," he said, his voice wrecked. "Not finished enough to forgive." He curled his fingers once more, cruel and sweet, then eased out. "Clara will want into this room. Henry will knock before dawn. We decide what we do with the air after."
+"It's finished enough to act on," he said, his voice wrecked. "Not finished enough to forgive." He curled his fingers once more, cruel and sweet, then eased out. "Willow will want into this room. Henry will knock before dawn. We decide what we do with the air after."
 
 [player_name] caught his wrist and licked herself from his knuckles, deliberately, watching his cock twitch against denim.
 
-Then she made herself think. "Inviting Clara means she hears the same shape without a secondhand version. She found the papers. She earned the room. Going to Henry means we spend the last dark as a blade. We wake him with the story complete. No manners."
+Then she made herself think. "Unlocking means family hears the same shape without a secondhand version. Going to Henry means we spend the last dark as a blade. We wake him with the story complete. No manners."
 
-John dragged her hand to his zipper. "Then feel what both roads do to me." Hard. Thick. Hot through cloth. "If Clara comes in, I button up, wash my hands, and unlock with my sister's honesty in the room and the want put away for later. If it's Henry before dawn, I take you in the truck cab first or I go insane. Then we walk into his woodsmoke with you still sore and his quiet finally breakable."
+John dragged her hand to his zipper. "Then feel what both roads do to me." Hard. Thick. Hot through cloth. "If we unlock, I button up, wash my hands, and open the door with the want put away for later. If it's Henry before dawn, I take you in the truck cab first or I go insane. Then we walk into his woodsmoke with you still sore and his quiet finally breakable."
 
 She squeezed him once through his jeans and felt his forehead drop to hers.
 
@@ -93,11 +93,11 @@ John hauled her closer on the vinyl until she straddled his thigh properly, jean
 
 "Listen to me," he said, hands on her hips, guiding one slow grind that edged her toward another fall he refused to finish. "I can do both hungers. What I can't do is a pretty pause where we pretend the story ended clean on this table. Stories that end clean are costumes. You just burned yours. Don't sew it back for manners."
 
-[player_name] ground down once more, selfish and shaking, then forced herself still. Rain needled the awning. His belt buckle bit her palm when she braced on it. "Unlock or drive," she whispered. "Clara's ears or Henry's sleep. I'm done inventing third options that feel like exile."
+[player_name] ground down once more, selfish and shaking, then forced herself still. Rain needled the awning. His belt buckle bit her palm when she braced on it. "Unlock or drive," she whispered. "Family at the door or Henry's sleep. I'm done inventing third options that feel like exile."
 
 When the last seam landed, [player_name] was still fluttering around the ghost of his fingers. Fryer oil ticked. Pie case hummed. John kissed her knuckles—the ones that had held his cock through cloth—and laughed softly at the tremble in her thighs.
 
-"Clara texted an hour ago," he admitted. "Said if I vanished into this booth without her, she'd sketch me as a coward with good coffee. Half joking. Half already reaching for keys. Henry hasn't knocked. That worries me."
+"Henry hasn't knocked," he admitted. "That worries me."
 
 His hand slid back between her legs over the denim, cupping her through the seam, a possessive hold that made her jolt. "If it's Willow, I'll take you apart in the truck first, or I'll say something unforgivable to his face. Go dirty on purpose. Clean left town when you did."
 

@@ -55,15 +55,15 @@ John's hand stayed on her wrist. Henry waited. Clara waited. Rain sheeted Willow
 [player_name] drew a breath that tasted of wet boxwood and old coins and woodsmoke. The red light blinked. The mantel clock held steady.`,
   textHot: `Henry's living room on Willow Lane smelled of woodsmoke and confession. The heat had followed [player_name] all the way up the hill from the diner's cracked counter, where John's mouth kept starting sentences her body still wanted finished.
 
-She stood near the mantel with her phone face-up on the glass weight, the red recording light blinking like a second pulse. Henry's voice was already trapped. John stood close behind her, coat open, his chest to her back. His hand rested at her hip under the hem of her sweater, possessive and warm. Wet boxwood pressed the glass. Rain needled the slate. Clara's footsteps moved upstairs.
+She stood near the mantel with her phone face-up on the glass weight, the red recording light blinking like a second pulse. Henry's voice was already trapped. John stood close behind her, coat open, his chest to her back. His hand rested at her hip over her sweater, steady and warm. Wet boxwood pressed the glass. Rain needled the slate. Clara's footsteps moved upstairs.
 
 "Say it again," John said, loud enough for Henry. "For the recording. The ice. The whiskey you called tea. Voss. Her yes at twenty. Ambition as the cover. My grief as a season you tidied away."
 
 Henry's throat worked. His eyes flicked to John's hand at [player_name]'s hip and away. "Your father went through the ice because I drank. Voss circled. I asked [player_name] to leave. She said yes. The cover held until Clara found papers. I'm saying this into her phone because she asked me to stop turning winter into weather."
 
-[player_name] still felt the unfinished answers from the counter. John's thumb stroked the bare skin above her waistband, slow and steady. "I recorded you," she told Henry, steadier than her pulse. "Not for a museum. For a blade that doesn't forget. Now I choose. Release it to John and Clara only, and let the family keep it. Or hold it as insurance and make you say it live, with the file sealed in case you invent weather tomorrow."
+[player_name] still felt the unfinished answers from the counter. John's thumb stayed at her hip, slow and steady. "I recorded you," she told Henry, steadier than her pulse. "Not for a museum. For a blade that doesn't forget. Now I choose. Release it to John and Clara only, and let the family keep it. Or hold it as insurance and make you say it live, with the file sealed in case you invent weather tomorrow."
 
-John bent his head to her ear. "Release it to us," he murmured, too low for Henry, "and I'll play it once with Clara, lock it, then take you back to the flat while your pulse is still arguing. Hold it and speak live, and I'll still have you after. Delaying the file doesn't delay what we both already know."
+John bent his head to her ear. "Release it to us," he murmured, too low for Henry, "and I'll play it once for family and lock it. Hold it and speak live, and I'll stand next to you while he does. Either way, the truth leaves this room tonight."
 
 Footsteps on the stairs. John's hand left her hip and found her wrist instead. Clara appeared in the doorway with graphite on her fingers and a look that missed nothing. "Is that still on?" she asked. "Live or file. Not weather. And Uncle, stop looking at the floor like it'll answer for you."
 

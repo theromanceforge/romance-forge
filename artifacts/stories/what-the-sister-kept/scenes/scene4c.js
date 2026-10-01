@@ -32,7 +32,11 @@ Will held the phone between them like a third rail. Rain ran off the evidence st
 
 Foghorn. Chain-link. Will's scarred brow. Nina Solis unnamed and present in the way he watched her like closeness itself could become a raid wound. [player_name] stood on black-glass planks and felt Harborwick ask her which almost she would choose.
 
-She looked past him at the black water where festival lights had once stuttered and where Renny's laugh had been the brightest careless thing in a family already learning how to lie. Seven years. A silver charm that was only *like*. Will's notebook spine cracked when he shifted it against his palm, overuse made visible. "If I kiss you," he said, still ignoring Cho's vibrating name, "Ellison gets another reason to call this personal. If I don't, I still want to. That is the problem with me—I want things that leave marks." His free hand flexed near his ribs again, involuntary, a ghost of Solis in muscle memory. [player_name] understood then that his brutal charm was not confidence alone; it was scar tissue performing as invitation. She could close the rain gap and taste him past every procedural line. She could let the ME's call cut the hour open and pour timing over Owen's story while hope and dread kept fighting for Renny's unnamed place among the upriver dead. The pier waited. The almost-kiss waited. Cho waited. And somewhere in Will's past a raid still smoked, warning him—and her—that wanting a witness this close had a body count he would not recite.
+She looked past him at the black water where festival lights had once stuttered and where Renny's laugh had been the brightest careless thing in a family already learning how to lie. Seven years. A silver charm that was only *like*. Will's notebook spine cracked when he shifted it against his palm, overuse made visible.
+
+"If I kiss you," he said, still ignoring Cho's vibrating name, "Ellison gets another reason to call this personal. If I don't, I still want to. That is the problem with me—I want things that leave marks." His free hand flexed near his ribs again, involuntary, a ghost of Solis in muscle memory. [player_name] understood then that his brutal charm was not confidence alone; it was scar tissue performing as invitation.
+
+She could close the rain gap and taste him past every procedural line. She could let the ME's call cut the hour open and pour timing over Owen's story while hope and dread kept fighting for Renny's unnamed place among the upriver dead. The pier waited. The almost-kiss waited. Cho waited. And somewhere in Will's past a raid still smoked, warning him—and her—that wanting a witness this close had a body count he would not recite.
 
 The foghorn sounded again, closer, and [player_name] thought of Renny's charm bracelet missing one piece—the gap that had lived in a jewelry box like a withheld sentence. Will's almost-kiss still hung in the rain between them, unfinished as the case. Cho's name glowed insistently on wet glass. Ellison's Solis warning smoked at the edge of the hour. Whatever [player_name] chose next would spend hope or dread or both, and the pier boards under her feet remembered festival noise the way Will's ribs remembered a raid he would not narrate.
 
@@ -49,29 +53,31 @@ The phone's glow painted both their throats blue. Crime-scene tape existed only 
 
 Ellison had muttered *Not another Solis* at the outbound log. Will's hand had gone to his ribs. Nina Solis—raid wound, hallway bruise, story he would not fuck into explanation—lived in that gesture. It made him more dangerous, not less. [player_name] felt the warning in her cunt as much as her head: this man wanted closeness like a breach, and breaches had already cost him.
 
-"Here," Will said at the ferry slip planks, voice rough with rain and want. "Charm's first story. Festival night. Renny seen near this rail. The silver piece in Cho's lab *could* be hers. Could. Bones still unidentified. Stand here and tell me what your statement left out while hope and dread share your pulse."
+"Here," Will said at the ferry slip planks, voice rough with rain and want. "Charm's first story. Festival night. The silver piece in Cho's lab *could* be hers. Could. Bones still unidentified. Stand here and tell me what your statement left out while hope and dread share your pulse."
 
-She wrapped her arms around herself and still felt exposed—nipples tight from cold and from him, rain sliding cold down her spine while heat pooled low. Mid-twenties in pier wind. Renny's absence everywhere. Unconfirmed remains. The word *sister* wanting the evidence tag and being refused.
+She wrapped her arms around herself and still felt exposed—nipples tight from cold and from him, rain sliding cold down her spine while heat pooled low. Mid-twenties in pier wind. Unconfirmed remains. The word *sister* wanting the evidence tag and being refused.
 
 "I kept quiet," she said.
 
 Will turned. Grey-green eyes hungry. The smile flickered—weapon, wound. "Quiet is a full-time job. I've paid for quieter mistakes." Ribs again. Not Nina's name. The body knowing. He stepped into her space until rain from his coat darkened her shirt and she smelled soap, salt, gun oil, that scrubbed-dark past. "Owen's alibi. Festival argument. You home. One lie wearing work clothes."
 
-Attraction moved under the rain like hands. Dangerous. She wanted to fist his coat and drag his mouth down. She wanted to shove him for making her wet while Renny's fate stayed contested bone. His charm was not sweet; it was interrogation dressed as almost-sex, and her clit throbbed traitorously when his gaze dropped to her mouth.
+Attraction moved under the rain like hands. Dangerous. She wanted to fist his coat and drag his mouth down. His charm was not sweet; it was interrogation dressed as almost-sex, and her clit throbbed traitorously when his gaze dropped to her mouth.
 
-"I am not asking you to declare the remains hers." Closer. Breath on her lips. "I am asking what you saw when Renny still had a pulse you could fight with."
+"I am not asking you to declare the remains hers." Closer. Breath on her lips.
 
 The almost-confession rose with the ache between her thighs—Owen at the pier with someone wrong; friends story swallowed; statement scrubbed. Will's hand rose to her cheek and stopped a charged inch short. Restraint as brutal charm. Wound showing. "Ellison thinks this walkthrough is me chasing a feeling. Half right. Feelings got people hurt on a raid that still wakes me up. Nina—" He cut himself off. Jaw flexed. "Help me not be that man tonight."
 
 Rain thickened. His mouth close enough to taste. Crime-scene tape only memory between them, the line still real: witness and detective, her cunt aching, his cock likely hard in wet jeans if the grit in his voice meant anything. "Tell me to stop," he murmured. "Or don't."
 
-Phone buzzed. Cho. He ignored it. Forehead nearly to hers. Almost-kiss vibrating between them like a second call. Buzz insistent. He swore, charm cracking raw, and held the lit screen between their mouths—Dr. Lila Cho, ME, timing that could crack Owen without naming Renny dead.
+Phone buzzed. Cho. He ignored it. Forehead nearly to hers. Almost-kiss vibrating between them like a second call. Buzz insistent.
 
 Two hungers, both physical. Close the rain gap: kiss him past every tape, tongue and teeth and unfinished heat against pier rail while unidentified hope clawed her throat. Or answer Cho: chase ME timing, bodies still humming, Solis's unnamed raid warning in his ribs while science poured cold fact over want.
 
 Foghorn. Chain-link. Scarred brow. [player_name]'s thighs slick under rain-cold clothes. Will watched her like closeness itself could become another raid wound—and like he might risk it anyway for her mouth and her truth.
 
-She could still feel the ghost of his almost-touch on her cheek, a heat-print rain could not erase. Choosing the kiss meant tasting coffee and danger and the wound under his charm while Cho's call went to voicemail and Ellison somewhere imagined the worst Akers special since Solis. Choosing the phone meant stepping back from his mouth while her cunt clenched around nothing, while she listened to timing that might gut Owen's alibi and leave Renny still unnamed among the upriver dead—hope intact, body furious. Will's thumb hovered over answer. His other hand hovered near her waist. "Your call, [player_name]," he said, voice sex-rough and case-sharp. "I have buried enough certainty for one career. I will not bury this almost unless you tell me to." Rain sheeted the black planks. The evidence tag wept ink. Nina Solis stayed a hint and a bruise. The unfinished kiss and the ME's ringtone shared one soaked, unbearable second, and [player_name] felt both choices land between her legs as much as in her chest—want and dread braided so tight she could not tell which pulse was which.
+She could still feel the ghost of his almost-touch on her cheek, a heat-print rain could not erase. Choosing the kiss meant tasting coffee and danger and the wound under his charm while Cho's call went to voicemail and Ellison somewhere imagined the worst Akers special since Solis.
+
+Will's thumb hovered over answer. His other hand hovered near her waist. "Your call, [player_name]," he said, voice sex-rough and case-sharp. "I have buried enough certainty for one career. I will not bury this almost unless you tell me to." Rain sheeted the black planks. The evidence tag wept ink. Nina Solis stayed a hint and a bruise. The unfinished kiss and the ME's ringtone shared one soaked, unbearable second, and [player_name] felt both choices land between her legs as much as in her chest—want and dread braided so tight she could not tell which pulse was which.
 
 She pressed her thighs together once, deliberate, and felt how ready she was—slick, furious, rain-cold skin over heat that had William Akers's name on it. The unfinished kiss throbbed like a second clit. Cho's ringtone was a cockblock made of science. Nina Solis was a ghost with teeth in his silence. [player_name] could close the gap and take his mouth until tape and badge and unidentified bone blurred; or she could answer the ME and let timing cut Owen while her cunt ached through the briefing. Either way, Harborwick would not let her leave the pier untouched.
 
@@ -79,7 +85,7 @@ Will's pupils were blown dark in the lamp light; want and warning shared his fac
 
 A gull screamed. [player_name]'s body answered Will instead—pulse in her throat, pulse lower, rain making a slide of her collarbones while she imagined his mouth there, then lower, then the filthy relief of grinding against his thigh under a coat held like a shield. He was asking for truth with his cock likely hard and his ribs full of Solis and his charm aimed at her weakest hinge. She almost said Owen's name as dirty talk and confession both.
 
-"You do not have to fuck me to trust me," Will murmured, reading her, brutal and almost tender. "You do not have to like what I am. Badge. Past. Smile that makes Ellison check the outbound log for another Solis-shaped mistake. I am also the bastard refusing to stamp Renny on unnamed bone for a headline. Let that buy me your mouth for a kiss—or your voice for Cho. Pick one hunger and spend it before I forget how to be teachable."
+"You do not have to fuck me to trust me," Will murmured, reading her, brutal and almost tender. "You do not have to like what I am. Badge. Past. Smile that makes Ellison check the outbound log for another Solis-shaped mistake. Let that buy me your mouth for a kiss—or your voice for Cho. Pick one hunger and spend it before I forget how to be teachable."
 
 The phone glowed blue on their throats. Tape in memory only. [player_name] felt her cunt clench when he said *mouth*. Two futures, same soaked coat: finish the kiss and let the ME wait while tongues fucked slow in the rain; or answer Cho and pour timing over Owen while her lips stayed cold and her clit ached through every clinical syllable. Either choice would leave her marked. William Akers did not do unmarked.
 
@@ -89,7 +95,7 @@ Under the failing pier lamp his face looked carved from want and weather—scar 
 
 "Careful," he said, voice scraped raw. "You look at me like that and Cho loses. You look at the phone like that and I lose. I have lost enough to raids and certainty and a woman whose name Ellison still uses as a leash. I will not pretend I am noble if you step into me. I will kiss you like the case can wait sixty filthy seconds. Or I will answer the ME and recite timing while my cock stays hard in wet jeans and you stay unfinished. Either way I walk out of this pier marked. Prefer the mark come from your mouth."
 
-Rain sheeted harder, erasing the inland warehouses into smear. [player_name]'s blouse clung; nipples peaked obvious; shame and heat shared her chest with Renny's unanswered name. The charm-find stake bled ink. She could taste coffee-memory on the almost of him. She could taste science on Cho's unanswered ring. Will's free hand flexed near his ribs—Solis ghost, raid wound, hint with teeth—then dropped as if he refused to let old blood decide new hunger.
+Rain sheeted harder, erasing the inland warehouses into smear. The charm-find stake bled ink. She could taste coffee-memory on the almost of him. She could taste science on Cho's unanswered ring. Will's free hand flexed near his ribs—Solis ghost, raid wound, hint with teeth—then dropped as if he refused to let old blood decide new hunger.
 
 "Last chance to be smart," he murmured. "Smart takes the call. Stupid takes me. I have been both. Nina taught me the invoice for stupid. You are still allowed to choose which invoice you want printed on your skin tonight."
 

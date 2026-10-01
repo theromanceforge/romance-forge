@@ -103,7 +103,7 @@ John stepped in. Water on clean boards. No apology. "Is he still collecting?"
 
 "Shadows collect," Henry said. "Numbers that still answer. A balance I've been bleeding toward in quiet installments. Clara's pages say doing it alone wasn't love."
 
-John moved in behind her, chest to her shoulder blades, rain-cold jacket against her spine. She felt the thick fact of his cock brush her ass as he crowded close, not meaning to, not able to stop. He cursed under his breath.
+John moved in behind her, chest to her shoulder blades, rain-cold jacket against her spine. He cursed under his breath.
 
 "Sorry," he muttered, not sorry. "Hearing him call you leverage makes me want to break something, just to prove he doesn't get to say what you're for. I won't."
 
@@ -115,7 +115,7 @@ Clara slammed the sketchbook down. The paperweight trembled. "Don't buy anything
 
 John's mouth found the hinge of [player_name]'s jaw, open and unfinished, then tore away as if the contact burned. "He's offering a road trip to guilt's ATM," he said against her skin. "Or his mouth telling me the rest without a receipt. You forced the name. You decide. I'll follow either way."
 
-His palm slid under her coat and splayed on her belly, hot, hidden, inches above where she was wet for him despite Voss and winter and the whole rotting quiet. "Feel that? That isn't distraction. That's me refusing to let this surname make you leverage again. After this, I'm putting my hands on you somewhere this house can't reach. If I don't, I'll break something that isn't furniture."
+"This isn't distraction. It's me refusing to let this surname make you leverage again. After this, I'm putting my hands on you somewhere this house can't reach. If I don't, I'll break something that isn't furniture."
 
 Henry's lips parted on more explanation.
 
@@ -135,7 +135,7 @@ Firelight threw a pale oval onto Henry's cheek. [player_name] walked to the side
 
 Clara flipped to a page of blue circles. "Page seventeen. The exchange is on the back of a receipt." She looked at [player_name]. "You called the name out of him. You say who touches the number first."
 
-John's murmur was only for her, filthy and shaking. "Say settle, and I get in his truck like a civil nephew and keep my hands to myself till it's done. Say refuse, and I stand right here while he talks until there's nothing left to soften. Then I take you to the diner and fuck you against the prep counter until Voss is only a name we outlasted."
+John's murmur was only for her, low and shaking. "Say settle, and I get in his truck like a civil nephew and keep my hands to myself till it's done. Say refuse, and I stand right here while he talks until there's nothing left to soften. Then I take you home, and we outlast Voss together."
 
 "I can drive at first light," Henry offered. "A closing. You beside me."
 
@@ -143,7 +143,7 @@ John's murmur was only for her, filthy and shaking. "Say settle, and I get in hi
 
 John's mouth twitched against her temple. "She has you boxed. Good. God, I love your spine."
 
-She thought of the glove box, Clara's bobby-pinned slips, morning gossip inventing ambition out of a suitcase. And of John's hot palm under her coat, low enough that one deep breath would put his fingers at her waistband. Naming Voss had changed the weather. It hadn't changed how badly she wanted to turn in his arms somewhere locked and remind them both they weren't leverage.
+She thought of the glove box, Clara's bobby-pinned slips, morning gossip inventing ambition out of a suitcase. Naming Voss had changed the weather. It hadn't changed how badly she wanted to turn in his arms somewhere locked and remind them both they weren't leverage.
 
 "I need you to understand," Henry tried. "Settling isn't erasing. Speaking isn't settling."
 
@@ -153,11 +153,11 @@ Henry's hand twitched toward the paperweight.
 
 "Leave it face-up," [player_name] said.
 
-Henry went white. Clara bent over her charcoal, pencil hovering. [player_name] turned her head and caught John's mouth for half a second, tongue and promise, then broke it, because finishing would have been escape.
+Henry went white. Clara bent over her charcoal, pencil hovering. [player_name] turned her head and caught John's mouth for half a second, a promise, then broke it, because finishing would have been escape.
 
 "After," she whispered. "Whichever road. You don't get to disappear into useful rage."
 
-"I won't," he said, forehead to hers, still hard against her. "I'll get mean or I'll get on my knees for you. Depends which way you go."
+"I'll get mean or I'll get on my knees for you. Depends which way you go."
 
 The number waited in Clara's book. The truck keys waited in a dish. Her mouth still burned where his had been, and the mantel clock stabbed another second into her ribs. She had to speak before Henry found a softer noun for Voss.`,
   choices: [

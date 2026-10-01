@@ -59,13 +59,15 @@ Leaving wasn't vanishing. It was refusing to let sex smooth over the spill befor
 
 She came with his name bitten into her wrist. Shaking. Furious at herself. Still empty.
 
+Minutes passed. The radiator ticked. The room cooled around her.
+
 Her phone lit. Clara: He burned tickets. Locked Henry out. You alive?
 
-[player_name] typed with the hand that wasn't still wet: Alive. Night apart. Don't let him soften dawn.
+[player_name] typed with unsteady fingers: Alive. Night apart. Don't let him soften dawn.
 
 Clara: I have the sketches. Come get me when you're ready. Or don't. Just don't do the noble-alone thing until you break.
 
-Noble alone. [player_name] laughed once into the dark, wrecked, and washed her fingers in water that never got hot. She slept in scraps. Station steps. The suitcase shove. John's mouth saying he was furious and his cock hadn't gotten the memo. She woke at three aching again, thighs slick, dream-heat refusing to die just because she had chosen absence.
+Noble alone. [player_name] laughed once into the dark, wrecked, and washed her hands in water that never got hot. She slept in scraps. Station steps. The suitcase shove. John's mouth saying he was furious. She woke at three aching again, dream-heat refusing to die just because she had chosen absence.
 
 On the second almost-sleep she gave up pretending her body would quiet. She stripped the rest of the way and stood at the cold window until her nipples tightened from the chill as much as memory. Then she went back to the bed and fucked herself on her fingers, thinking of John saying Christ like a prayer, grease still on his forearm.
 
@@ -73,7 +75,7 @@ She came harder the second time, thighs shaking, her free hand fisted in the bla
 
 At five the sky bruised toward dawn. The choice arrived in her body before it arrived in language.
 
-She could go back with Clara and the sketches. Walk in shoulder to shoulder with proof, charcoal margins as a peace offering, the papers between them like a chaperone so she wouldn't drop to her knees the second his eyes found her mouth.
+She could go back with the sketches. Walk in shoulder to shoulder with proof, charcoal margins as a peace offering, the papers between them like a chaperone so she wouldn't drop to her knees the second his eyes found her mouth.
 
 Or she could go back alone. No buffer. Her body and her confession together, the rest of the winter spoken while his cock was in her hand or her mouth or buried where she was already sore from wanting. It might look like distraction. It might be the only honest sentence left: I lied to save you, and I still want you to fuck me while you decide whether that's forgivable.
 
@@ -85,15 +87,15 @@ She could feel it in advance. His hands under her coat before words finished. Hi
 
 She wanted that. She also wanted the sketches not to become one more thing postponed by heat until postponing hardened again. Wanting both made her dizzy. It made her press her thighs together on the wet sidewalk like a woman negotiating with her own pulse in public.
 
-If she brought Clara, tonight would be about the sketches and nothing else.
+If she brought the sketches, tonight would be about them and nothing else.
 
 If she came alone, there would be a door she could lock behind them. Alone meant upstairs. It meant her confession broken by moans, his cock finally where her fingers had only imitated. It meant justice postponed by an hour that might save them or damn them into another pretty silence.
 
-Dawn laid a thin blade over the station roof. Up the hill, Clara waited with charcoal and papers that could end a cover story. Ahead, John waited with anger softening into hunger and a body that had already told her the truth under fluorescent light.
+Dawn laid a thin blade over the station roof. Up the hill, the charcoal and papers waited, enough to end a cover story. Ahead, John waited with anger softening into hunger and a body that had already told her the truth under fluorescent light.
 
 She stopped under the diner awning's drip and pressed two fingers hard against the seam of her jeans. One stolen pressure in the grey dawn, just to take the edge off enough to speak when she went in. It didn't. It made her bite her lip and swear. John would know. He always knew when she was performing composure. He would smell rain and soap and shame and decide whether to be gentle or exact.
 
-"Clara or alone," she whispered to the blue paint, as if the door could vote.
+"Proof or alone," she whispered to the blue paint, as if the door could vote.
 
 Coffee steam ghosted the glass. A freight horn sounded from the yard. Her fear pulled her back toward the hill. Her body clenched once, traitor and compass, and pulled her toward the door.`,
   choices: [

@@ -35,7 +35,7 @@ Somerton slid away in streaks of slate and steam. The quiet that had broken them
 She woke the next morning in a different city's thin hotel light. Rain still lived in the memory of her coat, and diner coffee in the back of her throat. Free. Unfinished, the way living is unfinished. Not cold. Not sealed. Just gone on purpose, with John Shaw's respect as the last honest thing Somerton had pressed into her palm.`,
   textHot: `They had each other once more before the train. Not to keep her. Not to bind her. Leaving free did not mean leaving untouched, and John Shaw refused to let her board with want rotting unspoken between them.
 
-Clara had already given her blessing at Willow Lane that afternoon, charcoal on her fingers. The papers were face-up where they needed to be.
+The papers were face-up where they needed to be.
 
 His flat above the diner smelled of coffee and rain. The blue door was locked downstairs. [player_name] pushed John back onto the bed and straddled him. She pulled off her sweater and guided his mouth to her breast while she ground down against the hard line of him through his jeans.
 

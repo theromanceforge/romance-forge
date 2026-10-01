@@ -67,41 +67,41 @@ John's forehead stayed against hers. His breath shook. The kiss hung between the
 
 He made a sound that was half agreement, half groan, and steered her into the boxwood corridor along the house. Leaves slapped damp against her sleeve.
 
-Clara hesitated in the doorway. [player_name] tipped her chin: stay, watch him. Clara pulled the door to a seam of lemon-warm light. Alone enough. Not alone forever.
+Clara hesitated in the doorway. [player_name] tipped her chin: stay, watch him. Clara nodded and shut the door behind her, leaving only a seam of lemon-warm light under it. Alone enough. Not alone forever.
 
 John backed her one step into the hedge until boxwood spines pricked her shoulders through cloth. He didn't kiss her. He breathed against her cheek, nose brushing her temple, and let her feel how hard restraint sat in his body. Chest tight. Hips held carefully off hers. Hands shaking once at her waist before they steadied.
 
-"You pulled us out," he said into her skin. "He has the yes. Clara has the pencil. What do you want said before morning? And what do you want my mouth doing while we decide?"
+"You pulled us out," he said into her skin. "He has the yes. We have the pages. What do you want said before morning? And what do you want my mouth doing while we decide?"
 
 She shivered. Rain ran cold down her nape. His thumb chased it, then stayed, stroking wet skin. Relief at leaving the polished room. Dread of unpaid sentences. And the shameless fact that watching him fight for her in firelight had left her wet and restless, thighs pressed together under damp jeans.
 
 "I want a plan that isn't just surviving his next apology," she managed. Her hands had found his jacket front, fists in wet fabric, pulling him closer. "The order of speaking. Who writes. Who gets the truth without a cushion."
 
-John exhaled against her mouth. Almost a kiss. Not yet. "Private council. Clara at the table. Not Mae. Not pie-case gossip."
+John exhaled against her mouth. Almost a kiss. Not yet. "Private council. Family at the table. Not Mae. Not pie-case gossip."
 
 His hips tipped once despite himself. She felt the hard line of him through denim and coat, and her breath punched out. He cursed softly. "Or we steal an hour that has nothing to do with ledgers. I haven't had your tongue since before that room. My hands are done being only useful."
 
-She walked him deeper into the hedge dark by her grip on his jacket. A car hissed past and vanished. From the house, Clara's voice rose, questioning. Henry answered in pieces.
+She walked him deeper into the hedge dark by her grip on his jacket. A car hissed past and vanished. From the house, Henry's voice rose and fell in pieces.
 
 John's hands slid under her coat at last, palms to warm cotton, thumbs finding the undersides of her breasts through thin fabric. Not a full grab. A testing claim that made her arch into him with a sound she smothered against his shoulder.
 
-"Tell me what you need," he said, voice wrecked. "I can schedule a council and make Clara bring every circled page. I can also put you against this fence and kiss you until you forget how to be careful. I'd prefer you choose before I stop asking."
+"Tell me what you need," he said, voice wrecked. "I can schedule a council and lay every circled page on a table. I can also put you against this fence and kiss you until you forget how to be careful. I'd prefer you choose before I stop asking."
 
 [player_name] caught his wrists. Not to stop him. To press his hands harder against her for one filthy second, her nipples tightening into his thumbs. Then she eased him back to her waist, breathing hard. "Both are true."
 
-"Not a problem." His forehead met hers. Rain in his lashes. "Clara will wait twenty minutes if we ask. Henry sits with his yes either way. The town invents a story by breakfast if we feed it nothing."
+"Not a problem." His forehead met hers. Rain in his lashes. "The pages will wait twenty minutes. Henry sits with his yes either way. The town invents a story by breakfast if we feed it nothing."
 
 His mouth brushed the corner of hers, salt and rain and coffee, and retreated. "A council, planned hard and private. Or one honest, hungry hour in this wet green where I stop being careful."
 
 She opened her mouth against his almost-kiss and tasted him without taking him. Heat. Breath. The tremor of a man holding back. Her thigh slid between his. He groaned into her cheek. She felt him throb against her hip and nearly abandoned strategy altogether.
 
-"If we plan the council," she said, voice rough, "we do it tonight. Call her out. Three of us under this hedge if we have to. What Henry doesn't get to soft-pedal. What you need written down so you stop guessing."
+"If we plan the council," she said, voice rough, "we do it tonight.What Henry doesn't get to soft-pedal. What you need written down so you stop guessing."
 
 "And if we don't—" John's hand cupped her ass through wet jeans and hauled her flush, finally letting her feel all of him, hard and aching. "I kiss you until the boxwood knows our names. Hands under your shirt. Mouth on your throat. Maybe my fingers in your cunt, if you ask quietly enough that nobody hears through the seam. Then we walk back inside with our mouths honest, even if the ledgers aren't finished."
 
 His breath shook against her ear. "I'm not paper, [player_name]. Neither are you. I'm hard and tired and in love with your courage, and I want to fuck you against this fence somewhere that isn't another speech."
 
-Rain sheeted. Freight muttered in the yard. Her underwear clung. She was soaked from want and weather both. She thought of Clara's charcoal honesty waiting for a seat at a private table. And of John's tongue, the burn scar skating her ribs if she let the hour win.
+Rain sheeted. Freight muttered in the yard. Her underwear clung. She was soaked from want and weather both. She thought of the circled pages waiting for a seat at a private table. And of John's tongue, the burn scar skating her ribs if she let the hour win.
 
 John's thumb stroked the seam of her jeans between her legs once, light and devastating, and stopped. "Say it. I'll do either. I won't do polite nothing while you shake like this in my hands."
 
@@ -121,7 +121,7 @@ Boxwood dripped cold down her collar and into the heat he had woken. His thumb d
 
 "Before he opens it," John said against her teeth.
 
-The porch seam brightened. A hesitant knock from the inside. Clara, muffled: "They're still out there—"
+The porch seam brightened. Henry's cough, then the chain rattling on the inside.
 
 John's hips pressed once, filthy and brief, then held agonizingly still. The kiss stayed unfinished on her lip where his thumb had opened her. Her cunt throbbed against nothing. Henry's hand was on the knob. And John's mouth hovered a breath from hers, waiting for her to take it or turn her head toward the door.`,
   choices: [

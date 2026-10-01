@@ -67,7 +67,7 @@ Clara set the stack between the abandoned mugs. The top page carried [player_nam
 
 "I circled what didn't fit," Clara said. "Dates that skip. Numbers that don't add. A name that shows up three times and vanishes. Look at the winter ledger first. Not the pretty summary. The glove-box photocopy. The original is still somewhere he thinks is safe."
 
-John turned the sheet with his free hand. His thumb stroked the inside of [player_name]'s wrist while he read, slow and absent and devastating. She could still taste the kiss: burnt coffee, tongue, the filthy sweetness of being chosen. Desire and dread braided so tight she couldn't tell which pulse was which.
+John turned the sheet with his free hand. His thumb stroked the inside of [player_name]'s wrist while he read, slow and absent and devastating. She could still taste the kiss: burnt coffee and the sweetness of being chosen. Desire and dread braided so tight she couldn't tell which pulse was which.
 
 "Forty-eight thousand," John read. A landing. "Then twelve more. Settled in kindness. What the hell does kindness settle, Clara?"
 
@@ -81,7 +81,7 @@ Under the table John's calf hooked hers. He didn't look away from his sister. "P
 
 Clara looked at [player_name], asking whether the woman who had practiced silence would flinch now. [player_name] nodded once. The nod cost her. John's eyes darkened as he registered her courage.
 
-The red-circled page came out last. Voss in the header like a stain. Terms. A winter date. A signature that made John's breath leave him in a short, broken sound against her shoulder. She felt it in her ribs and between her legs alike, grief and want refusing to take turns.
+The red-circled page came out last. Voss in the header like a stain. Terms. A winter date. A signature that made John's breath leave him in a short, broken sound against her shoulder.
 
 "He's still out there," Clara said softly. "What do we do with what we know before he decides the story again?"
 
@@ -99,7 +99,7 @@ Clara's footsteps came back down the stairs, deliberate, giving warning. By then
 
 John turned the red page face-down for a heartbeat, then flipped it back up, catching himself. His hand drifted back to her thigh, high enough to be a question, respectful enough to wait.
 
-"You made us read it together while I can still taste you," he said, voice wrecked-soft. "That's more honesty than this family has practiced since the accident." His thumb stroked once along the inner seam of her jeans, and her breath caught. "But honesty has degrees. Every circled line, or the one that'll hollow me out. I need to know which kindness you're offering me tonight. The full one that burns, or the one that still thinks I need protecting while I sit here hard and grieving."
+"You made us read it together while I can still taste you," he said, voice wrecked-soft. "That's more honesty than this family has practiced since the accident." His thumb stroked once at her wrist, and her breath caught. "But honesty has degrees. Every circled line, or the one that'll hollow me out. I need to know which kindness you're offering me tonight. The full one that burns, or the one that still thinks I need protecting while I sit here hard and grieving."
 
 Henry's next knock was softer, almost resigned. The red circle lay on the laminate like a live wire. John's thumb rested on the seam of her jeans, and [player_name]'s fingers hovered over the page.`,
   choices: [

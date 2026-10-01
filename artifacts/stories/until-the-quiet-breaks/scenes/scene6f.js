@@ -99,7 +99,7 @@ When she came, hard and shaking, his name broken in her mouth, he stood, wiped h
 
 His cock nudged her bare stomach, still hard, still unfinished. He didn't let her pull her jeans up. He kept her bare from the waist down against the pie case while he talked logistics like filth, stroking himself once against her hip.
 
-"Public means I walk you to the post office with your legs still shaking, and Mae smells me on your mouth," he said. "Delay means I carry you up those stairs and bury myself in you until the secret has a deadline you can scream." His eyes held hers. "Clara texted. I told her I'm choosing. She'll smell the truth either way. Henry can wait in woodsmoke until we decide how loud the quiet dies."
+"Public means I walk you to the post office with your legs still shaking, and Mae smells me on your mouth," he said. "Delay means I carry you up those stairs and bury myself in you until the secret has a deadline you can scream." His eyes held hers. "Henry can wait in woodsmoke until we decide how loud the quiet dies."
 
 [player_name] wrapped her leg around his hip, open and shameless. The head of his cock slid through her slick without entering. A cruel almost.
 

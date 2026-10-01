@@ -71,7 +71,7 @@ Henry's shadow filled the doorway without entering. "The glove box is in the she
 
 [player_name] turned pages. A study of open hands dropping something too heavy. A margin note in Clara's restless script: ask her if the speech sounded like her mouth. Another: John's eyes when he thinks no one is looking. Still searching the station.
 
-She felt that line like a thumb between her legs. Evidence wasn't supposed to be erotic. Evidence that named how John had wanted her for fifteen years was.
+Evidence wasn't supposed to be erotic. Evidence that named how John had wanted her for fifteen years was.
 
 Down on Market Street the diner would be closing. John would be flipping chairs, listening for a step that might be hers. She lifted her charcoal-smudged fingertip so Clara and Henry could both see it.
 
@@ -89,7 +89,7 @@ At the mantel [player_name] paused over the boyhood photograph. She wanted the m
 
 "He's been walking through your shame without knowing the street names for fifteen years," she told Henry without looking at him. "Mud is honest. So is wanting him while I hold your evidence. Don't tidy that either."
 
-On the porch, the boxwood released its wet perfume. Charcoal marked both their hands now. Rain plastered [player_name]'s coat to her breasts and hips. Between her legs, rain-cold and heat-hot, she carried the unfinished claim of John's body like another kind of evidence.
+On the porch, the boxwood released its wet perfume. Charcoal marked both their hands now.
 
 They hadn't gone ten steps when Clara stopped. A figure was climbing the hill through the rain: diner jacket, familiar shoulders, the stride of a man who had closed early because a phone call had said digging.
 
@@ -97,7 +97,7 @@ They hadn't gone ten steps when Clara stopped. A figure was climbing the hill th
 
 He saw them. The sketchbook. The charcoal on [player_name]'s hand. Water ran from his hair, and his grey eyes went bright and hard and hungry.
 
-"Clara called the landline from the kitchen," he said when he was close enough. "Said you were digging. I closed early." His gaze went from the sketchbook to [player_name]'s mouth, to the smear on her fingertip, then lower, helpless, to where rain darkened her jeans. "Are you bringing me proof? Or something I'll have to get out of my system before I can read?"
+"Clara called the landline from the kitchen," he said when he was close enough. "Said you were digging. I closed early." His gaze went from the sketchbook to [player_name]'s mouth, to the smear on her fingertip, then back to her eyes, helpless. "Are you bringing me proof? Or something I'll have to get out of my system before I can read?"
 
 It wasn't only accusation. It was hurt. It was invitation.
 

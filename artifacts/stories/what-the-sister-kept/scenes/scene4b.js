@@ -71,17 +71,17 @@ William Akers went still. Mid-thirties, rain-rough dark hair, scar cutting his l
 
 "[player_name] is invoking counsel. Before I finish what your mouth nearly pulled out of mine."
 
-Fluorescents hummed. Rain freckled the high glass over Harborwick's pier. Renny's absence sat in the empty chair. File photos: unidentified partial remains upriver; a silver charm that *might* match Renny's missing bracelet piece—might, not confirmed. Lab pending. Hope and dread still sharing [player_name]'s pulse and the slick heat that had gathered under her skirt from an hour of Will listening like sex.
+Fluorescents hummed. Rain freckled the high glass over Harborwick's pier. Lab pending. Hope and dread still sharing [player_name]'s pulse and the slick heat that had gathered under her skirt from an hour of Will listening like sex.
 
 He closed the notebook. Soft. Final. "I asked for the night you kept. Not a performance."
 
 "You asked me to hang myself while Ellison inventories liability." Her palms damp on scarred wood. Mid-twenties opposite a detective who wore charm like a cocky sidearm and secrets like a second skin. Dark past hummed under the badge—Ellison's warning look still vivid: Akers specials cost—Nina Solis a quiet bruise in hallway gossip, a raid that went personal, a wound under Will's ribs he touched without meaning to when the word *lawyer* landed like another kind of betrayal. He did not offer his history. He offered attention that made her cunt clench, and when she lawyered up, that attention turned into something sharper. "I will not put Owen on a page without someone who works for me between your hunger and my throat."
 
-Will's grey-green eyes flickered—hurt, respect, filthy calculation. Attraction still lived under the crack: sleep-deprived competence, scarred brow, the way his body listened. Dangerous. Not clean-cut. Not sweet. A man who could make you wet while he decided whether you were a witness or a problem.
+Will's grey-green eyes flickered—hurt, respect, filthy calculation. Attraction still lived under the crack: sleep-deprived competence, scarred brow, the way his body listened. Dangerous. Not clean-cut. Not sweet. A man who could make you sweat while he decided whether you were a witness or a problem.
 
 "Counsel means delay," he said, stepping closer to the table until she smelled soap and salt and that scrubbed-dark undertone—blood or smoke or a past that never washed clean. "Delay means Owen hears the charm rumor before Cho finishes science. You protecting Renny—or the ash of a house you already admitted is gone?"
 
-"Protecting myself from your charm," she snapped, and hated how true it landed, how her nipples tightened at the word *charm* like her body had taken his side. "You almost had it. The pier. What I saw. You were going to take it with nothing but that voice and that smile, and I was going to let you because my cunt trusts you faster than my brain should."
+"Protecting myself from your charm," she snapped, and hated how true it landed, how her pulse jumped at the word *charm* like her body had taken his side. "You almost had it. The pier. What I saw. You were going to take it with nothing but that voice and that smile, and I was going to let you because some part of me trusts you faster than my brain should."
 
 His laugh was once, humorless—weaponized. "Finally honest about something." He walked to the window. Rain silvered the glass. Reflection showed jaw tight, knuckles mapped with old violence, wedding-ring finger bare. Brutal charm was entry; this quiet was the wound. [player_name] watched him and felt herself ache—clit pulsing, thighs slick—because anger on him looked like foreplay and she was ruined enough to notice.
 
@@ -99,7 +99,7 @@ Ms. Patel entered, navy coat rain-beaded, briefcase open, eyes warily cataloguin
 
 "Detective. Narrow questions or we end for the day."
 
-Will held [player_name]'s gaze across the table. Trust cracked audibly. Want had gone colder and sharper—betrayal's cousin with a hard-on for the truth. Foghorn from the harbor. Renny's empty chair. Charm in the photos only *like* Renny's. Cho silent on naming the dead.
+Will held [player_name]'s gaze across the table. Trust cracked audibly. Want had gone colder and sharper—betrayal's cousin with a hard-on for the truth. Foghorn from the harbor. Cho silent on naming the dead.
 
 [player_name] could keep Patel seated and spoon truth in measured doses while Will's faith bled and her body still hummed for the man she had just iced. Or dismiss counsel now, meet the wound in his eyes, admit the pier sighting raw—mouth open for honesty the way it had wanted to open for him—before Ellison returned to own the narrative.
 
@@ -115,7 +115,7 @@ Under the table his shoe brushed her ankle once—accident or brand—and heat s
 
 She signed nothing yet. She only looked at him across laminate and felt how wet she still was for the detective whose trust she had cracked on purpose. The choice hurt because both doors left her unfinished: counsel's careful mouth, or Will's—and Harborwick listening either way.
 
-Patel cleared his throat. Will finally looked away long enough to nod at the door like a man releasing a suspect he intended to rearrest with his mouth later. [player_name] stood on legs that still remembered his shoe at her ankle and the phantom of his hand under the table. Controlled drip. Raw admission. Both left her slick with consequence. Both left the radiator ticking like a second clock counting down whatever mercy Harborwick still owed a missing girl—and the sister who had just chosen a retainer over the detective's unfinished heat.
+Patel cleared his throat. Will finally looked away long enough to nod at the door like a man releasing a suspect he intended to rearrest with his mouth later. [player_name] stood on legs that still remembered his shoe at her ankle and the phantom of his hand under the table. Controlled drip. Raw admission. Both left her slick with consequence.
 
 She tasted burnt coffee and almost-sex and the metallic bright of counsel arriving too late to save her from wanting him. Retainer between them—or ugly honesty she had almost come apart giving. Rain. Clock hum. Consequence. Can't close the tab.`,
   choices: [

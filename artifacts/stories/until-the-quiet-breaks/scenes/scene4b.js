@@ -69,7 +69,7 @@ He told her the night as he had lived it.
 
 Her suitcase on the station boards. Her coat too thin for the cold. Henry's hand on the handle like a blessing and a shove. He had stood in the rain after the train left and practiced believing it, because belief kept the diner open and Clara fed. Then the years of almost-fitting. Nights when missing her was a physical ache he worked off at the grill and still woke hard and angry, rehearsing a reunion that never came.
 
-[player_name] listened with her nipples tight against her bra and her thighs pressed together under the booth. When he finished, she told him the night as she had been instructed to leave it.
+When he finished, she told him the night as she had been instructed to leave it.
 
 Debts behind jokes and overtime. A winter road black with ice. A father who shouldn't have been driving with that weight on him. Henry's ask: become absence, so the boy could become a man without watching ruin swallow the Shaw name. She had said yes. She had practiced ambition until it hardened into a life. And in cities that never smelled like boxwood, she had still woken wet from dreams of his hands, still touched herself imagining the almost finished on a diner counter.
 

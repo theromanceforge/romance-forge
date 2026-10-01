@@ -49,7 +49,7 @@ She sat cross-legged in his shirt with the pages fanned across the mattress. Rai
 
 "Read them," John rasped. "Or stop when the pages turn into Henry's alone. Either way, the quiet doesn't climb back into this bed like furniture we fuck around instead of through."
 
-[player_name] tasted copper and toner. "Your father went through the ice," she said, steadier than she felt. "Henry drank whiskey and called it tea. Voss circled. Henry asked me to leave. I said yes. Ambition as the cover. Clara found the papers. Now I choose. Every line out of my mouth until nothing is left unsaid. Or I stop midway and save the drafts for Henry's living confession."
+[player_name] tasted copper and toner. "Your father went through the ice," she said, steadier than she felt. "Henry drank whiskey and called it tea. Voss circled. Henry asked me to leave. I said yes. Ambition as the cover. The papers came out. Now I choose. Every line out of my mouth until nothing is left unsaid. Or I stop midway and save the drafts for Henry's living confession."
 
 John climbed onto the bed without minding the pages. His knees bracketed her hips. His cock pressed a thick line against her stomach through denim, and his hand slid under the shirt to span her ribs. "Keep going," he said into her hair. "Read the whole burn while I'm hard against you. Or stop when the ink becomes his to speak, and I'll still fuck the decision into you after. Delaying his mouth doesn't delay what you decided when you laid the ledger on my quilt."
 
