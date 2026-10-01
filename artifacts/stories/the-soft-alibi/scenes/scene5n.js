@@ -4,7 +4,7 @@ export default {
   title: "Holding Badge",
   text: `She pressed the button.
 
-The car rose. Her floor. His floor. The doors opened on the gray carpet and the camera dome and the twelve steps, and she walked them without counting, and knocked.
+The car rose. Her floor. His floor. The doors opened on the gray carpet and the camera dome and the twelve steps. She walked them without counting and knocked.
 
 He opened it fast. Shirtsleeves, collar open, a glass in his hand he set down on the side table without looking.
 
@@ -60,7 +60,7 @@ He went to the credenza, not the locked drawer, the one above it, and came back 
 
 [player_name] took the slip. The paper was soft from being folded and unfolded. She read the number twice and then a third time, as if it might change.
 
-[player_name] felt cold all the way through her coat. "You've never asked."
+She felt cold all the way through her coat. "You've never asked."
 
 "I've never wanted the answer," Nolan said. "You've heard me say that tonight in other words."
 
@@ -76,7 +76,7 @@ He crossed the room then, slowly, and stopped in front of her. Close. He didn't 
 
 "There's the hangar," [player_name] said. "Rhea gave me that too. Kessler Field. Hangar Nine."
 
-His jaw tightened. "Then you could plan around both. Go out there and find out what those badges were delivering." A pause. "With Pell or against him."
+His jaw tightened. "Then you could plan around both. Go out there and find out what those badges were delivering." He paused. "With Pell or against him."
 
 She looked at his face. At the scar. At the tired eyes that hadn't looked away from her once since she said the word silence.
 
@@ -88,7 +88,9 @@ He lifted his hand and put it against the side of her face. Just his palm, warm,
 
 "Say it again," he said. "The thing they said. I want to hear it from you and not them."
 
-She didn't. She stood with his hand on her face and her coat still on and the word deliverable sitting behind her teeth, and she turned her mouth, very slightly, into his palm.`,
+She didn't. She stood with his hand on her face and her coat still on and the word deliverable sitting behind her teeth. She turned her mouth, very slightly, into his palm.
+
+The hangar and the badge, planned with Pell or against him. Or Brooks's soft coffee in the lounge, with the number held behind her teeth.`,
   textHot: `She pressed the button.
 
 The car rose. Her body rose with it, the mirror at her back, the memory of his fingers still loud in her. The doors opened on gray carpet and the camera dome. She walked the twelve steps and knocked.
@@ -137,7 +139,7 @@ He went to the credenza and came back with a soft folded slip. His handwriting.
 
 She took it. The paper was warm from his pocket. She read the number twice, then a third time, as if it might change.
 
-The room was very quiet. Wind leaned on the glass. Down the hall behind him was the bath with the full bottle nobody wore, and past it the east room where his wife had slept. [player_name] had never gone in. She thought of two men in the freight bay laughing, and of herself upstairs on that same night, maybe, in this room, on that couch, with his mouth between her legs and no idea.
+The room was very quiet. Wind leaned on the glass. Down the hall behind him was the bath with the full bottle nobody wore, and past it the east room where his wife had slept. [player_name] had never gone in. She thought of two men in the freight bay laughing. Maybe she'd been upstairs that same night, in this room, on that couch, with his mouth between her legs and no idea.
 
 "Brooks called while you were downstairs," Nolan said. "She wants us both in the lounge on nine at ten tomorrow. Soft. Coffee. If you tell her about the badge, she goes after my board. If you don't, you'll sit across from her with it in your mouth and say nothing."
 
@@ -155,7 +157,7 @@ His jaw tightened. "Then you could plan around both. With Pell or against him."
 
 He came to her. He didn't stop this time. He took her face in both hands and kissed her, hard, open, and she made a sound into his mouth and grabbed his shirt. He walked her back until her shoulders hit the cold glass of the window, the city behind her, all those lit windows. He pushed her coat off her shoulders. It fell. His mouth went to her throat. His hand slid up under her dress, up her bare thigh, and found her through the lace, soaked, and pressed.
 
-She gasped. Her hips rocked into his hand. Behind her the glass was cold through the silk, and in front of her he was hot everywhere, and some distant part of her thought that anyone in the tower across the street could see them, and the thought only made her wetter.
+She gasped. Her hips rocked into his hand. Behind her the glass was cold through the silk, and in front of her he was hot everywhere. Some distant part of her thought that anyone in the tower across the street could see them. The thought only made her wetter.
 
 "Say it again," he said against her throat. His fingers moved, slow, firm, over the lace. "What they said. I want it from you, not them."
 
@@ -169,9 +171,11 @@ His fingers slid under the lace. Into her. She cried out. The slip of paper was 
 
 His thumb found her and circled. Her knees buckled. He held her up against the glass with his body.
 
-She didn't finish. She stood shaking against the window with his fingers inside her and the badge number crushed in her hand, the word deliverable caught in her open mouth, and pulled his face back down to hers.`,
+She didn't finish. She stood shaking against the window with his fingers inside her and the badge number crushed in her hand. The word deliverable caught in her open mouth. She pulled his face back down to hers.
+
+The hangar, planned around that badge. Or Brooks's soft coffee in the lounge, with his taste still on her tongue.`,
   choices: [
-    { id: "scene6m", text: "Plan the hangar raid around the holding badge", textHot: "Plan the hangar raid around the holding badge — the number crushed in your fist, his mouth still on yours" },
-    { id: "scene6i", text: "Wear the badge shadow into Brooks's soft interview door", textHot: "Wear the badge shadow into Brooks's soft interview door — his knee under the table, the number hot in your throat" }
+    { id: "scene6m", text: "Plan the hangar raid around the badge", textHot: "Plan the hangar raid around the badge — the number crushed in your fist, his mouth still on yours" },
+    { id: "scene6i", text: "Carry the badge secret into Brooks's soft interview", textHot: "Carry the badge secret into Brooks's soft interview — his knee under the table, the number hot in your throat" }
   ]
 };

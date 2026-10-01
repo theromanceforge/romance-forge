@@ -4,7 +4,7 @@ export default {
   title: "Soft Shield",
   text: `She walked around Brooks.
 
-It took four steps on the marble. Her heels were loud. She didn't look at the detective as she passed. She went to Nolan and turned and stood in front of him, between him and Brooks, close enough that she could feel the warmth of his chest at her back without touching it.
+It took four steps on the marble. Her heels were loud. She didn't look at the detective as she passed. She went to Nolan and turned and stood in front of him, between him and Brooks. She was close enough to feel the warmth of his chest at her back without touching it.
 
 "If you have questions about his nights," [player_name] said, "ask me. I'm the one who was there."
 
@@ -44,7 +44,9 @@ Nolan said nothing. [player_name] could hear him breathing behind her, slow and 
 
 She walked out through the revolving door into the rain.
 
-Nobody spoke for a long moment. [player_name] realized her hands were shaking and folded them together so nobody would see. Rhea saw anyway. Their eyes met across the marble, and Rhea gave her the smallest nod, not approval, just acknowledgment, the way one person on a ledge might nod to another. Then Rhea, very quietly, turned the lobby lights down a notch, the way she did at one-thirty every night, as if nothing had happened at all.
+Nobody spoke for a long moment. [player_name] realized her hands were shaking and folded them together so nobody would see. Rhea saw anyway. Their eyes met across the marble. Rhea gave her the smallest nod: not approval, just acknowledgment, the way one person on a ledge might nod to another.
+
+Then Rhea, very quietly, turned the lobby lights down a notch. She did it at one-thirty every night. Tonight she did it as if nothing had happened at all.
 
 [player_name] turned around.
 
@@ -70,7 +72,7 @@ They rode the elevator together. Mirror walls. Soft gold light. Neither of them 
 
 "Will you?" [player_name] asked.
 
-He didn't answer. In the mirror she watched him not answer, his jaw set, his eyes on the closed doors. She had seen that look before, on nights when Pell called and he let it ring, on nights when the car idled at the curb and he came to her door instead of the window.
+He didn't answer. In the mirror she watched him not answer, his jaw set, his eyes on the closed doors. She had seen that look before. It was there on nights when Pell called and he let it ring. It was there on nights when the car idled at the curb and he came to her door instead of the window.
 
 "If I find out," he said finally, "I can't unknow it. And neither can the board."
 
@@ -80,7 +82,7 @@ The car slowed. Their floor. The doors opened on the gray carpet and the camera 
 
 Neither of them moved.
 
-He turned to her. In the mirror she saw his hand lift, and then his fingers touched her face, the line of her jaw, the way he did when he was about to kiss her. He leaned down. His forehead came to rest against hers. She felt his breath on her mouth.
+He turned to her. In the mirror she saw his hand lift. His fingers touched her face, the line of her jaw, the way they did when he was about to kiss her. He leaned down. His forehead came to rest against hers. She felt his breath on her mouth.
 
 "Thank you," he said. "For standing there."
 
@@ -90,7 +92,9 @@ The elevator doors began to close. He put out his other hand and stopped them wi
 
 His mouth was an inch from hers. She wanted it. She knew exactly what it would feel like. And the number was still in her head, and Brooks's voice, and the word shield.
 
-She kept her palm on his chest and her face tipped up to his, and didn't close the inch, and didn't step away from it either.`,
+She kept her palm on his chest and her face tipped up to his. She didn't close the inch, and she didn't step away from it either.
+
+Refuse him, and stay his shield in silence. Or chase the number, and find out what she was shielding.`,
   textHot: `She walked around Brooks.
 
 Four steps on the marble. Her heels loud. Her pulse louder. She went to Nolan and turned and stood in front of him, between him and the detective, her back an inch from his chest. She could feel the heat of him down her whole spine. She could feel him breathing.
@@ -113,7 +117,7 @@ Behind the desk Rhea had stopped typing.
 
 "And you're standing in front of him like a door," Brooks said. "I notice."
 
-Behind her, very lightly, Nolan's fingertips touched the small of her back. Just touched. Then stayed. Heat went through her so fast she almost lost the thread of what she was saying. Two fingers. That was all. Two fingertips resting on her spine through the silk, in the middle of the lobby, with Brooks four steps away, and her body went soft and loose and hungry as if he'd put his whole hand between her legs.
+Behind her, very lightly, Nolan's fingertips touched the small of her back. Just touched. Then stayed. Heat went through her so fast she almost lost the thread of what she was saying. Two fingers. That was all. Two fingertips resting on her spine through the silk, in the middle of the lobby, with Brooks four steps away. Her body went soft and loose and hungry, as if he'd put his whole hand between her legs.
 
 "Then let me ask the door something," Brooks said. She took out a folded sheet with building letterhead. "Freight door logs. Your manager sent them this afternoon. The last night Ms. Quinn marked Mrs. Greer present, a card read that door at two minutes to midnight. GM-0417."
 
@@ -153,17 +157,17 @@ The elevator. Mirrors. Gold light. They stood a foot apart and didn't touch, and
 
 "That's what knowing is," she said.
 
-In the mirror she watched his jaw set. She'd seen that look before. On nights when Pell called and he let it ring. On nights when the car idled at the curb and he came to her door instead of going to the window. Every one of those nights he had come to her bed with that look and she had kissed it off his face and never asked what it was.
+In the mirror she watched his jaw set. She'd seen that look before. On nights when Pell called and he let it ring. On nights when the car idled at the curb and he came to her door instead of going to the window. Every one of those nights he had come to her bed with that look. She had kissed it off his face and never asked what it was.
 
 The car slowed. Their floor. The doors opened.
 
-He didn't step out. He turned and backed her into the mirrored wall, not rough, but not gentle either, and his hands came to her waist and his mouth came down to hers and stopped. An inch away. His breath on her lips. His body against hers from chest to thigh, and she could feel him hard against her belly through his trousers.
+He didn't step out. He turned and backed her into the mirrored wall, not rough, but not gentle either. His hands came to her waist, and his mouth came down to hers and stopped. An inch away. His breath on her lips. His body against hers from chest to thigh. She could feel him hard against her belly through his trousers.
 
 "Thank you," he said against her mouth. "For standing there."
 
 His hands slid down over her hips. Gathered the silk. Lifted it an inch, then another, his knuckles brushing her bare thighs. She was so wet she could feel it when she shifted.
 
-She wanted to let him. She wanted his fingers inside her, here, against the mirror, with the doors standing open on their floor and the camera dome watching the empty hall. She could already feel how it would be.
+She wanted to let him. She wanted his fingers inside her, here, against the mirror. The doors would stand open on their floor, and the camera dome would watch the empty hall. She could already feel how it would be.
 
 She put her palm flat on his chest.
 
@@ -173,9 +177,11 @@ The doors began to close. He reached out without looking and stopped them with h
 
 "Tell me no," he said, very low, "and I'll hear it."
 
-She didn't say it. She didn't say yes either. She stood against the mirror with her dress lifted and his thumbs on her inner thighs and her hand on his heart, holding him that one inch away, wanting his mouth so badly her lips parted on their own.`,
+She didn't say it. She didn't say yes either. She stood against the mirror with her dress lifted, his thumbs on her inner thighs and her hand on his heart. She held him that one inch away, wanting his mouth so badly her lips parted on their own.
+
+Refuse his mouth and stay his shield, with her body arguing every second. Or chase the number, with his eyes on her throat the whole way.`,
   choices: [
-    { id: "scene6d", text: "Refuse his mouth — silence war while you stay soft shield", textHot: "Refuse his mouth — silence war while you stay soft shield and your body betrays you" },
-    { id: "scene6n", text: "Chase the holding-badge number behind the shield", textHot: "Chase the holding-badge number behind the shield — his eyes on your throat the whole way" }
+    { id: "scene6d", text: "Refuse his mouth — a silent war while you stay his soft shield", textHot: "Refuse his mouth — a silent war while you stay his soft shield, your body betraying you" },
+    { id: "scene6n", text: "Chase the badge number from behind the shield", textHot: "Chase the badge number from behind the shield — his eyes on your throat the whole way" }
   ]
 };

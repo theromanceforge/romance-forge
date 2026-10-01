@@ -10,7 +10,7 @@ The red light stayed on. Brooks didn't blink.
 
 "Most of them," [player_name] said. "The white rows. Most of the white rows."
 
-Brooks nodded once and asked her for dates, and she gave them, and Rhea sat by the window with her hands folded on the tablet and didn't make a sound. It took eleven minutes. Brooks asked the same thing three ways, gently, and [player_name] gave the same answer three times, and by the third time her voice had stopped shaking. When the red light went off, [player_name] felt as if she'd been holding her breath underwater the entire time.
+Brooks nodded once and asked her for dates. She gave them. Rhea sat by the window with her hands folded on the tablet and didn't make a sound. It took eleven minutes. Brooks asked the same thing three ways, gently. [player_name] gave the same answer three times, and by the third time her voice had stopped shaking. When the red light went off, she felt as if she'd been holding her breath underwater the entire time.
 
 "Thank you," Brooks said. She put the recorder in her coat. "I'm not charging anyone tonight. Not you. Not Ms. Quinn." She stood. "But I'm not leaving, either. I'll sit with the desk until the day shift comes on. I'd like to see that guest book while it's still in one piece."
 
@@ -18,11 +18,11 @@ Rhea's face didn't move. "It's building property."
 
 "Then I'll read it in the building," Brooks said.
 
-She said it pleasantly. Nobody in the lounge mistook it for a request. [player_name] thought about the green leather book downstairs, and every name in it, and how many of those names Rhea had watched sign and then quietly forgotten.
+She said it pleasantly. Nobody in the lounge mistook it for a request. [player_name] thought about the green leather book downstairs and every name in it. She thought about how many of those names Rhea had watched sign and then quietly forgotten.
 
 They rode down together. Nobody spoke. In the mirrored wall [player_name] saw three women standing very straight, not looking at each other.
 
-The lobby at one in the morning was gold lamps and marble and nobody. Brooks took the stool at the far end of the concierge desk, set the leather guest book in front of her, and began turning pages with the end of a pen. Every few pages she lifted her phone and photographed one. The small sound of the shutter was the loudest thing in the room.
+The lobby at one in the morning was gold lamps and marble and nobody. Brooks took the stool at the far end of the concierge desk. She set the leather guest book in front of her and began turning pages with the end of a pen. Every few pages she lifted her phone and photographed one. The small sound of the shutter was the loudest thing in the room.
 
 The guest book was old green leather, gold edges worn down to brown. Visitors who wouldn't use the screen signed it in ink. Names, times, the unit they were visiting. [player_name] had never signed it once. Nolan had never needed her to. Twelve steps didn't go past the desk.
 
@@ -42,7 +42,7 @@ Down the desk, the shutter sounded again.
 
 "Four ways this goes," [player_name] said, very low. "She left. She was paid. She's dead. She's doing this on purpose. Brooks's file wants dead, because dead closes. I won't hand it that."
 
-"Then don't hand it anything," Rhea said. She reached under the desk and came up with a folded sheet of paper, and slid it across the marble under her palm until it was under [player_name]'s hand. "Slate export. Six months. Brooks has a copy. Now you do."
+"Then don't hand it anything," Rhea said. She reached under the desk and came up with a folded sheet of paper. She slid it across the marble under her palm until it was under [player_name]'s hand. "Slate export. Six months. Brooks has a copy. Now you do."
 
 [player_name] didn't look at it. She put her hand over it.
 
@@ -78,9 +78,11 @@ He was quiet for a second. "I know," he said. "It's on your face."
 
 Brooks turned another page. She lifted the phone. In the lamp light, at the far end of the desk, she looked tired and patient and completely awake.
 
-[player_name] didn't touch him. Not in front of Brooks. Not with the shutter going. But she let her little finger move across the marble, a quarter inch, until it almost met his, and she felt him go still beside her, and she stopped there, just short, the paper under her palm and the hangar's name in her head.
+[player_name] didn't touch him. Not in front of Brooks. Not with the shutter going. But she let her little finger move across the marble, a quarter inch, until it almost met his. She felt him go still beside her. She stopped there, just short, the paper under her palm and the hangar's name in her head.
 
-The shutter sounded again. Neither of them moved the last quarter inch.`,
+The shutter sounded again. Neither of them moved the last quarter inch.
+
+Home, with six months of paper between them on the marble. Or Hangar Nine, before the dark ran out.`,
   textHot: `"Nolan Greer," [player_name] said.
 
 His name left her mouth and her whole body felt it go. Like being touched and let go in the same second.
@@ -115,13 +117,15 @@ Visitors who wouldn't use the screen signed that book in ink. Names, times, the 
 
 "Is there anything on paper that doesn't match the slate?" [player_name] asked.
 
-Rhea didn't answer that. "She asked me twice tonight about the car codes," Rhea said.
+Rhea didn't answer that. "She asked me twice tonight about the car codes."
 
 The shutter again.
 
 "She left, or she was paid, or she's dead, or she's doing this on purpose," [player_name] said, very low. "Brooks's file wants dead. Dead closes. I won't give it that."
 
-"Then give it nothing," Rhea said. She slid a folded sheet across the marble under her palm until it was under [player_name]'s hand. "Slate export. Six months. Brooks has one. Now you do." Her voice dropped further. "And twice last winter a driver gave a code that isn't ours. Kessler Field. Hangar Nine. Take him home and read that paper together. Or take him out there before dawn. But stop using my desk as your conscience."
+"Then give it nothing," Rhea said. She slid a folded sheet across the marble under her palm until it was under [player_name]'s hand. "Slate export. Six months. Brooks has one. Now you do."
+
+Her voice dropped further. "And twice last winter a driver gave a code that isn't ours. Kessler Field. Hangar Nine. Take him home and read that paper together. Or take him out there before dawn. But stop using my desk as your conscience."
 
 The elevator opened.
 
@@ -147,7 +151,7 @@ He was close enough that she could smell him. Soap and wine and the warm skin at
 
 "No," he said. His eyes moved down her, slow, to the flush on her chest, to her hand flat over the folded paper, and came back up. "You look like you did the first night."
 
-She remembered the first night. His door. Her back against it. His hand sliding up under her dress, finding her already wet, and the sound he'd made, surprised and hungry, like he hadn't expected her to want him that much.
+She remembered the first night. His door. Her back against it. His hand sliding up under her dress and finding her already wet. The sound he'd made, surprised and hungry, like he hadn't expected her to want him that much.
 
 Her breath caught. He heard it.
 
@@ -155,7 +159,7 @@ Her breath caught. He heard it.
 
 "I know," he said. "I'm not touching you."
 
-He wasn't. That was the worst part. He stood a quarter inch away and didn't touch her, and every inch of her skin felt it anyway, as if he had his hands on her under the silk and Brooks was photographing that instead of the page.
+He wasn't. That was the worst part. He stood a quarter inch away and didn't touch her. Every inch of her skin felt it anyway. It was as if he had his hands on her under the silk and Brooks was photographing that instead of the page.
 
 The shutter sounded.
 
@@ -165,9 +169,11 @@ She let her little finger slide across the marble toward his. A quarter inch. Th
 
 He breathed out, very slowly, through his nose. His fingers flexed on the stone and went still.
 
-At the far end of the desk, Brooks lifted her phone again. [player_name] held her finger where it was, a hair from his, the paper under her palm and the hangar's name in her mouth, and didn't close the gap.`,
+At the far end of the desk, Brooks lifted her phone again. [player_name] held her finger where it was, a hair from his. The paper was under her palm and the hangar's name in her mouth. She didn't close the gap.
+
+Home, and the printouts, and whatever happened on the marble after. Or Hangar Nine before dawn, with all of this still unfinished.`,
   choices: [
-    { id: "scene6c", text: "Take Nolan home — intimacy and calendar printouts on marble", textHot: "Take Nolan home — intimacy and calendar printouts on marble while your body still feels photographed" },
-    { id: "scene6g", text: "Pull Nolan toward the hangar before dawn", textHot: "Pull Nolan toward the hangar before dawn — black-car dark with his heat unfinished beside your fear" }
+    { id: "scene6c", text: "Take Nolan home to read the printouts together on the marble", textHot: "Take Nolan home — the printouts on the marble, your body still feeling photographed" },
+    { id: "scene6g", text: "Pull Nolan toward the hangar before dawn", textHot: "Pull Nolan toward the hangar before dawn — black-car dark, his heat unfinished beside your fear" }
   ]
 };

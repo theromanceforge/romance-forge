@@ -12,7 +12,7 @@ Brooks looked at her a long moment. "Go ahead, Ms. Quinn. I'll be down shortly."
 
 Rhea left. Her heels went down the corridor fast and then were gone.
 
-Brooks asked for dates. [player_name] gave them. It took nine minutes, and the whole time a small cold voice in her head kept saying page, page, page, the way Brooks had said it. Soft breaks if a page goes missing.
+Brooks asked for dates. [player_name] gave them. It took nine minutes. The whole time, a small cold voice in her head kept saying page, page, page, the way Brooks had said it. Soft breaks if a page goes missing.
 
 When the red light went off, Brooks stood up quickly. Not rushing. Just quickly. "Let's go down," she said.
 
@@ -62,7 +62,7 @@ Pell watched her with mild interest. "If anyone wants to be useful tonight," he 
 
 The lobby went quiet.
 
-"What about it?" Brooks said.
+"What about it?" Brooks asked.
 
 "Nothing yet," Pell said. "Mr. Greer has a hangar lease there through one of his companies. Hangar Nine. You'll find it eventually. I'd rather you found it from me." He turned to Nolan. "We can plan how that conversation goes. Together, ideally. Or you can plan it without me, which I'd consider theater, and expensive."
 
@@ -90,7 +90,9 @@ He wiped them with his thumb. Slowly. One finger, then the next. The ash smeared
 
 He didn't let go of her wrist. His thumb moved over the pad of her last finger, and then didn't move away. Across the lobby Pell was talking low into his phone. Rhea stood at the cold grate with her back to them both.
 
-[player_name] looked at his thumb on her hand, gray now, and at his face, and didn't pull away. She curled her fingers, very slightly, around his.`,
+[player_name] looked at his thumb on her hand, gray now, and at his face, and didn't pull away. She curled her fingers, very slightly, around his.
+
+The drawer upstairs, or the hangar and Pell. Either way, she'd carry the ash with her.`,
   textHot: `"Nolan Greer," [player_name] said.
 
 His name felt like a hand leaving her body. The red light stayed on. Rhea stood up.
@@ -101,7 +103,7 @@ His name felt like a hand leaving her body. The red light stayed on. Rhea stood 
 
 Rhea's heels went down the corridor fast.
 
-Brooks asked for dates. [player_name] gave them. Every date was a night in her body, his mouth, his weight, her own voice saying yes, and under all of it a cold small voice kept repeating what Brooks had said. Soft breaks if a page goes missing.
+Brooks asked for dates. [player_name] gave them. Every date was a night in her body: his mouth, his weight, her own voice saying yes. Under all of it, a cold small voice kept repeating what Brooks had said. Soft breaks if a page goes missing.
 
 Nine minutes. The light went off. Brooks stood up quickly. "Let's go down," she said.
 
@@ -109,7 +111,7 @@ They smelled it in the elevator. Paper smoke, and something chemical under it.
 
 Behind the concierge desk the little gas fireplace nobody lit except at the holidays was burning. Low blue flame. On the grate, a black curl with orange still crawling at the edges.
 
-Rhea stood beside it, hands at her sides. Not hiding. She looked at [player_name] once, flat and tired, the look of a woman who had decided something alone and would not be talked out of it now.
+Rhea stood beside it, hands at her sides. Not hiding. She looked at [player_name] once, flat and tired. It was the look of a woman who had decided something alone and would not be talked out of it now.
 
 The guest book lay open on the desk with a ragged stub in the gutter where a page had been torn out.
 
@@ -157,7 +159,7 @@ Nolan came to [player_name]. He took her wrist and turned her hand over.
 
 He wiped the ash off her fingertips with his thumb. Slow. One finger. Then the next. The gray smeared onto his skin.
 
-She felt every stroke between her legs. It was absurd. It was a lobby, and a fire, and Pell ten feet away, and her whole body went soft and heavy anyway, her nipples tightening under the silk, her breath going shallow. He wasn't even looking at her body. He was looking at her hand. That made it worse.
+She felt every stroke between her legs. It was absurd. It was a lobby, and a fire, and Pell ten feet away. Her whole body went soft and heavy anyway, her nipples tightening under the silk, her breath going shallow. He wasn't even looking at her body. He was looking at her hand. That made it worse.
 
 "You touched it," he said, low.
 
@@ -179,9 +181,11 @@ She was wet now, standing in the lobby. She pressed her thighs together and his 
 
 He didn't let go of her wrist. Across the lobby Pell murmured into his phone. Rhea stood at the cold grate with her back to them.
 
-[player_name] curled her fingers around his thumb and held it there, gray with ash, against the center of her palm, and stood swaying very slightly toward him with her whole body aching and didn't let go.`,
+[player_name] curled her fingers around his thumb and held it there, gray with ash, against the center of her palm. She stood swaying very slightly toward him, her whole body aching, and didn't let go.
+
+The drawer upstairs, or the hangar with Pell. Whichever she chose, she'd choose it with his thumb still on her skin.`,
   choices: [
     { id: "scene6a", text: "Open Nolan's locked drawer — cooperate fully after the burn", textHot: "Open Nolan's locked drawer — cooperate fully, ash still in the air between your mouths" },
-    { id: "scene6m", text: "Plan the hangar raid with or against Pell", textHot: "Plan the hangar raid with or against Pell — hands shaking over maps instead of over you" }
+    { id: "scene6m", text: "Plan the hangar raid with or against Pell", textHot: "Plan the hangar raid with or against Pell — your hands shaking over maps instead of over him" }
   ]
 };

@@ -16,7 +16,7 @@ He didn't kiss her. He just drew her in over his threshold by the hand and shut 
 
 "Rhea was frightened," he said. "It sounds the same at midnight."
 
-He walked her into the front room. The lamps were low. The city filled the glass. He sat her on the couch and went to the bar and came back with a glass of water instead of wine, which somehow made it worse, because it meant he could see what state she was in.
+He walked her into the front room. The lamps were low. The city filled the glass. He sat her on the couch and went to the bar and came back with a glass of water instead of wine. Somehow that made it worse, because it meant he could see what state she was in.
 
 "Drink," he said.
 
@@ -64,7 +64,7 @@ The room was very quiet. Wind leaned on the glass. Somewhere down the hall, behi
 
 "Or you stand next to me while Brooks's lieutenant tries to make me a headline." He didn't smile. "Be the neighbor who says, in public, that I was a husband who didn't know what to do. Shield me. It might even be true."
 
-She looked at him. At the scar along his jaw. At the tired lines around his eyes, older tonight than mid-forties had any right to look.
+She looked at him. At the scar along his jaw. At the tired lines around his eyes, older tonight than they had any right to look.
 
 "You're asking me to give up your board or your reputation," she said.
 
@@ -80,7 +80,9 @@ He gave it to her. She turned it palm up on her knee and, carefully, wrote the n
 
 "I never could," Nolan said.
 
-She didn't let go of his hand. The pen stopped. She looked up from his palm to his mouth, a foot away, and stayed there, his hand open on her knee and her fingers still closed around his wrist.`,
+She didn't let go of his hand. The pen stopped. She looked up from his palm to his mouth, a foot away. She stayed there, his hand open on her knee and her fingers still closed around his wrist.
+
+Chase the number and put his board under the light. Or stand beside him and let Rasmussen see her there.`,
   textHot: `She stepped over his threshold.
 
 He pulled her in and kicked the door shut, and his mouth came back down on hers, and for three seconds she let it. Then she started shaking, and it wasn't want.
@@ -107,13 +109,13 @@ She could still see Brooks's thin smile. The gray at her temples. The flat shoes
 
 She reached for him. Grabbed his shirt and pulled him down toward her. "Make me stop thinking," she said. "Please. Just—"
 
-He let her pull him. He braced one hand on the back of the couch beside her head and kissed her, slow, deep, and his other hand slid up her bare thigh under the silk and stopped high, his thumb on the crease of her hip. She arched into it. She was still wet from the doorway.
+He let her pull him. He braced one hand on the back of the couch beside her head and kissed her, slow and deep. His other hand slid up her bare thigh under the silk and stopped high, his thumb on the crease of her hip. She arched into it. She was still wet from the doorway.
 
 Then he lifted his mouth an inch.
 
 "Not like this," he said. "Not so you can hide in it. You already know what that costs."
 
-She went still. He was right. She hated that he was right. Her body didn't care. It throbbed under his hand, swollen and impatient, and she had to close her eyes for a second to make herself listen to him instead of it.
+She went still. He was right. She hated that he was right. Her body didn't care. It throbbed under his hand, swollen and impatient. She had to close her eyes for a second to make herself listen to him instead of it.
 
 He sat back on the low table in front of her, knees bracketing hers. His hand stayed on her thigh, warm, not moving.
 
@@ -155,7 +157,7 @@ He gave it. She turned it palm up on her bare thigh, right where it had been, an
 
 "I never could," Nolan said.
 
-She capped the pen. She didn't let go of his wrist. She guided his hand, slowly, up the inside of her thigh, under the silk, until his fingers rested against the damp lace between her legs, and held it there, not moving.
+She capped the pen. She didn't let go of his wrist. She guided his hand slowly up the inside of her thigh, under the silk, until his fingers rested against the damp lace between her legs. She held it there, not moving.
 
 He breathed out hard. His eyes went dark. "You said you wanted to think," he said.
 
@@ -163,9 +165,11 @@ He breathed out hard. His eyes went dark. "You said you wanted to think," he sai
 
 His fingers pressed, just slightly. She gasped. Her hips tipped up into his hand.
 
-She held his wrist where it was, the ink still wet on his palm, and looked at his mouth a foot away, and didn't pull him the rest of the way in.`,
+She held his wrist where it was, the ink still wet on his palm. She looked at his mouth a foot away and didn't pull him the rest of the way in.
+
+Chase the number and put his board under the light. Or stand beside him in public, and take what he gave her for it.`,
   choices: [
-    { id: "scene6n", text: "Chase the holding-badge number — shadow Nolan's board", textHot: "Chase the holding-badge number — shadow Nolan's board while your body still asks forgiveness from his hands" },
-    { id: "scene6o", text: "Shield Nolan from Brooks's politics", textHot: "Shield Nolan from Brooks's politics — soft loyalty with his mouth as reward and cage" }
+    { id: "scene6n", text: "Chase the badge number — shadow Nolan's board", textHot: "Chase the badge number — shadow Nolan's board, your body still asking his hands for forgiveness" },
+    { id: "scene6o", text: "Shield Nolan from the lieutenant's politics", textHot: "Shield Nolan from the lieutenant's politics — soft loyalty, his mouth both reward and cage" }
   ]
 };
