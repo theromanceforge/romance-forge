@@ -39,7 +39,11 @@ A bailiff called for the parties. A foghorn answered the river, lonely and low. 
 
 Owen would plead to lesser counts on the chain (Warehouse C, the clerk M.H., the midnight trucks) in exchange for testimony and a shred of sentencing mercy instead of the deepest cut. Soft edges. Costly forgiveness. One sealed page. [player_name] clenched when Will's gaze caught hers across the glass. His charm was banked, velvet over blade, and his attention shot straight between her legs before either of them pretended this was only a docket.
 
+Ellison set the deal sheet on the table and waited until the room was only paper.
+
 "You testify truthfully," Ellison said. "The pier night. Your silence. The journal as spine. No invented corpses. No going easy on the clerk to spare Owen a harder number. The deal holds: supervised truth, sealed collateral. Akers signs. You sign. Owen signs, or we go full blade."
+
+Pens moved. Signatures waited. The clock filled the silence while Owen's counsel read the terms twice.
 
 Will's knuckles flexed. Ellison almost named Nina Solis. Will's jaw worked, and his eyes stayed on [player_name] as if he were counting her pulse through cloth. Broken men shouldn't be this hot. "Cho's remains stay pending," he said, his voice rough enough that she felt it low. "Mercy doesn't christen bone."
 

@@ -32,6 +32,8 @@ His pen stopped. Respect moved through his face like weather changing. He almost
 
 "If we walk out together in truth," he added, almost gently, "I'll give you more of Solis than hints when the case earns it. Not a sealed-file striptease for bedside romance. A promise that my ash won't stay private forever while I demand your honesty about the pier night. The rebuild keeps that page healing longer, on purpose. Both are love. Both cost. Neither baptizes bone."
 
+Neither of them said anything for a while. The monitor counted. Rain worked at the window.
+
 A nurse passed the door and chose not to see. Ellison's tablet buzzed again. Will ignored it. He leaned in carefully, minding the throb at his temple, his knuckles warm around her wrist.
 
 Outside, Harborwick tried to become day. [player_name] drew a breath that tasted like antiseptic and soap.

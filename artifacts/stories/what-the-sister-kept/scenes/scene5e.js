@@ -26,8 +26,6 @@ His hand flexed near his ribs, the Solis flinch, and she felt the raid rise betw
 
 Something in his face broke open and shut. He kissed her like the distinction mattered: slow, thorough, the kind of kiss that mapped a witness statement and then burned it. His thumb stroked the hinge of her jaw. She opened for him.
 
-When he lifted his head, the case came back in with the rain. Unidentified. The silver charm in Cho's lab was only like Renny's missing piece. [player_name] refused to let the remains become Renny just because she needed somewhere to put seven years of ache. Will knew about the gap in the bracelet; so did the file; so did Cho, who knew the difference between consistent with and is. That should have stopped her. It didn't.
-
 Will's phone buzzed in his coat. Once. Twice. He ignored it, mouth traveling to the corner of hers, then the rain-wet place under her ear that made her knees threaten mutiny. The buzz turned insistent. Dr. Lila Cho's timing lived in that vibration: science that could crack Owen Vale's alibi. The kiss and the ME's ringtone shared one unbearable second.
 
 "Don't," [player_name] whispered, not sure if she meant the phone or the stopping.

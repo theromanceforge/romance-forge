@@ -45,6 +45,8 @@ Remains still unidentified, pending. Seen, not spent. The narrow scope somehow m
 
 "One name," Ellison said. Soft. Final. Displeased. "Vale burns for your pier night. No chain parade. No second funeral promised. Photograph carefully."
 
+Ellison let the order sit. Rain ticked the glass. For a long moment the room was only paper and the hum of the lights.
+
 Will's pen stopped. The morning's cracked notebook spine still hummed in [player_name]'s cunt like overuse. When Ellison said partner, his flinch tightened her nipples under her blouse until the cotton scraped.
 
 "Not a funeral," Will said. His eyes dragged over her throat, her mouth, the damp place her pulse lived lower down. "Narrow spends Owen as a single-house reckoning. It doesn't invent corpses for clearance. And I'm not only looking at her like a witness while we keep one name."
