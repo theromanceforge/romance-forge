@@ -89,7 +89,7 @@ She catalogued every place he had touched. Jaw, hair, charm through cloth, clit 
 
 She pressed her face into scorched leather and breathed him in. Oil, rain, sleep-debt. She slept in pieces, wet and chosen. Bram's second pattern at dawn waited, or the war-only streak cracking when desire walked back into a briefing still smelling of chalk and his mouth.`,
   choices: [
-    { id: "scene7c", text: "Floor-map dawn: Bram IDs a second fracture pattern inland", textHot: "Floor-map dawn: Bram IDs a second fracture while your mouth still remembers his" },
+    { id: "scene7c", text: "Floor-map dawn: Bram identifies a second fracture pattern inland", textHot: "Floor-map dawn: Bram identifies a second fracture while your mouth still remembers his" },
     { id: "scene7d", text: "War-only streak breaks — want returns mid-briefing", textHot: "War-only streak breaks — want returns mid-briefing and you almost come standing" }
   ]
 };

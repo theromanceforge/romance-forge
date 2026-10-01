@@ -26,7 +26,7 @@ His eyes found [player_name]. "You decide how loud the second fracture gets. And
 
 [player_name] traced the inland line without touching it. She thought of Cassian's border village, and his early breach. Every map felt like a body she might undress.
 
-"Floor-map dawn," Bram muttered, already packing copper into a vial. "IDs done. I will not carry this into Isolde's office without your handler's countersign and your pulse-consent. Partnership, candidate. Or mutiny. Pick a theater."
+"Floor-map dawn," Bram muttered, already packing copper into a vial. "Identification done. I will not carry this into Isolde's office without your handler's countersign and your pulse-consent. Partnership, candidate. Or mutiny. Pick a theater."
 
 "Your song answered the cliff," Bram said carefully. "It may answer this rhyme too. That is not confirmation you are key. That is confirmation Isolde's ledger has been listening with one ear." He capped the vial. "I will compare under lock if you bring me the blackened tape. I will also pretend I never saw this copper if you order me to—though my pretending has interest, Rook, and you know the rates."
 

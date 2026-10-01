@@ -153,7 +153,7 @@ She did. Storm-colored eyes. A scar at the corner of his mouth. A mouth shaped f
 
 His thumb hovered near her lower lip and didn't land. The almost-touch made her knees soft.
 
-"I'm not a soft professor fantasy, [player_name]," he said. "I'm the man who stayed when Vesper left. Staying has a body count. So does leaving. Pick which count you want me to risk for you tonight."
+"I'm not a gentle tutor out of a candidate's daydream, [player_name]," he said. "I'm the man who stayed when Vesper left. Staying has a body count. So does leaving. Pick which count you want me to risk for you tonight."
 
 She tasted parchment and her own want. Her nipples were hard, her cunt soaked, and she refused to come before she'd chosen. Beg him for the softer net with her body still hungry. Or tip Maris, with his heat still under her tongue like a kiss she hadn't taken.
 

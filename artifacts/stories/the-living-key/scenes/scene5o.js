@@ -2,7 +2,7 @@ export default {
   id: "scene5o",
   layer: 5,
   title: "The Shield in the Chalk",
-  text: `Cassian Rook leaned hard, and [player_name] became the bad-cop shield for Maris Quill.
+  text: `Cassian Rook leaned hard, and [player_name] became the hard shield for Maris Quill.
 
 The interrogation circle in the lower ready-room was only chalk and four stools, but Ashmere made circles into verdicts. Maris sat pale, lips white, eyes on the rain-tracks. Cassian leaned in with his gloves on his knees. Scarred mouth soft, pressure absolute. Questions about Thorne's whisper. About letters. About whether a friend's loyalty was already Unmade infection.
 

@@ -94,6 +94,6 @@ She replayed the theft in her body all the way down. Hide sliding against her in
 In her candidate room, her clit throbbed in time with the distant bells. She pressed her thighs together in the dark and didn't touch herself yet. She saved the ache like a vow. Either he would find everything the withheld page implied, or Bram's floor-map at dawn would find a second fracture before Isolde noticed the missing sheet.`,
   choices: [
     { id: "scene7b", text: "Withheld page: Cassian finds it anyway", textHot: "Withheld page: Cassian finds it anyway — mouth on your pulse while he reads what you stole" },
-    { id: "scene7c", text: "Floor-map dawn: Bram IDs a second fracture pattern inland", textHot: "Floor-map dawn: Bram finds a second fracture, and you're still wet from the night you didn't finish" }
+    { id: "scene7c", text: "Floor-map dawn: Bram identifies a second fracture pattern inland", textHot: "Floor-map dawn: Bram finds a second fracture, and you're still wet from the night you didn't finish" }
   ]
 };

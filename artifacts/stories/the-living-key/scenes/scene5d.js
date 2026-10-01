@@ -20,7 +20,7 @@ The room went colder than salt wind. Isolde's quill hovered. Cassian's breath le
 
 "Record the match as contested resonance," Cassian said, soft and absolute. "Not as ownership. Living-key sacrifice remains incomplete in every honest hymn. Burning her quiet for wrong song would be weather we refuse to call gospel."
 
-Isolde wrote anyway—match, Thorne-pattern, candidate admits—ink biting parchment like a small mouth. "Honesty has a price and a protection. Access remains contingent on dawn readings. Sandbagging will be smelled. Rawness will be used. You understand both."
+Isolde wrote anyway—match, Thorne-pattern, candidate admits—ink biting parchment like a small mouth. "Honesty has a price and a protection. Access remains contingent on dawn readings. Holding back will be smelled. Rawness will be used. You understand both."
 
 [player_name] understood. Want hummed under the fear, because Cassian's nearness after raw speech felt like being seen naked in a war. Outside, Veil Sea fog climbed. Inland, Calderyn's wards thinned. Here, the ledger had her words forever.
 
@@ -56,6 +56,6 @@ His forehead tipped to hers. "War only means my hands off your cunt while we pla
 She kissed the corner of his mouth. Salt. Unfinished.`,
   choices: [
     { id: "scene6d", text: "Off-record night: intimacy refused; war only", textHot: "Refuse intimacy — war only while your body still begs otherwise" },
-    { id: "scene6e", text: "Controlled drip: Isolde smells sandbagging", textHot: "Try controlled drip anyway — let Isolde smell how wet your caution is" }
+    { id: "scene6e", text: "Controlled drip: Isolde smells the holding back", textHot: "Try controlled drip anyway — let Isolde smell how wet your caution is" }
   ]
 };
