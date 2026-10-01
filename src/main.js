@@ -1046,16 +1046,30 @@ function render() {
   trackViewTransition();
 }
 
-/** After a story pick, bring the spice choice + Begin into view if hidden. */
+/**
+ * After a story pick, bring the spice choice + Begin into view if hidden.
+ * Instant + explicit per scroller (overlay, then window): a smooth nested
+ * scrollIntoView gets cut off when an async re-render swaps the overlay.
+ */
 function revealSpiceMeter() {
   const meter = app.querySelector('[data-testid="spice-meter"]');
-  if (!meter || typeof meter.scrollIntoView !== 'function') return;
-  const r = meter.getBoundingClientRect();
-  const box = meter.closest('.cover-overlay')?.getBoundingClientRect();
-  const top = Math.max(0, box ? box.top : 0);
-  const bottom = Math.min(window.innerHeight, box ? box.bottom : window.innerHeight);
-  if (r.top >= top && r.bottom <= bottom) return;
-  meter.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  const begin = app.querySelector('[data-testid="start-btn"]') || meter;
+  if (!meter || !begin) return;
+  // Shift so [meter top, Begin bottom] fits in [top, bottom]; meter top wins.
+  const delta = (top, bottom) => {
+    const m = meter.getBoundingClientRect();
+    const b = begin.getBoundingClientRect();
+    if (m.top < top) return m.top - top;
+    if (b.bottom > bottom) return Math.min(b.bottom - bottom, m.top - top);
+    return 0;
+  };
+  const overlay = meter.closest('.cover-overlay');
+  if (overlay) {
+    const o = overlay.getBoundingClientRect();
+    overlay.scrollTop += delta(o.top, o.bottom);
+  }
+  const dy = delta(0, window.innerHeight);
+  if (dy) window.scrollBy(0, dy);
 }
 
 function bindEvents() {
@@ -1066,8 +1080,12 @@ function bindEvents() {
       if (!id) return;
       track('story_click', { storyId: id, meta: { via: 'card' } });
       setState({ storyId: id });
-      refreshReadersSay(id);
       revealSpiceMeter();
+      // readers-say fetch re-renders (and resizes the strip above the meter):
+      // reveal again once it settles.
+      refreshReadersSay(id).finally(() => {
+        if (state.view === 'landing' && state.storyId === id) revealSpiceMeter();
+      });
     });
   });
 

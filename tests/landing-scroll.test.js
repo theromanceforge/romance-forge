@@ -22,8 +22,11 @@ describe('landing scroll preservation', () => {
     );
   });
 
-  it('story pick reveals the spice meter with a smooth nearest scroll', () => {
-    expect(main).toMatch(/refreshReadersSay\(id\);\s*revealSpiceMeter\(\);/);
-    expect(main).toMatch(/scrollIntoView\(\{ block: 'nearest', behavior: 'smooth' \}\)/);
+  it('story pick reveals spice meter + Begin in overlay and window, after async re-render', () => {
+    expect(main).toMatch(/revealSpiceMeter\(\);\s*\/\/[^\n]*\n[^\n]*\n\s*refreshReadersSay\(id\)\.finally\(/);
+    expect(main).toMatch(/if \(state\.view === 'landing' && state\.storyId === id\) revealSpiceMeter\(\)/);
+    const reveal = main.slice(main.indexOf('function revealSpiceMeter'), main.indexOf('function bindEvents'));
+    expect(reveal).toMatch(/overlay\.scrollTop \+= delta/);
+    expect(reveal).toMatch(/window\.scrollBy\(0, dy\)/);
   });
 });
