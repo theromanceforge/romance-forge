@@ -9,7 +9,7 @@
 
 ## Who this story is
 
-A woman comes home to a rain-wet town that still will not say her name the same way twice. Fifteen years ago she left Somerton to protect the boy she almost loved. Now his uncle’s letter has cracked the quiet open, and the truth she carried alone is no longer hers to bury. The romance is unfinished heat with **John Shaw**. The plot is whether trust can survive the secret that made her leave.
+A woman comes home to a rain-wet town that still will not say her name the same way twice. Fifteen years ago she left Somerton to protect the young man she almost loved. Now his uncle’s letter has cracked the quiet open, and the truth she carried alone is no longer hers to bury. The romance is unfinished heat with **John Shaw**. The plot is whether trust can survive the secret that made her leave.
 
 Use this page to brief the landing “who we are” and to keep every scene, illustration, and UI blurb on-voice.
 
@@ -19,12 +19,14 @@ Use this page to brief the landing “who we are” and to keep every scene, ill
 
 | Name | Role |
 |------|------|
-| **[player_name]** | Female protagonist only (`she/her`). Addressed as `[player_name]` in prose. |
-| **John Shaw** / **John** | Male love interest **only** (v1). Prefer “John” in dialogue/narrative; “John Shaw” for full name/family context. No second LI. Runs the Market Street diner. Henry’s nephew; brother of Clara Shaw. |
-| **Henry Shaw** | Uncle; Willow Lane; author of the letter; keeper of half-truths who is running out of silence. |
-| **Clara Shaw** | John’s younger sister; charcoal sketches, restless honesty; the one who found the papers. |
+| **[player_name]** | Female protagonist only (`she/her`). Addressed as `[player_name]` in prose. **Age:** 20 at the cover-up; 35 now. |
+| **John Shaw** / **John** | Male love interest **only** (v1). Prefer “John” in dialogue/narrative; “John Shaw” for full name/family context. No second LI. Runs the Market Street diner. Henry’s nephew; brother of Clara Shaw. **Age:** 20 at the cover-up; 35 now. |
+| **Henry Shaw** | Uncle; Willow Lane; author of the letter; keeper of half-truths who is running out of silence. **Age:** older adult (the generation above John). |
+| **Clara Shaw** | John’s younger sister; charcoal sketches, restless honesty; the one who found the papers. **Age:** 21 now; 6 at the winter accident fifteen years ago. |
 | *(offstage)* **John & Clara’s late father** | The wound the silence was built around. |
 | *(fading)* **Their mother** | Left the story early; John raised Clara beside the diner lights. |
+
+**Canonical ages (locked):** [player_name] and John were both **20** at the cover-up and are **35** now; Clara is **21** now (she was **6** at the winter accident); Henry is an older adult. The span stays **fifteen years**. Every character in any sexual or Hot passage is an adult.
 
 ---
 

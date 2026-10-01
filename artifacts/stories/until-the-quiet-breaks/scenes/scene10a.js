@@ -8,7 +8,7 @@ Inside, coffee steamed. The fryer hummed its old hymn. The cracked stool leaned 
 
 "We open in daylight," John had said at Willow Lane after the worst of the telling. "No sealed drawer. No insurance written in other people's silence."
 
-They had told Clara first. She had sat at the kitchen table with charcoal blackening her fingers and listened without flinching, younger than the secret and somehow older than the adults who had kept it. Then Henry. He sat in the smell of woodsmoke and wet boxwood and did not ask for mercy he had not earned. His hands shook once around a mug and then went still, as if stillness could pass for repentance.
+They had told Clara first. She had sat at the kitchen table with charcoal blackening her fingers and listened without flinching, a child when the secret began and somehow older now than the adults who had kept it. Then Henry. He sat in the smell of woodsmoke and wet boxwood and did not ask for mercy he had not earned. His hands shook once around a mug and then went still, as if stillness could pass for repentance.
 
 Then they stopped correcting the town. Gossip arrived before noon, as it does in a place that runs on freight schedules and fryer grease. By afternoon the story had teeth, and somehow also room to breathe. Voss's name moved through Market Street like a cold draft under a badly sealed door. The winter accident stopped being a rumor shaped like a girl who left for a bigger life. [player_name] stopped being the punchline of someone else's cover.
 

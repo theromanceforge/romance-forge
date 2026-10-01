@@ -50,7 +50,7 @@ John moved behind the counter out of habit and reached for the coffee urn. Cold.
 
 "They'll say whatever Mae stamps into gossip between letters," John answered. "I care what Clara knows before Mae does. I care what I know before I touch you like the war's over when it isn't."
 
-In Henry's firelight the accusation had been a clean blade. Here it was kitchen-real: sugar grit under her elbow, a calendar still turned to last month. [player_name] thought of the station platform fifteen years ago, the suitcase, Henry's careful face. Telling John alone could become another kind of suitcase if they weren't careful with Clara. But walking back up Willow meant putting a surname into a sixteen-year-old's charcoal-stained hands.
+In Henry's firelight the accusation had been a clean blade. Here it was kitchen-real: sugar grit under her elbow, a calendar still turned to last month. [player_name] thought of the station platform fifteen years ago, the suitcase, Henry's careful face. Telling John alone could become another kind of suitcase if they weren't careful with Clara. But walking back up Willow meant putting a surname into a twenty-one-year-old's charcoal-stained hands.
 
 "I'm not trying to exile your sister from the story," she said. "I'm trying not to turn her into the audience while we use each other to survive the first shock."
 

@@ -40,7 +40,7 @@ John looked at [player_name]. Not asking her to soften anything. Asking where sh
 
 "There's money left to settle," Henry said. "I can take you to it. Show you the ledger lines that still move. Pay what remains with you watching, so you know it ends." His voice cracked toward hope and hated itself for it. "Or you refuse my money and make me say all of this to John without buying myself an easier way out."
 
-Clara set her sketchbook down hard enough to make the paperweight tremble. "Don't buy anything with us as the change," she said. "I'm sixteen, not stupid."
+Clara set her sketchbook down hard enough to make the paperweight tremble. "Don't buy anything with us as the change," she said. "I'm twenty-one, not stupid."
 
 The fire popped. [player_name] tasted woodsmoke and the metallic brightness of Voss finally sitting in the air where ambition used to be.
 

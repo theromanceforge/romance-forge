@@ -22,7 +22,7 @@ Clara's flashlight found the glove box under oilcloth on a low shelf. Not a car 
 
 John's jaw flexed. Water ran from his hair into his collar. He didn't look at [player_name]. "Open it."
 
-The hasp stuck. Clara swore once, teenage and precise, and [player_name] braced the tin while Clara worked the latch. Inside lay folded bank paper, a notebook bound with a brittle rubber band, and a winter date pressed in pencil so hard it scarred the sheet beneath. The smell hit first: dust, oil, the sweet rot of paper kept too long from air. Then the ledger itself, dark green cloth, corners chewed by time or mice or both.
+The hasp stuck. Clara swore once, young and precise, and [player_name] braced the tin while Clara worked the latch. Inside lay folded bank paper, a notebook bound with a brittle rubber band, and a winter date pressed in pencil so hard it scarred the sheet beneath. The smell hit first: dust, oil, the sweet rot of paper kept too long from air. Then the ledger itself, dark green cloth, corners chewed by time or mice or both.
 
 Clara lifted it like something that might bruise. "Winter accounts. Not the pretty desk summary. This one."
 

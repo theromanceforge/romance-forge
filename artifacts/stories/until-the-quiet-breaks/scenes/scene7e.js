@@ -48,7 +48,7 @@ His mouth tilted. "Then the answers are done enough to open the door they were g
 
 The blue door stuck like a promise that needed force. The cracked stool listened. John's nearness was a second pulse she could finally answer, or postpone one more time for the uncle who had arranged the cover and called it love.
 
-John paced once more to the pie case and back, apron strings still half-tied. "Henry will try to smooth this over by morning," he said. "He'll call the whiskey tea again. He'll call your leaving ambition again. He'll look at Clara's charcoal and call it a teenager's drama. If we leave these answers in this room, he wins another hour of quiet. If we take them to Willow while they still burn, his kitchen becomes the courtroom it should have been fifteen years ago."
+John paced once more to the pie case and back, apron strings still half-tied. "Henry will try to smooth this over by morning," he said. "He'll call the whiskey tea again. He'll call your leaving ambition again. He'll look at Clara's charcoal and call it a kid sister's drama. If we leave these answers in this room, he wins another hour of quiet. If we take them to Willow while they still burn, his kitchen becomes the courtroom it should have been fifteen years ago."
 
 [player_name] watched rain stitch the window. "And if we stay—if we let the answers become a body before they become a confrontation—we risk wanting doing Henry's work for him. Softening. Delaying. Calling love what is actually avoidance wearing a warmer coat."
 

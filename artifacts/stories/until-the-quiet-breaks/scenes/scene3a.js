@@ -9,7 +9,7 @@ John moved through it with a competence that looked like calm until [player_name
 
 She stayed.
 
-Clara tossed her an apron without ceremony, charcoal smudged along the hem. "If you're here, you're useful," she said. She was sixteen going on forty, with eyes that catalogued everything and filed nothing under kindness alone. "[player_name], right? Henry wrote you. John practiced what he'd say if you came back. Don't make him use the polite version." Then she was gone into the kitchen with a ladle.
+Clara tossed her an apron without ceremony, charcoal smudged along the hem. "If you're here, you're useful," she said. She was twenty-one going on forty, with eyes that catalogued everything and filed nothing under kindness alone. "[player_name], right? Henry wrote you. John practiced what he'd say if you came back. Don't make him use the polite version." Then she was gone into the kitchen with a ladle.
 
 [player_name] tied the apron. The knot sat against her ribs like a decision made tangible. She slid plates. She refilled coffee. She learned the new names for old booths. The cracked stool by the register took her weight once between tickets and leaned its familiar half-degree left. When she rose, John's gaze flicked to the empty stool and then to her face. Something moved behind the grey: gratitude, fear, the old almost.
 
@@ -50,7 +50,7 @@ The apron was still tied at her ribs. The coffee cooled between them. Upstairs, 
 
 She stayed.
 
-Clara tossed her an apron, charcoal smudging the hem. "If you're here, you're useful," she said, sixteen going on forty. "[player_name], right? Henry wrote you. John practiced what he'd say if you came back. Don't make him use the polite version." Her eyes flicked once to John's mouth and back, as if she had already scored the wanting in the room. Then she was gone with a ladle.
+Clara tossed her an apron, charcoal smudging the hem. "If you're here, you're useful," she said, twenty-one going on forty. "[player_name], right? Henry wrote you. John practiced what he'd say if you came back. Don't make him use the polite version." Her eyes flicked once to John's mouth and back, as if she had already scored the wanting in the room. Then she was gone with a ladle.
 
 [player_name] tied the apron.
 

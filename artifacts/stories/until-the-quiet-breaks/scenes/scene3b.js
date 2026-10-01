@@ -3,7 +3,7 @@ export default {
   layer: 3,
   title: "Walk to Willow",
   art: "/art/until-the-quiet-breaks/scene3b.png",
-  text: `John left the dinner tickets with Clara and promised to be back before close. Clara's mouth flattened into something older than sixteen. Charcoal darkened the crease of her knuckle.
+  text: `John left the dinner tickets with Clara and promised to be back before close. Clara's mouth flattened into something older than twenty-one. Charcoal darkened the crease of her knuckle.
 
 "Bring her back in one piece," she told John. Then her gaze flicked to [player_name]. "Bring yourself back able to look at me." She jerked her chin at the blue door and the rain freckling the glass. "Go. And don't let Henry turn this into another tidy story. I've already drawn the untidy one."
 
@@ -44,7 +44,7 @@ The fire popped. Boxwood dripped onto the porch boards. John glanced at [player_
 [player_name] tasted rain and woodsmoke and the old metal of an anger she had carried for fifteen years. John was ready to become the man who refused protection. Henry was waiting to be spoken to or spoken for. The clock ticked, Henry's mouth parted on another unfinished sentence, and the first word in the room was still hers to give or to hand away.`,
   textHot: `[player_name]'s body left the diner before her feet did. The blue door's cold was no reset at all.
 
-John left the tickets with Clara and promised to be back before close. Clara's mouth flattened into something older than sixteen. "Bring her back in one piece," she told him.
+John left the tickets with Clara and promised to be back before close. Clara's mouth flattened into something older than twenty-one. "Bring her back in one piece," she told him.
 
 Then she looked at [player_name], and the look missed nothing: the hover of John's hand near her waist, the flush high on her cheekbones, the way she walked as if her thighs were negotiating unfinished business. "Bring yourself back able to look at me. Don't let Henry tidy this. I've drawn the untidy one." Her chin jerked toward the rain-freckled glass. "And if you're going to climb that hill wanting each other that loudly, keep your hands free for the door. God help me, I can smell the almost on both of you."
 

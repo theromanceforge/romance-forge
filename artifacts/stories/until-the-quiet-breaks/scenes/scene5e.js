@@ -38,7 +38,7 @@ John's fingers tightened on the chair back. [player_name] felt it through the wo
 
 "That's still a story about protecting us," [player_name] said, keeping her tone even. "Protecting looked like a suitcase on a platform last time. It looked like me practicing wanting more until the practice became a life. I'm asking for the unprotected version."
 
-Clara came fully into the room and set her sketchbook beside Henry's cold tea. "Uncle," she said, sixteen going on forty, "I already found the ledger photocopy. I already circled the dates that skip. The name is going to come out of paper if it doesn't come out of your mouth. Choose which one hurts John less."
+Clara came fully into the room and set her sketchbook beside Henry's cold tea. "Uncle," she said, twenty-one going on forty, "I already found the ledger photocopy. I already circled the dates that skip. The name is going to come out of paper if it doesn't come out of your mouth. Choose which one hurts John less."
 
 Henry looked at his niece as if she had grown a second spine while he was busy polishing furniture. Pride and wreckage crossed his face in the same second. Then he looked at [player_name], really looked, the way the letter had without ink: I thought you should know.
 

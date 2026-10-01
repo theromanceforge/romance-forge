@@ -4,6 +4,8 @@
 
 Spice: Warm (`text`) and Hot (`textHot`) share the same choice IDs — the TREE does not fork by heat.
 
+Canonical ages (see PREMISE): [player_name] and John were 20 at the cover-up and are 35 now; Clara is 21 now (6 at the accident); Henry is an older adult. The story spans fifteen years.
+
 ## Layer counts
 
 | Layer | Count | IDs | Choices |

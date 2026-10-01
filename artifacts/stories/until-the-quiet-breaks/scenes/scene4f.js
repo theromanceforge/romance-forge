@@ -20,7 +20,7 @@ The study was the throat of the house: one rain-streaked window, shelves of ledg
 
 Henry's shadow filled the study door without entering. "The glove box is in the shed," he said finally, voice thin. "Under oilcloth. I told myself I kept it for taxes. I kept it because throwing it away would have been another kind of confession."
 
-[player_name] didn't look at him yet. She turned pages. A study of open hands dropping something too heavy. A margin note in Clara's teenage scrawl: why does her leaving smell like our winter? The blue door from outside, and a woman's silhouette drawn in negative space, as if absence could be sketched.
+[player_name] didn't look at him yet. She turned pages. A study of open hands dropping something too heavy. A margin note in Clara's younger scrawl: why does her leaving smell like our winter? The blue door from outside, and a woman's silhouette drawn in negative space, as if absence could be sketched.
 
 Rain thickened on the window. Down on Market Street the diner would be closing, John flipping chairs, listening for a step that might be hers. [player_name] felt the pull of him even here, elbow-deep in paper. She had chosen the search over open hands. It had cost her the soft arrival. It might buy her a harder truth.
 
