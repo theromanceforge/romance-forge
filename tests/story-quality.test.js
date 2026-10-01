@@ -60,7 +60,12 @@ const MINOR_REFS = {
 };
 
 /** Generic age / child words that flag a minor in any story ("like a teenager" similes excluded). */
-const MINOR_AGE = /\b(?:(?:at|was|were|turned|she's|he's|barely|only|just) (?:sixteen|seventeen|fifteen|fourteen|thirteen|twelve|1[0-7])\b(?! (?:years|minutes|hours|days|weeks|months|pages|floors|blocks|feet|o'clock))|(?:sixteen|seventeen|fifteen|fourteen|thirteen|twelve)-year-olds?|1[0-7]-year-olds?|high school|junior year|sophomore|freshman year|(?<!like a )teen(?:age|aged|ager|agers|s)?\b|schoolgirl|underage)/i;
+/** Clock times are never ages: "11:52", "at 4:30", "11 am", "11pm", "11 a.m.", "11:52 p.m.", "eleven o'clock". */
+const NOT_CLOCK = String.raw`(?![:.]\d)(?!\s*(?:[ap]\.?\s?m\b\.?|o'clock\b))`;
+const AGE_WORD = 'sixteen|seventeen|fifteen|fourteen|thirteen|twelve';
+const MINOR_AGE = new RegExp(String.raw`\b(?:(?:at|was|were|turned|she's|he's|barely|only|just) (?:${AGE_WORD}|1[0-7])\b${NOT_CLOCK}(?! (?:years|minutes|hours|days|weeks|months|pages|floors|blocks|feet|o'clock))`
+  + String.raw`|\b(?:sixteen|seventeen|fifteen|fourteen|thirteen)\b(?=\s*[,.;!?)—])`
+  + String.raw`|(?:${AGE_WORD})-year-olds?|1[0-7]-year-olds?|high school|junior year|sophomore|freshman year|(?<!like a )teen(?:age|aged|ager|agers|s)?\b|schoolgirl|underage)`, 'i');
 const MINOR_KIDS = /\b(?:kids?|child|children|schoolkids?|toddlers?)\b/i;
 
 /** Explicit / sexual terms (genitals, sex acts, arousal, orgasm, undressing). */
@@ -256,5 +261,16 @@ describe('minor-proximity hard check (all stories, Warm + Hot)', () => {
     expect(minorProximityHits('until-the-quiet-breaks', 'selftest', 'textHot', far)).toHaveLength(0);
     const simile = 'He kissed her like a teenager.\n\nShe was wet for him.';
     expect(minorProximityHits('the-soft-alibi', 'selftest', 'text', simile)).toHaveLength(0);
+  });
+
+  it('clock times never count as ages; real ages still do (self-test)', () => {
+    const sex = '\n\nShe was wet for him.';
+    const times = ['They met at 11:52 by the pier.', 'The call came at 4:30.', 'He left at 11 am.', 'She texted at 11pm.',
+      'Court resumed at 11 a.m.', 'The van idled until 11:52 p.m.', 'It was 10 PM when he knocked.', "She was there at eleven o'clock.",
+      "He came at 12 o'clock.", 'At 9:05 a.m. the lab called.', 'She was 11:15 late on the ledger.'];
+    for (const t of times) expect(minorProximityHits('the-soft-alibi', 'selftest', 'text', t + sex), t).toHaveLength(0);
+    const ages = ['At sixteen she wrote it down.', 'She was 16 that summer.', 'A 16-year-old went missing.', 'Renny was missing at 17.',
+      'She was seventeen.', 'Seventeen, and already gone.', 'A teen walked past.', 'They met in high school.', 'He was a teenager then.'];
+    for (const a of ages) expect(minorProximityHits('the-soft-alibi', 'selftest', 'text', a + sex), a).toHaveLength(1);
   });
 });
