@@ -26,7 +26,7 @@ Ellison's voice clipped through the radio: status, no cowboy, no family ricochet
 
 "The killer gets named when his mouth earns it," [player_name] said. "If he slips, if a phone call or a mid-level title opens a door we can't see, you hunt and I wait with Renny's hoodie still folded across town and a bracelet gap that still refuses confirmation."
 
-"Both hurt the people who needed her quiet," Will said. "Both keep you close enough that I can watch whether grief makes you careful or reckless. I pushed early once and people bled. I'm done pushing early to feel fast. But I'm not done holding what this bay gave us. Your sister's map led here. Your call."
+"Either one hurts the people who needed her quiet," Will said. "And either keeps you close enough that I can watch whether grief makes you careful or reckless. I pushed early once and people bled. I'm done pushing early to feel fast. But I'm not done holding what this bay gave us. Your sister's map led here. Your call."
 
 The clerk laughed once, thin, scared under the municipal calm. "You talk like the bones are still a maybe. Good. Maybes make deals. I know who needed quiet. I know who stood near a pier with a stepfather who taught lullabies. I know a mid-level throat that moves paper into crates. I won't paint your sister on Cho's table for free. Pending is my leash as much as yours."
 

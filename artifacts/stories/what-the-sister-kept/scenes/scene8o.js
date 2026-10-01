@@ -32,7 +32,7 @@ She almost laughed. She touched the white knuckle at his side. His pulse jumped 
 
 A foghorn spoke. A phone buzzed through a pillow: Ellison, Rhee, unknown. Will ignored it.
 
-"If you choose the storm again," he said, "you're choosing volume as mercy's cousin. Loud enough that Internal can't quietly bury a detective for closeness without looking like they buried a missing girl's last scrap." His late smile arrived, wrong and fond. "Both hurt. Both leave Cho's bones unnamed. And the press already dug toward Owen once, so private is a thinner wall than this paint."
+"If you choose the storm again," he said, "you're choosing volume as mercy's cousin. Loud enough that Internal can't quietly bury a detective for closeness without looking like they buried a missing girl's last scrap." His late smile arrived, wrong and fond. "Either way Cho's bones stay unnamed. And the press already dug toward Owen once, so private is a thinner wall than this paint."
 
 His notebook lay open on the scarred table, pages dry for once. [player_name] looked at Renny's folded flyer, at Will's mouth, at the deadbolt.
 
@@ -48,7 +48,7 @@ Thought of Will's flinch when someone said partner in the bullpen, and how it ha
 
 A floorboard creaked above them. A neighbor, not a raid. They both froze anyway. Will's hand found her hip, steadying. The creak didn't come again. The refrigerator hummed. The ginger cooled in its carton.
 
-"I won't let a safehouse invent a name," Will said, "or a muted chyron invent a funeral. Remains stay unnamed. Your sister stays missing." He watched her drink the last of the water like it was evidence. "Pier dawn or the storm. Both leave me wanting to finish the kiss we keep parking behind warrants, reviews, flashbulbs, and now tape."
+"I won't let a safehouse invent a name," Will said, "or a muted chyron invent a funeral. Remains stay unnamed. Your sister stays missing." He watched her drink the last of the water like it was evidence. "Pier dawn or the storm. Either way I want to finish the kiss we keep parking behind warrants, reviews, flashbulbs, and now tape."
 
 Outside, Harborwick shouted. Inside, the quiet held for one more hour.
 
@@ -77,7 +77,7 @@ He walked her to the bed and kicked the takeout carton aside. He laid her on her
 
 Two fingers joined his tongue. She came again, harder, her vision white at the edges. He wiped his mouth like a finished statement and pressed his forehead to hers, still hard. A deliberate denial.
 
-"Choose," Will whispered. He rolled his hips once against her, so she felt exactly how unfinished he was. "Both hurt. Both leave Cho's bones unnamed and the Solis file sealed tonight."
+"Choose," Will whispered. He rolled his hips once against her, so she felt exactly how unfinished he was. "Either way, Cho's bones stay unnamed and the Solis file stays sealed tonight."
 
 He turned her carefully onto her stomach at the edge of the bed and drew her hips back. He rubbed the thick head of his cock through her folds without entering, teasing and punishing them both while rain ticked the taped glass.
 

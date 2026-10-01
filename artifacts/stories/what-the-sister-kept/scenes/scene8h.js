@@ -36,7 +36,7 @@ She softened, almost human, which was worse. "Mercy photographs as weakness if y
 
 Owen's cuffs clicked once against the table. "I gave you enough to lean on," he said, his eyes on [player_name], not Will. "The clerk's first name. A desk code. A mid-level title that shouldn't know festival weeks. Use it and catch him before the tip-sheets burn. Or trade mercy, and I keep talking until the leash runs out of names."
 
-Will closed the notebook without looking away from her face. "Decide before the tip-sheets decide for us," he said. "Use the partial to catch the clerk, or trade mercy for what he gave. Both leave science patient. Both leave me wanting your mouth after the cuffs, for reasons that aren't clearance."
+Will closed the notebook without looking away from her face. "Decide before the tip-sheets decide for us," he said. "Use the partial to catch the clerk, or trade mercy for what he gave. Science stays patient either way. And either way I want your mouth after the cuffs, for reasons that aren't clearance."
 
 The interview-room clock hummed. Ellison waited with an empty mug. [player_name] drew a breath that tasted like rust and soap. Whatever she chose would spend a cracked confession without spending Renny early.`,
   textHot: `The partial confession tasted like cold glass-room coffee and a stepfather's voice finally cracking. Downtown fluorescents hummed. Rain freckled the one-way glass. Owen's cuffs dulled on the table. Ellison watched from observation with her CLEARANCE mug.

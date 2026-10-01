@@ -65,7 +65,7 @@ The room changed with the light. She felt it in her chest first, then lower. He'
 
 "You were brave," he said. "It makes me want to put you on this table."
 
-Heat flooded her face and the hinge of her thighs. She looked, and saw the hard line of him under the table, an honesty his voice was still trying to keep professional. His boot found her shoe under the scarred wood and pressed, a claim and a dare. She bit her lip on a sound the red light would have loved.
+Heat flooded her face and pooled lower. She looked, and saw the hard line of him under the table, an honesty his voice was still trying to keep professional. His boot found her shoe under the scarred wood and pressed, a claim and a dare. She bit her lip on a sound the red light would have loved.
 
 Nina Solis lived in the flinch he aborted toward his ribs. The wound showing made her nipples scrape against cotton. She wanted to lick the pulse in his throat.
 

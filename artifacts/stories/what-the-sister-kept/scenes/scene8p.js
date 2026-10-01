@@ -24,9 +24,9 @@ Will nodded past the posters toward the open pier, then toward the city inland, 
 
 His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into soft partnership under machines and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
 
-Thought of Will's knuckles, and the way he dreamed about raid noise when soft failed. "Proposing truth means choosing us as the first audience," she said.
+She thought of Will's knuckles, and of the hallway he still wouldn't open. "Proposing truth means choosing us as the first audience," she said.
 
-"Taking hospital dawn means choosing a rebuild as the first room," Will said. "Both move the case. Both hurt. Both leave the bones unnamed until science earns a name." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first, on these boards. Wanting that makes me selfish. Offering you the hospital anyway makes me slightly less. Slightly."
+"Taking hospital dawn means choosing a rebuild as the first room," Will said. "Either one moves the case. Neither names the bones before science does." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first, on these boards. Wanting that makes me selfish. Offering you the hospital anyway makes me slightly less. Slightly."
 
 The festival speakers crackled through a ballad that had been popular the year Renny vanished. Someone laughed too loudly near a funnel-cake stall like the one Marta had once worked. A Harborwick PD cruiser idled at the edge of the lot without lights: Ellison's caution wearing a unit number. Will noticed and didn't turn his head.
 

@@ -34,7 +34,7 @@ They left Ellison's glass for the bullpen. Detectives glanced and glanced away. 
 
 [player_name] almost touched the white knuckle at his side. Then did. His pulse jumped once under her fingers. Will didn't pull away.
 
-"Both hurt," he said quietly. "Cameras mean I can't control the match. The pier means we stay inside the machine a little longer, on the boards where she vanished. Cho won't name the remains for either stage. Owen stays your private weather until you put him on a page, and public storms don't respect kept silences. I won't pretend I don't want the pier. Wanting that makes me selfish. Offering the cameras anyway makes me slightly less. Slightly."
+"Cameras mean I can't control the match," he said quietly. The pier means we stay inside the machine a little longer, on the boards where she vanished. Cho won't name the remains for either stage. Owen stays your private weather until you put him on a page, and public storms don't respect kept silences. I won't pretend I don't want the pier. Wanting that makes me selfish. Offering the cameras anyway makes me slightly less. Slightly."
 
 [player_name] thought of Renny's hoodie folded in a drawer. Of Marta's red-door scrap in Will's cracked notebook: badge? 2xxx / 5xxx, east cold storage, generator noise. Of Ellison's forty-eight hours ticking like a bomb with manners. "If I speak to cameras, I'm choosing volume over control."
 

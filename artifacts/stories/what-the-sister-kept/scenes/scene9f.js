@@ -20,7 +20,7 @@ Ellison appeared in the mouth of the bay, her tablet lighting her chin. "Akers. 
 
 Will's late smile arrived and died in the same breath. He crouched in front of her chair so their eyes were level, close enough to burn.
 
-Will's late smile arrived and died in the same breath—weapon and wound. He crouched in front of [player_name]'s chair so their eyes leveled, mid-thirties to mid-twenties, close enough to burn. "Two endings from a wait," he murmured, for her, while Ellison's radio grumbled. "Hold the bittersweet pier promise unfinished—anniversary fog, boards that remember her, an unfinished vow that is not a wedding and not a tidy hunt story—or stay in the city cold without me. Both leave Hale weather until I catch him or I don't. Both leave Cho careful. Both leave me wanting to put you somewhere soft after rain and failure or rain and a cuff. Pick the hurt that keeps truth reachable while I chase a clerk who still thinks bracelets mean the chain is safe."
+Will's late smile arrived and died in the same breath—weapon and wound. He crouched in front of [player_name]'s chair so their eyes leveled, close enough to feel his breath. "Two endings from a wait," he murmured, for her, while Ellison's radio grumbled. "Hold the bittersweet pier promise unfinished—anniversary fog, boards that remember her, an unfinished vow that is not a wedding and not a tidy hunt story—or stay in the city cold without me. Hale stays weather until I catch him or I don't. Cho stays careful. Either way I want to put you somewhere soft after rain and failure, or rain and a cuff. Choose while I chase a clerk who still thinks bracelets mean the chain is safe."
 
 [player_name] pictured the pier at dawn, Will smelling like fog and unfinished steel, Renny's poster in the wind, a promise that refused to close because closing would invent comfort.
 
@@ -63,7 +63,7 @@ Will crouched so their eyes leveled, late smile wrong—weapon and wound—cock 
 
 "If you take the pier promise," Will said, his knuckles on her pulse, his other hand pushing into her jeans under soaked cotton, "I come back when I can, and we stand on the boards and say the hard sentences, and I finish you quietly enough for festival ghosts." Two fingers slid into her. She gasped. He pumped slow and precise, his thumb on her clit. "If you stay cold without me, you keep the city and cut the badge out. I'll still want your mouth in every warehouse. Want doesn't cancel severance."
 
-"I kept a lie. Owen kept a clerk. Hale kept vanishing. You kept a sealed hallway. Everybody keeps something," she said. She clenched around his fingers, claiming him. "The pier promise: I wait, I hold the boards unfinished, and you repay me when the fog gives you back. The cold stay: I keep Harborwick without you, even if it kills us. I'm not inventing purity. I'm not inventing a funeral. I'm asking which hurt keeps the truth reachable."
+"I kept a lie. Owen kept a clerk. Hale kept vanishing. You kept a sealed hallway. Everybody keeps something," she said. She clenched around his fingers, claiming him. "The pier promise: I wait, I hold the boards unfinished, and you repay me when the fog gives you back. The cold stay: I keep Harborwick without you, even if it kills us. I'm not inventing purity. I'm not inventing a funeral. I'm asking which one I can live with."
 
 Will cursed softly and curled his fingers until her hips jerked. Then he stopped, exact and cruel and tender as a threat, and withdrew to paint her lower lip. "Not yet. Not until you pick."
 

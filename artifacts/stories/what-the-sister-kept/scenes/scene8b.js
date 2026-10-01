@@ -77,7 +77,7 @@ He cupped [player_name]'s jaw with one cracked hand, thumb on her lower lip, and
 
 "Hear the cost in your body, not just your head," he whispered. "The mercy deal means you'll shake under oath, and I'll want to put you on your knees in the witness-prep room afterward until you stop tasting Owen's name like shame. The quiet seal means some nights you'll wake up hating me for helping you bury pages. I'll still fuck you through that hate if you ask."
 
-Her lips parted against his thumb. She tasted salt and skin. "Both leave me wet and wrecked," she admitted. "You shouldn't get that information in Ellison's office."
+Her lips parted against his thumb. She tasted salt and skin. "Either one leaves me wet and wrecked," she admitted. "You shouldn't get that information in Ellison's office."
 
 "It's the only information that makes the bargain real," Will said. His palm stayed at her jaw, not lower. The stop was a stroke of its own. "I'm leaving you aching on purpose, so the choice comes from the part of you that still knows the case is contested. Not the part that just wants my fingers."
 

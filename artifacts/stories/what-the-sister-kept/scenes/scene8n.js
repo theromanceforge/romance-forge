@@ -24,7 +24,7 @@ Will exhaled through his nose. He looked at [player_name] then, tired and hungry
 
 "If you keep testifying for me, I won't let you carry the Solis file," he said quietly. "Hints stay hints. Sealed stays sealed unless a judge says otherwise. You speak to my method and my closeness, and you let me own the ash."
 
-[player_name] kept going, because stopping would let Ellison write the paragraph. She described festival walkthroughs without putting Renny among the dead. She described the warehouse planning without dressing up the almost. She described the shoot/don't-shoot held: controlled, not chaos. She described a detective who dreamed about raid noise and still refused to clear a sister for a calendar.
+[player_name] kept going, because stopping would let Ellison write the paragraph. She described festival walkthroughs without putting Renny among the dead. She described the warehouse planning without dressing up the almost. She described the shoot/don't-shoot held: controlled, not chaos. She described a detective who still had nightmares about a hallway and still refused to clear a sister for a calendar.
 
 A foghorn spoke faintly from the harbor beyond the brick. Down the hall a printer spat out forms that would outlive mercy.
 
@@ -44,7 +44,7 @@ Rain thickened on the high windows. Somewhere a door shut like a gavel practicin
 
 "Build a future after IA," Rhee summarized, without kindness, "or carry the IA stand into Owen's trial. The hearing took your sentences. The choice is whether dawn finds you rebuilding under rope, or walking them into a courtroom that won't love how much you kept."
 
-Will's voice dropped for [player_name] alone. "I dream about raid noise when soft fails. IA wasn't soft. Trial won't be soft. A future is still a hard room with better lighting. You're choosing which hard room you walk me into. I can do either. I can't do hesitation while Ellison smiles in memos."
+Will's voice dropped for [player_name] alone. "IA wasn't soft. Trial won't be soft. A future is still a hard room with better lighting. You're choosing which hard room you walk me into. I can do either. I can't do hesitation while Ellison smiles in memos."
 
 The recorder's red light made every breath look like evidence. [player_name] drew one that tasted like precinct bitterness and pier salt.
 
@@ -69,7 +69,7 @@ He stepped back a foot. His cock still strained against his fly. Her jeans were 
 
 "Build a future after IA," Rhee said, "or carry the IA stand into Owen's trial. Posture. Now."
 
-Will's voice dropped when the women looked down at their notes. "I dream about raid noise when soft fails. This hearing wasn't soft. Trial won't be soft. A future is still teeth with better lighting. You're choosing which hard room, while I can still taste you. Choose. Please."
+Will's voice dropped when the women looked down at their notes. "This hearing wasn't soft. Trial won't be soft. A future is still teeth with better lighting. You're choosing which hard room, while I can still taste you. Choose. Please."
 
 The please was a crack in the armor. It went through her like a finger. When the session recessed (not ended; recessed, a bureaucratic almost), Will walked her to the stairwell like a professional escort. Then he pressed her into the landing's blind corner, mouth claiming hers, his hand back in her jeans, working her with two fingers while rain streaked the glass.
 

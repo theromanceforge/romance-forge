@@ -18,7 +18,7 @@ The testimony in the smaller hearing room wasn't the full-blade circus. It was q
 
 At the recess they found a courthouse stairwell that smelled like rain on concrete. A foghorn rolled in through a cracked window. Will stood one step below her, so their eyes were level.
 
-"Mercy is a verb with teeth," he said quietly. "Ellison gets political cover. Owen gets a shred of supervised life. You get to decide whether the sealed page heals or festers. And I get to decide whether I can love a woman who chose costly forgiveness without confusing it with the silence that failed Renny once." His knuckles brushed the rail near her hand, not quite touching.
+"Mercy has teeth," he said quietly. "Ellison gets political cover. Owen gets a shred of supervised life. You get to decide whether the sealed page heals or festers. And I get to decide whether I can love a woman who chose costly forgiveness without confusing it with the silence that failed Renny once." His knuckles brushed the rail near her hand, not quite touching.
 
 "Solis took a fall I ordered into being. I kept a badge. I know what sealed pages cost. If you choose to rebuild with one page still healing, I'll hold the itch with you and not pretend the daylight was total. If you lean into costly forgiveness, Owen supervised and answering, I'll stand in that weather too. I won't pretend it doesn't hurt. And I won't invent a corpse to make the hurt cleaner."
 
@@ -47,7 +47,7 @@ Owen came under escort, porch-butter calm cracked. He named the clerk and the tr
 
 She testified more quietly than full blade would have allowed, and somehow it was filthier for the kindness: the pier night under oath, Warehouse C, her own silence undressed. Will watched her mouth from two rows back like a man watching a body he hadn't been allowed to open yet. When counsel tried to make her a whore with a badge, he didn't stand. He let her answer while wet fabric dragged against her. "Attraction doesn't invent the chain," she said, thighs pressed together. Will's hand pressed his own thigh once, hard. The denied hunger was its own stroke.
 
-At the recess they found a stairwell. Rain on concrete. A foghorn inland. Will stood one step below her, so their mouths lined up. "Mercy is a verb with teeth," he murmured against her ear.
+At the recess they found a stairwell. Rain on concrete. A foghorn inland. Will stood one step below her, so their mouths lined up. "Mercy has teeth," he murmured against her ear.
 
 "Ellison gets cover. Owen gets a shred. You decide whether the sealed page heals or festers. And I decide whether I can take the shaking out of a woman who chose costly forgiveness." His knuckles ghosted her hip, then cupped her ass through the skirt.
 
@@ -65,7 +65,7 @@ His free hand cupped her breast through her blouse, his thumb circling until she
 
 "You'll have me." His laugh was velvet and wreckage. "My mouth on the pulse in your throat every time you remember saying Warehouse C. And if you take costly forgiveness, you'll have me against this wall the second the last escort clears, skirt up, my hand cataloguing how wet honesty made you." He slid two fingers under her waistband, found her soaked, stroked once along her clit without entering, and pulled back like a man who still heard bailiffs. "Either way I stay. Either way, Cho says pending."
 
-Hope still had a throat. Dread still had teeth. Remains still unnamed. Solis ash stirred deeper without dumping every sealed hallway page. [player_name]'s nipples peaked against her blouse where Will's gaze caught—noticed, banked, promised. Choosing soft rebuild meant love around incompleteness, Will's body teaching her that sealed did not have to mean silent cowardice, want spent in rain-dark sheets after supervised truth. Choosing costly forgiveness meant Owen kept in the story under lights, family not severed, and a detective who would hold her through the watching without asking her to confuse redemption-ish for absolution.
+Remains still unnamed. Solis ash stirred deeper without dumping every sealed hallway page. [player_name]'s nipples peaked against her blouse where Will's gaze caught—noticed, banked, promised. Choosing soft rebuild meant love around incompleteness, Will's body teaching her that sealed did not have to mean silent cowardice, want spent in rain-dark sheets after supervised truth. Choosing costly forgiveness meant Owen kept in the story under lights, family not severed, and a detective who would hold her through the watching without asking her to confuse redemption-ish for absolution.
 
 "Choose," Will said against her temple, hard against her hip, denying them both. "Before I kiss you where Ellison's tablet can see. The rebuild, or costly forgiveness."
 

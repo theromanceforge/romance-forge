@@ -44,7 +44,7 @@ He didn't kiss her. The denial hung unfinished. Rain needled the glass. She thou
 
 [player_name] nodded once, not yet choosing. Outside, fog erased the curb the way the system had erased Renny into a cold file for seven years. Inside, Will waited with his badge honest on his belt, a man who had admitted wanting her and still put obstruction first, because that was the only way the wanting might survive.
 
-"Clock," he said softly. "Shield me from Ellison, or walk out and make me chase both. Either way I leave this entry changed. Pick the one that keeps the truth reachable."`,
+"Clock," he said softly. "Shield me from Ellison, or walk out and make me chase both. Either way I leave this entry changed. Choose the one you can live with."`,
   textHot: `The fallout walked in with Will and a face stripped of the late smile. Before the door had even clicked, he said it in the entry: "You tipped him."
 
 Not a question. Rain on his shoulders. The scar white. A whitened knuckle on the cracked notebook, the badge visible on his belt, the charm locked down into pure hunter.
@@ -87,7 +87,7 @@ He tucked the notebook into his coat against the cracked spine. "You're also the
 
 "The last time I confused speed with care," he said, almost against his will, "a partner took the fall. I wear charm so nobody asks. You asked anyway." He checked his watch, scarred knuckle white against cheap metal. "Thirty-five minutes. Shield or walk. Pick which one you're trying to save when you open your mouth."
 
-She nodded toward the door, not walking yet, not shielding yet. Will waited without softening, badge bright, the unfinished kiss still the sharpest hook in the room.`,
+She nodded toward the door, not walking yet, not shielding yet. Will waited without softening, badge bright, the unfinished kiss still the sharpest thing in the room.`,
   choices: [
     { id: "scene6l", text: "Shield Will from Ellison", textHot: "Shield Will from Ellison" },
     { id: "scene6m", text: "Walk out — make him chase both", textHot: "Walk out — make him chase both" }

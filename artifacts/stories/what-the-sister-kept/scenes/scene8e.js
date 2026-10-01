@@ -26,7 +26,7 @@ Rain freckled the west glass. A foghorn rolled inland, low enough to feel in the
 
 Widening wasn't burying Renny. It was refusing to let one family's unfinished pier be the only thing Harborwick was allowed to remember. Will stepped half a pace nearer. Not touching. Close enough that his sleeplessness reached her like a hand on the back of her neck.
 
-"I'll dig the chain," he said quietly, for her. "Clerk. Routing. Whoever needed teenagers quiet about crates. I won't let you bury hope under Ellison's clearance or turn the second pattern into a funeral because her mug is empty. Your call on the next spend: full trial testimony, every name the flip unlocked, in daylight. Or name Renny's killer when the clerk is caught and he talks. Both hurt. Both keep science honest."
+"I'll dig the chain," he said quietly, for her. "Clerk. Routing. Whoever needed teenagers quiet about crates. I won't let you bury hope under Ellison's clearance or turn the second pattern into a funeral because her mug is empty. Your call on the next spend: full trial testimony, every name the flip unlocked, in daylight. Or name Renny's killer when the clerk is caught and he talks. Either keeps science honest."
 
 Ellison slid a second tablet closer: draft subpoenas, clerk desk codes from Owen's statement, a mid-level title that turned [player_name]'s stomach without becoming a press release yet.
 

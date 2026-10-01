@@ -34,7 +34,7 @@ He helped her peel the mic pack into an evidence bag. His knuckle brushed hers. 
 
 "Ellison will ask if family theater taught him to spot tape," Will said, eyes on the wet road. "You standing here wet and shaking isn't theater. It's cooperation that got made and walked anyway. Tonight the trace was you breathing in my passenger seat instead of bleeding in a hallway I already know how to dream. And a phone call that means the clerk is running."
 
-His late smile arrived and died in the same breath. "Waiting means I hunt while you stay reachable. The press means we stop whispering failed wires into rooms that prefer silence. Both hurt. Neither prints Renny on bone before Cho earns it."
+His late smile arrived and died in the same breath. "Waiting means I hunt while you stay reachable. The press means we stop whispering failed wires into rooms that prefer silence. Neither prints Renny on bone before Cho earns it."
 
 The van heater ticked like a second interrogation clock. "When my partner and I—" Will stopped. The armor slid. The wound showed a tooth, then hid.
 
@@ -131,7 +131,7 @@ The radio crackled. Nothing useful. Just static and someone else's night.
 
 She thought of Renny under festival lights, pointing east. Of Owen's phone at his ear. Of the blank line where Hale's full reach should have been.
 
-"Both hurt," she said.
+"I know," she said.
 
 "Both keep her reachable." His thumb traced her lower lip. "Neither puts her name on bone before Cho earns it."
 

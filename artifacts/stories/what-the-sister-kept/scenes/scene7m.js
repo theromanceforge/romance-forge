@@ -32,7 +32,7 @@ Will pushed up on one knee, blood dark at his temple, lip split, smile attempted
 
 [player_name] was already at his side, hands on his face, vest to vest, the borrowed nylon squeaking. Rain from the dock leaked in somewhere and made the blood look like rust. "You're not fine. You're bleeding on my raid."
 
-"Our raid," Will corrected, and coughed once, and hated the sound. "Ellison will call this a success with footnotes. IA will call the footnotes old weather. You—" his eyes found hers, tired, hungry, unfinished "—get the choice I didn't want to hand you in fish-rot air. Stay with me at the hospital while they stitch the temple and invent soft language for lightly wounded. Or leave long enough to testify for me at the IA hearing that's already drafting itself out of proximity, raid noise, and a detective who got too close to a witness and then too close to a pipe."
+"Our raid," Will corrected, and coughed once, and hated the sound. "Ellison will call this a success with footnotes. IA will call the footnotes old weather. You—" his eyes found hers, tired, hungry, unfinished "—get the choice I didn't want to hand you in fish-rot air. Stay with me at the hospital while they stitch the temple and invent soft language for lightly wounded. Or leave long enough to testify for me at the IA hearing that's already drafting itself out of proximity, a pipe to the head, and a detective who got too close to a witness and then too close to a pipe."
 
 Want lived under the dread even here: a man who could hold a shoot/don't-shoot line and still look at her mouth like evidence he refused to bag. She wanted to kiss the blood off his lip in front of backup. She didn't. "If I stay at the hospital—"
 
@@ -52,7 +52,7 @@ A radio crackled: the second suspect lost in dock fog. The crates yielded nothin
 
 Dock fog took the ambulance light and made it look like a second moon. Will sat on the bumper with gauze at his temple, lip split, still trying to run the scene. Behind them the zip-tied man swore. The clerk-shaped shadow was gone. [player_name] felt the shot's unfinished thunder in her ribs.
 
-"Stay with me at the hospital," Will said quietly, "or testify for me at the hearing. Both keep Renny's finger alive. Both leave me wanting to finish the kiss we keep parking behind warrants, and now behind gauze."`,
+"Stay with me at the hospital," Will said quietly, "or testify for me at the hearing. Both keep Renny's finger alive. Either way I want to finish the kiss we keep parking behind warrants, and now behind gauze."`,
   textHot: `Raid air smelled like fish-rot and generator oil, and like the filthy unfinished want that danger always woke in [player_name] when Will put his body between her and the dark.
 
 Entry A. Dock side. The borrowed vest was too tight across her chest, her nipples peaked from cold and adrenaline. Will's voice in her earpiece felt like fingers. "[player_name], six," he murmured. She felt the word in her cunt, a ridiculous and true answer to procedural dread.

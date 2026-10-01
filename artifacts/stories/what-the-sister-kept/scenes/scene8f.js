@@ -22,7 +22,7 @@ Will's pen scratched once and stopped. The notebook spine cracked. When Ellison 
 
 Rain freckled the west glass. A foghorn rolled inland. [player_name] thought of Renny's hoodie still folded in a drawer across town, the bracelet missing one charm that could match the silver upriver. She thought of Cho's provisional second file sitting unopened on Ellison's side table like a temptation with hedges, and felt the narrow choice hold. One sister, one night, one blade.
 
-Will stepped half a pace nearer. Not touching. Close enough that his sleeplessness reached her like a hand on the back of her neck. "I'll dig the single house," he said quietly, for her. "Owen. The pier. Your omission corrected into something usable. I won't invent a second funeral because Mara's mug is empty. Your call on the spend: a mercy deal with Renny still central, or testify fully and let daylight burn without softener. Both hurt."
+Will stepped half a pace nearer. Not touching. Close enough that his sleeplessness reached her like a hand on the back of her neck. "I'll dig the single house," he said quietly, for her. "Owen. The pier. Your omission corrected into something usable. I won't invent a second funeral because Mara's mug is empty. Your call on the spend: a mercy deal with Renny still central, or testify fully and let daylight burn without softener."
 
 Ellison's mouth thinned. "Akers will live with either. He's lived with worse." Her gaze cut to his ribs and away. "Don't make me wear your hesitation as my clearance failure after you already chose narrow. Mercy leash or clean burn. The city will call both justice if you photograph the sister carefully. Internal will call both proximity if you keep standing that close, Akers."
 

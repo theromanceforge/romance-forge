@@ -26,7 +26,7 @@ Rain began again on the roof like needlepoint. [player_name] looked at the warm 
 
 "If we catch the clerk," she said, "we spend the breach on the living link Renny mapped. If we press Owen, we spend the breach as proof and put Vale in a room before the clerk finishes erasing."
 
-"Both hurt the people who needed her quiet," Will said. "Both keep you close enough that I can watch whether grief makes you careful or reckless. I push early and people bleed. I'm done pushing early for the sake of feeling fast. But I'm not done catching what this room is offering. Your sister's map. Your call. Dawn is coming whether the clerk is or not."
+"Either one hurts the people who needed her quiet," Will said. "And either keeps you close enough that I can watch whether grief makes you careful or reckless. I push early and people bleed. I'm done pushing early for the sake of feeling fast. But I'm not done catching what this room is offering. Your sister's map. Your call. Dawn is coming whether the clerk is or not."
 
 A radio crackled on Will's hip: Ellison's channel, clipped, asking for status. Will answered in shorthand: inside, warm shredder, routing stamp, no hard ID. He didn't say [player_name]'s name like a liability. The radio went quiet.
 

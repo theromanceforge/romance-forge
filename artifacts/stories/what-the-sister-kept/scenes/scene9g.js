@@ -16,7 +16,7 @@ Captain Mara Ellison's memo had already arrived by tablet: success with footnote
 
 Will's late smile arrived, wrong and fond, learning bedside manners. His knuckles found her wrist, pulse to pulse. "Together in truth means we walk out of this room into warrants and statements and Cho's careful mouth, and we don't let the press invent a corpse before science earns a name. We speak Renny honestly: missing until proven otherwise, hope legal, dread honest. Partnership in daylight."
 
-His thumb brushed her knuckles. "A soft rebuild means we keep one page healing on purpose. My IA drawer, or a detail you're not ready to put on a stand yet. And we love anyway, under machines and footnotes. That isn't cowardice. It's temperature. Both leave the bones unnamed until Cho says otherwise. Both leave me wanting to take you somewhere softer than a hospital chair after Ellison's ink dries."
+His thumb brushed her knuckles. "A soft rebuild means we keep one page healing on purpose. My IA drawer, or a detail you're not ready to put on a stand yet. And we love anyway, under machines and footnotes. That isn't cowardice. It's temperature. The bones stay unnamed until Cho says otherwise. And either way I want to take you somewhere softer than a hospital chair after Ellison's ink dries."
 
 Nina Solis stayed sealed, in the way dawn allowed. It showed in Ellison's side-eye when his methods got sharp, and in Will's flinch at the word partner, still visible under jokes that died mid-breath. He didn't unpack the raid. He didn't strip the sealed file for bedside comfort.
 
@@ -51,7 +51,7 @@ Will's late smile arrived, wrong and fond. His knuckles found her wrist. Then, w
 
 "Together in truth means we walk out in daylight as partners who won't let the press invent a corpse before Cho speaks," he said. "And after the first statement I take you, carefully, in a supply closet that smells like antiseptic, my palm over your mouth, my temple throbbing while I make you come for surviving the shot with me." He rolled her palm once.
 
-"A soft rebuild means we keep one sealed page healing. The Solis drawer, or a pier detail you're not ready to put on a stand. And I go down on you quietly after every soft beep until the rebuild tastes like sweat, and you clench around my tongue for every footnote Ellison invents. Both leave the bones unnamed. Both leave me aching."
+"A soft rebuild means we keep one sealed page healing. The Solis drawer, or a pier detail you're not ready to put on a stand. And I go down on you quietly after every soft beep until the rebuild tastes like sweat, and you clench around my tongue for every footnote Ellison invents. Either way the bones stay unnamed, and I stay aching."
 
 Nina Solis stayed sealed: a hint, a flinch at partner, the charm he wore like armor. Not a striptease for bedside comfort.
 
@@ -61,7 +61,7 @@ When the corridor cleared, he pulled her into the blind corner of the bay. The g
 
 "Together in truth at dawn," he muttered, "and I finish what the pipe started, until you shake quietly enough for the monitors. A soft rebuild from hospital light, and I keep you aching through every soft-language question, because unfinished is how your body tells the truth your mouth is still learning."
 
-"I kept a lie. You kept a sealed hallway. Everybody keeps something," she said, and clenched around his fingers. "Together, and I speak the contested fate with you, and you take the leftover soft out of me after. The rebuild, and I love with one page sealed and still soak for your mouth under the footnotes. I'm not inventing purity. I'm not inventing a funeral. I'm asking which hurt keeps the truth reachable."
+"I kept a lie. You kept a sealed hallway. Everybody keeps something," she said, and clenched around his fingers. "Together, and I speak the contested fate with you, and you take the leftover soft out of me after. The rebuild, and I love with one page sealed and still soak for your mouth under the footnotes. I'm not inventing purity. I'm not inventing a funeral. I'm asking which one we can live with."
 
 Will stopped, exact and cruel and tender as a threat, and withdrew to paint her lower lip. "Not yet. Not until you pick."
 

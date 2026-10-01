@@ -50,7 +50,7 @@ Rain thickened on the glass. Down the hall Ellison's office door shut with a sou
 
 Rhee tapped the folder. "Review or press. Stand or storm. I leave this room with a posture either way. Give me the one you can survive looking at in Renny's flyer eyes."
 
-Will's voice dropped for [player_name] alone. "I dream raid noise. IA isn't soft. Public isn't soft. You're choosing which hard room you walk me into while a half-heard badge sits between us like a live wire. I can do either. I can't do hesitation while old ash stirs and Ellison smiles in memos."
+Will's voice dropped for [player_name] alone. "IA isn't soft. Public isn't soft. You're choosing which hard room you walk me into while a half-heard badge sits between us like a live wire. I can do either. I can't do hesitation while old ash stirs and Ellison smiles in memos."
 
 "Stand for Will under IA review," Rhee summarized without kindness. "Or go public to protect him. The shadow is already here. The choice is whether you answer it in a room with recorders or on a street with cameras."
 

@@ -34,7 +34,7 @@ She said nothing useful. He parked two blocks from Owen's street—not close eno
 
 "True and complete are different animals." Will's hand found the back of her neck—warm, claiming, not quite gentle—and his thumb stroked once at her hairline as if soothing a skittish witness. "I can run the soft net anyway. I can watch him. I can pretend your stairwell was plumbing. Or I can ask you outright what you said on that call and watch your face while you decide whether to obstruct a homicide detective who is already half in love with the sound of your lying."
 
-The word love landed like a dare. He did not take it back. Fog horn somewhere low. Yellow tape lived in her memory from old pier searches. The charm in evidence was still only like Renny's—probability, not proof. Hope and dread shared the car.
+The word love landed like a dare. He did not take it back. Fog horn somewhere low. Yellow tape lived in her memory from old pier searches. The charm in evidence was still only like Renny's—probability, not proof. Nobody spoke for a mile.
 
 Will released her neck slowly. "I am going to set the watch. You are going to sit with what you did. If Owen starts burning things tonight, I will know the tip found him. If he sleeps like an innocent man, maybe your bathroom story holds. Either way, [player_name], you should understand something about me before morning: I was not always the patient one. Soft is a costume I put on because ashes taught me. Underneath, I still like catching people in the act. Including you."
 
@@ -55,7 +55,7 @@ He started the engine without asking if she wanted to leave. Harborwick slid pas
 "Take me home," she said.
 
 "I am," Will answered. "Then I work. Then morning comes, and soft either holds or becomes a story we tell about how fast family burns evidence when given a head start." His late smile flashed in the dash light. "Sleep if you can. If you dream of me, at least dream the part where I catch you. I'm told it's flattering."`,
-  textHot: `The tip left her hands before courage could renegotiate, and [player_name]'s body knew the sin before her mouth finished it—thighs tight, stomach dropped, cunt already aching with the particular heat of doing something William Akers would want to punish and kiss in the same breath.
+  textHot: `The tip left her hands before courage could renegotiate, and [player_name]'s body knew the sin before her mouth finished it—thighs tight, stomach dropped, cunt already aching with the particular heat of doing something Will would want to punish and kiss in the same breath.
 
 She stood in the stairwell with rain freckling the narrow window and Owen Vale's number ringing. Will waited three floors down in the lobby, soft net still an open offer after she'd named Owen in a hallway that smelled like burnt coffee. She had asked for patience. Then she chose family.
 

@@ -24,7 +24,7 @@ Will's jaw flexed. "Understood," he said. The word cost him.
 
 The side stair smelled like rain on concrete and floor wax. Will stopped one landing down, his eyes on [player_name]'s mouth, a man who'd run out of logistics and into want.
 
-"A quiet reseal means parts stay buried, and the bittersweet cost lives in our bed," he said. "A soft rebuild means the sealed page heals slowly, and we refuse to let incompleteness become another pier-night silence. Both leave Cho's pending intact. Both leave me wanting you in a way the seal can't make decent."
+"A quiet reseal means parts stay buried, and the bittersweet cost lives in our bed," he said. "A soft rebuild means the sealed page heals slowly, and we refuse to let incompleteness become another pier-night silence. Cho's pending stays intact either way. And either way I want you in a way the seal can't make decent."
 
 [player_name] stared at the rain-needled stairwell glass, toward the upriver stretch where unidentified remains waited without a name, toward Renny's room where a charm that was only like still winked in a drawer that smelled like absence. Hope still had a throat. Dread still had teeth. Choosing quiet resealed meant bittersweet cost as climate—parts reburied, city quieter, love asked to endure what daylight did not get. Choosing soft rebuild meant healing around the sealed page without calling the seal a second kept secret that failed a sister—Will and her in Harborwick weather that admitted incompleteness as honesty rather than protection theater.
 

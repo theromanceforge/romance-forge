@@ -42,7 +42,7 @@ The medic cleared her throat with professional patience. "Detective. CT slot in 
 
 Will ignored the word romance like a man who'd heard worse knives. He watched [player_name] instead: the woman who'd walked into fish-rot behind him and hadn't run when the shot cracked the dark, or when the pipe put him on one knee.
 
-"I dream about raid noise when soft fails," he whispered. "Soft failed into a pipe tonight. You get to decide whether it comes back as quiet at dawn, or as waiting while the fog eats a clerk's shoes." His thumb brushed her pulse.
+"Soft failed into a pipe tonight," he whispered. You get to decide whether it comes back as quiet at dawn, or as waiting while the fog eats a clerk's shoes." His thumb brushed her pulse.
 
 Outside, the pier road hissed with rain. Ellison's memo was already writing itself. Rhee was already stirring. [player_name] drew a breath that tasted like antiseptic and pier salt.
 

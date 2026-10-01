@@ -14,7 +14,7 @@ He found her at the edge of the pier lot, where sodium light smeared the rain in
 
 [player_name] kept moving toward the warehouse district's silhouette, salt on her tongue. Festival ghosts lived in the wet boards. Owen was still unnamed on any official page. "If leaning was the only way to hear Renny's last argument, then the system that failed her is wearing your mouth. If politics was the only way to keep your badge, then the machine is wearing mine. I needed air that didn't taste like warrants."
 
-Will flinched, small and real. "That landed," he admitted. "Walking out doesn't retire the case. It moves the pressure onto us. I'll still hunt the red door. I'll still want you. Don't mistake my self-awareness for softness. I'm not nice. I dream raid noise when things fail, and soft just failed into fog."
+Will flinched, small and real. "That landed," he admitted. "Walking out doesn't retire the case. It moves the pressure onto us. I'll still hunt the red door. I'll still want you. Don't mistake my self-awareness for softness. I'm not nice. Soft just failed into fog, and I know what comes after soft."
 
 They reached the chain-link that bordered a cold-storage row Marta had pointed toward without quite swearing. Generator hum lived somewhere beyond rust and rain. A red door waited in rumor—fourteen or forty-one, scrape unresolved. Will stopped. [player_name] stopped. Rain stitched the space between their mouths like unfinished sentences.
 
@@ -22,7 +22,7 @@ They reached the chain-link that bordered a cold-storage row Marta had pointed t
 
 [player_name] almost laughed. Almost cried. Trust under interrogation lights had become trust under rain. "Reuniting at the festival means choosing the place she vanished."
 
-"Circling to the box means choosing the place she left you instructions," Will answered. "Both hurt. Both move the case. Both leave me chasing something: your body in a crowd, or the geography alone while you dig through purple leather and cream envelopes." He wiped rain from his face. "Cho won't name the remains because you walked into fog. Owen stays your private weather until you put him on a page. Walking didn't free you from the secret. It only freed you from watching me become weather you couldn't love."
+"Circling to the box means choosing the place she left you instructions," Will answered. "Either way the case moves, and I end up chasing something: your body in a crowd, or the geography alone while you dig through purple leather and cream envelopes." He wiped rain from his face. "Cho won't name the remains because you walked into fog. Owen stays your private weather until you put him on a page. Walking didn't free you from the secret. It only freed you from watching me become weather you couldn't love."
 
 [player_name] thought of Renny's hoodie folded in a drawer. Of festival music lying about safety seven years ago. Of the pier sighting she still hadn't put on paper, Owen near the water with someone who wasn't supposed to be there, and how walking hadn't made that truth lighter. Ellison's distrust lived somewhere behind the rain like a weather system with a badge.
 

@@ -34,7 +34,7 @@ Will lowered the phone. Water ran off his scarred brow. "You got your ME update.
 
 "Alone?" Will's charm went entirely wound. "That is how people get hurt. I have the scar tissue to prove it—and a name I am not putting in your mouth tonight."
 
-"Or with you at his door," she said. "Badge and all. Dread and hope both walking up the steps while the remains stay unidentified and Cho's crack becomes a question he has to answer."
+"Or with you at his door," she said. "Badge and all. The two of us walking up the steps while the remains stay unidentified and Cho's crack becomes a question he has to answer."
 
 Foghorn low across the channel. Will closed the notebook on wet pier ink. "Your refusal is noted. Your demand is met. Now choose the shape of the confrontation. Owen Vale just became a timing problem, and you're still the sister who kept him off the original page."
 

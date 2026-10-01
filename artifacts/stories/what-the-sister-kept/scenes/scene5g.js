@@ -89,7 +89,7 @@ Owen turned to the sink, hands braced on porcelain. For a second she saw the fes
 
 "I know." She thought of Will's ribs, Ellison's leash, a sealed file. Her cunt still ached from a kiss she hadn't taken. Alone was a risk she'd chosen with her brain. Her body kept voting for the car. "Talk anyway."
 
-He didn't. He stared at the printout until UNIDENTIFIED seemed to pulse in time with the beat low in her belly. "They're not going to name her," he said, too careful. "Not if I can help it. Not if you keep your mouth in the family."
+He didn't. He stared at the printout until UNIDENTIFIED seemed to pulse in time with the pulse low in her belly. "They're not going to name her," he said, too careful. "Not if I can help it. Not if you keep your mouth in the family."
 
 "That isn't how hope works," she said. "That's how cover works."
 

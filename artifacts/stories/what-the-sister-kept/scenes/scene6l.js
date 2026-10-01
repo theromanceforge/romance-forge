@@ -24,11 +24,11 @@ The radiator knocked like a second interrogation clock. [player_name] thought of
 
 "And break open?"
 
-"Means the tip stays on the table between us like a third person we both have to look at." His voice frayed. "Means I stay angry and still choose you. Means you stop inventing purity and stop inventing funerals the lab hasn't authorized. Means when the raid call comes, we take it as people who already decided the war includes us. Choose each other now, or take the raid call next, if breaking open feels too soft a word for what we are." He exhaled. "Both hurt. Neither puts Renny's name on bone tonight."
+"Means the tip stays on the table between us like a third person we both have to look at." His voice frayed. "Means I stay angry and still choose you. Means you stop inventing purity and stop inventing funerals the lab hasn't authorized. Means when the raid call comes, we take it as people who already decided the war includes us. Choose each other now, or take the raid call next, if breaking open feels too soft a word for what we are." He exhaled. "Neither one puts Renny's name on bone tonight."
 
 Silence thickened, and the rain with it. Will picked up the badge and set it down again, a man arguing with his own metal. [player_name] almost touched the scar; then did. His pulse jumped once under her fingers. He didn't pull away. He looked at her mouth the way he looked at evidence that might burn him.
 
-"I dream raid noise when things go wrong," he said quietly. "An obstruction fight is just that, in a kitchen instead of an alley. Having you here is how the dream learns your name. Ellison calling that a liability doesn't make it less true. My old partner would call me compromised. She wouldn't be wrong. Sometimes compromised is how I stay human."
+"An obstruction fight is just a raid in a kitchen instead of an alley," he said quietly. "Having you here is the part I didn't plan for. Ellison calling that a liability doesn't make it less true. My old partner would call me compromised. She wouldn't be wrong. Sometimes compromised is how I stay human."
 
 [player_name] felt almost-trust climbing her throat. The gap in Renny's silver charm bracelet winked in her mind's eye. Cho's careful language still said pending. Rumor had already tried to bury Renny. Neither choice would help rumor. Only science and courage would, and a detective who refused false funerals.
 
@@ -40,7 +40,7 @@ Will paced once, coat dripping a dark coin of rain onto the floor, then stopped 
 
 He didn't kiss her. The badge cooled between them. Renny's hoodie waited on the chair like a held breath. Will's cracked knuckles flexed, choosing, for one more hour, to spend the fight on them instead of on Owen.
 
-"Clock," Will said softly. "Choose each other now, or take the raid shoot/don't-shoot call. Either way, obstruction already spoke. Pick the hurt you can live inside."`,
+"Clock," Will said softly. "Choose each other now, or take the raid shoot/don't-shoot call. Either way, obstruction already spoke. Choose the one you can live inside."`,
   textHot: `The obstruction fight didn't start with raised voices. It started with Will setting his badge on [player_name]'s kitchen table hard enough to make the salt shaker jump. The sound went through her like a slap and a caress at once.
 
 Rain. Foghorns. The soft net had burned. Phone ash was bagged. Ellison's briefing clock was eating the hour, and his eyes counted her like a clock.
@@ -57,7 +57,7 @@ His hand opened her jeans and slid into her panties, where she was shamelessly s
 
 "Break up," he said, "and I brief Ellison alone with a hole shaped like your empty chair. I stop the stairwells. I don't stop the case. Break open, and the tip stays on the table between us. I stay angry and still choose you. You stop inventing purity and false funerals. And when the raid call comes, we take it as people who already decided the war includes us."
 
-She rocked on his hand. He stopped her hip with exact control. "I dream raid noise when things go wrong. Having you open on my wrist is how the dream learns your name. Ellison calling that a liability doesn't make it less true."
+She rocked on his hand. He stopped her hip with exact control. "Having you open on my wrist is the only thing tonight that feels honest. Ellison calling that a liability doesn't make it less true."
 
 He withdrew to paint her lower lip, then pressed her palm to his cock through his jeans and rolled once into her fist. "Feel what the fight does to me. Grief and want can share a body. Don't tidy it."
 

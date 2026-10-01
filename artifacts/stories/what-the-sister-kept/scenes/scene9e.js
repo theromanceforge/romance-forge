@@ -18,7 +18,7 @@ Will didn't look at the glass. He looked at [player_name] once, then back at Hal
 
 Hale's eyes flicked to [player_name]. Something cracked in him that wasn't steel. "Kade said if the girl kept pointing, the pier would go quiet. I moved the paper. Owen Vale covered for the silhouette." Hale swallowed. "Kade put hands on the problem. Festival night. East dock. Under the generator noise. I didn't watch the water. I watched the routing stamp. That's the name. Michael Kade, Harborwick Port Authority. He silenced her."
 
-The room didn't become a funeral. Will's pen stopped against the notebook's spine, the way it always did when a fact arrived that hope and dread would fight over. [player_name] tasted copper where she'd bitten her cheek. Renny's killer was named, while Cho's tray still refused to print a sister on bone. The naming was justice. It wasn't a burial.
+The room didn't become a funeral. Will's pen stopped against the notebook's spine, the way it always did when a fact arrived that would start a fight. [player_name] tasted copper where she'd bitten her cheek. Renny's killer was named, while Cho's tray still refused to print a sister on bone. The naming was justice. It wasn't a burial.
 
 "Alive enough to charge," Will said quietly, for her. "Kade becomes a warrant before the municipal paper gets rinsed. Hale becomes a cooperating witness on Ellison's leash. Owen's partial statement becomes corroboration. You don't get to put Renny in the upriver silt because a clerk finally spoke. You get to stand in a room where the chain has a name at the top."
 
@@ -28,7 +28,7 @@ Ellison came in without ceremony. She set a thin file beside Hale's cuffs: draft
 
 "If we speak it together," Will murmured, his late smile wrong, "we walk out in daylight as partners who won't let the press invent a corpse before Cho finishes. Renny's fate spoken honestly: contested science, plus a living killer named. I stay compromised in ways Solis would recognize. And I stay anyway."
 
-His knuckles brushed her wrist behind the notebook, then fell away, as if Ellison's glass were a second recorder. "If you carry it into a sister's reckoning, you lead the public story. Microphones. Rain. I stand beside you or behind you, as the city requires. Both ways spend Hale's mouth. Both leave Cho careful. Both leave me wanting to take you somewhere soft after bleach and burnt coffee and a name that finally stuck."
+His knuckles brushed her wrist behind the notebook, then fell away, as if Ellison's glass were a second recorder. "If you carry it into a sister's reckoning, you lead the public story. Microphones. Rain. I stand beside you or behind you, as the city requires. Either way spends Hale's mouth and leaves Cho careful. And either way I want to take you somewhere soft after bleach and burnt coffee and a name that finally stuck."
 
 Hale stared at the bolted table as if routing stamps might still save him. They would not. Outside, Harborwick fog pressed the precinct glass. Fog horns spoke from the pier where a teenager had pointed east seven years ago. Renny's old hoodie still folded in a drawer inland. A silver charm bracelet missing one charm ached like a tooth in [player_name]'s memory. The upriver remains stayed a maybe. Michael Kade became a hunt with a face.
 

@@ -14,7 +14,7 @@ Will's badge stayed on the table where the obstruction fight had left it, cheap 
 
 Attraction wasn't a flicker anymore. It was the room's weather. She touched the scar; his pulse jumped; he didn't pull away. He looked at her mouth the way he looked at evidence that might burn him, and decided to keep it anyway.
 
-"I dream raid noise when things fail," Will said quietly. "Having you here is how the dream learns your name. The raid call is still coming. We can take a quiet deal if the SIM leverage buys sealed pages and a map. Or we can ride the raid aftermath, hospital versus chase if blood and radios decide the hour, and prove this holds under fish-rot air. Both leave Renny a question mark tonight. Both leave us choosing each other while the war is still on."
+"The raid call is still coming," Will said quietly. "Having you here is the part I didn't plan for. We can take a quiet deal if the SIM leverage buys sealed pages and a map. Or we can ride the raid aftermath, hospital versus chase if blood and radios decide the hour, and prove this holds under fish-rot air. Either way Renny stays a question mark tonight, and we're still choosing each other while the war is on."
 
 [player_name] stepped closer until the peach-plastic perfume faint in Renny's hoodie mixed with Will's wet coat. Foghorns complained across the channel. Chain-link rattled in the dark. Somewhere upriver Cho's careful language still said pending. Rumor had already tried to bury Renny. Neither quiet deal nor raid aftermath would help rumor. Only science and courage and a detective who refused false funerals while loving a woman who had obstructed her own sister's case.
 
@@ -34,7 +34,7 @@ He almost smiled, late and wrong and softer than comfort.
 
 "Ellison will ask if romance compromised the dig," Will said. "Tell her the dig compromised the romance first, and that we chose to keep both alive anyway. My old file lives in this too. I still won't unpack it for you on linoleum. You get hints. You get my staying. You don't get the whole hallway while Cho's tray still says pending and a clerk still has a throat. That isn't distance. That's me learning not to push early and call the smoke care."
 
-She nodded. Outside, warehouses hunched in fog. The quiet deal and the raid aftermath waited like two doors that both hurt and both kept Renny reachable.
+She nodded. Outside, warehouses hunched in fog. The quiet deal and the raid aftermath waited like two doors, either one keeping Renny reachable.
 
 "I can live with angry," [player_name] said. "I can't live with a sealed silence that pretends we didn't tip and burn and dig and choose. Quiet deal or raid, either way I walk it with you. Either way, my sister stays a question mark until science earns a name. Either way, you leave this kitchen changed, and so do I."
 
@@ -55,7 +55,7 @@ He pressed her palm to his cock, slick and still hard, and rolled once into her 
 
 She stroked him once. He hissed and stopped her, exact. "Two doors from here. Take the quiet deal, if the SIM leverage buys sealed pages and a map, and I finish what we started in a locked room after the ink dries, my mouth on you until you shake. Or ride the raid aftermath, hospital or chase if I catch damage and the clerk runs, and I keep you aching through the entry, so consequence and want share your pulse when the radios crackle. The quiet deal protects a kind of peace. The raid protects a kind of honesty."
 
-He dropped to his knees on the linoleum and put his mouth on her through the aftershocks until she cried out softly again. Then he stood, zipped her halfway, straightened her collar with surprising tenderness. The raid wound under his charm showed one tooth without the whole hallway. "I dream about raid noise when soft fails," he said. "Having you come on my mouth is how the dream learns your name. Ellison calling that liability doesn't make it less true."
+He dropped to his knees on the linoleum and put his mouth on her through the aftershocks until she cried out softly again. Then he stood, zipped her halfway, straightened her collar with surprising tenderness. The raid wound under his charm showed one tooth without the whole hallway. "Soft failed tonight," he said. "Having you come on my mouth is the only part I'd do again. Ellison calling that liability doesn't make it less true."
 
 Rain thickened. Will picked up the badge and held it without pinning it on. His free hand cupped her nape, grounding her, his wrist still shining with her. "Clock. The quiet deal, or hospital or chase after the raid. Either way, we already chose each other. Either way, Cho's tray stays unnamed tonight."
 

@@ -22,7 +22,7 @@ Will found her by the piling where the fog was thickest, away from the loudest s
 
 [player_name] tasted fried sugar. She thought of Renny's hoodie folded in a drawer. Of a locked box and cream envelopes and a red door east. Of Will's cracked knuckles and the raid noise he dreamed. "Proposing truth means choosing us as the first audience."
 
-"Naming the chain in public means choosing the city as the first jury," Will said. "Both move the case. Both hurt. Both leave the bones unnamed until science earns a name." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first. Wanting that makes me selfish. Offering the public naming anyway makes me slightly less. Slightly. You walked. I chased. Don't waste tonight on hesitation while the boards remember her better than we deserve."
+"Naming the chain in public means choosing the city as the first jury," Will said. "Either one moves the case. Neither names the bones before science does." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first. Wanting that makes me selfish. Offering the public naming anyway makes me slightly less. Slightly. You walked. I chased. Don't waste tonight on hesitation while the boards remember her better than we deserve."
 
 Festival speakers crackled through a ballad that had been popular the year Renny vanished. Someone laughed too loud near a funnel-cake stall like the one Marta had worked. A Harborwick PD cruiser idled at the edge of the lot without lights, Ellison's caution wearing a unit number. Will noticed and didn't turn his head. "We're seen," he said. "Good. Means the chase was real. Means this reunion is a record whether we want it or not."
 

@@ -38,7 +38,7 @@ Rain thickened on the high windows. A door shut down the hall like a gavel pract
 
 "Testify for Will," Rhee summarized without kindness. "Or hide together through the public storm. The review is already here. The choice is whether you answer it with sentences in this room or with silence on a street that will not stay silent long."
 
-Will's voice dropped for [player_name] alone. "I dream raid noise. IA isn't soft. Public isn't soft. You're choosing which hard room you walk me into. I can do either. I can't do hesitation while old ash stirs and Ellison smiles in memos."`,
+Will's voice dropped for [player_name] alone. "IA isn't soft. Public isn't soft. You're choosing which hard room you walk me into. I can do either. I can't do hesitation while old ash stirs and Ellison smiles in memos."`,
   textHot: `Internal Affairs summoned them into a room that smelled like burnt coffee. In the elevator on the way up, Will had said review in a voice that made it sound like something else, and [player_name] still felt it.
 
 Fluorescents hummed. A recorder sat center-table. Lieutenant Rhee was mild and level. Ellison's folder was thick enough to bruise. Will sat too straight, scar pale, knuckles forced open on his knee.

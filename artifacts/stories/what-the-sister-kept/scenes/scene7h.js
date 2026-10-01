@@ -24,7 +24,7 @@ Rain began again, fine as needlepoint on a roof deeper in the row. A generator c
 
 "If I take the partial," [player_name] said, voice steady by force, "Owen cracks in a room. We spend the hour as a blade across glass. Hope stays legal because Cho hasn't spoken. If I wire him, we spend the hour as bait, Owen as an instrument against the clerk, and I live with using the man who taught me the lullaby as a microphone."
 
-"Both hurt," Will said. "Both keep you close enough that I can watch whether grief makes you careful or reckless. Ellison will prefer the wire if she smells clearance ambition. Internal will prefer the partial if they smell me too close to a family witness. I prefer the truth that doesn't bury hope under a tip-sheet funeral. Your sister's map built this hour. Your call spends it."
+"Either way you stay close enough," Will said, " that I can watch whether grief makes you careful or reckless. Ellison will prefer the wire if she smells clearance ambition. Internal will prefer the partial if they smell me too close to a family witness. I prefer the truth that doesn't bury hope under a tip-sheet funeral. Your sister's map built this hour. Your call spends it."
 
 The fog thinned and thickened. [player_name] thought of Marta's warehouse geography, of red doors and cold-storage rows, of jacketed shoulders she still couldn't give a face. Here the sequence was still theirs.
 
@@ -41,7 +41,7 @@ Soft reconstruction. His word. Fog held the pier district. Salt. Rust. Cho still
 
 His voice was soft enough to stroke. He refused to give hope a funeral, and that refusal kept her upright. [player_name] wanted to lick the bruise under the catalogue, and knew she would, later, if later survived Owen.
 
-Will stood. Soap. Salt. "Two ways from this hour," he said, his eyes dragging over her mouth. "Take Owen's partial confession: the sequence in his face until he cracks dates, companions, lullaby teachers. Or wire him against the clerk and hunt. Both leave me hard from watching you hold up through this."
+Will stood. Soap. Salt. "Two ways from this hour," he said, his eyes dragging over her mouth. "Take Owen's partial confession: the sequence in his face until he cracks dates, companions, lullaby teachers. Or wire him against the clerk and hunt. Either way, I'm hard from watching you hold up through this."
 
 She almost moaned at hard. Rain needled a deeper roof. A generator coughed and died. When he tugged her glove's wrist cuff straight, his thumb brushed her pulse and her pussy fluttered.
 
