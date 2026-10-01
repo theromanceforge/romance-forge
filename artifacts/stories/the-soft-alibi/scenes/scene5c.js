@@ -10,7 +10,7 @@ export default {
 
 "Then it's a very easy thing to check." Pell sat in the armchair facing the door. "Drip, [player_name]. Not a flood. Not a drought. A drip."
 
-Nolan went to the window. He stood with his back to the room and his hands in his pockets, and [player_name] could see his reflection in the glass, looking at her.
+Nolan went to the window. He stood with his back to the room, hands in his pockets. [player_name] could see his reflection in the glass, looking at her.
 
 The doorbell rang. Eight minutes to midnight. Not a knock. Brooks had gone through the front desk.
 
@@ -112,11 +112,11 @@ She looked up at him. She thought about the heels in the hall. The elevator. His
 
 "Don't," she said.
 
-He crouched in front of her. He didn't touch her face. He reached down and closed his hand around her wrist, very lightly, his thumb resting on her pulse, the same place he'd touched an hour ago.
+He crouched in front of her. He didn't touch her face. He reached down and closed his hand around her wrist, very lightly. His thumb rested on her pulse, the same place he'd touched an hour ago.
 
 "Tell me," he said.
 
-She didn't pull away. She felt her pulse beat against his thumb, faster, and she kept her mouth closed.`,
+She didn't pull away. Her pulse jumped against his thumb, faster, and she kept her mouth closed. Pell had smelled the gap already. If she kept dripping, he'd find it. If she pushed Nolan's hand away now, the war stayed about silence and nothing else.`,
   textHot: `Pell came back in tucking his phone away. His eyes went to Nolan's hand on her thigh. He said nothing. He simply waited until the hand lifted, and then he squared the page in its folio.
 
 [player_name]'s skin kept the shape of Nolan's palm. Her knees were still weak.
@@ -129,7 +129,7 @@ She didn't pull away. She felt her pulse beat against his thumb, faster, and she
 
 Nolan went to the window. In the glass she could see his reflection watching her, his eyes dark, his jaw tight. She crossed her legs. It didn't help. She was still wet from his thumb, from the almost, and every time she shifted she felt it.
 
-The doorbell rang. Eight minutes to midnight. Not a knock. Brooks had come through the front desk, which meant Rhea had sent her up, which meant the time was already logged on the slate downstairs. Nothing in this building happened without a row.
+The doorbell rang. Eight minutes to midnight. Not a knock. Brooks had come through the front desk. That meant Rhea had sent her up, and the time was already logged on the slate downstairs. Nothing in this building happened without a row.
 
 Pell opened it. "Detective. Marcus Pell. Counsel to Mr. Greer and, tonight, his neighbor."
 
@@ -235,9 +235,9 @@ His free hand came to her knee. Slid up, slow, over the silk, under the hem, ont
 
 Her pulse slammed under his thumb at her wrist. He could feel it. She could see that he could.
 
-She leaned back into the couch, her wrist in his hand, his other hand still and hot on her thigh, and kept her mouth shut, and let her knees fall a little wider.`,
+She leaned back into the couch, her wrist in his hand, his other hand still and hot on her thigh. She could push him off and fight Pell's silence war with a clear head. Or she could keep her secret dripping, and let Pell smell it. She kept her mouth shut and let her knees fall a little wider.`,
   choices: [
     { id: "scene6d", text: "Refuse intimacy — fight the silence war only", textHot: "Refuse intimacy — fight the silence war only while your body still wants his hands" },
-    { id: "scene6e", text: "Keep dripping until Pell smells the sandbag", textHot: "Keep dripping until Pell smells the sandbag — calibrated truth with his heat still unfinished under your skin" }
+    { id: "scene6e", text: "Keep dripping until Pell smells the sandbag", textHot: "Keep dripping until Pell smells the sandbag — his heat still unfinished under your skin" }
   ]
 };

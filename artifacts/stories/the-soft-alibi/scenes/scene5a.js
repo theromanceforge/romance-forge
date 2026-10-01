@@ -40,7 +40,7 @@ Nolan read it over her shoulder. She heard him breathe in and not breathe out fo
 
 "There doesn't have to be. Not yet." He gave the card back. "They just have to start asking whether there is one."
 
-They went back inside. He shut his door and locked it, which he never did, and they stood in the low light of his front room with the city spread across the glass.
+They went back inside. He shut his door and locked it, which he never did. They stood in the low light of his front room with the city spread across the glass.
 
 He poured two glasses. She didn't drink hers. She set the card face up on the marble beside it.
 
@@ -76,7 +76,9 @@ It was the most honest thing he'd ever offered her. It was also a net. She could
 
 She thought about the bath down the hall. The full bottle of perfume. The pearl hairpin in the dish. The east room where Vivienne had slept. All of it still there, waiting like a held breath.
 
-And she thought about one night. She'd never told anyone. Not him. Not Brooks. Last winter, very late, she'd come out to take her recycling to the chute and seen his door ajar. A packed bag just inside it. A woman's bag. And through the gap she had smelled perfume, fresh, as if someone had just opened the bottle and then changed her mind and capped it. Downstairs, through the hall window, a black car had idled at the curb for forty minutes. Then it left. Empty or not, she couldn't tell.
+And she thought about one night. She'd never told anyone. Not him. Not Brooks. Last winter, very late, she'd come out to take her recycling to the chute and seen his door ajar. A packed bag just inside it. A woman's bag.
+
+Through the gap she had smelled perfume, fresh, as if someone had opened the bottle, changed her mind and capped it. Below the hall window, a black car had idled at the curb for forty minutes. Then it left. Empty or not, she couldn't tell.
 
 She had gone back to bed and told herself it was nothing.
 
@@ -106,7 +108,7 @@ She reached out and put her fingertips on the brass key. It was warm from his po
 
 His hand came down over hers. Not pressing. Just resting there, covering her hand and the key both, his palm warm on her knuckles.
 
-Neither of them moved. The card sat face up beside their hands. 9 A.M. She could feel his pulse through his palm, and she couldn't tell if he wanted her to pick it up or leave it.`,
+Neither of them moved. The card sat face up beside their hands. 9 A.M. She could feel his pulse through his palm. She couldn't tell if he wanted her to pick the key up or leave it. Open the drawer, and every page was hers by nine. Leave it, and the one night she'd never told stayed hers alone.`,
   textHot: `Three taps. Then nothing.
 
 Nolan's hand slid out of her slowly. She made a sound she couldn't stop. Her whole body was still clenched at the edge, throbbing, refusing to come down.
@@ -179,7 +181,7 @@ He came closer. His thumb found her ribs through the silk and counted down them,
 
 She had. One night. Last winter, late, recycling in hand. His door ajar. A woman's packed bag just inside it. Perfume in the gap, fresh, as if someone had opened the bottle and then capped it again, changing her mind. At the curb below the hall window, a black car idling forty minutes. Then gone. Empty or not, she never knew.
 
-She'd gone back to bed and touched herself thinking about him and told herself it was nothing.
+She'd gone back to bed and touched herself thinking about him. She'd told herself it was nothing.
 
 "There's a night," she said. "I've never told anyone."
 
@@ -199,9 +201,9 @@ She reached past him and put her fingertips on the brass key. Warm from his pock
 
 His hand came down over hers. His palm hot on her knuckles. His other hand at her hip, pressing her back into the marble edge. His mouth still on hers, open, not moving.
 
-Neither of them moved. The card lay face up by their hands. 9 A.M. She was throbbing against nothing, his fingers spread over hers on the key, and she couldn't tell if he wanted her to lift it or let it lie.`,
+Neither of them moved. The card lay face up by their hands. 9 A.M. She was throbbing against nothing, his fingers spread over hers on the key. She couldn't tell if he wanted her to lift it or let it lie. Lift it, and she read every page with him watching. Let it lie, and she kept the one night nobody had explained, his mouth still unfinished on hers.`,
   choices: [
-    { id: "scene6a", text: "Open Nolan's locked drawer with him watching — full cooperation", textHot: "Open Nolan's locked drawer with him watching — full cooperation while his thumb still counts your ribs" },
+    { id: "scene6a", text: "Open Nolan's locked drawer with him watching — full cooperation", textHot: "Open Nolan's locked drawer with him watching — full cooperation, his thumb still on your ribs" },
     { id: "scene6b", text: "Withhold one unnamed night — keep that gap even as cover", textHot: "Withhold one unnamed night — keep that gap with his mouth still unfinished on yours" }
   ]
 };

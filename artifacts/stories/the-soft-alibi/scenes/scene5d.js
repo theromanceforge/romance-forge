@@ -58,7 +58,7 @@ He waited.
 
 Nolan's face didn't move.
 
-"I almost said something," she said. "So many times. The night you came to my door soaking wet. The night in the elevator. The first time you stayed until four. I almost asked you where she was, and every time I didn't, because I knew if I asked, you might stop knocking." Her voice cracked and she let it. "That's what I'm going to tell her. That I didn't want to know. That I'm not a witness. I'm the reason nobody asked."
+"I almost said something," she said. "So many times. The night you came to my door soaking wet. The night in the elevator. The first time you stayed until four. I almost asked you where she was. Every time, I didn't, because if I asked, you might stop knocking." Her voice cracked and she let it. "That's what I'm going to tell her. That I didn't want to know. That I'm not a witness. I'm the reason nobody asked."
 
 "That isn't true," Nolan said.
 
@@ -110,7 +110,7 @@ Nolan's fingers were still on her jaw. He didn't take them away.
 
 Nolan's thumb moved once along her cheekbone. Slow. As if he wanted to memorize it before it was evidence.
 
-She didn't step away from his hand. She didn't step toward the door. She stood with his fingers on her face and Brooks waiting on the other side of the wood, and she opened her mouth to say yes.`,
+She didn't step away from his hand. She didn't step toward the door. Pell was one phone call away, ready to smell the sandbag and cover it. Brooks was one word away, recorder in hand. She stood with his fingers on her face, and opened her mouth to say yes.`,
   textHot: `Pell came back from the foyer tucking his phone away. His eyes went to Nolan's hand, high on her thigh, and he waited, politely, for it to move.
 
 It didn't. She held it there.
@@ -177,7 +177,9 @@ He crossed to her. He stopped close enough that she could feel the heat off him,
 
 "Try harder," she said, and her eyes stung, and he put his hand on her face.
 
-Just his fingertips along her jaw. Then his palm. Then his mouth on hers, slow and deep, and she opened to him with a sound that came from somewhere low in her body. He walked her back until her shoulders touched the cold glass. The city behind her. His hand on her hip, then sliding up her ribs, his thumb under her breast through the silk. She arched into him. She could feel him hard against her belly and she pressed into it, rocking, aching.
+Just his fingertips along her jaw. Then his palm.
+
+Then his mouth on hers, slow and deep. She opened to him with a sound that came from somewhere low in her body. He walked her back until her shoulders touched the cold glass. The city behind her. His hand on her hip, then sliding up her ribs, his thumb under her breast through the silk. She arched into him. She could feel him hard against her belly and she pressed into it, rocking, aching.
 
 "If you tell her," he said against her mouth, "she records it. It's in your voice. Forever."
 
@@ -207,9 +209,9 @@ She looked past his shoulder. Through the frosted panel beside the door she coul
 
 Nolan didn't move his hand. His thumb shifted once against her skin, slow, and her hips tipped toward it before she could stop them.
 
-She stood against the glass with her dress rucked up and his breath on her mouth and Brooks on the other side of the wood, and she opened her mouth to say yes.`,
+She stood against the glass with her dress rucked up and his breath on her mouth. Brooks was on the other side of the wood with the recorder. Marcus was a phone call away. She opened her mouth to say yes.`,
   choices: [
     { id: "scene6e", text: "Let Pell smell the sandbag — stay in the controlled bleed", textHot: "Let Pell smell the sandbag — stay in the controlled bleed with his mouth still hungry for yours" },
-    { id: "scene6f", text: "Let Brooks record the raw admission — point of no return", textHot: "Let Brooks record the raw admission — point of no return while your body still aches against his glass" }
+    { id: "scene6f", text: "Let Brooks record the raw admission — point of no return", textHot: "Let Brooks record the raw admission — no going back, your body still aching against his glass" }
   ]
 };

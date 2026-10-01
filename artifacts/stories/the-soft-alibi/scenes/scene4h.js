@@ -82,13 +82,13 @@ Brooks stepped sideways. It looked casual. It put her squarely between them, an 
 
 [player_name] could see him over Brooks's shoulder. The scar at his jaw. The way his hand had closed at his side, as though he wanted to reach for her and knew he couldn't. Ten feet of marble. A detective in the middle of it.
 
-She wanted to walk around Brooks and stand next to him. She wanted to put herself in front of him, like that would mean anything. She wanted to walk straight out through the revolving door into the rain and not stop until she couldn't feel any of them looking at her.
+She wanted to walk around Brooks and stand next to him. She wanted to put herself in front of him, like that would mean anything. Or she could walk straight out through the revolving door into the rain and not stop until she couldn't feel any of them looking at her.
 
 Nolan said her name. Just once, quietly.
 
 Brooks didn't move. She looked at [player_name], waiting.
 
-[player_name] felt her own name sit in the air between the three of them, and her feet stayed where they were.`,
+[player_name] felt her own name sit in the air between the three of them. Step between them, and she became the soft wall Brooks would have to lean on. Walk, and Brooks lost her soft answers. Her feet stayed where they were.`,
   textHot: `The key was halfway out of Rhea's sleeve. Brass in the lamp light.
 
 Brooks had stepped into the mailroom alcove to take a call. Back half turned. Voice low.
@@ -133,7 +133,7 @@ Brooks took out her badge. Not quick this time. She held it up and let [player_n
 
 The word sheets went through [player_name] like a hand sliding up her spine.
 
-Her bed. The headboard he'd gripped with one hand while he moved inside her, slow, his other hand pinning her wrist above her head. The mark she'd found on her inner thigh the next morning, his mouth's mark, dark and sore, and how she'd pressed her thumb into it in the shower just to feel it again. Brooks would walk past that bed and not know any of it. Brooks would know all of it.
+Her bed. The headboard he'd gripped with one hand while he moved inside her, slow, his other hand pinning her wrist above her head. The mark on her inner thigh the next morning, his mouth's mark, dark and sore. She'd pressed her thumb into it in the shower just to feel it again. Brooks would walk past that bed and not know any of it. Brooks would know all of it.
 
 "That's not kind," [player_name] said. Her voice wasn't steady.
 
@@ -141,7 +141,7 @@ Her bed. The headboard he'd gripped with one hand while he moved inside her, slo
 
 The fountain by the revolving door ran thin and bright. Rhea had gone still as a photograph.
 
-[player_name] thought of the lounge. The low lamps. Brooks asking the same question three ways with that patient face. Then she thought of her own bathroom, the second toothbrush she'd thrown out in March and bought again in April, and Brooks picking it up and turning it over in her fingers without a word.
+[player_name] thought of the lounge. The low lamps. Brooks asking the same question three ways with that patient face. Then she thought of her own bathroom. The second toothbrush she'd thrown out in March and bought again in April. Brooks picking it up and turning it over without a word.
 
 Behind [player_name], the elevator opened.
 
@@ -171,7 +171,7 @@ Ten feet of marble. A detective in the middle. [player_name] could see his hand 
 
 She wanted him so much her knees felt loose.
 
-She wanted to walk around Brooks and stand at his side. She wanted to put her body in front of his, as if that would stop anything. She wanted to walk straight out through the revolving door into the rain and let it soak her silk through and not stop walking until she couldn't feel any of them looking.
+She wanted to walk around Brooks and stand at his side. She wanted to put her body in front of his, as if that would stop anything. Or she could walk straight out through the revolving door into the rain. Let it soak her silk through. Keep walking until she couldn't feel any of them looking.
 
 Nolan said her name. Once. Low. The way he said it in the dark.
 
@@ -179,9 +179,9 @@ It went straight between her legs. She pressed her thighs together and hated tha
 
 Brooks didn't move. She waited.
 
-[player_name] stood on the cold marble with her pulse beating everywhere, his voice still in her ear, Brooks's eyes on her mouth, and her feet stayed exactly where they were.`,
+[player_name] stood on the cold marble with her pulse beating everywhere. His voice was still in her ear. Brooks's eyes were on her mouth. One step put her body between them. One turn put her out in the rain, aching. Her feet stayed exactly where they were.`,
   choices: [
     { id: "scene5o", text: "Become the soft shield — stand between Brooks's harder lean and Nolan", textHot: "Become the soft shield — put your body between Brooks's harder lean and Nolan" },
-    { id: "scene5p", text: "Walk out of the lobby circle — leave Brooks without your soft answers", textHot: "Walk out of the lobby circle — leave aching, let Brooks chase without your skin" }
+    { id: "scene5p", text: "Walk out of the lobby circle — leave Brooks without your soft answers", textHot: "Walk out of the lobby circle — leave aching, and let Brooks chase without you" }
   ]
 };

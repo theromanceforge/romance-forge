@@ -88,7 +88,7 @@ Rhea's fingers lay very still on the tablet. "There's a guest book at the desk. 
 
 The room went quiet. Down on the street a siren started and stopped, someone else's emergency. Rhea turned her face to the window. In the glass she looked tired in a way no concierge was allowed to look on shift.
 
-[player_name] thought about Nolan upstairs. His door open. His wine poured. The click of gold at his wrist every time Vivienne's name came near. She thought about his last text, the one she hadn't answered. Then she made herself stop thinking about him, because her face would do something, and Brooks would see.
+[player_name] thought about Nolan upstairs. His door open. His wine poured. The click of gold at his wrist every time Vivienne's name came near. She thought about his last text, the one she hadn't answered. Then she made herself stop, because her face would do something and Brooks would see.
 
 Brooks saw anyway. "You can call him after," she said quietly.
 
@@ -114,8 +114,8 @@ Across the room, Rhea had stopped breathing. Brooks waited, pen still.
 
 "I was with—" [player_name] said.
 
-His name was on her tongue. She could taste it. She wanted to keep it there, in her mouth, where it was only hers.`,
-  textHot: `The lounge on nine was low lamps and deep chairs and one wall of glass full of city. [player_name] sank into a couch that was too soft and felt her body sink with it, still loose and humming from the elevator ride, from his text, from wanting.
+His name was on her tongue. She could taste it. She wanted to keep it there, in her mouth, where it was only hers. Say it, and soft stayed soft. Hold it back, and Brooks would hear the page in her silence.`,
+  textHot: `The lounge on nine was low lamps and deep chairs and one wall of glass full of city. [player_name] sank into a couch that was too soft. Her body sank with it, still loose and humming from the elevator ride, from his text, from wanting.
 
 Brooks sat across from her. Rhea sat by the window with the tablet face down on her knees.
 
@@ -151,7 +151,7 @@ Brooks wrote that down. The first thing she'd written. [player_name] felt it lan
 
 Rhea read them out. The last present mark. The first blank. One entry at 6:02 p.m. with no departure time beside it.
 
-[player_name] knew the first blank without looking. A Saturday. Rain. Nolan at her door at ten with his jacket wet through, and her peeling it off him in the hall, and his cold hands warming on her ribs under her sweater until neither of them was cold anymore. She knew that date in her hips. She kept her face still while Rhea read it like a bus timetable.
+[player_name] knew the first blank without looking. A Saturday. Rain. Nolan at her door at ten, his jacket wet through. She'd peeled it off him in the hall, and his cold hands had warmed on her ribs under her sweater until neither of them was cold anymore. She knew that date in her hips. She kept her face still while Rhea read it like a bus timetable.
 
 "No departure," Brooks said.
 
@@ -167,7 +167,7 @@ It came out like a plea in a bed. She heard it. So did Brooks.
 
 "I'll answer anything about the calendar," [player_name] said, faster. "I didn't see a goodbye. I didn't see a fight. I didn't see her hurt. I don't know where she is. That isn't hiding. That's the size of what I know."
 
-"Mostly I believe you," Brooks said. "Soft looks like this. I record you here, not downtown. I watch Ms. Quinn's slate. I don't charge a neighbor for sleeping with a married man." Her voice didn't change. "Soft breaks if a page goes missing."
+"I believe you. Mostly," Brooks said. "Soft looks like this. I record you here, not downtown. I watch Ms. Quinn's slate. I don't charge a neighbor for sleeping with a married man." Her voice didn't change. "Soft breaks if a page goes missing."
 
 [player_name] flinched. A small thing. Her fingers closing on the cushion. A catch in her breath.
 
@@ -187,7 +187,7 @@ Rhea's eyes came to [player_name] once. Cold. Brief. It landed like a hand closi
 
 Quiet. A siren on the street, starting and stopping.
 
-[player_name] tried not to think about him. She thought about him anyway. His door, open. His wine, poured. His mouth on her neck in the doorway an hour ago, open and slow, and the sound she'd made, and how he'd smiled against her skin. Her nipples tightened under the silk. She crossed her arms and felt Brooks notice.
+[player_name] tried not to think about him. She thought about him anyway. His door, open. His wine, poured. His mouth on her neck in the doorway an hour ago, open and slow. The sound she'd made. How he'd smiled against her skin. Her nipples tightened under the silk. She crossed her arms and felt Brooks notice.
 
 "You can call him after," Brooks said quietly.
 
@@ -213,9 +213,9 @@ Rhea had stopped breathing. Brooks waited, pen still.
 
 "I was with—" [player_name] said.
 
-His name sat on her tongue, warm. Her lips stayed parted around it. She held it there and didn't let it go.`,
+His name sat on her tongue, warm. Her lips stayed parted around it. Say it, and soft was a word Brooks could keep. Swallow it, and the page Brooks had mentioned would start to burn in her throat. She held it there and didn't let it go.`,
   choices: [
-    { id: "scene5i", text: "Stay soft — accept Rhea under watch while you remain useful", textHot: "Stay soft — accept Rhea under watch with the record still warm on your tongue" },
+    { id: "scene5i", text: "Stay soft — accept Rhea under watch while you remain useful", textHot: "Stay soft — accept Rhea under watch, the record still warm on your tongue" },
     { id: "scene5j", text: "Flinch at the word 'page' — and see what Rhea does with it", textHot: "Flinch at the word 'page' — pulse still loud from confessing him" }
   ]
 };

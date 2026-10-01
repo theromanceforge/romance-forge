@@ -6,7 +6,7 @@ export default {
 
 Rhea didn't waste the minute.
 
-She slid the brass key the rest of the way off its chain, crouched behind the desk, and fitted it into a drawer [player_name] had never noticed. No handle. Just a seam in the wood and a lock the size of a fingernail.
+She slid the brass key the rest of the way off its chain and crouched behind the desk. She fitted it into a drawer [player_name] had never noticed. No handle. Just a seam in the wood and a lock the size of a fingernail.
 
 "Official guests don't know this is here," Rhea said quietly. "Most staff don't either."
 
@@ -56,7 +56,7 @@ Rhea looked at her for a long moment. "Because you stalled," she said. "When she
 
 "Then carry it carefully," Rhea said. "Hangar talk makes missing-persons detectives start thinking about bigger desks. Badge talk makes Mr. Pell turn up like weather."
 
-She slid the notebook back in the drawer. Turned the key. Clipped it to her chain. Stood up and smoothed her blazer, and by the time Brooks came back across the lobby, Rhea was typing on the slate as if she'd been typing the whole time.
+She slid the notebook back in the drawer. Turned the key. Clipped it to her chain. Stood and smoothed her blazer. By the time Brooks came back across the lobby, Rhea was typing on the slate as if she'd been typing the whole time.
 
 "Sorry," Brooks said. "Managers." She looked at [player_name], still half-crouched by the desk. "Did you drop something?"
 
@@ -84,14 +84,14 @@ The doors closed. The car hummed, waiting.
 
 Her floor. His floor. The same button.
 
-She lifted her hand. Her thumb rested on the button, light, feeling the small raised number under her skin. Upstairs he'd be awake. He was always awake. If she pressed it, she'd be at his door in under a minute, and she would knock, and he would open it, and she'd have to decide which question came out of her mouth first.
+She lifted her hand. Her thumb rested on the button, light, feeling the small raised number under her skin. Upstairs he'd be awake. He was always awake. If she pressed it, she'd be at his door in under a minute. She would knock, he would open it, and she'd have to decide which question came out first: the hangar, or the badges.
 
 Her thumb stayed where it was. Not pressing.`,
   textHot: `Brooks's phone rang. "Your manager. Again," she said, and walked off toward the revolving door with a hand over her other ear.
 
 Rhea moved at once. She slid the brass key off its chain, crouched behind the desk, and fit it into a drawer with no handle. Just a seam in the wood.
 
-[player_name] crouched beside her. Close. Their shoulders brushed. Her heart was still going hard from Brooks's questions, and the nearness made it worse, the warm closed space under the desk, Rhea's quick breath, coffee and hand cream.
+[player_name] crouched beside her. Close. Their shoulders brushed. Her heart was still going hard from Brooks's questions. The nearness made it worse: the warm closed space under the desk, Rhea's quick breath, coffee and hand cream.
 
 The drawer held a cheap spiral notebook. Pencil columns, small and neat.
 
@@ -101,7 +101,9 @@ She ran a finger down the page. "Black car at the curb. With Mrs. Greer. Without
 
 "How many?" [player_name] asked.
 
-"Enough that I started writing." Rhea's finger stopped on a date. [player_name] knew it. A Thursday. She'd been in his bed that night until four, his mouth between her legs, her hands in his hair, and she had never once wondered where his wife's car had gone.
+"Enough that I started writing." Rhea's finger stopped on a date.
+
+[player_name] knew it. A Thursday. She'd been in his bed that night until four, his mouth between her legs, her hands in his hair. She had never once wondered where his wife's car had gone.
 
 Two entries circled.
 
@@ -137,7 +139,7 @@ The notebook went back. The key went back on the chain. Rhea stood, smoothed her
 
 "An earring. Found it," [player_name] said.
 
-Brooks looked at both earrings, exactly where they belonged. She said nothing for a long moment, and [player_name] felt the look travel over her: flushed throat, knees pink from the marble, breath not quite even. Then Brooks said, "I'm calling it. Ms. Quinn, slate exports tomorrow. [player_name]." A beat. "Sleep."
+Brooks looked at both earrings, exactly where they belonged. She said nothing for a long moment. [player_name] felt the look travel over her: flushed throat, knees pink from the marble, breath not quite even. "I'm calling it," Brooks said. "Ms. Quinn, slate exports tomorrow. [player_name]." She paused. "Sleep."
 
 "You too," [player_name] said.
 
@@ -147,7 +149,9 @@ Brooks went out into the rain. Rhea didn't look up. [player_name] didn't look at
 
 She knew this elevator. She knew it with her body.
 
-Last month, after midnight, he had gotten in with her at the lobby. The doors had barely closed before he turned her to face this mirror. One hand flat on the glass beside her head. The other at her hip, then under her skirt, pulling her back against him. She'd watched in the mirror as his mouth moved down her neck. She'd watched her own face when his fingers slid inside her underwear and found her wet. He'd stroked her, slow, all the way up, his breath hot at her ear, and when the doors opened on their floor she had been shaking, close, and he had taken his hand away and smiled at her in the glass and said, "Twelve steps."
+Last month, after midnight, he had gotten in with her at the lobby.
+
+The doors had barely closed before he turned her to face this mirror. One hand flat on the glass beside her head. The other at her hip, then under her skirt, pulling her back against him. She'd watched in the mirror as his mouth moved down her neck. She'd watched her own face when his fingers slid inside her underwear and found her wet. He'd stroked her slowly all the way up, his breath hot at her ear. When the doors opened on their floor she'd been shaking, close. He had taken his hand away, smiled at her in the glass, and said, "Twelve steps."
 
 She closed her eyes. Her nipples were hard. Her thighs pressed together. Her reflection in the mirror looked like a woman who had just been kissed, flushed and parted-lipped, and nobody had touched her at all.
 
@@ -163,9 +167,9 @@ Her floor. His floor. One button.
 
 She lifted her hand. Her thumb found it, the small raised number cool under her skin. She could feel her own pulse in the pad of her thumb, beating against the plastic.
 
-She held it there, light. Not pressing. Wanting him so much it hurt to breathe.`,
+She held it there, light. Not pressing. Wanting him so much it hurt to breathe. Up there was the badge question. Out there, forty minutes away, was a hangar.`,
   choices: [
-    { id: "scene5m", text: "Chase the private hangar route Rhea named", textHot: "Chase the private hangar route — take the road while your pulse still holds Rhea's inventory" },
-    { id: "scene5n", text: "Chase the holding-badge fragment from the freight bay", textHot: "Chase the holding-badge fragment — follow silence-as-deliverable into Nolan's world" }
+    { id: "scene5m", text: "Chase the private hangar route Rhea named", textHot: "Chase the private hangar route — take the road with Rhea's notebook still racing in your pulse" },
+    { id: "scene5n", text: "Chase the holding-badge fragment from the freight bay", textHot: "Chase the holding-badge fragment — follow 'the silence is the deliverable' into Nolan's world" }
   ]
 };
