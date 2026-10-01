@@ -98,7 +98,7 @@ He didn't move away. Neither did she. His breath was on her lips. Hers was on hi
 
 His fingers stayed under her jaw. She didn't turn her head. Not yet.
 
-Down the shaft, an elevator chimed, rising. His breath stayed on her lips, and she didn't step back.`,
+His thumb moved once along her jaw. A question. Her mouth answered before she did, parting against the corner of his, and she still didn't turn.`,
   textHot: `She took her hand off his chest. It cost her. "Answer it."
 
 Nolan picked up on the third buzz. Listened. "Thank you, Rhea." He laid the phone face down without looking at it, and his eyes never left her mouth.
@@ -157,7 +157,7 @@ The bag by his door. The idling car. The bottle opened and capped. She folded th
 
 "That's not in the statement either."
 
-He laughed low, against her throat. His thumb pressed through the thin cotton, one slow stroke right where she was aching, and her head knocked back against the glass. "Again. From the Tuesday."
+He laughed low, against her throat. His thumb pressed through the thin cotton, one slow stroke right where she was aching, and her head knocked back against the glass. "Again. Start over."
 
 She said it again. He touched her again. Each date a stroke. Each receipt a slow circle. Her hips started moving against his hand without her permission. The story got smoother in her mouth as the rest of her came apart. That frightened her. It also made her wetter.
 
@@ -199,7 +199,7 @@ He kissed the corner of her mouth. Just the corner. A seal.
 
 Her hips rocked once against his still hand. He made a sound in his chest like something breaking.
 
-Down the shaft, an elevator chimed, rising toward them, and she didn't take her hips away from his hand.`,
+"Don't decide yet," he breathed. His thumb pressed once, slow. The word she'd been about to say came out as his name instead.`,
   choices: [
     { id: "scene4a", text: "Seal the soft alibi with Nolan — stay as cover through the heat", textHot: "Seal the soft alibi — stay his cover, his mouth still unfinished on yours" },
     { id: "scene4b", text: "Call Pell — get a lawyer before Brooks records you", textHot: "Call Pell — put a lawyer between your want and Brooks's badge" }

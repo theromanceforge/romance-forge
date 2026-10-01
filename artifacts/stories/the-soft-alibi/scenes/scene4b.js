@@ -2,13 +2,13 @@ export default {
   id: "scene4b",
   layer: 4,
   title: "Lawyer the Night",
-  text: `The elevator chime was still in the air when [player_name] stepped back from Nolan and picked up the house phone.
+  text: `His breath was still on her mouth when [player_name] stepped back from Nolan and picked up the house phone.
 
 He didn't stop her. He'd said he wouldn't. He watched her press the button for the front desk and say, "Rhea, connect me to Mr. Pell, please," in a voice that didn't shake. His cufflinks went completely still.
 
 Still was worse than a click. A click was a lie. Still was a man deciding what to do with his hands.
 
-Marcus Pell answered on the second ring like he'd been holding the phone. "Ms. [player_name]."
+Marcus Pell answered on the second ring like he'd been holding the phone. "[player_name]."
 
 "Brooks wants neighbor interviews before midnight," [player_name] said.
 
@@ -97,7 +97,7 @@ Nolan's thumb traced one slow line across the inside of her wrist, right over he
 Pell's footsteps started back toward them.
 
 Neither of them let go.`,
-  textHot: `The chime was still humming in her teeth when [player_name] pulled away from his still hand and picked up the house phone.
+  textHot: `His name was still in her mouth when [player_name] pulled away from his still hand and picked up the house phone.
 
 Her body screamed at her. She'd been right at the edge of something against that glass, wet and open and rocking, and now cold air hit everywhere he'd been. Her underwear clung. Her thighs shook. She pressed the front desk button anyway.
 
@@ -105,7 +105,7 @@ Her body screamed at her. She'd been right at the edge of something against that
 
 Behind her, Nolan's cufflinks went silent. Not a click. Nothing. She felt the silence on the back of her neck.
 
-Pell picked up on the second ring. "Ms. [player_name]."
+Pell picked up on the second ring. "[player_name]."
 
 "Brooks wants neighbor interviews before midnight," [player_name] said.
 
@@ -121,7 +121,7 @@ She'd confessed with her hips a hundred times. In her bed. On his couch. Once in
 
 She hung up. Her hand was trembling on the receiver.
 
-Nolan stood at the window with his back to her. His shirt was still half open from her fingers. She could see the line of his spine through the fabric. She wanted her hands on it.
+Nolan stood at the window with his back to her. His left cuff was still shoved up his forearm where she'd gripped his wrist. She could see the line of his spine through the fabric. She wanted her hands on it.
 
 "You called him," he said.
 
@@ -131,7 +131,7 @@ Nolan stood at the window with his back to her. His shirt was still half open fr
 
 "It feels like I'm not going to be your only soft surface," she said. Her voice was rough. Her body was still arguing with every word. "Brooks records neighbors. Pell records exits."
 
-"Pell records silence." He turned then. His face was calm. His eyes went over her: flushed throat, dress buttoned wrong, bare feet. "There's a difference between silence and you deciding my mouth isn't safe on you tonight."
+"Pell records silence." He turned then. His face was calm. His eyes went over her: flushed throat, silk twisted at her hip where his hand had gathered it, bare feet. "There's a difference between silence and you deciding my mouth isn't safe on you tonight."
 
 "I didn't decide that."
 
@@ -149,7 +149,7 @@ They waited. He poured a glass he didn't drink. She sat on the arm of the couch 
 
 Eleven minutes after the call the private car chimed. Pell didn't knock. Pell had a key.
 
-Rain and paper. Silver hair. Gray coat. A slim leather folio. His eyes did one pass of the room and caught everything. The rings on the marble. Her mis-buttoned dress, the color still high on her chest. Nolan's hands, fisted at his sides. Pell didn't smile. He didn't need to.
+Rain and paper. Silver hair. Gray coat. A slim leather folio. His eyes did one pass of the room and caught everything. The rings on the marble. The crooked hem of her dress, the color still high on her chest. Nolan's hands, fisted at his sides. Pell didn't smile. He didn't need to.
 
 "Brooks stays missing-persons," he said, "if the neighbor interview stays controlled." He set the folio on the table. "Controlled means drip. I'm present. What you saw comes out in pieces, in my order."
 
@@ -165,11 +165,11 @@ Nolan laughed once. Ugly. "Tell her the rest, Marcus."
 
 Pell didn't look at him. "Which is exactly why it stays out of the statement."
 
-Her face burned. Her nipples were still tight against the silk. Her body hadn't caught up. Her body was still standing at the window with his fingers inside her.
+Her face burned. Her nipples were still tight against the silk. Her body hadn't caught up. Her body was still pressed to the window with his hand between her legs.
 
-"You've buttoned that wrong," Pell said to her, mildly. "Fix it before the detective comes up."
+"Your hem," Pell said to her, mildly. "Fix it before the detective comes up."
 
-She did, with fingers that wouldn't work, one button at a time, under both men's eyes. Neither of them looked away. Her skin burned under every inch of it.
+She smoothed the silk down her thighs with hands that wouldn't work, under both men's eyes. Neither of them looked away. Her skin burned under every inch of it.
 
 Pell opened the folio. One typed page. A pen. "A statement of the general nature of your acquaintance. Very boring. That's the point. We can adjust the adjectives."
 

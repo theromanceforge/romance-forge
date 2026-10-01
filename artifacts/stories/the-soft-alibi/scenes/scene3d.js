@@ -185,7 +185,7 @@ Rhea's fingers whitened around the little key.
 
 The key slid halfway out of the cuff.`,
   choices: [
-    { id: "scene4g", text: "Pull the black-car nights from Rhea — learn which idles had no Vivienne", textHot: "Pull the black-car nights from Rhea while your pulse is still loud" },
+    { id: "scene4g", text: "Get Rhea to open the drawer — learn where the black car goes without Vivienne", textHot: "Get Rhea to open the drawer, your pulse still loud — follow the black car past the curb" },
     { id: "scene4h", text: "Push until Rhea clams up — let Brooks lean on your door", textHot: "Push until Rhea clams up — let Brooks lean on you, Nolan still waiting upstairs" }
   ]
 };

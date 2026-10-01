@@ -96,9 +96,7 @@ She closed her eyes. Her hand stayed on the key.
 
 He put one palm flat on her door, beside her head. Not on her. On the wood. Close enough that his sleeve brushed her hair.
 
-Down the hall, the elevator chimed.
-
-She didn't turn the key. She didn't turn around.`,
+She didn't turn the key. She didn't turn around. She let herself lean back one inch, until her shoulder blades just touched his chest, and she stayed there.`,
   textHot: `"No," [player_name] said, against his mouth.
 
 The word cost her. It was like biting down on silk. Her lips had already parted. Her body had already started to rise. She put her heels back on the carpet and her palms flat against the wall behind her and made herself stay there.
@@ -197,9 +195,7 @@ He put one palm flat on her door beside her head. On the wood. His sleeve brushe
 
 Her mouth opened. Nothing came out.
 
-Down the hall, the elevator chimed.
-
-Her hand stayed on the key, and she didn't say no again.`,
+His thumb touched the back of her neck, once, the only place he let himself. Her hand stayed on the key, and she didn't say no again.`,
   choices: [
     { id: "scene5g", text: "Confront Nolan alone with the partial calendar truth", textHot: "Confront Nolan alone — the partial truth, the heat you refused still screaming" },
     { id: "scene5h", text: "Bring Nolan to Brooks's soft interview — tell the unredacted story", textHot: "Bring Nolan to Brooks's soft interview — the unredacted story, your want on a leash" }

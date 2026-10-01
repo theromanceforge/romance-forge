@@ -30,6 +30,19 @@ The romance is heat with a man who might have made his wife disappear. The myste
 | **Marcus Pell** | Nolan’s fixer/attorney; wants silence. NDAs, private planes, “she’s traveling.” |
 | **Rhea Quinn** | Building concierge / eyes who sees Vivienne’s thinning calendar. Knows which nights the black car idled and which nights it didn’t. |
 
+### Stated ages (**LOCKED** 2026-10-01, CEO Jake)
+
+Every character is an adult. No minor appears, is present, watches, is named or is remembered in any sexual or explicit moment (Warm or Hot), and no minor's objects appear in sex scenes.
+
+| Name | Age |
+|------|-----|
+| [player_name] | early 30s |
+| Nolan Greer | mid-40s |
+| Marcus Pell | about 60 |
+| Vivienne Greer | early 40s |
+| Detective Imani Brooks | about 40 |
+| Rhea Quinn | 30s |
+
 ---
 
 ## Setting — Crownspire
