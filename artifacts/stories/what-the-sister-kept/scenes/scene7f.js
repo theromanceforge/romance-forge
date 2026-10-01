@@ -4,98 +4,84 @@ export default {
   title: "Recording leaks toward the press",
   text: `The copy left Harborwick Precinct the way fog left the pier—without asking permission, already halfway to weather.
 
-[player_name] learned first from William Akers's face, not from a headline. Mid-thirties detective in the stairwell between Records and the lot, cracked notebook shut hard enough that the spine complained, grey-green eyes flat with a fury that still somehow made the air warmer. Rain freckled the high glass. Burnt coffee ghosted up from the bullpen. Somewhere a foghorn rolled inland like a rumor with lungs. Renny's absence stood between them as if it had always been the third person on every recording.
+[player_name] learned first from Will's face, not from a headline. He stood in the stairwell between Records and the lot, notebook shut so hard the spine complained, eyes flat with a fury that still somehow made the air warmer. Rain freckled the high glass. Burnt coffee drifted up from the bullpen. A foghorn rolled inland like a rumor with lungs. Renny's absence stood between them as if it had always been the third person on every recording.
 
-"Someone walked your raw admission," Will said. Soft. Not gentle. Soft was the sharper knife. "Not the whole file. Enough syllables. Owen Vale at the festival pier. Jacketed companion. Omission admitted. Timing leaning on Cho's pending language without naming Renny among the dead. A tip line already lit. A Harborwick tip-sheet site drafting a headline that uses *sister* and *stepfather* and *cold case* in the same breath. Ellison is upstairs turning purple. Internal ears are inventing hobbies for me. The press is not waiting for science."
+"Someone walked your raw admission," Will said. Soft. Not gentle. Soft was the sharper knife. "Not the whole file. Enough syllables. Owen Vale at the festival pier. A jacketed companion. The omission admitted. Timing leaning on Cho's pending language without naming Renny among the dead. A tip line already lit. A Harborwick tip-sheet site drafting a headline that uses sister and stepfather and cold case in the same breath. Ellison is upstairs turning purple. Internal is inventing hobbies for me. The press isn't waiting for science."
 
-[player_name] was mid-twenties and tasting copper. Dr. Lila Cho's words still ruled the upriver remains—*unidentified*, *pending*, *consistent with*. The silver charm still only *like*. Hope and dread shared the stairwell like co-counsel who had just been handed a microphone. A leak did not christen bone. It only taught the city a stepfather's name while a teenager's fate stayed contested on purpose.
+[player_name] tasted blood. Cho's words still ruled the upriver remains: unidentified, pending, consistent with. A leak didn't christen bone. It only taught the city a stepfather's name while a teenager's fate stayed open.
 
 "How?" she asked.
 
-"Harborwick leaks," Will said. "Records denials have half-lives. Someone asked. Someone sold. Someone forwarded a waveform because cruelty is a sport here." His cracked knuckles whitened on the rail. When Captain Mara Ellison had said *partner* wrong last week, he had touched his ribs like checking a bruise that never yellowed. He did not dump it into the stairwell. He let the silence bruise, then spoke with the allergy to lies that made his brutal charm feel like both weapon and wound. "I cannot put the copy back in the bottle. I can choose the next weather with you before the city chooses it for us."
+"Harborwick leaks," Will said. "Records denials have half-lives. Someone asked. Someone sold. Someone forwarded a waveform because cruelty is a sport here." His knuckles whitened on the rail. When Ellison had said partner wrong last week, he'd touched his ribs like checking a bruise that never yellowed. He didn't bring it into the stairwell. He let the silence bruise, then spoke. "I can't put the copy back in the bottle. I can choose the next weather with you, before the city chooses it for us."
 
-Attraction pressed under the procedural pressure anyway—soap, salt, scrubbed-dark past filling the narrow stair when he stepped down one tread so they were eye-level. Mid-thirties attention on mid-twenties throat. Close enough to burn. Far enough that the badge still felt like a different country. Trust was the real plot. Trust was currently being rewritten by strangers with bylines.
+He stepped down one tread so they were eye level, and soap and salt filled the narrow stair. Attraction pressed in anyway, under all of it. Strangers with bylines were busy rewriting whether she could trust him.
 
-Ellison appeared at the landing above them like weather with a badge. Charcoal blazer. CLEARANCE mug abandoned somewhere that still steamed in [player_name]'s memory. "The recording is walking," she said. No greeting. "You two will not hide in stairwells and call it strategy. Public weather is here. You have two useful verbs left before the tip-sheet finishes your sentence for you."
+Ellison appeared at the landing above them like weather with a badge. "The recording is walking," she said. No greeting. "You two won't hide in stairwells and call it strategy. Public weather is here. You have two useful moves left before the tip-sheet finishes your sentence for you."
 
 Will did not look up. "Say them."
 
-"Hold Renny as the only name," Ellison said. "Starve the press of chain-gossip. Keep the story a family reckoning—one missing teenager, one stepfather on a pier, one sister who finally spoke—while Cho's unidentified language still protects hope from becoming a funeral headline. Or endgame the warehouse: move on the clerk Renny pointed at before the generators and the red door become tip-sheet mythology. Catch the living link while the leak is still a wave and not a verdict. Both spend your mouth. Neither confirms the bones are Renny. I will not let this city bury a maybe because a copy got lonely."
+"Hold Renny as the only name," Ellison said. "Starve the press of chain gossip. Keep the story a family reckoning: one missing teenager, one stepfather on a pier, one sister who finally spoke, while Cho's language still protects hope from becoming a funeral headline. Or endgame the warehouse: move on the clerk Renny pointed at before the generators and the red door become tip-sheet mythology. Catch the living link while the leak is still a wave and not a verdict. Neither confirms the bones are Renny. I won't let this city bury a maybe because a copy got lonely."
 
-[player_name] thought of Renny's hoodie folded in a drawer, of the bracelet's missing tooth, of Owen's butter-porch lies and the jacketed silhouette she still could not invent a face for. She thought of the warehouse east of the old fish auction—cold-storage row, blood-rust maybes, silver fragments that rhymed without baptizing. Holding Renny as the only name meant riding public weather as a sister, not as a tipster for Harborwick's entire quiet. Endgaming the warehouse meant spending the leak as cover fire for a breach—clerk, chain, the mid-level desperation someone had needed a teenager silent about—while science still refused a hard ID.
+[player_name] thought of Renny's hoodie folded in a drawer, the bracelet's missing tooth, Owen's butter-porch lies and the jacketed silhouette she still couldn't give a face. She thought of the warehouse east of the old fish auction: cold-storage row, rust-colored maybes, silver fragments that rhymed without proving anything. Holding Renny as the only name meant riding public weather as a sister, not as a tipster for Harborwick's entire quiet. Endgaming the warehouse meant spending the leak as cover fire for a breach while science still refused a hard ID.
 
-Will's pen—when had he opened the notebook?—tapped once. "If we hold the name, we manage the press. Statements. No second-victim parade. Owen becomes the face the city wants to hate, and Renny stays a missing girl with hope still legal. If we endgame the warehouse, we use the noise as distraction, go for the clerk before he reads the tip-sheet and burns what Renny mapped. Ugly either way. Fast either way. Your sister. Your voice on that tape. Your call."
+Will's pen tapped once. When had he opened the notebook? "If we hold the name, we manage the press. Statements. No second-victim parade. Owen becomes the face the city wants to hate, and Renny stays a missing girl with hope still legal. If we endgame the warehouse, we use the noise as a distraction and go for the clerk before he reads the tip-sheet and burns what Renny mapped. Ugly either way. Fast either way. Your sister. Your voice on that tape. Your call."
 
-Rain thickened. The stairwell smelled like wet wool and burnt coffee and the particular nothing of fluorescent light on fear. [player_name]'s palms left damp prints on the rail. Seven years of practice silence had become a waveform with feet. The kept secret had partly broken on record; the leak had finished the breaking in public. What remained was scope under floodlights: one name held tight, or a warehouse endgame that might catch a clerk while Renny's fate still argued between hope and dread.
+Rain thickened. The stairwell smelled like wet wool and burnt coffee and fluorescent light on fear. [player_name]'s palms left damp prints on the rail. Seven years of silence had become a waveform with feet. The secret had partly broken on record; the leak had finished the breaking in public.
 
-"Internal will ask if you leaked it to force my hand," Ellison added, eyes on Will. Soft. Dangerous. "his sealed-file flinch questions. Early-push questions. I will answer what I can. Do not gift them a hallway rhyme by going cowboy without a verb I can defend."
+"Internal will ask if you leaked it to force my hand," Ellison added, eyes on Will. Soft. Dangerous. "Early-push questions. I'll answer what I can. Don't gift them a hallway rhyme by going cowboy without a plan I can defend."
 
-Will's flinch was small and old and then gone—buried teeth, brutal patience. "We are not cowboying. We are choosing an audience for a file that already has a pulse."
+Will's flinch was small and old and then gone. "We're not cowboying. We're choosing an audience for a file that already has a pulse."
 
-[player_name] looked from Ellison's landing to Will's mouth to the rain-freckled glass that held pier fog like a soft fist. Attraction and grief braided until she could not tell if she wanted his hand for comfort or for the kind of unfinished heat that made stairwells into almost-rooms. He did not touch her. The not-touching felt louder than contact. Remains unnamed upriver. Charm still probability. Owen's costume dying in public syllables. A clerk somewhere east of the fish auction who might still have a pulse and a shredder.
+[player_name] looked from Ellison's landing to Will's mouth to the rain-freckled glass. Attraction and grief braided until she couldn't tell if she wanted his hand for comfort or for the kind of heat that turned stairwells into almost-rooms. He didn't touch her. The not-touching felt louder than contact.
 
-"If I hold Renny as the only name," [player_name] said, voice sandpaper, "I ride the leak as her sister. I do not feed the city a chain it will turn into a graveyard before Cho speaks. If I endgame the warehouse, I spend the leak as cover and go after the clerk she pointed at—catch the living link before rumor finishes the naming science refuses."
+"If I hold Renny as the only name," [player_name] said, voice rough, "I ride the leak as her sister. I don't feed the city a chain it'll turn into a graveyard before Cho speaks. If I endgame the warehouse, I spend the leak as cover and go after the clerk she pointed at. Catch the living link before rumor finishes the naming science refuses."
 
-"Both move," Will said. Brutal charm flickered velvet-wrong and banked. "Both keep hope on the table. Neither lets you put the red light back. Point of no return already walked out of Records in someone else's pocket. Choose the weather you can live inside."
+"Both move," Will said. "Both keep hope on the table. Neither puts the red light back. The point of no return already walked out of Records in someone else's pocket. Choose the weather you can live inside."
 
-Ellison descended one step, then another, until the three of them shared the same damp air. "Decide before the tip-sheet hits noon. Hold the name—or catch the clerk in the warehouse endgame. Akers digs either way. I manage either way. Your sister's night does not get to be unfinished gossip without a verb attached."
+Ellison came down one step, then another, until the three of them shared the same damp air. "Decide before the tip-sheet hits at noon. Akers digs either way. I manage either way. Your sister's night doesn't get to be unfinished gossip."
 
-A vendor truck idled somewhere beyond the lot fence, diesel coughing like a nervous witness. [player_name] remembered Marta the carnival vendor's half-heard warehouse geography, Renny's teenage Xs, the way Owen's late nights had never matched the bleach-clean story he carved into family dinners. Public weather would flatten all of that into a single cruel noun if she let it. Holding Renny as the only name was not smallness—it was refusing to let Harborwick turn one missing girl into a content farm before Cho finished speaking. Endgaming the warehouse was not abandonment—it was spending the leak's noise as a door while a clerk still had paper to burn and a pulse to catch.
+A vendor truck idled beyond the lot fence, diesel coughing like a nervous witness. [player_name] remembered Marta's half-heard warehouse geography, Renny's teenage Xs, Owen's late nights that never matched his bleach-clean story. Holding Renny as the only name wasn't smallness. It was refusing to let Harborwick turn one missing girl into a content farm. Endgaming the warehouse wasn't abandonment. It was using the leak's noise as a door while a clerk still had paper to burn.
 
-Will flipped a page though he wrote nothing. The notebook spine cracked. "Ellison will want a statement by noon either way. If we hold, you speak as sister: hope still legal, remains unidentified, Owen named, chain starved. If we endgame, you go quiet on camera and loud in the dark with me—red door, cold-storage, the clerk's initials Renny carried like a dare. I will not pretend I am only proud of you. I am also the man who wants you standing behind my shoulder when the warehouse hums, and the detective who knows wanting that is how sealed files get born."
+Will flipped a page, though he wrote nothing. "If we hold, you speak as her sister: hope still legal, remains unidentified, Owen named, chain starved. If we endgame, you go quiet on camera and loud in the dark with me. Red door, cold storage, the clerk's initials Renny carried like a dare. I won't pretend I'm only proud of you. I'm also the man who wants you behind my shoulder when the warehouse hums, and the detective who knows that wanting it is how sealed files get born."
 
-[player_name] tasted salt air leaking through the stairwell door. Seven years ago she had accepted a lullaby on a pier. The kept secret's remaining weight—letters, boxes, warmer scraps not yet spent—pressed under her sternum without asking to be emptied into a tip-sheet. Raw admission was not the same as emptying every pocket. The leak had stolen the pier night. The rest could still be spent as strategy.
+Salt air leaked through the stairwell door. The leak had stolen the pier night. The rest of what she kept could still be spent as strategy. Will waited. The next hour would either protect one name in the storm or put steel doors between rumor and evidence.`,
+  textHot: `The copy left Harborwick Precinct the way fog left the pier, without asking permission.
 
-Somewhere a copy of her recorded mouth was teaching the city Owen Vale's name. Will's pen hovered over a warehouse sketch that still lacked a clerk's face. Holding Renny as the only name meant riding the leak as grief-weather and refusing to feed cameras a second victim. Endgaming the warehouse meant catching the clerk before press ate the map—and risking that volume would invent a funeral Cho had not authorized. Stairwell damp clung to [player_name]'s coat. Will waited. The next hour would either protect one name in the storm or put steel doors between rumor and evidence.`,
-  textHot: `The copy left Harborwick Precinct the way fog left the pier—and the way [player_name]'s self-control left her body when William Akers looked at her like the leak was something he wanted to fuck out of the air between them.
+[player_name] learned first from Will's face. He stood in the stairwell between Records and the lot, notebook shut hard, eyes flat with fury. Rain freckled the glass.
 
-Rain freckled the glass. Burnt coffee. Foghorn. His soap-and-salt nearness filled the narrow space until her nipples peaked against cold cotton and she hated herself for noticing.
+"Someone walked your raw admission," he said, soft. "Owen at the pier. The companion. The omission. Tip line lit. A tip-sheet drafting. Ellison purple. Internal inventing hobbies for me."
 
-"Someone walked your raw admission," Will said, soft enough to feel like fingers on the inside of her wrist. "Owen at the pier. Companion. Omission. Tip line lit. Tip-sheet drafting. Ellison purple. Internal inventing hobbies for the detective who got hard listening to you tell the truth on a red light."
+"How?" she asked, voice rough.
 
-Heat flooded her face and the hinge of her thighs. Cho still said *unidentified*. Charm still only *like*. Hope and dread shared the stair with a third animal: want. A leak did not christen bone. It only made her wet with adrenaline while strangers prepared to eat her mouth for breakfast.
+"Harborwick leaks." His knuckles whitened on the rail. "I can't bottle the copy. I can choose the next weather with you." He stepped down one tread so they were eye level, his boot between her feet without touching. The not-touching was louder than a hand. She was furious, and frightened, and still she wanted him, and she hated that the adrenaline had gone straight to want.
 
-"How?" she asked, voice sandpaper.
+Ellison appeared at the landing like judgment in a blazer. "The recording is walking. You won't hide in stairwells and call it strategy. Two moves before the tip-sheet finishes your sentence."
 
-"Harborwick leaks." His cracked knuckles whitened on the rail. When Ellison said *partner* wrong, he flinched. The flinch tightened [player_name]'s nipples further; broken should not be this hot. He wore broken like cologne. "I cannot bottle the copy. I can choose the next weather with you—and if you keep looking at my mouth like that, I will choose a supply closet first and strategy second."
+Will didn't look up. His gaze stayed on [player_name]'s throat. "Say them."
 
-Attraction was blasphemy under a leak and it came anyway. He stepped down one tread; eye-level; boot between her feet without touching; the not-touching louder than a hand on her ass. Her clit throbbed once, humiliating. Trust on fire. Badge a different country. Public weather already writing their names.
-
-Ellison appeared at the landing like judgment with a blazer. "The recording is walking. You will not hide in stairwells and call it strategy—or whatever else you two call the way you smell. Public weather is here. Two verbs before the tip-sheet finishes your sentence."
-
-Will did not look up. His gaze stayed on [player_name]'s throat. "Say them."
-
-"Hold Renny as the only name," Ellison said. "Starve chain-gossip. Family reckoning only—one missing teenager, one stepfather, one sister who spoke—while Cho's unidentified language keeps hope from becoming a funeral headline. Or endgame the warehouse: catch the clerk Renny pointed at before the red door becomes mythology. Both spend your mouth. Neither confirms the bones. I will not let this city bury a maybe because a copy got lonely and Akers got stupid."
+"Hold Renny as the only name," Ellison said. "Starve the chain gossip. Family reckoning only, while Cho's language keeps hope from becoming a funeral headline. Or endgame the warehouse: catch the clerk Renny pointed at before the red door becomes mythology. Neither confirms the bones."
 
 [player_name] thought of Renny's hoodie, bracelet gap, warehouse blood-rust, silver maybes—hope with a throat, dread with teeth—while Will's pen tapped and his knee brushed her thigh on purpose.
 
-"If we hold the name," Will said, velvet for [player_name], steel for Ellison, "we manage the press and I manage you—statements by day, my hands by night if you can still stand honesty. If we endgame the warehouse, we use the noise as cover, go for the clerk before he shreds what Renny mapped, and you stay at my shoulder so I can feel whether grief makes you careful or soaked and reckless. Your sister. Your voice. Your call."
+"If we hold the name," Will said, steel for Ellison, softer for [player_name], "we manage the press. If we endgame the warehouse, we use the noise as cover and go for the clerk before he shreds what Renny mapped, and you stay at my shoulder."
 
-Rain thickened. [player_name]'s palms dampened the rail. Seven years had become a waveform with feet. Endgaming meant spending the leak as cover fire, breach heat, Will's body between her and dark steel while science still refused a hard ID.
+"Internal will ask if you leaked it," Ellison added, eyes on Will. "Don't gift them a hallway rhyme by going cowboy."
 
-"Internal will ask if you leaked it," Ellison added, eyes on Will. "his sealed-file flinch questions. Do not gift them a hallway rhyme by going cowboy with your cock leading."
+"We're choosing an audience for a file that already has a pulse," he said. Ellison went back up the stairs to make calls, and her footsteps faded.
 
-Will's flinch—small, old, gone—made [player_name]'s pussy clench empty. "We are choosing an audience for a file that already has a pulse," he said. Then, lower, for her alone: "Choose fast. I am already hard from watching you survive your own mouth in public. Hold the name and I will walk you through the press like a shield who wants to ruin you privately after. Endgame the warehouse and I will put you behind me at the red door and remind your body what catching a clerk feels like when adrenaline has nowhere to go but down."
+Then, lower, for [player_name] alone: "Choose fast. Watching you survive your own mouth in public undid me. Hold the name, and I walk you through the press like a shield, and later, if you want it, I take you somewhere with a lock. Endgame the warehouse, and I put you behind me at the red door, and after, we let the adrenaline go where it wants."
 
-Almost gave Ellison a waveform of a different kind. Mid-twenties. Soaked. Furious. Remains unnamed. Charm probability. Owen dying in public syllables. A clerk east of the fish auction with a shredder and a pulse.
+"If I hold Renny as the only name, I ride the leak as her sister," she said. "If I endgame the warehouse, I spend it as cover and catch the clerk she pointed at."
 
-"If I hold Renny as the only name," [player_name] said, "I ride the leak as her sister. If I endgame the warehouse, I spend the leak as cover and catch the clerk she pointed at."
+"Both move," Will said. "Neither bottles the red light. Choose the weather you can live inside."
 
-"Both move," Will said. Brutal charm velvet-wrong, banked, failing. "Both keep hope. Neither bottles the red light. Choose the weather you can come inside later without hating yourself."
+He pinned her lightly to the stairwell rail, mouth at her temple, the leak's static still buzzing in both their phones. "Tell me to stop."
 
-Ellison descended until the three shared damp air and the captain's nostrils flared as if she could smell want under wool. "Decide before noon. Hold the name—or catch the clerk. Akers digs either way. I manage either way. Your sister's night does not get to be unfinished gossip without a verb—and without you two remembering that fucking through a leak is still a sealed-file hobby."
+"Don't."
 
-She remembered Marta's warehouse geography, the Xs, Owen's bleach theater—public weather would flatten it all into cruelty if she let it. Endgaming meant Will's shoulder, red door, adrenaline with nowhere to go but down into the place already soaked for him.
+His palm flattened on her stomach under her coat, heat sliding lower, stopping short on purpose. She was slick from adrenaline and his nearness. He kissed her once, hard, the fury going out of him into her mouth, and she gripped his collar and kissed him back. Then he eased away an inch, breathing wrong.
 
-He flipped a blank page. Spine cracked. "Ellison wants noon either way. Hold and you speak as sister while I stand behind you wanting to put my hand in your coat where cameras cannot see. Endgame and you go quiet on camera and loud in the dark with me—clerk, cold-storage, my mouth on your neck for one second if we live through the breach. I am not only proud. I am hard. I am the sealed-file risk Ellison smells. Choose before I choose for my cock and call it strategy."
-
-[player_name] tasted salt and copper and unfinished fuck. The leak had stolen her pier night for strangers. The rest of what she kept could still be spent as heat under a badge—or as a blade held to one name only. Her cunt ached with the decision like it was a touch. Mid-twenties. Mid-thirties watching. Captain above them counting liabilities and flushed throats.
-
-She pictured the tip-sheet's noon hit the way she pictured Will's mouth: inevitable, wet, ruinous. Endgaming the warehouse meant trading spectacle for steel—catching a clerk while her body still hummed from stairwell almost-touch, while Cho still refused to christen bone, while Owen's public naming became cover fire instead of a funeral. Either path left her soaked and choosing. Either path left Will watching her like honesty was a kink he could not quit.
-
-Ellison cleared her throat like a gavel. [player_name] did not look away from Will's mouth. She wanted to kiss the fury off him in front of a captain and a leaking city. She wanted his fingers. She wanted dawn at a red door. She wanted science to stay slower than rumor just long enough for hope to breathe. The leak had made every want louder. Noon was coming whether her cunt settled or not.
-
-Will pinned her lightly to the stairwell rail, mouth at her temple, recording-leak static still in both their phones. His palm flattened on her stomach under her coat—heat sliding lower, stopping short of her clit on purpose. She was slick from adrenaline and his nearness. Ruin and rescue shared a pulse.`,
+Below them a door banged. The bullpen's phones were ringing. Noon was coming, whether either of them was steady or not.`,
   choices: [
     { id: "scene8f", text: "Hold Renny as the only name", textHot: "Hold Renny as the only name" },
     { id: "scene8g", text: "Endgame the warehouse — catch the clerk", textHot: "Endgame the warehouse — catch the clerk" }
