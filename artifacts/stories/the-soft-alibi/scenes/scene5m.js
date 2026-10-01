@@ -4,7 +4,7 @@ export default {
   title: "Private Hangar",
   text: `She took her thumb off the button.
 
-The doors opened again on the lobby. She walked out past the desk without looking at Rhea, through the revolving door, into the rain, and raised her hand for the first cab that came down the street.
+The doors opened again on the lobby. She walked out past the desk without looking at Rhea and went through the revolving door into the rain. She raised her hand for the first cab that came down the street.
 
 "Kessler Field," she said. "The private side."
 
@@ -66,9 +66,9 @@ She knew what she was looking at, and she didn't. A suitcase packed and never ta
 
 Brooks's card was in her coat pocket. She took it out and turned it over. Missing Persons. A phone number.
 
-She could stand here and tell it to a recorder. Say what she saw, with the date and the time and the guard's words, and send it to the one person who would never be able to un-hear it. That would be the end of soft. That would be the end of a lot of things.
+She could stand here and tell it to a recorder. Say what she saw, with the date and the time and the guard's words. Send it to the one person who would never be able to un-hear it. That would be the end of soft. That would be the end of a lot of things.
 
-Or she could get back in the cab. Not go home. Not go to the lobby. Just go, somewhere neither of them would think to look, and let the hangar keep its secret one more night, and let him wonder where she was for once.
+Or she could get back in the cab. Not go home. Not go to the lobby. Just go, somewhere neither of them would think to look. Let the hangar keep its secret one more night, and let him wonder where she was for once.
 
 She opened the voice memo on her phone. The red button sat there, waiting.
 
@@ -78,11 +78,13 @@ They turned in off the highway, slowed, and came toward the gate. Not a cab. A d
 
 The driver's door opened. Nolan got out into the rain without a coat.
 
-He didn't come toward her. He stood by the car with one hand on the open door, looking at her across thirty feet of wet asphalt, and she saw his chest rising and falling as if he'd run the whole forty minutes.
+He didn't come toward her. He stood by the car with one hand on the open door, looking at her across thirty feet of wet asphalt. She saw his chest rising and falling as if he'd run the whole forty minutes.
 
 "Don't," he called. Not an order. His voice cracked on it.
 
-She stood at the fence with the phone glowing in her hand and the red button bright on the screen, the suitcase still glowing in the gap behind her, and watched him not come closer. She wanted him to. She wanted him to stay exactly where he was. She didn't move.`,
+She stood at the fence with the phone glowing in her hand and the red button bright on the screen. The suitcase still glowed in the gap behind her. She watched him not come closer. She wanted him to. She wanted him to stay exactly where he was. She didn't move.
+
+The red button, and the end of soft. Or the cab, and the dark road, and him left standing at the gate.`,
   textHot: `She took her thumb off the button.
 
 The doors opened on the lobby again. She walked out past Rhea without looking, through the revolving door into the rain, and hailed the first cab.
@@ -91,7 +93,7 @@ The doors opened on the lobby again. She walked out past Rhea without looking, t
 
 The driver glanced at her in the mirror. Silk dress, thin coat, half past one in the morning. He didn't ask.
 
-She sat in the back with her knees together and her body still humming. The elevator mirror was still on her skin. The memory of his fingers inside her, his breath at her ear, the doors opening on their floor and him saying twelve steps. She pressed her palm flat against her own thigh through the silk and stared out at the wet highway and tried to think about anything else.
+She sat in the back with her knees together and her body still humming. The elevator mirror was still on her skin. The memory of his fingers inside her, his breath at her ear, the doors opening on their floor and him saying twelve steps. She pressed her palm flat against her own thigh through the silk. She stared out at the wet highway and tried to think about anything else.
 
 Thirty-eight minutes. Towers gave way to warehouses, and warehouses to trees, and the sodium lights went by overhead one after another like a slow pulse.
 
@@ -115,7 +117,7 @@ She walked the fence until she found it. The ninth hangar, bigger than the rest,
 
 Through it: the white flank of a small jet. The long black body of a town car, nose-in. And under a single work light, a steel bench with a suitcase on it. Open. Pale leather. On top of the folded clothes, a square glass bottle with a black cap.
 
-She pressed her face to the cold wire. She knew that bottle. Its twin stood full and untouched on the marble in his bath. She'd stood naked in front of that marble with his mouth on the back of her neck and his hands on her breasts, and looked at that bottle in the mirror, and not once asked why it was still there.
+She pressed her face to the cold wire. She knew that bottle. Its twin stood full and untouched on the marble in his bath. She'd stood naked in front of that marble with his mouth on the back of her neck and his hands on her breasts. She'd looked at that bottle in the mirror and not once asked why it was still there.
 
 Her stomach turned. Her body didn't stop wanting him. That was the part that made her sick. Out on the field a red light blinked, went dark, blinked again, and she counted it without meaning to, the way she counted steps.
 
@@ -153,15 +155,17 @@ Nolan got out into the rain without a coat. His shirt went dark at the shoulders
 
 "Don't," he called. His voice cracked.
 
-She could see the rain soaking through his shirt, the shape of his chest under it. She could remember exactly how that chest felt under her palms, hot and damp, the night he came to her door wet from the rain and she'd peeled the shirt off him in the hall. Her nipples went hard under the thin coat. Her thighs pressed together.
+She could see the rain soaking through his shirt, the shape of his chest under it. She could remember exactly how that chest felt under her palms, hot and damp. It was the night he came to her door wet from the rain, and she'd peeled the shirt off him in the hall. Her nipples went hard under the thin coat. Her thighs pressed together.
 
 She hated him a little. She wanted him on her, right now, against the wet fence, his hand over her mouth.
 
 "Please," Nolan said. Quieter. The rain almost took it.
 
-She stood at the fence with the phone bright in her hand and the red button waiting, the suitcase glowing in the gap behind her, her whole body aching across thirty feet of wet asphalt toward a man who didn't take a single step, and she didn't move either.`,
+She stood at the fence with the phone bright in her hand and the red button waiting, the suitcase glowing in the gap behind her. Her whole body ached across thirty feet of wet asphalt toward a man who didn't take a single step. She didn't move either.
+
+Press record with her voice shaking, and end soft for good. Or walk past him to the cab, still aching, and make him follow.`,
   choices: [
-    { id: "scene6f", text: "Record the hangar truth for Brooks — point of no return", textHot: "Record the hangar truth for Brooks — point of no return with your voice shaking and your body still loud" },
-    { id: "scene6p", text: "Walk away from hangar and lobby both", textHot: "Walk away from hangar and lobby both — leave wet with unspent heat and make him chase" }
+    { id: "scene6f", text: "Record the hangar truth for Brooks — point of no return", textHot: "Record the hangar truth for Brooks — no turning back, your voice shaking and your body still loud" },
+    { id: "scene6p", text: "Walk away from the hangar and the lobby both", textHot: "Walk away from the hangar and the lobby both — leave wet and unspent, and make him chase" }
   ]
 };

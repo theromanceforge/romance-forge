@@ -4,7 +4,7 @@ export default {
   title: "Sandbagging",
   text: `She didn't take the ninth step that night.
 
-She said good night to him from eight, and went back across the hall, and lay awake until the window went gray. At a quarter to nine she put on a dark dress and flat shoes and went down to the lobby, because Brooks had said nine a.m. and she was done being somewhere else when Brooks arrived.
+She said good night to him from eight and went back across the hall. She lay awake until the window went gray. At a quarter to nine she put on a dark dress and flat shoes and went down to the lobby. Brooks had said nine a.m., and she was done being somewhere else when Brooks arrived.
 
 The lobby circle was a ring of low leather chairs around a marble table in the middle of the floor, under the big chandelier. Residents waited there for cars. Nobody ever sat there long. [player_name] sat in it and waited.
 
@@ -68,7 +68,7 @@ Nolan came across the marble in a dark suit, shaved, composed, every inch the ma
 
 "It's your lobby," Brooks said.
 
-He didn't sit. He came around the circle and stood behind [player_name]'s chair. She felt him there. Then his hand settled lightly against the small of her back, over the dark wool of her dress, the way a man touches a woman he means to stand beside.
+He didn't sit. He came around the circle and stood behind [player_name]'s chair. She felt him there. Then his hand settled lightly against the small of her back, over the dark wool of her dress. It was the way a man touches a woman he means to stand beside.
 
 In the middle of the lobby. In front of Brooks. In front of Rhea and the doorman and the morning residents waiting for their cars.
 
@@ -76,16 +76,18 @@ Brooks watched it happen. She didn't write anything down. She didn't need to.
 
 [player_name] could have stood up. One movement and his hand would fall away and the whole lobby would see it fall.
 
-She didn't stand. She sat very straight with his palm warm against her spine and Brooks's eyes on her face, and she reached back without looking and closed her fingers around his wrist, and held his hand where it was.`,
+She didn't stand. She sat very straight with his palm warm against her spine and Brooks's eyes on her face. She reached back without looking, closed her fingers around his wrist, and held his hand where it was.
+
+Stand with him in public, and let Rasmussen's podium see it. Or walk out, and make him come after her.`,
   textHot: `She followed him in.
 
-He had her against the inside of his door before it finished closing. Her dress up around her waist, his mouth on her throat, his fingers inside her, and then him, hard and slow, her legs around his hips and her shoulders hitting the wood with every thrust. She came with her teeth in his shoulder so she wouldn't scream. Later, in his bed, he did it again, slower, and she fell asleep with him still holding her.
+He had her against the inside of his door before it finished closing. Her dress up around her waist, his mouth on her throat, his fingers inside her. Then him, hard and slow, her legs around his hips and her shoulders hitting the wood with every thrust. She came with her teeth in his shoulder so she wouldn't scream. Later, in his bed, he did it again, slower, and she fell asleep with him still holding her.
 
 At four she slid out from under his arm without waking him and dressed in the dark and walked the twelve steps home. She didn't sleep after.
 
 At a quarter to nine she went down to the lobby in a dark dress and flat shoes. She was sore. Every step reminded her. Good.
 
-The lobby circle was a ring of low leather chairs around a marble table under the chandelier. She sat and waited. Residents waited here for cars. Nobody ever sat long. Every time she shifted in the leather she felt him, the soreness, the memory of his weight, and every time she let herself feel it on purpose.
+The lobby circle was a ring of low leather chairs around a marble table under the chandelier. She sat and waited. Residents waited here for cars. Nobody ever sat long. Every time she shifted in the leather she felt him: the soreness, the memory of his weight. Every time, she let herself feel it on purpose.
 
 Brooks came through the revolving door at nine exactly, rain on her coat, a paper cup of coffee in her hand. Same coat as last night. She looked like she hadn't slept either.
 
@@ -147,15 +149,17 @@ Everyone in the lobby could see his hand. Rhea. The doorman. A woman in a camel 
 
 [player_name] stood up.
 
-His hand didn't fall away. It stayed at her back as she rose, and she turned into him, not away, until her shoulder was against his chest and her hip was against his thigh and his hand had slid around to rest on her waist. In public. In daylight. In front of the detective.
+His hand didn't fall away. It stayed at her back as she rose. She turned into him, not away. Her shoulder came against his chest and her hip against his thigh, and his hand slid around to rest on her waist. In public. In daylight. In front of the detective.
 
 She heard him breathe in, sharp, close to her ear. She felt him go hard against her hip, just slightly, through the suit.
 
 "Careful," he murmured, too low for anyone else.
 
-She didn't answer. She stayed pressed against his side with his hand tightening on her waist and Brooks's eyes moving slowly from his face to hers, and she let him feel her lean in.`,
+She didn't answer. She stayed pressed against his side with his hand tightening on her waist and Brooks's eyes moving slowly from his face to hers. She let him feel her lean in.
+
+Stand with him like this, in daylight, and make it strategy. Or walk out sore and wanting, and make him chase her.`,
   choices: [
-    { id: "scene6o", text: "Shield Nolan from Brooks's politics", textHot: "Shield Nolan from Brooks's politics — step into him in public as desire wearing strategy" },
-    { id: "scene6p", text: "Walk out — make Nolan chase the silence and you", textHot: "Walk out — make Nolan chase the silence and you while your body still aches toward him" }
+    { id: "scene6o", text: "Shield Nolan from the lieutenant's politics", textHot: "Shield Nolan from the lieutenant's politics — step into him in public, desire dressed as strategy" },
+    { id: "scene6p", text: "Walk out — make Nolan chase you and the silence", textHot: "Walk out — make Nolan chase you and the silence, your body still aching toward him" }
   ]
 };

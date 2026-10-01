@@ -108,7 +108,9 @@ She wanted to stand up and walk out. She wanted to put her hand on his thigh und
 
 Through the glass, Brooks turned at the revolving door, still talking, and looked straight at them.
 
-[player_name] didn't move her knee away. She sat very still with the warmth of him pressed against her under the table and Brooks's eyes on her face, and she let him feel that she was still there.`,
+[player_name] didn't move her knee away. She sat very still with the warmth of him pressed against her under the table and Brooks's eyes on her face. She let him feel that she was still there.
+
+The ash in the grate, or the fight upstairs. Brooks would want her answer when she came back through that door.`,
   textHot: `She didn't turn the key. She turned around, and her breasts brushed his chest, and she felt him breathe in.
 
 "Come downstairs with me," [player_name] said. "Tell her what you told me. Without Pell."
@@ -147,7 +149,7 @@ His knee stayed against hers the whole time. Warm. Heavy. She could feel the mus
 
 She was remembering it as she said it. October, his mouth on her throat against her own front door. December, his cold hands under her shirt, on her bare breasts, warming there. Her body remembered it too. Heat slid down through her and settled, and under the table his knee pressed harder, as if he knew.
 
-"Thank you," Brooks said. "First straight answer in this building." Back to Nolan. "The hotel holds. Your counsel filed them. On whose authority?"
+"Thank you," Brooks said. "First straight answer in this building." She turned back to Nolan. "The hotel holds. Your counsel filed them. On whose authority?"
 
 His knee went tense against hers.
 
@@ -171,7 +173,7 @@ His knee went tense against hers.
 
 Her phone rang. "My lieutenant," she said, standing. "Two minutes. Don't leave."
 
-She walked out toward the revolving door. The glass room went very quiet. The dead plant. Last year's calendar on the wall. [player_name] could hear her own pulse, and his breathing beside her, slower than hers, controlled, the way it was right before he lost control.
+She walked out toward the revolving door. The glass room went very quiet. The dead plant. Last year's calendar on the wall. [player_name] could hear her own pulse. Beside her, his breathing was slower than hers, controlled, the way it was right before he lost control.
 
 "You signed them," [player_name] said, very low.
 
@@ -199,9 +201,11 @@ She wanted to walk out. She wanted to grab his wrist and pull his hand higher.
 
 At the revolving door Brooks turned, phone still at her ear, and looked straight at them through the glass.
 
-[player_name] didn't close her knees. She sat very still with his hand burning on her thigh under the table and Brooks's eyes on her face, and let his thumb keep moving.`,
+[player_name] didn't close her knees. She sat very still with his hand burning on her thigh under the table and Brooks's eyes on her face. She let his thumb keep moving.
+
+The ash in Rhea's grate, or the fight upstairs with his hand still on her. She'd have to choose before Brooks came back through the glass.`,
   choices: [
-    { id: "scene6k", text: "Trace the burned log ash — forensics from Rhea's grate", textHot: "Trace the burned log ash — forensics from Rhea's grate while his knee still burns under the table" },
-    { id: "scene6l", text: "Break open or break up with Nolan over the obstruction", textHot: "Break open or break up with Nolan over the obstruction — silence at your throat across the hall" }
+    { id: "scene6k", text: "Trace the burned-log ash in Rhea's grate with Brooks", textHot: "Trace the burned-log ash in Rhea's grate with Brooks, his knee still burning under the table" },
+    { id: "scene6l", text: "Have it out with Nolan upstairs — break open or break up", textHot: "Have it out with Nolan across the hall — break open or break up, the silence tight at your throat" }
   ]
 };

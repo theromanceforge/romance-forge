@@ -4,7 +4,7 @@ export default {
   title: "Partial Calendar Truth",
   text: `She turned the key.
 
-The door swung in and she went through it without looking back, and she heard him follow, and she heard the lock catch behind them both. Her apartment was dark except for the street. She didn't turn on a lamp.
+The door swung in and she went through it without looking back. She heard him follow, and she heard the lock catch behind them both. Her apartment was dark except for the street. She didn't turn on a lamp.
 
 "You don't get to stand behind me," she said. "Not for this."
 
@@ -12,7 +12,7 @@ Nolan stood just inside the door. "Then where do you want me?"
 
 "Where I can see your face," [player_name] said.
 
-He came into the middle of the room. The streetlight caught the scar along his jaw and left his eyes in shadow. She stood by the marble table with her hands flat on it, because if she didn't hold on to something she was going to hold on to him.
+He came into the middle of the room. The streetlight caught the scar along his jaw and left his eyes in shadow. She stood by the marble table with her hands flat on it. If she didn't hold on to something, she was going to hold on to him.
 
 "Milan was real in the spring," [player_name] said. "You said so. The gallery off the Brera. Then Zurich. The Baur, the minibar nobody touched. A scarf receipt you never saw a scarf for. Three empty cars."
 
@@ -40,7 +40,7 @@ Nolan didn't move. He didn't look away.
 
 "Then give me the other half," [player_name] said.
 
-He breathed out slowly. He crossed to the window and stood with his back to the glass, so she could still see his face, which she understood was a kind of courtesy.
+He breathed out slowly. He crossed to the window and stood with his back to the glass. That way she could still see his face, which she understood was a kind of courtesy.
 
 "On the nights the car sat empty," he said, "I didn't send it. I want you to know that first. I didn't call it and I didn't cancel it."
 
@@ -66,11 +66,11 @@ Her phone lit on the table. Not a call from him. Not Pell. The front desk.
 
 She picked it up. "Rhea."
 
-"I'm sorry for the hour," Rhea Quinn said, low. Behind her voice the lobby was empty and too quiet. "Detective Brooks is in the building. She asked which floor you're on. I told her I'd have to check." A pause. "I'm out of reasons to check."
+"I'm sorry for the hour," Rhea Quinn said, low. Behind her voice the lobby was empty and too quiet. "Detective Brooks is in the building. She asked which floor you're on. I told her I'd have to check." She paused. "I'm out of reasons to check."
 
 "Okay," [player_name] said.
 
-"There's something else." Rhea's voice dropped further. "When I came on at midnight, the grate behind the desk was warm. Someone burned paper in it. I don't know what. I don't know who. I didn't light it." Another pause. "I wanted you to hear that from me before she smells it."
+"There's something else." Rhea's voice dropped further. "When I came on at midnight, the grate behind the desk was warm. Someone burned paper in it. I don't know what. I don't know who. I didn't light it." She paused again. "I wanted you to hear that from me before she smells it."
 
 The line went quiet. Rhea had hung up.
 
@@ -98,10 +98,12 @@ She didn't say it was all right. It wasn't.
 
 Out in the hall, faint, the elevator doors opened.
 
-Neither of them looked toward the sound. She watched his hands. She watched his mouth. She moved her fingers the last inch across the marble until they touched his, and she left them there, and she listened for footsteps.`,
+Neither of them looked toward the sound. She watched his hands. She watched his mouth. She moved her fingers the last inch across the marble until they touched his, and she left them there, and she listened for footsteps.
+
+Brooks at the door, or the ash downstairs. She had until the knock to choose.`,
   textHot: `She turned the key.
 
-She went in fast. He followed. The lock caught behind them and they were alone in the dark of her apartment, only the streetlight, and her whole back still burned where she'd leaned into his chest.
+She went in fast. He followed. The lock caught behind them. They were alone in the dark of her apartment, only the streetlight. Her whole back still burned where she'd leaned into his chest.
 
 "Don't stand behind me," she said. "Not for this."
 
@@ -109,7 +111,7 @@ She went in fast. He followed. The lock caught behind them and they were alone i
 
 "Where I can see your face," [player_name] said.
 
-He came into the middle of the room. Light caught the scar at his jaw. She stood at the marble table with both palms pressed flat on the stone, because if she let go of it she would put her hands on him.
+He came into the middle of the room. Light caught the scar at his jaw. She stood at the marble table with both palms pressed flat on the stone. If she let go of it, she would put her hands on him.
 
 "Milan was real in the spring," she said. "Then Zurich. The Baur. The minibar. A scarf receipt and no scarf. Three empty cars. You knew about two while they happened."
 
@@ -147,13 +149,13 @@ He crossed to the window and put his back to the glass so she could see his face
 
 "It's what I have," he said. "It's ugly. It doesn't end."
 
-She stared at him. The room felt very small and very hot. Somewhere under all of it she still wanted him, and the wanting had a new shape now, sharper, mixed up with the picture of a black car pulling away from the curb while she slept in his arms.
+She stared at him. The room felt very small and very hot. Somewhere under all of it she still wanted him. The wanting had a new shape now, sharper. It was mixed up with the picture of a black car pulling away from the curb while she slept in his arms.
 
 Her phone lit on the marble. The front desk.
 
 She picked it up. "Rhea."
 
-"I'm sorry for the hour," Rhea Quinn said, low. "Detective Brooks is in the building. She asked which floor you're on. I said I'd check." A pause. "I'm out of reasons to check."
+"I'm sorry for the hour," Rhea Quinn said, low. "Detective Brooks is in the building. She asked which floor you're on. I said I'd check." She paused. "I'm out of reasons to check."
 
 "Okay," [player_name] said.
 
@@ -161,7 +163,7 @@ She picked it up. "Rhea."
 
 The line went dead. Rhea had never hung up on her before. [player_name] stood holding the phone, listening to nothing.
 
-[player_name] put the phone face down.
+She put the phone face down.
 
 "Brooks," Nolan said.
 
@@ -179,7 +181,7 @@ He came to the table. He put his hands flat on the marble across from hers, his 
 
 She didn't tell him it was all right.
 
-He leaned in over the table. Slowly. Giving her time. His mouth stopped a breath from hers, and she could feel the heat of it, smell the wine on him, and her nipples went tight under her dress and her thighs pressed together and she was wet, just from that, from the memory of October and his voice saying he was sorry.
+He leaned in over the table. Slowly. Giving her time. His mouth stopped a breath from hers. She could feel the heat of it and smell the wine on him. Her nipples went tight under her dress, and her thighs pressed together. She was wet just from that, from the memory of October and his voice saying he was sorry.
 
 "Tell me to go," he murmured.
 
@@ -189,9 +191,11 @@ He made a low sound. His other hand came up and slid along her jaw, into her hai
 
 Out in the hall, faint, the elevator doors opened.
 
-His hand tightened in her hair. Her lips parted against his. Neither of them moved toward the sound, and she held still with her mouth open on his and listened for footsteps.`,
+His hand tightened in her hair. Her lips parted against his. Neither of them moved toward the sound, and she held still with her mouth open on his and listened for footsteps.
+
+Brooks at the door, or the ash in Rhea's grate. Either way, she'd go with his taste on her mouth.`,
   choices: [
-    { id: "scene6j", text: "Stay at Brooks's door for the blowup — no relief yet", textHot: "Stay at Brooks's door for the blowup — no relief yet while your body stays tight under interrogation light" },
-    { id: "scene6k", text: "Trace the burned log ash from Rhea's grate", textHot: "Trace the burned log ash from Rhea's grate — ash on your fingers instead of him" }
+    { id: "scene6j", text: "Wait at your door for Brooks's blowup — no relief yet", textHot: "Wait at your door for Brooks's blowup, your body still strung tight" },
+    { id: "scene6k", text: "Trace the burned-log ash in Rhea's grate", textHot: "Trace the burned-log ash in Rhea's grate — ash on your fingers instead of him" }
   ]
 };
