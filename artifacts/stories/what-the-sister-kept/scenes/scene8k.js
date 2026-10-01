@@ -2,110 +2,92 @@ export default {
   id: "scene8k",
   layer: 8,
   title: "SIM chain: press conference",
-  text: `The SIM chain glowed on a borrowed press-room monitor like a municipal throat clearing itself under lights Captain Mara Ellison hadn't wanted and Will had insisted on anyway. Harborwick City Hall steps smelled like rain and burnt coffee and the kind of rumor that ran faster than science. Foghorns complained inland. Camera shutters clicked like cheap interrogation clocks. [player_name] stood shoulder-to-shoulder with Will while Dr. Lila Cho's unidentified remains still waited upriver without Renny's name—timing lean, charm consistent-not-unique, age range ugly with hope—and none of that pending science stopped Will from reading timestamps into microphones: after-midnight stubs, soft grammar, move the paper, sister pointed, a city clerk's desk code half-redacted by politics until daylight made redaction look like guilt.
+  text: `The SIM chain glowed on a borrowed press-room monitor like a municipal throat clearing itself. Captain Mara Ellison hadn't wanted the lights. Will had insisted on them anyway. City Hall's steps smelled like rain and burnt coffee and the kind of rumor that runs faster than science. Camera shutters clicked like cheap interrogation clocks.
 
-"Clerk," Will said without looking at the cameras first. Scar nick pale under grey Harborwick sky. Cracked notebook open to a timeline that still refused to print Renny on bone. Charm locked to patience that wasn't softness.
+[player_name] stood shoulder to shoulder with Will. Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope. None of that stopped Will from reading timestamps into the microphones. After-midnight stubs. Move the paper. Sister pointed. A city clerk's desk code, half-redacted by politics until daylight made redaction look like guilt.
 
-"Not a comic villain. A desk that moves permits for people who move crates. Owen Vale reached him the night soft got close. Reached him again after an alley fire. Reached him in language that assumes a teenager's pointing finger was a problem to be managed—not a sister to be found." His late smile arrived and died in the same breath.
+"Clerk," Will said, without looking at the cameras first. The scar at his eyebrow was pale under the grey sky. His notebook was open to a timeline that still refused to print Renny on bone. "Not a comic villain. A desk that moves permits for people who move crates. Owen Vale reached him the night soft got close. He reached him again after an alley fire. He reached him in language that treats a teenager's pointing finger as a problem to manage, not a sister to find." His late smile arrived and died in the same breath.
 
-"This is enough for the public to lean. Enough for Ellison's clearance narrative to stop smoothing soft. What it isn't: a naming of Cho's bones. Charm probability stays elevated without confirmation. Age range stays ugly with hope. I won't let a press conference print Renny on silt." [player_name] tasted rain and copper. And done pretending ash was only Owen's problem. Renny's absence pressed under her ribs; the kept secret pressed harder—pier night, Owen, the stranger, seven years of scrubbed silhouette that messages could illuminate without resurrecting.
+"This is enough for the public to lean. Enough for Ellison's clearance story to stop going soft. What it isn't: an identification of Cho's remains. The charm probability is elevated, not confirmed. I won't let a press conference print Renny on silt."
 
-She had chosen the stage. Soft was dead. Quiet deals had been offered and refused. Ellison stood two steps back, jaw tight, unread texts glowing in her pocket like a second lighter she refused to show. She distrusted family witnesses who arrived smelling like porch rain and guilt. She distrusted Will when results left fingerprints on more than evidence bags. She had wanted a sealed room. She had gotten steps and cameras and a sister who wouldn't invent a funeral for clearance.
+[player_name] tasted rain. She was done pretending the ash was only Owen's problem. Renny's absence pressed under her ribs. The kept secret pressed harder: the pier night, Owen, the stranger, seven years of a scrubbed silhouette.
 
-"Will rumor bury her before Cho finishes?" [player_name] had asked in the elevator up, voice held, barely. "Rumor will try," Will had said, honest because comfort was a lie he refused.
+She had chosen the stage. Quiet deals had been offered and refused. Ellison stood two steps back, jaw tight, unread texts glowing in her pocket. She distrusted family witnesses who arrived smelling of porch rain and guilt. She distrusted Will when results left fingerprints on more than evidence bags. She'd wanted a sealed room. She'd gotten steps and cameras and a sister who wouldn't invent a funeral for clearance.
 
-"We ride the press conference open—keep the hunt loud, name the chain under lights, accept the storm—or we convert press heat into trial as fast as warrants allow and stop letting cameras become the only courtroom. Both leave Cho's tray contested tonight. Both leave me compromised in ways the sealed past would recognize if she walked these steps again." His jaw flexed. Old-wound silence smoked without unpacking: the sealed past, raid, a teenager in the wrong hallway, Ellison's fear that Akers would make the same ashes twice.
+"Will rumor bury her before Cho finishes?" [player_name] had asked in the elevator on the way up.
 
-"Hope stays employed. Dread stays honest. You stay beside me." Attraction hummed unwanted under procedural dread: his competence under shutters, the dangerous care of refusing a false ID for a better headline, the way his cracked knuckle brushed hers behind the podium skirt where cameras couldn't fully see. To her—close, far enough to keep the badge between them. She wanted his steadiness and hated that she wanted it while Renny's fate stayed silt and rumor and municipal throats squirmed.
+"Rumor will try," Will had said. He didn't offer comfort. "We ride the press conference open, keep the hunt loud and name the chain under lights. Or we turn the press heat into a trial as fast as warrants allow, and stop letting cameras be the only courtroom. Both leave Cho's tray contested tonight."
 
-Will walked the press through red doors and pencil Xs without naming a corpse. [player_name] watched his shoulders under charcoal that still held alley rain. Outside, warehouses hunched in fog. Inside the soundbite, the clock of public hunger hummed. She spoke when he nodded—kept detail unscrewed into daylight without inventing purity, without inventing a funeral. Pier night. Owen. A stranger wrong on the pier. Soft grammar on a nano-SIM.
+Now he walked the press through red doors and pencil Xs without naming a corpse. [player_name] watched his shoulders under charcoal that still held alley rain. She spoke when he nodded. The pier night. Owen. A stranger wrong on the pier. A clerk's desk that never slept after midnight. Renny, seventeen and pointing.
 
-A clerk desk that never slept after midnight. Renny sixteen and pointing. Seven years of scrub. Hope breathing. Dread biting. "If those bones upriver are Renny," a reporter shouted, "why won't you say so?"
+"If those bones upriver are Renny," a reporter shouted, "why won't you say so?"
 
-"Because Cho hasn't earned a name," Will said, flat and fierce. "Because hope and fear still share a lab tray. Because printing a sister on silt for a better chyron is how cities make false funerals. The SIM chain names a clerk. The wire paths and warehouse leads name a smuggling throat. The remains stay unidentified until science finishes. Next question that doesn't ask me to bury a maybe."
+"Because Cho hasn't earned a name," Will said, flat and fierce. "Because printing a sister on silt for a better chyron is how cities make false funerals. The SIM chain names a clerk. The wire paths and warehouse leads name a smuggling throat. The remains stay unidentified until science finishes. Next question that doesn't ask me to bury a maybe."
 
-[player_name]'s blood went loud—with gratitude and want and the filthy knowledge that standing beside him under shutters felt like another kind of intimacy. Soft net burned. Sink trap yielded. Press ate municipal paper in real time. Ellison's jaw tightened further. Somewhere in City Hall a licensing desk went dark. After the storm of questions, they rode an elevator that smelled like wet wool and gun oil and compromised oxygen.
+[player_name]'s blood went loud with gratitude and want. Standing beside him under the shutters felt like another kind of intimacy. Ellison's jaw tightened further. Somewhere in City Hall, a licensing desk went dark.
 
-Will boxed her gently into a corner the cameras couldn't follow—hips, heat, scar nick white under elevator fluorescents—and stopped a breath short of her mouth on purpose.
+After the storm of questions, they rode an elevator that smelled like wet wool and gun oil. Will boxed her gently into the corner the cameras couldn't follow, the scar white under the fluorescents, and stopped a breath short of her mouth on purpose.
 
-"You didn't invent a funeral," he said. Inventory and hunger braided. "Alive grammar. Loud hunt. That's the first choice set. Second choice is yours. We ride the press conference open—keep feeding daylight, refuse sealed pages, let the city choke on paper until the clerk has nowhere soft left—or we convert this heat into trial, fold shutters into warrants, carry Owen and the desk into a room with rules instead of chyrons. Both leave Renny a question mark tonight. Both leave me wanting to put you somewhere soft after rain. Pick the hurt that keeps truth reachable while Harborwick fog erases the steps and hope keeps its impossible job beside dread."
+"You didn't invent a funeral," he said. "That's the first part. The second is yours. We ride it open: keep feeding daylight, refuse sealed pages, let the city choke on paper until the clerk has nowhere soft left. Or we turn this heat into a trial: shutters into warrants, Owen and the desk in a room with rules instead of chyrons."
 
-[player_name] shook against the elevator wall, Renny's hoodie ghost folded inland across town, silver charm gap aching like a tooth. Romance unfinished under fluorescents. Will's knuckles whitened when a hallway joke almost rose—kids in hallways—and died mid-breath, sealed file still sealed.
+[player_name] shook against the elevator wall. Across town, Renny's hoodie was still folded; the silver charm gap ached like a tooth. Will's knuckles whitened when a joke about kids in hallways almost rose in him and died mid-breath.
 
-"Clock," Will said softly. "Ride the press conference open—or convert press heat into trial. Either way the SIM chain already spoke under lights. Either way Cho's bones stay unnamed tonight. Conjugate, [player_name]." She looked from the glowing floor numbers to Will's hunger-and-warning face and felt the choice land like a second lighter—careful, consequential, still capable of fire. Ride open. Or turn heat into trial. Soft dead. Hard breathing.
+The doors opened on a corridor that still smelled like rain. "Ellison will ask if family theater taught you to love shutters," Will said, eyes on the wet street beyond the lobby glass. "You standing wet and shaking on City Hall steps isn't theater. It's cooperation that went loud without naming silt. I didn't float a press conference because we buried your sister. I floated it because quiet deals protect the wrong throats."
 
-The elevator wouldn't forgive a soft lie—and neither would the detective who had put municipal ash on a stage and was asking which temperature of aftermath she could live inside while hope kept breathing beside dread. The doors opened on a corridor that still smelled like rain. Will drove a slow loop of words around the storm—clerk named in fragments, Owen's reach pattern public, Ellison already drafting damage control—while [player_name] watched Harborwick slide past lobby glass and felt the unfinished kiss still hanging under her ribs like a hook.
+"When my partner and I—" He stopped. The armor slid. The wound showed a tooth, then hid. "When a raid goes sideways, people rinse what they can. Partners take the weather. I'm not dumping that file on your press storm. I'm telling you why I won't rush an ID for Ellison's inbox while this chain still has a throat we can aim at."
 
-Daylight had teeth. Renny's fate was still contested silt. That mattered more than pride. "Ellison will ask if family theater taught you to love shutters," Will said, eyes on the wet street.
+His eyes found hers. "If we ride it open, I'll still be angry in every elevator after. At Owen, at the clerk, at myself for floating soft until ash was the only map loud enough. If we go to trial, I'll still want your mouth when the docket cools. Neither cancels the other."
 
-"You standing wet and shaking on City Hall steps isn't theater. It's cooperation that went loud without naming silt. Remains still unidentified. Charm still only maybe. I didn't float a press conference because we buried your sister. I floated it because quiet deals protect the wrong throats—and tonight the throat is public." His knuckles whitened once, the sealed past-ash behind the gesture, then steadied.
+[player_name] thought of the festival fog, Renny pointing east, and of the SIM ghosts finishing sentences the soft nets had tried to drown. "Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial. You keep a sealed hallway. The press keeps hunger. Everybody keeps something. I want the keeping that still protects a living hope."
 
-"Ride open means we keep the hunt on every channel. Trial means we stop letting cameras be the only courtroom. Both hurt. Both keep hope employed. Both keep dread honest. Neither prints Renny on bone before Cho earns it."
+She looked at him until he looked back. "If we ride it open, I stand beside you on every step. If we go to trial, I'll hate every camera that follows us into the courthouse and still speak. Which hurt leaves Renny reachable?"
 
-"When my partner and I—" He stopped. Charm armor sliding. Wound showing a tooth and then hiding. "When a raid goes sideways, people rinse what they can. Partners take weather. Kids in hallways pay for urgency dressed as care. I'm not dumping that sealed file on your press storm. I'm telling you why I won't rush an ID for Ellison's inbox or a better chyron while this chain still has a throat we can aim at open daylight or a trial docket."
+Respect moved through his face like weather changing. He almost kissed her, then stopped a breath short, on purpose.
 
-His eyes found hers. "Hope stays employed. Dread stays honest. You stay in the room." "If we ride open," Will said, "I will still be angry in every elevator after—angry at Owen, at the clerk, at seven years of scrubbed silhouettes, at myself for floating soft until ash became the only map loud enough. Anger doesn't cancel the braid. If we convert to trial, I will still want your mouth when the docket cools. Want doesn't cancel the cost of daylight already spent. I need you to hear both sentences without smoothing either into comfort."
+"Ride it open," he said, low, "or walk every timestamp into a courtroom before Ellison can soften the story. Either way, she stays a pointed finger, not a headline corpse. Choose before the flashbulbs do."`,
+  textHot: `The SIM chain glowed on a borrowed press-room monitor like a municipal throat clearing itself. [player_name]'s body answered with a pulse she refused to call pure. Behind the podium skirt, where the cameras couldn't fully see, Will's thigh pressed hers. City Hall steps. Rain. Burnt coffee. Shutters clicking.
 
-[player_name] thought of festival fog—funnel-cake sugar, Renny pointing east, a stranger wrong on the pier—and of SIM ghosts finishing sentences soft nets had tried to drown. "Renny kept a map," she said quietly.
+The soft net had burned. The quiet deal was refused. The press was chosen. Will stood with the scar pale under the grey sky, notebook open, patient in a way that wasn't celibate. Ellison stood two steps back, texts glowing unread in her pocket.
 
-"I kept a lie. Owen kept a clerk on speed dial. You kept a sealed hallway. Ellison keeps an inbox. Cho keeps bones without a name. The press keeps hunger. Everybody keeps something. The question is which keeping still protects a living hope and which keeping only protects the people who moved crates past a teenager's finger." She looked at Will until he looked back.
+"Clerk," Will said, his voice low enough to drag along [player_name]'s spine even under the shutters. "A desk that moves permits for crates. Owen reached him when soft got close. The language treats a teenager's pointing finger like a problem to manage."
 
-"If we ride open, I stand beside you on every step. If we convert to trial, I will hate every camera that follows us into the courthouse and still speak what keeps the map breathing. I'm not inventing purity. I'm not inventing a funeral. I'm asking which hurt leaves Renny reachable." Will's pen stopped against his cracked notebook. Respect moved through his face like weather changing. He almost kissed her then—stopped a breath short on purpose—scar nick white under lobby light, late smile wrong, all weapon and wound.
+"Enough for public lean. Enough for Ellison to stop sanding soft. Not a baptism of Cho's bones. Charm stays maybe. I will not let a chyron print Renny on silt while you soak for the dig." [player_name] tasted rain and copper and want. Mid-twenties.
 
-Soft was dead. The SIM chain was breathing in daylight. Flashbulbs stuttered against Harborwick's damp throat. The SIM chain lived on a podium mic like a live wire that had learned to speak daylight. Will stood at [player_name]'s shoulder with charm filed to a public edge and a sealed silence in his shoulders that didn't need a second name.
+"Will rumor bury her before Cho finishes?"
 
-"Ride the press conference open—correct falsehoods in real time, refuse funeral grammar, keep Cho's pending louder than rumor," he said under the noise. "Convert press heat into trial—walk every timestamp into oath weather before Ellison can smooth the narrative soft. Both leave me wanting your spine in a room without lenses. Both leave Renny a pointed finger, not a headline corpse." The denial of his hand at the small of her back—present, not claiming for cameras.
+"Rumor will try." He didn't soften it. Then, lower: "Ride the press conference open and keep the hunt loud, and after the storm I'll put you against a blind wall and finish what my fingers started, with my mouth. Turn the heat into a trial, fold the shutters into warrants, and I'll take you apart in a locked room when the docket cools."
 
-Soft was dead. Daylight was breathing. [player_name] tasted pier salt and unfinished want and chose open storm or oath conversion while foghorns argued with shutters. Flashbulbs woke sealed drawers; the sealed past stayed association smoke in Will's shoulders while he refused funeral grammar at the podium.`,
-  textHot: `The SIM chain glowed on a borrowed press-room monitor like a municipal throat clearing itself, and [player_name]'s body answered the glow with a filthy pulse she refused to call pure while Will's thigh pressed hers behind a podium skirt cameras couldn't fully see and soft's corpse fucked the timeline forward into daylight. City Hall steps. Rain. Burnt coffee. Shutters clicking.
+On the steps he walked the press through red doors and pencil Xs without naming a corpse. She spoke when he nodded, her thighs tight, aching. The pier night. Owen. Soft grammar on a nano-SIM. A clerk's desk after midnight.
 
-Soft net burned. Sink trap yielded. Quiet deal refused. Press chosen. Will mid-thirties—scar nick pale under grey sky, notebook open, charm locked to patience that wasn't celibacy. Whitened knuckles. Ellison two steps back with unread texts like a second lighter.
+"Because Cho hasn't earned a name," Will said to the first shouted question, flat and fierce, and [player_name] clenched at the refusal as if it were foreplay. "Printing a sister on silt for a chyron is how cities make false funerals. Next question that doesn't ask me to bury a maybe."
 
-"Clerk," Will said, voice low enough to drag along [player_name]'s spine even under shutters. "Desk that moves permits for crates. Owen reached him when soft got close. Language that treats a teenager's pointing finger like a problem to manage."
+After the storm, the elevator again. Will boxed her into the corner the cameras couldn't follow, hips and heat, and slid his hand under her skirt where the podium had hidden what she wanted. Two fingers found her shamelessly slick.
 
-"Enough for public lean. Enough for Ellison to stop smoothing soft. Not a naming of Cho's bones. Charm stays maybe. I won't let a chyron print Renny on silt while you soak for the dig." [player_name] tasted rain and copper and want.
+He pushed them in slow. She clenched. He groaned like confession and pleasure were one sound. "There," he said. "Wet for a detective holding SIM ghosts and your waist under shutters. Don't pretend municipal daylight made you celibate." His thumb found her clit. His forehead dropped to hers. He didn't kiss her.
 
-"Will rumor bury her before Cho finishes?" "Rumor will try." Honest.
+"The next part's yours," he murmured. "Ride it open, keep feeding daylight until the clerk has nowhere soft left, and I'll finish you quiet enough for foghorns. Turn it into a trial and I'll keep you aching through the paperwork." He worked her with stakeout patience until her knees shook, then stopped, exact, and drew his hand out to paint her lower lip.
 
-"Ride the press conference open—keep the hunt loud—and I put you against a blind wall after the storm and finish what my fingers started with my mouth. Convert press heat into trial—fold shutters into warrants—and I take you apart in a locked room when the docket cools, tip weather and ash still on your tongue. Teeth. She wouldn't be wrong."
+"Not yet. Not until you pick." She tasted herself and rain. His scar brushed her temple. His late smile came out wrong.
 
-On the steps he walked red doors and pencil Xs without naming a corpse. She spoke when he nodded—kept detail unscrewed into daylight, thighs tight from elevator fingers, cunt aching on unfinished stakeout grammar. Pier night. Owen. Soft grammar on a nano-SIM. Clerk desk after midnight. Seven years of scrub.
-
-"Because Cho hasn't earned a name," Will said, flat and fierce, and [player_name]'s cunt clenched at the refusal like it was foreplay.
-
-Printing a sister on silt for a chyron is how cities make false funerals. Next question that doesn't ask me to bury a maybe." After the storm, elevator again. Will boxed her into the corner cameras couldn't follow—hips, heat, scar nick white—hand into her skirt line where the podium had hidden want, two fingers finding her shamelessly slick from competence and daylight and the filthy mercy of a man who refused false funerals.
-
-He pushed in slow; she clenched; he groaned like confession and pleasure were one sound. "There. Wet for a detective holding SIM ghosts and your waist under shutters. Grief and sex can share a body. Don't tidy it. Thumb on her clit. Forehead to hers. Center kiss denied.
-
-"Second choice yours. Ride the press conference open—keep feeding daylight until the clerk has nowhere soft—and I finish you quiet enough for foghorns. Convert heat into trial—warrants, docket, Owen and the desk in a room with rules—and I keep you aching through the paperwork because unfinished is how your body tells truth." He fucked the choice into her with stakeout patience turned filthy, then stopped—exact, cruel, tender as a threat—withdrew to paint her lip.
-
-"Not yet. Not until you pick." [player_name] tasted salt and herself and rain. Will's scar nick brushed her temple. Late smile wrong—weapon and wound.
-
-"Clock," he said. "Ride open—or convert press heat into trial. Either way the chain spoke under lights. Pick the hurt that keeps truth reachable while I can still smell your cunt on my hand under elevator fluorescents and Harborwick fog erases the steps." She fixed her skirt a tooth short of tidy—his grammar becoming hers—and held his gaze.
+"Clock," he said. "Ride it open, or turn the heat into a trial. Either way, the chain spoke under lights." She fixed her skirt a tooth short of tidy and held his gaze.
 
 Missing charm. Unidentified bones. Clerk throat breathing in daylight. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Ride open. Or trial. Corridor hum thickened when the doors opened. Will steadied her with the hand that still shone faintly with her slick, grounding, practical, filthy.
 
-"Ellison will smell proximity on this storm," he murmured. "Let her. You stood on steps for a maybe without naming silt. That's cooperation under shutters that happens to leave you wet. Soft ran out. Press was the next honest grammar. What comes after is the choice that keeps the clerk reachable without turning you into his old wound-weather I already know how to mourn."
+"Ellison will smell proximity on this storm," he murmured. "Let her. You stood on steps for a maybe without christening silt. That is cooperation under shutters that happens to leave you wet. Remains still unidentified. Charm still only maybe. Soft ran out. Press was the next honest grammar. What comes after is the verb that keeps the clerk reachable without turning you into his old wound-weather I already know how to mourn."
 
-He pressed her palm to his cock—thick, hot, brutal honesty—rolled once into her fist in the blind stretch of corridor. "Feel what a press conference does to me. Soft dead. Hunt loud. Want past professionalism. Ride open—or convert to trial. Either way daylight spoke.
+He pressed her palm to his cock, thick and hot through his trousers, and rolled once into her fist in the blind stretch of corridor. "Feel what a press conference does to me. Soft's dead. The hunt's loud. Ride it open, or go to trial. Either way, daylight spoke."
 
-"If we ride open," he said against her jaw, "I stay angry in every elevator and still choose your mouth. If we convert to trial, I want you when the docket cools and still hate every camera that follows. Anger doesn't cancel the braid. Want doesn't cancel cost. Hear both without smoothing either into comfort." The corridor clock hummed like every precinct clock that had ever watched a familial contact choose pages over protection.
+"If we ride it open," he said against her jaw, "I stay angry in every elevator and still choose your mouth. If we go to trial, I want you when the docket cools and still hate every camera that follows us. Hear both."
 
-[player_name] watched Will's throat work—scar nick pale, late smile wrong—and felt want climb her spine even while municipal daylight still clung to their clothes like ash. Outside, foghorns rolled inland. Inside, his fingers shone faintly under fluorescents he didn't wipe, and the honesty of that shine made her clench around nothing.
+[player_name] watched his throat work and felt want climb her spine while municipal daylight still clung to their clothes like ash. His fingers still shone faintly under the fluorescents. He didn't wipe them. The honesty of that made her clench around nothing.
 
-"You stood under shutters without inventing a funeral," he murmured, boxing her one last time against cool plaster, cock thick against her hip through denim, voice sex-rough under detective flat.
+"I kept a lie," she said. "Owen kept a clerk. You keep a sealed hallway. The press keeps hunger. Everybody keeps something."
 
-"That matters more than Ellison's inbox. That matters more than my sealed hallway. Soft is dead. The SIM chain is loud. Your cunt still remembers my unfinished hand and I'm not sorry. Ride open and I keep you wet through every channel. Convert to trial and I keep you aching through every warrant. Both leave hope employed. Both leave dread honest. Both leave me compromised in ways his old wound would smell from a dock she hasn't walked in years—and I will still choose your mouth when the choice is done."
+"Ride it open, and I stand on every step with you, and you finish me after the storm," she went on. "Trial, and I hate the cameras all the way into the courthouse and still say it all for the record. I'm asking which hurt leaves her reachable while you can still smell me on your hand."
 
-"I kept a lie. Owen kept a clerk. You kept a sealed hallway. The press keeps hunger. Everybody keeps something."
+Will's breath left him like a wound. "That's the only question worth asking in this corridor."
 
-"Ride open—I stand on every step with you and you finish me after the storm. Trial—I hate the cameras into the courthouse and still soak for the record if it keeps the map breathing. I'm not inventing purity. I'm not inventing a funeral. I'm asking which hurt leaves Renny reachable while you can still smell me on your hand." Will's breath left him like a wound.
-
-"That's the only question worth shaping in this corridor."
-
-"Ride it open and I fuck the adrenaline out of you in the first locked stairwell after the last question," he said. "Convert to trial and I keep you dripping through every recess because unfinished climax is bagged evidence I refuse to log." He rolled his hips once—honest, filthy—and stopped, unfinished held like a vow. Flashbulbs stuttered. [player_name]'s cunt clenched around the public risk.
-
-Behind the scrim Will rolled his hips once—honest, filthy, the sealed past humming sealed under the public edge—and stopped unfinished while shutters ate the air.`,
+"Ride it open and I fuck the adrenaline out of you in the first locked stairwell after the last question," he said. "Convert to trial and I keep you dripping through every recess because unfinished climax is bagged evidence I refuse to log." He rolled his hips once—honest, filthy—and stopped, unfinished held like a vow. Flashbulbs stuttered. [player_name]'s cunt clenched around the public risk. Charm probable. Bones unnamed.`,
   choices: [
     { id: "scene9c", text: "Ride the press conference open", textHot: "Ride the press conference open" },
     { id: "scene9a", text: "Convert press heat into trial", textHot: "Convert press heat into trial" }

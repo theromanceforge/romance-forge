@@ -2,55 +2,53 @@ export default {
   id: "scene8j",
   layer: 8,
   title: "Wire fails: she is made",
-  text: `The wire pack sat against [player_name]'s sternum like a second heartbeat Will had taught her to carry into thin ice—and thin ice cut before the clerk's name could finish breathing. Owen Vale was free enough to smell tape: soft release on conditions Captain Mara Ellison hated, bail pressure dressed as patience, bracelets traded for a curfew and a promise not to leave Harborwick. Soft net had burned in an alley.
+  text: `The wire pack sat against [player_name]'s sternum like a second heartbeat, and the ice cut before the clerk's name could finish breathing. Owen Vale was free enough to smell tape. Soft release on conditions Captain Mara Ellison hated: bail pressure dressed as patience, cuffs traded for a curfew and a promise not to leave Harborwick. The soft net had already burned in an alley.
 
-Family had detonated on a butter-colored porch without a booking clang. Now the hunt lived outside any clean cage, and [player_name] stood under a warehouse eave where festival fog still lived in her memory while Will's unmarked idled two blocks out and rain needled the chain-link silver. Foghorns complained across the channel. Renny's absence filled the pier like a fourth person. Dr. Lila Cho's unidentified remains still waited upriver without Renny's name—timing lean, charm consistent-not-unique, age range ugly with hope—and none of that pending science stopped Owen's eyes from sharpening on the tiny bulge at her sternum where wet fabric had wrinkled the tape.
+Family had blown apart on a butter-colored porch without a booking clang. Now the hunt lived outside any clean cage. [player_name] stood under a warehouse eave where festival fog still lived in her memory. Will's unmarked car idled two blocks out. Rain needled the chain-link silver. Foghorns complained across the channel.
 
-"Mic," Owen said softly. Almost gentle. Almost proud of catching her. "There it is. Akers's mouth on your pulse. Ellison's van in the rain. You got made, sweetheart. Not by a chain—by your own stepfather who taught you how to clean a story and can still see scrub marks." In [player_name]'s ear, Will's voice went sharp: "Walk. Left toward the lot. Don't run. Don't argue. Van is rolling. Survive first. Hunt second."
+Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope. None of that pending science stopped Owen's eyes from sharpening on the tiny bulge at her sternum, where wet fabric had wrinkled the tape.
 
-She walked. Rain needled her face. Behind her Owen's laugh thinned into warehouse dark—and then something worse than a laugh: a phone lifted, a soft warning grammar she recognized from SIM ghosts—call M if soft—spoken into Harborwick night like a match struck under municipal paper. The clerk was being tipped. Soft ice hadn't only cut her; it had given the chain a head start. The van door opened on Will's face—scar nick white, grey-green nearly black, charm scraped entirely to wound—and he pulled her in before the street could learn her name.
+"Mic," Owen said softly. Almost gentle. Almost proud of catching her. "There it is. Akers's mouth on your pulse. Ellison's van in the rain. You got made, sweetheart. Not by a chain. By the stepfather who taught you how to clean a story and can still see the scrub marks."
 
-Hands checked her for injury with cuff-tenderness the pier hadn't required. Cracked notebook open on the dash to a timeline that still refused to print Renny on bone. Old-wound silence smoked behind his teeth without unpacking: the sealed past, raid, a teenager in the wrong hallway, Ellison's fear that Akers would make the same ashes twice.
+In her ear, Will's voice went sharp. "Walk. Left toward the lot. Don't run. Don't argue. The van's rolling. Survive first. Hunt second."
 
-"You got made," he said. Inventory, not accusation. "Alive. That's the first choice. Second choice is already burning—Owen just reached. Marcus or M or whatever municipal throat soft protects is moving. We can wait while I hunt the escape—float backup, lean warehouses, keep you breathing inland while I chase a clerk who now knows the wire failed—or we blow the failed wire into the press and stop letting quiet deals protect throats that just got a tip. Both leave Cho's tray contested. Both leave me wanting to put you somewhere soft after rain. Pick the hurt that keeps truth reachable while Harborwick fog erases the curb where soft ice just cut."
+She walked. Rain needled her face. Behind her, Owen's laugh thinned into the warehouse dark, and then came something worse than a laugh. A phone, lifted. A warning she recognized from the SIM ghosts, call M if soft, spoken into the night like a match struck under municipal paper. The clerk was being tipped. The ice hadn't only cut her. It had given the chain a head start.
 
-[player_name] shook in the passenger seat, mic pack still warm against her sternum, Renny's hoodie ghost folded inland across town, silver charm gap aching like a tooth. Hope breathed. Dread bit. Romance unfinished under dash light. She tasted salt and rain and the filthy knowledge that getting made hadn't only endangered her—it had bought the clerk minutes.
+The van door opened on Will's face, the scar white, his eyes nearly black. He pulled her in before the street could learn her name. His hands checked her for injury. His notebook lay open on the dash, a timeline that still refused to print Renny on bone.
 
-"What if Hale walks?" she asked. Voice held. Barely. And done pretending alone was always bravery. "Then I hunt," Will said, honest because comfort was a lie he refused.
+"You got made," he said. Inventory, not accusation. "You're alive. That's the first thing. The second is already burning. Owen just reached. Marcus, or M, or whatever municipal throat soft protects, is moving."
 
-"Warehouses. City Hall after midnight. Coffee habits. Soft grammar. Ellison gets a narrative she will hate less than a dead witness. You don't become a clearance story. Renny doesn't get a false funeral because a wire went loud and a stepfather still knows how to dial." His knuckles whitened on the wheel when a hallway joke almost rose—kids in hallways—and died mid-breath.
+"So what do we do?"
 
-"Or we take the fail public. Failed wire becomes daylight. Press eats municipal paper before it can rinse. Rumor will try to bury your sister before Cho finishes. I will stand on the steps with you anyway if that is the choice you can live inside." Attraction hummed unwanted under procedural dread: his competence, the dangerous care of refusing to leave her on the pier, the way his cracked knuckle brushed hers when he helped her peel the mic pack into an evidence bag.
+"We can wait while I hunt the escape: float backup, lean on the warehouses, keep you breathing inland while I chase a clerk who now knows the wire failed. Or we blow the failed wire into the press, and stop letting quiet deals protect throats that just got a tip. Both leave Cho's tray contested."
 
-To her—close, far enough to keep the badge between them. She wanted his steadiness and hated that she wanted it while Renny's fate stayed silt and rumor and a clerk somewhere in City Hall was already packing soft. Owen's tip lived in the rain like yellow tape. Will drove a slow loop away from the pier—warehouses, chain-link, fog eating street signs—while [player_name] watched Harborwick slide past and felt the unfinished kiss from the dash light still hanging under her ribs like a hook.
+[player_name] shook in the passenger seat, the mic pack still warm. Across town, Renny's hoodie was still folded; the silver charm gap ached like a tooth. Getting made hadn't only endangered her. It had bought the clerk minutes.
 
-Soft ice had cut. Renny's fate was still contested silt. That mattered more than pride—and more than the shame of tape Owen had seen first. "Ellison will ask if family theater taught him to spot tape," Will said, eyes on the wet road.
+"What if Hale walks?" Her voice held. Barely.
 
-"You standing wet and shaking isn't theater. It's cooperation that got made and walked anyway. Remains still unidentified. Charm still only maybe. I didn't float soft release because we buried your sister. I floated it because reaching men leave traces—and tonight the trace was you breathing in my passenger seat instead of bleeding in a hallway I already know how to dream—and a phone call that means the clerk is running."
+"Then I hunt," Will said. He didn't offer comfort; comfort was a lie he refused. "Warehouses. City Hall after midnight. Coffee habits. Ellison gets a story she'll hate less than a dead witness. You don't become a clearance story. Renny doesn't get a false funeral because a wire went loud and a stepfather still knows how to dial." His knuckles whitened on the wheel.
 
-His late smile arrived and died in the same breath. "Wait means I hunt while you stay reachable. Press means we stop whispering failed wires into rooms that prefer silence. Both hurt. Both keep hope employed. Both keep dread honest. Neither prints Renny on bone before Cho earns it." [player_name] thought of festival fog—funnel-cake sugar, Renny pointing east, a stranger wrong on the pier, seven years of scrubbed silhouette—and of Owen under the eave naming the mic like a teacher grading a failed exam.
+"Or we take the failure public," he went on. "The failed wire becomes daylight. The press eats municipal paper before it can rinse. Rumor will try to bury your sister before Cho finishes. I'll stand on the steps with you anyway, if that's the choice you can live inside."
 
-The van heater ticked like a second interrogation clock. Will's scar nick caught dash light. Charm banked entirely to wound. "When my partner and I—" He stopped. Charm armor sliding. Wound showing a tooth and then hiding.
+He helped her peel the mic pack into an evidence bag. His knuckle brushed hers. She wanted his steadiness and hated wanting it while a clerk somewhere in City Hall was already packing. Will drove a slow loop away from the pier: warehouses, chain-link, fog eating the street signs.
 
-"When a raid goes sideways, people rinse what they can. Partners take weather. Kids in hallways pay for urgency dressed as care. I'm not dumping that sealed file on your wire fail. I'm telling you why I won't rush an ID or leave you on a pier to prove toughness while this clerk still has a throat we can aim at a hunt or a stage." His eyes found hers.
+"Ellison will ask if family theater taught him to spot tape," Will said, eyes on the wet road. "You standing here wet and shaking isn't theater. It's cooperation that got made and walked anyway. Tonight the trace was you breathing in my passenger seat instead of bleeding in a hallway I already know how to dream. And a phone call that means the clerk is running."
 
-"Hope stays employed. Dread stays honest. You stay in the van." Silence thickened with the rain. Will paced the choice with his voice the way he walked interview rooms—counting exits, counting lies, counting what soft nets cost when they became tip-calls.
+His late smile arrived and died in the same breath. "Waiting means I hunt while you stay reachable. The press means we stop whispering failed wires into rooms that prefer silence. Both hurt. Neither prints Renny on bone before Cho earns it."
 
-"If we wait, I will still be angry in every warehouse after—angry at Owen, at the clerk, at seven years of scrubbed silhouettes, at myself for floating soft until tape became the only map that failed. Anger doesn't cancel the braid. If we go press, I will still want your mouth when the storm cools. Want doesn't cancel the cost of daylight. I need you to hear both sentences without smoothing either into comfort."
+The van heater ticked like a second interrogation clock. "When my partner and I—" Will stopped. The armor slid. The wound showed a tooth, then hid.
 
-"Clock," Will said softly. "Wait while I hunt the escape—or blow the failed wire into the press. Either way Owen already saw the tape. Either way he already reached. Either way Cho's bones stay unnamed tonight. Pick the hurt that keeps truth reachable while Harborwick fog erases the alley where soft ice cut and a municipal throat started walking." [player_name] looked from the dark pier to Will's hunger-and-warning face and felt the choice land like a second lighter—careful, consequential, still capable of fire.
+"When a raid goes sideways, people rinse what they can," he said instead. "Partners take the weather. Kids in hallways pay for urgency dressed as care. I'm not dumping that sealed file on your failed wire. I'm telling you why I won't leave you on a pier to prove you're tough while this clerk still has a throat we can aim at."
 
-Wait. Or go public with the fail. Soft ice cracked behind them. Hard breathing ahead. The van wouldn't forgive a soft lie—and neither would the detective who had sent her onto thin ice and was asking which temperature of aftermath she could live inside while hope kept its impossible job beside dread.
+He paced the choice with his voice the way he walked interview rooms, counting exits and lies and costs. "If we wait, I'll still be angry in every warehouse after. At Owen, at the clerk, at seven years of scrubbed silhouettes, at myself for floating soft until tape became the only map. Anger doesn't cancel us. If we go to the press, I'll still want your mouth when the storm cools. Want doesn't cancel the cost of daylight. I need you to hear both."
 
-"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You kept a sealed hallway. Ellison keeps an inbox. Cho keeps bones without a name. Everybody keeps something. The question is which keeping still protects a living hope and which keeping only protects the people who just got tipped." She looked at Will until he looked back.
+"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You keep a sealed hallway. Everybody keeps something. The question is which keeping still protects a living hope."
 
-"If I wait while you hunt, I will hate every minute you're out of sight and still stay reachable. If we blow this into the press, I will hate every camera and still stand on the steps if it keeps the map from rinsing. I'm not inventing purity. I'm not inventing a funeral. I'm asking which hurt leaves Renny reachable." Will's pen stopped against the cracked notebook.
+She looked at Will until he looked back. "If I wait while you hunt, I'll hate every minute you're out of sight and still stay reachable. If we blow this into the press, I'll hate every camera and still stand on the steps. I'm asking which hurt leaves Renny reachable."
 
-Respect moved through his face like weather changing. He almost kissed her then—stopped a breath short on purpose—scar nick white under dash light, late smile wrong, all weapon and wound. Soft was dead. The wire had failed. The clerk was moving. Rain erased the curb where soft ice had just cut. The van smelled like wet wool and failed quiet. [player_name]'s mic pack sat against her sternum like a second mouth that had been caught mid-sentence.
+Respect moved through his face like weather changing. He almost kissed her, then stopped a breath short, on purpose. The van smelled like wet wool and failed quiet.
 
-Will's scar nick was white; his late smile was gone. "Wait while I hunt the escape—regroup, float backup, keep you breathing while we dig another angle," he said, hands still checking her for injury with cuff-tenderness steel hadn't required.
-
-"Blow the failed wire into the press—SIM chain on a city stage, municipal throat exposed—and stop letting quiet deals protect desks that already smelled you. Both leave Cho contested. Both leave me wanting soft after rain." The denial of his mouth hung unfinished. Soft was dead. The clerk was moving. Harborwick fog pressed the van glass and hope kept breathing beside dread while [player_name] chose vigil or volume with adrenaline still shaking her hands.`,
+"Clock," Will said softly. "Wait while I hunt, or blow the failed wire into the press. Owen already saw the tape. He already reached. Pick before Hale gets another mile."`,
   textHot: `Rain needled [player_name]'s scalp. The wire pack clung to her sternum under wet fabric. She stood beneath the warehouse eave where festival fog still lived in her memory, and she watched Owen's eyes drop to her chest.
 
 "There it is," he said softly. Almost proud. "Mic."
@@ -89,7 +87,7 @@ Will saw it on her face. Of course he did. He read people for a living.
 
 She climbed across the console into his lap. His hands went under her wet shirt, flat on her bare back, pulling her against his chest. He was warm. He was shaking too, a fine tremor she could feel through his coat.
 
-"When I heard him say mic," he said against her neck, "I stopped breathing."
+"When I heard him say *mic*," he said against her neck, "I stopped breathing."
 
 "You told me to walk."
 

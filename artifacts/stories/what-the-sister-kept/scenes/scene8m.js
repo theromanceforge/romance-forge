@@ -2,80 +2,96 @@ export default {
   id: "scene8m",
   layer: 8,
   title: "Raid aftermath: Will wounded lightly / she chooses hospital vs chase",
-  text: `The ambulance bay smelled like antiseptic, diesel, and the metallic bright of a night that had already spent its gunshot and was trying to invent a softer tense. Harborwick General's side entrance took them in under sodium that made every wound look like rust. Will sat on the gurney edge with a gauze pad pressed to his temple and a medic who kept saying lightly like a prayer that could keep Internal from inventing worse language.
+  text: `The ambulance bay smelled like antiseptic and diesel, and like a night that had already spent its gunshot and was trying to find a softer tense. Harborwick General's side entrance took them in under sodium light that made every wound look like rust. Will sat on the gurney edge with gauze pressed to his temple. The medic kept saying lightly, like a prayer that could stop Internal from inventing worse language.
 
-Dark stubble silvered with rain that had followed them from the east cold-storage row. Scar nick lost under a new cut that didn't need poetry. Whitened knuckles flexed once when the blood-pressure cuff tightened, then forced open as if open hands could prove he was still the detective who held shoot/don't-shoot until the gun was real. [player_name] stood between the bay doors and the gurney in a borrowed vest that still smelled like fish-rot and Will's rain.
+Rain from the east cold-storage row still silvered his stubble. The scar at his eyebrow was lost under a new cut that didn't need poetry. His knuckles flexed once when the blood-pressure cuff tightened, then forced themselves open, as if open hands could prove he was still the detective who'd held his fire until the gun was real. [player_name] stood between the bay doors and the gurney in a borrowed vest that still smelled like fish-rot and rain.
 
-Her earpiece was dead. Her pulse wasn't. Somewhere behind them the warehouse raid was becoming paperwork—zip-tied swearing, empty side door, clerk-shaped shadow eaten by dock fog, a silver glitter in a crate that might have been a charm fragment and might have been trash. Dr. Lila Cho's unidentified remains still waited upriver. The charm in evidence still only like. Hope and fear shared the ambulance bay with fluorescent mercy and refused to invent a funeral because Will had gotten cracked by a pipe.
+Her earpiece was dead. Her pulse wasn't. Behind them, the warehouse raid was turning into paperwork: zip-tied swearing, an empty side door, a clerk-shaped shadow swallowed by dock fog, a silver glitter in a crate that might have been a charm fragment and might have been trash. Dr. Lila Cho's remains still waited upriver. The charm in evidence was still only like.
 
-"Pupils equal," the medic said. "Scalp lac. No soft signs that scare me yet. You still want CT for the lawyers." "I want a unit on the pier road," Will answered, voice steady, late smile attempted and failing into a grimace that made [player_name]'s sternum hurt.
+"Pupils equal," the medic said. "Scalp lac. No signs that scare me yet. You still want a CT for the lawyers."
 
-"Suspect two fled east dock. Geography still sings. Cho's bones don't get a vote because I bled on concrete." Captain Mara Ellison's name already lived in someone's phone two blocks away. Lieutenant Rhee's review weather would smell old raid ash whether Will invited it or not— Will's eyes found [player_name] across the bay. Hungry. Tired. Unfinished.
+"I want a unit on the pier road," Will answered. His voice was steady. His late smile tried and failed into a grimace that made [player_name]'s sternum hurt. "Suspect two fled east along the dock. Cho's bones don't get a vote because I bled on concrete."
 
-"You stayed," he said, soft enough that the medic pretended not to hear. "Hospital chair. Soft partnership. I told you that path made me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram and a second suspect who ran while I was inventing soft language for lightly wounded." [player_name] stepped close enough to smell copper and soap and the scrubbed past he wore like cologne he wouldn't name.
+Captain Mara Ellison's name already lived in someone's phone two blocks away. Lieutenant Rhee's review would smell the old raid on this whether Will invited it or not. His eyes found [player_name] across the bay. Hungry. Tired. Unfinished.
 
-She didn't kiss the blood off his lip in front of the medic. Softest hard she had. Trust under bay lights. "If you chase tonight—" "Then I leave the stitch count to people who get paid for it and I hunt fog with a temple that throbs and a notebook that still drinks damp," Will said.
+"You stayed," he said, soft enough that the medic pretended not to hear. "Hospital chair. Soft partnership. I told you that path made me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram, and a second suspect who ran while I was finding soft words for lightly wounded."
 
-"You wait. You sit in a chair that smells like fear and vending-machine coffee. You become the person who held the line at the bay while I tried to finish what the side door stole." His cracked knuckles found her wrist, pulse to pulse.
+[player_name] stepped close enough to smell copper and soap. She didn't kiss the blood off his lip in front of the medic. "If you chase tonight—"
 
-"Or you choose the hospital dawn with me—stay through the CT, the soft language, the Ellison memo that will call this a success with footnotes, the morning where machines beep my name and I pretend I don't need your hand. Soft returns as bedside quiet. The chase waits. The clerk gets hours. Soft costs hours. Both true." Want lived under the procedural dread even here—dangerous, unfinished, the pull of a man who could hold a shoot/don't-shoot line and still look at her mouth like evidence he refused to bag while gauze wicked red at his temple.
+"Then I leave the stitch count to people who get paid for it, and I hunt fog with a throbbing temple and a notebook that still drinks damp," Will said. "You wait. You sit in a chair that smells like fear and vending-machine coffee. You hold the line at the bay while I try to finish what the side door stole." His knuckles found her wrist, pulse to pulse.
+
+"Or you choose the hospital dawn with me. You stay through the CT, the soft language, the Ellison memo that will call this a success with footnotes, the morning where machines beep my name and I pretend I don't need your hand. The chase waits. The clerk gets hours. Both are true."
 
 [player_name] tasted pier salt memory under antiseptic—festival fog, Renny at sixteen pointing east, a clean jacket on a wrist, a silver bracelet missing one charm. Owen still unnamed on any official page. The kept pier sighting still pressed her tongue while Will bled for a door her sister had pointed at seven years ago.
 
-"Cho won't rush an ID because I got cracked," Will murmured, almost gentle. "Remains stay unnamed. Sister stays missing until science or a confession says otherwise. What changes is whether dawn finds you in a hospital chair listening to machines invent soft partnership, or waiting while I hunt the pier road with a light wound and a heavier pride." He scrubbed blood from his eyebrow with the back of his hand and smeared it worse.
+"Cho won't rush an ID because I got cracked," Will murmured, almost gently. "What changes is whether dawn finds you in a hospital chair listening to machines, or waiting while I hunt the pier road with a light wound and a heavier pride." He wiped blood from his eyebrow with the back of his hand and smeared it worse.
 
-"I won't pretend I don't want the dawn. Wanting that makes me a bastard who likes soft nets after hard rooms. Offering the chase path anyway makes me slightly less. Slightly." Rain ticked the bay doors. A fog horn spoke across Harborwick like a warning that had learned their names. Somewhere a radio crackled: second suspect still lost in dock fog. Warehouse crates had yielded shipping codes and a clerk's jacket left behind and nothing that named Renny.
+"I won't pretend I don't want the dawn. Wanting that makes me a bastard who likes soft nets after hard rooms. Offering you the chase anyway makes me slightly less of one. Slightly."
 
-Hope and fear refused to retire. Will's notebook lay open on the gurney rail—red door, badge ghosts half-heard, Marta's ink—pages still damp like a small black altar that refused to stay dry.
+Rain ticked on the bay doors. A foghorn spoke across Harborwick. Somewhere a radio crackled: the second suspect was still lost in the dock fog. The warehouse crates had given up shipping codes and a clerk's abandoned jacket, and nothing that named Renny. Will's notebook lay open on the gurney rail, damp pages showing the red door and Marta's ink.
 
-"[player_name]," Will said, and her name in his mouth felt like a hand on her spine. "Two ways that the pipe bought us. Choose the hospital dawn with Will—bedside, CT, soft language, us answering Ellison's footnotes with actual presence while the clerk's trail cools and old raid ash stirs in memos without getting the whole hallway. Or chase—wait while Will hunts. You stay here as the living soft. I go east into fog with a stitched temple and whitened knuckles and a method that still refuses to invent Renny in a shoulder wound or a head cut. Hurt either way. Good."
+"[player_name]," Will said, and her name in his mouth felt like a hand on her spine. "Two ways the pipe bought us. The hospital dawn: bedside, CT, us answering Ellison's footnotes with actual presence while the clerk's trail cools. Or the chase: you wait here while I go east into the fog with a stitched temple and a method that still refuses to find Renny in a head cut. It hurts either way."
 
-[player_name] almost laughed. Almost cried. Trust under interrogation lights had become trust under gauze. The romance was whether she could love a badge after the system failed Renny—and whether he could love the woman who still fed a pier secret while choosing between his stitches and his hunt. The sealed past stayed sealed—pressure deepened by association, full story still sealed behind his ribs. Captain Ellison's distrust had become a hospital problem and a chase problem at once.
+She almost laughed. Almost cried. The trust she'd built under interrogation lights now sat under gauze. Ellison's distrust had become a hospital problem and a chase problem at once.
 
-Renny's pointed finger still lived in the geography of the east dock. "If I choose dawn," [player_name] said carefully, "I'm choosing the body over the trail for the hours that matter most to soft."
+"If I choose dawn," [player_name] said carefully, "I'm choosing the body over the trail, for the hours that matter most."
 
-"If you choose chase," Will answered, "you're choosing the trail over the body while still refusing to leave the bay—waiting as loyalty's quieter twin while I put a light wound into dock fog like an idiot with a badge." He almost smiled. Failed into a wince.
+"If you choose the chase," Will answered, "you're choosing the trail over the body, while still refusing to leave the bay. Waiting is loyalty's quieter twin. And I put a light wound into the dock fog like an idiot with a badge." He almost smiled, then winced. "Either way, I still want to finish the kiss we keep parking behind warrants, and now behind antiseptic."
 
-"Both leave Cho's bones unnamed. Both leave charm probable. Both leave Owen off your paper until you put him on a sentence. Both leave me wanting to finish the kiss we keep parking behind warrants and now behind antiseptic." The medic cleared her throat with professional patience.
+The medic cleared her throat with professional patience. "Detective. CT slot in twelve. You can argue romance in the corridor after I get pictures of your brain."
 
-"Detective. CT slot in twelve. You can argue romance in the corridor after I get pictures of your brain." Will ignored the word romance like a man who had heard worse knives. He watched [player_name] instead, danger soft for a sister of the missing who had walked into fish-rot behind him and not fled when the shot cracked the dark and not fled when the pipe put him on a knee.
+Will ignored the word romance like a man who'd heard worse knives. He watched [player_name] instead: the woman who'd walked into fish-rot behind him and hadn't run when the shot cracked the dark, or when the pipe put him on one knee.
 
-"Pick the choice," Will whispered. "Hospital dawn or chase-wait. My bedside or my hunt. Soft partnership through machines, or soft partnership as the person who holds the bay while I finish the warrant the side door stole." His thumb brushed her pulse.
+"I dream about raid noise when soft fails," he whispered. "Soft failed into a pipe tonight. You get to decide whether it comes back as quiet at dawn, or as waiting while the fog eats a clerk's shoes." His thumb brushed her pulse.
 
-"I dream raid noise when soft fails. Soft failed into a pipe. You get to decide whether soft returns as dawn quiet or as waiting while fog eats a clerk's shoes." [player_name] stood between diesel and fluorescent future, vest heavy, Will's cracked knuckles warm around her wrist. Remains unnamed. Charm probable. Sister still missing in the only way that mattered. The shoot/don't-shoot second still lived in her ribs as unfinished thunder—and the choice sat between them like a second warrant: stay through hospital dawn with the wounded detective, or wait while he hunted dock fog with a light wound that was consequence, not spectacle, and a hunger that refused to retire because a side door had unlocked itself at the wrong minute.
+Outside, the pier road hissed with rain. Ellison's memo was already writing itself. Rhee was already stirring. [player_name] drew a breath that tasted like antiseptic and pier salt.
 
-Outside, Harborwick's pier road hissed with rain. Inside, Will waited with gauze and teeth and a notebook that still pointed east. Ellison's memo was already drafting itself. Rhee's ash-smell was already stirring. Cho's patience was still the only honest thing in the city about bones. [player_name] drew a breath that tasted like antiseptic and pier salt and unfinished loyalty.
+"I put you behind my six tonight," Will said, "and I'd do it again. Hospital dawn with me, or wait while I hunt. Pick before the CT does."`,
+  textHot: `The ambulance bay smelled like antiseptic and diesel, and like the unfinished want that danger always left in [player_name]. Will had bled for a door and still looked at her as if he wanted inside her more than he wanted the stitch count. Gurney edge. Gauze at his temple. The medic saying lightly like a prayer. His knuckles, white, forced open on the rail.
 
-"Choose the hospital dawn with Will," he said, almost a plea under the grit. "Or chase—wait while Will hunts. Either door costs. Means you understand lightly wounded is still a choice with teeth." Diesel and antiseptic braided in the ambulance bay. Gauze at Will's temple looked too small for how the red door had sounded. The medic's back was a temporary wall. Captain Mara Ellison's name already lived in someone's phone two blocks away—review weather coming whether they invited it or not.
+Vest borrowed and too tight. Nipples peaked from cold and adrenaline and the way Will's grey-green eyes found her mouth like unfinished fucking. Remains unnamed upriver. Charm still only like. Hope and dread soaked her the way his attention did: low, relentless.
 
-"Hospital dawn with me means bedside, CT, soft language, us answering footnotes with actual breath," Will said, grit under the plea. "Chase—wait while I hunt—means you save the soft for vigil and I repay the waiting when steel cools. Lightly wounded is still a choice with teeth. Remains unnamed. Charm probable. I put you behind my six and I'd do it again." [player_name] almost laughed. Almost cried.
+"You stayed," Will said, low enough that the medic could pretend not to hear. "Hospital chair. Soft partnership. Still selfish. Still hard." He caught her wrist and drew her palm under the edge of the gown the medic had half-forced on him, over the hammer of his heart. Then lower, for one stolen second, against the thick line of his cock through thin fabric.
 
-Trust under gauze. Want unfinished between fluorescent future and diesel chase while Will's cracked knuckles stayed forced open on the rail like a man refusing to hold a gun and a lover with the same fist. Review weather would smell the sealed past whether Will invited it or not—association pressure deepened by a wounded detective who had put a witness behind his six; he gave gauze and method, not a sealed-file speech.`,
-  textHot: `The ambulance bay smelled like antiseptic and diesel. Will sat on the gurney edge with a scalp cut taped shut, rain still in his stubble, and looked at [player_name] like the night hadn't finished with either of them.
+"A pipe didn't kill it. You behind me in a vest didn't kill it. The shoot/don't-shoot held, and I still got hard for the way you said my name when I went down. Feel that. That should scare Internal. It scares me."
 
-Her borrowed vest was too tight. Her hands hadn't stopped shaking since he went down. Behind them the warehouse raid was turning into paperwork: zip-tied swearing, an empty side door, a clerk-shaped shadow gone into dock fog.
+The medic stepped out for forms. Three meters of not-looking. Will pulled [player_name] into the bay's blind corner, against cold tile, and kissed her hard enough to bruise. His gauze brushed her temple. She tasted copper.
 
-"Pupils equal," the medic said. "Scalp lac. You still want CT for the lawyers."
+His thigh pushed between hers. She gasped at the pressure through denim, and he groaned into her mouth like the sound hurt more than the cut. His hand was already under the vest, under her shirt, his thumb finding a tight nipple and rolling it until her hips jerked.
 
-"I want a unit on the pier road," Will answered. When the medic stepped away to the rig, he caught [player_name]'s wrist. "You stayed," he said, low. "I told you the hospital path made me selfish. I'm still selfish."
+"Choose the hospital dawn with me," he muttered. "Sit through the CT, hold my hand, and after the bay clears I'll take you careful in a supply closet that smells like antiseptic, my palm over your mouth." Two fingers slid into her jeans, under soaked cotton. She was dripping. He cursed softly and pushed deep.
 
-"You went down. I watched you go down."
-
-"I got up." His thumb moved on her pulse. "And I got up wanting you, which tells you everything about how badly my priorities are wired. Not here. Not with a medic ten feet away and my blood on the concrete. But I need you to know."
-
-She leaned her forehead against his, careful of the gauze. For a moment the bay went quiet around them: the rig idling, rain on the awning, his breath against her mouth. She didn't kiss the blood off his lip. She wanted to.
-
-"Two ways," he murmured. "The hospital dawn: you sit through CT with me, hold my hand, and when the bay clears we find somewhere with a door that locks. Or the chase: I put a light wound into dock fog and hunt the one who ran, and you wait. And when I come back smelling like rain and failure, or rain and a cuff, you'll have me then."
+"Or chase. You wait while I hunt. You stay here in a chair while I put a light wound into dock fog. And when I come back smelling like rain and failure, or rain and a cuff, I'll kneel between your thighs and eat you until the chase and the stitches are just noise."
 
 "If I choose dawn—"
 
-"Body over trail for a few hours. If you choose the chase, trail over body, and you wait as the one still standing. Owen stays off your paper either way."
+"Body over trail for a few soft hours," Will said, curling his fingers, his thumb circling her clit until her knees buckled against the tile.
 
-The medic came back with a clipboard. Will let go of her wrist. The cold came between them like a curtain drawn on a rail.
+"If you choose chase—trail over body while you wait as the living soft. Cho will not name bones because I got cracked. Charm stays like. Owen stays off your paper. Public and private storms both dig if you feed them wrong—but this fork is bedside quiet or waiting while fog eats a clerk." He freed himself enough to smear the head of his cock through her folds without entering—hot, blunt, cruel, painting her while radios crackled down the hall.
 
-"Ellison will be here in ten," he said, back in his working voice. "Rhee will smell the old raid on this whether I invite it or not. Pick before they do."
+"I won't take you all the way in an open bay," he said. "I'll make you choose while you drip on a detective who held his fire until the gun was real." She came quietly against the tile, shaking, her fist in his gown, biting his good shoulder through the cotton. He eased back without chasing his own finish, his cock jumping against her thigh.
 
-[player_name] looked at the tape on his scalp, at the pier road beyond the bay doors, at his hands. Hospital light or dock fog.`,
+He tucked himself away with unsteady hands and fastened her jeans with a mock courtesy that didn't reach his eyes. Then he walked her out of the blind corner into the supply alcove the medic had pointed at (privacy, if you need water), kicked the door half-shut and put her back against shelves of gauze and saline.
+
+Blood had dried dark at the edge of his bandage. He kissed her again, slower and meaner, gratitude with a pulse, and rubbed her through wet denim until her knees went.
+
+"Dawn means I get your mouth on the unbloodied parts after the scan," he murmured. "My throat. The place under my jaw where my pulse lies about calm. Then I bend you over a counter and take you careful, so I don't tear the stitches, while you come anyway."
+
+"And chase?"
+
+"Chase means you sit here smelling like fish-rot and my blood and yourself, and I pay you back for the waiting when I'm home." His fingers found the zipper again. Cool air. Two fingers back inside her, curling. "The old raid will stir either way. You don't get the whole hallway because I got cracked. You get this."
+
+He dropped into a crouch despite the throb in his temple and drew her jeans down far enough to put his mouth on her. His tongue went flat, then pointed. He sucked her clit with the same precision he used on warrants. She clapped a hand over her own mouth. His knuckles braced her thighs open against the saline shelf.
+
+"Dawn means I do this after every beep the machines make," he said against her, his voice vibrating through her. "Chase means I do this when I come back from the fog, cuff or empty pier road." He slid two fingers back into her while he licked, and she came again, harder, her vision going white at the edges.
+
+Will stood and wiped his mouth with the back of his hand, like a man finishing a statement. He pressed his forehead to hers, careful of the gauze. He was still hard, still unfinished, on purpose.
+
+"The sealed file stays sealed," he said. "Your Owen weather stays yours until you choose a page. What doesn't stay unfinished is the choice. Dawn or chase, before the CT slot eats our air." He braced both hands on the shelf by her head and rolled his hips once against hers, slow, a promise with a pulse.
+
+"If you choose to wait," he added, "I'll spend the first hour of the hunt aching, and the first minute back making you find new ways to stay quiet." His knuckles brushed her jaw.
+
+Rain ticked the bay glass. Fluorescents hummed like a third recorder. "Either verb keeps Renny a pointed finger and Cho's bones unnamed. Either verb leaves the sealed past sealed tonight. Neither verb lets me pretend I am clean. Pick, [player_name]. The bay is waiting. So is my mouth." [player_name] stood between diesel and fluorescent future, wet jeans, remains unnamed, charm probable—and the choice sitting between them like unfinished fucking: hospital dawn with Will's blood under gauze, or waiting while he hunted dock fog with a light wound and old raid ash stirring without a full sealed-file dump yet.`,
   choices: [
     { id: "scene9g", text: "Choose the hospital dawn with Will", textHot: "Choose the hospital dawn with Will" },
     { id: "scene9f", text: "Chase — wait while Will hunts", textHot: "Chase — wait while Will hunts" }
