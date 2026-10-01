@@ -70,7 +70,7 @@ She hadn't seen a crime. She'd seen almosts. Almosts didn't fit in a notepad. Th
 
 "And you?"
 
-He looked at her then. Properly. The charm dropped half an inch and something hungrier came through. "I want you to decide what you are before she gets this far up. Cover or company."
+He looked at her then. Properly. The polish slipped, and he looked at her like a risk he'd already decided to take. "I want you to decide what you are before she gets this far up. Cover or company."
 
 "Those aren't different to you."
 

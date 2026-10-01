@@ -92,9 +92,9 @@ Brooks glanced at her pocket. Then at her face. Then back at the numbers.
 
 Rhea finally looked up. One quick look. Her mouth moved without sound. Two words, maybe. Not yet.
 
-The elevator slowed. Seven. Eight.
+The elevator slowed. Seven. Eight. Nine.
 
-The phone buzzed again, and her hand went to it before she could stop it.`,
+The doors opened on low lamps, empty chairs and a window full of city. Brooks stepped out first. [player_name] stayed where she was a heartbeat too long, her palm flat over the phone in her pocket, wanting what was on it so badly her hand hurt.`,
   textHot: `"You understand you're speaking voluntarily," Detective Brooks said.
 
 "I understand." [player_name]'s voice came out lower than she meant. She was still wet from Nolan's breath in her doorway, from his text, from her own imagination on the ride down. She stood very straight to hide it.
@@ -203,9 +203,9 @@ Brooks's eyes went to her pocket. Then her face. Then back to the numbers.
 
 Rhea looked up. Just once. Her lips shaped two words. Not yet.
 
-Seven. Eight.
+Seven. Eight. Nine.
 
-The phone buzzed again against her hip, and her whole body answered it.`,
+The doors opened on low lamps and a window full of city. Brooks stepped out. [player_name] didn't move. Her palm was pressed flat over the phone in her pocket, over his words, and the ache under her dress had gone heavy and slow and wouldn't let her walk yet.`,
   choices: [
     { id: "scene4e", text: "Confess the calendar on the record — beg Brooks for the softer interview", textHot: "Confess the calendar on the record — beg for softness, the badge on you like a hand" },
     { id: "scene4f", text: "Tip Rhea — warn her Brooks will raid the guest logs", textHot: "Tip Rhea — warn her about the logs, your pulse still loud with Nolan" }

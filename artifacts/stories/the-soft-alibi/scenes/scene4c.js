@@ -30,7 +30,7 @@ She almost smiled. Didn't. "Your cufflinks."
 
 "I read everything into it. You taught me."
 
-He took that. Let it sit. The charm had gone out of his face somewhere between the penthouse and here. What was left was older, hungrier, less sure of itself. She'd never seen him less sure. She didn't know if she liked it. She couldn't stop looking.
+He took that. Let it sit. Somewhere between the penthouse and here he'd stopped performing. He looked like a man waiting on a verdict. She'd never seen him wait on anything. She didn't know if she liked it. She couldn't stop looking.
 
 "I gave you the calendar," he said. "Don't make me give you a confession I don't own yet."
 
@@ -80,7 +80,7 @@ His jaw tightened. "Hers."
 
 "Why not?"
 
-"Because I was standing in your kitchen in my shirt," Nolan said, "and I didn't want to be anywhere else." He said it plainly, like a figure in a ledger. It landed harder than charm ever had.
+"Because I was standing in your kitchen in my shirt," Nolan said, "and I didn't want to be anywhere else." He said it plainly, like a figure in a ledger. It landed harder than anything polished ever had.
 
 She rose to him anyway.
 
@@ -120,7 +120,7 @@ His mouth came down the last half inch and stopped there, touching hers, not mov
 
 Her lips parted.
 
-Below them, the elevator stopped and the doors opened on some floor. A voice drifted up, too faint for words, and he didn't take his mouth from hers.`,
+She reached behind her without looking, for a door six steps away that her hand couldn't reach. Her fingers closed on air. He felt her do it. His mouth stayed on hers, not moving, waiting to be told.`,
   textHot: `Step six. His palm still flat on the wall beside her head. Her back still against the plaster. The hallway pressed in from both sides, gray carpet, low light, and her whole body hummed like a struck wire.
 
 Weekly. Monthly. Gone. He'd said it. She could still feel the words in her chest where they'd landed.
@@ -141,7 +141,7 @@ At the end of the corridor hung the black dome of the camera.
 
 "You taught me to read into everything."
 
-He took that. His eyes went to her mouth and stayed there. The charm was gone from his face. What was left looked hungry and tired and less sure than she'd ever seen him. It went straight through her. She'd wanted him polished. She wanted this worse.
+He took that. His eyes went to her mouth and stayed there. He wasn't performing anymore. He looked like a man waiting to hear a number he couldn't afford. It went straight through her. She'd wanted him polished. She wanted this worse.
 
 "I gave you the calendar," he said. "Don't ask for a confession I don't own."
 
@@ -219,11 +219,9 @@ Her hand was still in his hair. His thumb was still on the inside of her thigh, 
 
 His mouth came down to hers again and stopped, touching, open, not moving. Breathing into her. Waiting.
 
-Below them the elevator doors opened on some floor. A voice drifted up, too faint for words.
-
 "Tell me which," he said against her lips.
 
-She couldn't answer. Her mouth was too busy wanting his.`,
+She couldn't answer. She pulled him one step toward her door by his hair, and then her legs stopped, and they stood there, mouths open on each other, halfway to it.`,
   choices: [
     { id: "scene5e", text: "Fall back into the unfinished kiss — let the silence wait", textHot: "Fall back into the unfinished kiss — let it outrun the elevator" },
     { id: "scene5f", text: "Break away — call Pell about the travel file that doesn't add up", textHot: "Break away aching — call Pell about the travel file, mouth still burning" }

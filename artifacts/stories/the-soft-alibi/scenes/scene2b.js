@@ -8,7 +8,7 @@ Nolan's knock was still on her door upstairs. She'd left him standing in it.
 
 Crownspire's lobby was built to make people whisper. Stone floor. Glass three stories high. A lamp on the desk that turned Rhea Quinn's skin gold and her eyes unreadable. Rhea looked up without surprise. Rhea never looked surprised. It was the job.
 
-"Ms. [player_name]," Rhea said. Just the name. Set down carefully. "Detective Brooks is in the back office with the evening manager. Missing-persons. Mrs. Greer."
+"[player_name]," Rhea said. Just the name. Set down carefully. "Detective Brooks is in the back office with the evening manager. Missing-persons. Mrs. Greer."
 
 "I heard," [player_name] said.
 
@@ -88,7 +88,7 @@ Nolan: Door's still open.
 
 Heat climbed her throat. Brooks watched it climb.
 
-"Ms. [player_name]?" Brooks said.
+"[player_name]?" Brooks said.
 
 The tablet glowed between them, its blank rows bright as teeth. Upstairs, his door was still open.`,
   textHot: `Her thighs still hummed when the lobby elevator opened. Nolan had leaned in her doorway two minutes ago, close enough to breathe on her mouth, and she'd stepped past him to come down here. Her body hadn't agreed. Her body was still upstairs, pressed against him.
@@ -97,7 +97,7 @@ It was 11:14 by the clock behind the concierge desk. [player_name] fixed her eye
 
 Rhea Quinn looked up. Gold lamp, careful eyes, nothing on her face. Concierges in Crownspire were trained like that. Rhea had gone further. Rhea had made it an art.
 
-"Ms. [player_name]," Rhea said. "Detective Brooks is in back with the evening manager. Missing-persons. Mrs. Greer."
+"[player_name]," Rhea said. "Detective Brooks is in back with the evening manager. Missing-persons. Mrs. Greer."
 
 "I heard," [player_name] said.
 
@@ -175,7 +175,7 @@ The words hit low. Her thighs pressed together under her dress. Her nipples ache
 
 Brooks watched her read it.
 
-"Ms. [player_name]?" Brooks said.
+"[player_name]?" Brooks said.
 
 Upstairs, his door was open. Her body was already halfway there.`,
   choices: [

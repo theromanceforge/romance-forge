@@ -117,7 +117,7 @@ Three measured taps, and her hand was still on his belt.`,
 
 Down the shaft the elevator stopped on some lower floor. Didn't come up. Not yet.
 
-"Again," he said. "From the Tuesday."
+"Again," he said. "From the top."
 
 They built the week on the couch. She lay back across the cushions with him beside her. His fingers undid the tiny buttons down the front of her dress, one at a time, as she talked. Dinners. Elevator logs. Delivery receipts with her name. Each fact got a button. By the Friday her dress was open to the waist. His mouth was on her breast, slow and wet, sucking until she arched and lost the date.
 
