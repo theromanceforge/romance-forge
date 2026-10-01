@@ -76,7 +76,7 @@ He aged a year in a second. His eyes flicked, uncle-sharp, over John's damp hair
 
 "We came for the truth that fits," John said, the rasp still in his voice. "Not the version that kept the diner open and my sleep broken. Not trains and brighter rooms. Clara found papers. You wrote a letter. She's standing here because of both. Finish what you started, Uncle, or we finish it for you."
 
-Henry stepped aside. Wood heat, old books, lemon polish. Charcoal sketches stood on the mantel beside the boyhood photograph of John. The paperweight sat on its stacked pages. Henry's hands shook once and stilled.
+Henry stepped aside. Wood heat, old books, lemon polish. Charcoal sketches stood on the mantel beside a photograph of John at twenty. The paperweight sat on its stacked pages. Henry's hands shook once and stilled.
 
 Rain cooled on [player_name]'s coat. The heat John had banked in her didn't. Standing in Henry's careful room with desire still under her skin felt like carrying a lit match into church, her cunt still slick from one stroke of a thumb and a hill of almost.
 

@@ -95,7 +95,7 @@ She was close, hips stuttering, thighs shaking, when the stairs complained.
 
 Not a scrape. A deliberate descent: wood announcing weight, then a pause on the landing.
 
-John didn't yank his hand free like a boy caught. He eased his hand free with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted.
+John didn't yank his hand free like a man caught out. He eased his hand free with agonizing care and left his other hand at her waist. His mouth left hers by degrees, lips still parted.
 
 It wasn't the building settling. It was Clara. By the time she came into view they had stepped apart. She stood on the landing with a stack of papers hugged to her ribs and a charcoal thumbprint on her jaw. Her eyes were wide, furious, and somehow relieved. A sketchbook rode the top of the stack. Beneath it: bank paper, a folded note, a winter date grooved into the sheet.
 
