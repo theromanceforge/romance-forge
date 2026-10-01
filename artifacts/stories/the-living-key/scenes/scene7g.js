@@ -1,127 +1,93 @@
 export default {
   id: "scene7g",
   layer: 7,
-  title: "Bell-tower breach with Cassian",
-  text: `Fog made the drowned bell-tower look like a throat the Veil Sea had tried to swallow and failed halfway. Copper blood-rust streaked the lowest stair. Salt wind fretted every open embrasure. Ozone clung where someone—or something—had burned a braid wrong and left the stone humming. Ashmere Collegium’s cliff fortress watched from above; Calderyn’s thinning farmlands waited inland; Unmade whispers reached border villages first without offering a clean map of cost. [player_name] stood on the wet stair with Cassian Rook at her shoulder—scorched leather, practice-blade oil, mid-thirties sleep-carved, brutal charm banked to breach-heat—and felt her cracked personal ward-charm tick against her throat like a second pulse that refused to call itself sacrifice.
+  title: "The Drowned Tower",
+  text: `Fog made the drowned bell-tower look like a throat the Veil Sea had tried to swallow and failed halfway through. Copper blood-rust streaked the lowest stair. Salt wind fretted every open embrasure. Ozone clung where someone, or something, had burned a braid wrong and left the stone humming.
 
-“Breach soft,” Cassian said, soft absolute, glove on the rail. “We are not Isolde’s hammer and we are not Thorne’s rumor. We are two people who smelled copper blood-rust on a lead and decided dawn was cheaper than assembly theater.” His eyes found hers. “Living-key truth stays contested. Your name is not confirmed in any lineage ledger. The Unmade is not fully mapped. If the tower tries to finish a story on your throat, we leave.”
+[player_name] stood on the wet stair with Cassian Rook at her shoulder. Her cracked charm ticked against her throat like a second pulse that refused to call itself sacrifice.
 
-[player_name] nodded. Hope and dread shared the fog. Lord Vesper Thorne remained warm wine over broken glass—monster, revolutionary, or both. Headmistress Isolde Vane’s ashwood patience waited somewhere above with bowls and silver. Archivist Bram Kestrel’s half-translated hymns muttered around refusal without naming clean edges. Maris Quill’s friend-fear still walked dining halls. Cassian’s sealed drawer in his quarters still refused opening.
+"We breach soft," Cassian said, his glove on the rail. "We're not Isolde's hammer, and we're not Thorne's rumor. We're two people who smelled blood-rust on a lead and decided dawn was cheaper than assembly theater." His eyes found hers. "Your name isn't confirmed in any lineage ledger. The Unmade isn't mapped. If the tower tries to finish a story on your throat, we leave."
 
-They climbed. The tower’s drowned bell hung crooked in a cage of salt-eaten iron, its tongue cracked, its copper skin mapped with old ward-script that tasted wrong when [player_name]’s charm warmed near it. Not identical to Thorne’s cliff mark. Not identical to Ashmere’s outer song. Adjacent. Sibling.
+[player_name] nodded. Somewhere above, Isolde's ashwood patience waited with its bowls and its silver.
 
-Cassian’s boot found a smear of copper blood-rust and stopped. “Prefect oil under the rust. Badge polish. Someone Collegium-adjacent bled here and tried to wash it with seawater. Seawater doesn’t erase frequency. It only makes the stone remember wetter.” He glanced at her. “You hear it?”
+They climbed. The drowned bell hung crooked in a cage of salt-eaten iron. Its tongue was cracked. Its copper skin was mapped with old ward-script that tasted wrong when [player_name]'s charm warmed near it. Not identical to Thorne's cliff mark. Not identical to Ashmere's outer song. Adjacent. A sibling.
 
-She did. The charm ticked harder. Recognition without ownership. Pattern without verdict. Living-key fog, not confirmation. “I hear a last hour trying to reconstruct itself,” [player_name] said. “Not a full Unmade map. A door left ajar.”
+Cassian's boot found a smear of blood-rust and stopped. "Prefect oil under the rust. Badge polish. Someone Collegium-adjacent bled here and tried to wash it off with seawater. Seawater doesn't erase frequency. It only makes the stone remember wetter." He glanced at her. "You hear it?"
 
-“Good.” Cassian’s mouth flicked—blade in velvet. “Ajar is workable. Closed is Isolde’s favorite lie. Wide open is how civilians die when someone pushes early.” He did not name the border village. He never did, not clean. The sealed past lived in the way he checked corners twice and trusted her pulse more than Collegium runners.
+She did. The charm ticked harder. "I hear a last hour trying to rebuild itself," [player_name] said. "Not a full Unmade map. A door left ajar."
 
-They found the alcove where the last hour had happened: chalk circle smeared by rain, a cracked charm twin to [player_name]’s throat-piece lying in copper dust, and a listening braid’s dead thread coiled like a snake that had finished delivering someone else’s voice. Want from corridors and briefings and unfinished asks hummed under [player_name]’s ribs even here—war pressure translating competence into heat she refused to apologize for. Adult. Consequential. Not soft professor fantasy. Cassian Rook teaching power without repeating his push.
+"Good." Cassian's mouth flicked, a blade in velvet. "Ajar is workable. Closed is Isolde's favorite lie. Wide open is how civilians die when someone pushes early." He didn't name the border village. He never did. The sealed past lived in the way he checked corners twice, and trusted her pulse more than Collegium runners.
 
-“Charm twin,” she whispered, crouching. Salt. Ozone. Old blood-magic carefully dried into rust. “Someone wore my frequency’s cousin and burned through. Or someone planted a cousin to make Isolde’s ledger smell like me.”
+They found the alcove where the last hour had happened. A chalk circle smeared by rain. A cracked charm, twin to [player_name]'s, lying in copper dust. A listening braid's dead thread, coiled like a snake that had finished delivering someone else's voice.
 
-Cassian crouched opposite, close enough that scorched leather brushed her sleeve. “Both possible. Both contested. Pick a verb that doesn’t let the tower own your mouth.” His glove hovered near the twin and did not touch yet. “Tower endgame splits here. Catch the prefect if the badge polish leads up the cage stairs—chase a mortal hand before assembly invents a cleaner story. Or hold and listen until Isolde’s partial confession walks down to meet us, because Headmistresses who smell copper sometimes arrive with half-truths dressed as mercy.”
+Want hummed under [player_name]'s ribs even here. War pressure, translating his competence into heat she refused to apologize for.
 
-[player_name] catalogued the breach: location—drowned bell-tower, fog, rust; intensity—charm ticking like a second heart; ask—survive without going blank, keep living-key ambiguity as shield not collar. Outside, copper ward-bells far above tasted Ashmere’s air and found enough fracture to keep restless. Inland, Calderyn failed by inches. On the cliff face, Thorne’s mark had bloomed once and might bloom again.
+"Charm twin," she whispered, crouching. Salt. Ozone. Old blood-magic carefully dried into rust. "Someone wore my frequency's cousin and burned through. Or someone planted a cousin to make Isolde's ledger smell like me."
 
-“If we catch the prefect,” she said, “we may put a hand on the table. Hand might be Thorne’s agent. Might be Isolde’s. Might be both, still contested.”
+Cassian crouched opposite, close enough that scorched leather brushed her sleeve. "Both possible. Both contested. Don't let the tower own your mouth." His glove hovered near the twin and didn't touch it yet.
 
-“If Isolde confesses partially,” Cassian answered, “we may get ink that protects you for a day and binds you for a year. Partial is her favorite currency.” His thumb brushed [player_name]’s wrist—brief, deliberate. Heat leapt. “Eyes open. Person first. I’m not repeating an early breach. I’m also not leaving you alone with a twin charm that smells like your throat.”
+"This is where it splits. Catch the prefect, if the badge polish leads up the cage stairs. Chase a mortal hand before the assembly invents a cleaner story. Or hold and listen until Isolde comes down to meet us. Headmistresses who smell copper sometimes arrive with half-truths dressed as mercy."
 
-She almost smiled. Almost. Trust under apocalypse pressure sharpened into the only spell she currently trusted: choose, and mean it. Consequence sharp. The Unmade pressed without a full map. Living-key sacrifice still a shape without clean edges. She gathered herself—breath, stance, charm warm—and held catch-the-prefect versus Isolde-confesses-partially while fog erased the lower stairs into blue ghosts.
+"If we catch the prefect," she said, "we may put a hand on the table. Hand might be Thorne's agent. Might be Isolde's. Might be both, still contested."
 
-Practice-blade oil and salt wind braided. Cassian rose first, offering a hand she could refuse. She took it. Partnership, not harvest. The twin charm stayed on the stone until Bram could bag it under lock; touching it felt like inviting Isolde’s silver into her pulse. [player_name] left it. Survival had textures.
+"If Isolde confesses partially," Cassian answered, "we may get ink that protects you for a day and binds you for a year. Partial is her favorite currency." His thumb brushed [player_name]'s wrist. Brief, deliberate. Heat leapt. "Eyes open. Person first. I won't repeat an early breach. I also won't leave you alone with a twin charm that smells like your throat."
 
-“You’re looking at the cage like it owes you a name,” Cassian murmured.
+Cassian rose first, offering a hand she could refuse. She took it. The twin charm stayed on the stone until Bram could bag it under lock. Touching it felt like inviting Isolde's silver into her pulse.
 
-“I’m looking at it like it owes Calderyn an honest map,” she said. “And like it owes me a choice that doesn’t finish my name in quiet ink.”
+"You're looking at the cage like it owes you a name," Cassian murmured.
 
-He nodded once. “Then choose the endgame. Prefect chase—or Isolde’s partial teeth walking into this fog with partnership language and a leash in the fine Latin. I’ll breach either theater with you. Non-negotiable metrics: you alive, song still yours, Unmade contested honestly, Thorne unfinished until evidence finishes him—not rumor.”
+"I'm looking at it like it owes Calderyn an honest map," she said. "And like it owes me a choice that doesn't finish my name in quiet ink."
 
-Salt rattled the crooked bell. Somewhere above, Ashmere’s lecture halls smelled of parchment and ozone. Somewhere below, waves argued with rock.
+He nodded once. "Then choose. The prefect chase. Or Isolde's partial teeth, walking into this fog with partnership language and a leash in the fine Latin. I'll breach either with you."
 
-She flexed the old copper-pin cut on her thumb and felt recognition settle again—not surrender. Recognition was a map. Maps could be refused mid-reading if you kept your mouth. She intended to keep her mouth even while copper blood-rust tried to write her into someone else’s hour.
+Salt rattled the crooked bell. Somewhere below, waves argued with rock. The bell swayed without ringing, as if sound itself had been quieted into Collegium manners.
 
-“I’ll choose,” [player_name] said. “With eyes open. With him in the room. Catch the prefect—or meet Isolde’s partial confession where fog can still hide how much I refuse to become only useful.”
+"Maris asked if the wards were hungry," [player_name] said quietly, remembering dining-hall pale. "This tower smells like hunger that learned to wear a badge."
 
-Cassian’s glance was blade and vow. Outside, Veil Sea fog hid more than weather. Calderyn waited. The Unmade whispered.
+"Hunger is a metaphor until it isn't," Cassian answered, echoing Bram without the softness. "Tonight it isn't. Tonight it's rust, and a twin charm, and a listening braid that delivered someone's voice into stone that already had too much music."
 
-Fog thickened. The crooked bell swayed without ringing, as if sound itself had been quieted into Collegium manners. [player_name] listened anyway—with charm, with pulse, with the particular stubbornness of a Warden-candidate who had cracked Ashmere’s outer song and lived. Cassian checked the upper cage again, then the lower smear, then her face. Handler grammar. Almost-lover grammar. Same body under war pressure.
+"If the prefect runs," she asked, "do you chase alone?"
 
-“Maris asked if the wards were hungry,” [player_name] said quietly, remembering dining-hall pale. “This tower smells like hunger that learned to wear a badge.”
+"No." Absolute. "I chased alone once, in a village I won't name. Civilians paid. I stayed. I learned to smile like a blade. I won't teach you power by repeating that push. We catch together, or we don't catch. If Isolde comes down with a partial confession, we hear it together, or we don't hear it. Partnership. Not harvest."
 
-“Hunger is a metaphor until it isn’t,” Cassian answered, echoing Bram without softness. “Tonight it isn’t. Tonight it’s rust and a twin charm and a listening braid that delivered someone’s voice into stone that already had too much music.” He tipped his head toward the cliff path home. “Isolde will smell this breach whether we report clean or dirty. Prefects will invent stories. Assembly will want a sermon. You get a verb before any of them finish writing you.”
+[player_name]'s throat tightened. Not fear exactly. Trust, the dangerous kind. The bells far above changed watch. Fog erased and revealed the stair in pulses. Catch the prefect, with adrenaline and want sharing her pulse. Or meet Isolde's partial mercy in the fog, with Latin that might protect and bind in the same breath.`,
+  textHot: `Fog made the drowned bell-tower feel like a mouth waiting to be confessed into. [player_name]'s cunt clenched on emptiness the moment Cassian's scorched leather brushed her back on the wet stair.
 
-Not stacked into noise—turned like facets. Want hummed under duty because wanting him was not a softness; it was a choice with teeth while the world demanded sacrifice shapes she still refused to accept as settled.
+Salt wind. Ozone. Copper blood-rust. Her cracked charm ticked hot between her breasts like a second clit Isolde Vane wasn't invited to touch.
 
-“If the prefect runs,” she asked, “do you chase alone?”
+"We breach soft," Cassian murmured at her ear. His breath was wet-warm on her jaw. The words stroked her without touching. "Person first. If the tower tries to finish a story on your throat, we leave."
 
-“No.” Absolute. “I chased alone once in a village I won’t name clean. Civilians paid. I stayed. I learned to smile like a blade. I will not teach you power by repeating that push. We catch together or we don’t catch. If Isolde walks down with partial confession, we hear together or we don’t hear. Partnership. Not harvest.”
+She nodded, nipples hard under damp wool. Competence was erotic on him. Restraint was filthier. He checked corners twice and trusted her pulse more than Collegium runners. Every careful motion made her wetter than a claim would have.
 
-[player_name]’s throat tightened—not fear exactly. Trust. The dangerous kind. She looked at the twin charm until chalk-rain and copper-dust shared a single question: what kind of honesty could she survive without going blank—tower chase with adrenaline and want sharing her pulse, or Isolde’s partial mercy walking into fog with Latin that might protect and bind in the same breath.
+They found the alcove. Chalk smeared by rain. A cracked charm twin to hers in copper dust. A dead listening braid, coiled like spent sex. [player_name] crouched. Cassian crouched opposite, close enough that leather brushed her nipples through cloth, and heat punched low.
 
-The hinge pressed. Copper bells far above changed watch. Fog erased and revealed the stair in pulses. Cassian’s glove returned to her wrist once—pulse check, vow check—and heat leapt again, adult, unfinished. Living-key sacrifice still ambiguous. Thorne still unfinished. Unmade still not fully mapped. She held catch-prefect and Isolde-partial in open hands and let the drowned tower ask which danger she could survive with her mouth still hers.`,
-  textHot: `Fog made the drowned bell-tower feel like a mouth waiting to be confessed into, and [player_name]’s cunt clenched on emptiness the moment Cassian Rook’s scorched leather brushed her back on the wet stair. Salt wind. Ozone. Copper blood-rust. Practice-blade oil. Mid-thirties sleep-carved hunger banked to breach-heat. Her cracked charm ticked hot between her breasts like a second clit Isolde Vane was not invited to touch. Want from corridors, briefings, unfinished jaw-asks—slick fact under war pressure. Living-key fog. Thorne unfinished, never romance. Unmade contested. No her name confirmed.
+"A charm twin," she whispered, her voice rough. "A cousin frequency. Planted, or burned through."
 
-“Breach soft,” Cassian murmured at her ear, breath wet-warm on the hinge of her jaw, and the words stroked her empty without touching it. “Person first. If the tower tries to finish a story on your throat, we leave.”
+"Both." His glove hovered near the twin, then found her wrist instead. Thumb on pulse. The shock went straight to her clit. "This is where it splits. Catch the prefect up the cage. A mortal hand, before the assembly invents cleaner lies. Or wait for Isolde's partial confession, coming down with partnership language and a leash in the fine Latin."
 
-She nodded, nipples hard under damp wool, thighs already negotiating how to climb without giving the fog a show. Competence was erotic on him. Restraint was filthier. He checked corners twice and trusted her pulse more than Collegium runners, and every careful motion made her wetter than a claim would have.
+She wanted to shove him against the salt-eaten iron and come with copper rust on her tongue. She wanted his fingers inside her while the crooked bell swayed silent.
 
-They found the alcove: chalk smeared by rain, cracked charm twin to hers in copper dust, dead listening braid coiled like spent sex. [player_name] crouched. Cassian crouched opposite—close enough that leather brushed her nipples through cloth and heat punched low. “Charm twin,” she whispered, voice rough. “Cousin frequency. Plant or burn-through. Contested.”
+"Eyes open," Cassian said. His thigh brushed hers. Deliberate. "I'll breach either way with you." His glance dropped to her mouth, then lower for one unprofessional heartbeat. "I can smell you deciding. The chase smells like heat. The partial smells like a collar dressed as mercy. Pick the one you can fuck through later without going blank."
 
-“Both.” His glove hovered near the twin, then found her wrist instead—thumb on pulse, shock straight to clit. Isolde would have called that compromise of handler integrity. [player_name] called it the only honest metric in the tower. “Tower endgame splits. Catch the prefect up the cage—mortal hand before assembly invents cleaner lies. Or hold for Isolde’s partial confession walking down with partnership language and a leash in the fine Latin.”
+[player_name]'s laugh broke soft and filthy. "If we catch the prefect, I want you angry enough afterward to take me where fog hides the sound."
 
-She wanted to shove him against salt-eaten iron and come with copper rust on her tongue. She wanted his fingers inside her while the crooked bell swayed silent. She wanted chase adrenaline and confession-teeth and his mouth after either. She stood—crouched—aching, choice sharpening.
+"And if Isolde confesses partially?" His thumb stroked her pulse in a rhythm that made her cunt clench.
 
-“Eyes open,” Cassian said, thigh brushing hers—deliberate, accidental to any ledger. “I’ll breach either theater with you. Alive. Song yours. Unmade honest. Thorne unfinished until evidence says otherwise—not rumor.” His glance dropped to her mouth, then lower for one unprofessional heartbeat. “I can smell you deciding. Chase smells like heat. Partial smells like a collar dressed as mercy. Pick the smell you can fuck through later without going blank.”
+"Then I want your hand on my throat—gentle, claiming person not key—while her Latin tries to own the morning and fails because I'm already wet for the man who interrupted her seals."
 
-[player_name]’s laugh broke soft and filthy. “If we catch the prefect, I want you angry enough afterward to take me where fog hides the sound.”
+Cassian's breath hitched once. Controlled. He didn't kiss her fully. A mercy filthier than a claim. But his forehead touched hers, and she felt him thick behind leather, restrained by duty and the terror of repeating an old border push. The unfinishedness made her drip.
 
-“And if Isolde confesses partially?” His thumb stroked her pulse in a rhythm that made her cunt clench.
+His mouth flicked—blade in velvet, fuck held in check. "Either way afterward, off-record, we negotiate what my mouth owes your pulse."
 
-“Then I want your hand on my throat—gentle, claiming person not key—while her Latin tries to own the morning and fails because I’m already wet for the man who interrupted her seals.”
+The promise alone made her hollow. She rose carefully, thighs pressed together, the charm ticking.
 
-Cassian’s breath hitched once. Adult. Controlled. He did not kiss her fully—mercy filthier than a claim—but his forehead touched hers and she felt him thick behind leather, restrained by duty and the terror of repeating an old border push. The unfinishedness made her drip.
+On the climb she watched the line of his shoulders under scorched leather. The shoulders that interrupted Isolde's seals and refused early pushes. Her slickness answered his competence with shameless precision.
 
-Salt. Ozone. Blade-oil. Twin charm humming wrong on stone. She catalogued arousal like fracture: location—low belly, inner thighs, charm; intensity—climbing a negotiation; trigger—his refusal to let the tower harvest her alone. That refusal hotter than seduction. It made her want chalk-rain on her knees and his name bitten into scorched leather while Unmade whispered and Isolde’s ink tried to invent a sermon.
+Cassian braced one gloved hand on the stone beside her head. Not trapping. Consent loud in the negative space. "You're dripping decision," he said roughly, his eyes on her mouth. "Don't apologize. Use it. I won't look away. I also won't fuck you through a prefect's trail and call that strategy."
 
-Not yet. Consequence first. Fucking deferred until catch or partial had teeth she could ethically carry. Thorne’s leftover music in distant cliff stone could flutter her ribs; she refused to confuse that with this man’s cock arguing duty against desire under leather.
+"I don't need you to fuck the trail," [player_name] breathed. Her hips almost tipped toward him. "I need your glove on my pulse when badge polish turns into a name. I need—" She stopped. Swallowed. "I need unfinished. On purpose. Until I choose."
 
-“I’ll choose,” she said, rough. “Catch the prefect—or meet Isolde’s partial. Him in the room. Throat mine. Cunt still empty on purpose until the verb lands.”
-
-His mouth flicked—blade in velvet, fuck held in check. “Either way afterward, off-record, we negotiate what my mouth owes your pulse.”
-
-The promise alone made her hollow. She rose carefully, thighs pressed, charm ticking. Fog erased stairs into blue ghosts. Calderyn thinned inland. Ashmere’s cliff fortress breathed salt and copper above a hungry sea. Living-key ambiguity stayed fog. Unmade still not fully mapped.
-
-When the crooked bell swayed again without sound, her nipples tightened as if the Collegium itself had leaned down to suck a secret through cloth. She hated the honesty. Needed it. Want under war pressure was data about who she refused to become. Cassian’s glove left her wrist only to skim the rail, knuckles near her hip, deliberate. “Later,” he mouthed, and [player_name]’s empty ached around the word like a vow.
-
-She looked at the twin charm until copper-dust and rain shared one filthy question: which danger kept his hands inside the story. Hope and dread shared her body. She nodded once and let the drowned bell-tower finish asking while Veil Sea fog hid more than weather and her cunt stayed insistent for the man who breached soft and still made soft feel like the hottest refusal in Calderyn.
-
-Breach-heat made every stair a negotiation between war and want. [player_name] climbed behind Cassian and watched the line of his shoulders under scorched leather—the same shoulders that interrupted Isolde’s seals and refused early pushes—and felt her slickness answer competence with shameless precision. War magic could be brutal. What she wanted from him was consent loud enough to drown Collegium Latin and still leave the living-key map unfinished. Copper bells above scored how stupid and necessary wanting him remained.
-
-In the alcove again—because the twin charm pulled her gaze like a second mouth—Cassian braced one gloved hand on salt-eaten stone beside her head. Not trapping. Consent loud in the negative space. “You’re dripping decision,” he said roughly, eyes on her mouth. “Don’t apologize. Use it. Chase or partial—both will ride your nerves the way wanting me rides them. I won’t look away. I also won’t fuck you through a prefect’s trail and call that strategy.”
-
-“I don’t need you to fuck the trail,” [player_name] breathed, hips almost tipping toward his restrained cock. “I need your glove on my pulse when badge polish turns into a name. I need—” She stopped. Swallowed. “I need unfinished. On purpose. Until the verb lands.”
-
-His laugh was short, wrecked, private. “Then take unfinished.” He kissed the corner of her mouth—salt, fog, blade-oil—and stepped back as if distance were a ward he only half believed. She stayed slick, empty, insistent. Blue-bruise memory from practice yards braided with tower want. Calderyn’s thinning somehow made her hungrier for the man who taught survival without promising salvation.
-
-Living-key ambiguity still contested; Thorne’s frequency still rumor in distant stone; Cassian’s sealed past still teeth behind one drawer—mystery as friction, danger as heat. Ashmere’s drowned tower held them above a hungry sea while [player_name] kept her heat like a braid under tension.
-
-She did not take the wall. He did not take her mouth fully. The ache was the point—and the plot. Fog hid more than weather. Unmade pressed without a full map.
-
-Breach-heat lingered in [player_name]’s thighs like a second confession. Every time Cassian’s boot found wet stone, her cunt answered with a pulse that had nothing to do with fear and everything to do with watching a man spend competence on her survival instead of her usefulness. She wanted his glove under her wool. She wanted his mouth on the charm between her breasts. She wanted to come quiet enough that Isolde’s stones could not file the sound—and she wanted that orgasm chosen, not taken, after catch or partial had a body count she could ethically carry.
-
-“You’re looking at me like the tower is optional,” Cassian said roughly, eyes dropping to her mouth, then to the charm, then lower for one unprofessional heartbeat that made her drip.
-
-“I’m looking at you like you just spent a breach keeping thread off my blood with your body in a place that wanted to collect my song,” [player_name] answered, shameless, aching. “That makes me filthy for you. Not for her silver. Not for Thorne’s leftover frequency in distant cliff stone. For you.”
-
-His hand found salt-eaten iron beside her head—bracing, not trapping. Consent loud in the negative space. “Then keep that filth for the choice. Prefect chase means I watch your mouth while adrenaline rides your nerves and try not to come apart from wanting you through the run. Isolde’s partial means I stand where her Latin can see my hands when she offers mercy with a leash.” His voice dropped. “Either way, afterward, off-record, we negotiate what my mouth owes your pulse.”
-
-[player_name] went slicker. She imagined his mouth on her charm, on her breasts, on the wet seam of her through cloth until she came with fog for cover. Blue-bruise memory from the yards braided with tower want. Calderyn’s thinning wards somehow made her hungrier for the man who taught survival without promising salvation.
-
-Living-key ambiguity still contested. Ashmere’s drowned bell-tower held them above a hungry Veil Sea while [player_name] kept her heat like a ward-braid under tension.
-
-She laughed once, wrecked and private. Salt. Ozone. Blade-oil. Hope and dread sharing her cunt the way they shared Ashmere’s thresholds. The Unmade pressed like weather with a mouth, and she chose nothing yet.`,
+His laugh was short, wrecked, private. "Then take unfinished." He kissed the corner of her mouth. Salt, fog, blade oil. Then he stepped back as if distance were a ward he only half believed. She stayed slick, empty, insistent. The prefect chase, or Isolde's partial confession.`,
   choices: [
     { id: "scene8g", text: "Tower endgame: catch the prefect", textHot: "Tower endgame: catch the prefect with adrenaline and want sharing your pulse" },
     { id: "scene8h", text: "Tower endgame: Isolde confesses partially", textHot: "Tower endgame: Isolde confesses partially — his hand on your pulse while Latin tries to collar morning" }
