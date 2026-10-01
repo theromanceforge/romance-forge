@@ -91,7 +91,7 @@ She read Henry's first draft aloud because he asked, his hand still on her. Ice.
 
 The second draft smoothed it over. The third made her ambition's costume. She hated the third draft with her mouth, and with the way she shifted on the vinyl, soaked through her underwear from nothing but voice and the blunt honesty of his grip.
 
-"Don't tell the boy. Circled," John muttered. He dragged her hand under the table and pressed it to the thick line of his cock through his jeans, once, deliberately, as proof. Then he put her hand back on the papers, as if evidence and erection belonged in the same negotiation. "The hospital request, circled. Your ticket, circled. Nobody circled the years I built a shrine and set myself on fire inside it. I'm circling those now. With my mouth on your throat, if you keep looking at me like that."
+"Don't tell John. Circled," John muttered. He dragged her hand under the table and pressed it to the thick line of his cock through his jeans, once, deliberately, as proof. Then he put her hand back on the papers, as if evidence and erection belonged in the same negotiation. "The hospital request, circled. Your ticket, circled. Nobody circled the years I built a shrine and set myself on fire inside it. I'm circling those now. With my mouth on your throat, if you keep looking at me like that."
 
 He did. His mouth on her pulse, sucking hard enough to mark while she tried to name Voss's payments in order. Teeth. Tongue. His thigh pressed tighter against hers. She gasped a number, and he groaned as if it were filthy.
 
@@ -99,7 +99,7 @@ He did. His mouth on her pulse, sucking hard enough to mark while she tried to n
 
 "Then finish fast." John pulled back enough to see her face, his mouth wet from her throat. His thumb found her nipple through shirt and bra, a cruel, precise circle, and her hips jerked.
 
-"I want Henry at noon with nothing softened and copies that can't vanish into a glove box," he said. "Or I want you to ask me what justice looks like while I can still feel how wet you are through these jeans. Because if justice includes keeping you in my hands through the town noise, I need to say that before I come in my pants like a teenager over a ledger."
+"I want Henry at noon with nothing softened and copies that can't vanish into a glove box," he said. "Or I want you to ask me what justice looks like while I can still feel how wet you are through these jeans. Because if justice includes keeping you in my hands through the town noise, I need to say that before I come in my pants like I'm twenty again over a ledger."
 
 She kept going. Bank slips. The faded envelope. the charcoal of the station steps, Henry drawn as a door. The furious margin note about love meaning lying prettier. She read it while John worked the button of her jeans open just enough to slide two fingertips inside. Not entering her. Just pressing against soaked cotton until she whimpered a circled date into his mouth.
 

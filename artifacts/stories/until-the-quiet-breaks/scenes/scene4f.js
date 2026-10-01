@@ -81,8 +81,6 @@ Down on Market Street the diner would be closing. John would be flipping chairs,
 
 Henry stepped aside when they came back into the hall. "The shed key is on the hook by the back door. The second notebook is with the glove box. Clara's map is good. It isn't complete." He looked at the floor. "If you bring John, bring him ready. He won't hear this soft. He shouldn't have to."
 
-At the mantel [player_name] paused over the boyhood photograph. She wanted the man those eyes had become: work-rough, burn-scarred, hard for her under fluorescent light, unfinished.
-
 "I used to think I was inventing drama," Clara said, perched on the arm of a chair. "Then I found the ledger and realized the drama was the tidy version. The real story was messier."
 
 [player_name] thought of cities that rewarded leaving. Of practicing ambition until it became a life. Of touching herself in those cities with John's unfinished face behind her eyelids until that became the only honesty she had left.

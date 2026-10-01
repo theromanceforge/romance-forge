@@ -67,7 +67,7 @@ He popped the button of her jeans. Zipper. Cold air. His hand slid into her unde
 
 "John—"
 
-"Say my name like that again and I'll come in my jeans like a teenager." He bit the hinge of her jaw, gentle and then not, while his fingers worked her open enough to sink one knuckle-deep, then two. She clenched around him with a broken moan she tried to swallow against his throat. "There. That's the reason you came back. Not paperwork. This. You shaking on my hand in my uncle's boxwood while the mantel clock judges us through glass. Say the winter again while I fuck you with my fingers. See if the story still sounds like armor."
+"Say my name like that again and I'll come in my jeans like I'm twenty again." He bit the hinge of her jaw, gentle and then not, while his fingers worked her open enough to sink one knuckle-deep, then two. She clenched around him with a broken moan she tried to swallow against his throat. "There. That's the reason you came back. Not paperwork. This. You shaking on my hand in my uncle's boxwood while the mantel clock judges us through glass. Say the winter again while I fuck you with my fingers. See if the story still sounds like armor."
 
 [player_name] rocked down onto his fingers on purpose, shallow and hungry, and dragged his mouth back to hers. Coffee and copper and wet leaves. She told him scraps between gasps. Voss's shadow. The platform yes. Silence as a costume. Cities that never smelled like the diner's blue door. His thumb kept a merciless rhythm on her clit while she spoke.
 

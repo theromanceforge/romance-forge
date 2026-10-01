@@ -32,7 +32,7 @@ Or to the space where John's father would have been, if the ice and a cover stor
 
 She searched further.
 
-Right drawer: envelopes, stamps Mae would have recognized by gum and year, a receipt for lemon oil. Top cubby: a photograph of Clara at twelve with charcoal on her cheek, John behind her in an apron, Henry at the edge of the frame looking away. Bottom cubby: nothing. Then her thumbnail caught a seam, and she found a false panel. Behind it, another folded sheet. Thinner. Older. The paper had the soft give of something handled and hidden many times.
+Right drawer: envelopes, stamps Mae would have recognized by gum and year, a receipt for lemon oil. Bottom cubby: nothing. Then her thumbnail caught a seam, and she found a false panel. Behind it, another folded sheet. Thinner. Older. The paper had the soft give of something handled and hidden many times.
 
 [player_name] did not unfold it yet.
 
@@ -56,7 +56,7 @@ Outside, rain wrote impatient sentences on the slate. The mantel clock struck. [
 
 The blotter's leather had a worn oval where Henry's wrists had rested through decades of letters that never said the worst thing first. Reading glasses watched her from the corner with empty lenses. [player_name] opened the center drawer and found a calendar from the winter that mattered. March was still dog-eared, one evening circled in pencil so lightly it looked like a cough instead of a confession.
 
-Clara's presence pressed from the hallway without entering. A courtesy that still felt like surveillance. Good. Surveillance was honest. Henry's house had survived on the opposite. [player_name] checked the underside of the drawer, an old trick John had taught her at seventeen as a joke. She found a strip of tape and the ghost of something removed. Someone had already cleaned a secret once. The question was whether they had cleaned all of it.
+Clara's presence pressed from the hallway without entering. A courtesy that still felt like surveillance. Good. Surveillance was honest. Henry's house had survived on the opposite. [player_name] checked the underside of the drawer, an old trick John had taught her years ago as a joke. She found a strip of tape and the ghost of something removed. Someone had already cleaned a secret once. The question was whether they had cleaned all of it.
 
 Her body remembered John with inconvenient precision. His mouth near her ear in rooms that smelled like coffee. The burn scar whitening when he gripped a spatula or a truth. Wanting him while she robbed his uncle's desk should have felt like blasphemy. It felt like continuity.
 

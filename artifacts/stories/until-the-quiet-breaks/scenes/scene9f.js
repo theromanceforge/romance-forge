@@ -95,7 +95,7 @@ Clara tapped the folder. "Voss's name is in here. The winter night is in here. Y
 
 They moved to the back booth, where the neon's leftover glow still painted the Formica a tired pink. John brought two mugs, though none of them needed more caffeine. The ritual mattered. [player_name] wrapped her hands around the heat and watched Clara turn pages that had lived under the glass weight on Willow Lane.
 
-Clara slid one page forward. A date, a winter night, a note in Henry's hand about "keeping the boy clear." The boy had been John. The keeping had cost [player_name] fifteen years of rain on other towns' roofs. Seeing it in daylight made her stomach drop and her spine straighten at once.
+Clara slid one page forward. A date, a winter night, a note in Henry's hand about "keeping my nephew clear." The nephew had been John. The keeping had cost [player_name] fifteen years of rain on other towns' roofs. Seeing it in daylight made her stomach drop and her spine straighten at once.
 
 "If accounting means he reads this aloud on Market Street," Clara said, "then the town hears the keeper name himself. If it's the gentler truth, we summarize without putting him on a spit. The town still hears. But Henry gets to live with the summary instead of performing his own hanging." She looked at [player_name]. "I love my uncle the complicated way you love someone who raised half your childhood and wrote half your wound. I still want the wound named. I'm asking you and John to choose how loud."
 

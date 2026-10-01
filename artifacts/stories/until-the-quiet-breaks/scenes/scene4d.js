@@ -63,7 +63,7 @@ Wet boxwood pressed its perfume through the door Henry hadn't fully closed. Unde
 
 She drew Henry's letter and held it up like a summons. The paper trembled once. She made her hand steady. Desire didn't leave because justice had entered. It sharpened. She felt John's attention on her mouth as she spoke, on the line of her throat, on the way indignation made her stand taller until her coat fell open and her sweater clung.
 
-"You wrote I thought you should know," she said. Her voice filled the front room without shouting. "So know this. I'm done being the exit wound. Tell John, here, now, why you put my suitcase on that platform. Tell him what his father died owing, and what you promised, and how you failed. Tell him I left because you asked a girl to disappear for a boy's sake and called it mercy." Her chin lifted.
+"You wrote I thought you should know," she said. Her voice filled the front room without shouting. "So know this. I'm done being the exit wound. Tell John, here, now, why you put my suitcase on that platform. Tell him what his father died owing, and what you promised, and how you failed. Tell him I left because you asked a girl to disappear for John's sake and called it mercy." Her chin lifted.
 
 The room absorbed the words the way old plaster absorbs smoke. From the kitchen arch, Clara's pencil began to whisper. Henry's face crumpled, then arranged itself into late courage.
 

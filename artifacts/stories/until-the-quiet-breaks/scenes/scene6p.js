@@ -65,7 +65,7 @@ Rain sheeted the glass. [player_name] gripped his wrist, not stopping him, pacin
 
 John's forehead dropped to hers. His cock jerked against her hip when she squeezed around his fingers. "You came back and ruined my quiet with your mouth and your body and your not-yet," he muttered. "Good. Ruin me further."
 
-She was close, white-edged and shaking, when he eased the rub just enough that speech came back. Cruel. Careful. "Stand with me, or ask me to leave room," he said. "Before I forgive him by accident with my mouth between your legs. Before kindness drowns us. Before I come in my jeans like a teenager and forget what justice was for."
+She was close, white-edged and shaking, when he eased the rub just enough that speech came back. Cruel. Careful. "Stand with me, or ask me to leave room," he said. "Before I forgive him by accident with my mouth between your legs. Before kindness drowns us. Before I come in my jeans like I'm twenty again and forget what justice was for."
 
 [player_name] tasted rain and him and copper truth. Her nipples ached from his pinching attention. Her cunt fluttered around emptiness when he withdrew his fingers and painted her lower lip with her own slick—filthy benediction. "Choose," he whispered. "I will lick this clean after you name the road. Not before."
 

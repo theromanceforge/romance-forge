@@ -65,7 +65,7 @@ The diner on Market Street was closed for the afternoon. Blue door locked, crack
 
 "We're not asking the town," John said. His voice was steady in the way that meant he was holding something jagged behind his teeth. "We're asking each other. Keep Henry at Willow in grace, or cut him out of the diner's future. Forgive with conditions. Or exile, with love still bleeding."
 
-Henry's hands trembled on the arms of the chair. He looked older than the winter that had started all this. Older than the cover story that had cast [player_name] as a woman who left for a bigger life, when she had left to protect the boy who grew into the man beside her. "I won't beg," Henry said. "I will accept. Those aren't the same."
+Henry's hands trembled on the arms of the chair. He looked older than the winter that had started all this. Older than the cover story that had cast [player_name] as a woman who left for a bigger life, when she had left to protect John, the man beside her. "I won't beg," Henry said. "I will accept. Those aren't the same."
 
 "Accepting isn't the same as earning," Clara said, without looking at him. "Earning would have started fifteen years ago, when you wrote quiet over a wound and called it love."
 

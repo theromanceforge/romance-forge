@@ -62,7 +62,7 @@ Halfway up the hill their hands brushed. Neither pulled away. The second brush b
 
 She wondered if he was hard under the jacket. She wondered if the rain would hide it if she checked. She didn't check. The wondering soaked her anyway.
 
-At the gate John stopped. "If I speak first, he remembers the boy he protected," he said, voice low enough to live in her sternum. "He softens it again and calls it love. Fifteen years of love that never fit, while I wanted you in ways a protected nephew wasn't supposed to keep wanting."
+At the gate John stopped. "If I speak first, he remembers the nephew he protected," he said, voice low enough to live in her sternum. "He softens it again and calls it love. Fifteen years of love that never fit, while I wanted you in ways a protected nephew wasn't supposed to keep wanting."
 
 He turned to face her. Close enough that she smelled his skin under the rain: coffee, mint, clean sweat from the rush. "If you speak first, he faces the woman he sent away. He can't tidy you into ambition while you stand in his front room smelling of rain and refusal." An almost-smile. "And of me, if I'm honest about how close I've walked."
 
@@ -88,7 +88,7 @@ His eyes went to [player_name]. "You've heard pieces. John has lived with the wr
 
 The fire popped. John glanced at her: permission, fear, and under it the hill's unwashed hunger. His body was angled as if he would follow her into the truth or into her. His hand hung near hers without taking it.
 
-She could let him speak and watch the boy Henry protected refuse protection, standing close enough to feel John's heat like a second fire. Or she could force the letter open with her own voice before anyone softened it, before the wanting between her and John became one more excuse to delay.
+She could let him speak and watch the nephew Henry protected refuse protection, standing close enough to feel John's heat like a second fire. Or she could force the letter open with her own voice before anyone softened it, before the wanting between her and John became one more excuse to delay.
 
 John's grey eyes held hers. Henry's mouth parted on another unfinished sentence. Her pulse kept its shameless time, and the room waited for her to open her mouth.`,
   choices: [

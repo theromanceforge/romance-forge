@@ -85,7 +85,7 @@ She had shown him almost everything. Voss. The numbers. The softened drafts. The
 
 He came around the booth without asking. Rain ticked the awning. He set his palm flat over the fold, over paper and bra and the frantic beat beneath, and pressed until she gasped. "There. Protection with a body count. What's on the page, [player_name]?"
 
-Heat punched through her. "Henry's request, raw," she managed. "The girl will carry the story so the boy does not learn how close ruin came. My agreement, itemized. The creditor's shadow. The sum under the sum. The edges are circled. I stole the center."
+Heat punched through her. "Henry's request, raw," she managed. "The girl will carry the story so John does not learn how close ruin came. My agreement, itemized. The creditor's shadow. The sum under the sum. The edges are circled. I stole the center."
 
 "Christ." John's forehead dropped to hers. When he stepped in, his cock was already a thick line against her hip, anger and arousal refusing separate rooms. "You hid the part that makes you an invoice. And you did it while I was hard under the table, listening to Voss's name like it was dirty talk. Do you understand how fucked that is?"
 
