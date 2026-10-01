@@ -2,44 +2,240 @@ export default {
   id: "scene5c",
   layer: 5,
   title: "Controlled Drip",
-  text: `Controlled drip required Marcus Pell in the room, and Pell's presence turned Nolan Greer's penthouse into a deposition wearing wine. [player_name] sat where soft alibis sat—close enough to look intimate, far enough for counsel to sand every sentence. Detective Imani Brooks's file was escalating toward homicide interest without a settled body; Vivienne's unused perfume still haunted the bath corridor; Rhea's slate waited downstairs like a second witness Pell had not yet purchased.
+  text: `Pell came back into the room tucking his phone away. He looked at their hands on the table. He didn't comment. He simply waited until Nolan's fingers slid out of hers, and then he squared the boring page in its folio.
 
-"What she saw on the empty nights," Pell said mildly, silver hair neat, eyes inventoring exits, "comes out in calibrated pieces. Weekly to monthly to gone is a cadence we can contextualize as travel and marital distance. Bags, cars, perfume bottles opened and capped—those become speculative unless we choose otherwise. Speculation feeds colder files."
+"Ten minutes," Pell said. "Here's how it goes. She asks. You look at me. I nod or I don't. If I nod, you answer what she asked and nothing next to it. If I don't, you say, 'I'd want to check my calendar.'"
 
-Nolan's cufflinks clicked once. He watched [player_name] instead of Pell. Brutal charm under polished money. "I asked for protection. He brought a faucet."
+"I don't keep a calendar," [player_name] said.
 
-[player_name]—early thirties, across the hall, neighbor-mistress learning how silence was manufactured—tasted oak and the insult of being drafted as plumbing. "Brooks is not only missing-persons in how she asks anymore. Soft interview language is thinning. If I drip, I drip into a file that wants a body it does not have. Vivienne might have left willingly. She might have been paid to vanish. She might be dead. She might be staging every blank mark. I will not pick her ending to make your faucet prettier."
+"Then it's a very easy thing to check." Pell sat in the armchair facing the door. "Drip, [player_name]. Not a flood. Not a drought. A drip."
 
-Pell smiled without warmth. "Then drip without endings. Describe presence thinning. Describe neighbor proximity. Do not narrate corpses. Do not narrate planes you did not board. Controlled honesty is still honesty Crownspire can survive."
+Nolan went to the window. He stood with his back to the room and his hands in his pockets, and [player_name] could see his reflection in the glass, looking at her.
 
-Wind sheer pressed the glass. Elevator chime in the private shaft. Wine rings nested on marble. [player_name] understood the trap: drip too little and Brooks smelled obstruction; drip too much and Pell smelled sandbagging—truth withheld in shapes counsel had not approved. Nolan's nearness made both failures feel personal.
+The doorbell rang. Eight minutes to midnight. Not a knock. Brooks had gone through the front desk.
 
-She could refuse the intimacy tonight entirely—silence war only, bodies off the table while words dripped under Pell's eye. Or she could keep feeding calibrated pieces until Pell's mild voice sharpened into the accusation that she was sandbagging the very protection she had accepted.
+Pell opened the door himself. "Detective. Marcus Pell. I represent Mr. Greer and, tonight, as a courtesy, his neighbor."
 
-"Your choice frames the next hour," Nolan said quietly. "Silence as war keeps you cold enough to survive him. Continued drip keeps you useful enough to survive Brooks. Neither settles Vivienne. Both spend what is left of soft."
+"Counsel," Brooks said. She came in with rain on her shoulders and her flat shoes making no sound on the floor. Gray at her temples. A small notebook already in her hand. She looked at the room once, the way Pell had: the rings, the glasses, the six feet. "Mr. Greer. Thanks for having me so late."
 
-[player_name] looked toward the bath corridor where perfume waited unused, then at Pell's tidy hands, then at Nolan's telling wrist. Controlled drip was not safety. It was a tempo. She had to decide whether to stop the music of bodies and fight only with silence—or keep dripping until counsel named her the leak.
+"Detective," Nolan said, from the window.
 
-[player_name] remembered other nights Pell had arrived early—before Brooks, before the slate thinned into ghost marks—silver voice explaining absence as elegance. Controlled drip was the same elegance with a meter. She could hear Brooks in the lobby of her mind asking last-known questions that sounded less like missing-persons and more like the edge of a colder charge. No body. Still. The absence of a corpse did not make the faucet safe; it made every drip a guess someone else would weaponize.
+Brooks sat on the couch across from [player_name]. Close enough that their knees nearly lined up. She didn't open the notebook.
 
-Nolan poured more wine he did not drink. "He will smell sandbagging if you keep a shape he did not approve. He will call silence obstruction if you refuse the room's heat and speak only knives. I am not asking you to love either option. I am asking you to pick the pain that leaves Vivienne's doors open and your name still pronounceable upstairs."
+"I'll be quick," Brooks said. "When did you last see Mrs. Greer? Not hear about her. See her."
 
-Across the hall, her apartment waited. Soft alibi had followed her here and put on counsel's glasses. She hated how well they fit.`,
-  textHot: `Controlled drip meant Marcus Pell watching [player_name]'s mouth while Nolan Greer's heat tried to rewrite every sanded sentence into something wetter. Soft alibi under counsel felt like silk with a lawyer's hand on the hem. Brooks's colder interest rose through Crownspire's floors without a corpse; Vivienne's perfume ghosted the bath; [player_name]'s body still remembered Nolan's thumb at her waist from the hour before Pell arrived and ruined the unfinished almost.
+[player_name] looked at Pell. He nodded.
 
-"Calibrated pieces," Pell said, and the words landed like cold fingers on her throat. "Cadence, not corpses. Neighbor proximity. No speculative bags or cars unless we authorize the shape."
+"In the spring," she said. "In the lobby. She was getting into a car."
 
-Nolan's cufflinks clicked. His gaze dragged over [player_name]—early thirties, across-the-hall, nipples tight under silk from dread and interrupted want—as if Pell were furniture he intended to ignore with his hands later. "He brought a faucet. I brought you."
+"What kind of car?" Brooks asked.
 
-She crossed her legs harder than manners required. Want had nowhere clean to go. "I will not pick Vivienne's ending to pretty your faucet. Willing, paid, dead, staging—four doors stay open. Brooks can hunt colder paper. I drip presence, not a body."
+Pell nodded again, slower.
 
-Pell's smile was a closed door. "Then drip. Or stop dripping bodies into the room entirely tonight—silence war, no intimacy, words only under my eye. Keep going and I will smell what you sandbag for him." A glance at Nolan. "Romance is not a privilege in a homicide-tilting file."
+"Black," [player_name] said. "A town car. I didn't see the plate."
 
-Nolan leaned close enough that rain-money cologne cut through Pell's paper-scent; his voice was for her collarbone. "Refuse me tonight—fight silence only—and you stay cold enough to survive counsel. Keep dripping calibrated truth with my heat still unfinished under your skin—and Pell names you the leak while your cunt still votes for my hands."
+"Was she alone?" Brooks asked.
 
-Wind sheer. Elevator chime. Wine ring. Soft as tempo. [player_name] ached around interrupted almost-kiss and legal sanding both. She had to choose whether controlled drip meant bodies off the table—or continued bleed until Pell's mild voice turned accusation and her want had nowhere left to hide.
+Pell didn't nod.
 
-Pell's mild voice sanded her nipples harder than Nolan's nearness—anger and interrupted want making a single filthy current. She wanted to dismiss counsel with her mouth on Nolan's and knew that would hand Brooks a photograph of complicity wearing lipstick. Controlled drip was tempo and teasing both: truth doled out while her cunt kept score of every almost Nolan owed her from before Pell ruined the hour. Silence war would leave her cold and shaking. Continued drip would leave her useful and accused. Want did not care which; consequence did.`,
+"I'd want to check my calendar," [player_name] said.
+
+Brooks wrote something. The first thing. "Did she look well?"
+
+"She looked like herself," [player_name] said.
+
+"What does herself look like?" Brooks asked.
+
+[player_name] glanced at Pell. A small nod.
+
+"Composed," [player_name] said. "Expensive. Tired around the eyes, maybe. I didn't know her."
+
+"No one seems to have." Brooks turned a page. "Last time you heard her voice?"
+
+Pell didn't move.
+
+"I'd want to check," [player_name] said.
+
+"Last time you heard anyone in this apartment, after dark, who you believed was her?" Brooks asked.
+
+Pell's eyes went to Brooks. "That's a question about Mr. Greer's home, not her whereabouts."
+
+"It's a question about whether she was alive in it," Brooks said mildly. "I'm sorry. I don't have a nicer way to say it anymore."
+
+The room went very still.
+
+Nolan turned around at the window. [player_name] saw his face for a second without the polish on it, and then the polish came back.
+
+"She's traveling," Pell said. "I've provided the department with her itinerary."
+
+"You've provided me with holds," Brooks said. "Reservations. Nobody at the other end has seen her face." She looked at [player_name] again. "So I'm asking the person who lives twelve steps away. When was the last time you were sure she was here?"
+
+Pell's head moved a half inch. No.
+
+[player_name] knew the answer. The night before the first white row, a little before one in the morning. She'd been awake. She'd heard a woman's heels in the hall, unhurried, going toward the elevators. Then his door, a long minute later.
+
+She opened her mouth.
+
+"I'd want to check," she said.
+
+Brooks looked at her for a long moment. Not angry. Interested. As if [player_name] had just shown her something more useful than an answer.
+
+"All right." Brooks closed the notebook and stood. "Thank you all. Counsel, I'll want the itinerary in originals. Mr. Greer, I'll want to see the east room at some point, with a warrant or without one. Your choice."
+
+"With," Pell said pleasantly.
+
+"I assumed." Brooks went to the door, then turned and looked past Pell at [player_name]. "Next time, I'd like to speak to you without counsel. You don't have to. But I'd like to."
+
+She left. The door shut quietly behind her.
+
+Nobody spoke for a while.
+
+Pell stood, buttoning his coat. He looked down at [player_name] where she sat on the couch, and something in his face changed, the dry pleasantness gone flat.
+
+"You held something back," he said.
+
+"You told me to," [player_name] said.
+
+"I told you when to stop. You stopped one place I didn't tell you to." He tucked the folio under his arm. "That wasn't my drip, [player_name]. That was yours. She noticed. So did I."
+
+"Maybe I'm learning," [player_name] said.
+
+"Maybe." Pell glanced at Nolan, then back at her. "Be careful who you're learning it for."
+
+He let himself out with his key. The private car hummed down through the building.
+
+Nolan stayed at the window a while longer. Then he crossed the room and stood in front of her where Brooks had sat.
+
+"What was it?" he asked quietly. "The thing you didn't say."
+
+She looked up at him. She thought about the heels in the hall. The elevator. His door, after.
+
+"Don't," she said.
+
+He crouched in front of her. He didn't touch her face. He reached down and closed his hand around her wrist, very lightly, his thumb resting on her pulse, the same place he'd touched an hour ago.
+
+"Tell me," he said.
+
+She didn't pull away. She felt her pulse beat against his thumb, faster, and she kept her mouth closed.`,
+  textHot: `Pell came back in tucking his phone away. His eyes went to Nolan's hand on her thigh. He said nothing. He simply waited until the hand lifted, and then he squared the page in its folio.
+
+[player_name]'s skin kept the shape of Nolan's palm. Her knees were still weak.
+
+"Ten minutes," Pell said. "She asks. You look at me. If I nod, you answer that and nothing beside it. If I don't, you say, 'I'd want to check my calendar.'"
+
+"I don't keep a calendar," [player_name] said.
+
+"Then it's easy to check." Pell sat in the armchair facing the door. "Drip. Not flood. Not drought."
+
+Nolan went to the window. In the glass she could see his reflection watching her, his eyes dark, his jaw tight. She crossed her legs. It didn't help. She was still wet from his thumb, from the almost, and every time she shifted she felt it.
+
+The doorbell rang. Eight minutes to midnight. Not a knock. Brooks had come through the front desk, which meant Rhea had sent her up, which meant the time was already logged on the slate downstairs. Nothing in this building happened without a row.
+
+Pell opened it. "Detective. Marcus Pell. Counsel to Mr. Greer and, tonight, his neighbor."
+
+"Counsel," Brooks said. Rain on her shoulders. Flat shoes silent. Gray at her temples. She took in the room in one look: the rings, the glasses, the six feet, the flush on [player_name]'s throat. "Mr. Greer. Thanks for having me so late."
+
+"Detective," Nolan said from the window.
+
+Brooks sat across from [player_name], knees almost lined up with hers. Notebook in hand, closed.
+
+"When did you last see Mrs. Greer? See her," Brooks said.
+
+A glance at Pell. A nod.
+
+"Spring. The lobby. She was getting into a car," [player_name] said.
+
+"What car?" Brooks asked.
+
+Nod.
+
+"Black. A town car," [player_name] said.
+
+"Was she alone?" Brooks asked.
+
+Nothing from Pell.
+
+"I'd want to check my calendar," [player_name] said.
+
+Brooks opened the notebook and wrote. "Did she look well?"
+
+"She looked like herself. Composed. Expensive. Tired around the eyes," [player_name] said.
+
+"Last time you heard her voice?" Brooks asked.
+
+Pell didn't move.
+
+"I'd want to check," [player_name] said.
+
+"Last time you heard anyone in this apartment, after dark, that you believed was her?" Brooks asked.
+
+"That's about Mr. Greer's home," Pell said, "not her whereabouts."
+
+"It's about whether she was alive in it," Brooks said. "I'm sorry. I don't have a nicer way to say it anymore."
+
+Nolan turned from the window. For a second his face had nothing on it. Then the polish came back.
+
+"She's traveling," Pell said. "You have the itinerary."
+
+"I have holds," Brooks said. "Nobody at the other end has seen her face." Back to [player_name]. "So I'm asking the woman twelve steps away. When were you last sure she was here?"
+
+Pell's head moved a half inch. No.
+
+She knew. The night before the first white row, just before one in the morning. She'd been lying awake in her own bed, aching, because he'd left her at her door that night with only a kiss. She'd heard a woman's heels in the hall, unhurried, going toward the elevators. Then his door, a long minute later.
+
+She'd touched herself afterward. Thinking about him. Not thinking about the heels at all.
+
+Heat flooded her face.
+
+"I'd want to check," she said.
+
+Brooks studied her. Not angry. Interested. Her eyes moved over [player_name]'s pink cheeks, her crossed legs, her hands tight in her lap, and [player_name] felt seen down to the skin.
+
+"All right." Brooks stood. "Counsel, originals of the itinerary. Mr. Greer, I'll want to see the east room. With a warrant or without."
+
+"With," Pell said.
+
+"I assumed." At the door Brooks looked back at [player_name]. "Next time I'd like you without counsel. You don't have to. But I'd like to."
+
+The door shut.
+
+Pell stood and buttoned his coat. The pleasantness went flat. "You held something back."
+
+"You told me to," [player_name] said.
+
+"I told you where to stop. You stopped one place I didn't." He tucked the folio under his arm. "That wasn't my drip. That was yours. She noticed. So did I."
+
+"Maybe I'm learning," [player_name] said.
+
+"Be careful who you're learning it for," Pell said.
+
+He let himself out. The private car hummed down through the building.
+
+Nolan crossed the room and stood over her where Brooks had sat. She looked up at him. She was shaking a little. Not from fear.
+
+"What was it?" he asked. "What you didn't say."
+
+The heels. The elevator. His door, a minute later. Her own hand between her legs in the dark across the hall.
+
+"Don't," she said.
+
+He crouched in front of her. His hand closed around her wrist, light, his thumb on her pulse.
+
+"Tell me," he said.
+
+She uncrossed her legs. She didn't decide to. Her knees just parted, and his eyes dropped, and his breathing changed.
+
+His free hand came to her knee. Slid up, slow, over the silk, under the hem, onto bare thigh. His thumb found the soft skin high on the inside of it and stopped there, an inch from where she was soaked.
+
+"Tell me," he said again, lower, "and I'll stop asking."
+
+"And if I don't?" [player_name] asked.
+
+"Then I won't stop anything else," Nolan said.
+
+Her pulse slammed under his thumb at her wrist. He could feel it. She could see that he could.
+
+She leaned back into the couch, her wrist in his hand, his other hand still and hot on her thigh, and kept her mouth shut, and let her knees fall a little wider.`,
   choices: [
     { id: "scene6d", text: "Refuse intimacy — fight the silence war only", textHot: "Refuse intimacy — fight the silence war only while your body still wants his hands" },
     { id: "scene6e", text: "Keep dripping until Pell smells the sandbag", textHot: "Keep dripping until Pell smells the sandbag — calibrated truth with his heat still unfinished under your skin" }

@@ -2,42 +2,198 @@ export default {
   id: "scene5e",
   layer: 5,
   title: "Unfinished Hallway Kiss",
-  text: `The unfinished hallway kiss began against [player_name]'s doorframe and broke when an elevator chimed below like a badge clearing its throat. Nolan Greer's mouth had been a breath from hers—wine, rain-money, the ghost of Vivienne's unused perfume riding the shared-floor air—when Crownspire reminded them that Detective Imani Brooks climbed buildings one soft chime at a time. Heat versus silence became the only grammar left between twelve steps of across-the-hall geography.
+  text: `She stopped reaching for her door.
 
-"Don't," [player_name] whispered, early thirties, palm on his chest, not pushing hard enough to mean it. "If you finish that kiss, I will forget how to ask about hangars and black cars. If you stop, I will hate you for the ache and still need the lead."
+Her hand came back and found his shirt instead, and she pulled, and the half inch closed.
 
-Nolan's cufflinks clicked against the wall near her ear. Brutal charm thinned to hunger. "Brooks is not only missing-persons in the questions she left with Rhea. Last sightings. Last known. Language that tilts colder without requiring a body on a table. Soft alibi heat will not outrun a file forever."
+He kissed her slowly. Like he'd been waiting at step six for a year. His hand stayed flat on the wall beside her head and the other came up to her face, his thumb at the corner of her mouth, and she felt the kiss go all the way down through her, warm and heavy, until her knees didn't feel like hers.
 
-Wind sheer pressed the corridor glass at the elevator bank. Rhea's slate downstairs held thinning marks—weekly to monthly to gone. Hope and dread shared the hallway like neighbors who refused to move out. Marcus Pell's travel language aged wrong somewhere in a phone neither of them wanted to answer yet.
+She'd kissed him a hundred times. Never like this. Never in the middle, with both doors shut and nowhere to go.
 
-[player_name] tasted almost-kiss and law. "Rhea named a private hangar once in a sentence she pretended was weather. Black-car route beyond Crownspire's curb. I can chase that lead with you before dawn—together, dangerous, soft still possible. Or I chase it alone and find whatever perfume twin and packed bag the hangar is keeping while you stay here looking like a man who almost made me forget the calendar."
+The camera dome watched. It couldn't hear her breathing change.
 
-His forehead rested to hers. City light made their reflection look married to unfinished business. "Together means I see what you see. Alone means you see what I have been afraid you would name. Neither settles Vivienne. Both spend the kiss we did not finish."
+Then the stairwell door at the end of the hall, the one under the camera, carried a voice up from below. Echoing. Close.
 
-Elevator chime again—nearer. Badge geography. Soft pressure becoming harder paper. She could pull him into dawn and hangar dark with heat still screaming, or break toward solitude and the evidence her body would have to carry without his hands as translation.
+"—just the two units on that floor? Thank you. No, I'll walk," a woman's voice said, somewhere below.
 
-Soft alibi had always been geography. Tonight geography had a hangar beyond the curb and a kiss that refused to land.
+Brooks.
 
-Nolan's voice dropped. "If we go together, Pell will call it reckless romance interfering with travel narrative. If you go alone, Brooks may call it tampering when you touch what you find. I am not clean in either reading. Neither are you. That is why the unfinished kiss feels like the only true thing in this corridor."
+Nolan's mouth left hers. He didn't step back. He turned his head toward the stairwell and went very still, and [player_name] felt his heart under her hand, fast and hard.
 
-[player_name] almost laughed. Almost cried. The black car of memory idled again behind her eyes—present nights, blank nights, headlights off.
+Footsteps on concrete, somewhere under them. Unhurried. Then a door opening and closing, a floor or two down, and the voice was gone.
 
-Across the hall, her own key waited cold in her palm. Soft alibi geography had always been twelve steps; hangar geography was miles of black-car dark and a dawn that would not care whether she arrived with Nolan or alone. Brooks's badge flash lived in lobby memory like an afterimage on bare skin. Rhea's hangar naming had been weather and warning both. [player_name] understood that unfinished kisses were Crownspire's favorite currency—spendable, deniable, devastating. She also understood homicide interest rising meant unfinished heat could be photographed as flight if she chose solitude wrong, or as conspiracy if she chose togetherness wrong. Vivienne's perfume twin—if it existed—would not settle fate. Packed bags settled nothing except that someone had prepared an exit and maybe failed to take it, or taken it and left a twin as theater. Staging loved twins. Death loved abandoned bags. Willing leave loved light packing. Paid vanish loved handlers. All four still fit. That was the cruelty and the craft.`,
-  textHot: `The unfinished hallway kiss lived in [player_name]'s mouth as denied landing—Nolan Greer's breath wine-warm, cufflink cold near her ear, thigh a filthy suggestion against her hip while Crownspire's elevator chimed below like Detective Imani Brooks clearing a throat. Soft alibi heat versus silence. Across-the-hall doorframe as altar. Early thirties and aching, she held his chest and did not push hard enough to mean stop.
+"She's going floor by floor," [player_name] whispered.
 
-"If you finish that kiss I forget hangars," she whispered against his lips. "If you stop I hate you for the throb and still need the black-car lead."
+"She's letting us hear her do it." He said it almost with admiration. "She wants us to know she's coming. She wants to see who opens a door."
 
-His cufflinks clicked. The tell traveled straight between her legs. "Brooks is tilting colder—last known, last sighting—homicide interest without a corpse. Soft will not outrun that file while your cunt is still voting for my mouth."
+They stood there breathing. His forehead came down against hers.
 
-Unused perfume ghosted from his penthouse crack across the hall. Want pooled shameless and precise. "Rhea named a private hangar like weather. I can chase it with you before dawn—your hands, my eyes, heat unfinished between us—or alone, perfume twin and packed bag waiting while you stay here looking like the almost that ruined me."
+"Brooks isn't missing-persons anymore," he said quietly. "Not really. She asks about last known. Last seen. She says it gently, but she says it."
 
-Nolan's forehead to hers, hips almost answering. "Together I see what you see. Alone you name what I feared. Neither settles my wife. Both spend this kiss we are weaponizing as delay."
+"I know," she said.
 
-Elevator nearer. Badge geography climbing. She trembled, nipples tight, thighs wet with denied finish, choosing whether heat chased hangar with him or solitude carried evidence while climax stayed hostage to consequence.
+"Soft won't hold forever," he said.
 
-She could feel how unfinished the kiss had left her—lips parted, breath broken, cunt empty and insistent against the seam of her dress while law climbed the shaft in chimes. Hangar-with-him meant his hands translating fear into heat on the drive. Hangar-alone meant her fingers on perfume twin and packed bag without his mouth as alibi or distraction. Both were erotic in the wrong direction: evidence as edging. She hated Crownspire for teaching her that vocabulary. She hated how fluently her body spoke it.
+"I know that too." [player_name] kept her hand on his chest. "So tell me something before it breaks."
 
-She rocked once against him without meaning to—doorframe kiss denied, hips answering anyway—and the friction drew a sound from her throat she hoped the elevator shaft swallowed. Together-before-dawn meant that sound continuing in a car with his hand on her thigh as navigation. Alone meant that sound trapped in her mouth while her fingers found perfume glass and zipper teeth on a bag that should have been gone. She wanted Nolan's cock as simple answer and knew simplicity had left Crownspire when Vivienne's slate went blank. Want would have to hunt.`,
+He didn't pretend not to understand.
+
+"The last time she left," she said. "She had a bag. You said the car took it to the airport. There's a scarf receipt from the airport. Everyone keeps saying the airport."
+
+"I said that," he said.
+
+"Which airport, Nolan?" she asked.
+
+He was quiet so long she thought he wouldn't answer. The light in the hall hummed. Somewhere below them, another door.
+
+"Not the airport," he said finally. "Kessler Field. It's a private strip, forty minutes out. Hangar Nine."
+
+The name went into her like cold water. A private strip. Small jets, no lines, no cameras anyone would ask to see. All these months the word airport had been sitting in her head like something harmless, a terminal and a coffee and a gate. It had never been that. It had been a hangar with a number on it, forty minutes away in the dark.
+
+"Pell's hangar?" she asked.
+
+"A hangar Pell rents through a company I own a piece of." His mouth twisted. "Everything in this is through something."
+
+"And the bag?" she asked.
+
+"The car took it there. I know that much. Whether she went with it—" He stopped. "I don't know. I've never gone to look."
+
+"Why not?" she asked.
+
+"Because if it's still there, she didn't go anywhere. And if it's gone, she did. And either way I'd know." He laughed under his breath, not happily. "I'm a coward about exactly one thing, apparently."
+
+She thought of the bath upstairs. The full bottle of perfume, untouched. The pearl hairpin in the dish. Somebody had left those behind. Somebody had packed a bag and left that behind too, maybe.
+
+"If there's a bag," she said slowly, "there might be another bottle in it. The same one."
+
+He closed his eyes. "She bought them in pairs. Always."
+
+He reached into his inside pocket. When his hand came out it was holding a white plastic card. No logo. Just a magnetic stripe and a small printed number: 9.
+
+"That opens the side door," he said. "I've carried it for months."
+
+"You want me to go," she said.
+
+"I want you not to go alone." He looked at her. "I'd drive. Before dawn. Before she finishes her stairs. We'd see it together, whatever it is, and then nobody can say you went behind my back."
+
+"Or nobody can say you weren't there when I found it," she said.
+
+"Yes," he said. "That too."
+
+She took a breath. It shook.
+
+"And if I want to go by myself?" she asked.
+
+"Then you take the card," Nolan said. "And you go. And you see whatever's in that hangar without me standing next to you telling you what it means."
+
+"You'd let me?" she asked.
+
+"I'd hate it," he said.
+
+"You keep saying that tonight," she said.
+
+"I keep meaning it," he said.
+
+She looked at the card. Then at him. He didn't look like a man in control of a building. He looked like a man in his mid-forties who hadn't slept properly in weeks, standing in a hallway with his heart pounding, holding out the one thing he'd been too afraid to use.
+
+She didn't take it from his fingers. She put her hand over his.
+
+He drew her in. Not a kiss. Just closer, until her forehead was at his collarbone and his arm was around her back. The card ended up trapped between them, flat, pressed between her chest and his. She could feel its edge through her dress. She could feel his heartbeat behind it.
+
+"Tell me," he said into her hair. Not an order. Almost a plea.
+
+Down the stairwell, very faint, a door opened again.
+
+She stayed where she was, pressed against him with the card between them, his heart under it, and lifted her face toward his mouth.`,
+  textHot: `Her legs had stopped. Her hand in his hair had not.
+
+She pulled his mouth down to hers and stopped thinking about doors.
+
+He kissed her hard this time. Open, deep, his tongue sliding against hers, a sound in his chest she felt more than heard. His thumb moved up from the inside of her thigh, under the hem, onto skin, and kept going. She backed into the wall and he followed her there. Her shoulder blades hit plaster. His hips pinned hers.
+
+"Here," she breathed. "God. Here."
+
+"The camera—" he said.
+
+"Doesn't hear." She bit his lip. "You told me."
+
+His hand reached the edge of her underwear and slid inside, and his fingers found her soaked, and they both made a sound at the same time. He stroked her slowly, all the way, and her head fell back against the wall and her knee came up around his hip. He held it there. His mouth went to her throat. His fingers pushed into her and curled, and she bit down on her own hand so she wouldn't cry out in the open hall.
+
+Then the stairwell door at the end of the hall carried a voice up from below.
+
+"—just the two units on that floor? Thank you. No, I'll walk," a woman's voice said, somewhere below.
+
+Brooks.
+
+Nolan went still with his fingers inside her. [player_name] felt her whole body clench around them, right at the edge, shaking.
+
+Footsteps on concrete, somewhere under them. Unhurried. A door opening and closing a floor or two down. Then quiet. Only their breathing, and the hum of the hall light, and her own heartbeat everywhere at once. The camera dome hung at the far end, black and blind to sound. It had seen everything. It just hadn't heard a word.
+
+He slid his hand out of her, slowly. She whimpered. She couldn't help it.
+
+"She's going floor by floor," [player_name] whispered.
+
+"She's letting us hear her do it." His breath was ragged. "She wants to see who opens a door."
+
+He set her knee down. He didn't step back. His forehead came down against hers, and they stood there panting, her dress shoved up, his hand braced flat on the wall.
+
+"She isn't missing-persons anymore," he said. "Not really. She asks about last seen. Last known."
+
+"So tell me something before soft breaks." She held his shirt in both fists. "The last time she left. The bag. You said the airport. There's a scarf receipt from the airport. Everyone keeps saying airport."
+
+He was quiet so long she thought he wouldn't answer.
+
+"Not the airport," he said. "Kessler Field. Private strip, forty minutes out. Hangar Nine."
+
+It went into her like cold water, right through all that heat. All these months the word airport had sat in her head harmless. Terminal. Coffee. Gate. It had never been that. It had been a hangar with a number on it, forty minutes away in the dark, and she had been in his bed on the nights it was used.
+
+"Pell's hangar?" she asked. Her voice was hoarse.
+
+"Pell rents it through a company I own a piece of. Everything in this is through something," he said.
+
+"And the bag?" she asked.
+
+"The car took it there. Whether she went with it—" His jaw worked. "I don't know. I've never gone to look. If it's still there, she didn't go anywhere. If it's gone, she did. Either way I'd know."
+
+She thought of the bath upstairs. The full bottle. The hairpin in the dish.
+
+"If there's a bag," she said, "there might be another bottle in it."
+
+He shut his eyes. "She bought them in pairs."
+
+He reached into his inside pocket. A white plastic card. No logo. A magnetic stripe and a small printed 9.
+
+"The side door," he said. "I've carried it for months."
+
+"You want me to go," she said.
+
+"I want you not to go alone. I'd drive. Before dawn, before she finishes her stairs." His voice dropped. "I'd have my hand on your thigh the whole way. I'd finish what I just started in the car with the engine off if you let me. And then we'd open that door together, and nobody could say you went behind my back."
+
+Her body answered that before her head did. A hot throb, low, where his fingers had been.
+
+"And if I want to go by myself?" she asked.
+
+"Then you take the card and go. And see whatever's in there without me telling you what it means," he said.
+
+"You'd let me?" she asked.
+
+"I'd hate it," he said.
+
+"You keep saying that," she said.
+
+"I keep meaning it." His voice cracked a little on the last word, and he didn't hide it.
+
+He didn't look like a man who owned buildings. He looked mid-forties and sleepless and scared, flushed from her mouth, holding out the one thing he'd been too afraid to use.
+
+She didn't take it. She put her hand over his.
+
+He pulled her in. Her breasts pressed to his chest, his arm around her back, his thigh between hers. The card ended up trapped between them, flat, the edge of it pressing through her silk. She could feel his heartbeat behind it, hard and fast. She could feel him hard against her hip.
+
+"Tell me," he said into her hair.
+
+Down the stairwell, very faint, a door opened again.
+
+She rocked once against his thigh without meaning to, and he groaned, and she lifted her mouth to his with the card still pressed between them and his heart pounding behind it.`,
   choices: [
     { id: "scene6g", text: "Chase the hangar / black-car lead with Nolan before dawn", textHot: "Chase the hangar with Nolan before dawn — heat unfinished between you as the black-car route opens" },
     { id: "scene6h", text: "Chase the hangar alone — perfume twin and packed bag", textHot: "Chase the hangar alone — perfume twin and packed bag while your mouth still burns from the unfinished kiss" }

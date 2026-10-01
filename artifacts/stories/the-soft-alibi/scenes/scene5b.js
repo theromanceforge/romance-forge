@@ -2,50 +2,200 @@ export default {
   id: "scene5b",
   layer: 5,
   title: "Off-Record Honesty",
-  text: `Off-record honesty lived across the hall in [player_name]'s smaller apartment, where Crownspire's hush thinned and conscience had more room to bruise. Nolan Greer stood inside her door as if crossing twelve steps had cost him something expensive. The soft alibi had nearly sealed in his penthouse; here, wine rings were hers, perfume was absent, and Detective Imani Brooks's escalating file felt farther—and somehow closer—because honesty without a lawyer made every sentence feel like evidence warming under skin.
+  text: `Three taps. Then nothing.
 
-"Pell doesn't get this hour," [player_name] said. Early thirties. Neighbor-mistress. Soft cover still warm on her mouth from the night they had practiced which dinners to cite. "If you want me soft for Brooks, you give me something off-record first. Not traveling. Not Milan. Not cufflink silence."
+[player_name] took her hand off his belt. "That's my door."
 
-Nolan's cufflinks clicked anyway—habit, tell, guilt that sounded like metal. "Brooks is tilting toward homicide language without a body. Soft interview windows close when detectives start asking about last known alive instead of last known present. You understand what that means for a neighbor who looks like cover."
+"Don't," Nolan said.
 
-"It means Vivienne's calendar—weekly to monthly to gone—is about to be read as a map toward a colder ending somebody prefers," [player_name] said. She did not choose which ending. Willing leave, paid vanish, dead, staging: four doors still open. Hope and dread shared her couch like unpaid guests. "I almost sealed myself as your alibi. Now I need to know what I'm sealing over."
+"It's my door," she said again, and went.
 
-He looked at her locked-jaw honesty the way finance men looked at risk they still wanted to buy. Wind sheer pressed her smaller glass. Elevator chime in the public shaft. Somewhere below, Rhea Quinn's slate waited; somewhere, Marcus Pell would smell this hour later and call it sandbagging or romance, depending on which burned less.
+He followed her out. The hallway was empty. Twelve steps of gray carpet, the camera dome, the elevator doors shut and dark. Nobody on the stairs.
 
-Nolan sat. Not close enough to claim. Close enough that rain-money cologne found her. "Off-record: there are nights I cannot account for with travel paperwork Pell prefers. There is a drawer you have not opened. There is a black car that idled on nights Vivienne was marked present and nights she was not. I am not giving you a corpse. I am not giving you a confession that settles her. I am giving you the fact that soft is getting harder to wear without bleeding."
+A card lay on her mat.
 
-[player_name] poured wine into a glass that already held an older ring. "Then honesty has two shapes tonight. I can keep one night unnamed even while we stop lying about the rest—the bag, the perfume capped mid-exit, the hour I saw and filed under want. Or we put calendar printouts on this marble table and read the thinning out loud until intimacy and evidence are the same stain."
+Detective Imani Brooks. Missing Persons Unit. A single neat line through Missing Persons, and above it, in blue block capitals: MAJOR CRIMES. EXT. 4410. Below that: 9 A.M.
 
-His mouth tipped. Brutal. Almost tender. "Printouts make Brooks's colder file hungrier. An unnamed night makes me hungrier—and more careful. Both keep Vivienne contested. Both spend the soft alibi's remaining softness."
+[player_name] stood with it in her fingers. Nolan read it beside her and said nothing at all.
 
-She thought of Brooks's badge flash in lobby glass, of unused perfume across the hall she should not know, of cufflinks clicking on Vivienne's name. Across-the-hall geography had always made the affair a risk; off-record honesty made the risk taste like the only clean thing left in a building that sold privacy by the square foot.
+She unlocked her own door. Then she turned and looked at him.
 
-"Choose with me," Nolan said quietly. "Withhold the night that still owns you—or spread the calendar and let marble hold what our mouths have been afraid to finish."
+"Come in," she said.
 
-[player_name] felt the unfinished question of Vivienne Greer press against her ribs. Cooperate had nearly sealed her; honesty cracked the seal just enough to hurt.
+He hesitated. In all these months he'd been in her apartment maybe a dozen times. He always came at night, always left before dawn, and he always looked at her rooms as if they were too small to hold whatever he'd brought with him.
 
-Rhea's slate lived downstairs like a conscience with employee access. [player_name] thought of tipping the concierge, of not tipping, of how off-record hours became on-record the moment Brooks climbed. Nolan's brutal charm had always made empty nights survivable; honesty threatened to make them legible. Legibility was what colder files drank.
+"Pell doesn't get this," she said. "Not this hour. Not here."
 
-"If we print the calendar," she said, "we give marble a memory Brooks can photograph. If we withhold one night, we give me a private bruise I may need when soft runs out."
+He came in. She shut the door and leaned on it.
 
-He nodded once. "Private bruises are the only currency left that Pell cannot invoice."`,
-  textHot: `Off-record honesty hit [player_name]'s apartment like heat finding a softer bed. Nolan Greer shut her door with his back and the soft alibi's almost-seal still lived on her mouth as taste. Across the hall had been twelve steps of decision; inside her smaller glass, decision became pulse, wine, and the filthy relief of no Pell between their bodies and the truth.
+Her apartment was half the size of his. One bedroom. A galley kitchen. A couch she'd bought secondhand and a marble-topped table that was the one nice thing she owned. No perfume in the bath. No hairpin in a dish. Just her coat on a hook and her wine glass from yesterday still on the counter.
 
-"This hour is mine," she said, early thirties and already aching, silk clinging where dread and want refused to separate. "If you want me soft for Brooks's colder file, you give me something that isn't traveling."
+"If you want me soft for her tomorrow," [player_name] said, and held up the card, "you give me something first. Off the record. Not traveling. Not Milan. Not Zurich. Something true."
 
-His cufflinks clicked when Vivienne entered the air between them—third heat, ghost-note, unfinished marriage pressed against [player_name]'s nipples until they tightened shamelessly. "Homicide interest without a body," Nolan murmured, stepping close enough that wool brushed her bare arm. "She's asking last-known-alive questions. Soft windows close. Neighbor cover starts looking like a throat someone could put a hand around—legally."
+Nolan looked at the card in her hand. Then at her.
 
-[player_name] backed to the table, wine glass sweating a new ring into old marble. Want pooled low. Unused perfume was across the hall and still somehow in her lungs. "I nearly sealed as your alibi. Now I need to know what I'm sealing over while I can still feel you."
+"She's asking last-known-alive questions now," he said. "Not last-known-present. That's what this means. A neighbor who says the right things in the wrong order starts to look like cover."
 
-He caged her lightly against the table edge—hands on marble, not yet on her—breath shared. "Off-record: nights I can't tidy for Pell. A drawer you haven't opened. A black car that idled on present nights and blank nights both. No corpse from my mouth. No settled fate. Soft is starting to bleed." His thigh slotted between hers just enough to make her cunt clench. "You want honesty shaped two ways. Keep one night unnamed—the bag, the capped perfume, the hour you swallowed—and stay wet with a private footnote. Or spread calendar printouts on this marble and fuck the thinning out loud with evidence under your palms."
+"I am cover," she said.
 
-She hated how filthy the choice sounded. Loved it. Wine and almost-kiss. Elevator chime trembling through the floor into her bones. "Printouts feed Brooks," she whispered against his mouth. "An unnamed night feeds you—and keeps me dangerous."
+"You're more than that," he said.
 
-"Both spend soft," he returned, lips brushing, denied landing. "Both leave Vivienne contested." His cufflink flashed cold at her hip. "Withhold—or stain the marble with calendar and me."
+"Then prove it," she said.
 
-[player_name] trembled, thighs tight on either side of his, perfume-haunted by a bath she shouldn't know, choosing whether honesty meant a sealed throb or evidence spread under hands that still wanted to finish what the penthouse seal had started.
+He didn't answer right away. He walked to her window and stood looking out at the side street, the fire escape, the neighbor's dark kitchen across the way. Nothing like his view.
 
-She wanted his mouth and the truth in an order she could not afford to reverse. Off-record made her apartment feel smaller and hotter, twelve steps from perfume she should not know and a badge rewriting hush into timeline. When he nodded about private bruises, her body answered with a pulse that had nothing polite left in it. Honesty was supposed to cool her. It did not.`,
+"There are nights I can't account for," he said. "Not with the paperwork Pell likes. There's a drawer upstairs you've never opened. There's a car that idled at the curb on nights she was here and nights she wasn't." He turned around. "I'm not going to give you a body. I don't have one. I'm not going to tell you she's fine. I don't know that either."
+
+"Then what are you giving me?" she asked.
+
+He reached into the inside pocket of his jacket and took out a thick fold of paper. Printer paper, creased in thirds, then in half again. The edges were soft, as if it had been carried around a while.
+
+"Pell sent me these last week," he said. "Building access logs. Fob reads. Every door she went through for the last six months. Every door I went through." A pause. "Every door you went through."
+
+[player_name] stared at the fold.
+
+"He wanted me to know what Brooks could get," Nolan said. "I was going to burn them. I had them over the sink twice."
+
+"Why didn't you?" she asked.
+
+"I don't know." He looked tired. Mid-forties and tired all the way down. "Maybe I wanted someone else to read them first."
+
+He set the fold on her marble table, next to the old wine glass with its ring.
+
+She looked at it and didn't touch it.
+
+There was a night she had never told him about. Last winter, late. His door ajar. A woman's packed bag just inside. Perfume in the air, fresh, like someone had opened the bottle and capped it again. A black car idling forty minutes at the curb, then gone. She'd gone back to bed. She'd told herself it was nothing.
+
+She had almost told him a dozen times. In his bed, with his arm across her. In the elevator. Every time, she'd swallowed it.
+
+That night would be in those pages. Some version of it. A fob read. A door. A time.
+
+If she unfolded them, the night stopped being hers. It became a row in a log. Something Brooks could photograph.
+
+If she didn't, she'd keep the one thing she had seen with her own eyes, unexplained, and walk into Major Crimes at nine with a secret that might be nothing.
+
+"You don't have to read them," Nolan said.
+
+"You brought them," she said.
+
+"I brought them so you'd have the choice. Not so you'd have to make it," he said.
+
+"That's a very nice thing to say." She almost laughed. "You've been practicing."
+
+"Not that one." He came to the table and stood across it from her. "That one's new."
+
+Outside a car went by slowly, tires hissing on the wet street. Its lights slid across her ceiling and away.
+
+[player_name] put her hand flat on the marble beside the paper. Cool stone. The fold sat there, soft at the edges, almost innocent.
+
+"If I read these," she said, "I'll know where she went. Some of it."
+
+"Some of it," he said.
+
+"And where I went," she said.
+
+"Yes," he said.
+
+"And you'll watch me read it," she said.
+
+"If you let me," he said.
+
+She pulled the fold toward her. Her fingers found the first crease. The paper was warm from his jacket.
+
+He didn't move. He didn't breathe, as far as she could tell.
+
+She lifted the first fold open, slowly. A column of times. Doors. Her own floor number, again and again, down the page.`,
+  textHot: `Three taps. Then nothing.
+
+His fingers were still inside her. Her body was clenched tight around them, right at the edge, shaking.
+
+"That's my door," she said. It came out as a gasp.
+
+"Don't," Nolan said against her neck.
+
+She made herself pull away. It hurt, almost. He slid his hand out of her slowly and she bit her lip hard to keep from making a sound. She pushed her dress down, fixed nothing, and went.
+
+He followed. The hallway was empty. Gray carpet, the camera dome, elevator doors dark. Nobody on the stairs.
+
+A card on her mat.
+
+Detective Imani Brooks. Missing Persons Unit, with one neat line through it. Above, in blue capitals: MAJOR CRIMES. EXT. 4410. Below: 9 A.M.
+
+She stood holding it, flushed and damp and trembling, and Nolan read it over her shoulder with his breath warm on her ear.
+
+She unlocked her door and looked back at him.
+
+"Come in," she said. "Pell doesn't get this hour."
+
+He came in. She shut the door and leaned against it, and he stood very close, not touching. Her apartment was small. One bedroom, galley kitchen, a secondhand couch, a marble-topped table that was the one nice thing she owned. Yesterday's glass on the counter. No perfume in her bath. Nobody's hairpin.
+
+"If you want me soft tomorrow," she said, holding up the card, "you give me something first. Off the record. Not traveling. Not Milan. Not Zurich."
+
+"She's asking last-known-alive now," he said. "Not last-known-present. A neighbor who says the right things in the wrong order starts to look like cover."
+
+"I am cover," she said.
+
+"You're more than that." He put one hand flat on the door beside her head. "You know you are."
+
+"Then prove it," she said.
+
+His thigh pressed between hers. Just enough. She was still swollen and aching from his hand, and the pressure through her dress made her hips tip toward him without permission.
+
+"There are nights I can't account for," he said low. "Not the way Pell likes. A drawer upstairs you've never opened. A car that idled when she was here and when she wasn't. I won't give you a body. I don't have one. I won't tell you she's fine. I don't know."
+
+"That's not enough," she said.
+
+"I know." He rested his forehead against hers. For a second he didn't look like a man who owned buildings. He looked like a man who had run out of ways to be careful, and wanted her anyway.
+
+He reached into his jacket and took out a thick fold of paper. Printer pages, creased in thirds, then in half. Soft edges.
+
+"Pell sent me these last week," he said. "Fob logs. Six months. Every door she went through. Every door I went through." His eyes held hers. "Every door you did."
+
+She stared at it. Her pulse was everywhere, in her throat, her wrists, between her legs.
+
+"He wanted me to see what Brooks can get," Nolan said. "I meant to burn them. I held them over the sink twice."
+
+"Why didn't you?" she asked.
+
+"Maybe I wanted you to read them first." He sounded tired, mid-forties and worn all the way through. "Maybe I wanted someone to."
+
+He stepped back and set the fold on her marble table, beside the old wine glass and its ring.
+
+She followed him. Her legs were unsteady. She stood at the table edge and he stood behind her, close enough that she could feel him hard against the small of her back, his breath stirring her hair.
+
+There was a night she'd never told him. Last winter. His door ajar. A woman's packed bag inside. Perfume in the gap, fresh, opened and capped again. A black car at the curb for forty minutes, then gone. She'd gone back to bed and told herself it was nothing.
+
+She'd almost told him so many times. In his bed with his arm across her. Once with him inside her, slow, his forehead on hers, when she'd felt so open she could have said anything. She'd swallowed it every time.
+
+That night would be in these pages. A fob read. A time.
+
+If she opened them, it stopped being hers.
+
+If she didn't, she kept one true thing for herself and walked into Major Crimes with it.
+
+His hands came to her hips. Slid up her sides. His thumbs brushed the undersides of her breasts through the silk and she arched back into him.
+
+"You don't have to read them," he said into her neck.
+
+"You brought them," she said.
+
+"So you'd have the choice." His mouth moved under her ear, open, slow. "Not so you'd have to make it."
+
+"You've been practicing that," she said.
+
+"That one's new," he said.
+
+A car hissed by outside on the wet street. Its lights crossed her ceiling and slid away.
+
+She put her palm flat on the cool marble beside the fold. His hand covered hers there, then moved, slid down over her hip, gathered her skirt slowly up her thigh. His fingers found her again through her underwear and pressed. She was soaked. She gasped and her knees went loose.
+
+"Read," he murmured. "Or don't. I'm not stopping either way."
+
+She pulled the fold toward her. Her fingers found the first crease. Warm from his jacket.
+
+His fingers moved on her in slow circles. She shook.
+
+She lifted the first fold open. A column of times. Doors. Her own floor, again and again down the page, and his hand still moving between her legs.`,
   choices: [
     { id: "scene6b", text: "Withhold one unnamed night — honesty with a sealed edge", textHot: "Withhold one unnamed night — honesty with a sealed edge while his thigh still splits yours" },
     { id: "scene6c", text: "Spread calendar printouts on the marble — intimacy with evidence", textHot: "Spread calendar printouts on the marble — intimacy with evidence under your palms and his mouth unfinished" }
