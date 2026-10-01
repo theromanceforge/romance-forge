@@ -1,29 +1,29 @@
 export default {
   id: "scene9e",
   layer: 9,
-  title: "Prefect caught: Thorne’s mortal agent named",
-  text: `Prefect Halden Crowe sat cuffed in a lower-ward interrogation circle that smelled of rain-smear chalk, copper filament, and fear trying to invent innocence. [player_name] stood opposite with Cassian Rook at her shoulder—scorched leather, blade-oil, mid-thirties mouth set like a man who had hunted all night and still refused soft endings. Salt wind found the vents. Ward-bells missed intervals overhead like applause for the wrong play.
+  title: "The Agent Named",
+  text: `Prefect Halden Crowe sat fettered in a lower-ward interrogation circle that smelled of rain-smeared chalk, copper filament, and fear trying to invent innocence. [player_name] stood opposite with Cassian Rook at her shoulder. His mouth was set like a man who had hunted all night and still refused soft endings. Ward-bells missed intervals overhead like applause for the wrong play.
 
-“Name him,” Cassian said, not to Crowe—to the record braid Bram Kestrel held. “Thorne’s mortal agent. Courier seals. Ash-forensics. Isolde’s quiet logistics wearing prefect badges.”
+"Name him," Cassian said. Not to Crowe. To the record braid Bram Kestrel held. "Thorne's mortal agent. Courier seals. Ash forensics. Isolde's quiet logistics wearing prefect badges."
 
-Crowe’s laugh was thin. “Agent is a loud word. I moved maps. I rinsed ash. I kept Calderyn from panic. Lord Vesper Thorne—” He stopped. Temperature changed. Warm wine over broken glass entered the circle without a body. Temptation-shaped. Still unfinished as monster or revolutionary. Romance stayed locked on Cassian alone.
+Crowe's laugh was thin. "Agent is a loud word. I moved maps. I washed ash. I kept Calderyn from panic. Lord Vesper Thorne—" He stopped. The temperature changed. Warm wine over broken glass entered the circle without a body.
 
-[player_name]’s cracked charm ticked in pulses that matched Crowe’s courier frequency and stayed cool through Isolde’s careful omissions. Ambiguity earned early stayed useful and dangerous. Hope and dread shared the doorway.
+[player_name]'s cracked charm ticked in pulses that matched Crowe's courier frequency, and stayed cool through Isolde's careful omissions.
 
-Maris Quill watched from the stair, friend-fear braided into something like relief. Isolde’s proxy arrived with managed scripts and found them already burned. Inland, Unmade whispers leaned. Veil Sea fog climbed.
+Maris Quill watched from the stair, her fear braided into something like relief. Isolde's proxy arrived with managed scripts, and found them already burned.
 
-“Two doors,” Cassian murmured for [player_name] alone. “Spend Crowe’s naming into the New Ward—shared consensual binding, daylight truth, us holding Calderyn without quiet burns.”
+"Two doors," Cassian murmured for [player_name] alone. "Spend Crowe's naming on the New Ward. A shared binding, daylight truth, the two of us holding Calderyn without quiet burns. Or turn his name into teeth, and lead the public remaking of the Collegium."
 
-Neither invented tidy martyrdom. Both kept [player_name] a person. Both left Cassian’s sealed drawer still refusing full dump about civilians and an early breach—hints louder, dump refused.
+Neither invented tidy martyrdom. Both kept [player_name] a person. Cassian's sealed drawer still refused the full story of the civilians and the early breach.
 
-“Eyes open,” [player_name] told Crowe, Bram, the bells, the Unmade. “Thorne’s mortal agent is named. Living-key architecture still has fog. I choose the next verb while my mouth is still mine.”
+"Eyes open," [player_name] told Crowe, Bram, the bells, the Unmade. "Thorne's mortal agent is named. The living-key architecture still has fog. I'll choose what comes next while my mouth is still mine."
 
-Cassian’s glove brushed her wrist. Heat leapt. Want unfinished under steel weather. Soft was dead. Soft was never the offer.`,
-  textHot: `Catching Crowe should have been pure steel. Instead [player_name] stood slick-thighed in the interrogation circle while Cassian Rook’s hunt-heat rolled off scorched leather and made her cunt ache around victory like a second pulse. Salt. Copper. Chalk blue. Charm ticking. Nipples tight. His cock still arguing against leather from the chase.
+Cassian's glove brushed her wrist. Heat leapt.`,
+  textHot: `Catching Crowe should have been pure steel. Instead [player_name] stood slick-thighed in the interrogation circle. Cassian Rook's hunt-heat rolled off his scorched leather and made her cunt ache around the victory like a second pulse. Charm ticking. His cock still arguing against leather from the chase.
 
-“Named,” he rasped against her temple after Crowe was walked out—mouth on her jaw, center denied, hand shoving into trousers to find her shamefully wet from agent-naming adrenaline. “New Ward with me—shared binding, daylight truth, I finish you after the vow until foghorns cover your voice.”
+"Named," he rasped against her temple after Crowe was walked out. Mouth on her jaw. Her own mouth denied. His hand shoved into her trousers and found her shamefully wet. "The New Ward with me. Shared binding, daylight truth. I finish you after the vow until the bells cover your voice. Or lead the remaking, with me at your back."
 
-He fucked the choice into her against rain-smeared chalk—two fingers, thumb on clit, forehead to hers—then eased out shining and painted her lower lip. Thorne temptation not lover. Living-key fog still contested. Sealed past sealed. “Verb,” he said. Soft was dead.`,
+He fucked the choice into her against rain-smeared chalk. Two fingers, thumb on her clit, forehead to hers. Then he eased out shining, and painted her lower lip. "Choose," he said.`,
   choices: [
       {
           "id": "scene10a",

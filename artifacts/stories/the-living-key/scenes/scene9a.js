@@ -1,55 +1,69 @@
 export default {
   id: "scene9a",
   layer: 9,
-  title: "Binding path: submit fully as living key with Cassian at her back",
-  text: `The binding chamber under Ashmere Collegium smelled of copper bowls, salt wind forced through vents, and old ozone that had nowhere left to pretend. Dual-consent vessels sat on ashwood like a grammar Isolde Vane had practiced for a century: one bowl for the living key’s song, one for the witness who refused to let harvest wear kindness’s coat. [player_name] stood barefoot on chalk that still glowed faint blue from last night’s rain-smear. Her cracked personal ward-charm ticked hard enough to bruise. Cassian Rook stood at her back—scorched leather, practice-blade oil, mid-thirties sleep carved into a mouth that knew how to smile like a blade and how to interrupt a seal.
+  title: "Submit Fully",
+  text: `The binding chamber under Ashmere Collegium smelled of copper bowls, salt wind forced through vents, and old ozone with nowhere left to hide. Dual-consent vessels sat on ashwood like a grammar Isolde Vane had practiced for a century. One bowl for the living key's song. One for the witness who refused to let harvest wear kindness's coat.
 
-Isolde’s voice carried from the gallery rail above, copper-smooth. “Submit fully as living key. Rook remains witness-spine. The century-wall needs a singer who answers stone without inventing soft endings.” Maris Quill watched from a narrow door, friend-fear braided into loyalty that still might burn. Archivist Bram Kestrel held a half-translated hymn like a man offering refusal as hypothesis, not proof. Lord Vesper Thorne was not present. His absence was temperature—warm wine over broken glass.
+[player_name] stood barefoot on chalk that still glowed faintly blue from last night's rain. Her cracked charm ticked hard enough to bruise. Cassian Rook stood at her back, his mouth set like a blade that knew how to interrupt a seal.
 
-[player_name] looked at the bowls and felt the living-key shape finally thicken around her ribs: not confirmation ink writing her name for her, but architecture she could walk into with eyes open. Remake the old sacrifice. Invent a new shared binding. Tear the wards and gamble. Today’s path was submit-fully—with Cassian’s heat along her spine translating Collegium arithmetic into partnership with teeth.
+Isolde's voice carried from the gallery rail above, copper-smooth. "Submit fully as living key. Rook remains your witness. The century-wall needs a singer who answers stone without inventing soft endings."
 
-“Consent,” Cassian murmured for her alone. “Loud. Dual. If Isolde tries to bill you as harvest mid-braid, I interrupt. That is not romance theater. That is the only way I teach power without repeating the push that nearly made me him.”
+Maris Quill watched from a narrow door, her fear braided into a loyalty that still might burn. Archivist Bram Kestrel held a half-translated hymn like a man offering refusal as hypothesis, not proof. Lord Vesper Thorne wasn't present. His absence was a temperature.
 
-She nodded. Trust under apocalypse pressure smelled like blade-oil and salt. The Unmade pressed the cliff like weather with a mouth. Calderyn’s thinning farms waited beyond Veil Sea fog. She set her palm over the key-bowl. Song rose—recognition-pulses matching century singers, cool through omissions, warm where her braid had cracked Ashmere’s outer ward-song on the night of her first public trial. Cassian’s ungloved hand settled over the witness-bowl. Dual-consent hummed. Copper bells overhead tasted the braid and found fracture they could not tidy into martyrdom alone.
+[player_name] looked at the bowls and felt the living-key shape finally thicken around her ribs. Not ink writing her name for her. An architecture she could walk into with her eyes open, with Cassian's heat along her spine turning Collegium arithmetic into partnership.
 
-Isolde leaned forward. “Name the cost.”
+"Consent," Cassian murmured for her alone. "Loud. Dual. If Isolde tries to bill you as harvest mid-braid, I interrupt. That's not theater. It's the only way I can teach power without repeating the push that nearly made me him."
 
-“Shared,” [player_name] said. “I submit as living key with him at my back—not as ink, not as quiet burn, not as Isolde’s leash wearing duty’s coat. The sacrifice map still has fog. Bram’s refusal hymns still breathe. Thorne’s leftover frequency in the stone still refuses tidy grammar. I will not invent belonging where the ledger left blanks. I will bind as a person who chooses.”
+She nodded. The Unmade pressed the cliff like weather with a mouth. She set her palm over the key-bowl.
 
-Cassian’s thumb found her pulse through the bowl’s rim-heat. “Good. Keep saying that while the cliff tries to finish the sentence for you.”
+Song rose. It pulsed for the century singers and went cool through the omissions. It warmed where her braid had cracked Ashmere's outer ward on the night of her first public trial. Cassian's bare hand settled over the witness-bowl. Dual consent hummed. The copper bells overhead tasted the braid and found a fracture they couldn't tidy into martyrdom alone.
 
-The braid tightened. Salt. Ozone. Spent magic tasting like copper on her tongue. Isolde wanted the older grammar. Cassian wanted interruption written into every seal-adjacent breath. [player_name] wanted a world that did not require her silence to stay honest.
+Isolde leaned forward. "Name the cost."
 
-Maris’s breath hitched. Bram’s hymn pages fluttered. Prefects in the upper dark coughed into badges. Cassian shifted closer until his chest steadied her shoulder blades. “Two doors from here that don’t turn you into only a seal. Walk the New Ward with me—shared consensual binding, truth spoken in daylight, Calderyn held by something that isn’t quiet burns. Or spend what we just braided to cut Thorne’s song clean out of Collegium stone—full justice, wards without his leftover music, cost measured in what burial does to hope.”
+"Shared," [player_name] said. "I submit as living key with him at my back. Not as ink. Not as a quiet burn. Not as your leash wearing duty's coat. The sacrifice map still has fog. Bram's refusal hymns still breathe. I won't invent belonging where the ledger left blanks. I'll bind as a person who chooses."
 
-Neither door finished every mystery. Both deepened the living-key shape without pretending early layers had already settled it.
+Cassian's thumb found her pulse through the heat of the bowl's rim. "Good. Keep saying that while the cliff tries to finish the sentence for you."
 
-“Eyes open,” she told Isolde, Bram, Maris, the bells, the Unmade pressing outside. “I submitted as living key with Cassian Rook at my back. I am not finished as martyr. I am choosing the next verb while my mouth is still mine.”
+The braid tightened. Salt. Ozone. Spent magic tasting of copper. Isolde wanted the older grammar. Cassian wanted interruption written into every breath near a seal. [player_name] wanted a world that didn't require her silence to stay honest.
 
-Isolde’s smile thinned to salt-air parchment. “Then choose before Calderyn invents one. Shared binding or clean cut—both billable. Both irreversible.”
+Maris's breath hitched. Bram's pages fluttered. Prefects in the upper dark coughed into their badges.
 
-Copper bells changed watch. Fog erased practice yards into blue ghosts. Cassian’s almost-smile was a blade in velvet. “Whatever you pick, I stay visible. New Ward or burial. I’m not letting binding finish you into harvest while you’re still deciding if you’re a person.” She gathered breath, stance, charm. Partnership was not a mood. Want was not weakness.`,
-  textHot: `The binding chamber should have been cold arithmetic. It wasn’t. [player_name] stood barefoot on blue-glow chalk with Cassian Rook flush at her back and went wet the moment dual-consent bowls woke under their palms. Salt wind through vents. Copper rim-heat. Scorched leather. Practice-blade oil. It was.
+Cassian shifted closer until his chest steadied her shoulder blades. "Two doors from here that don't turn you into only a seal. Walk the New Ward with me. A shared, consensual binding, the truth spoken in daylight, Calderyn held by something that isn't quiet burns. Or spend what we just braided to cut Thorne's song clean out of the Collegium's stone. Full justice. Wards without his leftover music. The cost measured in what burial does to hope."
 
-“Submit fully,” Isolde said, and the words stroked [player_name]’s sternum through the cracked charm until her nipples tightened before the braid finished waking. Living-key song rose like a hand between her thighs—recognition without ownership, pattern without tidy martyrdom, architecture thickening around her cunt as much as her ribs. She wanted to drag Cassian’s mouth to her throat and come with Isolde’s copper voice still filing interest. She stood still. Public binding meant letting supervised hunger taste her song while his heat along her spine made every syllable feel like fingers.
+Neither door would answer every question.
 
-“Consent loud,” he murmured against her ear, thumb on her pulse through bowl-heat. “If she tries harvest mid-braid, I interrupt. Your cunt telling the truth your mouth is about to put on record—person first.”
+"Eyes open," she told Isolde, Bram, Maris, the bells, the Unmade outside. "I submitted as living key with Cassian Rook at my back. I'm not finished as a martyr. I'm choosing what comes next while my mouth is still mine."
 
-[player_name] was slick enough to feel it when she shifted. Maris’s fear. Bram’s hymn hunger. Thorne’s absence as warm wine over broken glass. The braid tightened. Her clit throbbed in stupid solidarity with copper bells. Cassian’s ungloved hand stayed on the witness-bowl while his other found the damp edge of her waistband—check for injury, then for want.
+Isolde's smile thinned. "Then choose, before Calderyn chooses for you. Shared binding or a clean cut. Both billable. Both irreversible."
 
-“Still with me?” “Filthy with you,” she whispered. “Binding as living key with your cock arguing against my spine and your mouth refusing to let me become only ink.”
+Copper bells changed watch. Cassian's almost-smile was a blade in velvet. "Whatever you pick, I stay visible. The New Ward or the burial."
 
-He laughed once—blade, velvet, want—and rolled his hips once, honest, filthy, stopped. Want held like a vow. “Two doors. New Ward with me—shared consensual binding, daylight truth, me inside the vow the way I’m almost inside you now. Or bury Thorne’s song clean—cut his leftover music out of stone while my hands stay on your spine.”
+She gathered breath, stance, charm.`,
+  textHot: `The binding chamber should have been cold arithmetic. It wasn't. [player_name] stood barefoot on blue-glowing chalk with Cassian Rook flush at her back. She went wet the moment the dual-consent bowls woke under their palms. Salt wind through the vents. Copper rim-heat. Scorched leather.
 
-He fucked the choice into her without entering—two fingers finding her shamefully slick from living-key architecture waking, thumb on her clit while Isolde’s patience made the air feel like fingers at her nape. Curl. Stroke. Forehead to the back of her skull. Then ease out shining, paint her lower lip where only he could see.
+"Submit fully," Isolde said. The words stroked [player_name]'s sternum through the cracked charm until her nipples tightened. The living-key song rose like a hand between her thighs. She wanted to drag Cassian's mouth to her throat and come while Isolde's copper voice was still filing interest. She stood still.
 
-[player_name] tasted herself and war. Nipples hard. Charm ticking between her breasts like a second clit. Empty cunt insistent. Thorne still unfinished. Cassian’s sealed past still teeth.
+"Consent loud," he murmured against her ear, his thumb on her pulse through the bowl's heat. "If she tries harvest mid-braid, I interrupt."
 
-She imagined the anteroom behind the gallery stair: his glove shoved into her underthings, living-key Latin still in her mouth, orgasm as punctuation Isolde would never invoice. She did not take that anteroom. Want demanded the ache.
+[player_name] was slick enough to feel it when she shifted. The braid tightened. Her clit throbbed in stupid solidarity with the copper bells. Cassian's bare hand stayed on the witness-bowl. His other found the damp edge of her waistband, checking for injury, then for want.
 
-“Whatever you pick,” he murmured, “I stay visible. New Ward or burial.” Salt on her tongue. Ozone in her sinuses. Scorched-leather heat along her back. When Isolde’s patience made the air feel like fingers at her nape, [player_name] refused to apologize for the wetness between her legs. Risk translated into heat. Heat translated into data. Data said she still had a self.
+"Still with me?"
 
-“Verb,” he said, voice wrecked and private. “Before Isolde invents one that finishes you into a seal.”`,
+"Filthy with you," she whispered. "Binding as living key with your cock arguing against my spine, and your mouth refusing to let me become only ink."
+
+He laughed once and rolled his hips, honest and filthy, and stopped. "Two doors. The New Ward with me. A shared binding, daylight truth, me inside the vow the way I'm almost inside you now. Or bury Thorne's song. Cut his leftover music out of the stone while my hands stay on your spine."
+
+He fucked the choice into her without entering. Two fingers found her shamefully slick from the waking architecture. His thumb on her clit, while Isolde's patience made the air feel like fingers at her nape. Curl. Stroke. Forehead to the back of her skull. Then he eased out, shining, and painted her lower lip where only he could see.
+
+[player_name] tasted herself and war. Charm ticking between her breasts. Her cunt empty and insistent.
+
+She imagined the anteroom behind the gallery stair. His glove shoved into her underthings, the Latin still in her mouth, an orgasm Isolde would never invoice. She didn't take the anteroom. Want demanded the ache.
+
+"Whatever you pick," he murmured, "I stay visible. New Ward or burial."
+
+She refused to apologize for the wetness between her legs. Risk translated into heat. Heat into data. The data said she still had a self.
+
+"Choose," he said, his voice wrecked and private. "Before Isolde chooses something that finishes you into a seal."`,
   choices: [
       {
           "id": "scene10a",
