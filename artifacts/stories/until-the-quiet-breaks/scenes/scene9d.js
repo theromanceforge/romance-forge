@@ -2,124 +2,84 @@ export default {
   id: "scene9d",
   layer: 9,
   title: "Clara's Stage",
-  text: `Clara Shaw had cleared the dining table on Willow Lane as if it were a stage and the papers were props that had waited too long for lights. Charcoal still shadowed her fingers. Wet boxwood tapped the window in the rain. Henry's mantel clock ticked like a heckler who refused to leave. [player_name] stood with John at the threshold of the room and understood that the next ending would not be written by lovers alone—Clara had taken the narrative by the throat.
+  text: `Clara Shaw had cleared the dining table on Willow Lane as if it were a stage, and the papers were props that had waited too long for the lights. Charcoal still shadowed her fingers. Wet boxwood tapped the window in the rain. Henry's mantel clock ticked like a heckler who refused to leave.
 
-"I'm done letting adults whisper over my head," Clara said. Not cruel. Exact. "I found the papers. I drew on them because drawing was the only way I could stand to look. Now I talk. Out loud. With an audience I choose."
+[player_name] stood with John at the threshold. The next ending would not be written by the two of them alone. Clara had taken the story by the throat.
 
-John's hand found [player_name]'s without looking. Coffee and fear lived in his grip. "Audience meaning—"
+"I'm done letting adults whisper over my head," Clara said. Not cruel. Exact. "I found the papers. I drew on them because drawing was the only way I could stand to look at them. Now I talk. Out loud. With an audience I choose."
 
-"Meaning you. Her. Maybe Henry if he can sit without rewriting." Clara's chin lifted. "Or meaning I speak and Henry speaks last—if redemption is something we still believe in giving him a throat for."
+John's hand found [player_name]'s without looking. Coffee and fear lived in his grip. "Audience meaning..."
 
-The choice landed between them like a third plate on the table. Stand behind Clara as she rewrote the family aloud: loyalty to the sister-in-all-but-blood, to restless honesty, to a girl who had grown into a woman while men called silence protection. Or ask Clara to let Henry speak last for redemption: a softer justice, a chance for the uncle's confession to close the night instead of Clara's indictment alone.
+"Meaning you. Her. Maybe Henry, if he can sit without rewriting." Clara's chin lifted. "Or I speak, and Henry speaks last. If redemption is something we still believe in giving him a throat for."
 
-[player_name] tasted woodsmoke and old guilt. Fifteen years ago she had left to protect John. Henry had arranged covers. Clara had lived inside the consequences without being handed the script. Now Clara was writing.
+The choice landed between them like a third plate on the table. [player_name] could stand behind Clara as she rewrote the family aloud. That was loyalty to John's sister, to restless honesty, to a girl who had grown up while men called silence protection. Or she could ask Clara to let Henry speak last. That was a gentler justice, a chance for the uncle's confession to close the night instead of Clara's indictment alone.
 
-"If I stand behind you," [player_name] said carefully, "I don't get to soften your sentences for John's sake. I don't get to sand Henry into someone gentler than his papers. I stand. You rewrite. The family hears what you decide they hear."
+[player_name] tasted woodsmoke and old guilt. Fifteen years ago she had left to protect John. Henry had arranged the covers. Clara had lived inside the consequences without being handed the script. Now Clara was writing it.
+
+"If I stand behind you," [player_name] said carefully, "I don't get to soften your sentences for John's sake. I don't get to smooth Henry into someone gentler than his papers. I stand. You rewrite. The family hears what you decide they hear."
 
 Clara's eyes flicked to John, then back. "Can you do that? Both of you?"
 
-John's jaw worked. "I can stand behind you. I've been standing behind silence long enough to know what it costs." His voice frayed toward [player_name]. "What I don't know is whether asking for Henry's last word is mercy or another delay dressed as grace."
+John's jaw worked. "I can stand behind you. I've stood behind silence long enough to know what it costs." His voice frayed as he turned to [player_name]. "What I don't know is whether asking for Henry's last word is mercy, or another delay dressed as grace."
 
-Henry was in the house. They all felt it—the way floorboards announced an old man who had run out of tidy places to put his guilt. Redemption was not abstract here. It was whether Clara would yield the last breath of the night to the man who had authored half the lie.
+Henry was in the house. They all felt it in the way the floorboards announced an old man who had run out of tidy places to put his guilt. Redemption was not abstract here. It was whether Clara would yield the last breath of the night to the man who had authored half the lie.
 
-Rain needled slate. Market Street felt far and somehow still present, as if the diner's blue door and cracked stool were listening through the miles of wet Somerton. [player_name] thought of John raising Clara beside fryer hymn and coffee steam, of sketches in schoolbook margins, of papers under a glass weight that had never been heavy enough.
+Rain needled the slate. Market Street felt far away and somehow still present, as if the blue door and the cracked stool were listening across wet Somerton. [player_name] thought of John raising Clara beside the fryer and the coffee steam. Of sketches in schoolbook margins. Of papers under a glass weight that had never been heavy enough.
 
 "Clara," she said, "what do you need that isn't polite?"
 
-Clara's mouth trembled once, then steadied. "I need not to be the child in the story anymore. I need the Shaw name to have my voice in it. And I need to know if the people I love will stand behind that—or ask me to hand the mic to Henry because forgiveness looks prettier when an old man cries."
+Clara's mouth trembled once, then steadied. "I need not to be the child in the story anymore. I need the Shaw name to have my voice in it. And I need to know if the people I love will stand behind that. Or ask me to hand the mic to Henry because forgiveness looks prettier when an old man cries."
 
-The honesty hurt. John closed his eyes. When he opened them, gold caught the lamp. "I love you," he told his sister. Simple. Adult. "I'm also terrified of what public rewriting does to the diner and to her." A nod toward [player_name]. "Terrified isn't a veto."
+The honesty hurt. John closed his eyes. When he opened them, gold caught the lamp. "I love you," he told his sister. Simple. Adult. "I'm also terrified of what public rewriting does to the diner, and to her." He nodded toward [player_name]. "Terrified isn't a veto."
 
-[player_name] stepped closer to the table. Charcoal fingerprints marked a ledger corner. Voss's numbers. Henry's cramped hand. The winter accident's ghost. Family secrets with teeth. Romance waiting in the wings while plot took center stage—and John's gravity still pulling her even here, even now, wanting her through the fracture.
+[player_name] stepped closer to the table. Charcoal fingerprints marked a ledger corner. Voss's numbers. Henry's cramped hand. The ghost of the winter accident. Even here, even now, John's gravity still pulled at her through the fracture.
 
-"If we ask Henry to speak last," she said, "we are choosing redemption as a structure. We are saying Clara's truth can share air with his remorse. If we refuse—if we stand behind her alone—we are saying the family's new story starts with her throat, not his."
+"If we ask Henry to speak last," she said, "we're choosing redemption as a structure. We're saying Clara's truth can share air with his remorse. If we stand behind her alone, we're saying the family's new story starts with her throat, not his."
 
 Clara waited. Not soft. Ready. The mantel clock ticked. John's thumb stroked [player_name]'s knuckles once, a private tether in a public turning.
 
-The hook of the night tightened: no gentle landing before the ending layers, only this stage and the hurt of leaving it toward reckoning or redeemed mercy. Outside, wet boxwood scraped. Inside, [player_name] felt the quiet finally asking her to pick a side of Clara's making.
+Outside, wet boxwood scraped the glass. Inside, patience had run out of places to hide. John did not choose for her. Clara did not soften the ask. The papers stayed face-up.
 
-Stand behind Clara as she rewrote the family aloud.
+Stand behind Clara as she rewrote the family aloud. Or ask Clara to let Henry speak last, for redemption.`,
+  textHot: `Clara Shaw had cleared the dining table on Willow Lane like a stage. Charcoal shadowed her fingers. Wet boxwood tapped the glass. Henry's clock heckled. The papers waited like bodies.
 
-Or ask Clara to let Henry speak last for redemption.
+[player_name]'s mouth still felt swollen. John had kissed her hard in the dark hall before they came in, his hands spread on her back, his breath ragged against her ear. Then he had let her go, because this room needed something else. She kept the heat under her skin and out of her face. This was not the room for it.
 
-John did not choose for her. Clara did not soften the ask. The papers stayed face-up.
-
-And before Willow Lane's woodsmoke thinned into morning, [player_name] had to decide which ending she would walk into—Clara's reckoning with her at its back, or Henry's last chance at a smaller, honest place—with John Shaw's hand still locked in hers like a vow that romance had not abandoned the plot.
-
-She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin, a restless honesty that made adults look unfinished by comparison.
-
-Henry's name lived in the floorboards. Saying it softer did not make it kinder.
-
-Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
-
-Her years away were not erasable; they were weight she carried into his arms.
-
-Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
-
-She could leave the room. She would not leave the choice.
-
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.`,
-  textHot: `Clara Shaw had cleared the dining table on Willow Lane like a stage, and [player_name] felt John's want even here—wrong room for fucking, right room for consequence, heat still riding under her skin from the way he had kissed her in the hall before they entered. Charcoal shadowed Clara's fingers. Wet boxwood tapped glass. Henry's clock heckled. Papers waited like bodies.
-
-"I'm done letting adults whisper over my head," Clara said. Exact. "I found the papers. I drew on them to stand looking. Now I talk. Out loud. Audience I choose."
-
-John's hand found [player_name]'s, coffee and fear and leftover hunger in his grip. After close he had fucked her against the blue door's inside face—quick, desperate, her jeans at her thighs, his cock buried deep while Market Street noise pressed the glass—and then they had come here because Clara would not wait on anyone's afterglow. The ache between [player_name]'s legs was still honest. So was the stage.
+"I'm done letting adults whisper over my head," Clara said. Exact. "I found the papers. I drew on them so I could stand to look. Now I talk. Out loud. With an audience I choose."
 
 "Audience meaning—" John started.
 
 "You. Her. Maybe Henry if he can sit without rewriting." Clara's chin lifted. "Or I speak and Henry speaks last—if redemption still gets a throat."
 
-Stand behind Clara rewriting the family aloud—or ask her to let Henry speak last for redemption. Loyalty to restless honesty, or softer justice with an uncle's confession closing the night. [player_name] tasted woodsmoke and John's mouth and old guilt. She had left once to protect him. Henry had arranged covers. Clara had lived the consequences. Now Clara wrote.
+Stand behind Clara as she rewrote the family aloud, or ask her to let Henry speak last. Loyalty to restless honesty, or a gentler justice with an uncle's confession closing the night. [player_name] tasted woodsmoke and old guilt. She had left once to protect John. Henry had arranged the covers. Clara had lived the consequences. Now Clara was writing.
 
-"If I stand behind you," [player_name] said, voice still rough from John's name in her throat earlier, "I don't soften your sentences for his sake. I don't sand Henry gentler than his papers. I stand. You rewrite."
+"If I stand behind you," [player_name] said, "I don't soften your sentences for his sake. I don't smooth Henry gentler than his papers. I stand. You rewrite."
 
 Clara looked at John. "Can you?"
 
-"I can stand behind you." His jaw worked; his thumb stroked [player_name]'s knuckles in a private filthy tenderness, a reminder of where his hands had been. "What I don't know is whether Henry's last word is mercy or delay dressed as grace—and whether I can watch it without wanting to drag [player_name] out of this house and finish what we started against the diner door."
+"I can stand behind you. I've stood behind silence long enough to know what it costs." John's jaw worked. "What I don't know is whether Henry's last word is mercy, or delay dressed as grace."
 
-Henry was in the house. Floorboards announced guilt. Redemption was structure: whether Clara yielded the night's last breath to the man who authored half the lie. Rain needled slate. The diner's blue door and cracked stool felt present through wet Somerton miles. John had raised Clara beside fryer hymn; now Clara raised the truth beside their linked hands.
+Henry was in the house. They all felt it in the way the floorboards announced an old man who had run out of tidy places to put his guilt. Redemption was not abstract here. It was whether Clara would yield the last breath of the night to the man who had authored half the lie.
+
+Rain needled the slate. Market Street felt far away and somehow still present, as if the blue door and the cracked stool were listening across wet Somerton. John had raised Clara beside the fryer and the coffee steam. Now Clara was raising the truth, and the papers under the glass weight had never been heavy enough to stop her.
 
 "Clara," [player_name] asked, "what do you need that isn't polite?"
 
-"Not to be the child in the story. The Shaw name with my voice in it. And to know if the people I love stand behind that—or hand the mic to Henry because forgiveness looks prettier when an old man cries." Clara's gaze flicked, knowing, at their joined hands. "You two smell like you've already chosen each other tonight. Choose me or choose his redemption next. Don't pretend the order doesn't matter."
+"Not to be the child in the story. The Shaw name with my voice in it. And to know if the people I love stand behind that, or hand the mic to Henry because forgiveness looks prettier when an old man cries." Clara's gaze held steady on both of them. "Don't pretend the order doesn't matter."
 
-The honesty hurt and heated. John closed his eyes, opened them gold. "I love you," he told Clara. "I'm terrified of what public rewriting does to the diner and to her. Terrified isn't a veto." He leaned to [player_name]'s ear, whisper only. "Whatever you pick, I take you home after and fuck the adrenaline out of both of us. That's not a bribe. That's survival."
+John closed his eyes, then opened them, gold. "I love you," he told Clara. "I'm terrified of what public rewriting does to the diner, and to her. Terrified isn't a veto."
 
-She shivered. Stepped to the table. Charcoal on ledger. Voss's numbers. Henry's hand. Winter accident ghost. Family secrets with teeth. Romance in the wings; John's gravity still pulling; her cunt still tender from him; plot center stage.
+[player_name] stepped to the table. Charcoal on the ledger. Voss's numbers. Henry's hand. The ghost of the winter accident. Family secrets with teeth.
 
 "If we ask Henry to speak last," she said, "we choose redemption as structure—Clara's truth sharing air with his remorse. If we refuse—if we stand behind her alone—the family's new story starts with her throat, not his."
 
-Clara waited. Ready. Clock ticked. John's thumb stroked once more, a tether and a promise of later. The hook tightened: no soft land before endings—only this stage and the hurt of leaving it toward reckoning or redeemed mercy, with unfinished want still living under [player_name]'s skin.
+Clara waited. Ready. The clock ticked. John's thumb stroked [player_name]'s knuckles once, a tether.
 
-Stand behind Clara as she rewrote the family aloud.
+Stand behind Clara as she rewrote the family aloud. Or ask Clara to let Henry speak last, for redemption.
 
-Or ask Clara to let Henry speak last for redemption.
+John did not choose for her. Clara did not soften. The papers stayed face-up. Outside, wet boxwood scraped glass.
 
-John did not choose for her. Clara did not soften. Papers stayed face-up. The hall kiss and the door fuck waited like unfinished sentences.
-
-And before Willow Lane's woodsmoke thinned, [player_name] had to decide which ending she would walk into—Clara's reckoning at her back, or Henry's last chance at a smaller honest place—with John Shaw's hand locked in hers and his heat still written on her body like a vow that romance had not abandoned the plot.
-
-She catalogued the room the way people catalog exits: window, hall, John's mouth, the truth still half-buttoned between them.
-
-Coffee and woodsmoke braided until she could not tell diner from Willow Lane, only that both belonged to the life she was about to accept or refuse.
-
-Clara's charcoal ghosted through every margin, a restless honesty that made adults look unfinished by comparison.
-
-Henry's name lived in the floorboards. Saying it softer did not make it kinder.
-
-Trust was not a speech. Trust was the next irreversible step waiting like weather about to break.
-
-Her years away were not erasable; they were weight she carried into his arms.
-
-Outside, wet boxwood scraped glass. Inside, patience had run out of places to hide.
-
-She could leave the room. She would not leave the choice.
-
-John watched her as if watching were a vow—steady, hungry, afraid, present. Home with teeth.`,
+John bent close, low enough that only she could hear. "Whatever you choose, tonight ends behind a locked door, just us." It was not a bribe. It was survival. The want he had started in the hall still lived under her skin, waiting for later.`,
   choices: [
     { id: "scene10e", text: "Stand behind Clara as she rewrites the family aloud", textHot: "Stand behind Clara — rewrite the family aloud with her" },
     { id: "scene10f", text: "Ask Clara to let Henry speak last for redemption", textHot: "Ask Clara to let Henry speak last — give redemption a throat" }
