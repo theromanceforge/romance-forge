@@ -115,7 +115,7 @@ export function renderCsMailtoLink(storyTitle, opts = {}) {
   const href = csMailtoHref(storyTitle);
   const className = opts.className || 'cs-mailto';
   const testId = opts.testId || 'cs-mailto';
-  const label = opts.label || 'Contact CS';
+  const label = opts.label || 'Contact us';
   return `<a class="${esc(className)}" href="${esc(href)}" data-testid="${esc(testId)}">${esc(label)}</a>`;
 }
 
@@ -137,7 +137,7 @@ export function renderEndingReviewPanel(opts) {
   const csLink = renderCsMailtoLink(storyTitle, {
     className: 'cs-mailto ending-cs',
     testId: 'ending-cs-mailto',
-    label: 'Contact CS',
+    label: 'Contact us',
   });
 
   if (decision?.status === 'dismissed') {

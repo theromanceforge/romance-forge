@@ -3,7 +3,7 @@
  */
 
 /**
- * Humanize a scene id when no title is available (e.g. scene2a → Scene 2a).
+ * Humanize a scene id when no title is available (e.g. scene2a → Chapter 2).
  * @param {string} sceneId
  * @returns {string}
  */
@@ -11,7 +11,7 @@ export function humanizeSceneId(sceneId) {
   const id = String(sceneId || '');
   if (!id) return '';
   const m = id.match(/^scene(\d+)([a-z]*)$/i);
-  if (m) return `Scene ${m[1]}${m[2] || ''}`;
+  if (m) return `Chapter ${m[1]}`;
   return id
     .replace(/[-_]+/g, ' ')
     .replace(/\b\w/g, (c) => c.toUpperCase());

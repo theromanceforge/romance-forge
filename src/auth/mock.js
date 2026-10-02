@@ -144,4 +144,4 @@ export function handoffGuestToMockAccount(opts) {
  * Message shown when cloud auth is not wired (default submit path).
  */
 export const CLOUD_AUTH_NOT_CONFIGURED =
-  'Cloud auth not configured yet — progress still saves on this browser.';
+  'Accounts aren’t open yet — your place still saves on this browser.';

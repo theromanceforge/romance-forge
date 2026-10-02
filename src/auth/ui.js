@@ -40,8 +40,8 @@ export function renderAuthModal(opts) {
       : '');
 
   const lead = cloudConfigured
-    ? 'Save progress across devices with your Romance Forge account. Guest play stays available — this never blocks Begin or scene&nbsp;1.'
-    : 'Save progress across devices when cloud auth is wired. Guest play stays available — this never blocks Begin or scene&nbsp;1.';
+    ? 'Save your place across devices with a Romance Forge account. No account needed to keep reading.'
+    : 'Accounts are coming soon. Keep reading as a guest — your place saves on this browser.';
 
   const mockHint = cloudConfigured
     ? mockEnabled
