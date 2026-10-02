@@ -48,4 +48,22 @@ describe('reader save prompt never covers prose or choices', () => {
     markSavePromptDismissed(storage);
     expect(shouldShowSavePrompt({ session, alreadyShown: false, storage })).toBe(false);
   });
+
+  it('landing restart copy is inline, above the story picker, not under the sticky Begin bar', () => {
+    const landing = main.slice(main.indexOf('function renderLanding()'), main.indexOf('function renderReader()'));
+    expect(landing).toMatch(/<aside class="save-prompt save-prompt--inline save-prompt--landing" data-testid="save-prompt"/);
+    const tpl = landing.slice(landing.indexOf('<main class="page landing'));
+    const at = tpl.indexOf('${landingSavePromptHtml}');
+    expect(at).toBeGreaterThan(tpl.indexOf('${forgeStripHtml}'));
+    expect(at).toBeLessThan(tpl.indexOf('<section class="cover-hero"'));
+    expect(tpl.indexOf('${landingSavePromptHtml}', at + 1)).toBe(-1);
+    expect(tpl.indexOf('class="sticky-begin"')).toBeGreaterThan(at);
+    expect(lastRule('.save-prompt--landing')).not.toMatch(/position:\s*(fixed|absolute|sticky)/);
+  });
+
+  it('no save-prompt variant in markup uses the old pinned-only class', () => {
+    const asides = [...main.matchAll(/<aside class="save-prompt([^"]*)" data-testid="save-prompt"/g)];
+    expect(asides.length).toBe(2);
+    for (const [, extra] of asides) expect(extra).toMatch(/save-prompt--inline/);
+  });
 });

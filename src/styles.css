@@ -1968,6 +1968,9 @@ body {
 .save-prompt--inline p {
   font-size: 0.9rem;
 }
+.save-prompt--landing {
+  margin: 0 0 1rem;
+}
 
 /* —— Phase 3 between-scene ads interstitial —— */
 .rf-ads-interstitial {
