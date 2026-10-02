@@ -1,7 +1,7 @@
 export default {
   id: "scene6l",
   layer: 6,
-  title: "Obstruction fight: break up / break open",
+  title: "The Stairwell Fight",
   text: `The obstruction fight didn't start with raised voices. It started with Will setting his badge on [player_name]'s kitchen table like a dare and a breakup note sharing one piece of cheap metal.
 
 Rain needled the window over the sink. Foghorns complained across the channel. Renny's old hoodie lay folded on a chair like a third party who refused to leave the argument. Upriver, Cho's remains still waited without Renny's name. None of that science softened the facts: [player_name] had tipped Owen Vale, Will had smelled the leak, and Captain Ellison's briefing clock was eating the hour.

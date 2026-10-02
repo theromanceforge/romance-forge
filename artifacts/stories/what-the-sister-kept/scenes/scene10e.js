@@ -1,7 +1,7 @@
 export default {
   id: "scene10e",
   layer: 10,
-  title: "Sister's Reckoning — she leads the public story for Renny",
+  title: "Sister's Reckoning",
   text: `The microphone smelled like metal and rain when [player_name] took Renny's story public and refused to let Harborwick tidy it into someone else's narrative.
 
 Press lights whitened the precinct steps. Captain Mara Ellison stood to one side, her jaw set for liability. Dr. Lila Cho's confirmation lived in the packets on the table: remains identified, charm matched, timeline reconstructed. The clerk's name sat in the charging documents like a bruise the city would have to look at. Owen Vale's role (the pier night, the pressure to stay quiet, his desperation inside the smuggling chain) was spoken without the varnish of family protection. [player_name] didn't ask Will to hold the microphone. She asked him to stand where the cameras would see a badge that had finally stopped treating her as only a difficult witness.

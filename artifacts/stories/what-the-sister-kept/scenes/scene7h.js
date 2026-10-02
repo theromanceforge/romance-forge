@@ -1,7 +1,7 @@
 export default {
   id: "scene7h",
   layer: 7,
-  title: "Charm + blood: a last hour reconstructed — still short of hard Renny ID",
+  title: "The Last Hour",
   text: `Dawn arrived at the warehouse threshold like a reluctant witness, and Will rebuilt the last hour with blood-rust and silver instead of a confession.
 
 They didn't go deeper than the cold-storage bay. Soft reconstruction, Will called it, the words spoken like a vow against early pushes. Fog still held the pier district in a soft fist. Salt. Rust. Chain-link silvered with wet. A foghorn rolled inland. Will crouched at the penny-colored smear with gloves on, notebook open on his knee, scar catching the first honest light. [player_name] stood beside him with Renny's absence in the air like a third technician, flashlight steady by force. Her sandwich-bag finds were already transferred into proper evidence sleeves, because Will turned a family member's adventuring into chain of custody before Ellison could smell cowboy.

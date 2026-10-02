@@ -1,7 +1,7 @@
 export default {
   id: "scene8j",
   layer: 8,
-  title: "Wire fails: she is made",
+  title: "Made",
   text: `The wire pack sat against [player_name]'s sternum like a second heartbeat, and the ice cut before the clerk's name could finish breathing. Owen Vale was free enough to smell tape. Soft release on conditions Captain Mara Ellison hated: bail pressure dressed as patience, cuffs traded for a curfew and a promise not to leave Harborwick. The soft net had already burned in an alley.
 
 Family had blown apart on a butter-colored porch, and no cell had kept him. Now the hunt lived outside any clean cage. [player_name] stood under a warehouse eave where festival fog still lived in her memory. Will's unmarked car idled two blocks out. Rain needled the chain-link silver. Foghorns complained across the channel.

@@ -1,7 +1,7 @@
 export default {
   id: "scene8i",
   layer: 8,
-  title: "Wire: Owen incriminates the clerk",
+  title: "Owen on the Wire",
   text: `The wire pack sat against [player_name]'s sternum like a second heartbeat. Will had taught her to carry it into a booth that smelled like bleach and dryer sheets. Across the visitation glass, Owen Vale sat with steel on his wrists. The rumor of a soft release was already dying in Captain Mara Ellison's inbox. Rain freckled the high slit of window.
 
 Foghorns complained inland. Renny's absence filled the booth like a fourth person who'd never learned to leave. Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope. None of that stopped [player_name] from pressing her stepfather for a municipal throat while Will listened two rooms away.

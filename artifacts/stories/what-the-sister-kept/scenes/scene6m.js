@@ -1,7 +1,7 @@
 export default {
   id: "scene6m",
   layer: 6,
-  title: "Warehouse raid planning",
+  title: "Drawing the Raid",
   text: `Warehouse raid planning smelled like burnt precinct coffee and marker ink.
 
 Will had claimed a back conference room with a cracked whiteboard, a stack of Harborwick cold-storage maps and a look that said sleep was a rumor other people believed. Dark stubble. Scar pale at the eyebrow. His knuckles whitened around a dry-erase pen as he drew the east cold-storage row in hard black lines: loading docks, chain-link gate, a red door with a number half scraped off. Fourteen or forty-one. Marta's geography still lived between them like a dare.

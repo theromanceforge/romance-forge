@@ -1,7 +1,7 @@
 export default {
   id: "scene7g",
   layer: 7,
-  title: "Warehouse breach with Will",
+  title: "Breach",
   text: `The red door gave on the third shove. Not kicked, not cinematic: just Will putting his shoulder where Harborwick's padlock had pretended to be permanent.
 
 Pre-dawn still held the warehouse east of the old fish auction in a soft fist of fog. Salt. Rust. Chain-link silvered with wet. A foghorn rolled inland low enough to feel in the ribs. [player_name] stayed at Will's shoulder the way he'd ordered, flashlight low, breath controlled by force. Will went ahead, notebook jammed in a coat pocket, scar catching what little sodium light leaked through the corrugated gaps. The soft approach had become a breach the minute the lock's shackle showed fresh tool marks and the camera cable hung cut neat, like someone who understood angles.

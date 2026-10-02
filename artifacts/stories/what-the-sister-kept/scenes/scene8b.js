@@ -1,7 +1,7 @@
 export default {
   id: "scene8b",
   layer: 8,
-  title: "Journal private: bargain with Ellison",
+  title: "Ellison's Bargain",
   text: `Captain Mara Ellison's office smelled like burnt precinct coffee and the kind of paper that outlived people. Rain needled the high window facing the warehouse roofs. A foghorn rolled inland, muffled by glass. [player_name] sat in the chair Will had angled slightly toward her instead of toward Ellison's desk, a small rebellion of furniture that felt like a hand at the small of her back.
 
 Her pulse was hammering. Renny's cracked purple journal lay in a sealed evidence sleeve on Ellison's blotter beside Will's notebook and a tablet already lit with Cho's careful language: unidentified remains upriver; an age range that could fit; a charm that could match; lab ID pending. Will stood rather than sat, sleeves rolled, the scar through his left eyebrow catching the ugly light.

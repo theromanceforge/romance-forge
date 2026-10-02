@@ -1,7 +1,7 @@
 export default {
   id: "scene8k",
   layer: 8,
-  title: "SIM chain: press conference",
+  title: "Steps and Flashbulbs",
   text: `The SIM chain glowed on a borrowed press-room monitor like a municipal throat clearing itself. Captain Mara Ellison hadn't wanted the lights. Will had insisted on them anyway. City Hall's steps smelled like rain and burnt coffee and the kind of rumor that runs faster than science. Camera shutters clicked like cheap interrogation clocks.
 
 [player_name] stood shoulder to shoulder with Will. Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope. None of that stopped Will from reading timestamps into the microphones. After-midnight stubs. Move the paper. Sister pointed. A city clerk's desk code, half-redacted by politics until daylight made redaction look like guilt.
@@ -22,7 +22,7 @@ Now he walked the press through red doors and pencil Xs without naming a corpse.
 
 "If those bones upriver are Renny," a reporter shouted, "why won't you say so?"
 
-"Because Cho hasn't earned a name," Will said, flat and fierce. "Because printing a sister on silt for a better chyron is how cities make false funerals. The SIM chain names a clerk. The wire paths and warehouse leads name a smuggling throat. The remains stay unidentified until science finishes. Next question that doesn't ask me to bury a maybe."
+"Because Cho hasn't earned a name," Will said, flat and fierce. "Because printing a sister on silt for a better chyron is how cities make false funerals. The SIM chain names a clerk. The wire and the warehouse leads name a smuggling throat. The remains stay unidentified until science finishes. Next question that doesn't ask me to bury a maybe."
 
 [player_name]'s blood went loud with gratitude and want. Standing beside him under the shutters felt like another kind of intimacy. Ellison's jaw tightened further. Somewhere in City Hall, a licensing desk went dark.
 

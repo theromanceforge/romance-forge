@@ -1,7 +1,7 @@
 export default {
   id: "scene6d",
   layer: 6,
-  title: "Off-record night: intimacy refused; case only",
+  title: "Case Only",
   text: `Off-record didn't mean soft. It meant Will's badge stayed in his pocket while the case claimed every inch of [player_name]'s living-room floor. It meant the air between them had a temperature Ellison's fluorescents never measured. Rain ticked the rusted chain-link in the alley. Reheated precinct coffee steamed from two mismatched mugs. Will's cracked notebook lay open beside photocopied pier maps and Cho's pending language: unidentified, age range consistent with, charm probability. Never Renny.
 
 Will knelt opposite her with his sleeves rolled, sleeplessness carved into the set of his mouth. The charm was banked so low it was almost gone. Downstairs in the damp vestibule she had told him tonight was case only. He had nodded once. He hadn't pretended the nod cost him nothing. His eyes tracked the papers and, when he thought she wasn't looking, the line of her throat.

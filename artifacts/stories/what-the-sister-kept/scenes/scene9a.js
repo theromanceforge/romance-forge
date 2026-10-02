@@ -1,7 +1,7 @@
 export default {
   id: "scene9a",
   layer: 9,
-  title: "Trial path: testify against Owen fully",
+  title: "The Witness Chair",
   text: `Harborwick Courthouse smelled like wet wool and floor wax. Rain needled the tall windows. Foghorns answered the river like unpaid witnesses. [player_name] sat in the hard witness chair. Renny's journal lay on the prosecutor's table, logged as Exhibit C. Will sat in the gallery two rows back, in charcoal, still as a closed notebook, his eyes on her mouth as if her next sentence were a fuse he'd already agreed to hold.
 
 Owen Vale sat at the defense table in a suit that tried to look like remorse and mostly looked like money. For seven years she'd kept him off her official statement. Admitting she'd seen him near the pier the night Renny vanished would have blown what was left of the house apart. Testifying fully meant no soft edges. It meant Warehouse C, the clerk's initials, M.H., the midnight trucks, and the pier night, spoken under oath without mercy.

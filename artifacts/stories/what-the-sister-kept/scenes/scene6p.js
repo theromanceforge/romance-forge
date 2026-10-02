@@ -1,7 +1,7 @@
 export default {
   id: "scene6p",
   layer: 6,
-  title: "She walks — Will has to chase both case and her",
+  title: "The Chase in Fog",
   text: `She walked, and Will had to chase both the case and her.
 
 Fog took [player_name] like a second skin. Pier boards wet under her boots. Chain-link rattled somewhere in the dark. Foghorns groaned across the water, as if the city were clearing its throat to say her sister's name and then thought better of it. She'd left the trailer lean, or the precinct politics, or both. She'd left the shape of Will's late smile when it went from charm to instrument. The leaving tasted like necessary mercy and a cowardice she refused to name yet.
@@ -53,7 +53,7 @@ He boxed her against the fence, mouth at her ear, thigh pushing between hers unt
 
 "If I reunite—"
 
-"The crowd," Will snarled, pumping slow, filthy, precise. "My hand on your back like soft partnership—and after I put you against the car and fuck the walk out of you until fog knows your moan, until you feel how hard I get for a woman who fled my lean and still soaks my hand." He freed his cock enough to smear the head through her folds without entering—hot, blunt, cruel, painting her clit until she jerked. "Or circle back to the box while I take the warehouse alone and come back smelling like fish-rot and unfinished want. After, I fuck you in my bed if you ask."
+"The crowd," Will snarled, pumping slow, filthy, precise. "My hand on your back like we're partners in daylight—and after I put you against the car and fuck the walk out of you until fog knows your moan, until you feel how hard I get for a woman who fled my lean and still soaks my hand." He freed his cock enough to smear the head through her folds without entering—hot, blunt, cruel, painting her clit until she jerked. "Or circle back to the box while I take the warehouse alone and come back smelling like fish-rot and unfinished want. After, I fuck you in my bed if you ask."
 
 She clenched around nothing when he drew his fingers free and rubbed her with the wet head of his cock instead, shallow, maddening, never fully inside. "Walking didn't free your secret," Will muttered against her mouth. "Public storms dig. Locked boxes dig quieter."
 

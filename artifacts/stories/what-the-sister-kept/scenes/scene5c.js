@@ -1,7 +1,7 @@
 export default {
   id: "scene5c",
   layer: 5,
-  title: "Lawyer present: controlled drip of truth",
+  title: "Counsel at the Table",
   text: `Ms. Patel smelled like peppermint gum and expensive caution. She sat to [player_name]'s left in the interview room with a legal pad already quartered into columns: say / do not say / later / never. Fluorescents hummed their hospital note. Rain freckled the high window. Will sat across the scarred table with his cracked notebook open and his charm locked behind a professional blankness that somehow made him more magnetic, not less. His eyes kept finding [player_name]'s mouth, as if counsel were a glass wall he intended to fog with patience alone.
 
 "My client will answer questions related to the festival timeline and her prior statement," Patel said. Crisp. "She will not speculate about unidentified remains. She will not be pressed into narrative that science has not supported. The charm is possibly consistent. Possibly is not identity. Dr. Cho's lab has not confirmed Irene—Renny—among the upriver dead. We will not perform a burial in this room for the department's convenience."

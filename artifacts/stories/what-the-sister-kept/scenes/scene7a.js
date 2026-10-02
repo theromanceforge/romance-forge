@@ -1,7 +1,7 @@
 export default {
   id: "scene7a",
   layer: 7,
-  title: "Locked box: Renny's journal names the smuggling chain",
+  title: "Renny's Journal",
   text: `Dawn came up Harborwick's river the color of old bruises, purple fading to iron, fog still clinging to the pier warehouses as if night had refused to clock out. [player_name] sat at her kitchen table with Renny's cracked purple journal open under a cheap desk lamp Will had dragged in from the hallway. The pier map lay beside it, and the USB, still wrapped in electrical tape. Precinct coffee cooled in two mismatched mugs. The radiator knocked downstairs like a second interrogation clock.
 
 Will stood at the window with his notebook closed against his thigh, shirt wrinkled from the hours they'd spent translating a teenager's looping script into cold-case language. His eyes were bloodshot and sharp. Every time Renny named a warehouse mark or a late-night initial, his jaw flexed like he was biting down on a worse year. When Ellison had almost said Nina Solis two nights ago, Will had touched his ribs. The flinch still lived in his shoulders. He didn't open that file in a kitchen that smelled like Renny's vanilla ghost and river damp.

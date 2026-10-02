@@ -1,7 +1,7 @@
 export default {
   id: "scene10a",
   layer: 10,
-  title: "Together in Truth — Will + her; case closed daylight; Renny's fate finally spoken honestly",
+  title: "Together in Truth",
   text: `Morning found Harborwick rinsed clean enough to pretend. Fog still clung to the pier like a habit, but the rain had stopped, and the precinct steps were wet enough to shine. [player_name] stood beside Will. Renny's name was already spoken into the record: without the old lie, without Owen's pier-night varnish, without the seven-year silence she'd worn like a second skin.
 
 Dr. Lila Cho's lab language had finally hardened. The upriver remains were Renny. Age range matched. Charm matched the gap in the bracelet. The city clerk who had wanted a teenager quiet about a smuggling chain was named in daylight; Owen Vale's partial confession sat in a file that no longer needed family protection to stay useful. Captain Mara Ellison had closed the cold case with the kind of nod that meant liability had been spent and justice, imperfect, had been filed.

@@ -1,7 +1,7 @@
 export default {
   id: "scene6f",
   layer: 6,
-  title: "Raw admission recorded — point of no return",
+  title: "The Red Light On",
   text: `The red light on the interview recorder was the size of a blood bead and twice as permanent.
 
 Room B smelled like burnt coffee, wet wool, and seven years of unfinished sentences. The fluorescent tubes hummed a flat hospital note over the scarred table. Rain freckled the high window. Will sat across from her with his cracked notebook open, the spine complaining every time he flexed it, his pen balanced between fingers that had learned hard lessons before they learned patience.

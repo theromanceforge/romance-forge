@@ -1,7 +1,7 @@
 export default {
   id: "scene10d",
   layer: 10,
-  title: "Stay Cold — she stays in the city without Will",
+  title: "Staying Cold",
   text: `[player_name] stayed in Harborwick, and she didn't stay with Will.
 
 It was the ending that felt like walking the pier fog without a coat: present, untied. She kept the narrow apartment near the warehouses, close enough to hear the foghorns when the wind was wrong, far enough that the precinct's burnt-coffee ghost was no longer the soundtrack of her mornings. Renny's remains had been confirmed. The clerk had slipped the net and left the city chewing on rumor again. Will hunted. [player_name] waited, and then stopped waiting, in the sense that meant sharing a bed. Waiting became living alone with her sister's name finally spoken, and a detective's number she didn't dial.

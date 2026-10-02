@@ -1,7 +1,7 @@
 export default {
   id: "scene6e",
   layer: 6,
-  title: "Controlled drip: Ellison smells sandbagging",
+  title: "Ellison Smells Smoke",
   text: `Captain Mara Ellison smelled stalling the way Harborwick smelled rain: constantly, expertly, already halfway to a charge sheet.
 
 Her office sat above the interview rooms like a second conscience. Policy binders leaned. The west window held pier fog in a soft fist. Burnt coffee steamed from a mug that said CLEARANCE in faded letters someone had bought as a joke and kept as a threat. Will stood to Ellison's left with his cracked notebook shut for once, still as a held breath, his professional blankness somehow making the room warmer and colder at once.

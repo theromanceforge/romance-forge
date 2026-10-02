@@ -1,7 +1,7 @@
 export default {
   id: "scene8f",
   layer: 8,
-  title: "Second victim: keep Renny the only name",
+  title: "One Name Only",
   text: `Keeping Renny the only name felt like a single blade laid across a kitchen table that still remembered butter and lies: narrow, sharp, refusing Harborwick a parade. Captain Mara Ellison didn't like narrow. Clearance season preferred ambitious weather. But [player_name] had flipped Owen Vale under ultimatum pressure and then spent the mercy of scope on one sister's unfinished pier instead of Cho's whispered second pattern. The war-room whiteboard still held Will's dry-erase cousins (age-range adjacent, harbor traffic, teenagers quieted), and he'd drawn a hard line through them without erasing the ink. A detective's way of saying seen, not spent.
 
 Will stood very still with his notebook open. Dr. Lila Cho's language still ruled the remains upriver: unidentified, pending, consistent with. The silver charm was still only like.

@@ -1,7 +1,7 @@
 export default {
   id: "scene7n",
   layer: 7,
-  title: "IA: Will under review for closeness to witness",
+  title: "Under Review",
   text: `Internal Affairs didn't knock like weather this time. It summoned.
 
 The review room on the third floor of Harborwick PD smelled like burnt coffee upgraded to bitterness and carpet glue that had given up in 1998. Fluorescents hummed. A recorder sat center-table like a small black judge. Lieutenant Rhee had brought a second chair for Captain Ellison, whose distrust had condensed into a blazer and a folder thick enough to bruise. Will sat with his spine too straight, scar pale, late smile nowhere. His knuckles flexed once on his knee and then were forced open, as if open hands could prove innocence.

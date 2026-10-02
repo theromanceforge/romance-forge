@@ -51,7 +51,7 @@ She couldn't breathe in that room anymore. She stood and walked out past him, an
 
 Will stopped close enough that she felt his warmth through her shirt. His soft voice made everything worse. "Beg me soft," he said, gaze dropping to her throat, her breasts, "or warn him. I'll hate neither. I'll want you through both, and that's my problem, not the case's."
 
-Ellison's politics slid through her as nausea and heat mixed. The hard path meant spectacle. The soft path meant Will's eyes on Owen while her body stayed stupidly aware of Will's mouth. He laid out soft without kindness: watching someone burn evidence, choosing when to close a hand, living with delay as a chosen sin. His voice made both options sound like ways he could ruin her and hold her through it.
+Ellison's politics slid through her as nausea and heat mixed. The hard way meant spectacle. The soft way meant Will's eyes on Owen while her body stayed stupidly aware of Will's mouth. He laid out soft without kindness: watching someone burn evidence, choosing when to close a hand, living with delay as a chosen sin. His voice made both options sound like ways he could ruin her and hold her through it.
 
 "Speed isn't justice. Delay isn't love. And wanting you while we argue about your stepfather's wrists is my private disaster. Beg soft and I'll try restraint with a body that doesn't prefer it. Warn him and I'll still want to put you against this counter and fuck the guilt quiet for five minutes we don't have."
 

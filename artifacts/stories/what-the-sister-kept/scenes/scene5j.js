@@ -1,7 +1,7 @@
 export default {
   id: "scene5j",
   layer: 5,
-  title: "Soft net breaks — Owen destroys a phone",
+  title: "The Broken Phone",
   text: `The soft net didn't tear with a shout. It tore with plastic and a lighter.
 
 [player_name] was still in Will's passenger seat when Owen Vale fed a phone to fire in the alley beside his row house, Harborwick drizzle making a weak argument against the flare. Two blocks of wet asphalt. Porch light still performing innocence. Will's camera kept clicking, turning a stepfather's panic into timestamped frames while the heater ticked.

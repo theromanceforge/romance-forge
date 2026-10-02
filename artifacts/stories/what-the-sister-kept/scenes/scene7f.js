@@ -1,7 +1,7 @@
 export default {
   id: "scene7f",
   layer: 7,
-  title: "Recording leaks toward the press",
+  title: "The Recording Leaks",
   text: `The copy left Harborwick Precinct the way fog left the pier—without asking permission, already halfway to weather.
 
 [player_name] learned first from Will's face, not from a headline. He stood in the stairwell between Records and the lot, notebook shut so hard the spine complained, eyes flat with a fury that still somehow made the air warmer. Rain freckled the high glass. Burnt coffee drifted up from the bullpen. A foghorn rolled inland like a rumor with lungs. Renny's absence stood between them as if it had always been the third person on every recording.

@@ -1,7 +1,7 @@
 export default {
   id: "scene8e",
   layer: 8,
-  title: "Second victim: widen the case",
+  title: "Widening the Case",
   text: `Widening tasted like burnt precinct coffee and a second file Cho wouldn't swear to on a stand yet: thin, provisional, stamped with hedges that still changed the temperature of Harborwick. The fog outside Captain Mara Ellison's west window had thinned into a working morning. The CLEARANCE mug sat empty. The charging memo that had threatened [player_name] with obstruction now lived in a different drawer. Owen Vale had flipped hard under ultimatum weather, and the arrest machinery was engaged.
 
 Will stood at the whiteboard with his notebook open, very still, and drew a line from Owen's pier silhouette to a cousin silence Cho had whispered into the record (second victim pattern, age-range adjacent, harbor traffic, teenagers quieted) without naming anyone among the dead. Dr. Lila Cho's language still ruled the remains upriver: unidentified, pending, consistent with. The silver charm was still only like.
@@ -67,7 +67,7 @@ Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and hard-on
 
 A foghorn rolled into [player_name]'s ribs and lower.
 
-Will murmured at her ear, soft enough that Ellison would hear words and miss the filth. "The trial path puts the chain in daylight. I sit in the gallery hard as a sealed file and watch your mouth tell the truth under oath. Hunt path puts a clerk in steel. And after either one, I eat you quiet enough for fluorescent lights."
+Will murmured at her ear, soft enough that Ellison would hear words and miss the filth. "A trial puts the chain in daylight. I sit in the gallery hard as a sealed file and watch your mouth tell the truth under oath. The hunt puts a clerk in steel. And after either one, I eat you quiet enough for fluorescent lights."
 
 She pictured the trial stand with Will in the gallery: scar catching courthouse light, cracked knuckles white on his knee, cock hard under wool while she named Owen and clerk and chain under oath.
 

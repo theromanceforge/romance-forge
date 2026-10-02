@@ -1,7 +1,7 @@
 export default {
   id: "scene5g",
   layer: 5,
-  title: "Partial ME report — she confronts Owen alone while Renny's fate still open",
+  title: "Owen's Kitchen",
   text: `Owen Vale's porch light was the color of old butter. It made Harborwick's damp look domestic, which was a lie [player_name] had been swallowing for seven years.
 
 She stood on the bottom step without Will at her shoulder. That had been the point of choosing alone: no badge on the boards, no detective turning the doorway into a stage. Will was in the car half a block down. It was the agreed distance, and he was unhappy about it, notebook on the dash, the Solis flinch living in how he'd said I push early and people bleed before she walked away. [player_name] used that as bracing. She hadn't come here to become another softness that cost him. She had come for Owen.

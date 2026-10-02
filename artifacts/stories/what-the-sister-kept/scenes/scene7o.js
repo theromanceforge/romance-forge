@@ -1,7 +1,7 @@
 export default {
   id: "scene7o",
   layer: 7,
-  title: "Politics: she goes public to protect Will",
+  title: "Going Public",
   text: `She went public to protect Will, and Harborwick answered with flashbulbs that smelled like rain and burnt-coffee ambition.
 
 The steps of City Hall were wet. Microphones bristled like a second fence. A foghorn spoke from the harbor as if the city wanted credit for the volume. [player_name] stood at the makeshift podium in a coat that didn't feel like armor, a printed statement shaking once in her hands before she steadied it. Will waited off-camera to the side, scar pale under the sodium light, late smile banked into something almost polite for the lenses, knuckles flexing once behind his back where the press couldn't count them. Captain Ellison watched from a respectful distance that fooled no one. Internal Affairs lived in the crowd as rumor and two blazers that didn't clap.

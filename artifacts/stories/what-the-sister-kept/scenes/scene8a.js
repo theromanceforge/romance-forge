@@ -1,7 +1,7 @@
 export default {
   id: "scene8a",
   layer: 8,
-  title: "Journal public: name the chain",
+  title: "The Chain, Out Loud",
   text: `Rain silvered Harborwick's precinct steps like a second set of handcuffs. Wet iron, pier salt on the wind, foghorns arguing beyond the warehouse roofs. [player_name] stood under the ugly overhang with Renny's cracked purple journal against her ribs, and Will at her shoulder like a weather system that had decided to stay. Charcoal jacket over a shirt that still smelled faintly of burnt precinct coffee.
 
 The scar through his left eyebrow. Eyes bloodshot and sharp. His charm was filed down to a public edge; he watched the press pack gathering at the bottom of the steps like a second interrogation room with worse lighting. Captain Mara Ellison had wanted a sealed drip. She wasn't getting one. The journal was going into daylight: Warehouse C, midnight trucks that didn't match any shipping board, clerk initials M.H., Owen Vale's late nights in a teenager's looping script. Harborwick was about to learn that Renny had been looking at the city's throat while the official story still pretended she'd run.
@@ -36,7 +36,7 @@ Will's knuckles brushed the back of her hand once. Heat, calluses, a pulse the c
 
 "USB and map copies are logged," he added for the recorders. "The journal was imaged under seal this morning, before this statement. Anyone who wants the paperwork can file like an adult. Anyone who wants a funeral before Cho speaks can wait in the rain." Ellison angled in as the first wave broke, close enough that burnt coffee and starch cut through the salt.
 
-"Two doors from my office by end of day," she said, soft enough for only them. "Full-testify trial path—you put Owen and the chain under oath with no soft edges, and my precinct rides the political weather. Or you blow the rest open in the press yourselves—USB, map, every plate number Renny scratched—before someone else leaks a worse version. Choose carefully. Akers's closeness to you is already an IA-shaped shadow. Public heroes make pretty targets."
+"Two doors from my office by end of day," she said, soft enough for only them. "Testify fully at trial—you put Owen and the chain under oath with no soft edges, and my precinct rides the political weather. Or you blow the rest open in the press yourselves—USB, map, every plate number Renny scratched—before someone else leaks a worse version. Choose carefully. Akers's closeness to you is already an IA-shaped shadow. Public heroes make pretty targets."
 
 Will's jaw flexed. He didn't say hallway. His shoulders said it anyway. "She chooses," he said. "I stay. That's the whole of my politics today." The foghorn rolled inland, low enough to feel in the bones. [player_name] felt the almost of a kiss they couldn't finish on precinct steps while cameras ate their profiles.
 
@@ -71,7 +71,7 @@ Questions surged: Owen, the clerk, whether the detective was sleeping with the w
 
 "Because I was afraid," [player_name] said. "Because Owen sold me a softer lie. Because Renny wrote that I knew, and she was right, and I'm done letting her be right alone."
 
-Ellison stepped close after the first wave, burnt coffee cutting the pier salt. "Two doors by end of day," she said, soft, for them only. "The full-testify trial path: Owen and the chain under oath, no soft edges. Or blow the rest open in the press yourselves before someone leaks worse. Akers's closeness is already IA-shaped. Public heroes make pretty targets."
+Ellison stepped close after the first wave, burnt coffee cutting the pier salt. "Two doors by end of day," she said, soft, for them only. "Testify fully at trial: Owen and the chain under oath, no soft edges. Or blow the rest open in the press yourselves before someone leaks worse. Akers's closeness is already IA-shaped. Public heroes make pretty targets."
 
 Will's mouth almost touched [player_name]'s temple. "She chooses. I stay." Lower, for her only: "I'm hard from watching you tell a city the truth it doesn't deserve, and I'm choosing to keep my cock out of the vote. Pick the trial and I'll sit behind you in a courtroom wanting my mouth on your throat every time you say Warehouse C."
 

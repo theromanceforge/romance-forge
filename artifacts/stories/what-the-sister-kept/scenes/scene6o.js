@@ -1,7 +1,7 @@
 export default {
   id: "scene6o",
   layer: 6,
-  title: "She shields Will from Ellison's politics",
+  title: "Shielding Will",
   text: `Shielding Will from Ellison's politics smelled like burnt precinct coffee and practiced smiles.
 
 Captain Mara Ellison's office was glass and judgment. Rain streaked the window behind her desk. A foghorn spoke faintly from the harbor, as if the city wanted a seat at the table. Will stood at a parade rest that fooled no one, scar pale under the fluorescents, late smile banked into something almost polite, knuckles flexing once behind his back where Ellison couldn't see. [player_name] sat in the family-contact chair with Renny's absence pressed under her ribs. The shield role was still warm in her palms from Marta's trailer: soft voice, the choice to stand between Will and the machine that wanted him managed.

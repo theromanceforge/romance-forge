@@ -1,7 +1,7 @@
 export default {
   id: "scene7d",
   layer: 7,
-  title: "Case-only streak breaks — want returns mid-briefing",
+  title: "Want, Mid-Briefing",
   text: `The precinct briefing room smelled like burnt coffee and dry-erase ghosts, Harborwick's official weather, fluorescent and unkind. [player_name] sat in the chair Will had angled toward the whiteboard instead of toward Captain Ellison's empty seat at the head, a small rebellion of furniture that felt like a hand at the small of her back. Case-only had been their streak for days: maps, timestamps, Owen Vale's cracking alibi, Cho's careful pending. No mouths. No almost-kisses finished. Want banked like a coal they both pretended had gone cold.
 
 It had not gone cold.

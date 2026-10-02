@@ -1,7 +1,7 @@
 export default {
   id: "scene5p",
   layer: 5,
-  title: "Will leans hard — she walks out of the interview",
+  title: "Walking Out",
   text: `Will leaned hard, and [player_name] walked out of the interview.
 
 She refused the theater before Marta's face could finish shuttering. Rain ticked the aluminum roof; the fryer oil turned cloying. Will's late smile had gone from charm to instrument, the notebook open, a whitened knuckle flexed, the scar catching the trailer light like a warning.
