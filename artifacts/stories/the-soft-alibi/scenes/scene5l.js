@@ -81,7 +81,7 @@ She didn't stand. She sat very straight with his palm warm against her spine and
 Stand with him in public, and let Rasmussen's podium see it. Or walk out, and make him come after her.`,
   textHot: `She followed him in.
 
-He had her against the inside of his door before it finished closing. Her dress up around her waist, his mouth on her throat, his fingers inside her. Then him, hard and slow, her legs around his hips and her shoulders hitting the wood with every thrust. She came with her teeth in his shoulder so she wouldn't scream. Later, in his bed, he did it again, slower, and she fell asleep with him still holding her.
+He had her against the foyer wall before his door finished closing. Her dress up around her waist, his mouth on her throat, his fingers inside her. Then him, hard and slow, her legs around his hips and her shoulders hitting the plaster with every thrust. She came with her teeth in his shoulder so she wouldn't scream. Later, in his bed, he did it again, slower, and she fell asleep with him still holding her.
 
 At four she slid out from under his arm without waking him and dressed in the dark and walked the twelve steps home. She didn't sleep after.
 
@@ -129,7 +129,7 @@ The elevator opened.
 
 Her body knew before she turned. The ache between her legs pulsed once, hard, like it had heard him.
 
-Nolan crossed the marble in a dark suit, shaved, composed, every inch the owner. He nodded to Brooks. Then he looked at [player_name], and his eyes went dark for one second, and she knew he was remembering the door. Her nipples tightened under the wool. She was suddenly, absurdly wet, sitting in a leather chair in the middle of the lobby.
+Nolan crossed the marble in a dark suit, shaved, composed, every inch the owner. He nodded to Brooks. Then he looked at [player_name], and his eyes went dark for one second, and she knew he was remembering the foyer wall. Her nipples tightened under the wool. She was suddenly, absurdly wet, sitting in a leather chair in the middle of the lobby.
 
 "Detective," he said. "Is my neighbor under arrest?"
 

@@ -54,15 +54,15 @@ The room was very still.
 
 "Someone on it might have," he said. "Or Pell asked them for help. He has friends in that office. He used to run it."
 
-He went to the credenza, not the locked drawer, the one above it, and came back with a folded slip of notebook paper. His own handwriting.
+He went to the credenza, the drawer above the locked one, and came back with a single sheet of printer paper folded once. Pell's letterhead at the top. One line near the bottom circled in red.
 
-"Pell sent me the building's door logs last week," he said. "I copied one line and couldn't make myself throw it away. The freight door has its own card lock. That night, two minutes to midnight, a card read it." He held it out. GM-0417. "GM is Greer Meridian. That prefix is the risk office."
+"Pell sent me the building's door logs last week," he said. "Forty pages. He circled one line and didn't write a note. He didn't have to." He unfolded it and put his finger under the circle. GM-0417. Freight door, two minutes to midnight, the night Rhea last marked his wife present. "GM is Greer Meridian. That prefix is the risk office."
 
-[player_name] took the slip. The paper was soft from being folded and unfolded. She read the number twice and then a third time, as if it might change.
+[player_name] read the circled line, then the time beside it, then the line again. Pell's red ink had bled a little into the paper, like it had been pressed down hard.
 
 She felt cold all the way through her coat. "You've never asked."
 
-"I've never wanted the answer," Nolan said. "You've heard me say that tonight in other words."
+"Asking would mean I wanted to know," Nolan said. "I've spent a year arranging not to."
 
 She had. Over wine. In the dark, with his arm across her. In the hallway at step nine. Every way except plainly. Down the hall behind him, past the bath with the full bottle nobody wore, was the east room where his wife had slept. [player_name] had never once gone in.
 
@@ -80,9 +80,9 @@ His jaw tightened. "Then you could plan around both. Go out there and find out w
 
 She looked at his face. At the scar. At the tired eyes that hadn't looked away from her once since she said the word silence.
 
-"I don't know what you are," she said quietly.
+"Who are you protecting?" she asked quietly.
 
-"Neither do I," Nolan said. "Not tonight."
+"Tonight?" Nolan said. "I honestly couldn't tell you."
 
 He lifted his hand and put it against the side of her face. Just his palm, warm, along her jaw, his thumb resting at the corner of her mouth. She let him.
 
@@ -133,11 +133,11 @@ He closed his eyes.
 
 "Or made her agree and called it payment. Or she asked for it," Nolan said. "Or Rhea heard the end of the wrong sentence. I didn't send them. Pell has friends in that office. He used to run it."
 
-He went to the credenza and came back with a soft folded slip. His handwriting.
+He went to the credenza and came back with one sheet of printer paper, folded once. Pell's letterhead. A line circled in red.
 
-"Pell sent me the door logs last week," he said. "A card read the freight door at two minutes to midnight that night." He held it out. GM-0417. "That prefix is risk."
+"Forty pages of door logs, and Pell circled one line," he said. "No note." He put his finger under the red. GM-0417. Freight door, two minutes to midnight. "That prefix is the risk office."
 
-She took it. The paper was warm from his pocket. She read the number twice, then a third time, as if it might change.
+She took the page. The red ink had bled into the paper where Pell pressed too hard. She read the line again, as if it might change.
 
 The room was very quiet. Wind leaned on the glass. Down the hall behind him was the bath with the full bottle nobody wore, and past it the east room where his wife had slept. [player_name] had never gone in. She thought of two men in the freight bay laughing. Maybe she'd been upstairs that same night, in this room, on that couch, with his mouth between her legs and no idea.
 
@@ -149,11 +149,11 @@ His jaw tightened. "Then you could plan around both. With Pell or against him."
 
 "You've never asked them," she said.
 
-"I've never wanted the answer," Nolan said. "You've heard me say that tonight in other words."
+"Asking would mean I wanted to know," Nolan said. "I've spent a year arranging not to."
 
-"I don't know what you are," she said.
+"Who are you protecting?" she asked.
 
-"Neither do I," Nolan said. "Not tonight."
+"Tonight?" Nolan said. "I honestly couldn't tell you."
 
 He came to her. He didn't stop this time. He took her face in both hands and kissed her, hard, open, and she made a sound into his mouth and grabbed his shirt. He walked her back until her shoulders hit the cold glass of the window, the city behind her, all those lit windows. He pushed her coat off her shoulders. It fell. His mouth went to her throat. His hand slid up under her dress, up her bare thigh, and found her through the lace, soaked, and pressed.
 
@@ -165,7 +165,7 @@ She gasped. Her hips rocked into his hand. Behind her the glass was cold through
 
 "Say it," he said.
 
-His fingers slid under the lace. Into her. She cried out. The slip of paper was still crumpled in her fist against his chest.
+His fingers slid under the lace. Into her. She cried out. Pell's page was still crumpled in her fist against his chest.
 
 "The silence," she gasped, "is the—"
 
