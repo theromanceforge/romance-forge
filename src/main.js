@@ -360,6 +360,9 @@ function readStoredSpice() {
 }
 
 function readStoredStoryId() {
+  // Share links: <base><story-id>/ (static page with that story's OG tags).
+  const fromPath = (location.pathname || '').split('/').filter(Boolean).pop();
+  if (fromPath && CATALOG.some((c) => c.id === fromPath && c.available)) return fromPath;
   try {
     const v = sessionStorage.getItem(STORY_KEY);
     if (v && CATALOG.some((c) => c.id === v && c.available)) return v;
