@@ -34,7 +34,7 @@ John exhaled as if he had been underwater with her since the letter first reache
 
 He looked at her as if the confession had changed the light on her face and he meant to learn the new shape of it. "Not at you. You demanded truth before closeness, and you delivered it before dawn. I'd rather hear this from you in a locked booth than find it in Henry's desk after another fifteen years."
 
-He didn't reach for her. Truth before dawn had its price: no blankets, no sleep, no arms, only the booth and the number and his anger close enough to feel. But nobody would get to soften it before morning.
+Truth before dawn had its price. There were no blankets, no sleep and no arms around her. There was only the booth, the number and his anger close enough to feel. But nobody would get to soften the truth before morning.
 
 Upstairs a floorboard creaked. Clara turning in her sleep, or listening despite her headphones. Up on Willow, woodsmoke would already be rising from Henry's chimney, a man who couldn't sleep while the quiet broke elsewhere.
 
@@ -45,7 +45,7 @@ John rose, stiff from the long sit, and checked the front latch. He came back an
 He tapped the air where the digits still seemed to hang between them like wire. "Clara said not to soften anything just because the storm made us feel temporary. This is the opposite of temporary. So is the fact that you stayed through the rain to say it."
 
 First light bruised the glass. [player_name] looked from the dark window toward Willow to the black phone on the wall by the pie case, its cord curled like a question, and the number sat on her tongue waiting for somewhere to go.`,
-  textHot: `Thunder had moved off toward the ridge and then circled back, as if Somerton weren't done listening. Rain still sealed Market Street. The blue door stayed locked. Coffee cold. Clara's tea bitter in unmatched mugs. The blankets had warmed their shoulders, then their hips, as the talk ran long and the wanting refused to leave the room just because truth had been invited to sit first.
+  textHot: `Thunder had moved off toward the ridge and then circled back, as if Somerton weren't done listening. Rain still sealed Market Street. The blue door stayed locked. Coffee cold. Tea bitter in unmatched mugs. The blankets had warmed their shoulders, then their hips, as the talk ran long and the wanting refused to leave the room just because truth had been invited to sit first.
 
 [player_name] and John sat close enough that his thigh pressed hers, deliberate, electric. Under it all ran the demand that had started the dark: truth first. No kiss on a hollow floor.
 
@@ -73,9 +73,9 @@ John made a sound, half groan, half prayer. "Say the number. Let it live in this
 
 "I'm angry," he said. "At Henry. At Voss. At my father. At myself." He looked at her as if her courage had gone straight into his blood. "Not at you. You demanded truth before a kiss, and you're delivering while I sit here hard and grateful and wrecked. Wanting you this much while you hand me a creditor's number isn't soft either. Both are true."
 
-He didn't reach for her. Truth before dawn had its price: no blankets, no sleep, only the booth and the number and his anger close enough to feel. But nobody would get to soften it before morning.
+Truth before dawn had its price. No sleep. No kiss. Only the booth, the number, his hand stopped on her thigh and his anger close enough to feel. But nobody would get to soften the truth before morning.
 
-Upstairs Clara turned in her sleep, headphones on, the papers safe from the drip.
+Rain ticked in the drip pan by the stairs.
 
 John rose, stiff with more than sitting, checked the latch, and came back to stand at the booth's edge. His gaze dropped to her mouth and lifted again.
 

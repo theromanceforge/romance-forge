@@ -34,7 +34,7 @@ Henry cleared his throat from the threshold. "There's a second notebook in the g
 
 "He's been walking through your shame without knowing the street names for fifteen years," [player_name] said.
 
-"I already called the diner from the kitchen," Clara said, reaching for her coat on the study hook. "I used the voice I used on the desk. He listens to that one."
+"I already called the diner from the kitchen," Clara said, reaching for her coat on the study peg. "I used the voice I used on the desk. He listens to that one."
 
 They stepped onto the porch together. Boxwood released its wet perfume. Charcoal marked both their hands now.
 
@@ -50,9 +50,9 @@ He looked up and saw them. The sketchbook under Clara's arm. The charcoal on [pl
 
 It wasn't only accusation. It was hurt. It was invitation.
 
-But he stopped at the gate and did not come up the path. "I'm not setting foot in his house tonight," he said. "Bring those pages down to the diner and I'll read every one of them with you, in my own light. Or take that key to the shed first and bring me the ledger after. Just know what each one costs. If you come with me now, he gets a night alone with that shed. If you go to the shed, he gets a night alone with these sketches, and I wait at the blue door not knowing what you found."
+He had stopped at the gate, though. He did not come up the path. "I'm not setting foot in his house tonight," he said. "Bring those pages down to the diner, and I'll read every one of them with you in my own light. Or take that key to the shed first and bring me the ledger after. Just know what each one costs." He looked past her at the dark house. "If you come with me now, he gets a night alone with that shed. If you go to the shed, he gets a night alone with these sketches. And I wait at the blue door not knowing what you found."
 
-The charcoal sat on [player_name]'s skin like a vow. John stood at the gate in the rain with his hand half-lifted toward the sketchbook, already turned half toward the hill. Behind her, in Henry's dark kitchen, the shed key hung on its hook by the back door.`,
+The charcoal sat on [player_name]'s skin like a vow. John stood at the gate in the rain with his hand half-lifted toward the sketchbook. He had already half turned toward Market Street. Behind her, in Henry's dark kitchen, the shed key hung on its hook by the back door.`,
   textHot: `Doubt was a clean tool, and [player_name] took it up without apology in Henry's front room. Her body still hummed with John's absence like a bruise she meant to press. Wood heat failed to soften what Henry had half-confessed. Lemon oil rose from the desk like a habit that had outlived mercy.
 
 "Show me," [player_name] told Clara.
@@ -65,7 +65,7 @@ Henry stood in the study doorway as they passed, smaller than his confession. "I
 
 The study was the throat of the house: one rain-streaked window, shelves of ledgers, a blotter stained with old ink. Sketches spilled across the desk from the false bottom. The station platform. A suitcase inked too dark. A younger John half-hidden behind a pillar, watching an ending he hadn't been told was an ending.
 
-[player_name] traced it with one finger and left a charcoal smudge on her own skin like a vow. Heat lived oddly under the graphite. Not Henry's. John's. The memory of his hands, the unfinished almost of every Market Street night. Looking at his drawn face made her press her thighs together even here.
+[player_name] traced it with one finger and left a charcoal smudge on her own skin like a vow. Heat lived oddly under the graphite. Not Henry's. John's. The memory of his hands, the unfinished almost of every Market Street night. Looking at his drawn face made her chest ache, even here.
 
 "He edited the night," Clara whispered. "These are what I rebuilt from the feeling before I found the desk. Your face. His. Uncle Henry standing between like a door that stuck on purpose."
 
@@ -73,19 +73,19 @@ Henry's shadow filled the doorway without entering. "The glove box is in the she
 
 [player_name] turned pages. A study of open hands dropping something too heavy. A margin note in Clara's restless script: ask her if the speech sounded like her mouth. Another: John's eyes when he thinks no one is looking. Still searching the station.
 
-Evidence wasn't supposed to be erotic. Evidence that named how John had wanted her for fifteen years was.
+Evidence wasn't supposed to be intimate. Evidence that named how John had wanted her for fifteen years was.
 
 Down on Market Street the diner would be closing. John would be flipping chairs, listening for a step that might be hers. She lifted her charcoal-smudged fingertip so Clara and Henry could both see it.
 
 "I need John here for the rest," she said. "Not as an audience. As the man these margins belong to. Before Henry can reclaim the story and call it mercy again."
 
-"I already called the diner from the kitchen," Clara said, reaching for her coat on the study hook. "I used the voice that means the quiet is lying. He listens to that one."
+"I already called the diner from the kitchen," Clara said, reaching for her coat on the study peg. "I used the voice that means the quiet is lying. He listens to that one."
 
 Henry stepped aside when they came back into the hall. "The shed key is on the hook by the back door. The second notebook is with the glove box. Clara's map is good. It isn't complete." He looked at the floor. "If you bring John, bring him ready. He won't hear this soft. He shouldn't have to."
 
 "I used to think I was inventing drama," Clara said, perched on the arm of a chair. "Then I found the ledger and realized the drama was the tidy version. The real story was messier."
 
-[player_name] thought of cities that rewarded leaving. Of practicing ambition until it became a life. Of touching herself in those cities with John's unfinished face behind her eyelids until that became the only honesty she had left.
+[player_name] thought of cities that rewarded leaving. Of practicing ambition until it became a life. Of lying awake in those cities with John's unfinished face behind her eyelids until that became the only honesty she had left.
 
 "He's been walking through your shame without knowing the street names for fifteen years," she told Henry without looking at him. "Mud is honest. So is wanting him while I hold your evidence. Don't tidy that either."
 
@@ -105,9 +105,9 @@ She stepped toward him and touched his jaw, and charcoal transferred from her fi
 
 "Proof first," Clara muttered. "Or proof in your hands. Just decide before Uncle invents a softer key."
 
-John stayed at the gate, rain running off his jacket. "I'm not setting foot in his house tonight," he said, low. "Bring the sketches down to the diner and I'll read every page with you in my own light. Or take that key to the shed first and bring me the ledger after. If you come with me, he gets a night alone with that shed. If you go to the shed, he gets a night alone with these sketches, and I wait at the blue door wanting you and not knowing what you found."
+John stayed at the gate, rain running off his jacket. "I'm not setting foot in his house tonight," he said, low. "Bring the sketches down to the diner, and I'll read every page with you in my own light. Or take that key to the shed first and bring me the ledger after." His jaw set. "If you come with me, he gets a night alone with that shed. If you go to the shed, he gets a night alone with these sketches, and I wait at the blue door wanting you and not knowing what you found."
 
-The charcoal sat on her skin like a vow. Behind them, the shed waited under oilcloth. Ahead of her, John had already turned half toward the hill.`,
+The charcoal sat on her skin like a vow. Behind them, the shed waited under oilcloth. Ahead of her, John had already half turned toward Market Street.`,
   choices: [
     { id: "scene5k", text: "Follow Clara's margins to the shed key and the missing ledger", textHot: "Follow Clara's margins to the shed key and the missing ledger — proof before passion" },
     { id: "scene5l", text: "Bring the sketches to John before Henry can reclaim them", textHot: "Bring the sketches to John before Henry can reclaim them — put charcoal in his hands" }

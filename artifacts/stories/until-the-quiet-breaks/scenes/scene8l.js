@@ -103,7 +103,7 @@ John locked the front door hard enough that the glass shivered. The CLOSED sign 
 
 "Forty-eight," he said, voice scraped raw. "Mae'll hold. After that the town eats everything."
 
-"Henry. Clara. Voss," [player_name] said. "All of it."
+"Henry. Voss. The winter," [player_name] said. "All of it."
 
 He came around the counter until the heat of him reached her. Coffee, night air, the clean sweat of a long shift. Close enough that her thighs brushed the laminate and his belt buckle touched her hip. "We don't waste this."
 
@@ -111,9 +111,9 @@ She climbed the stairs to the flat first. He followed with the key. When the ups
 
 "Say what we have," she told him.
 
-"Forty-eight hours before Mae's silence dies." He dragged a hand through his hair, then planted both palms on the table as if bracing. "Before Voss calls louder. Before Henry's name hits every porch. Before Clara hears strangers butcher her story."
+"Forty-eight hours before Mae's silence dies." He dragged a hand through his hair, then planted both palms on the table as if bracing. "Before Voss calls louder. Before Henry's name hits every porch. Before strangers butcher the family's story."
 
-Clara. John's sister. Henry's exile papers still sat unfinished in the office drawer downstairs, legal teeth to cut him out clean. Voss's numbers lived in the same folder. Debt and blood, always.
+Henry's exile papers still sat unfinished in the office drawer downstairs, legal teeth to cut him out clean. Voss's numbers lived in the same folder. Debt and blood, always.
 
 John crossed to her. This time he touched her, his hands framing her waist, his thumbs pressing into the soft give above her hipbones. "I keep thinking about marrying the stories. Yours. Mine. The diner. What Henry did. What we swallowed." His mouth was close enough that she felt the words. "If we stitch them together in private first, the town can't rip them apart so easily when the clock runs out."
 
@@ -155,7 +155,7 @@ He groaned against her, the vibration lighting every nerve, and sucked her clit 
 
 [player_name] hauled him up. He stripped off his shirt. She dragged his jeans open and pushed them down enough to free his cock, thick and hard, flushed, already leaking. She stroked him once, twice, her thumb smearing the bead at the tip, and his head dropped to her shoulder with a broken curse.
 
-"On the couch," you said. "Now."
+"On the couch," she said. "Now."
 
 He sat. She straddled him, her jeans still tangled at one ankle, and sank down onto him in one long, burning slide that punched the air from both of them. Full. Stretched. The kind of fuck that knew the names of her fears and went on anyway. John's hands locked on her ass, guiding her. She rose and dropped again, gripping him, the slap of skin and the wet drag filling the room.
 

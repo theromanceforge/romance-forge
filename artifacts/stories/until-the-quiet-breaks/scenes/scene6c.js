@@ -2,9 +2,9 @@ export default {
   id: "scene6c",
   layer: 6,
   title: "What He Wants Tonight",
-  text: `[player_name] broke the kiss first. She took Henry's letter from her coat and laid it open on the counter between the sugar jar and the register, his cramped hand facing up. John read the first line, I thought you should know, and set his palm flat beside the page without reading further. She crossed to the blue door and turned the lock.
+  text: `Clara was gone, out into the rain. The kiss was still on [player_name]'s mouth. Henry's letter lay open on the counter between the sugar jar and the cash register, his cramped hand facing up. John read the first line, I thought you should know, and set his palm flat beside the page without reading further. [player_name] crossed to the blue door and turned the lock.
 
-The blue door stuck, then sealed. Fryer oil ticked toward cold. Upstairs, above the diner, a flat waited with a bed that had practiced emptiness for fifteen years. But John didn't lead [player_name] there. He stood with his back to the pie case, grey eyes on her mouth, hands open at his sides like a man who had put down every tool except the question.
+The bolt held. Fryer oil ticked toward cold. Upstairs, above the diner, a flat waited with a bed that had practiced emptiness for fifteen years. But John didn't lead [player_name] there. He stood with his back to the pie case, grey eyes on her mouth, hands open at his sides like a man who had put down every tool except the question.
 
 "I asked what you wanted tonight," he said. "Now ask me. Properly. Not as a stall. As a woman who came back and locked the door."
 
@@ -20,7 +20,7 @@ Rain needled the awning. Her pulse hammered. She wanted his mouth. She wanted no
 
 "If we choose heat," she said, "we're not erasing the papers. We're postponing them until light. If we choose answers, I talk until my voice frays, and you don't get to kiss me quiet halfway through."
 
-"Correct." His gaze dropped to her throat, her hands, the place where her coat hung open, then came back. "Clara texted that Henry's still at Willow with the mantel clock. He'll keep. Voss will keep. What won't keep is me pretending I can stand here polite while you look like that and the CLOSED sign gives us permission we haven't earned."
+"Correct." His gaze dropped to her throat, her hands, the place where her coat hung open, then came back. "Clara texted that Henry's at Willow with the mantel clock. He'll keep. Voss will keep. What won't keep is me pretending I can stand here polite while you look like that and the CLOSED sign gives us permission we haven't earned."
 
 She walked to the cracked stool and sat with her boots hooked on the rung, because standing made her lean, and leaning turned negotiation into surrender. "Tell me what heat without answers looks like. Not poetry. Logistics. I've practiced brighter rooms. I need Somerton plain."
 
@@ -71,7 +71,7 @@ His pulse beat under her palm. Hers answered. On the counter somewhere, Henry's 
 "Decide before Henry invents dawn," John said, his voice wrecked with restraint. "Before I stop being able to tell preference from fear. Before I put my mouth on yours and accidentally choose for both of us."
 
 The kiss hung unfinished between them. The back stairs were ten steps away in the dark. The fluorescent lights hummed a hymn older than their fight, and [player_name] kept her hand on his heart while it decided for her which way she was leaning.`,
-  textHot: `She broke the kiss wet and shaking, pulled Henry's letter from her coat and laid it open on the counter, his cramped hand facing up. John read the first line, I thought you should know, and no further. She crossed the diner and turned the lock.
+  textHot: `The diner was empty except for the two of them. The kiss was still wet on [player_name]'s mouth, and she was shaking. Henry's letter lay open on the counter, his cramped hand facing up. John read the first line, I thought you should know, and no further. She crossed the diner and turned the lock.
 
 The lock on the blue door did nothing for the heat already pounding between [player_name]'s legs.
 
@@ -125,7 +125,7 @@ The faucet dripped in the dish pit. Her nipples ached against lace where he had 
 
 He stepped back half a pace, then closed it again, as if his body refused the gap. She watched him adjust himself through his jeans with a blunt honesty that made her mouth water. No elegant speeches. Just a man in a closed diner asking her to schedule truth against fucking like both were shifts on a ticket wheel.
 
-"If you need answers, I'll jerk off in the dish pit like a desperate man to survive your voice," he said. "If you need heat, you have to swear morning dissolves it into truth. Decide before Henry invents dawn. Before the phone buzzes again. Before I lose the difference and take you on this laminate while the CLOSED sign watches."
+"If you need answers, I'll jerk off in the dish pit like a desperate man to survive your voice," he said. "If you need heat, you have to swear morning dissolves it into truth. Decide before Henry invents dawn. Before I lose the difference and take you on this laminate while the CLOSED sign watches."
 
 She slid onto the stool, then off it again, the mats damp underfoot. She stepped back inside the cage of his arms and set both hands on his belt. Not opening it. Only owning the option.
 

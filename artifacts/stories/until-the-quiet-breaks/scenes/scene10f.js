@@ -89,7 +89,7 @@ He swallowed her cry with his mouth and worked her through it until her knees we
 
 Market Street at dusk. The blue door stuck, and John shouldered it. Coffee steam. The cracked stool leaning left. Mae asked after Henry. "He's at Willow learning the truth," John said evenly. "Eggs if you want eggs. The old fiction gets empty air."
 
-Mae sat. The town sipped the new quiet. [player_name] took the cracked stool. John's eyes cut to her from the grill, gold and proud. Near closing, Clara came by and taped a sketch of the open blue door above the coffee machine, then headed back to Willow with her sketchbook under her arm.
+Mae sat. The town sipped the new quiet. [player_name] took the cracked stool. John's eyes cut to her from the grill, gold and proud.
 
 When the last customer left, John locked the blue door from inside and rested his forehead on the wood for one breath. Then he turned and pulled [player_name] against it, his mouth open on hers.
 

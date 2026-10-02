@@ -39,7 +39,7 @@ Behind the counter, [player_name] felt the knowing like hands on her skin every 
 
 Heat punched through her mid-shift. She pressed her thighs together under her skirt and plated orders with hands that wanted his belt instead. "I'm staying," she said, and meant later as much as now.
 
-They endured Mae's too-bright questions, the careful-cruel neighbor, the stares that stuck harder than the blue door. John answered yes without decorating it. [player_name] served pie and kept her face still. Clara swung through in the afternoon, taped a sketch of the open blue door above the coffee machine, and went home to Willow.
+They endured Mae's too-bright questions, the careful-cruel neighbor, the stares that stuck harder than the blue door. John answered yes without decorating it. [player_name] served pie and kept her face still.
 
 Lockup came like a starting gun. John shoved the CLOSED sign into place, backed [player_name] against the blue door, and kissed her hard. Tongue, teeth, the grind of him against her belly through their clothes. "Open secret," he growled. "They know about Henry. That's ours. Say you want it."
 
