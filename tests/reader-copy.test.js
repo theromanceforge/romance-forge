@@ -95,3 +95,39 @@ describe('reader-facing copy has no internal planning language', () => {
     expect(panel.textContent).toMatch(/Contact us/);
   });
 });
+
+describe('ending-screen closing line', () => {
+  const QUIET = "The quiet isn't done with you.";
+  const NEUTRAL = 'Your story ends here — for now.';
+
+  function renderEnding(storyId) {
+    const story = mod.getStory(storyId);
+    const ending = Object.values(story.scenes).find((s) => s.layer === 10 && !(s.choices || []).length);
+    expect(ending, `${storyId} has an ending`).toBeTruthy();
+    mod.setState({ view: 'reader', storyId, sceneId: ending.id, playerName: 'Eleanor', spice: 'warm', path: [story.startSceneId, ending.id] });
+    const note = document.querySelector('[data-testid="ending-note"]');
+    expect(note, `${storyId} ending note`).toBeTruthy();
+    return note.textContent.trim();
+  }
+
+  it('Until the Quiet Breaks keeps its own line', () => {
+    expect(renderEnding('until-the-quiet-breaks')).toBe(QUIET);
+  });
+
+  it.each(['what-the-sister-kept', 'the-living-key', 'the-soft-alibi'])(
+    '%s shows the neutral line, never the Quiet Breaks line',
+    (id) => {
+      const text = renderEnding(id);
+      expect(text).toBe(NEUTRAL);
+      expect(document.getElementById('app').textContent).not.toContain(QUIET);
+    }
+  );
+
+  it('endingLine is optional per CATALOG entry with a neutral fallback', () => {
+    expect(mod.DEFAULT_ENDING_LINE).toBe(NEUTRAL);
+    expect(mod.endingLineFor('until-the-quiet-breaks')).toBe(QUIET);
+    expect(mod.endingLineFor('no-such-story')).toBe(NEUTRAL);
+    const withLine = mod.CATALOG.filter((c) => c.endingLine).map((c) => c.id);
+    expect(withLine).toEqual(['until-the-quiet-breaks']);
+  });
+});

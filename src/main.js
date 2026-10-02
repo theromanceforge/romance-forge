@@ -279,7 +279,10 @@ function handleGuestPageHide() {
   if (isGuest(state.auth)) maybeOfferSavePrompt('exit');
 }
 
-/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string }} */
+/** Closing line on the ending screen when a story has no `endingLine` of its own. */
+const DEFAULT_ENDING_LINE = 'Your story ends here — for now.';
+
+/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string }} */
 const CATALOG = [
   {
     id: 'until-the-quiet-breaks',
@@ -294,6 +297,7 @@ const CATALOG = [
     pull: 'The blue door still waits in the rain.',
     chips: ['Somerton rain', 'John Shaw', '10 endings'],
     badge: '10 endings · Warm & Hot',
+    endingLine: "The quiet isn't done with you.",
   },
   {
     id: 'what-the-sister-kept',
@@ -341,6 +345,12 @@ const CATALOG = [
 
 function catalogEntry(storyId) {
   return CATALOG.find((c) => c.id === storyId) || CATALOG.find((c) => c.available) || CATALOG[0];
+}
+
+/** Per-story ending-screen line (optional CATALOG `endingLine`), else the neutral default. */
+function endingLineFor(storyId) {
+  const line = CATALOG.find((c) => c.id === storyId)?.endingLine;
+  return typeof line === 'string' && line.trim() ? line.trim() : DEFAULT_ENDING_LINE;
 }
 
 function entryTitleFor(storyId) {
@@ -809,7 +819,7 @@ function renderReader() {
 
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
-         <p class="ending-note" data-testid="ending-note">The quiet isn't done with you.</p>
+         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
          ${reviewHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
            Restart
@@ -1646,6 +1656,8 @@ export {
   getStory,
   STORIES,
   CATALOG,
+  DEFAULT_ENDING_LINE,
+  endingLineFor,
   activeStory,
   localSaveStore,
   cloudSaveStore,
