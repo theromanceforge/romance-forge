@@ -2,7 +2,7 @@ export default {
   id: "scene10h",
   layer: 10,
   title: "Open Secret",
-  text: `Market Street knew by noon, and knowing had a sound. Chairs scraped a half-second slower. Mae's voice was too bright at the post office window. Rain needled the slate roofs while every porch practiced the Shaw story with the names finally attached. [player_name] stood behind the diner counter. John Shaw's shoulder brushed hers each time he passed. She felt the town's new noise press its face to the glass and did not let herself flinch.
+  text: `Market Street knew by noon, and knowing had a sound. Chairs scraped a half-second slower. Mae's voice was too bright at the counter, on her lunch break from the post office. Rain needled the slate roofs while every porch practiced the Shaw story with the names finally attached. [player_name] stood behind the diner counter. John Shaw's shoulder brushed hers each time he passed. She felt the town's new noise press its face to the glass and did not let herself flinch.
 
 The blue door stuck. John shouldered it open for the lunch rush anyway. Coffee steam rose in honest coils. The cracked stool leaned its half-degree left under a regular who suddenly found his eggs fascinating.
 

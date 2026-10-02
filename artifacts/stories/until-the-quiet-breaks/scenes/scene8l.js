@@ -20,7 +20,7 @@ The kitchen light was soft. A single lamp burned in the living room. John set hi
 
 "Forty-eight hours before Mae's silence runs out." He scrubbed a hand through his hair. "Before Voss starts calling in favors louder than he already has. Before Henry's name hits every porch from here to the river." He looked at her then, properly. "Before Clara has to hear strangers tell her story wrong."
 
-[player_name]'s chest tightened. Clara. John's sister, the girl whose quiet had been bought and sold in pieces by men who thought paper mattered more than people. Henry's exile papers still sat unfinished downstairs in the office drawer. The legal spine of cutting him out, of making his absence permanent and clean. Voss's numbers lived in the same folder. Debt and blood. Always debt and blood.
+[player_name]'s chest tightened. Clara. John's sister, the one whose quiet had been bought and sold in pieces by men who thought paper mattered more than people. Henry's exile papers still sat unfinished downstairs in the office drawer. The legal spine of cutting him out, of making his absence permanent and clean. Voss's numbers lived in the same folder. Debt and blood. Always debt and blood.
 
 John sat beside her. Not touching yet. Close enough that their knees nearly brushed.
 
@@ -145,7 +145,7 @@ He laughed once, rough, and kissed her like he was starving. Mouth open. Tongue 
 
 Her throat burned. Her hips rolled onto his hand. "And the papers?"
 
-"Morning, if we marry the stories tonight. Or they take the night if redemption means finishing the cut first." His free hand gripped your jaw, gentle and filthy at once. "Either way I don't leave this flat without fucking you through the choice—and knowing you're still in the story when Mae's hours are gone."
+"Morning, if we marry the stories tonight. Or they take the night if redemption means finishing the cut first." His free hand gripped her jaw, gentle and filthy at once. "Either way I don't leave this flat without fucking you through the choice—and knowing you're still in the story when Mae's hours are gone."
 
 She kissed him hard, teeth and tongue, while he worked her open on his fingers. When she broke for air, he walked her backward to the couch, pulled her jeans and underwear down her thighs, and dropped to his knees as if worship and hunger were the same religion. His mouth found her without preamble. Tongue flat, then pointed, licking into her while his hands held her hips still. She tangled her fingers in his hair and rode his face. The wet sounds were filthy in the quiet flat. Market Street was a distant heartbeat under the pleasure.
 
@@ -173,7 +173,7 @@ She came first, sharp and shaking, crying out into his mouth as she clenched and
 
 He came with a groan that sounded like a prayer and a curse together, spilling deep, his hips stuttering, her name in his mouth. She held him while he pulsed inside her. The lamp hummed. Market Street kept its indifferent watch below.
 
-After, still joined, sweat cooling, he stroked your hair back from your face. "Mae held the gossip for us. We don't repay that by being cowards with each other."
+After, still joined, sweat cooling, he stroked her hair back from her face. "Mae held the gossip for us. We don't repay that by being cowards with each other."
 
 "I'm not going to be a coward." Her voice was wrecked. "Even if my legs don't work yet."
 

@@ -2,11 +2,11 @@ export default {
   id: "scene6c",
   layer: 6,
   title: "What He Wants Tonight",
-  text: `Clara's coat vanished into the Market Street rain with a last look that said she knew exactly what she was leaving behind.
+  text: `[player_name] broke the kiss first. She took Henry's letter from her coat and laid it open on the counter between the sugar jar and the register, his cramped hand facing up. John read the first line, I thought you should know, and set his palm flat beside the page without reading further. She crossed to the blue door and turned the lock.
 
 The blue door stuck, then sealed. Fryer oil ticked toward cold. Upstairs, above the diner, a flat waited with a bed that had practiced emptiness for fifteen years. But John didn't lead [player_name] there. He stood with his back to the pie case, grey eyes on her mouth, hands open at his sides like a man who had put down every tool except the question.
 
-"You asked what I want tonight," he said. "Ask me again. Properly. Not as a stall. As a woman who came back and locked the door."
+"I asked what you wanted tonight," he said. "Now ask me. Properly. Not as a stall. As a woman who came back and locked the door."
 
 [player_name] tasted rain on her lip and the ghost of an unfinished kiss. The cracked stool leaned its half-degree between them like a referee. She stepped closer until the air went thin.
 
@@ -26,7 +26,7 @@ She walked to the cracked stool and sat with her boots hooked on the rung, becau
 
 John came to stand between her knees without touching, close enough that coffee and rain lived in her breath.
 
-"It looks like I carry you up the back stairs," he said. "It looks like I take my time undressing the years and not the secret. It looks like morning on the sheets with the letter still unread on the counter downstairs, because we chose each other as a temporary country. It looks like me waking you with coffee and the demand that the country dissolve at first light."
+"It looks like I carry you up the back stairs," he said. "It looks like I take my time undressing the years and not the secret. It looks like morning on the sheets with the letter still half-read on the counter downstairs, because we chose each other as a temporary country. It looks like me waking you with coffee and the demand that the country dissolve at first light."
 
 He paused. "It also looks like risk. Touch can invent forgiveness we haven't negotiated. I'm naming that, so you can't say I tricked you with my hands."
 
@@ -71,15 +71,15 @@ His pulse beat under her palm. Hers answered. On the counter somewhere, Henry's 
 "Decide before Henry invents dawn," John said, his voice wrecked with restraint. "Before I stop being able to tell preference from fear. Before I put my mouth on yours and accidentally choose for both of us."
 
 The kiss hung unfinished between them. The back stairs were ten steps away in the dark. The fluorescent lights hummed a hymn older than their fight, and [player_name] kept her hand on his heart while it decided for her which way she was leaning.`,
-  textHot: `Clara's coat vanished into the rain.
+  textHot: `She broke the kiss wet and shaking, pulled Henry's letter from her coat and laid it open on the counter, his cramped hand facing up. John read the first line, I thought you should know, and no further. She crossed the diner and turned the lock.
 
 The lock on the blue door did nothing for the heat already pounding between [player_name]'s legs.
 
 John didn't take her upstairs yet. He stood her against the pie case glass, cold through her shirt, and braced his hands beside her hips. His thighs bracketed hers. His cock was already a thick, blunt line against her stomach through his jeans. Coffee on his breath. Clean sweat. Grey eyes blown dark.
 
-"You asked what I want tonight," he said. "Ask again. Properly. While you can feel what the asking does to me."
+"I asked what you wanted tonight," he said. "Now ask me. Properly. While you can feel what the asking does to me."
 
-She swallowed and rolled her hips once, on purpose, so the friction made him hiss. "What do you want from me tonight, John? Not Henry. Not Clara. You."
+She swallowed and rolled her hips once, on purpose, so the friction made him hiss. "What do you want from me tonight, John? Not Henry. Not the papers. You."
 
 "Two impossible things."
 

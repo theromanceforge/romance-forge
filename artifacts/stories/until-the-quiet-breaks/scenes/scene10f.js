@@ -32,7 +32,7 @@ She nodded. Her throat burned. Coming home had never been the same as finishing 
 
 They spent the afternoon making the grace concrete. John wrote the chore list on the back of an old diner order pad. Dishes, trash, no storytelling to customers without Clara's nod. Henry signed it with a hand that shook. Clara photographed the signed page for a family archive that would no longer be sealed insurance, but a living record. [player_name] walked the wet boxwood path to the gate and back, rain in her hair, testing whether her body believed the ending. It did. The belief ached.
 
-At dusk they drove to Market Street. The blue door stuck, and John shouldered it with the ease of a man who had rebuilt a business while raising a sister. Inside, coffee steam rose. Mae was already at the window, eyes bright with unfinished gossip. John flipped the sign to OPEN without flinching.
+At dusk they drove to Market Street. The blue door stuck, and John shouldered it with the ease of a man who had rebuilt a business while raising a sister. Inside, coffee steam rose. Mae was already in the window booth, off shift from the post office, eyes bright with unfinished gossip. John flipped the sign to OPEN without flinching.
 
 "Henry's not behind the counter," he told Mae when she asked, his voice even. "He's at Willow learning how to tell the truth. You want eggs, you get eggs. You want the old fiction, you get empty air."
 

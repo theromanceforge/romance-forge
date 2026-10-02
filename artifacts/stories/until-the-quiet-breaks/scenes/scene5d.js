@@ -36,6 +36,8 @@ He rose once to check the back bolt and pour water that tasted faintly of pipes 
 
 They dozed and woke and traded more fragments. The first special he burned after the funeral. The first apartment she painted a color Somerton didn't own. Clara's charcoal phase that turned every margin into an interrogation. Desire ran under the talk like a low current, in their synced breathing and in the almost-kiss that hovered whenever she shifted and his mouth was suddenly close. It didn't feel like denial. It felt like two adults shaping a night that could bear morning's weight.
 
+At six the landline rang. John let it ring out. Henry, almost certainly, calling to ask whether anyone had said anything yet, already drafting the softer version for morning. The night in each other's arms had bought them sleep, and bought him a head start.
+
 First light came the way Somerton mornings always had: reluctant, wet, honest. The rain thinned to fine silver. Bruised blue became pearl. The radio clicked the ridge warning down to an advisory. Roads might remember how to be roads. Henry would be reachable. The cover story no longer had the night as an excuse.
 
 John's arms tightened once as she stirred. He didn't kiss her. He had saved that for daylight honesty, or for her to spend.
@@ -86,6 +88,8 @@ Afterward he cleaned her with a kitchen towel warmed under the tap, so careful i
 [player_name] laughed into his throat. "Describe enough. I spent years pretending ambition was the only heat I owned. Henry's letter cracked the quiet. Your mouth finished the job." She bit lightly at his jaw. "At first light I'll still be the woman who demanded truth. I'll also be the woman who took you inside her while the storm trapped us, and called it survival. Both stand."
 
 "Both stand," John agreed. His fingers traced idle patterns on her skin, stirring sparks without asking for a third round. Yet. "We tear the tape at dawn. If it hurts, we hurt in the same room. Preferably after coffee. Preferably still smelling like each other, so Henry understands the quiet didn't break politely."
+
+At six the landline rang. John let it ring out. Henry, almost certainly, calling to ask whether anyone had said anything yet, already drafting the softer version for morning. The night in each other's arms had bought them sleep, and bought him a head start.
 
 First light arrived reluctant and wet. The rain thinned to silver. Pearl replaced bruise. John kissed her once, slow and daylight-soft, then met her eyes.
 

@@ -34,6 +34,8 @@ John exhaled as if he had been underwater with her since the letter first reache
 
 He looked at her as if the confession had changed the light on her face and he meant to learn the new shape of it. "Not at you. You demanded truth before closeness, and you delivered it before dawn. I'd rather hear this from you in a locked booth than find it in Henry's desk after another fifteen years."
 
+He didn't reach for her. Truth before dawn had its price: no blankets, no sleep, no arms, only the booth and the number and his anger close enough to feel. But nobody would get to soften it before morning.
+
 Upstairs a floorboard creaked. Clara turning in her sleep, or listening despite her headphones. Up on Willow, woodsmoke would already be rising from Henry's chimney, a man who couldn't sleep while the quiet broke elsewhere.
 
 John rose, stiff from the long sit, and checked the front latch. He came back and stood at the booth's edge instead of sitting, as if standing made the next step clearer.
@@ -70,6 +72,8 @@ John made a sound, half groan, half prayer. "Say the number. Let it live in this
 [player_name] recited the digits, old as a bruise. Saying them felt like opening a stuck door while his hand burned on hers. John closed his eyes. When he opened them, calm had settled over the hunger without erasing it. If anything, it made the hunger more precise. His hand slid an inch higher on her thigh, still over denim, his thumb pressing a promise into the muscle.
 
 "I'm angry," he said. "At Henry. At Voss. At my father. At myself." He looked at her as if her courage had gone straight into his blood. "Not at you. You demanded truth before a kiss, and you're delivering while I sit here hard and grateful and wrecked. Wanting you this much while you hand me a creditor's number isn't soft either. Both are true."
+
+He didn't reach for her. Truth before dawn had its price: no blankets, no sleep, only the booth and the number and his anger close enough to feel. But nobody would get to soften it before morning.
 
 Upstairs Clara turned in her sleep, headphones on, the papers safe from the drip.
 

@@ -8,21 +8,21 @@ She woke in John's narrow bed with grey light through the curtain and his arm he
 
 On Willow Lane, Henry's mantel clock ticked over papers under glass. Here, above the cold fryer and the stuck blue door, [player_name] tasted copper and sleep. The night had claimed them both without finishing the confession.
 
-John's eyes opened before his mouth did. His scarred thumb stroked her ribs. "You're awake like someone who brought a decision to bed," he said, his voice rough. "Say it before the secret, if that's what this morning is. Or put the papers between us, if that's the other hunger. I rebuilt this place around a wound. I can hold either. I won't love you less for the order."
+John's eyes opened before his mouth did. His scarred thumb stroked her ribs. "You're awake like someone who brought a decision to bed," he said, his voice rough. "Say it before the rest of the secret, if that's what this morning is. Or put the papers between us, if that's the other hunger. I rebuilt this place around a wound. I can hold either. I won't love you less for the order."
 
 [player_name] watched the freckle at the corner of his mouth, the one she had known at twenty. Cotton sheets. Rain-damp air through the cracked window. Tenderness and terror braided together, and the fear of naming love while Voss's shadow and Henry's whiskey still lived unspoken between their bodies.
 
-"I love you," [player_name] said. Not softly. The words landed in the grey like freight finding rails. "I loved you when I left. I loved you in brighter rooms that never smelled like this diner. I love you now, with the secret still in my throat and Henry's letter cracked open in my coat downstairs."
+"I love you," [player_name] said. Not softly. The words landed in the grey like freight finding rails. "I loved you when I left. I loved you in brighter rooms that never smelled like this diner. I love you now, with the rest of the secret still in my throat and Henry's letter cracked open in my coat downstairs."
 
-"I'm saying it before the ice and the creditor and the yes I gave at twenty. Because if I say the secret first, I might never get to the love without it sounding like an apology."
+"I'm saying it before the rest of the ice and the creditor and the yes I gave at twenty, all of it, in my own words. Because if I say the rest first, I might never get to the love without it sounding like an apology."
 
 John went still, like a man who had listened for a train for fifteen years and finally heard brakes. His hand flattened on her sternum, her pulse under his palm. "Say it again," he murmured. "Not because I doubt it. Because the town practiced a cleaner grief than the one we earned, and I need your mouth to outrank the practice."
 
-"I love you," she repeated. Outside, the rain on the slate answered. "John Shaw. The diner. The blue door that sticks. The boy who stayed. The man who raised Clara beside those lights. I'm not leaving this time behind a cover. I'm here with a vow that still has a secret attached, and I need you to hear the vow first, so the secret doesn't get to say what we are."
+"I love you," she repeated. Outside, the rain on the slate answered. "John Shaw. The diner. The blue door that sticks. The boy who stayed. The man who raised Clara beside those lights. I'm not leaving this time behind a cover. I'm here with a vow that still has the last of a secret attached, and I need you to hear the vow first, so the secret doesn't get to say what we are."
 
 He kissed her. Slow, coffee-bitter, unfinished. Then he rested his forehead against hers. Woodsmoke clung to their coats on the chair. Voss's name sat under [player_name]'s tongue like a coin she had not yet spent in this bed.
 
-"Then the morning splits," John said. "Tell me the secret this morning. Ice, whiskey, Voss, Henry's ask, your yes, ambition as the cover. While the vow is still warm on both our mouths. Or keep it one more day. Give us twenty-four hours of loving without the ledger between us. And accept that the pause has edges. Clara's clock and Mae's trays won't wait forever. Both are loyalty. Both hurt."
+"Then the morning splits," John said. "Tell me the rest this morning, in your own words. Ice, whiskey, Voss, Henry's ask, your yes, ambition as the cover. Not the outline. The room. While the vow is still warm on both our mouths. Or keep it one more day. Give us twenty-four hours of loving without the ledger between us. And accept that the pause has edges. Clara's clock and Mae's trays won't wait forever. Both are loyalty. Both hurt."
 
 [player_name] thought of fifteen years of practiced belief in the girl who wanted more. Love spoken aloud could become another quiet cover if the secret stayed buried under tenderness. She thought of John under diner lights, rebuilding a life around a wound Henry had arranged into weather.
 
@@ -51,19 +51,19 @@ John's heart beat under her palm. Not Henry's mantel clock. Kinder, and sharper 
 
 She surfaced between sleep and wanting with John already hard against her hip. Grey light came through the curtain. His hand rested, possessive, under the sheet at the small of her back. Market Street hissed. Below them, the cracked stool leaned. She ached from the unfinished night, claimed and not finished, and her mouth tasted of copper and sleep and a vow that still had Voss attached.
 
-John's eyes opened. His scarred thumb stroked the underside of her breast through the thin shirt she had stolen from his chair. "You're awake like someone who brought a decision to bed," he rasped. "Say you love me before the secret, if that's the hunger. Or put the papers between us after. I can fuck you through either order. I won't love you less for the timing."
+John's eyes opened. His scarred thumb stroked the underside of her breast through the thin shirt she had stolen from his chair. "You're awake like someone who brought a decision to bed," he rasped. "Say you love me before the rest of the secret, if that's the hunger. Or put the papers between us after. I can fuck you through either order. I won't love you less for the timing."
 
-"I love you," [player_name] said, and rolled her hips once against the thick line of his cock. "I loved you when I left. I loved you in brighter rooms. I love you now, with the secret in my throat and you hard against me. I'm saying it before the ledger so the ice can't tell us what we are."
+"I love you," [player_name] said, and rolled her hips once against the thick line of his cock. "I loved you when I left. I loved you in brighter rooms. I love you now, with the rest of the secret in my throat and you hard against me. I'm saying it before the ledger so the ice can't tell us what we are."
 
 John groaned into her neck, an open, wet kiss that would leave a mark, and pushed the shirt up until both palms spanned her ribs. "Say it again while I'm hard for you," he demanded. "Not because I doubt it. The town turned my grief into weather. Your mouth gets to outrank that."
 
 "I love you, John Shaw," she repeated. Her voice went rough as his thumb found her nipple and pinched once, deliberately. "The diner. The blue door. The man who stayed. I'm not leaving behind a cover. I need you to hear the vow first. So when I tell you about the ice and the whiskey and Voss and Henry's ask and my yes at twenty, you hear it from a woman who already claimed you. Not an apology dressed as desire."
 
-He kissed her hard, tongue and teeth and coffee-bitter, and pressed his cock against her through cotton until she gasped. "Then the morning splits," he said against her mouth. "Tell me the secret this morning. Pour the ledger into this bed while the vow is still wet on your tongue. Or keep it one more day. Twenty-four hours of fucking and coffee and Market Street light without the pages between us. And accept that the pause has edges. The family's clock won't wait forever."
+He kissed her hard, tongue and teeth and coffee-bitter, and pressed his cock against her through cotton until she gasped. "Then the morning splits," he said against her mouth. "Tell me the rest this morning. Pour the ledger into this bed while the vow is still wet on your tongue. Or keep it one more day. Twenty-four hours of fucking and coffee and Market Street light without the pages between us. And accept that the pause has edges. The family's clock won't wait forever."
 
 Her nipples ached. The cotton between her legs was soaked. She gripped his shoulder. "If I tell you this morning," she breathed, "you don't soften. You stay angry and hard and mine while the vow survives the ledger. If I keep one more day, you don't waste it on Henry's tea. You fuck me through the daylight without turning tenderness into another cover."
 
-John slid his hand past her waistband and found her soaked. Two fingers slid through her folds and pressed her clit once, not to finish her yet. "Choose," he whispered. "Tell me about the ice and Voss this morning with my fingers in you and the vow still shaking your mouth. Or keep the secret one more day, and I'll still bury myself in you now. Delaying the ledger doesn't delay what your body already decided about coming home."
+John slid his hand past her waistband and found her soaked. Two fingers slid through her folds and pressed her clit once, not to finish her yet. "Choose," he whispered. "Tell me about the ice and Voss this morning with my fingers in you and the vow still shaking your mouth. Or keep the rest one more day, and I'll still bury myself in you now. Delaying the ledger doesn't delay what your body already decided about coming home."
 
 Freight hissed toward the yard. [player_name] rocked against his fingers, because the vow deserved a body. Then she made herself go still, because the choice deserved a clear head.
 
