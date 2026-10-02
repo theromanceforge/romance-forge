@@ -1955,6 +1955,20 @@ body {
   flex-wrap: wrap;
 }
 
+/* Reader: in normal flow after the choices — never floats over prose/choices. */
+.save-prompt.save-prompt--inline {
+  position: static;
+  z-index: auto;
+  max-width: none;
+  margin: 1.25rem 0 0;
+  padding: 0.7rem 0.85rem;
+  box-shadow: none;
+  gap: 0.5rem 0.85rem;
+}
+.save-prompt--inline p {
+  font-size: 0.9rem;
+}
+
 /* —— Phase 3 between-scene ads interstitial —— */
 .rf-ads-interstitial {
   position: fixed;

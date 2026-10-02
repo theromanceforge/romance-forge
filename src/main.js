@@ -768,8 +768,9 @@ function renderReader() {
   const ending = isEnding(scene);
   if (ending) maybeHydrateCloudReview(state.storyId || defaultStory.id);
   const choices = ending ? [] : getChoices(scene);
+  // Reader: inline card after the choices (in flow) so it never covers prose or choices.
   const savePromptHtml = state.savePromptVisible
-    ? `<aside class="save-prompt" data-testid="save-prompt" role="status">
+    ? `<aside class="save-prompt save-prompt--inline" data-testid="save-prompt" role="status">
          <p>Save your place — guest progress stays on this browser.</p>
          <div class="save-prompt-actions">
            <button type="button" class="btn secondary" data-action="open-auth-save" data-testid="save-across-devices">
