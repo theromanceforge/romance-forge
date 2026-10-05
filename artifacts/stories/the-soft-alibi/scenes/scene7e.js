@@ -22,7 +22,7 @@ Pell cleared his throat from the bank. Brooks did not look at him.
 
 [player_name] thought of the sealed V envelope. Of Delivered in Pell's margin. Of Halden Row and the Zurich wire on Vivienne's authorization through Pell's login. Of hotel holds Nolan signed himself. Of Fourteen Calloway Mews and the support-housing euphemism beside it. Of a small bag she still had not named, perfume capped on the way out, a black car idle too long. Greer Meridian's gospel — the silence is the deliverable — tasted like metal under lobby air.
 
-"You can keep Crownspire the only name," Brooks went on, almost kind. "Refuse the wider map. Stay soft inside this glass and swear carefully. Or you name the old absence method under my ultimatum — the purchased-gone rhyme in his drawer — and watch the holding burn while I decide whether that buys you mercy."
+"You can keep Crownspire the only name," Brooks went on, almost kind. "Refuse the wider map. Stay soft inside this glass and swear carefully. Or you name the old absence method under my ultimatum — the purchased-gone rhyme in his drawer. Watch the holding burn while I decide whether that buys you mercy."
 
 Neither option settled whether Vivienne left, got paid, died, or was staging. Both spent [player_name] into sharper paper.
 
@@ -58,7 +58,7 @@ The revolving door spilled another stranger into marble hush. Brooks did not loo
 
 [player_name] tasted metal and want and law. Soft stood under fluorescents with both doors open and neither kind.
 
-She pictured Nolan hearing this later — cufflink still, scar pale — and hated that even now her body leaned toward the elevator as if twelve floors could rewrite an ultimatum. Soft wanted him. Soft also wanted not to become the name Rasmussen practiced in the mirror.
+She pictured Nolan hearing this later — cufflink still, scar pale. She hated that even now her body leaned toward the elevator as if twelve floors could rewrite an ultimatum. Soft wanted him. Soft also wanted not to become the name Rasmussen practiced in the mirror.
 
 Brooks waited. Pell waited. Rhea's key flashed once more. [player_name] had not spoken the direction yet. The lobby held its breath with her.
 
@@ -79,7 +79,7 @@ Lobby fluorescents. Rain still on Brooks's coat. Nolan twelve floors up where [p
 
 "I do not need one," Brooks said.
 
-Pell watched from the elevator bank. Rhea's brass key flashed. [player_name] thought of the small bag, perfume capped mid-exit, Calloway's support-housing paper, silence as deliverable, the sealed V — all while her cunt ached around unfinished consequence and Nolan's absence.
+Pell watched from the elevator bank. Rhea's brass key flashed. [player_name] thought of the small bag, perfume capped mid-exit, Calloway's support-housing paper, silence as deliverable, the sealed V. All while her cunt ached around unfinished consequence and Nolan's absence.
 
 "Keep Crownspire only," Brooks said, eyes sharp. "Refuse the wider map. Or name the old absence method under this ultimatum and let the holding burn. Soft testimony still tastes like his mouth either way. I can see that on you."
 

@@ -2,15 +2,15 @@ export default {
   id: "scene7j",
   layer: 7,
   title: "Pell's Listening Wire",
-  text: `[player_name] walked into Marcus Pell's office with Brooks's gray recorder taped soft against her ribs, one-party consent turned into jewelry she could feel every time she inhaled.
+  text: `[player_name] walked into Marcus Pell's office with Brooks's gray recorder taped soft against her ribs. One-party consent turned into jewelry she could feel every time she inhaled.
 
-Nolan Greer sat elsewhere under inquiry shadow, which made the wire feel brave and lonely at once, as if soft had left her body in two buildings.
+Nolan Greer sat elsewhere under inquiry shadow, which made the wire feel brave and lonely at once. As if soft had left her body in two buildings.
 
 Pell set his penthouse key beside the blotter as if metal could witness, then smiled the way men smiled when silence was inventory.
 
 "Traveling," Pell said, polishing the word until it reflected nothing, about sixty and fixer-calm, eyes landing on her hands before her face.
 
-"Soft cooperation still serves everyone if you remember which doors stay closed," he added, and [player_name] heard doors as east rooms and freight bays and sealed envelopes.
+"Soft cooperation still serves everyone if you remember which doors stay closed," he added. [player_name] heard doors as east rooms and freight bays and sealed envelopes.
 
 She sat wired in neighbor manners while Detective Imani Brooks waited somewhere for playback that could read as gold or obstruction depending on the minute.
 
@@ -18,13 +18,13 @@ Rhea's ash had pointed toward fixer mouths; soft alibi had become wire; Friday s
 
 Pell spoke of planes and absences that rhymed with silent-partner paper without settling Vivienne, weekly to monthly to gone nesting inside every polite sentence.
 
-Halden Row nested under Greer Meridian; Zurich had moved on Vivienne's authorization through his login the same week as the first white row; hotel holds carried Nolan's signature.
+Halden Row nested under Greer Meridian. Zurich had moved on Vivienne's authorization through his login the same week as the first white row. Hotel holds carried Nolan's signature.
 
-Badge GM-0417 had opened the freight door at eleven fifty-eight; Delivered still sat in a margin; Greer Meridian still taught that the silence is the deliverable.
+Badge GM-0417 had opened the freight door at eleven fifty-eight. Delivered still sat in a margin. Greer Meridian still taught that the silence is the deliverable.
 
-Fourteen Calloway Mews waited inland with support-housing language; the sealed V stayed closed upstairs; a small bag and perfume capped mid-exit still lived in [player_name]'s withheld hour.
+Fourteen Calloway Mews waited inland with support-housing language. The sealed V stayed closed upstairs. A small bag and perfume capped mid-exit still lived in [player_name]'s withheld hour.
 
-Soft kept her face still while the recorder kissed her ribs and her body ached stupidly for Nolan's mouth in another room, want interrupting courage like bad timing.
+Soft kept her face still while the recorder kissed her ribs. Her body ached stupidly for Nolan's mouth in another room, want interrupting courage like bad timing.
 
 Pell offered water; soft declined; Pell smiled like NDAs; soft smiled like pliability and hated how well she could still perform it.
 
@@ -40,7 +40,7 @@ Carry night-truth to Nolan after the wire hour meant bringing the gap into his b
 
 Soft unfinished between exposure and later confession, pulse loud under tape, Friday leaning on the calendar, fate still contested four ways.
 
-Pell turned a page of travel language; soft did not flinch; the box hummed against her heart like a second want she refused to name aloud.
+Pell turned a page of travel language. Soft did not flinch. The box hummed against her heart like a second want she refused to name aloud.
 
 She thought of step nine, ash R, board letterhead naming her as line item, and Nolan's cufflink tick, and still she sat.
 
@@ -62,15 +62,15 @@ The hour stretched. Soft did not break it. Soft only lived inside it with tape o
 
 When Pell finally looked at the door as if expecting Nolan, soft almost laughed; instead she kept soft, kept wired, kept unfinished.
 
-Soft asked one careful question about hangar nine and received traveling back like a closed lid, polished and useless except as proof that lids were the point.
+Soft asked one careful question about hangar nine and received traveling back like a closed lid. Polished and useless except as proof that lids were the point.
 
-Pell checked his watch without hiding it; soft checked her pulse without moving her hand to her throat, where the recorder would feel like a tell.
+Pell checked his watch without hiding it. Soft checked her pulse without moving her hand to her throat, where the recorder would feel like a tell.
 
-Somewhere Nolan was refusing a warrant walk of an east room or signing nothing or pacing twelve steps; soft carried that image under tape like contraband heat.
+Somewhere Nolan was refusing a warrant walk of an east room, or signing nothing, or pacing twelve steps. Soft carried that image under tape like contraband heat.
 
 Being made would turn soft listening into soft exhibit before Brooks's eyes; night-truth after would turn soft listening into a private storm in Nolan's bed.
 
-Neither option was gentle; both spent her. Soft sat in the spend and still had not stood up into either future.
+Neither option was gentle; both cost her. Soft sat in that cost and still had not stood up into either future.
 
 Pell offered a mint. Soft took it to give her mouth something innocent to do while her body stayed guilty for wanting.
 
@@ -78,7 +78,7 @@ The mint cracked. Soft flinched at the sound more than at his questions. Soft re
 
 Lamp hum. Key moon on blotter. Wire kiss. Soft unfinished, Friday outside, Vivienne still four open doors, choice still locked behind teeth.
 
-Soft stood when the hour thinned, recorder still warm, and left Pell with traveling unbroken while her own choice walked out beside her like a second shadow.`,
+Soft stood when the hour thinned, recorder still warm. She left Pell with traveling unbroken while her own choice walked out beside her like a second shadow.`,
   textHot: `Brooks's gray recorder kissed [player_name]'s ribs and peaked her nipples before Pell finished polishing the word traveling into empty mirror.
 
 One-party plastic against soft skin; Nolan elsewhere under inquiry; brave and lonely and wet because absence had always been part of their heat.
@@ -137,9 +137,9 @@ Silence as deliverable might be hearing itself recorded; soft wondered if silenc
 
 The hour stretched like silk between danger and confession; soft lived inside it unfinished, aching, wired, still not naming which danger got her next breath.
 
-When Pell glanced at the door as if expecting Nolan, soft's cunt answered before her face did; she kept soft, kept wired, kept the almost from becoming a sound.
+When Pell glanced at the door as if expecting Nolan, soft's cunt answered before her face did. She kept soft, kept wired, kept the almost from becoming a sound.
 
-Soft asked about hangar nine and got traveling back like a lid closed on her clit, useless and exacting, proof that lids were the whole religion.
+Soft asked about hangar nine and got traveling back like a lid closed on her clit. Useless and exacting. Proof that lids were the whole religion.
 
 Pell checked his watch; soft's pulse slammed against the recorder until she was sure he could see the plastic jump under silk.
 
@@ -153,15 +153,15 @@ Mint cracked like a small bone; soft flinched hotter than afraid; soft recovered
 
 Lamp hum. Key moon. Wire kiss. Soft unfinished, Friday leaning, Vivienne unboxed, decision locked, body campaigning for Nolan loud enough to shame the mic.
 
-She almost said his name into the recorder on purpose as sabotage and love; instead soft breathed, smiled, ached, and kept the hour from breaking open yet.
+She almost said his name into the recorder on purpose as sabotage and love. Instead soft breathed, smiled, ached, and kept the hour from breaking open yet.
 
-Soft stood on unsteady legs, recorder warm as a mouth, and walked out carrying exposure and later confession in the same soaked stride while Pell's traveling stayed polished behind her.
+Soft stood on unsteady legs, recorder warm as a mouth. She walked out carrying exposure and later confession in the same soaked stride while Pell's traveling stayed polished behind her.
 
-In the elevator alone she pressed her palm over the wire and almost came from pressure and fear braided; soft laughed once, silent, unfinished, and still had not named which danger she would feed.
+In the elevator alone she pressed her palm over the wire and almost came from pressure and fear braided. Soft laughed once, silent, unfinished, and still had not named which danger she would feed.
 
 Hall carpet. Lobby glass. Soft between being made and night-truth, aching for Nolan, mic still kissing ribs like a secret spouse.
 
-In the elevator alone she pressed her palm over the wire and almost came from pressure and fear braided; soft laughed once without sound and still had not named which danger she would feed when the doors opened on lobby light.
+In the elevator alone she pressed her palm over the wire and almost came from pressure and fear braided. Soft laughed once without sound and still had not named which danger she would feed when the doors opened on lobby light.
 
 Hall carpet. Soft between being made and night-truth. Mic still kissing ribs like a secret spouse. Nolan somewhere above or across. Soft unfinished and walking.`,
   choices: [

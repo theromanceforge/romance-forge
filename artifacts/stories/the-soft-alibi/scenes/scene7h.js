@@ -30,7 +30,7 @@ City light climbed the wine rings. [player_name] looked at his mouth, at the zip
 
 Nolan watched her hands. "Brooks will want every tag. Pell will want every tag burned. I want you to decide which hunger we feed before either of them arrives with better manners than we deserve."
 
-She thought of the east room he still refused without a warrant, of hangar nine's blank seat, of board stationery that already named her as a neighbor problem. Soft reconstruction sat in a building that had learned to treat absence as inventory. Soft still had a body that leaned toward him when he said her name.
+She thought of the east room he still refused without a warrant. Of hangar nine's blank seat. Of board stationery that already named her as a neighbor problem. Soft reconstruction sat in a building that had learned to treat absence as inventory. Soft still had a body that leaned toward him when he said her name.
 
 "If we broadcast," [player_name] said, "I become the woman who opened a wife's last hour for strangers."
 
@@ -44,10 +44,10 @@ She asked Nolan to say Vivienne's name once, plain. He did. The sound did not se
 
 [player_name] stood with twin perfume on her wrist and Friday somewhere outside the glass and an hour that finally had edges. Soft unfinished. Soft choosing which mouth got to bleed first.
 
-The museum stub had a time printed small. Soft wondered whether Vivienne had meant to become a person who attended museums alone, or whether someone else had tucked proof into a bag like seasoning. Nolan waited. The vial shone. Soft still had not moved the hour into another mouth.`,
+The museum stub had a time printed small. Soft wondered whether Vivienne had meant to become a person who attended museums alone. Or whether someone else had tucked proof into a bag like seasoning. Nolan waited. The vial shone. Soft still had not moved the hour into another mouth.`,
   textHot: `Perfume twin on [player_name]'s wrist made reconstruction ache in places paper should not reach.
 
-Nolan stood behind her at the marble, rain-money cologne braided with the vial's ghost. Soft throbbed while she laid out bag and curb timing and freight scent and her withheld edges — small bag, capped perfume, long idle — like a filthy altar.
+Nolan stood behind her at the marble, rain-money cologne braided with the vial's ghost. Soft throbbed while she laid out bag and curb timing and freight scent and her withheld edges. Small bag. Capped perfume. Long idle. Like a filthy altar.
 
 "Invent nothing," Nolan murmured against her ear, thumb counting ribs through silk. "Spend the hour into board storm — or quiet-deal with Pell while your cunt still votes which mouth hears soft."
 

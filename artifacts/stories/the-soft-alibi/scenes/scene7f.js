@@ -16,7 +16,7 @@ They stood in the penthouse kitchen with wine rings like exhibits on the marble.
 
 She thought of Brooks offering her that gray box for Pell's office — one-party consent, a smile. She had not taken it. Someone else might have invented a twin.
 
-The leak carried enough to rhyme with Halden Row, with Zurich on Vivienne's authorization through Pell's login, with hotel holds Nolan signed, with GM-0417 at eleven fifty-eight. Not enough to settle leave, pay, death, or staging. Enough to spend soft into public teeth.
+The leak carried enough to rhyme with Halden Row. With Zurich on Vivienne's authorization through Pell's login. With hotel holds Nolan signed. With GM-0417 at eleven fifty-eight. Not enough to settle leave, pay, death, or staging. Enough to spend soft into public teeth.
 
 "Let Pell confess partially," Nolan said, voice low. "Hangar teeth. Fixer mouth. He gives the board a controlled burn and keeps the worst folders closed. Or you wear the holding-chain wire deeper — listening that incriminates the chain above him, soft as jewelry and twice as sharp."
 
@@ -42,7 +42,7 @@ Nolan set the phone face-down as if it could still listen. "The board meets at s
 
 "I am grieving privacy," Nolan said. "You are still here. That is the only mercy I trust tonight."
 
-She replayed the leaked fragment in her head — a laugh that was hers, a sentence of his about traveling that aged wrong, a pause that sounded like a kiss swallowed for the microphone. Soft alibi had always been theater for two. Playback made it theater for strangers.
+She replayed the leaked fragment in her head — a laugh that was hers, a sentence of his about traveling that aged wrong. A pause that sounded like a kiss swallowed for the microphone. Soft alibi had always been theater for two. Playback made it theater for strangers.
 
 "If Pell confesses," she said, "he will confess like a man selling silence by the ounce."
 
@@ -129,7 +129,7 @@ Twelve steps across the hall like a spine she wanted to arch on. Soft could not 
 
 Almost-inch closed. Palm fully on her. Pell's teeth or chain wire. Speaker-warm memory. She shook on the edge and still had not named the burn.
 
-Nolan dragged her hand to his belt and held it there so she felt the leak's effect on him — hard, furious, alive. Soft alibi as shared ruin. She stroked once through wool and stopped because finishing would be theft from the fork.
+Nolan dragged her hand to his belt and held it there so she felt the leak's effect on him — hard, furious, alive. Soft alibi as shared ruin. She stroked once through wool and stopped because finishing would be theft from the morning.
 
 "Pell's partial will sound like mercy and taste like muzzle," [player_name] said against his mouth.
 

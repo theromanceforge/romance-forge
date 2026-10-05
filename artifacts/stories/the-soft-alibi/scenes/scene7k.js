@@ -2,7 +2,7 @@ export default {
   id: "scene7k",
   layer: 7,
   title: "Plane-Desk Messages",
-  text: `Plane-desk messages rose from ash forensics like Rhea's grate refusing to stay silent, timestamps blooming under [player_name]'s hands on Crownspire marble while Nolan Greer stood at her shoulder.
+  text: `Plane-desk messages rose from ash forensics like Rhea's grate refusing to stay silent. Timestamps bloomed under [player_name]'s hands on Crownspire marble while Nolan Greer stood at her shoulder.
 
 Private-plane desk traffic rhymed with Vivienne's thinning without settling fate; soft alibi had become a message log with fuel still ghosting the paper edges.
 
@@ -10,9 +10,9 @@ Private-plane desk traffic rhymed with Vivienne's thinning without settling fate
 
 Detective Imani Brooks would subpoena the desk if it widened; Marcus Pell preferred traveling; Lieutenant Rasmussen still wanted a name by Friday.
 
-Wine rings watched. Unused perfume haunted the bath corridor. Soft catalogued handlers, slots, and no settled Vivienne while weekly to monthly to gone sat beside plane-desk times like cousins at a funeral that might still be a vacation.
+Wine rings watched. Unused perfume haunted the bath corridor. Soft catalogued handlers, slots, and no settled Vivienne. Weekly to monthly to gone sat beside plane-desk times like cousins at a funeral that might still be a vacation.
 
-Hangar nine still held the jet idle since February; manifest V. GREER; blank second seat; Halden Row lease; GM-0417 at eleven fifty-eight; Zurich wire; Delivered; silence as deliverable; Calloway support-housing; sealed V; small bag; perfume capped mid-exit.
+Hangar nine still held the jet idle since February; manifest V. GREER. Blank second seat. Halden Row lease. GM-0417 at eleven fifty-eight. Zurich wire. Delivered. Silence as deliverable. Calloway support-housing. Sealed V. Small bag. Perfume capped mid-exit.
 
 "Keep Crownspire only," Nolan offered. "Refuse inland chase language. Or burn the night-truth — mercy or cowardice — before Brooks maps the desk. Neither settles my wife."
 
@@ -56,7 +56,7 @@ Nolan finally touched her wrist, brief. "I will follow Crownspire-only. I will f
 
 Soft looked at the warm printouts, at his mouth, at the wine rings. Keep the tower name — let the desk go. Burn the night before morning owns soft. Soft stood between those futures with ash in memory and Friday outside the glass and still did not speak the chosen sentence.
 
-[player_name] pinned the top message with a coffee mug so draft would not steal it, ordinary object on extraordinary toner. Soft asked what confirm second seat blank meant if Vivienne had meant to fly alone, stage alone, vanish alone, or never meant to fly at all. Nolan said he did not know, and the not-knowing looked expensive on his face.
+[player_name] pinned the top message with a coffee mug so draft would not steal it, ordinary object on extraordinary toner. Soft asked what confirm second seat blank meant if Vivienne had meant to fly alone, stage alone, vanish alone. Or never meant to fly at all. Nolan said he did not know, and the not-knowing looked expensive on his face.
 
 Soft walked the printouts like a border. On one side, Crownspire-only — refuse inland chase language, let the desk go, keep soft inside glass that already knew their mouths. On the other side, burn the night-truth before messages owned morning — mercy or cowardice named later, fire named now. Soft wanted a third border and did not get one.
 
@@ -121,7 +121,7 @@ Ash R beside timestamps. Same religion different fonts. Board line-item. Desk ro
 
 Soft looked at warm toner, his mouth, wine rings. Tower name or burn before morning. Soft unfinished, ash in memory, Friday outside, sentence unsaid, cunt clenched on stillness.
 
-[player_name] pinned the message with a mug and pinned Nolan's hand harder between her legs, ordinary object, extraordinary ache. Soft asked what blank second seat meant if Vivienne flew alone, staged alone, vanished alone, or never meant the jet; Nolan said he did not know and the not-knowing made him harder against her hip, expensive and honest.
+[player_name] pinned the message with a mug and pinned Nolan's hand harder between her legs, ordinary object, extraordinary ache. Soft asked what blank second seat meant if Vivienne flew alone, staged alone, vanished alone, or never meant the jet. Nolan said he did not know, and the not-knowing made him harder against her hip, expensive and honest.
 
 Soft walked the printouts like a border while rubbing on his fingers. Crownspire-only — desk gone cold, soft inside glass that knew their mouths. Burn night-truth before morning — mercy or cowardice later, fire now. Soft wanted a third border and got only more wetness.
 
@@ -131,9 +131,9 @@ Ash grate led here; soft interview slip led here; hangar nine idle with blank se
 
 "I hate both," Nolan said, kissing her hard then stopping. "I will walk either while you drip. That is breakable soft telling truth with no dignity left to sell."
 
-Nolan turned her to face him fully and kissed her once like a stamp on ash paper, then refused a second kiss until she chose. Soft chased his mouth and got his jaw. Soft cursed. Soft loved him for the cruelty because cruelty meant he would not fuck the decision out of her and call it help. Plane-desk glow painted his scar. Soft pressed her forehead there and breathed toner and skin. Crownspire-only meant walking away from blinking messages with wet thighs and a smaller map. Burn meant setting the withheld hour on fire before Brooks turned timestamps into a leash. Soft unfinished between those walks, dripping on marble logic, Friday outside, Vivienne still four open doors, his hands locked on her hips like a vow that needed a noun.
+Nolan turned her to face him fully and kissed her once like a stamp on ash paper, then refused a second kiss until she chose. Soft chased his mouth and got his jaw. Soft cursed. Soft loved him for the cruelty because cruelty meant he would not fuck the decision out of her and call it help. Plane-desk glow painted his scar. Soft pressed her forehead there and breathed toner and skin. Crownspire-only meant walking away from blinking messages with wet thighs and a smaller map. Burn meant setting the withheld hour on fire before Brooks turned timestamps into a leash. Soft unfinished between those walks, dripping on marble logic. Friday outside. Vivienne still four open doors. His hands locked on her hips like a vow that needed a noun.
 
-Soft whispered Crownspire and felt nothing finish. Soft whispered burn and felt his fingers twitch against her. Soft hated how language worked as touch. Nolan waited for a full sentence. Soft gave him shaking instead. Printouts cooled. Soft did not. Soft unfinished at the desk with ash memory and plane times and a mouth that would not crown either future while her body kept auditioning both.`,
+Soft whispered Crownspire and felt nothing finish. Soft whispered burn and felt his fingers twitch against her. Soft hated how language worked as touch. Nolan waited for a full sentence. Soft gave him shaking instead. Printouts cooled. Soft did not. Soft unfinished at the desk with ash memory and plane times. A mouth that would not crown either future while her body kept auditioning both.`,
   choices: [
       {
           "id": "scene8f",

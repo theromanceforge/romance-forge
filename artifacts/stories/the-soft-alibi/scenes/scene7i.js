@@ -36,7 +36,7 @@ Nolan stepped out of his doorway onto the carpet between them — not quite onto
 
 "Quiet deal," he repeated. "Or Pell. I will not choose which soft you spend while looking at your mouth. That would be another kind of review."
 
-[player_name] closed the last inches until her forehead touched his jaw. Not a kiss. A lean. Soft unfinished against inquiry's hum, twelve steps warm under her feet, two bargains waiting like coats on a rack, Friday leaning on the glass from outside, fate still contested, pulse loud enough that she was sure the hall dome could hear it.
+[player_name] closed the last inches until her forehead touched his jaw. Not a kiss. A lean. Soft unfinished against inquiry's hum. Twelve steps warm under her feet. Two bargains waiting like coats on a rack. Friday leaning on the glass from outside. Fate still contested. Pulse loud enough that she was sure the hall dome could hear it.
 
 City light moved across his cufflink and went dull again. Soft watched the metal the way she had learned to watch his tells. Inquiry was another tell — institutional, hungry, dressed as policy.
 
@@ -71,7 +71,7 @@ Halden Row. Zurich. GM-0417. Sealed V. Calloway. Small bag. Capped perfume. Boar
 
 Pell's text lit the phone; Nolan killed the screen and put [player_name]'s palm on his chest so she could feel inquiry's tempo. Soft understood fixer impatience as arousal she should not admit. Quiet deal priced her one way. Pell bargain priced her another. Soft dripped the same in both pictures.
 
-She asked for water, ignored it, pressed cold glass to her throat while his eyes tracked the wet line. Then he slid his thigh higher and she moaned into open doorway air under the camera dome, soft alibi grinding on conflict light without shame left to spend.
+She asked for water, ignored it, pressed cold glass to her throat while his eyes tracked the wet line. Then he slid his thigh higher and she moaned into open doorway air under the camera dome. Soft alibi grinding on conflict light without shame left to spend.
 
 "Rhea logged me," [player_name] managed.
 
@@ -83,11 +83,11 @@ Nolan stepped onto the carpet — not step nine, not full claim — and the almo
 
 "Quiet deal or Pell," he said, fingers still, pressed to her clit through cloth like a held note. "I will not pick which soft you spend while you are this wet for the review itself."
 
-[player_name] nodded into his jaw and shook on the held note, unfinished, twelve steps glowing behind her like a second spine, two bargains hanging like coats she had not yet put on, Friday outside, fate open, cunt aching around a decision that refused to become a word.
+[player_name] nodded into his jaw and shook on the held note, unfinished. Twelve steps glowed behind her like a second spine. Two bargains hung like coats she had not yet put on. Friday outside. Fate open. Cunt aching around a decision that refused to become a word.
 
 City light slid over his cufflink and made her clench. Soft had trained on that tell in bed; inquiry only made the training louder. His fingers stayed still on her clit through soaked cotton, a locked promise.
 
-"If I quiet-deal, do not vanish into work and leave me alone with what we sold," [player_name] whispered, hips trying to cheat motion from his hand.
+"If I quiet-deal, do not vanish into work and leave me alone with what we sold," [player_name] whispered. Her hips tried to cheat motion from his hand.
 
 "If you bargain with Pell, do not invent purity afterward," Nolan said. "Soft gets no sainthood in my doorway. Soft gets honesty while I am hard for you and terrified of my own board."
 
@@ -97,7 +97,7 @@ A siren rose and fell outside, useless to her cunt and useful to her fear. Soft 
 
 She stepped half back; his fingers almost lost her; she stepped forward again into his hand with a broken sound. Distance clarified nothing except hunger. Soft laughed once, wrecked. Inquiry had not invented the hunger; it had only put a badge number on her soaked pulse.
 
-Rhea's brass key. Pell's penthouse key. East room refused. Soft stood in a building of keys and refusals, dripping on which quiet to buy, unfinished in his doorway with the hall dome watching her shake.
+Rhea's brass key. Pell's penthouse key. East room refused. Soft stood in a building of keys and refusals, dripping on which quiet to buy. Unfinished in his doorway with the hall dome watching her shake.
 
 Nolan's scar stood white when he clenched. Soft licked it once, reckless, then stopped because licking would become fucking in an open doorway under review. Quiet deal and Pell bargain waited like two closed elevators. Soft had not pressed a button. Soft shook on his still fingers and let the almost be the whole climate.
 
