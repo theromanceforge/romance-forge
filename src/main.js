@@ -560,8 +560,9 @@ function renderLanding() {
               </button>
             </div>`
       : '';
+  // In flow above the story picker (not pinned) so it can't sit under the sticky Begin bar.
   const landingSavePromptHtml = state.savePromptVisible
-    ? `<aside class="save-prompt" data-testid="save-prompt" role="status">
+    ? `<aside class="save-prompt save-prompt--inline save-prompt--landing" data-testid="save-prompt" role="status">
          <p>Save your place — guest progress stays on this browser.</p>
          <div class="save-prompt-actions">
            <button type="button" class="btn secondary" data-action="open-auth-save" data-testid="save-across-devices">
@@ -646,6 +647,7 @@ function renderLanding() {
     <main class="page landing cover-landing" data-testid="landing">
       <div class="landing-room" aria-hidden="true"></div>
       ${forgeStripHtml}
+      ${landingSavePromptHtml}
       <section class="cover-hero" aria-labelledby="story-heading" data-testid="start-reading">
         <div class="cover">
           <span class="cover-spine" aria-hidden="true"></span>
@@ -753,7 +755,6 @@ function renderLanding() {
           Begin the story
         </button>
       </div>
-      ${landingSavePromptHtml}
       ${authModalHtml()}
     </main>
   `;
@@ -768,8 +769,9 @@ function renderReader() {
   const ending = isEnding(scene);
   if (ending) maybeHydrateCloudReview(state.storyId || defaultStory.id);
   const choices = ending ? [] : getChoices(scene);
+  // Reader: inline card after the choices (in flow) so it never covers prose or choices.
   const savePromptHtml = state.savePromptVisible
-    ? `<aside class="save-prompt" data-testid="save-prompt" role="status">
+    ? `<aside class="save-prompt save-prompt--inline" data-testid="save-prompt" role="status">
          <p>Save your place — guest progress stays on this browser.</p>
          <div class="save-prompt-actions">
            <button type="button" class="btn secondary" data-action="open-auth-save" data-testid="save-across-devices">
