@@ -2,38 +2,158 @@ export default {
   id: "scene8a",
   layer: 8,
   title: "Name the Absence Method",
-  text: `Name the absence method meant [player_name] stopped treating silent-partner ink like a private bruise and set it where Crownspire's glass could throw city light as accusation. Early thirties, neighbor across the hall—she stood with Nolan Greer at her shoulder while Marcus Pell's traveling language tried to outrun Detective Imani Brooks's homicide interest downstairs. The old file from the locked drawer had dates that rhymed with Vivienne's thinning visits.
+  text: `The silent-partner agreement was four pages, cream stock, the Halden Row seal embossed at the bottom of each. [player_name] had kept it folded in her purse for nine days like a bruise she pressed when no one was looking. Tonight she unfolded it on the sideboard by Nolan's window and smoothed it flat where the city lights could fall across it.
 
-"You name it," Nolan said, mid-forties finance and tech holding, brutal charm never clean-cut, "and the holding learns how absence used to be purchased. Soft alibi stops being a hallway secret. It becomes a method with fingerprints." His cufflinks clicked once—the tell that lived when Vivienne's name entered a room—then stilled. Wind sheer pressed floor-to-ceiling glass. Elevator chime trembled in the private shaft. Somewhere on Rhea Quinn's slate, thinning marks waited for Brooks to subpoena colder.
+"Once you say it out loud," Nolan said behind her, "it's a method. Not a rumor. The board will know exactly how absence used to get bought."
 
-[player_name] did not invent death. She did not invent Milan under a different name. Naming the old absence method only proved Nolan knew how to make someone gone in a way money preferred—and that Vivienne's cadence could be read as method or coincidence depending on which fear you fed. Soft still meant pliable evidence. Soft also meant she was about to co-author a public sentence Brooks could carry into colder paper.
+"I know."
 
-Unused perfume still breathed from the master bath she should not know. Across the hall, her apartment waited with clearer conscience and colder sheets. Black car idled at the curb like a held breath. Wine rings on marble looked like Venn diagrams of complicity she could no longer deny.
+"Brooks will love it," Nolan said. "Pell will hate it."
 
-"Stand fully as cover with me at your back," Nolan murmured, almost kind, "or rewrite what you'll swear until mercy softens the edges. Neither settles Vivienne."
+"I know that too."
 
-She catalogued the choice the way Brooks would: name as public posture, soft as silk that still had teeth. Hope and dread shared the hallway. Crownspire held its hush. [player_name] felt the absence method watching her mouth as surely as Nolan did, and understood that speaking it aloud would change which soft she could still claim.`,
-  textHot: `Naming the absence method hit [player_name] as heat first—Nolan Greer's body angled behind her so breath warmed the nape of her neck while silent-partner paper cooled under her palms. Early thirties, across-the-hall aching, she felt mid-forties money press close enough that cufflink metal kissed her wrist. The rhyme between purchased absence and Vivienne's thinning went straight between her thighs like a filthy metronome. Brooks's homicide interest vibrated through Crownspire glass into her bloodstream without needing a corpse.
+Downstairs, Brooks was somewhere in the building, waiting on the ultimatum she'd delivered alone in the lobby: talk by Friday. Pell was somewhere else, using the word *traveling* the way other men used *resting*. And here was the paper that explained how both words worked.
 
-"Say it with me," he murmured against her ear. Rain-money cologne. Vivienne's unused perfume as third heat from the bath corridor. Marble under her knees of want even while she stood. Soft alibi cooperation had a pulse; naming it publicly made the pulse louder.
+She read the clauses again, though she knew them by heart. A silent partner in a holding company. A lease on a property inland. Travel booked through a corporate account. Expenses coded as client development. Every piece legal on its own. Together they made a door a person could walk through and come out the other side with no forwarding address.
 
-His hand settled at her waist, thumb counting ribs. "Stand as cover with me at your back—or mercy-rewrite what you'll swear. Neither puts my wife in a box."
+"You built this," she said.
 
-She arched once, fine and furious, thighs tight, perfume-haunted. His hips brushed hers; the almost made her ache louder than the paper.
+Nolan didn't flinch. "Fifteen years ago. For clients who needed to vanish from bad marriages or worse business partners. It was clean work. I told myself it was clean."
 
-"If I name it," she whispered, palm flat on his chest, heartbeat and lie ticking under wool, "I become co-author with your hands on me." A beat. "If I soften the swear, I wear your cover with quieter teeth and a private throb you don't inventory for Brooks."
+"And Vivienne?"
 
-Nolan's mouth hovered. "Both keep you under my protection." His thumb stroked; her breath snagged. Elevator chime trembled through her teeth. Wind sheer. Wine-ringed marble. Black car curb-idle. She trembled choosing while Vivienne stayed contested and homicide interest rose downstairs without naming a body.`,
+"I don't know if she used it." His cufflink clicked once. She had learned that sound: sometimes a lie, sometimes love, sometimes both. "I don't know if someone used it on her."
+
+She set her fingertip on the embossed seal and felt the ridges like braille for money.
+
+"You have two ways to go," Nolan said quietly. "Stand fully as cover with me at your back. You name the method in front of the board, and you stand next to me while they decide what it means. Or you rewrite what you'll swear. Soften the edges. Give Brooks enough to cut, not enough to bleed everyone in the room on the first pass."
+
+"Mercy," she said.
+
+"If you want to call it that."
+
+She walked the length of the window, then back. The glass was cold when she brushed it with her knuckles. Below, traffic drew red and white lines along the avenue. She refused to read them as anything.
+
+"If I stand as cover," she said, "I become the wall that lets you keep breathing in public. Everyone sees my face beside yours. If you fall, I fall in the same photo."
+
+"Yes."
+
+"If I rewrite what I swear, I sand it down until it still cuts but doesn't kill. Brooks gets a method without a map. The board gets a story it can survive."
+
+"Yes," Nolan said again. He didn't argue either one. He never did.
+
+She thought of the leak that had gone to the prosecutor and the holding board both. Thought of the hangar camera with its lens covered, the radio in the far bay, the plane-desk note that read *confirm second seat blank*. Thought of the packed bag: silk, a travel bottle, a paperback, a museum stub. A museum stub was culture. It was also a receipt. Absence, she was learning, could look like a nice afternoon.
+
+"Did you ever think I'd find this?" she asked.
+
+"I hoped you wouldn't," Nolan said. "Then I hoped you would. I've been hoping in both directions for weeks."
+
+"Am I complicit? For sleeping next to it?"
+
+"You were already beside it," Nolan said. "Naming isn't inventing. Naming is refusing to pretend you didn't see the seams."
+
+She had seen them. She still wanted to kiss them. That was the problem with loving a man who knew how to make people disappear: some part of her admired the craftsmanship, and that part frightened her more than Brooks ever had.
+
+She ran her thumb along the margin until the cream stock warmed under it. Somewhere in the walls, the service elevator groaned and settled.
+
+"What do I do with my hands," she said, "once I stop touching this?"
+
+"Put them on me," Nolan said. "Or in your pockets. Just don't put them back into pretending."
+
+She almost laughed. She almost cried. She did neither.
+
+She counted the windows across the avenue — too many — and wondered how many of them had watched her love him without her noticing. She did not close the blinds. Let the city keep its seat.
+
+"Say my name," she said. "Not the way a panel would."
+
+Nolan said it once, quiet, the way he had said it on the ninth step of the stairwell the first night. She felt it land in her chest and stay.
+
+She turned from the window. He was standing by the sideboard, hands loose at his sides, waiting the way he always waited for her, as if he had all the time in the world and none of it mattered unless she spent it.
+
+She crossed to him. She put her hand flat on his chest, over the steady thud of his heart, and left the other hand on the paper behind her. One palm on the man. One palm on the method.
+
+"Ask me again," she said.
+
+"Wall or mercy?" Nolan asked.
+
+She held his gaze and kept both hands where they were, and let the question sit between their mouths, warm and dangerous, one more breath.`,
+  textHot: `The silent-partner agreement was four pages of cream stock with the Halden Row seal embossed at the bottom of each. [player_name] had kept it folded in her purse for nine days. Tonight she unfolded it on Nolan's sideboard and smoothed it flat under city light, and the motion of her palm over the paper made her think of smoothing sheets, of smoothing him, of every time her hand had flattened on warm skin instead of cold clauses.
+
+"Once you say it out loud," Nolan said behind her, "it's a method. Not a rumor."
+
+"I know." Her voice was low. She felt him close without turning. The heat of him at her back was as distinct as the cold glass in front of her.
+
+"Brooks will love it. Pell will hate it."
+
+"I know that too."
+
+Downstairs, Brooks waited on the ultimatum she'd delivered alone in the lobby. Pell was somewhere else, using *traveling* the way other men used *resting*. And here was the paper that explained how both words worked — how a person could walk through a door of leases and wires and come out with no forwarding address.
+
+She set her fingertip on the embossed seal. The ridges pressed into her skin. Behind her, Nolan stepped closer. His hands settled on the sideboard on either side of hers, caging her against the furniture without touching her yet.
+
+"You have two ways," Nolan said at her ear. His breath stirred her hair. "Stand fully as cover with me at your back. Name the method in front of the board. Or rewrite what you'll swear. Soften the edges. Give Brooks enough to cut, not enough to bleed everyone on the first pass."
+
+Her nipples drew tight at the nearness of his mouth. She pushed her thighs together and felt the slick of her own wanting.
+
+"Mercy," she said.
+
+"If you want to call it that."
+
+She rocked back half an inch. Her ass found his hips. He was hard against her, and the press of him made her breath catch in a soft, helpless sound.
+
+"If I stand as cover," she said, shaky, "I become the wall that lets you keep breathing. Everyone sees my face beside yours."
+
+"Yes." His lips brushed the shell of her ear.
+
+"If I rewrite, I sand it down. Brooks gets a method without a map."
+
+"Yes." His hand left the sideboard and settled on her waist, fingers spanning her ribs. The heat of his palm sank through her blouse.
+
+She thought of the leak to prosecutor and board, the covered hangar lens, the radio in the far bay, *confirm second seat blank*, the packed bag with its silk and museum stub. Absence could look like culture. Absence could look like a nice afternoon. Right now absence looked like the inch of air between his mouth and her neck, and she hated it.
+
+"Am I complicit?" she asked. "For sleeping next to this?"
+
+"You were already beside it," Nolan said. "Naming isn't inventing. Naming is refusing to pretend you didn't see the seams."
+
+She had seen them. She still wanted to put her mouth on them. Loving a man who knew how to make people disappear meant some part of her admired the craftsmanship, and that part frightened her almost as much as it made her wet.
+
+His hand slid from her waist to her stomach, then lower, stopping at the button of her trousers. He waited. She pushed into his palm. He undid the button with one practiced flick and slipped his fingers under the waistband, over her underwear, and pressed.
+
+She gasped. Her head fell back against his shoulder. His other hand came up and cupped her breast through her blouse, thumb finding her nipple through fabric, stroking once.
+
+"What do I do with my hands," she managed, "once I stop touching this?"
+
+"Put them on me," Nolan said against her throat. "Or in your pockets. Just don't put them back into pretending."
+
+She almost came from the words alone. She laughed, shaky, and the laugh turned into a moan when his fingers pressed harder, finding the wet heat through cotton and circling once, twice, slow.
+
+"Say my name," she whispered. "Not the way a panel would."
+
+He said it once, quiet, against her temple, the way he had on the ninth step the first night, and her hips jerked against his hand.
+
+She turned in his arms — hard, sudden — and put one palm flat on his chest over his heart and reached behind herself with the other to keep contact with the paper on the sideboard. Man and method. Pulse and seal.
+
+"Ask me again," she said.
+
+"Wall or mercy?" Nolan asked. His fingers were still under her waistband, still, waiting. His mouth was a breath from hers.
+
+Across the avenue, a light flicked on in an office that should have been empty. She watched it and felt his thumb resume its slow circle, and the two sensations — distant light, intimate pressure — braided until she couldn't tell dread from want.
+
+"Friday," she said.
+
+"I know," Nolan said. "Choose before then. Not now if you can't. Just not never. I'll keep my hand right here until you do."
+
+She held his gaze. She held the paper. She held the unfinished press of his hand between her legs, throbbing, and let the question sit between their mouths one more breath before either of them spent it.`,
   choices: [
       {
           "id": "scene9a",
           "text": "Stand fully as cover with Nolan at your back",
-          "textHot": "Stand as cover while his thumb still counts your ribs"
+          "textHot": "Stand as cover while his body still braces yours"
       },
       {
           "id": "scene9b",
           "text": "Mercy-rewrite what you will swear",
-          "textHot": "Mercy-rewrite the swear with his mouth unfinished on yours"
+          "textHot": "Mercy-rewrite the swear while his mouth still unfinished on yours"
       }
   ]
 };
