@@ -151,7 +151,7 @@ He was close enough that she could smell him. Soap and wine and the warm skin at
 
 "No," he said. His eyes moved down her, slow, to the flush on her chest, to her hand flat over the folded paper, and came back up. "You look like you did the first night."
 
-She remembered the first night. His door. Her back against it. His hand sliding up under her dress and finding her already wet. The sound he'd made, surprised and hungry, like he hadn't expected her to want him that much.
+She remembered the first night. Her own door. Ten minutes he'd stood outside it before he knocked, he told her later. Then her back against it. His hand sliding up under her dress and finding her already wet. The sound he'd made, surprised and hungry, like he hadn't expected her to want him that much.
 
 Her breath caught. He heard it.
 
