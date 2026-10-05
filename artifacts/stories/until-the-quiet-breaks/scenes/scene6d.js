@@ -6,7 +6,7 @@ export default {
 
 Whatever Henry had said tonight, and wherever he had said it, it had been the smoothed version. He had gone home to Willow to sit with it. The number in [player_name]'s fist said the smoothing was over.
 
-Rain ticked on the hood. The Shaw house sat dark except for a spill of kitchen light under the side curtain. Henry awake, or Henry pretending to sleep with a glass and a verdict face. John had come with her. His knuckles were white on the passenger door handle, the burn scar a pale coin in the dash glow. Voss's old exchange number, copied from Clara's circled slip, lived on a scrap in [player_name]'s fist like a fuse.
+Rain ticked on the hood. The Shaw house sat dark except for a spill of kitchen light under the side curtain. Upstairs stayed black; Clara was at Mae's. Henry awake, or Henry pretending to sleep with a glass and a verdict face. John had come with her. His knuckles were white on the passenger door handle, the burn scar a pale coin in the dash glow. Voss's old exchange number, copied from Clara's circled slip, lived on a scrap in [player_name]'s fist like a fuse.
 
 "We wake him," she said. Not asking. The drive from the diner had worn small talk down to breath and windshield wipers. "We wake him with the number, and we don't let kindness invent morning early."
 
@@ -73,11 +73,11 @@ A freight horn sounded far off toward the yard. [player_name] thought of the gir
 "I'm not your cleaner story anymore," she told Henry. "I'm the woman on your step with your nephew's hand on my back and a creditor's number in my fist. You don't get to choose who hears it. I do. That's what my coming home cost you."
 
 Henry nodded once, small, defeated at the edges. The clock ticked behind him. John's heat at her spine didn't fade. If anything the pause made it louder. Henry stepped back half a pace, holding the door wider, and waited to see whether she would bring John across the threshold with her or ask him to stay out in the rain.`,
-  textHot: `Willow Lane smelled of wet boxwood and woodsmoke. [player_name]'s body still hummed from the diner, as if unfinished sex had hitched a ride in the passenger seat beside John.
+  textHot: `Willow Lane smelled of wet boxwood and woodsmoke. Clara had texted from Mae's: she was staying off Willow tonight, and they should not soften. The upstairs windows over Henry's kitchen stayed dark.
 
-Whatever Henry had said tonight, and wherever he had said it, it had been the smoothed version. He had gone home to Willow to sit with it.
+Whatever Henry had said tonight, and wherever he had said it, it had been the smoothed version. He had gone home to Willow to sit with it alone.
 
-She killed the engine. Rain ticked the hood. The scrap with Voss's exchange number stuck to her damp palm. John's hand found her thigh in the dark. Not comforting. Claiming, his thumb stroking the inner seam where she was still sensitive, still wet from everything they had postponed to come wake a liar.
+[player_name]'s body still hummed from the diner, unfinished heat riding shotgun beside John. She killed the engine. Rain ticked the hood. The scrap with Voss's exchange number stuck to her damp palm. John's hand found her thigh in the dark. Not comforting. Claiming, his thumb stroking the inner seam where she was still sensitive, still wet from everything they had postponed to come wake a liar.
 
 "We wake him," she said, her voice rough. "With the number. No kindness."
 

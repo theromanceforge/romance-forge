@@ -6,7 +6,7 @@ export default {
 
 Henry's second knock had faded into the Market Street rain half an hour ago, his umbrella silhouette thinning until even Clara stopped watching the glass. She had flipped the CLOSED sign without asking and stacked menus with unnecessary force. Uncles who invented exile, she muttered, could wait in woodsmoke like everyone else. Then she took her charcoal-smudged coat and the long way home to Willow, leaving John and [player_name] the diner the way you leave two people a room when the weather inside it is still deciding whether to break windows.
 
-Fryer oil ticked as it cooled. Rain needled the awning in patient sheets. In the dish pit a faucet dripped into the steel sink where [player_name] had spilled Henry's winter into John's hands. Debts. Ice. The hospital request. The yes that had made her an exit wound. The spill couldn't be gathered. It could only be weathered.
+Fryer oil ticked as it cooled. Rain needled the awning in patient sheets. On the wet mat by the blue door, Henry's torn notebook page still lay where Clara had left it: the shed, the oilcloth, the key on the hook. Proof with an address, waiting while anger took its hour. In the dish pit a faucet dripped into the steel sink where [player_name] had spilled Henry's winter into John's hands. Debts. Ice. The hospital request. The yes that had made her an exit wound. The spill couldn't be gathered. It could only be weathered.
 
 John hadn't spoken for eleven minutes.
 
@@ -73,7 +73,7 @@ He waited, too close. His eyes stayed bright with anger that had begun, dangerou
 His pulse showed at his throat. Hers answered. Not forgiveness yet, not exile. Only a man waiting to learn whether her next sentence would kneel or stand, and a woman whose body already leaned toward both.`,
   textHot: `The blue door stayed locked, and the lock did nothing for the heat under [player_name]'s skin.
 
-Henry's knock had faded into the rain. Clara had fled to Willow with charcoal under her nails and a sister's accurate mercy. That left the closed diner. Fryer oil cooling. Lemon cleaner on the prep board. And John's anger pacing the linoleum like a third person who smelled of coffee and clean sweat and wanted, obscenely, to put his hands on the woman who had just ruined his evening.
+Henry's knock had faded into the rain. Clara had fled to Willow with charcoal under her nails and a sister's accurate mercy, after reading the page he had slid under the door: shed, oilcloth, key on the hook. That left the closed diner, the note still damp on the mat, fryer oil cooling, lemon cleaner on the prep board. And John's anger pacing the linoleum like a third person who smelled of coffee and clean sweat and wanted, obscenely, to put his hands on the woman who had just ruined his evening.
 
 [player_name]'s shirt still clung damp at the small of her back. She sat at the far end of the counter with coffee she wasn't drinking, a pulse that had no business showing up for an apology loud in her throat, and watched John wipe the same laminate until the towel squeaked.
 

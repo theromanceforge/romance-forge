@@ -4,7 +4,7 @@ export default {
   title: "Rain First",
   text: `The rain didn't ask permission to keep them. It simply went on, slate roofs singing, Market Street drowned, the ridge road a rumor of water, until asking John to hold her through it felt less like postponement and more like the only honest weather left in Somerton.
 
-[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had gone upstairs with headphones and a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
+[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had walked to Mae's spare room before the curb drowned, leaving a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
 
 "Hold me through the rain first," she whispered. "Not as forgetting. As surviving until first light. At dawn I'll ask for every unfinished room in the winter story. Tonight I'm asking for your arms before my courage spends itself entirely on paper."
 
@@ -47,7 +47,9 @@ John's arms tightened once as she stirred. He didn't kiss her. He had saved that
 [player_name] sat up inside the circle of his arms, the blanket slipping. The letter looked smaller in daylight and somehow more dangerous. Up on Willow, Henry was awake behind his paperweights with the rest of the winter still in him. And here was John, grey eyes steady in the new pale, a Shaw who had been raised on the same quiet, waiting to hear what she would ask of him.`,
   textHot: `The rain didn't ask permission to keep them. It simply went on, slate singing, Market Street drowned, until asking John to hold her through it felt like the only honest weather left. And holding, [player_name] knew, wouldn't stay innocent. Not after a night of knees touching, hands on thighs, and "not yet" spoken like a vow with heat under it.
 
-She had demanded truth before closeness. She still meant the dawn half. But the blue door was locked, and Henry's letter lay between cold mugs. [player_name] turned her hand in John's and said the other true thing with her pulse already loud.
+She had demanded truth before closeness. She still meant the dawn half. Clara was already at Mae's, two doors from the post office, dry and out of earshot. The blue door was locked. Henry's letter lay between cold mugs.
+
+[player_name] turned her hand in John's and said the other true thing with her pulse already loud.
 
 "Hold me through the rain first," she whispered. "Bodies now, as much as we choose. Truth at first light. I want your arms. I want your mouth, if you can give it without turning it into a way to dodge the morning. At dawn I'll ask for every unfinished room in the winter story. Tonight I'm asking for you."
 

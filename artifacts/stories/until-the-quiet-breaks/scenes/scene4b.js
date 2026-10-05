@@ -32,11 +32,11 @@ Thunder rolled closer. Footsteps sounded on the stairs. Clara came down with bla
 
 She glanced at [player_name], then at her brother, and something fiercely protective crossed her face. "I put the papers upstairs where the drip can't reach them. Henry called the landline. I told him the diner was closed and the hill was a river. He can wait until morning like the rest of us."
 
-John almost smiled. "Go sleep, Clara."
+John almost smiled. "You staying upstairs?"
 
-"After I lock the back." She paused on the first step. "Don't soften anything just because the storm makes you feel temporary. Temporary is how we got the lie."
+"Not tonight." Clara jerked her chin toward Market Street. "Mae's spare room is two doors from the post office. Ridge road is dead, but I can still walk that far before the curb goes under. Papers are upstairs where the drip can't reach them. Don't soften anything just because the storm makes you feel temporary."
 
-Then she was gone, and the diner narrowed again to rain and half-light and two people choosing not to look away.
+She locked the back, pulled on her charcoal-smudged coat, and went out into the rain toward Mae's porch light. The diner narrowed again to rain and half-light and two people choosing not to look away.
 
 John checked the back bolt and slid into the booth. "I'm still angry. I'm still glad. Those can sit in the same booth overnight." He nodded at her coat, hung dripping on the hook by the pass. "The letter. Read it aloud, if you'll let me hear it. Not for theater. So I hear Henry's careful voice in this room and decide what I ask him tomorrow with my own ears."
 
@@ -48,7 +48,7 @@ Lightning whitened the diner. For a moment [player_name] saw their reflections i
 
 John reached across the table and touched only her fingertips. "Stay," he said. "Not as a guest. As the woman who demanded the truth before the soft hour. I'll feed you whatever's left in the pie case. You tell me what cities sounded like when they couldn't smell like boxwood. And when morning comes, we walk up the hill together."
 
-She turned her hand so their fingers laced, brief and fierce, then resting. Above them Clara's floorboards creaked once and went quiet.
+She turned her hand so their fingers laced, brief and fierce, then resting. Outside, Mae's porch light held a small steady square against the rain.
 
 "If I fall asleep before you," John said, voice dropping, "wake me if the storm changes. Or if you change your mind about the kiss." He almost smiled, tired and real. "I've practiced losing you in weather like this. Tonight I practice staying."
 
@@ -81,11 +81,11 @@ Thunder rolled closer. Footsteps sounded on the stairs. Clara came down with bla
 
 "Roads are closed toward the ridge," she reported, dropping them on the bench. "Flash flood warning on the radio. You're both stuck. I put the papers upstairs where the drip can't reach them. Henry called the landline. I told him the hill was a river. He can wait until morning like the rest of us."
 
-John almost smiled. "Go sleep, Clara."
+John almost smiled. "You staying upstairs?"
 
-"After I lock the back." She paused on the first step. "Don't soften anything just because the storm makes you feel temporary. Temporary is how we got the lie."
+"Not tonight." Clara jerked her chin toward Market Street. "Mae's spare room. I can walk it before the curb drowns. Papers stay upstairs. Don't soften anything just because the storm makes you feel temporary."
 
-Then she was gone, and the diner narrowed again to rain and half-light and two people choosing not to look away, and choosing, still, not to take the kiss.
+She locked the back, pulled on her coat, and went out toward Mae's porch light. The diner narrowed again to rain and half-light and two people choosing not to look away, and choosing, still, not to take the kiss.
 
 John checked the back bolt and slid into the booth. His knee found hers again. "I'm still angry. I'm still glad. Those can sit in the same booth overnight." He nodded at her coat on the hook by the pass. "The letter. Read it aloud. So I hear Henry's careful voice in this room and decide what I ask him tomorrow with my own ears."
 
@@ -97,7 +97,7 @@ When she finished, he exhaled as if he had been underwater with her. His thumb s
 
 Lightning whitened the diner. In the black glass [player_name] saw two people in a back booth, blankets waiting, coffee gone cold, and the unmistakable lean of two bodies that wanted to fuck and had chosen truth as the price of entry.
 
-John laced his fingers through hers across the table. His other hand stayed on her thigh, warm through denim. Above them the floorboards creaked once and went quiet.
+John laced his fingers through hers across the table. His other hand stayed on her thigh, warm through denim. Outside, Mae's porch light held steady against the rain.
 
 Between her legs, [player_name] was still wet. She shifted once and felt his fingers tighten in answer, a man holding a line he meant to cross only when she opened the gate.
 

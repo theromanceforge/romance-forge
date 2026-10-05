@@ -140,7 +140,7 @@ Canonical ages (see PREMISE): [player_name] and John were 20 at the cover-up and
 | `scene7a` | Noon Confrontation | → `scene8a` — Record Henry's confession on your phone | → `scene8b` — Refuse recording — demand a written statement |
 | `scene7b` | Justice His Shape | → `scene8c` — Agree to John's terms even if they scare you | → `scene8d` — Negotiate — your life is not only his wound |
 | `scene7c` | Clara Second Reading | → `scene8e` — Let Clara decide who hears first | → `scene8c` — Overrule her gently — John must hear first |
-| `scene7d` | Heat Until Morning | → `scene8f` — At dawn, tell him you love him before the secret | → `scene8g` — At dawn, put the papers between you on the bed |
+| `scene7d` | Heat Until Morning | → `scene8f` — At dawn, tell him you love him before the rest of the paper | → `scene8g` — At dawn, put the papers between you on the bed |
 | `scene7e` | Answers Then Touch | → `scene8f` — After answers, stay — rebuild trust with your body | → `scene8a` — After answers, go confront Henry while fire is hot |
 | `scene7f` | Confess Before John | → `scene8h` — Hold John's hand while Henry speaks | → `scene8i` — Stand apart — let John face his uncle alone |
 | `scene7g` | Relay Alone | → `scene8g` — Softening nothing when you tell John | → `scene8j` — Softening only the parts that would destroy him |
@@ -163,7 +163,7 @@ Canonical ages (see PREMISE): [player_name] and John were 20 at the cover-up and
 | `scene8c` | John's Terms | → `scene9b` — Accept a life rebuilt in Somerton on his terms | → `scene9c` — Accept love but refuse to erase your years away |
 | `scene8d` | Negotiate the Wound | → `scene9c` — Insist on couples honesty before family spectacle | → `scene9f` — Insist Henry faces consequences in public |
 | `scene8e` | Clara Chooses Audience | → `scene9d` — Support her choice even if it scares you | → `scene9b` — Ask her to delay for John's sake |
-| `scene8f` | Love Before Secret | → `scene9c` — Tell the secret the same morning | → `scene9e` — Keep the secret one more day after the vow |
+| `scene8f` | Vow Before Paper | → `scene9c` — Finish what remains the same morning | → `scene9e` — Keep what remains one more day after the vow |
 | `scene8g` | Papers on the Bed | → `scene9d` — Read them aloud until nothing is left unsaid | → `scene9a` — Stop midway — some pages are Henry's alone to confess |
 | `scene8h` | Hand in Hand | → `scene9g` — Forgive Henry in John's hearing | → `scene9b` — Refuse forgiveness; keep holding John's hand |
 | `scene8i` | John Alone with Henry | → `scene9e` — Wait outside; trust him to return | → `scene9a` — Interrupt if the silence lasts too long |
