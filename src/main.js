@@ -1036,6 +1036,48 @@ function escapeHtml(str) {
 
 const MOMENTUM_MS = 240;
 
+/** One-shot: after a what-if replay render, scroll/focus the highlighted choice. */
+let _pendingWhatIfFocus = false;
+
+function requestWhatIfHighlightFocus() {
+  _pendingWhatIfFocus = true;
+}
+
+/**
+ * After render, bring .choice--what-if-highlight into view (centered) and focus it.
+ * Instant scroll only (no smooth) so prefers-reduced-motion is respected.
+ * Falls back to scrollTo(0, 0) if the highlight is missing.
+ */
+function scheduleWhatIfHighlightFocus() {
+  if (!_pendingWhatIfFocus) return;
+  _pendingWhatIfFocus = false;
+  const run = () => {
+    const el = /** @type {HTMLElement | null} */ (
+      app.querySelector('.choice--what-if-highlight')
+    );
+    if (!el) {
+      window.scrollTo(0, 0);
+      return;
+    }
+    try {
+      el.scrollIntoView({ block: 'center', inline: 'nearest', behavior: 'auto' });
+    } catch {
+      window.scrollTo(0, 0);
+      return;
+    }
+    try {
+      el.focus({ preventScroll: true });
+    } catch {
+      /* jsdom / inert */
+    }
+  };
+  // Double rAF: wait for layout after momentum → reader swap.
+  requestAnimationFrame(() => {
+    requestAnimationFrame(run);
+  });
+}
+
+
 /**
  * Brief “…” beat, then next scene — keeps spice/story flow moving with no dead air.
  * @param {Partial<typeof state>} partial
@@ -1125,6 +1167,7 @@ function render() {
   _renderedView = state.view;
   bindEvents();
   trackViewTransition();
+  scheduleWhatIfHighlightFocus();
 }
 
 /**
@@ -1305,6 +1348,7 @@ function bindEvents() {
           whatIfReplay: usingWhatIf,
         },
       });
+      if (usingWhatIf) requestWhatIfHighlightFocus();
       setState({
         view: 'reader',
         playerName: name,
@@ -1412,6 +1456,7 @@ function bindEvents() {
       if (!forkId) return;
       const trimmed = pathForReplayFrom(state.path, forkId);
       persistGuestProgress({ sceneId: forkId, path: trimmed });
+      requestWhatIfHighlightFocus();
       advanceWithMomentum({
         sceneId: forkId,
         previousSceneId: '',
@@ -1477,6 +1522,7 @@ function bindEvents() {
         playerName: typedName,
         meta: { whatIfReplay: true, from: 'landing-compact' },
       });
+      requestWhatIfHighlightFocus();
       setState({
         view: 'reader',
         playerName: typedName,
@@ -1822,6 +1868,8 @@ export {
   state,
   setState,
   render,
+  requestWhatIfHighlightFocus,
+  scheduleWhatIfHighlightFocus,
   defaultStory as story,
   getStory,
   STORIES,
