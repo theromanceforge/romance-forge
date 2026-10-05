@@ -92,7 +92,7 @@ Convergence into L6 (32→16): thematic merges Truth / Heart / Money / Law.
 - **`scene6b`** — Full coop: she withholds one night she still won’t name
 - **`scene6c`** — Off-record night: intimacy + calendar printouts on the marble
 - **`scene6d`** — Off-record night: intimacy refused; silence-war only
-- **`scene6e`** — Controlled drip: Pell smells sandbagging
+- **`scene6e`** — Quiet Drip: Pell catches the controlled bleed
 - **`scene6f`** — Raw admission recorded — point of no return for Brooks’s escalating file
 - **`scene6g`** — Hangar / black-car lead with Nolan before dawn
 - **`scene6h`** — Hangar lead alone — she finds unused perfume twin and a bag that shouldn’t still be packed

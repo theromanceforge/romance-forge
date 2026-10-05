@@ -4,7 +4,7 @@ export default {
   title: "Dawn Under Fluorescents",
   text: `Dawn found [player_name] beside Nolan Greer. He was bruised lightly under the fluorescents, and morning crept toward the lobby glass while Crownspire's hush began to crack. Neither of them knew yet which door would own the day. Across the hall, he was still the neighbor Detective Imani Brooks kept circling, her homicide interest rising without a settled body. A bruise did not force any of them.
 
-"I'm fine," Nolan said, mid-forties holding, brutal charm scraped honest, cufflinks dull for once. "Raid aftermath. Chase. Soft alibi still soft. You decide whether our future bargains with Pell or opens toward a returned name. Neither invents a corpse."
+"I'm fine," Nolan said, mid-forties holding, the polish worn off his voice, cufflinks dull for once. "Raid aftermath. Chase. Soft alibi still soft. You decide whether our future bargains with Pell or opens toward a returned name. Neither invents a corpse."
 
 Marcus Pell waited somewhere with supervised silence in a folder. Rhea Quinn's slate still thinned weekly to monthly to gone. Unused perfume still breathed. Wind sheer against lobby glass threw city light as accusation into dawn. Elevator chime trembled. Soft still meant pliable evidence wearing morning.
 

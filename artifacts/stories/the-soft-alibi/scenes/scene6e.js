@@ -1,7 +1,7 @@
 export default {
   id: "scene6e",
   layer: 6,
-  title: "Pell Smells Sandbagging",
+  title: "Quiet Drip",
   text: `Brooks had gone. The door had closed behind her quietly, the way Brooks did everything, and the apartment had held its breath for a while after.
 
 Marcus Pell came back at ten past two.
