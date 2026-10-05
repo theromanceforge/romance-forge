@@ -41,6 +41,15 @@ import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js'
 import { resumeSceneLabel } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
+import {
+  selectWhatIfCards,
+  renderWhatIfMapHtml,
+  renderWhatIfCompactHtml,
+  pathForReplayFrom,
+  saveLastFinished,
+  loadLastFinished,
+  clearLastFinished,
+} from './whatIf.js';
 import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
 import {
   bumpAdsStat,
@@ -283,7 +292,7 @@ function handleGuestPageHide() {
 /** Closing line on the ending screen when a story has no `endingLine` of its own. */
 const DEFAULT_ENDING_LINE = 'Your story ends here — for now.';
 
-/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string }} */
+/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string, whatIf?: Array<{ sceneId: string, choiceIndex?: number, target?: string, tease?: string }> }} */
 const CATALOG = [
   {
     id: 'until-the-quiet-breaks',
@@ -383,7 +392,7 @@ function readStoredStoryId() {
   return CATALOG.find((c) => c.available)?.id || '';
 }
 
-/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _transitioning?: boolean }} */
+/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], whatIfHighlightId: string, auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _pendingWhatIfReplay: null | { sceneId: string, path: string[], highlightId: string }, _transitioning?: boolean }} */
 let state = {
   view: 'landing',
   playerName: '',
@@ -392,6 +401,7 @@ let state = {
   spice: readStoredSpice(),
   storyId: readStoredStoryId(),
   path: [],
+  whatIfHighlightId: '',
   auth: loadPersistedAuthSession(),
   savePromptShown: false,
   savePromptVisible: false,
@@ -400,6 +410,8 @@ let state = {
   authModalTab: 'signin',
   authStatusMessage: '',
   _pendingResume: false,
+  /** @type {null | { sceneId: string, path: string[], highlightId: string }} */
+  _pendingWhatIfReplay: null,
   /** @type {import('./save/record.js').SaveRecord | null} */
   cloudResume: null,
   /** @type {Record<string, { average: number, count: number }>} */
@@ -586,6 +598,25 @@ function renderLanding() {
        </aside>`
     : '';
 
+  const lastFinished = loadLastFinished();
+  const lastFinishedValid =
+    lastFinished &&
+    CATALOG.some((c) => c.id === lastFinished.storyId && c.available);
+  let landingWhatIfHtml = '';
+  if (lastFinishedValid) {
+    const finishedStory = getStory(lastFinished.storyId);
+    const finishedEntry = catalogEntry(lastFinished.storyId);
+    const compactCards = selectWhatIfCards(finishedStory, lastFinished.path, {
+      spice: lastFinished.spice === 'hot' ? 'hot' : 'warm',
+      max: 2,
+      overrides: Array.isArray(finishedEntry?.whatIf) ? finishedEntry.whatIf : undefined,
+    });
+    landingWhatIfHtml = renderWhatIfCompactHtml(compactCards, {
+      escapeHtml,
+      storyTitle: entryTitleFor(lastFinished.storyId),
+    });
+  }
+
   const pickerHtml = `
         <fieldset class="story-picker cover-picker" data-testid="story-picker">
           <legend>Choose a story <span class="req" aria-hidden="true">*</span></legend>
@@ -659,6 +690,7 @@ function renderLanding() {
       <div class="landing-room" aria-hidden="true"></div>
       ${forgeStripHtml}
       ${landingSavePromptHtml}
+      ${landingWhatIfHtml}
       <section class="cover-hero" aria-labelledby="story-heading" data-testid="start-reading">
         <div class="cover">
           <span class="cover-spine" aria-hidden="true"></span>
@@ -820,10 +852,22 @@ function renderReader() {
       })
     : '';
 
+  const whatIfOverrides = catalogEntry(state.storyId || defaultStory.id)?.whatIf;
+  const whatIfCards = ending
+    ? selectWhatIfCards(story, state.path, {
+        spice,
+        overrides: Array.isArray(whatIfOverrides) ? whatIfOverrides : undefined,
+      })
+    : [];
+  const whatIfHtml = ending
+    ? renderWhatIfMapHtml(whatIfCards, { escapeHtml })
+    : "";
+
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
          <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
          ${reviewHtml}
+         ${whatIfHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
            Restart
          </button>
@@ -833,16 +877,21 @@ function renderReader() {
       <div class="choices" data-testid="choices" role="group" aria-label="Choices">
         ${choices
           .map(
-            (c) => `
+            (c) => {
+              const highlighted = state.whatIfHighlightId && state.whatIfHighlightId === c.id;
+              const cls = highlighted ? "btn choice choice--what-if-highlight" : "btn choice";
+              return `
           <button
             type="button"
-            class="btn choice"
+            class="${cls}"
             data-action="choose"
             data-choice-id="${c.id}"
             data-testid="choice-${c.id}"
-          >${escapeHtml(getChoiceText(c, spice))}</button>`
+            ${highlighted ? "aria-description=\"Road not taken — suggested replay\"" : ""}
+          >${escapeHtml(getChoiceText(c, spice))}</button>`;
+            }
           )
-          .join('')}
+          .join("")}
       </div>
       <button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
         Restart
@@ -987,6 +1036,48 @@ function escapeHtml(str) {
 
 const MOMENTUM_MS = 240;
 
+/** One-shot: after a what-if replay render, scroll/focus the highlighted choice. */
+let _pendingWhatIfFocus = false;
+
+function requestWhatIfHighlightFocus() {
+  _pendingWhatIfFocus = true;
+}
+
+/**
+ * After render, bring .choice--what-if-highlight into view (centered) and focus it.
+ * Instant scroll only (no smooth) so prefers-reduced-motion is respected.
+ * Falls back to scrollTo(0, 0) if the highlight is missing.
+ */
+function scheduleWhatIfHighlightFocus() {
+  if (!_pendingWhatIfFocus) return;
+  _pendingWhatIfFocus = false;
+  const run = () => {
+    const el = /** @type {HTMLElement | null} */ (
+      app.querySelector('.choice--what-if-highlight')
+    );
+    if (!el) {
+      window.scrollTo(0, 0);
+      return;
+    }
+    try {
+      el.scrollIntoView({ block: 'center', inline: 'nearest', behavior: 'auto' });
+    } catch {
+      window.scrollTo(0, 0);
+      return;
+    }
+    try {
+      el.focus({ preventScroll: true });
+    } catch {
+      /* jsdom / inert */
+    }
+  };
+  // Double rAF: wait for layout after momentum → reader swap.
+  requestAnimationFrame(() => {
+    requestAnimationFrame(run);
+  });
+}
+
+
 /**
  * Brief “…” beat, then next scene — keeps spice/story flow moving with no dead air.
  * @param {Partial<typeof state>} partial
@@ -1028,7 +1119,18 @@ function trackViewTransition() {
       sceneId: state.sceneId,
     };
     track('scene_view', props);
-    if (isEnding(scene)) track('story_complete', props);
+    if (isEnding(scene)) {
+      track('story_complete', props);
+      try {
+        saveLastFinished({
+          storyId: state.storyId || defaultStory.id,
+          path: Array.isArray(state.path) ? state.path : [],
+          spice: state.spice === 'hot' ? 'hot' : 'warm',
+        });
+      } catch {
+        /* sessionStorage must never affect rendering */
+      }
+    }
   } catch {
     /* analytics must never affect rendering */
   }
@@ -1065,6 +1167,7 @@ function render() {
   _renderedView = state.view;
   bindEvents();
   trackViewTransition();
+  scheduleWhatIfHighlightFocus();
 }
 
 /**
@@ -1215,27 +1318,37 @@ function bindEvents() {
         err.hidden = true;
         err.textContent = '';
       }
+      const whatIfPending = state._pendingWhatIfReplay;
       const pending = state._pendingResume ? loadGuestSave(state.storyId || defaultStory.id) : null;
       const current = activeStory();
-      const startId =
-        pending?.sceneId && pending.path?.length
+      const usingWhatIf =
+        Boolean(whatIfPending?.sceneId && whatIfPending.path?.length);
+      const startId = usingWhatIf
+        ? whatIfPending.sceneId
+        : pending?.sceneId && pending.path?.length
           ? pending.sceneId
           : current.startSceneId;
-      const startPath =
-        pending?.path?.length
+      const startPath = usingWhatIf
+        ? [...whatIfPending.path]
+        : pending?.path?.length
           ? [...pending.path]
           : [current.startSceneId];
+      const highlightId = usingWhatIf ? whatIfPending.highlightId || '' : '';
       const storyIdForAds = state.storyId || defaultStory.id;
-      // Fresh start (not resume): new playthrough → reset mid/end ad budget.
-      if (!(pending?.sceneId && pending.path?.length)) {
+      // Fresh start (not resume / not what-if replay): reset mid/end ad budget.
+      if (!usingWhatIf && !(pending?.sceneId && pending.path?.length)) {
         resetStoryAdsShown(storyIdForAds);
       }
       track('story_start', {
         storyId: storyIdForAds,
         spice,
         playerName: name,
-        meta: { resume: Boolean(pending?.sceneId && pending.path?.length) },
+        meta: {
+          resume: Boolean(pending?.sceneId && pending.path?.length),
+          whatIfReplay: usingWhatIf,
+        },
       });
+      if (usingWhatIf) requestWhatIfHighlightFocus();
       setState({
         view: 'reader',
         playerName: name,
@@ -1243,7 +1356,9 @@ function bindEvents() {
         sceneId: startId,
         previousSceneId: '',
         path: startPath,
+        whatIfHighlightId: highlightId,
         _pendingResume: false,
+        _pendingWhatIfReplay: null,
         savePromptVisible: false,
       });
     });
@@ -1291,6 +1406,7 @@ function bindEvents() {
           sceneId: nextId,
           previousSceneId: fromId,
           path: nextPath,
+          whatIfHighlightId: '',
         });
       };
 
@@ -1320,10 +1436,105 @@ function bindEvents() {
       const replayId = state.previousSceneId;
       const trimmed = trimPathToScene(state.path, replayId);
       persistGuestProgress({ sceneId: replayId, path: trimmed });
+      // Replay-last skips interstitial ads (no shouldShowInterstitial call).
       advanceWithMomentum({
         sceneId: replayId,
         previousSceneId: '',
         path: trimmed,
+        whatIfHighlightId: '',
+      });
+    });
+  });
+
+  // What-if Replay from here: jump to fork, keep name/spice, highlight alternate.
+  // Intentionally skips interstitial ads (same as replay-last) so cards are not covered.
+  app.querySelectorAll('[data-action="what-if-replay"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (state._transitioning) return;
+      const forkId = btn.getAttribute('data-fork-scene-id');
+      const highlightId = btn.getAttribute('data-highlight-choice-id') || '';
+      if (!forkId) return;
+      const trimmed = pathForReplayFrom(state.path, forkId);
+      persistGuestProgress({ sceneId: forkId, path: trimmed });
+      requestWhatIfHighlightFocus();
+      advanceWithMomentum({
+        sceneId: forkId,
+        previousSceneId: '',
+        path: trimmed,
+        whatIfHighlightId: highlightId,
+      });
+    });
+  });
+
+  app.querySelectorAll('[data-action="dismiss-what-if-compact"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      clearLastFinished();
+      render();
+    });
+  });
+
+  // Landing compact Replay from here — reuse name/spice flow; skip interstitial ads.
+  app.querySelectorAll('[data-action="what-if-replay-landing"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (state._transitioning) return;
+      const finished = loadLastFinished();
+      if (!finished?.storyId || !finished.path?.length) return;
+      const forkId = btn.getAttribute('data-fork-scene-id');
+      const highlightId = btn.getAttribute('data-highlight-choice-id') || '';
+      if (!forkId) return;
+      const trimmed = pathForReplayFrom(finished.path, forkId);
+      const spice =
+        finished.spice === 'hot' || finished.spice === 'warm'
+          ? finished.spice
+          : state.spice === 'hot' ? 'hot' : 'warm';
+      const nameInput = /** @type {HTMLInputElement | null} */ (
+        app.querySelector('[data-testid="name-input"]')
+      );
+      const typedName = (nameInput?.value || state.playerName || '').trim();
+      const err = app.querySelector('[data-testid="start-error"]');
+
+      // Persist fork under selected story for save integrity.
+      state = { ...state, storyId: finished.storyId, spice };
+      persistGuestProgress({ sceneId: forkId, path: trimmed });
+
+      if (!typedName) {
+        if (err) {
+          err.hidden = false;
+          err.textContent = 'Enter your name to replay from this fork.';
+        }
+        nameInput?.focus({ preventScroll: false });
+        nameInput?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        setState({
+          storyId: finished.storyId,
+          spice,
+          _pendingWhatIfReplay: {
+            sceneId: forkId,
+            path: trimmed,
+            highlightId,
+          },
+        });
+        return;
+      }
+
+      track('story_start', {
+        storyId: finished.storyId,
+        spice,
+        playerName: typedName,
+        meta: { whatIfReplay: true, from: 'landing-compact' },
+      });
+      requestWhatIfHighlightFocus();
+      setState({
+        view: 'reader',
+        playerName: typedName,
+        spice,
+        storyId: finished.storyId,
+        sceneId: forkId,
+        previousSceneId: '',
+        path: trimmed,
+        whatIfHighlightId: highlightId,
+        _pendingResume: false,
+        _pendingWhatIfReplay: null,
+        savePromptVisible: false,
       });
     });
   });
@@ -1340,6 +1551,7 @@ function bindEvents() {
           sceneId: activeStory().startSceneId,
           previousSceneId: '',
           path: [],
+          whatIfHighlightId: '',
           savePromptVisible: showPrompt,
           // keep spice + storyId so restart is frictionless
         });
@@ -1656,6 +1868,8 @@ export {
   state,
   setState,
   render,
+  requestWhatIfHighlightFocus,
+  scheduleWhatIfHighlightFocus,
   defaultStory as story,
   getStory,
   STORIES,

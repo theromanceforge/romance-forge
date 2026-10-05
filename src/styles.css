@@ -1230,6 +1230,156 @@ body {
 }
 
 
+/* —— What-if map (ending screen) —— */
+.what-if-map {
+  margin: 1rem 0 1.15rem;
+  padding: 0.95rem 1rem 1.05rem;
+  text-align: left;
+  border: 1px solid rgba(232, 160, 74, 0.28);
+  border-radius: 12px;
+  background: linear-gradient(165deg, rgba(28, 18, 14, 0.92), rgba(12, 9, 8, 0.88));
+  box-shadow: 0 0 28px rgba(232, 160, 74, 0.08);
+}
+
+.what-if-heading {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--amber);
+  letter-spacing: 0.01em;
+}
+
+.what-if-sub {
+  margin: 0 0 0.85rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: rgba(245, 240, 225, 0.78);
+}
+
+.what-if-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.what-if-card {
+  padding: 0.75rem 0.8rem 0.85rem;
+  border-radius: 10px;
+  border: 1px solid rgba(245, 240, 225, 0.12);
+  background: rgba(10, 8, 7, 0.45);
+}
+
+.what-if-chapter {
+  margin: 0 0 0.25rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(232, 160, 74, 0.85);
+  font-family: var(--font-display);
+}
+
+.what-if-tease {
+  margin: 0 0 0.65rem;
+  font-size: 0.98rem;
+  line-height: 1.4;
+  color: var(--parchment);
+  font-family: var(--font-display);
+}
+
+.what-if-replay {
+  width: 100%;
+  justify-content: center;
+}
+
+.btn.choice.choice--what-if-highlight {
+  box-shadow: 0 0 0 2px rgba(232, 160, 74, 0.55), 0 0 22px rgba(232, 160, 74, 0.22);
+  border-color: rgba(232, 160, 74, 0.65);
+}
+
+@media (min-width: 720px) {
+  .what-if-replay {
+    width: auto;
+  }
+}
+
+/* —— What-if compact (landing, post-finish) —— */
+.what-if-compact {
+  margin: 0.65rem 1rem 0.85rem;
+  padding: 0.75rem 0.85rem 0.85rem;
+  border: 1px solid rgba(232, 160, 74, 0.22);
+  border-radius: 12px;
+  background: linear-gradient(165deg, rgba(28, 18, 14, 0.88), rgba(12, 9, 8, 0.82));
+  box-shadow: 0 0 20px rgba(232, 160, 74, 0.06);
+}
+
+.what-if-compact-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.55rem;
+}
+
+.what-if-compact-kicker {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  color: var(--amber);
+}
+
+.what-if-compact-story {
+  margin: 0.15rem 0 0;
+  font-size: 0.8rem;
+  opacity: 0.78;
+  color: var(--parchment);
+}
+
+.what-if-dismiss {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: rgba(245, 240, 225, 0.7);
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.1rem 0.35rem;
+  border-radius: 6px;
+}
+
+.what-if-dismiss:hover,
+.what-if-dismiss:focus-visible {
+  color: var(--amber);
+  background: rgba(232, 160, 74, 0.12);
+  outline: none;
+}
+
+.what-if-list--compact {
+  gap: 0.55rem;
+}
+
+.what-if-card--compact {
+  padding: 0.6rem 0.7rem 0.7rem;
+}
+
+.what-if-card--compact .what-if-tease {
+  font-size: 0.92rem;
+  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 720px) {
+  .what-if-compact {
+    max-width: 42rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+
 /* —— Phase 4: reviews + CS —— */
 .story-card-stars {
   display: block;
