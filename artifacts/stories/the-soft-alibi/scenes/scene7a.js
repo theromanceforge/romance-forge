@@ -24,9 +24,9 @@ She thought of GM-0417 at 11:58, of hangar nine idle since February, of Fourteen
 
 The V envelope weighed nothing and refused to be light. Pell's terms: if she calls, give her this; if anyone else asks, it doesn't exist. She had not called. Existence remained a tax soft might still refuse to pay.
 
-Nolan came one step closer. Heat without hands. "Thank you for looking," he said. "Now look at the fork. Public method or sealed bargain. I will not choose your mouth for you."
+Nolan came one step closer. Heat without hands. "Thank you for looking," he said. "Now look at what sits between us. Public method or sealed bargain. I will not choose your mouth for you."
 
-[player_name] kept one hand on the file and one hand empty for him, and she did not need a fancy name for it — unfinished was enough, paper and pulse sharing the desk.
+[player_name] kept one hand on the file and one hand empty for him. She did not need a fancy name for it — unfinished was enough, paper and pulse sharing the desk.
 
 Marble under the folders held old wine rings like small planets. [player_name] traced one with a fingernail and thought of every night soft had pretended rings were only domestic.
 
@@ -34,7 +34,7 @@ Marble under the folders held old wine rings like small planets. [player_name] t
 
 Nolan's laugh was soft and unhappy. "Everything we touch becomes a scheduled betrayal or a scheduled mercy. I am asking which calendar you can wake up inside."
 
-He told her again about the old silent partner — not dead by his instruction, gone by paperwork, absence purchased and explained as travel until travel became a habit money trusted. Vivienne's thinning could rhyme with that method or mock it. The file refused to pick.
+He told her again about the old silent partner — not dead by his instruction, gone by paperwork. Absence purchased and explained as travel until travel became a habit money trusted. Vivienne's thinning could rhyme with that method or mock it. The file refused to pick.
 
 [player_name] listened with her throat tight. Loving him meant loving a man who knew how to make someone vanish from a record. Wanting him meant wanting that knowledge in the room with her mouth.
 
@@ -111,7 +111,7 @@ The city threw a rectangle of light across the sealed V as if trying to X-ray it
 
 "Then take my mouth after you choose," Nolan said. He dragged her palm to the front of his trousers so she could feel how choosing had already wrecked him. "Name the method into the weather — or bargain soft into quieter teeth with me still this hard for your conscience."
 
-She stroked him once through wool, wicked and brief, then stopped because finishing would be cheating the fork. Cedar. Toner. Pulse. Soft held the envelope like a third breastbone and shook.
+She stroked him once through wool, wicked and brief, then stopped because finishing would be cheating the morning. Cedar. Toner. Pulse. Soft held the envelope like a third breastbone and shook.
 
 He kissed her finally — deep, short, a sample size that made her chase his bottom lip when he pulled away. "That was not the decision," Nolan said. "That was interest on the debt. Pay principal."
 
@@ -123,7 +123,7 @@ She hooked a finger in his waistband and held on without pulling. "If I go publi
 
 "If you bargain with Pell, I need you not to punish me with purity," Nolan said. "Soft does not get to be a saint in my kitchen. Soft gets to be honest while I am aching."
 
-Honesty was a high bar with her thighs open against his and the V envelope trapped between their chests like a chaperone made of paper. She kissed the scar on his jaw because she could reach it. He shuddered. The fork remained: name the absence method into weather, or seal soft into quieter teeth with Pell as priest. She had not spoken the election aloud. Her body kept running ads for both candidates.`,
+Honesty was a high bar with her thighs open against his and the V envelope trapped between their chests like a chaperone made of paper. She kissed the scar on his jaw because she could reach it. He shuddered. What remained: name the absence method into weather, or seal soft into quieter teeth with Pell as priest. She had not spoken the election aloud. Her body kept running ads for both candidates.`,
   choices: [
       {
           "id": "scene8a",

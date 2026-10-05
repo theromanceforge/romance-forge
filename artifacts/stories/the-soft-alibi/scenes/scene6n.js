@@ -65,7 +65,7 @@ Outside, a siren far below rose and fell without entering their story. Crownspir
 Nolan nodded once toward the pages. "Inquiry or file. I will follow you through either door. I will not pretend either door is kind."
 
 
-[player_name] picked the memo up again and read the routing codes aloud, slow, as if pronunciation could make them less sharp. Nolan listened without interrupting. When she finished, she set the pages under a glass paperweight shaped like a small obsidian cube — the kind of object rich men kept to prove their hands could be still.
+[player_name] picked the memo up again and read the routing codes aloud, slow, as if pronunciation could make them less sharp. Nolan listened without interrupting. When she finished, she set the pages under a glass paperweight shaped like a small obsidian cube. The kind of object rich men kept to prove their hands could be still.
 
 "Inquiry means I stop pretending the hallway was private," she said. "File means I stop pretending paper cannot bleed. Both mean Friday arrives either way."
 
@@ -78,7 +78,7 @@ Nolan stepped back to give her air and somehow the space made her want him close
 "Choose," he said, gentler than the memo. "I am done inventing your answer."`,
   textHot: `The badge number arrived on letterhead, and [player_name]'s body treated it like a hand on her throat.
 
-GM-0417. Freight door. Eleven fifty-eight. Vivienne's last night. She read it in a side office while Nolan Greer watched her from the window, and every line made her pulse slam lower, fear and want braided so tight she could not tell them apart.
+GM-0417. Freight door. Eleven fifty-eight. Vivienne's last night. She read it in a side office while Nolan Greer watched her from the window. Every line made her pulse slam lower, fear and want braided so tight she could not tell them apart.
 
 "Internal shadow," Nolan said. He crossed to her. "Not Brooks. Board stationery. Inquiry will name your closeness if this memo ripens. Or we spend the silent-partner file before the number spends us."
 
@@ -114,7 +114,7 @@ She arched. His fingers pressed. Not inside — not yet — just relentless pres
 
 [player_name] grabbed his wrist and hated how close she was to begging. Letterhead stuck to her damp palm. Soft alibi had board-level enemies and a man who could ruin her with stillness.
 
-He waited with his thigh tight between hers and GM-0417 face-up on the desk, and she still had not chosen which pressure got her next breath.
+He waited with his thigh tight between hers and GM-0417 face-up on the desk. She still had not chosen which pressure got her next breath.
 
 She pulled his mouth back to hers because stillness was worse than scandal. He kissed her like letterhead could be rewritten by teeth. When he broke away, a string of breath stayed between them, fragile and filthy.
 

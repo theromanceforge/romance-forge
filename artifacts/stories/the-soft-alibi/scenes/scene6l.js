@@ -68,7 +68,7 @@ She looked at his mouth, at the cufflink, at the closed east-room door. The wate
 
 She was still angry. She was still close enough to smell his cologne. The fight had not finished, and neither had the wanting that had started it.
 
-"Say something that is not a fork," [player_name] said.
+"Say something that is not two doors," [player_name] said.
 
 Nolan laughed once, unhappy. "I want you to stay. I want you safe. Those two wants are at war, and you are standing in the kitchen where they meet."
 
@@ -137,11 +137,11 @@ His hand slid from her hip to the bare skin above her knee, fingers spanning war
 
 Neither word was a decision yet. Both were a hand on a doorknob.
 
-She was furious and soaked and unfinished. The fridge hummed at her back. His cufflink dug into her shoulder where his wrist had turned. Wine-ring light trembled on the ceiling. She had not chosen, and her body kept voting against leaving, and he waited with his thigh tight between hers and the fight still hot in both their mouths.
+She was furious and soaked and unfinished. The fridge hummed at her back. His cufflink dug into her shoulder where his wrist had turned. Wine-ring light trembled on the ceiling. She had not chosen. Her body kept voting against leaving. He waited with his thigh tight between hers and the fight still hot in both their mouths.
 
 "Say something that is not a strategy," [player_name] said against his mouth.
 
-Nolan's laugh came out broken. "I want you to stay. I want you safe. I want to fuck the fight out of you against this fridge and I want Brooks to vanish and I cannot have all of that, so I am asking you to choose which hunger we feed first."
+Nolan's laugh came out broken. "I want you to stay. I want you safe. I want to fuck the fight out of you against this fridge. I want Brooks to vanish. I cannot have all of that, so I am asking you to choose which hunger we feed first."
 
 She nodded, forehead to his, cunt aching around the absence of him. That honesty was worse than the argument. It left her wetter. It left her still deciding.
 

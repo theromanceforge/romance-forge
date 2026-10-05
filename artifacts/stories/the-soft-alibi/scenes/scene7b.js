@@ -8,7 +8,7 @@ Nolan Greer stood in [player_name]'s apartment across the hall with the unnamed 
 
 "You unlocked my drawer," Nolan said. Cufflinks absent tonight, charm raw. "You kept one night unnamed. Black car too long at the curb. Bag by a door. Perfume capped mid-exit. I found the gap because soft is still a story, and stories leave holes money can feel."
 
-[player_name] did not invent a corpse. She had only refused to inventory what she saw — the night Vivienne's cadence might have tipped from monthly toward gone, the night that might still be travel or staging or something colder. Soft meant pliable; withheld meant she still owned one private truth. Now he owned the knowledge that she had withheld it.
+[player_name] did not invent a corpse. She had only refused to inventory what she saw — the night Vivienne's cadence might have tipped from monthly toward gone. The night that might still be travel or staging or something colder. Soft meant pliable; withheld meant she still owned one private truth. Now he owned the knowledge that she had withheld it.
 
 Wine rings on her marble looked like exhibits. Somewhere below, Rhea's slate still carried thinning marks. Pell would have preferred she invent nothing. Across twelve steps, his penthouse held silent-partner paper and unused perfume she should not know, and a sealed V she had not opened.
 
@@ -30,7 +30,7 @@ She poured water neither of them drank. The glass clicked on marble too loud.
 
 Nolan nodded. "I am not Brooks. I am not Pell. I am the man who crossed twelve steps because your silence started sounding like a door I used to own keys to."
 
-He described what he had reconstructed without her confession: idle time on the curb camera, a fragrance trail in the freight bay, Vivienne's absence shifting from schedule to weather. Close. Not complete. The gap was the missing hinge.
+He described what he had reconstructed without her confession: idle time on the curb camera, a fragrance trail in the freight bay. Vivienne's absence shifting from schedule to weather. Close. Not complete. The gap was the missing hinge.
 
 [player_name] listened and felt seen in a way that was intimacy and indictment together.
 
@@ -64,7 +64,7 @@ Outside, Crownspire's wind sheer made a low continuous note against her window. 
 
 She thought of Fourteen Calloway, of hangar manifests, of Delivered written like a blessing. The gap was smaller than those maps and somehow heavier. Witness weight. Mistress weight. Soft weight.
 
-"Stay," [player_name] said, which was not yet speak and not yet burn, only the refusal to send him back across twelve steps while the hour still kicked in her throat.
+"Stay," [player_name] said, which was not yet speak and not yet burn. Only the refusal to send him back across twelve steps while the hour still kicked in her throat.
 
 He stayed. The decision above staying still waited, bright as a wire.`,
   textHot: `Gap heat meant Nolan already inside [player_name]'s apartment, mid-forties body too close, soft alibi throbbing around the unnamed night he had mapped anyway.
@@ -83,7 +83,7 @@ She backed into the counter and he followed until her spine found edge and his t
 
 "Brooks would call this obstruction," [player_name] gasped. "Pell would call speech reckless."
 
-"I call it your mouth deciding whether I get to taste the night with you," Nolan said, and bit softly at her lower lip without taking a full kiss.
+"I call it your mouth deciding whether I get to taste the night with you," Nolan said. He bit softly at her lower lip without taking a full kiss.
 
 He recited his reconstruction against her throat — curb time, freight perfume, schedule becoming weather — and every accurate piece made her wetter, ashamed and electric. Seen. Indicted. Wanted.
 
@@ -103,7 +103,7 @@ She cracked the window. Cold air licked her throat where his mouth had been hove
 
 "The bag was small," [player_name] heard herself say, then bit her tongue. Nolan froze — good hunter — hips still pressed to hers, hand still under her skirt, not advancing on the fragment like a fool.
 
-"Small bag," he repeated against her cheek, reverent and filthy. "Long idle. Perfume capped. I can fuck the edges while you decide whether edges become a whole night under me or ash you wash off your hands while I watch."
+"Small bag," he repeated against her cheek, reverent and filthy. "Long idle. Perfume capped. I can fuck the edges while you decide whether edges become a whole night under me. Or ash you wash off your hands while I watch."
 
 Future Brooks-knock energy buzzed the floorboards. Soft had survived public circles; the gap was last private heat. Speech would open it into his mouth. Fire would close it into a shared sin of kindness.
 
@@ -113,7 +113,7 @@ Future Brooks-knock energy buzzed the floorboards. Soft had survived public circ
 
 Almost filled the kitchen. His hand cupping her wet heat through cotton. Her confession half-born. Speak-to-bed or burn-to-quiet. Soft gripping both matches with shaking thighs.
 
-Wind sheer hummed the glass. [player_name] hopped fully onto the counter and hooked her ankles behind Nolan's back, skirt hiked, cotton damp against his abdomen where his shirt had come untucked.
+Wind sheer hummed the glass. [player_name] hopped fully onto the counter and hooked her ankles behind Nolan's back. Skirt hiked. Cotton damp against his abdomen where his shirt had come untucked.
 
 "Bed means I fuck the hour into language with you," she said. "Burn means I wash it off and let you hold an amnesiac on purpose."
 
@@ -131,7 +131,7 @@ The stool rattled when [player_name]'s heel kicked it. Nolan caught the seat wit
 
 "I am trying to catch you without forcing the hour," Nolan said. "That requires more grace than cufflinks."
 
-She laughed and then moaned when his knuckle found a better angle. Soft alibi in her own kitchen, gap kicking, Brooks somewhere below turning missing into colder paper. Speak-into-bed meant she would say the curb idle and the small bag and the capped perfume while he was inside her or about to be. Burn meant she would carry him to the sink and wash the almost-confession off her hands while he watched and stayed hard and hurt with her on purpose.
+She laughed and then moaned when his knuckle found a better angle. Soft alibi in her own kitchen, gap kicking, Brooks somewhere below turning missing into colder paper. Speak-into-bed meant she would say the curb idle and the small bag and the capped perfume while he was inside her or about to be. Burn meant she would carry him to the sink and wash the almost-confession off her hands while he watched. He would stay hard and hurt with her on purpose.
 
 "Grace is not what my body wants," [player_name] said.
 

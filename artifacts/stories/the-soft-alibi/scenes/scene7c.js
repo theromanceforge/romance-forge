@@ -4,7 +4,7 @@ export default {
   title: "Second Address",
   text: `Second address arrived at marble-dawn like a paper trail with manners.
 
-Fourteen Calloway Mews — inland coordinates Rhea's burned ash had half-named, Pell's traveling language had half-denied, and Detective Imani Brooks would call a search map if [player_name] widened it. Printouts on Nolan Greer's wine-ringed marble. Crownspire wind throwing city light as accusation.
+Fourteen Calloway Mews — inland coordinates Rhea's burned ash had half-named, Pell's traveling language had half-denied. Detective Imani Brooks would call a search map if [player_name] widened it. Printouts on Nolan Greer's wine-ringed marble. Crownspire wind throwing city light as accusation.
 
 "This is not a body," Nolan said. Cufflinks still. Charm tired. "It is a second door inland. Soft still means we do not invent which fate walked through it. Soft also means you choose whether Crownspire stays the only name on the map."
 
@@ -40,7 +40,7 @@ East room still closed without a warrant. Second level still holding whatever No
 
 "It frightens me too," Nolan said. "Fear is not a reason to keep the map small if the truth got in a car."
 
-He showed her a second sheet: parcel records, a utility alias that might be nothing, a note in Pell's hand that said support housing without saying for whom. Soft alibi read the euphemism and felt sick with possibility — leave, pay, stage, or worse, all still open.
+He showed her a second sheet: parcel records, a utility alias that might be nothing. A note in Pell's hand that said support housing without saying for whom. Soft alibi read the euphemism and felt sick with possibility — leave, pay, stage, or worse, all still open.
 
 "Speaking the night first might make Calloway irrelevant," [player_name] said. "Or it might make Calloway the next sentence after the night."
 
@@ -52,7 +52,7 @@ Marble held their reflections over toner. Map or confession. Second door or firs
 
 "If we drive inland, we do it without Pell in the car," she said. "If I speak the night, we do it without maps on the bed."
 
-"Agreed," Nolan said. "No fixer as chaperone. No toner as third lover. Clean forks only."
+"Agreed," Nolan said. "No fixer as chaperone. No toner as third lover. Clean roads only."
 
 He brushed a curl behind her ear with oddly domestic care. Soft nearly broke from that alone. Crime-romance lived in cufflink ticks and also in tiny tendernesses that made Friday feel unfair.
 
@@ -101,7 +101,7 @@ Dawn thickened toward full morning while they stood locked at the marble. [playe
 
 "I keep picturing the Mews door," she said. "Paint color I do not know. Mail slot that once ate a letter meant for me by mistake. If we widen, I will put my hands on that door with your heat still on my neck."
 
-"If you speak," Nolan said, kissing the words into her skin without granting a full kiss, "I will put my mouth on every hour you hid before either of us drives inland. Soft can have map or confession. Soft cannot have my patience forever while you drip for both."
+"If you speak," Nolan said, kissing the words into her skin without granting a full kiss. "I will put my mouth on every hour you hid. Before either of us drives inland. Soft can have map or confession. Soft cannot have my patience forever while you drip for both."
 
 She laughed once, wrecked. Toner smudged her thumb. His thigh pressed up. The second address glowed. The night-truth glowed harder. She still had not said which light she would walk into.
 
@@ -123,7 +123,7 @@ Microwave clock glowed early numbers. [player_name] hated phones, loved his hand
 
 "Inland drive without Pell in the car," she said around his fingertips. "Night-speech without maps on the sheets."
 
-"Clean forks," Nolan agreed, voice ruined. "No fixer chaperone. No toner threesome."
+"Clean roads," Nolan agreed, voice ruined. "No fixer chaperone. No toner threesome."
 
 He tucked her hair behind her ear and she nearly came from tenderness alone, which was humiliating and perfect. Soft greedy for map and confession both.
 

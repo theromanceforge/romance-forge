@@ -28,7 +28,7 @@ Nolan's cufflinks clicked once — gratitude or ownership, hard to tell in fluor
 
 "Halden Row," Brooks said mildly. "Silent partner since last spring. Zurich wire. Hotel holds he signed. You want to shield all of that with your body language in a lobby?"
 
-"I want to shield a man from being convicted by optics before anyone knows whether his wife left, got paid, died, or is staging her absence," [player_name] said. "Four questions. Zero settled answers. Soft is not pink. Soft is pliable evidence refusing to pretend it is a corpse."
+"I want to shield a man from being convicted by optics," [player_name] said. "Before anyone knows whether his wife left, got paid, died, or is staging her absence." "Four questions. Zero settled answers. Soft is not pink. Soft is pliable evidence refusing to pretend it is a corpse."
 
 Pell almost looked proud. She hated that.
 
@@ -52,7 +52,7 @@ Rhea slid a key receipt into a drawer and did not meet anyone's eyes. Pell check
 
 [player_name] finally glanced at Nolan. His mouth was a tight line. His eyes were not cold. That was worse.
 
-Wind moved through the lobby doors as someone entered. City air. Real weather. Soft shield still standing. The next step still waited. She had not decided whether reunion or ultimatum came next — only that she had spent herself in public for a man who might still be purchasing silence the old Greer Meridian way: deliverable first, truth later.
+Wind moved through the lobby doors as someone entered. City air. Real weather. Soft shield still standing. The next step still waited. She had not decided whether reunion or ultimatum came next. Only that she had spent herself in public for a man who might still be purchasing silence the old Greer Meridian way. Deliverable first. Truth later.
 
 Pell touched [player_name]'s elbow as the circle loosened — a lawyer's contact, dry and warning. "Public soft has a half-life," he murmured. "Spend it, then move. Reunion or ultimatum. Do not linger in the lobby like a portrait of complicity."
 
@@ -87,7 +87,7 @@ Nolan's cufflink brushed her sleeve as he shifted — accident or claim. Heat sp
 
 "I want four questions unanswered instead of one soft corpse invented for convenience," [player_name] said. "Left. Paid. Dead. Staging. Soft refuses to fake a funeral for your timeline."
 
-Pell's eyes gleamed. She hated the approval. Nolan's breath stirred her hair when he leaned a fraction closer, and she had to lock her knees to keep from leaning back into him in front of God and lobby cameras.
+Pell's eyes gleamed. She hated the approval. Nolan's breath stirred her hair when he leaned a fraction closer. She had to lock her knees to keep from leaning back into him in front of God and lobby cameras.
 
 "I offered you a gray recorder for his office," Brooks said. "Shielding him in public makes me want to offer again."
 
@@ -109,7 +109,7 @@ Brooks almost smiled. "Shield holds today. Tomorrow can still be ultimatum if so
 
 Nolan's hand fell away. The loss made [player_name] bite the inside of her cheek. She glanced at him. Hunger there. Fear there. Want unfinished and daylight-exposed.
 
-Wind entered with a stranger at the doors. [player_name] stayed in the circle with her body humming, shield still up, choice still sharp: reunion heat at the elevator bank, or Brooks's steel after public soft. She had not picked. Her pulse had already filed an opinion against her ribs.
+Wind entered with a stranger at the doors. [player_name] stayed in the circle with her body humming, shield still up, choice still sharp. Reunion heat at the elevator bank, or Brooks's steel after public soft. She had not picked. Her pulse had already filed an opinion against her ribs.
 
 Pell's dry fingers at her elbow made her flinch hotter than they should have. "Public soft has a half-life," he murmured. "Reunion or ultimatum. Do not pose."
 
@@ -129,7 +129,7 @@ She stopped before the fourth step. Hesitation as heat. Cameras as audience. Nol
 
 She turned enough to see Nolan's face fully. The scar on his jaw stood pale. His eyes were dark with a want that had no business surviving badge light. [player_name] felt answering heat crawl up from her belly to her throat.
 
-"If I chase the elevator bank," she said under the lobby murmur, "I am going to put my hands on you where the cameras have to guess."
+"If I chase the elevator bank," she said under the lobby murmur, "I am going to put my hands on you. Where the cameras have to guess."
 
 "If you steel into Brooks," Nolan said, "I am going to spend the night knowing you walked away wet from shielding me."
 

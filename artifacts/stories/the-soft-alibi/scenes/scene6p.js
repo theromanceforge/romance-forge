@@ -4,9 +4,9 @@ export default {
   title: "She Walks",
   text: `She walked.
 
-[player_name] left Detective Imani Brooks's lobby circle and Nolan Greer's reach in one motion that looked like innocence on the cameras and felt like flight in her chest. Soft alibi discarded mid-sentence. Marcus Pell swore softly behind her. Rhea Quinn watched the slate as if walking could be logged in guest ink.
+[player_name] left Detective Imani Brooks's lobby circle and Nolan Greer's reach in one motion. It looked like innocence on the cameras and felt like flight in her chest. Soft alibi discarded mid-sentence. Marcus Pell swore softly behind her. Rhea Quinn watched the slate as if walking could be logged in guest ink.
 
-Nolan would have to chase both the silence and her. She heard one cufflink click without turning. Brutal charm could not hold a woman who spent soft as sidewalk wind.
+Nolan would have to chase both the silence and her. She heard one cufflink click without turning. Polish alone could not hold a woman who spent soft as sidewalk wind.
 
 The revolving door breathed city air across her face. Black car idle at the curb like a question she refused to enter. Crownspire's glass threw her reflection back warped and upright. She did not run. Running was a confession. Walking was the softest violence left.
 
@@ -42,11 +42,11 @@ He stepped closer. Five feet. Four. The first kiss had lived on step nine of twe
 
 [player_name] felt hope and dread share the crosswalk signal. Soft had legs, and those legs were tired, and want still lived in her throat when she looked at his mouth.
 
-She had not chosen reunion or gap. She had only walked far enough that choosing would mean turning toward him or turning away again, and the city waited for either with equal indifference.
+She had not chosen reunion or gap. She had only walked far enough that choosing would mean turning toward him or turning away again. The city waited for either with equal indifference.
 
 Traffic shoved past the corner in impatient waves. [player_name] counted three yellow cabs and one town car that was not his before she trusted her voice again.
 
-"If I go back to the elevator bank," she said, "I am choosing you in front of every camera that already thinks it knows what soft means."
+"If I go back to the elevator bank," she said, "I am choosing you in front of every camera. The ones that already think they know what soft means."
 
 "If you keep the gap," Nolan said, "I am choosing to hunt a truth you have decided I have not earned. That is fair. It is also going to wreck me in increments."
 
@@ -81,7 +81,7 @@ She heard him at the corner. Not running — hunting at a civilized pace that so
 
 "Stop," Nolan said.
 
-Her knees went unreliable. She stopped under scaffold drip and turned. Six feet of pavement. His eyes dropped to her mouth, her throat, the rise of her breath, and she knew he could read how walking away had not cooled her.
+Her knees went unreliable. She stopped under scaffold drip and turned. Six feet of pavement. His eyes dropped to her mouth, her throat, the rise of her breath. She knew he could read how walking away had not cooled her.
 
 "You do not invent my exit," [player_name] said.
 

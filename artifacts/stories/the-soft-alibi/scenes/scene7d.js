@@ -30,7 +30,7 @@ He looked at her mouth. She looked at his hands. The briefing paper curled at on
 
 He walked to the glass and back, a short track worn by men who could buy exits and still paced. "Handler means Kessler Field before Brooks. Crownspire-only means we fortify what we can see and accept what we cannot. I will not romanticize either. I will romanticize your mouth if you stand that close again."
 
-She stood that close again on purpose. Briefing over in every way except the paper. Soft pulse loud. The fork looked simple and was not: stay inside the glass name, or spend the returned want on a hangar chase that might finally show who flew messages through plane desks while Vivienne thinned.
+She stood that close again on purpose. Briefing over in every way except the paper. Soft pulse loud. It looked simple and was not. Stay inside the glass name. Or put the returned want on a hangar chase that might finally show who flew messages through plane desks while Vivienne thinned.
 
 [player_name] gathered the fallen printouts eventually, because someone had to remember Friday existed. The paper was warm from the floor and from how long they had ignored it.
 
@@ -91,7 +91,7 @@ She shoved the printouts aside and pulled his mouth down, then stopped a breath 
 
 He paced to the glass with an obvious erection he did not bother to hide from her. Soft war over; body treaty pending. "Handler. Or Crownspire-only. I will not pretty them. I will get on my knees right here if you ask, and I will still need your choice afterward."
 
-She crossed to him and put his hand between her legs over her skirt so he could feel how returned want had soaked the silence war's last dignity. He groaned. Forehead to hers. Briefing dead.
+She crossed to him and put his hand between her legs over her skirt. He could feel how returned want had soaked the silence war's last dignity. He groaned. Forehead to hers. Briefing dead.
 
 "Glass name or hangar chase," [player_name] whispered. "Your hand already knows my vote. My mouth is still catching up."
 
@@ -105,7 +105,7 @@ Neither noun stuck as a decision. Both stuck as sensation. Soft alibi had return
 
 "Decide before I forget how to stop," Nolan said into her mouth's corner. "Glass only — or hangar chase with your taste still on my hand."
 
-She held his wrist where it owned her chest and shook, undecided, gloriously ruined mid-briefing, Friday somewhere outside the glass and irrelevant for one more unfinished breath.
+She held his wrist where it owned her chest and shook, undecided, gloriously ruined mid-briefing. Friday sat somewhere outside the glass, irrelevant for one more unfinished breath.
 
 She gathered printouts on unsteady legs while Nolan watched like the choreography was striptease. Paper warm. Friday real. Her body louder.
 
@@ -121,7 +121,7 @@ Vent-shifted perfume made her whimper. Returned want turned rivalry into fuel. S
 
 Ruined briefing. Intact options. Fortify the tower name or chase a hangar shadow with her taste on his fingers. Soft shaking. Decision unspoken. Silence war over; desire wearing the next uniform and refusing to button it.
 
-She lifted the Kessler diagram with its coffee ring halo and hangar nine in Pell's neat hand, then dropped it because Nolan had put his mouth on her nipple through silk and thinking became optional.
+She lifted the Kessler diagram with its coffee ring halo and hangar nine in Pell's neat hand. Then she dropped it, because Nolan had put his mouth on her nipple through silk and thinking became optional.
 
 "Handler might be only a courier," [player_name] gasped. "Crownspire-only might be elegant wrongness."
 
@@ -135,7 +135,7 @@ Her palm on his heart. His fingers back between her legs. Anger and hunger coexi
 
 Briefing dead. Appetite loud. She chased his mouth and got his jaw. She chased climax and got stillness. Soft laughing once, wrecked, loving the attempt at patience on a man who had none left for hush and almost too much left for her.
 
-She walked the perfume corridor on purpose, let the ghost hit her, walked back with pupils blown and sat astride Nolan's lap in the briefing chair while printouts crackled under her knee.
+She walked the perfume corridor on purpose. Let the ghost hit her. Walked back with pupils blown and sat astride Nolan's lap in the briefing chair while printouts crackled under her knee.
 
 "Crownspire-only is hallway forever," [player_name] said, rolling once so he hissed. "Handler is night sky over the marriage we dented by existing."
 
@@ -143,7 +143,7 @@ She walked the perfume corridor on purpose, let the ghost hit her, walked back w
 
 She ground down slower, cruel with rhythm, perfume and cologne braided. "Interest will hurt."
 
-"Good," Nolan said, biting her collarbone. "Hurt means hush is off the agenda." He lifted her an inch and held her hovering over the hard line of him, skirts pooled, decision suspended in thigh burn and unfinished fucking. "Name the spend. Tower — or chase."`,
+"Good," Nolan said, biting her collarbone. "Hurt means hush is off the agenda." He lifted her an inch and held her hovering over the hard line of him, skirts pooled, decision suspended in thigh burn and unfinished fucking. "Name it. Tower — or chase."`,
   choices: [
       {
           "id": "scene8f",

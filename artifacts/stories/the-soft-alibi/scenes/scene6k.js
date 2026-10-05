@@ -52,7 +52,7 @@ Nolan's jaw tightened. "Did you take it?"
 
 "Good," he said. Then, softer: "Or terrible. I can't tell which kindness you're offering me."
 
-She stood. Ash marked her fingertips gray. He caught her wrist before she could wipe them on her skirt, turned her hand, and looked at the stain as if it were a signature.
+She stood. Ash marked her fingertips gray. He caught her wrist before she could wipe them on her skirt. He turned her hand and looked at the stain as if it were a signature.
 
 "Rhea has a brass key on her wrist," he said. "I've seen it when she reaches for the slate. Pell holds a penthouse key he pretends is only for emergencies. Between those two metals, a lot of doors open without my name on the log."
 
@@ -84,11 +84,11 @@ Nolan released [player_name]'s wrist slowly. His thumb left a clean streak throu
 
 He waited with ash on his cuff and heat still in the grate, and nothing between them finished.
 
-She wiped nothing off. She wanted the gray visible when she walked upstairs — a reminder that soft cover had a smell now, and that smell was fire Rhea had chosen without asking either of them.
+She wiped nothing off. She wanted the gray visible when she walked upstairs — a reminder that soft cover had a smell now. That smell was fire Rhea had chosen without asking either of them.
 
 "If we go to Brooks," [player_name] said, "I take the sleeve and I stop protecting your silence."
 
-"If we go to the hangar," Nolan said, "you walk into a plane that still has her name on the manifest and my want on your mouth."
+"If we go to the hangar," Nolan said, "you walk into a plane that still has her name on the manifest. And my want on your mouth."
 
 Neither sentence was fair. Both were true. The grate ticked as it cooled. She still had not chosen.`,
   textHot: `The grate still held heat, and so did she.
@@ -99,13 +99,13 @@ Neither sentence was fair. Both were true. The grate ticked as it cooled. She st
 
 "I know," [player_name] said.
 
-A corner of ink survived in the soot. Capital R. Beside it, the curve of an E or an F. Her pulse kicked hard enough that she felt it in her throat and lower, a stupid hot answer to paper that should not have made her wet.
+A corner of ink survived in the soot. Capital R. Beside it, the curve of an E or an F. Her pulse kicked hard enough that she felt it in her throat and lower. A stupid hot answer to paper that should not have made her wet.
 
 Nolan's hand settled at her waist as he leaned in to see. His thumb found the seam of her skirt and stayed there, warm, not asking yet.
 
 "Rhea," he murmured. "Or a name she burned to protect."
 
-[player_name]'s thighs tightened. Ash, badge numbers, Friday deadlines — and still her body tracked the press of his hip against her back like the only true inventory in the corridor.
+[player_name]'s thighs tightened. Ash, badge numbers, Friday deadlines. And still her body tracked the press of his hip against her back like the only true inventory in the corridor.
 
 "Lieutenant Rasmussen wants a name by Friday," she said. Her voice came out thinner than she meant. "This ash makes me look like the softest one to pick."
 
@@ -155,7 +155,7 @@ Footsteps above. Soft. Rhea, maybe. Nolan still did not step away. He dragged hi
 
 [player_name] held his shirt in both fists. Ash on her mouth. Heat in the grate and under her skirt. She had not decided, and her body was already voting, and he waited with his thigh tight between hers and the soot still warm.
 
-She did not wipe the ash off. She wanted him to see it on her when she chose — soot as a second lipstick, proof that soft had burned and she had put her hands in it anyway.
+She did not wipe the ash off. She wanted him to see it on her when she chose — soot as a second lipstick. Proof that soft had burned and she had put her hands in it anyway.
 
 "Brooks gets the sleeve if I harden," [player_name] said, voice rough. "Your silence stops being mine to keep."
 
@@ -163,7 +163,7 @@ She did not wipe the ash off. She wanted him to see it on her when she chose —
 
 The grate ticked as it cooled. She was soaked and undecided, and he waited like a man who would not survive either answer clean.
 
-Rhea's footsteps faded. Nolan still held her. [player_name] could feel his heartbeat against her ribs, too fast, matching hers. Soft had never been gentle. Soft had been this: ash on her tongue and a man who might have purchased absence before, asking her to choose which fire got her next hour.`,
+Rhea's footsteps faded. Nolan still held her. [player_name] could feel his heartbeat against her ribs, too fast, matching hers. Soft had never been gentle. Soft had been this: ash on her tongue and a man who might have purchased absence before. He was asking her to choose which fire got her next hour.`,
   choices: [
       {
           "id": "scene7e",

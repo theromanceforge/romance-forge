@@ -4,7 +4,7 @@ export default {
   title: "Raid Planning",
   text: `Dawn made the conference glass look honest, which was a lie Crownspire told well.
 
-[player_name] sat at the narrow table in Nolan Greer's private office with Marcus Pell across from her and Nolan standing, refusing the third chair as if sitting would make the raid real. Maps of Kessler Field lay open beside a printed badge log. GM-0417 glowed in cheap toner at 11:58 p.m. on Vivienne's last recorded night in the building.
+[player_name] sat at the narrow table in Nolan Greer's private office with Marcus Pell across from her. Nolan stood, refusing the third chair as if sitting would make the raid real. Maps of Kessler Field lay open beside a printed badge log. GM-0417 glowed in cheap toner at 11:58 p.m. on Vivienne's last recorded night in the building.
 
 "Hangar nine," Pell said. About sixty, fixer-calm, a penthouse key somewhere on the same ring as his car fob. "Lease held by Halden Row LLC. Jet inside unused since February. Manifest reads V. GREER. Second seat blank. Brooks can get a warrant by Thursday if Rasmussen keeps leaning."
 
@@ -16,7 +16,7 @@ Pell almost smiled. "That depends on whether soft remains useful."
 
 The word soft landed like a hand on her throat. Neighbor-mistress as operational variable. Across-the-hall heat translated into risk language.
 
-"Hold the soft story through the raid," Pell continued, tapping the badge line. "You were with Nolan. You heard nothing. You saw nothing at the freight door. We keep Brooks outside the narrative long enough to see what the hangar still holds — plane-desk residue, fuel logs, whether anyone else has a key besides Rhea's brass and mine."
+"Hold the soft story through the raid," Pell continued, tapping the badge line. "You were with Nolan. You heard nothing. You saw nothing at the freight door. We keep Brooks outside the narrative long enough to see what the hangar still holds — plane-desk residue, fuel logs. Whether anyone else has a key besides Rhea's brass and mine."
 
 "Rhea burned a guest page," [player_name] said. "Ash still showed an R."
 
@@ -24,7 +24,7 @@ The word soft landed like a hand on her throat. Neighbor-mistress as operational
 
 Nolan's cufflinks stayed still for once. "And the other option she has?"
 
-Pell looked at [player_name], not at him. "Go public enough that politics burn him clean or dirty. Press. Board. A neighbor who stops being quiet. Inquiry follows either way if you stay in frame — but public heat can also force Brooks to move before she is ready, which sometimes saves the man she wants to cage."
+Pell looked at [player_name], not at him. "Go public enough that politics burn him clean or dirty. Press. Board. A neighbor who stops being quiet. Inquiry follows either way if you stay in frame. But public heat can also force Brooks to move before she is ready, which sometimes saves the man she wants to cage."
 
 [player_name] felt Nolan's attention like warmth on the side of her face. "You are asking me to choose whether I remain his soft story or become the match."
 
@@ -58,7 +58,7 @@ Wind moved against the glass. The badge printout fluttered at the corner. [playe
 
 Dawn was already too bright for undecided people. She still had not picked which story she would carry onto the tarmac.
 
-Pell gathered the maps with tidy fingers. "I will have a car at the south gate in forty minutes either way. Soft through the raid means you ride with Nolan and you keep Brooks's name out of your mouth until we know what the jet still holds. Public enough means you ride separately and you place one call I will not script for you."
+Pell gathered the maps with tidy fingers. "I will have a car at the south gate in forty minutes either way. Soft through the raid means you ride with Nolan. You keep Brooks's name out of your mouth until we know what the jet still holds. Public enough means you ride separately and you place one call I will not script for you."
 
 "Will you forgive me if the call burns him?" [player_name] asked.
 
@@ -139,7 +139,7 @@ Nolan's fingers laced through hers under the table and squeezed once, hard enoug
 
 [player_name] squeezed back. Her body was a loud secret in a quiet office. The raid clock ran. She still tasted his jaw on her skin and still had not chosen which story would ride with her onto the field.
 
-Pell left them alone for ninety seconds to take a call in the hall. Nolan used every one. He kissed [player_name] like the raid had already started, hand up her skirt high enough to feel how wet the planning had made her, two fingers pressing over cotton while she muffled a cry against his shoulder. He stopped before she came. He always knew how to leave her ruined and deciding.`,
+Pell left them alone for ninety seconds to take a call in the hall. Nolan used every one. He kissed [player_name] like the raid had already started. His hand went up her skirt high enough to feel how wet the planning had made her. Two fingers pressed over cotton while she muffled a cry against his shoulder. He stopped before she came. He always knew how to leave her ruined and deciding.`,
   choices: [
       {
           "id": "scene7m",
