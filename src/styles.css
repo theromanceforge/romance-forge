@@ -858,26 +858,60 @@ body {
   margin: 0 0 0.75rem;
 }
 
-.spice-chip {
-  display: inline-block;
-  margin-left: 0.35rem;
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 0.1rem 0.45rem;
+.spice-swap {
+  display: inline-flex;
+  align-items: stretch;
+  margin: 0;
+  padding: 2px;
   border-radius: 999px;
+  border: 1px solid rgba(232, 160, 74, 0.35);
+  background: rgba(20, 18, 16, 0.55);
+  gap: 0;
   vertical-align: middle;
 }
 
-.spice-chip.warm {
-  color: var(--amber);
-  background: rgba(232, 160, 74, 0.14);
+.spice-swap-btn {
+  appearance: none;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  color: var(--parchment-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.22rem 0.55rem;
+  border-radius: 999px;
+  line-height: 1.2;
+  cursor: pointer;
+  min-height: 28px;
 }
 
-.spice-chip.hot {
+.spice-swap-btn.is-active {
+  color: var(--amber);
+  background: rgba(232, 160, 74, 0.18);
+}
+
+.spice-swap-btn[aria-pressed="true"] {
+  color: var(--amber);
+  background: rgba(232, 160, 74, 0.18);
+}
+
+.spice-swap-btn[data-spice="hot"].is-active,
+.spice-swap-btn[data-spice="hot"][aria-pressed="true"] {
   color: #f5c070;
   background: rgba(196, 122, 44, 0.32);
+}
+
+.spice-swap-btn:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 1px;
+}
+
+.spice-swap-btn:disabled,
+.spice-swap-btn[aria-disabled="true"] {
+  opacity: 0.45;
+  cursor: not-allowed;
 }
 
 @media (min-width: 640px) {
