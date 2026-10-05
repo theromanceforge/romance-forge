@@ -8,7 +8,7 @@ Rain came in with Henry. Woodsmoke clung to his coat. His umbrella dripped a dar
 
 Behind them, in the dish-pit steam, the night they had just rebuilt still stood. Station steps. Thin coat. Memorized speech. Train. Tears mistaken for rain. Rebuilt without Henry's permission, and now about to learn whether it could survive his face.
 
-John's hand found the small of [player_name]'s back. Not hiding her. Bracing her. Clara hugged menus to her chest hard enough to bend the laminate corners; under them, a receipt with Voss's old exchange number circled in charcoal rode like a fuse. Henry closed the umbrella with the care of a man who had practiced not startling animals or children or truths.
+John's hand found the small of [player_name]'s back. Not hiding her. Bracing her. Clara hugged menus to her chest hard enough to bend the laminate corners. Under them, a receipt with Voss's old exchange number circled in charcoal rode like a fuse. Henry closed the umbrella with the care of a man who had practiced not startling animals or children or truths.
 
 "I thought you should know," Henry said, and the letter's sentence sounded different aloud in a diner that already knew too much. His eyes moved from John to [player_name] to Clara. "I walked down because waiting at Willow felt like another kindness that would harden. May I come in the rest of the way? Or do we do this on the threshold, like people afraid of their own linoleum?"
 
@@ -44,10 +44,10 @@ John leaned his mouth near her ear, his voice for her alone. "Your call. Our nig
 
 Henry didn't step forward. He didn't step back. He waited with the patience of debt and the fear of a man who had written I thought you should know and was about to learn what knowing cost.
 
-Rain drummed the awning. The empty stool creaked, as if Somerton furniture had opinions. Clara pressed the circled Voss receipt into [player_name]'s palm without looking away from Henry. John's hand stayed warm at her back through the wool, and [player_name] drew breath to decide who would speak first before Henry found the voice that turned everything soft.`,
+Rain drummed the awning. The empty stool creaked, as if Somerton furniture had opinions. Clara pressed the circled Voss receipt into [player_name]'s palm without looking away from Henry. John's hand stayed warm at her back through the wool. [player_name] drew breath to decide who would speak first before Henry found the voice that turned everything soft.`,
   textHot: `The blue door stuck, then yielded, and the draft that came in with Henry did nothing to cool what the hall had started.
 
-Rain and woodsmoke entered on his coat. His umbrella dripped onto the mat. Under Clara's bent menus, a receipt with Voss's exchange number circled in charcoal waited for whoever refused soft edges next. [player_name] felt John's hand spread at the small of her back, bracing and claiming, his thumb stroking once at her spine like a secret the threshold wasn't invited to hear.
+Rain and woodsmoke entered on his coat. His umbrella dripped onto the mat. Under Clara's bent menus, a receipt with Voss's exchange number circled in charcoal waited for whoever refused soft edges next. [player_name] felt John's hand spread at the small of her back, bracing and claiming. His thumb stroked once at her spine like a secret the threshold wasn't invited to hear.
 
 The hall still lived in her mouth. The station steps they had rebuilt together. His knee between hers by the dish pit. His hardness admitted and left unfinished when the knock arrived. Now Henry stood in the gap smelling of Willow and fear. Clara hugged the menus hard. The CLOSED sign watched the street. [player_name] was still tender from wanting, and her past was dripping on the linoleum like it had a body.
 

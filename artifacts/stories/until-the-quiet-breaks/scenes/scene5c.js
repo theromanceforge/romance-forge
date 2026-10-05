@@ -36,7 +36,7 @@ He looked at her as if the confession had changed the light on her face and he m
 
 Truth before dawn had its price. There were no blankets, no sleep and no arms around her. There was only the booth, the number and his anger close enough to feel. But nobody would get to soften the truth before morning.
 
-Clara's coat hook by the pass hung empty; she had taken the short walk to Mae's before the curb went under. Up on Willow, woodsmoke would already be rising from Henry's chimney, a man who couldn't sleep while the quiet broke elsewhere.
+Clara's coat hook by the pass hung empty. She had taken the short walk to Mae's before the curb went under. Up on Willow, woodsmoke would already be rising from Henry's chimney, a man who couldn't sleep while the quiet broke elsewhere.
 
 John rose, stiff from the long sit, and checked the front latch. He came back and stood at the booth's edge instead of sitting, as if standing made the next step clearer.
 

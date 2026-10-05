@@ -4,7 +4,7 @@ export default {
   title: "Rain First",
   text: `The rain didn't ask permission to keep them. It simply went on, slate roofs singing, Market Street drowned, the ridge road a rumor of water, until asking John to hold her through it felt less like postponement and more like the only honest weather left in Somerton.
 
-[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had walked to Mae's spare room before the curb drowned, leaving a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
+[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had walked to Mae's spare room before the curb drowned. She left a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
 
 "Hold me through the rain first," she whispered. "Not as forgetting. As surviving until first light. At dawn I'll ask for every unfinished room in the winter story. Tonight I'm asking for your arms before my courage spends itself entirely on paper."
 

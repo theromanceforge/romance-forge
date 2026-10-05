@@ -32,7 +32,7 @@ Clara appeared in the kitchen doorway, charcoal on her fingers, restless honesty
 
 John nodded at his sister without looking away from [player_name]. "Then he can hear this too. We don't decide for the town's comfort. We decide for what we can live with. For what Clara has to draw next. For whether Voss gets to narrate the Shaw name from a distance while we keep borrowing time."
 
-What lived between [player_name] and John was adult and unfinished. Heat under the ribs. The ache of two people who had almost been something and were still learning whether trust could survive the winter that made her leave — including whatever of it they had already named. She stepped closer until her forehead touched his. Rain thickened on the slate.
+What lived between [player_name] and John was adult and unfinished. Heat under the ribs. The ache of two people who had almost been something and were still learning whether trust could survive the winter that made her leave — including what of it they had already named. She stepped closer until her forehead touched his. Rain thickened on the slate.
 
 "Tell me what ending the cover looks like," she whispered.
 

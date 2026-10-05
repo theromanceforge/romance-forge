@@ -34,7 +34,7 @@ She glanced at [player_name], then at her brother, and something fiercely protec
 
 John almost smiled. "You staying upstairs?"
 
-"Not tonight." Clara jerked her chin toward Market Street. "Mae's spare room is two doors from the post office. Ridge road is dead, but I can still walk that far before the curb goes under. Papers are upstairs where the drip can't reach them. Don't soften anything just because the storm makes you feel temporary."
+"Not tonight." Clara jerked her chin toward Market Street. "Mae's spare room is two doors from the post office. Ridge road is dead, but I can walk that far before the curb goes under. Papers stay upstairs, out of the drip. Don't soften anything just because the storm makes you feel temporary."
 
 She locked the back, pulled on her charcoal-smudged coat, and went out into the rain toward Mae's porch light. The diner narrowed again to rain and half-light and two people choosing not to look away.
 
@@ -85,7 +85,7 @@ John almost smiled. "You staying upstairs?"
 
 "Not tonight." Clara jerked her chin toward Market Street. "Mae's spare room. I can walk it before the curb drowns. Papers stay upstairs. Don't soften anything just because the storm makes you feel temporary."
 
-She locked the back, pulled on her coat, and went out toward Mae's porch light. The diner narrowed again to rain and half-light and two people choosing not to look away, and choosing, still, not to take the kiss.
+She locked the back, pulled on her coat, and went out toward Mae's porch light. The diner narrowed again to rain and half-light. Two people choosing not to look away, and choosing, still, not to take the kiss.
 
 John checked the back bolt and slid into the booth. His knee found hers again. "I'm still angry. I'm still glad. Those can sit in the same booth overnight." He nodded at her coat on the hook by the pass. "The letter. Read it aloud. So I hear Henry's careful voice in this room and decide what I ask him tomorrow with my own ears."
 
