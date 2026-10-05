@@ -14,6 +14,7 @@ import {
   CLOUD_AUTH_NOT_CONFIGURED,
   handoffGuestToMockAccount,
   isAuthMockEnabled,
+  isMockAuthAllowed,
   loadPersistedAuthSession,
   MOCK_USER_ID,
   persistAuthSession,
@@ -1569,6 +1570,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="auth-mock-handoff"]').forEach((btn) => {
     btn.addEventListener('click', () => {
+      if (!isMockAuthAllowed()) return; // dev-only; button is not rendered in production
       setAuthMockEnabled(true);
       runMockAccountHandoff();
     });

@@ -36,20 +36,17 @@ export function renderAuthModal(opts) {
   const status =
     statusMessage ||
     (authenticated
-      ? `Signed in${cloudConfigured ? '' : ' (mock)'}.`
+      ? `Signed in${import.meta.env.DEV && !cloudConfigured ? ' (mock)' : ''}.`
       : '');
 
   const lead = cloudConfigured
     ? 'Save your place across devices with a Romance Forge account. No account needed to keep reading.'
     : 'Accounts are coming soon. Keep reading as a guest — your place saves on this browser.';
 
-  const mockHint = cloudConfigured
-    ? mockEnabled
-      ? 'Mock mode on — form submit uses local mock instead of cloud.'
-      : 'Cloud auth ready — sign in with email, or use Demo for a local-only handoff.'
-    : mockEnabled
-      ? 'Mock mode on — form submit creates a local mock session.'
-      : `Default submit shows “${CLOUD_AUTH_NOT_CONFIGURED.split('—')[0].trim()}”. Use Demo for a local handoff.`;
+  // Dev-only demo row (Demo button + mock hints). Reads import.meta.env.DEV
+  // directly (same check as isMockAuthAllowed) so production builds
+  // statically drop renderMockRow and its strings.
+  const mockRowHtml = import.meta.env.DEV ? renderMockRow(mockEnabled, cloudConfigured) : '';
 
   return `
     <div class="auth-modal-backdrop" data-testid="auth-modal" data-action="auth-backdrop" role="presentation">
@@ -128,7 +125,28 @@ export function renderAuthModal(opts) {
           </div>
         </form>
 
-        <div class="auth-mock-row">
+        ${mockRowHtml}
+      </div>
+    </div>
+  `;
+}
+
+/**
+ * Dev-only "Demo: mock account" row. Only reachable when import.meta.env.DEV
+ * (vite dev server); production builds drop this branch.
+ * @param {boolean} mockEnabled
+ * @param {boolean} cloudConfigured
+ * @returns {string}
+ */
+function renderMockRow(mockEnabled, cloudConfigured) {
+  const mockHint = cloudConfigured
+    ? mockEnabled
+      ? 'Mock mode on — form submit uses local mock instead of cloud.'
+      : 'Cloud auth ready — sign in with email, or use Demo for a local-only handoff.'
+    : mockEnabled
+      ? 'Mock mode on — form submit creates a local mock session.'
+      : `Default submit shows “${CLOUD_AUTH_NOT_CONFIGURED.split('—')[0].trim()}”. Use Demo for a local handoff.`;
+  return `<div class="auth-mock-row">
           <button
             type="button"
             class="btn secondary"
@@ -140,10 +158,7 @@ export function renderAuthModal(opts) {
           <p class="auth-mock-hint" data-testid="auth-mock-hint">
             ${mockHint}
           </p>
-        </div>
-      </div>
-    </div>
-  `;
+        </div>`;
 }
 
 /**
