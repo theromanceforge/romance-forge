@@ -14,7 +14,7 @@ Her earpiece was dead. Her pulse wasn't. Behind them, the warehouse raid was tur
 
 Captain Mara Ellison's name already lived in someone's phone two blocks away. Lieutenant Rhee's review would smell the old raid on this whether Will invited it or not. His eyes found [player_name] across the bay. Hungry. Tired. Unfinished.
 
-"You stayed," he said, soft enough that the medic pretended not to hear. "You picked the hospital chair over the chase. I told you wanting you here would make me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram, and a second suspect who ran while I was finding soft words for lightly wounded."
+"You stayed," he said, soft enough that the medic pretended not to hear. "You picked the hospital chair over the chase. I told you that wanting you here would make me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram, and a second suspect who ran while I was finding soft words for lightly wounded."
 
 [player_name] stepped close enough to smell copper and soap. She didn't kiss the blood off his lip in front of the medic. "If you chase tonight—"
 

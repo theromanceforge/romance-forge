@@ -91,7 +91,7 @@ A flatbed rumbled past, headlights cutting Will's scar white. She used it to bre
 
 "A woman in rain with a detective who wants her badly, a captain who wants clearance, and an ME who won't let her lie with a name." Will's charm flickered, then died into honesty. "Owen earned a lean. He hasn't earned a funeral. Different receipts. I can hold both. Question is whether you can."
 
-She thought of Owen's kitchen light, bleach, friends, hands too clean, and the silhouette she'd never stated. Cho had cracked the alibi, not the silhouette. Will's notebook opened under the coat. "Hope means: note the lean, don't move tonight, don't become Ellison's headline. Chase path: call a unit, ask where he was when the debris says he lied. No easy third. And [player_name]—" his gaze dropped to her mouth, shameless "—either way, I'm going to smell like wanting you through the whole damn thing. Budget for that."
+She thought of Owen's kitchen light, bleach, friends, hands too clean, and the silhouette she'd never stated. Cho had cracked the alibi, not the silhouette. Will's notebook opened under the coat. "Hope means: note the lean, don't move tonight, don't become Ellison's headline. Chase means: call a unit, ask where he was when the debris says he lied. No easy third. And [player_name]—" his gaze dropped to her mouth, shameless "—either way, I'm going to smell like wanting you through the whole damn thing. Budget for that."
 
 Rain needled the planks. Will waited with rain in his lashes and want in his silence, and Cho's lean burning in both their pockets.`,
   choices: [

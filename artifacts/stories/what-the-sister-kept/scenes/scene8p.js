@@ -22,7 +22,7 @@ A kid ran past shouting partner at a parent in a silly costume. Will flinched, s
 
 Will nodded past the posters toward the open pier, then toward the city inland, where hospital windows glowed soft and dishonest. "Two dawns. Answer the pier truth-proposal. Not marriage. Not a ring. Not a tidy ending. Truth: what you kept, what I won't spill yet, what we refuse to let the machine write. We stand here and say the hard sentences to each other like a vow the law doesn't recognize. And dawn finds us still on these planks, deciding to leave or stay, with honesty as the only jewelry."
 
-His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into a quieter life together under machines and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
+His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into a quieter life together under hospital light and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
 
 She thought of Will's knuckles, and of the hallway he still wouldn't open. "Proposing truth means choosing us as the first audience," she said.
 

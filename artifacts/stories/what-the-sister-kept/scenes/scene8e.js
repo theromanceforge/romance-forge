@@ -1,7 +1,7 @@
 export default {
   id: "scene8e",
   layer: 8,
-  title: "Widening the Case",
+  title: "The Second File",
   text: `Widening tasted like burnt precinct coffee and a second file Cho wouldn't swear to on a stand yet: thin, provisional, stamped with hedges that still changed the temperature of Harborwick. The fog outside Captain Mara Ellison's west window had thinned into a working morning. The CLEARANCE mug sat empty. The charging memo that had threatened [player_name] with obstruction now lived in a different drawer. Owen Vale had flipped hard under ultimatum weather, and the arrest machinery was engaged.
 
 Will stood at the whiteboard with his notebook open, very still, and drew a line from Owen's pier silhouette to a cousin silence Cho had whispered into the record (second victim pattern, age-range adjacent, harbor traffic, teenagers quieted) without naming anyone among the dead. Dr. Lila Cho's language still ruled the remains upriver: unidentified, pending, consistent with. The silver charm was still only like.

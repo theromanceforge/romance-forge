@@ -1,7 +1,7 @@
 export default {
   id: "scene8g",
   layer: 8,
-  title: "Warehouse Endgame",
+  title: "The Endgame",
   text: `The clerk had a face after all: municipal-small, tired around the eyes, a cigarette from the kiosk by the old fish auction stuck to his lower lip like a confession that hadn't learned grammar yet. Pre-dawn still held the warehouse east of the auction in a soft fist of fog when Will finished the catch without any cinematic kicking. Salt. Rust. Chain-link silvered with wet. A foghorn rolled inland, low enough to feel in the ribs.
 
 [player_name] stayed where Will had put her, behind a frost-latched door frame, flashlight dark, breath controlled by force. She was a sister, not a raid story. Will moved through cold-storage row in working steel, his notebook jammed forgotten in a coat pocket because his hands needed to be empty. The soft approach had become endgame the minute the shredder basket went warm again and the footsteps stopped pretending to be machine noise.
