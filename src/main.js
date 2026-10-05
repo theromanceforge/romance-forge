@@ -897,10 +897,27 @@ function renderReader() {
         Restart
       </button>`;
 
-  const spiceChip =
-    spice === 'hot'
-      ? '<span class="spice-chip hot" data-testid="spice-chip">Hot</span>'
-      : '<span class="spice-chip warm" data-testid="spice-chip">Warm</span>';
+  const hasHotBody = Boolean(scene.textHot);
+  const spiceSwapHtml = `
+        <div class="spice-swap" data-testid="spice-swap" role="group" aria-label="Spice level">
+          <button
+            type="button"
+            class="spice-swap-btn${spice === 'warm' ? ' is-active' : ''}"
+            data-action="set-spice"
+            data-spice="warm"
+            data-testid="spice-swap-warm"
+            aria-pressed="${spice === 'warm' ? 'true' : 'false'}"
+          >Warm</button>
+          <button
+            type="button"
+            class="spice-swap-btn${spice === 'hot' ? ' is-active' : ''}"
+            data-action="set-spice"
+            data-spice="hot"
+            data-testid="spice-swap-hot"
+            aria-pressed="${spice === 'hot' ? 'true' : 'false'}"
+            ${hasHotBody ? '' : 'disabled aria-disabled="true" title="Hot prose unavailable for this scene"'}
+          >Hot</button>
+        </div>`;
 
   const artSrc = assetUrl(getSceneArtPath(state.storyId || defaultStory.id, scene));
   const artAlt = scene.title
@@ -940,8 +957,9 @@ function renderReader() {
         ${scene.title ? `<h1 class="scene-title">${escapeHtml(scene.title)}</h1>` : ''}
         <div class="reader-meta">
           <p class="player-chip" data-testid="player-chip">
-            Playing as ${escapeHtml(state.playerName)} ${spiceChip}
+            Playing as ${escapeHtml(state.playerName)}
           </p>
+          ${spiceSwapHtml}
           ${
             scene.layer
               ? `<p class="layer-progress" data-testid="layer-progress">Chapter ${scene.layer} of 10</p>`
@@ -1143,7 +1161,9 @@ let _revealUntil = 0;
 function render() {
   // Landing re-renders (story / spice pick) replace the whole DOM, which resets
   // the .cover-overlay scroll container and drops focus. Preserve both.
+  // Reader spice swaps re-render in place — keep window scroll + focus on the toggle.
   const stayOnLanding = state.view === 'landing' && _renderedView === 'landing';
+  const stayOnReader = state.view === 'reader' && _renderedView === 'reader';
   const overlay = app.querySelector('.cover-overlay');
   const overlayTop = overlay ? overlay.scrollTop : 0;
   const winY = window.scrollY;
@@ -1161,6 +1181,13 @@ function render() {
     // Async re-renders (readers-say, review stars, auth) resize content above
     // the meter after a story pick; keep it revealed until the reader scrolls.
     if (Date.now() < _revealUntil) revealSpiceMeter();
+  } else if (stayOnReader) {
+    if (window.scrollY !== winY) window.scrollTo(0, winY);
+    if (focusId) {
+      /** @type {HTMLElement | null} */ (
+        app.querySelector(`[data-testid="${focusId}"]`)
+      )?.focus({ preventScroll: true });
+    }
   } else if (state.view === 'reader' && _renderedView === 'landing') {
     window.scrollTo(0, 0);
   }
@@ -1170,11 +1197,6 @@ function render() {
   scheduleWhatIfHighlightFocus();
 }
 
-/**
- * After a story pick, bring the spice choice + Begin into view if hidden.
- * Instant + explicit per scroller (overlay, then window): a smooth nested
- * scrollIntoView gets cut off when an async re-render swaps the overlay.
- */
 function revealSpiceMeter() {
   const meter = app.querySelector('[data-testid="spice-meter"]');
   const begin = app.querySelector('[data-testid="start-btn"]') || meter;
@@ -1226,6 +1248,18 @@ function bindEvents() {
       if (val === 'warm' || val === 'hot') {
         setState({ spice: val });
       }
+    });
+  });
+
+  app.querySelectorAll('[data-action="set-spice"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (btn.hasAttribute('disabled') || state._transitioning) return;
+      const val = btn.getAttribute('data-spice');
+      if (val !== 'warm' && val !== 'hot') return;
+      if (val === state.spice) return;
+      // Same-night spice flip: update shared spice state only — no path/scene
+      // advance, so ads cadence and scene analytics stay untouched.
+      setState({ spice: val });
     });
   });
 
