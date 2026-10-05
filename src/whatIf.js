@@ -302,3 +302,141 @@ export function renderWhatIfMapHtml(cards, helpers) {
       </ul>
     </section>`;
 }
+
+/** sessionStorage key for post-finish compact strip (guest-safe, session only). */
+export const LAST_FINISHED_KEY = 'romanceForge.lastFinished';
+
+/**
+ * @typedef {{
+ *   storyId: string,
+ *   path: string[],
+ *   spice: 'warm' | 'hot' | string,
+ *   finishedAt: number
+ * }} LastFinished
+ */
+
+/**
+ * @param {unknown} value
+ * @returns {value is LastFinished}
+ */
+export function isValidLastFinished(value) {
+  if (!value || typeof value !== 'object') return false;
+  const r = /** @type {Record<string, unknown>} */ (value);
+  return (
+    typeof r.storyId === 'string' &&
+    r.storyId.length > 0 &&
+    Array.isArray(r.path) &&
+    r.path.length >= 2 &&
+    r.path.every((id) => typeof id === 'string') &&
+    (r.spice === 'warm' || r.spice === 'hot' || typeof r.spice === 'string') &&
+    typeof r.finishedAt === 'number'
+  );
+}
+
+/**
+ * @param {Storage | null | undefined} [storage]
+ * @returns {LastFinished | null}
+ */
+export function loadLastFinished(storage) {
+  const store =
+    storage ??
+    (typeof sessionStorage !== 'undefined' ? sessionStorage : null);
+  if (!store) return null;
+  try {
+    const raw = store.getItem(LAST_FINISHED_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    return isValidLastFinished(parsed) ? parsed : null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * @param {{ storyId: string, path: string[], spice?: string, finishedAt?: number }} fields
+ * @param {Storage | null | undefined} [storage]
+ */
+export function saveLastFinished(fields, storage) {
+  const store =
+    storage ??
+    (typeof sessionStorage !== 'undefined' ? sessionStorage : null);
+  if (!store || !fields?.storyId || !Array.isArray(fields.path) || fields.path.length < 2) {
+    return;
+  }
+  const record = {
+    storyId: fields.storyId,
+    path: [...fields.path],
+    spice: fields.spice === 'hot' ? 'hot' : 'warm',
+    finishedAt: typeof fields.finishedAt === 'number' ? fields.finishedAt : Date.now(),
+  };
+  if (!isValidLastFinished(record)) return;
+  try {
+    store.setItem(LAST_FINISHED_KEY, JSON.stringify(record));
+  } catch {
+    /* private mode / quota */
+  }
+}
+
+/**
+ * @param {Storage | null | undefined} [storage]
+ */
+export function clearLastFinished(storage) {
+  const store =
+    storage ??
+    (typeof sessionStorage !== 'undefined' ? sessionStorage : null);
+  if (!store) return;
+  try {
+    store.removeItem(LAST_FINISHED_KEY);
+  } catch {
+    /* ignore */
+  }
+}
+
+/**
+ * Compact landing strip (1–2 cards) after a finished playthrough.
+ * @param {WhatIfCard[]} cards
+ * @param {{ escapeHtml: (s: string) => string, storyTitle?: string }} helpers
+ * @returns {string}
+ */
+export function renderWhatIfCompactHtml(cards, helpers) {
+  const escapeHtml = helpers?.escapeHtml || ((s) => String(s ?? ''));
+  if (!Array.isArray(cards) || cards.length === 0) return '';
+  const title = helpers?.storyTitle ? String(helpers.storyTitle) : '';
+  const items = cards
+    .map(
+      (c) => `
+      <li class="what-if-card what-if-card--compact" data-testid="what-if-card" data-fork-scene="${escapeHtml(c.sceneId)}" data-choice-id="${escapeHtml(c.choiceId)}">
+        ${c.chapterLabel ? `<p class="what-if-chapter" data-testid="what-if-chapter">${escapeHtml(c.chapterLabel)}</p>` : ''}
+        <p class="what-if-tease" data-testid="what-if-tease">${escapeHtml(c.tease)}</p>
+        <button
+          type="button"
+          class="btn secondary what-if-replay"
+          data-action="what-if-replay-landing"
+          data-fork-scene-id="${escapeHtml(c.sceneId)}"
+          data-highlight-choice-id="${escapeHtml(c.choiceId)}"
+          data-testid="what-if-replay"
+        >Replay from here</button>
+      </li>`
+    )
+    .join('');
+
+  return `
+    <aside class="what-if-compact" data-testid="what-if-compact" aria-label="Roads not taken">
+      <div class="what-if-compact-head">
+        <div>
+          <p class="what-if-compact-kicker" data-testid="what-if-compact-kicker">Roads not taken</p>
+          ${title ? `<p class="what-if-compact-story" data-testid="what-if-compact-story">${escapeHtml(title)}</p>` : ''}
+        </div>
+        <button
+          type="button"
+          class="what-if-dismiss"
+          data-action="dismiss-what-if-compact"
+          data-testid="what-if-dismiss"
+          aria-label="Dismiss roads not taken"
+        >&times;</button>
+      </div>
+      <ul class="what-if-list what-if-list--compact" data-testid="what-if-list">
+        ${items}
+      </ul>
+    </aside>`;
+}

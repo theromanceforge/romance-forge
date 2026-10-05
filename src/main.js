@@ -44,7 +44,11 @@ import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js
 import {
   selectWhatIfCards,
   renderWhatIfMapHtml,
+  renderWhatIfCompactHtml,
   pathForReplayFrom,
+  saveLastFinished,
+  loadLastFinished,
+  clearLastFinished,
 } from './whatIf.js';
 import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
 import {
@@ -388,7 +392,7 @@ function readStoredStoryId() {
   return CATALOG.find((c) => c.available)?.id || '';
 }
 
-/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], whatIfHighlightId: string, auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _transitioning?: boolean }} */
+/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], whatIfHighlightId: string, auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _pendingWhatIfReplay: null | { sceneId: string, path: string[], highlightId: string }, _transitioning?: boolean }} */
 let state = {
   view: 'landing',
   playerName: '',
@@ -406,6 +410,8 @@ let state = {
   authModalTab: 'signin',
   authStatusMessage: '',
   _pendingResume: false,
+  /** @type {null | { sceneId: string, path: string[], highlightId: string }} */
+  _pendingWhatIfReplay: null,
   /** @type {import('./save/record.js').SaveRecord | null} */
   cloudResume: null,
   /** @type {Record<string, { average: number, count: number }>} */
@@ -592,6 +598,25 @@ function renderLanding() {
        </aside>`
     : '';
 
+  const lastFinished = loadLastFinished();
+  const lastFinishedValid =
+    lastFinished &&
+    CATALOG.some((c) => c.id === lastFinished.storyId && c.available);
+  let landingWhatIfHtml = '';
+  if (lastFinishedValid) {
+    const finishedStory = getStory(lastFinished.storyId);
+    const finishedEntry = catalogEntry(lastFinished.storyId);
+    const compactCards = selectWhatIfCards(finishedStory, lastFinished.path, {
+      spice: lastFinished.spice === 'hot' ? 'hot' : 'warm',
+      max: 2,
+      overrides: Array.isArray(finishedEntry?.whatIf) ? finishedEntry.whatIf : undefined,
+    });
+    landingWhatIfHtml = renderWhatIfCompactHtml(compactCards, {
+      escapeHtml,
+      storyTitle: entryTitleFor(lastFinished.storyId),
+    });
+  }
+
   const pickerHtml = `
         <fieldset class="story-picker cover-picker" data-testid="story-picker">
           <legend>Choose a story <span class="req" aria-hidden="true">*</span></legend>
@@ -665,6 +690,7 @@ function renderLanding() {
       <div class="landing-room" aria-hidden="true"></div>
       ${forgeStripHtml}
       ${landingSavePromptHtml}
+      ${landingWhatIfHtml}
       <section class="cover-hero" aria-labelledby="story-heading" data-testid="start-reading">
         <div class="cover">
           <span class="cover-spine" aria-hidden="true"></span>
@@ -1051,7 +1077,18 @@ function trackViewTransition() {
       sceneId: state.sceneId,
     };
     track('scene_view', props);
-    if (isEnding(scene)) track('story_complete', props);
+    if (isEnding(scene)) {
+      track('story_complete', props);
+      try {
+        saveLastFinished({
+          storyId: state.storyId || defaultStory.id,
+          path: Array.isArray(state.path) ? state.path : [],
+          spice: state.spice === 'hot' ? 'hot' : 'warm',
+        });
+      } catch {
+        /* sessionStorage must never affect rendering */
+      }
+    }
   } catch {
     /* analytics must never affect rendering */
   }
@@ -1238,26 +1275,35 @@ function bindEvents() {
         err.hidden = true;
         err.textContent = '';
       }
+      const whatIfPending = state._pendingWhatIfReplay;
       const pending = state._pendingResume ? loadGuestSave(state.storyId || defaultStory.id) : null;
       const current = activeStory();
-      const startId =
-        pending?.sceneId && pending.path?.length
+      const usingWhatIf =
+        Boolean(whatIfPending?.sceneId && whatIfPending.path?.length);
+      const startId = usingWhatIf
+        ? whatIfPending.sceneId
+        : pending?.sceneId && pending.path?.length
           ? pending.sceneId
           : current.startSceneId;
-      const startPath =
-        pending?.path?.length
+      const startPath = usingWhatIf
+        ? [...whatIfPending.path]
+        : pending?.path?.length
           ? [...pending.path]
           : [current.startSceneId];
+      const highlightId = usingWhatIf ? whatIfPending.highlightId || '' : '';
       const storyIdForAds = state.storyId || defaultStory.id;
-      // Fresh start (not resume): new playthrough → reset mid/end ad budget.
-      if (!(pending?.sceneId && pending.path?.length)) {
+      // Fresh start (not resume / not what-if replay): reset mid/end ad budget.
+      if (!usingWhatIf && !(pending?.sceneId && pending.path?.length)) {
         resetStoryAdsShown(storyIdForAds);
       }
       track('story_start', {
         storyId: storyIdForAds,
         spice,
         playerName: name,
-        meta: { resume: Boolean(pending?.sceneId && pending.path?.length) },
+        meta: {
+          resume: Boolean(pending?.sceneId && pending.path?.length),
+          whatIfReplay: usingWhatIf,
+        },
       });
       setState({
         view: 'reader',
@@ -1266,7 +1312,9 @@ function bindEvents() {
         sceneId: startId,
         previousSceneId: '',
         path: startPath,
+        whatIfHighlightId: highlightId,
         _pendingResume: false,
+        _pendingWhatIfReplay: null,
         savePromptVisible: false,
       });
     });
@@ -1369,6 +1417,78 @@ function bindEvents() {
         previousSceneId: '',
         path: trimmed,
         whatIfHighlightId: highlightId,
+      });
+    });
+  });
+
+  app.querySelectorAll('[data-action="dismiss-what-if-compact"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      clearLastFinished();
+      render();
+    });
+  });
+
+  // Landing compact Replay from here — reuse name/spice flow; skip interstitial ads.
+  app.querySelectorAll('[data-action="what-if-replay-landing"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (state._transitioning) return;
+      const finished = loadLastFinished();
+      if (!finished?.storyId || !finished.path?.length) return;
+      const forkId = btn.getAttribute('data-fork-scene-id');
+      const highlightId = btn.getAttribute('data-highlight-choice-id') || '';
+      if (!forkId) return;
+      const trimmed = pathForReplayFrom(finished.path, forkId);
+      const spice =
+        finished.spice === 'hot' || finished.spice === 'warm'
+          ? finished.spice
+          : state.spice === 'hot' ? 'hot' : 'warm';
+      const nameInput = /** @type {HTMLInputElement | null} */ (
+        app.querySelector('[data-testid="name-input"]')
+      );
+      const typedName = (nameInput?.value || state.playerName || '').trim();
+      const err = app.querySelector('[data-testid="start-error"]');
+
+      // Persist fork under selected story for save integrity.
+      state = { ...state, storyId: finished.storyId, spice };
+      persistGuestProgress({ sceneId: forkId, path: trimmed });
+
+      if (!typedName) {
+        if (err) {
+          err.hidden = false;
+          err.textContent = 'Enter your name to replay from this fork.';
+        }
+        nameInput?.focus({ preventScroll: false });
+        nameInput?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        setState({
+          storyId: finished.storyId,
+          spice,
+          _pendingWhatIfReplay: {
+            sceneId: forkId,
+            path: trimmed,
+            highlightId,
+          },
+        });
+        return;
+      }
+
+      track('story_start', {
+        storyId: finished.storyId,
+        spice,
+        playerName: typedName,
+        meta: { whatIfReplay: true, from: 'landing-compact' },
+      });
+      setState({
+        view: 'reader',
+        playerName: typedName,
+        spice,
+        storyId: finished.storyId,
+        sceneId: forkId,
+        previousSceneId: '',
+        path: trimmed,
+        whatIfHighlightId: highlightId,
+        _pendingResume: false,
+        _pendingWhatIfReplay: null,
+        savePromptVisible: false,
       });
     });
   });

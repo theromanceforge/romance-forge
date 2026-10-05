@@ -6,8 +6,8 @@ After a reader reaches a Layer 10 ending, show **2–3 “roads not taken”** t
 
 ## Where it appears
 
-- **Must-have:** the ending screen (`ending-block`), below the closing line / review panel and above Restart.
-- Compact landing teaser is optional later; this ship does not invent a post-finish landing state (Restart clears path).
+- **Ending screen** (`ending-block`): below the closing line / review panel and above Restart — full 2–3 card map.
+- **Landing (compact), after finish:** when the reader has just reached an ending, `sessionStorage` key `romanceForge.lastFinished` holds `{ storyId, path, spice, finishedAt }`. The landing shows a compact **Roads not taken** strip (story title + 1–2 cards) below the inline save prompt (if shown) and above the cover/story picker. Dismiss (×) clears the key. Session-only; guest-safe; does not touch auth/cloud saves.
 
 ## Card anatomy
 
@@ -32,7 +32,7 @@ Derived from the reader’s recorded `path[]` (scene ids visited, including star
 
 ## Actions
 
-**Replay from here** trims the save path to the fork scene, keeps **name + spice**, lands on that scene with the alternate choice **highlighted**. The reader can then take it.
+**Replay from here** (ending or landing compact) trims the save path to the fork scene, keeps **name + spice**, lands on that scene with the alternate choice **highlighted**. From the landing strip, if the name field is empty, the existing name flow is reused (prompt → Begin completes the jump). Interstitial ads are skipped on this jump.
 
 ## Spoiler guardrails
 
