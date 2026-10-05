@@ -2,11 +2,11 @@ export default {
   id: "scene8d",
   layer: 8,
   title: "Night Truth Burned",
-  text: `She wrote it all down first. That was the strange part. [player_name] sat at her kitchen table across the hall from Nolan's door and wrote the night Vivienne left on three pages of a legal pad: the black car, the eleven minutes, the small bag, the perfume capped on the steps, the bus that came between them and took the rest.
+  text: `She wrote it all down first. That was the strange part. [player_name] sat at her kitchen table across the hall from Nolan's door and wrote the night Vivienne left on three pages of a legal pad. The black car. The eleven minutes. The small bag. The perfume capped on the steps. The bus that came between them and took the rest.
 
 Then she carried the pages to the sink and struck a match.
 
-Nolan stood in her doorway. He had knocked once, and she had let him in, and now he watched the first page curl at the corner and go brown and then orange. He didn't stop her. His hands stayed in his pockets. His jaw worked once.
+Nolan stood in her doorway. He had knocked once, and she had let him in. Now he watched the first page curl at the corner and go brown and then orange. He didn't stop her. His hands stayed in his pockets. His jaw worked once.
 
 "You're sure," Nolan said.
 
@@ -28,7 +28,7 @@ She washed her hands. Then she washed them again. The soap smelled like lemon. H
 
 "Will they?"
 
-She looked at him. He was so tired. The scar on his jaw looked paler in her kitchen light. He had been hunting the truth about his own wife for a year, and she had just burned three pages of it in front of him.
+She looked at him. He was so tired. The scar on his jaw looked paler in her kitchen light. He had been hunting the truth about his own wife for a year. She had just burned three pages of it in front of him.
 
 "I don't know," she said again. She hated the words. "I burned it because I couldn't stand it existing somewhere I couldn't control. Not because I've decided what to do with it."
 
@@ -40,7 +40,7 @@ Her stomach dropped. "A handler."
 
 "Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. I can find him. But if I go after him, I go tonight, before Pell hears and warns him off. Let me go tonight. Leave your lamp on and your door cracked, and I'll knock when I'm back. I need to know you'll be here."
 
-Her throat tightened. The ash had barely cleared the drain, and already her mouth wanted to say the burned pages out loud anyway — in Crownspire's glass, to anyone who would listen — as if fire had only made the words lighter to carry.
+Her throat tightened. The ash had barely cleared the drain. Already her mouth wanted to say the burned pages out loud anyway — in Crownspire's glass, to anyone who would listen. As if fire had only made the words lighter to carry.
 
 "You'd chase a stranger with a foreign radio through back streets," she said. "Alone."
 
@@ -68,8 +68,8 @@ A flake of ash floated onto the windowsill and stuck there. She crushed it with 
 
 "Your coat's by the door," she said.
 
-"I know," Nolan said. He didn't move toward it. His fingers flexed once under hers, and she felt him wanting to stay, the want running straight up her arm, and she held his hand harder against her ribs so neither of them could pretend it was only hers.`,
-  textHot: `She wrote it all down first, sitting at her kitchen table in nothing but Nolan's shirt, the cotton cool against her bare thighs. [player_name] filled three pages with the night Vivienne left: the black car, the eleven minutes, the small bag, the perfume capped on the steps, the bus that erased the rest.
+"I know," Nolan said. He didn't move toward it. His fingers flexed once under hers. She felt him wanting to stay, the want running straight up her arm. She held his hand harder against her ribs so neither of them could pretend it was only hers.`,
+  textHot: `She wrote it all down first, sitting at her kitchen table in nothing but Nolan's shirt, the cotton cool against her bare thighs. [player_name] filled three pages with the night Vivienne left. The black car. The eleven minutes. The small bag. The perfume capped on the steps. The bus that erased the rest.
 
 Then she carried the pages to the sink and struck a match.
 
@@ -125,7 +125,7 @@ The word went straight between her legs. She was slick and swollen and furious a
 
 He leaned in. His mouth hovered at her temple. She felt his breath move her hair. She turned her face toward him until his lips brushed the corner of hers, not a kiss, just contact, warm and dry and devastating.
 
-She thought of silk folded into a weekend bag — a woman planning to be touched somewhere. The thought sent a strange shiver over her, half grief, half heat, because she was standing in a man's shirt in a kitchen full of smoke wanting exactly that.
+She thought of silk folded into a weekend bag — a woman planning to be touched somewhere. The thought sent a strange shiver over her, half grief, half heat. Because she was standing in a man's shirt in a kitchen full of smoke wanting exactly that.
 
 "What are you thinking?" Nolan asked. His fingers hadn't moved from her chest.
 
@@ -135,7 +135,7 @@ His breath caught against her temple. She felt his hand flex once, the pressure 
 
 Outside, a siren rose two streets over and faded. The tap dripped once into the ash-gray sink.
 
-She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. She didn't let go of his wrist. She didn't pull him closer. She rocked once into his palm, shameless, and felt him shake against her, and kept them both there at that exact distance, his wrist in her fist, his heat in her palm, her mouth still full of the words she had burned.`,
+She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. She didn't let go of his wrist. She didn't pull him closer. She rocked once into his palm, shameless, and felt him shake against her. She kept them both there at that exact distance. His wrist in her fist. His heat in her palm. Her mouth still full of the words she had burned.`,
   choices: [
       {
           "id": "scene9c",

@@ -2,7 +2,7 @@ export default {
   id: "scene8e",
   layer: 8,
   title: "Widen the Search Map",
-  text: `The map covered most of Nolan's dining table: a city transit chart from a newsstand, corners weighed down with a coffee mug, a stapler, and a brass letter opener with Greer Meridian's crest worn smooth. Crownspire was a gray square near the river. Everything [player_name] had lived through for weeks fit inside a circle she could cover with one hand.
+  text: `The map covered most of Nolan's dining table: a city transit chart from a newsstand. Corners weighed down with a coffee mug, a stapler, and a brass letter opener with Greer Meridian's crest worn smooth. Crownspire was a gray square near the river. Everything [player_name] had lived through for weeks fit inside a circle she could cover with one hand.
 
 She moved her hand.
 
@@ -44,7 +44,7 @@ Of course. Pell didn't care whether Vivienne was alive. He cared whether the add
 
 Nolan pulled out the chair beside her and sat, so they were level over the map. "I want you to stop letting Pell decide which addresses are real," Nolan said. "That's all I know tonight."
 
-She traced the line of the ring road with her smudged finger. Pell's offer sat warm and easy in the room, a drawer with a soft-close hinge. Her finger kept moving anyway, past the rail yards, as if it already knew she'd rather carry the map to Brooks herself — the car, the bag, the perfume, the lease — and keep her guesses behind her teeth while the detective drove the forty minutes.
+She traced the line of the ring road with her smudged finger. Pell's offer sat warm and easy in the room, a drawer with a soft-close hinge. Her finger kept moving anyway, past the rail yards. As if it already knew she'd rather carry the map to Brooks herself — the car, the bag, the perfume, the lease. Keep her guesses behind her teeth while the detective drove the forty minutes.
 
 "Have you been out there?" she asked. "To Calloway?"
 
@@ -54,7 +54,7 @@ Nolan was quiet a long time. "I drove past once," Nolan said. "In April. There w
 
 "Because if she was there," Nolan said, "it meant she'd chosen to be somewhere I wasn't. And if she wasn't, it meant someone else had chosen for her." He rubbed his thumb along the scar on his jaw. "I couldn't take either."
 
-She wanted to put her hand over his. She did. His skin was warm and his fingers turned to lace through hers, and the toner on her fingertip left a faint gray print on his knuckle.
+She wanted to put her hand over his. She did. His skin was warm and his fingers turned to lace through hers. The toner on her fingertip left a faint gray print on his knuckle.
 
 "I'm scared of the tower being too small," she said. "And I'm scared of the map being too big."
 
@@ -64,16 +64,16 @@ She wanted to put her hand over his. She did. His skin was warm and his fingers 
 
 "I'd say her name," Nolan said. "You'd say yours. Then we'd find out which of us she was hiding from."
 
-The joke didn't land. Neither of them laughed. She leaned her shoulder into his and felt him lean back, the two of them propping each other up over a sheet of paper that suddenly weighed more than the table.
+The joke didn't land. Neither of them laughed. She leaned her shoulder into his and felt him lean back. The two of them propping each other up over a sheet of paper that suddenly weighed more than the table.
 
 Outside, a delivery truck backed up somewhere below, its warning tone muffled by glass. The light over the table hummed. The map lay between them, creased where it had been folded in someone's newsstand rack.
 
 She counted the stops on the inland line with her eyes. Nine. Nine stations between the river and a door she had never seen. Nine chances to turn around.
 
-She looked at the gray square of Crownspire. She looked at the pencil dot. She thought of the museum stub in the packed bag: a woman who keeps ticket stubs is a woman who goes places and wants to remember them.
+She looked at the gray square of Crownspire. She looked at the pencil dot. She thought of the museum stub in the packed bag. A woman who keeps ticket stubs is a woman who goes places and wants to remember them.
 
 She kept her finger on Calloway until the toner warmed and smeared. She kept her other hand in his. His thumb found the gray print she'd left on his knuckle and rubbed at it, slowly, as if he meant to keep it there.`,
-  textHot: `The map covered most of Nolan's dining table, corners pinned by a coffee mug, a stapler, and a brass letter opener with Greer Meridian's crest worn smooth. [player_name] sat in his chair because he had pulled her into it, and he stood behind her now with both hands on the table edge on either side of her, caging her in warmth. Crownspire was a gray square near the river. Everything she had lived through for weeks fit under one palm.
+  textHot: `The map covered most of Nolan's dining table. Corners pinned by a coffee mug, a stapler, and a brass letter opener with Greer Meridian's crest worn smooth. [player_name] sat in his chair because he had pulled her into it. He stood behind her now with both hands on the table edge on either side of her, caging her in warmth. Crownspire was a gray square near the river. Everything she had lived through for weeks fit under one palm.
 
 She moved her palm. His chest followed the motion, brushing her shoulder blades.
 
@@ -85,7 +85,7 @@ Inland, past the ring road and the rail yards, a pencil dot marked Fourteen Call
 
 "I found it in March." His breath was warm against her neck. "I told myself it was a tax shelter."
 
-She pressed her fingertip to the dot. Cheap toner came off gray on her skin. Behind her, Nolan's hips settled against the chair back, and she felt the hard line of him through the wood and her thin blouse, and her breath went short.
+She pressed her fingertip to the dot. Cheap toner came off gray on her skin. Behind her, Nolan's hips settled against the chair back. She felt the hard line of him through the wood and her thin blouse. Her breath went short.
 
 Everything had been the tower. Lobby, elevator bank, stairwell, twelve steps. Brooks's badge in glass. Pell's office. The hangar, which money owned too. Calloway was not Crownspire. It was somewhere Vivienne might have gone to be nobody.
 
@@ -125,7 +125,7 @@ She covered his hand on her thigh with her free one. She didn't push it higher. 
 
 "Me too," Nolan said into her hair.
 
-His other hand left the table and found her chin, tipping her face back against his shoulder until she was looking up at him upside down, his mouth a breath from hers. She could smell coffee and his skin. Her lips parted.
+His other hand left the table and found her chin. Tipping her face back against his shoulder until she was looking up at him upside down. His mouth a breath from hers. She could smell coffee and his skin. Her lips parted.
 
 "What would we even say?" she asked. "If we knocked."
 
@@ -133,13 +133,13 @@ His other hand left the table and found her chin, tipping her face back against 
 
 The words made her ache. She tipped her chin and brushed her lips against his, a touch without pressure, and felt him shake once behind the chair. She didn't deepen it. She held that almost-kiss the way she held his hand on her thigh: deliberate, hers.
 
-She counted the stops on the inland line with her eyes, nine stations between the river and a door she had never seen, while his thumb waited at the edge of her underwear and her hips tried to tilt toward it on their own.
+She counted the stops on the inland line with her eyes, nine stations between the river and a door she had never seen. His thumb waited at the edge of her underwear. Her hips tried to tilt toward it on their own.
 
 She thought of the museum stub in the packed bag. A woman who keeps ticket stubs goes places and wants to remember being there.
 
 "Don't move your hand," she whispered.
 
-He held perfectly still. She felt every point of contact as a separate burn: thumb, palm, cheek, the hard press of him behind the chair. Her finger stayed on the dot. Her mouth stayed a breath from his. She rocked once toward his thumb, barely, enough to make herself gasp into his mouth, and kept him frozen there while her cunt throbbed like a second heartbeat.`,
+He held perfectly still. She felt every point of contact as a separate burn: thumb, palm, cheek, the hard press of him behind the chair. Her finger stayed on the dot. Her mouth stayed a breath from his. She rocked once toward his thumb, barely, enough to make herself gasp into his mouth. She kept him frozen there while her cunt throbbed like a second heartbeat.`,
   choices: [
       {
           "id": "scene9d",

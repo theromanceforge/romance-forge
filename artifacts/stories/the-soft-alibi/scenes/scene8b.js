@@ -111,7 +111,7 @@ Under the desk, Nolan's shoe touched hers. One point of pressure, deliberate, th
 
 "You held," Pell said. "Hold a little longer. That's all a seal is."
 
-She pulled the blotter closer. Cream paper, expensive as skin. A line for her name. A blank for terms. She set her palm flat on the empty space and felt heat gather under her hand, under her skirt, under everything she was about to bargain with.
+She pulled the blotter closer. Cream paper, expensive as skin. A line for her name. A blank for terms. She set her palm flat on the empty space and felt heat gather under her hand, under her skirt. Under everything she was about to bargain with.
 
 "My terms," she said. "I seal what I saw. What comes after is mine. Not yours."
 
@@ -133,7 +133,7 @@ He crossed the room. He crouched until their faces were level. Pell became furni
 
 She wanted her forehead against his. She wanted Pell gone. She wanted the blotter burned and Nolan's hand under her skirt where she was already wet for a decision she had not spoken.
 
-Nolan's knee came to rest against the outside of her thigh. Not hidden. Not offered. Just there, warm through two layers of fabric, steady as a held note. Her breath went shallow. The heat that had been a pull became a pulse, slow and insistent, and she had to grip the chair arm to keep from rocking toward him with Pell watching.
+Nolan's knee came to rest against the outside of her thigh. Not hidden. Not offered. Just there, warm through two layers of fabric, steady as a held note. Her breath went shallow. The heat that had been a pull became a pulse, slow and insistent. She had to grip the chair arm to keep from rocking toward him with Pell watching.
 
 "Tell me what you want," Nolan said, so low it was barely air.
 
@@ -145,7 +145,7 @@ Her cunt ached at *later*. The promise inside it. The threat of it never coming 
 
 Pell cleared his throat. "Decide."
 
-Her fingers curled on cream paper. Pulse in her fingertips, pulse between her legs. Nolan stayed crouched, close enough to kiss if she leaned an inch. She didn't lean. His thumb stayed pressed hard to her wrist, counting her pulse, and she spread her knees a fraction under the desk so his thigh met hers fully, and bit the inside of her cheek hard to keep the sound in.`,
+Her fingers curled on cream paper. Pulse in her fingertips, pulse between her legs. Nolan stayed crouched, close enough to kiss if she leaned an inch. She didn't lean. His thumb stayed pressed hard to her wrist, counting her pulse. She spread her knees a fraction under the desk so his thigh met hers fully. She bit the inside of her cheek hard to keep the sound in.`,
   choices: [
       {
           "id": "scene9a",

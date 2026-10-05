@@ -26,7 +26,7 @@ Nolan didn't flinch. "Fifteen years ago. For clients who needed to vanish from b
 
 She set her fingertip on the embossed seal and felt the ridges like braille for money.
 
-"Stand next to me when you name it," Nolan said quietly. "In front of the board. All of it, exactly as written. I want you at my back while they decide what it means, not off in a hallway sanding the edges."
+"Stand next to me when you name it," Nolan said quietly. "In front of the board. All of it, exactly as written. I want you at my back while they decide what it means, not off in a hallway softening the edges."
 
 "You think I'd sand it?"
 
@@ -52,9 +52,9 @@ She thought of the museum stub in the packed bag. A museum stub was culture. It 
 
 "You were already beside it," Nolan said. "Naming isn't inventing. Naming is refusing to pretend you didn't see the seams."
 
-She had seen them. She still wanted to kiss them. That was the problem with loving a man who knew how to make people disappear: some part of her admired the craftsmanship, and that part frightened her more than Brooks ever had.
+She had seen them. She still wanted to kiss them. That was the problem with loving a man who knew how to make people disappear. Some part of her admired the craftsmanship. That part frightened her more than Brooks ever had.
 
-On the sideboard beside the pages sat a cut-glass decanter Nolan never drank from, a wedding gift he'd told her once, and a bowl of keys nobody used. She moved the decanter an inch so its shadow stopped falling across the seal.
+On the sideboard beside the pages sat a cut-glass decanter Nolan never drank from. A wedding gift he'd told her once. And a bowl of keys nobody used. She moved the decanter an inch so its shadow stopped falling across the seal.
 
 She ran her thumb along the margin until the cream stock warmed under it. Somewhere in the walls, the service elevator groaned and settled.
 
@@ -70,7 +70,7 @@ She counted the windows across the avenue — too many — and wondered how many
 
 Nolan said it once, quiet, the way he had said it on the ninth step of the stairwell the first night. She felt it land in her chest and stay.
 
-She turned from the window. He was standing by the sideboard, hands loose at his sides, waiting the way he always waited for her, as if he had all the time in the world and none of it mattered unless she spent it.
+She turned from the window. He was standing by the sideboard, hands loose at his sides, waiting the way he always waited for her. As if he had all the time in the world and none of it mattered unless she spent it.
 
 She crossed to him. She put her hand flat on his chest, over the steady thud of his heart, and left the other hand on the paper behind her. One palm on the man. One palm on the method.
 
@@ -79,7 +79,7 @@ She crossed to him. She put her hand flat on his chest, over the steady thud of 
 "Stand with me," Nolan said. Not a question this time.
 
 His heart kicked once under her palm, hard, as if it had heard itself. She curled her fingers into his shirt and felt the paper crinkle under her other hand, and didn't let go of either.`,
-  textHot: `The silent-partner agreement was four pages of cream stock with the Halden Row seal embossed at the bottom of each. [player_name] had kept it folded in her purse for nine days. Tonight she unfolded it on Nolan's sideboard and smoothed it flat under city light, and the motion of her palm over the paper made her think of smoothing sheets, of smoothing him, of every time her hand had flattened on warm skin instead of cold clauses.
+  textHot: `The silent-partner agreement was four pages of cream stock with the Halden Row seal embossed at the bottom of each. [player_name] had kept it folded in her purse for nine days. Tonight she unfolded it on Nolan's sideboard and smoothed it flat under city light. The motion of her palm over the paper made her think of smoothing sheets, of smoothing him. Of every time her hand had flattened on warm skin instead of cold clauses.
 
 "Once you say it out loud," Nolan said behind her, "it's a method. Not a rumor."
 
@@ -89,11 +89,11 @@ His heart kicked once under her palm, hard, as if it had heard itself. She curle
 
 "I know that too."
 
-Downstairs, Brooks waited on the ultimatum she'd delivered alone in the lobby. Pell was somewhere else, using *traveling* the way other men used *resting*. And here was the paper that explained how both words worked — how a person could walk through a door of leases and wires and come out with no forwarding address.
+Downstairs, Brooks waited on the ultimatum she'd delivered alone in the lobby. Pell was somewhere else, using *traveling* the way other men used *resting*. And here was the paper that explained how both words worked. How a person could walk through a door of leases and wires and come out with no forwarding address.
 
 She set her fingertip on the embossed seal. The ridges pressed into her skin. Behind her, Nolan stepped closer. His hands settled on the sideboard on either side of hers, caging her against the furniture without touching her yet.
 
-"Stand next to me when you name it," Nolan said at her ear. His breath stirred her hair. "In front of the board. All of it. I want you at my back while they decide what it means — not off sanding the edges for kindness."
+"Stand next to me when you name it," Nolan said at her ear. His breath stirred her hair. "In front of the board. All of it. I want you at my back while they decide what it means — not off softening the edges for kindness."
 
 Her nipples drew tight at the nearness of his mouth. She pushed her thighs together and felt the slick of her own wanting.
 
@@ -109,13 +109,13 @@ She rocked back half an inch. Her ass found his hips. He was hard against her, a
 
 Her pen hand twitched anyway. She could already feel the phrases she'd want to trim — *fifteen years*, *clean work*, *vanish* — and how much gentler the page would read without them. His hand left the sideboard and settled on her waist, fingers spanning her ribs. The heat of his palm sank through her blouse.
 
-She thought of the leak to prosecutor and board, the covered hangar lens, the radio in the far bay, *confirm second seat blank*, the packed bag with its silk and museum stub. Absence could look like culture. Absence could look like a nice afternoon. Right now absence looked like the inch of air between his mouth and her neck, and she hated it.
+She thought of the leak to prosecutor and board. The covered hangar lens. The radio in the far bay. *confirm second seat blank*. The packed bag with its silk and museum stub. Absence could look like culture. Absence could look like a nice afternoon. Right now absence looked like the inch of air between his mouth and her neck, and she hated it.
 
 "Am I complicit?" she asked. "For sleeping next to this?"
 
 "You were already beside it," Nolan said. "Naming isn't inventing. Naming is refusing to pretend you didn't see the seams."
 
-She had seen them. She still wanted to put her mouth on them. Loving a man who knew how to make people disappear meant some part of her admired the craftsmanship, and that part frightened her almost as much as it made her wet.
+She had seen them. She still wanted to put her mouth on them. Loving a man who knew how to make people disappear meant some part of her admired the craftsmanship. That part frightened her almost as much as it made her wet.
 
 His hand slid from her waist to her stomach, then lower, stopping at the button of her trousers. He waited. She pushed into his palm. He undid the button with one practiced flick and slipped his fingers under the waistband, over her underwear, and pressed.
 
@@ -125,25 +125,25 @@ She gasped. Her head fell back against his shoulder. His other hand came up and 
 
 "Put them on me," Nolan said against her throat. "Just don't put them back into pretending."
 
-She almost came from the words alone. She laughed, shaky, and the laugh turned into a moan when his fingers pressed harder, finding the wet heat through cotton and circling once, twice, slow.
+She almost came from the words alone. She laughed, shaky. The laugh turned into a moan when his fingers pressed harder, finding the wet heat through cotton and circling once, twice, slow.
 
 "Say my name," she whispered. "Not the way a panel would."
 
-He said it once, quiet, against her temple, the way he had on the ninth step the first night, and her hips jerked against his hand.
+He said it once, quiet, against her temple, the way he had on the ninth step the first night. Her hips jerked against his hand.
 
-She turned in his arms — hard, sudden — and put one palm flat on his chest over his heart and reached behind herself with the other to keep contact with the paper on the sideboard. Man and method. Pulse and seal.
+She turned in his arms — hard, sudden. She put one palm flat on his chest over his heart. She reached behind herself with the other to keep contact with the paper on the sideboard. Man and method. Pulse and seal.
 
 "Ask me again," she said.
 
 "Stand with me," Nolan said. Not a question this time. His fingers were still under her waistband, still, waiting. His mouth was a breath from hers.
 
-Across the avenue, a light flicked on in an office that should have been empty. She watched it and felt his thumb resume its slow circle, and the two sensations — distant light, intimate pressure — braided until she couldn't tell dread from want.
+Across the avenue, a light flicked on in an office that should have been empty. She watched it and felt his thumb resume its slow circle. The two sensations — distant light, intimate pressure — braided until she couldn't tell alarm from want.
 
 "Friday," she said.
 
 "I know," Nolan said. "Until Friday, I'll keep my hand right here."
 
-She held his gaze. She held the paper. She curled her fingers into his shirt and felt his heart kick once under her palm, hard, while his hand stayed between her legs, throbbing, and she didn't let go of either.`,
+She held his gaze. She held the paper. She curled her fingers into his shirt and felt his heart kick once under her palm, hard. His hand stayed between her legs, throbbing. She didn't let go of either.`,
   choices: [
       {
           "id": "scene9a",

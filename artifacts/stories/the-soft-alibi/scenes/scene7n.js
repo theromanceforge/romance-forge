@@ -14,7 +14,7 @@ Nolan didn't look at her when he answered. She felt it like a hand withdrawn mid
 
 "She lives across from me," Nolan said. "That's geography. What you're asking is whether geography became cover."
 
-Pell cleared his throat. She stayed silent until spoken to, hands folded, the ghost of the gray recorder still itching against her ribs from the hour she'd carried it into Pell's office. Hangar cold still lived in her sleeves from the night she held the story through the raid.
+Pell cleared his throat. She stayed silent until spoken to, hands folded. The ghost of the gray recorder still itched against her ribs from the hour she'd carried it into Pell's office. Hangar cold still lived in her sleeves from the night she held the story through the raid.
 
 When they finally asked her about nights, she gave dates that were true and left out everything that wasn't theirs. Halden Row. The Zurich wire. GM-0417. The word *Delivered* in a margin. She kept all of it off her face. She thought of the packed bag — silk, a travel bottle, a paperback, a museum stub — and kept her hands still in her lap.
 
@@ -30,13 +30,13 @@ She tasted metal. Nolan came out of the hearing room and stopped a few feet away
 
 "What do you think?" she asked him.
 
-"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt either way."
+"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt anyway."
 
 A junior clerk wheeled a cart past, water bottles sweating under plastic. She took one and didn't open it. She pressed it to the inside of her wrist instead. The cold helped her think. Pell checked his watch. She checked Nolan's mouth.
 
 Pell's cards waited on the cooler like a dare. Going loud would put a face — hers — on the leak that had already reached the prosecutor and the holding board. Strangers would learn how she had loved him in the gaps: twelve steps, the ninth one that creaked, every kiss that never quite finished.
 
-Something inland tugged anyway. Fourteen Calloway Mews sat past the ring road with its support-housing paperwork and the upstairs light Nolan had once driven past and not stopped for. She had never been there. She wanted to know what waited behind that door almost as much as she wanted never to find out whether Vivienne was still alive to answer it.
+Something inland tugged anyway. Fourteen Calloway Mews sat past the ring road with its support-housing paperwork and the upstairs light Nolan had once driven past and not stopped for. She had never been there. She wanted to know what waited behind that door. Almost as much as she wanted never to find out whether Vivienne was still alive to answer it.
 
 "Will going loud protect me?" she asked Nolan, low enough that Pell had to pretend not to listen. "Or just decorate your fall?"
 
@@ -60,10 +60,10 @@ A clock above the elevator bank read four-fifteen. Three days to Friday. She cou
 
 "If I go loud," she said, "you lose the board."
 
-"I lose it either way," Nolan said. "This way I lose it next to you."
+"I lose it anyway," Nolan said. "This way I lose it next to you."
 
 She almost said she wasn't ready. A flyer for the building's spring gala curled on a nearby stand, edge catching the corridor light. She pressed the cold bottle harder against her wrist until the plastic ached, and let him see the ache instead of a noun.`,
-  textHot: `The inquiry room had no windows and too much polish, and the chair was cold through [player_name]'s skirt. She sat where Marcus Pell pointed and watched Nolan Greer take the chair under review. The scar on his jaw looked pale under fluorescent light. Her body was still tight from the raid, still humming from the hour she'd carried Brooks's gray recorder into Pell's office, and the hum hadn't found anywhere to go.
+  textHot: `The inquiry room had no windows and too much polish, and the chair was cold through [player_name]'s skirt. She sat where Marcus Pell pointed and watched Nolan Greer take the chair under review. The scar on his jaw looked pale under fluorescent light. Her body was still tight from the raid, still humming from the hour she'd carried Brooks's gray recorder into Pell's office. The hum hadn't found anywhere to go.
 
 Detective Imani Brooks wasn't on the panel. [player_name] felt her anyway behind every question, a draft on the back of her neck.
 
@@ -77,7 +77,7 @@ Nolan didn't look at her when he answered. The withheld glance felt like a hand 
 
 His voice was even. She knew what it sounded like uneven, at two in the morning, against her throat. Her pulse ticked hard under her collar.
 
-When they asked her about nights, she gave dates that were true and left out everything else. Halden Row. Zurich. GM-0417. *Delivered.* She kept her face blank. She thought of the packed bag — silk, a travel bottle, a paperback, a museum stub — and the silk made her skin prickle, because she knew what silk was for.
+When they asked her about nights, she gave dates that were true and left out everything else. Halden Row. Zurich. GM-0417. *Delivered.* She kept her face blank. She thought of the packed bag — silk, a travel bottle, a paperback, a museum stub. The silk made her skin prickle, because she knew what silk was for.
 
 "Did Mr. Greer ever ask you to lie?" the reviewer asked.
 
@@ -89,7 +89,7 @@ In the anteroom after, Pell caught her by the water cooler. He smelled like tone
 
 She tasted metal. Nolan came out of the hearing room and stopped a few feet away. Close enough that she could smell his cologne under the toner and coffee. Close enough that her nipples tightened under her blouse.
 
-"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt either way."
+"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt anyway."
 
 A clerk wheeled a cart past, water bottles sweating under plastic. She took one and pressed it to the inside of her wrist. The cold shot up her arm and made her shiver all the way to her hips. Pell checked his watch. She checked Nolan's mouth.
 
@@ -113,9 +113,9 @@ Nolan's fingers spread wider across her back, the tip of his little finger grazi
 
 "If I go loud," she said, "you lose the board."
 
-"I lose it either way." His thumb moved once along her spine. "This way I lose it next to you."
+"I lose it anyway." His thumb moved once along her spine. "This way I lose it next to you."
 
-The clock above the elevator bank read four-fifteen. Three days to Friday. She counted them the way she used to count the twelve steps between their doors, knowing exactly where the ninth one creaked, and the memory of that creak went through her like a fingertip.
+The clock above the elevator bank read four-fifteen. Three days to Friday. She counted them the way she used to count the twelve steps between their doors, knowing exactly where the ninth one creaked. The memory of that creak went through her like a fingertip.
 
 "I want to go somewhere without cameras," she said.
 

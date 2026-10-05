@@ -2,7 +2,7 @@ export default {
   id: "scene7o",
   layer: 7,
   title: "Public Enough",
-  text: `Noon in Crownspire's lobby was loud in the way money is loud: heels on marble, a fountain nobody looked at, phones held face-down on the concierge desk. [player_name] stood near the glass with Nolan Greer while the ceiling cameras turned their small black eyes toward them. Rhea Quinn kept her face carefully blank at the front desk. Marcus Pell lingered by the elevators at a polite distance, the way a man does when he prefers quieter fires.
+  text: `Noon in Crownspire's lobby was loud in the way money is loud. Heels on marble. A fountain nobody looked at. Phones held face-down on the concierge desk. [player_name] stood near the glass with Nolan Greer while the ceiling cameras turned their small black eyes toward them. Rhea Quinn kept her face carefully blank at the front desk. Marcus Pell lingered by the elevators at a polite distance, the way a man does when he prefers quieter fires.
 
 Detective Imani Brooks hadn't found a body. Her interest kept rising anyway. Lieutenant Rasmussen still wanted a name by Friday.
 
@@ -59,7 +59,7 @@ Six brass elevator doors lined the far wall. Brooks had ridden one of them up th
 Rhea tapped her slate twice and set it face-down. Somewhere above them a vacuum started and stopped.
 
 She tasted lilies and wax and the coming weekend. She squared her shoulders the way she had before the inquiry and looked at his mouth. The fountain mist had dried on her cheek into a small tight patch of skin. She wanted his thumb there. She pressed her tongue hard against the back of her teeth to keep from asking for it.`,
-  textHot: `Noon in Crownspire's lobby was loud in the way money is loud: heels on marble, a fountain nobody watched, phones face-down on the concierge desk. [player_name] stood near the glass with Nolan Greer while the ceiling cameras turned their small black eyes toward them, and every turn of a lens felt like a hand passing over her skin. Rhea Quinn kept her face blank at the desk. Marcus Pell lingered by the elevators, polite and patient.
+  textHot: `Noon in Crownspire's lobby was loud in the way money is loud: heels on marble, a fountain nobody watched, phones face-down on the concierge desk. [player_name] stood near the glass with Nolan Greer while the ceiling cameras turned their small black eyes toward them. Every turn of a lens felt like a hand passing over her skin. Rhea Quinn kept her face blank at the desk. Marcus Pell lingered by the elevators, polite and patient.
 
 Detective Imani Brooks still had no body. Lieutenant Rasmussen still wanted a name by Friday. [player_name]'s body still remembered the raid as hangar cold on her nipples, and the gray recorder as a warm square against her ribs. All of it had settled low in her belly as a restless heat that had nowhere to go.
 
@@ -67,7 +67,7 @@ Detective Imani Brooks still had no body. Lieutenant Rasmussen still wanted a na
 
 The request went through her like a palm sliding down her spine. Upstairs pulled at her anyway — twelve steps, his door, the deadbolt's heavy click, his mouth on her throat before her coat hit the floor.
 
-The revolving glass threw her reflection back in warped panels: flushed cheeks, parted lips, a woman who looked like she'd just been kissed and hadn't been. She still didn't know whether Vivienne was alive. She knew exactly how wet she was.
+The revolving glass threw her reflection back in warped panels. Flushed cheeks. Parted lips. A woman who looked like she'd just been kissed and hadn't been. She still didn't know whether Vivienne was alive. She knew exactly how wet she was.
 
 "You'd really ask me to stand after everything Brooks already has on paper?" she said. Her voice came out thick.
 
@@ -81,7 +81,7 @@ Heat rolled up her throat. She pressed her thighs together under her coat and fe
 
 The fountain's spray drifted on a draft from the door, and a fine cold mist landed on her cheek and her lower lip. She licked it off without thinking. Nolan watched her tongue. His jaw tightened.
 
-A resident with a cat carrier slowed to stare at them. She let herself be stared at, flushed and wet under her clothes, daylight on her face like a touch she hadn't asked for and wanted anyway.
+A resident with a cat carrier slowed to stare at them. She let herself be stared at, flushed and wet under her clothes. Daylight on her face like a touch she hadn't asked for and wanted anyway.
 
 An elderly man in a camel overcoat dropped a leather glove near the fountain. Nolan bent to pick it up, and the line of his back under the coat made her mouth go dry. He handed the glove back without a word.
 
@@ -95,7 +95,7 @@ The lobby smelled of floor wax and concierge lilies. Light slid bright across th
 
 "They wouldn't," Nolan said. "A camera can't tell a woman shielding a man from a woman lighting him up. Only what you say next can."
 
-Friday leaned on the glass from outside like weather. Three days. She counted them against the warm throb low in her belly and almost laughed at how badly her body wanted to turn a board hearing into an excuse to take him upstairs.
+Friday leaned on the glass from outside like weather. Three days. She counted them against the warm throb low in her belly. She almost laughed at how badly her body wanted to turn a board hearing into an excuse to take him upstairs.
 
 She put her hand on his sleeve, brief and deniable. He covered her fingers with his for one stolen second, warm, and her nipples went hard against her bra so fast it almost hurt. She pulled her hand back before the cameras could make a story of it. Her palm kept the heat.
 
@@ -113,7 +113,7 @@ She knew exactly what hunger with the door locked would feel like. His hands pus
 
 "I know," Nolan said. His eyes came back to hers. Dark. Steady. "That's why I'm not asking for upstairs."
 
-The admission went through her like a swallowed mouthful of wine, warm all the way down. Her hand twitched toward his again. She curled her fingers into her palm until the nails bit, and the small sting was the only thing keeping her from dragging him toward the brass doors with every camera in the lobby watching.`,
+The admission went through her like a swallowed mouthful of wine, warm all the way down. Her hand twitched toward his again. She curled her fingers into her palm until the nails bit. The small sting was the only thing keeping her from dragging him toward the brass doors with every camera in the lobby watching.`,
   choices: [
       {
           "id": "scene8m",

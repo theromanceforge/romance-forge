@@ -2,7 +2,7 @@ export default {
   id: "scene7p",
   layer: 7,
   title: "Elevator-Bank Reunion",
-  text: `The chase ended where it had started: Crownspire's elevator bank, after hours, under lights that hummed like they were thinking. [player_name] came through the revolving door with rain on her coat and found Nolan Greer leaning against the brushed-steel wall between cars two and three, as if he'd been waiting there all week.
+  text: `The chase ended where it had started: Crownspire's elevator bank, after hours, under lights that hummed like they were thinking. [player_name] came through the revolving door with rain on her coat. She found Nolan Greer leaning against the brushed-steel wall between cars two and three, as if he'd been waiting there all week.
 
 Maybe he had.
 
@@ -12,7 +12,7 @@ Maybe he had.
 
 "I stopped hiding when you stopped running." His cufflink clicked once. The charm in his voice had a crack down the middle. "I chased the silence all over this city. Hangar, desk, Pell's office. Every road came back to this lobby. And you."
 
-The lobby was empty. Rhea Quinn's desk sat dark, her slate face-down. The chandeliers were dimmed to their night setting, and the glass walls threw back two reflections: a woman in a wet coat, a man with a scar on his jaw. Brooks had first flashed her badge in this exact glass. It felt like years ago. It had been weeks.
+The lobby was empty. Rhea Quinn's desk sat dark, her slate face-down. The chandeliers were dimmed to their night setting. The glass walls threw back two reflections: a woman in a wet coat, a man with a scar on his jaw. Brooks had first flashed her badge in this exact glass. It felt like years ago. It had been weeks.
 
 She crossed the marble until she was close enough to smell him. Cologne, rain, the faint cold of the hangar still caught in the wool of his coat.
 
@@ -64,7 +64,7 @@ Her chest went tight and warm at once.
 
 A maintenance light flickered over car three and steadied. Somewhere behind the front desk, a cleaning cart squeaked across tile and went quiet.
 
-She thought of Brooks alone in this lobby, giving her the ultimatum with nobody else in earshot. She thought of the plane-desk note — *confirm second seat blank* — and Pell's single text after the raid, *held?*, arriving like fingers on the back of her neck. She thought of perfume capped mid-exit and how a bottle that never got opened could still own a whole night.
+She thought of Brooks alone in this lobby, giving her the ultimatum with nobody else in earshot. She thought of the plane-desk note — *confirm second seat blank*. And Pell's single text after the raid, *held?*, arriving like fingers on the back of her neck. She thought of perfume capped mid-exit and how a bottle that never got opened could still own a whole night.
 
 "Will it feel like Pell's office again?" she asked.
 
@@ -78,10 +78,10 @@ She took her hand back long enough to unbutton her wet coat. Rain had soaked thr
 
 The rain picked up outside, ticking against the revolving door. The lights hummed. Her reflection in the glass looked tired and stubborn and very awake.
 
-She told him she was scared of the wire because she could still feel the tape pulling at her skin, a ghost itch along her ribs whenever a man lowered his voice. He listened like her fear was information she was allowed to keep. He didn't try to talk her out of it.
+She told him she was scared of the wire because she could still feel the tape pulling at her skin. A ghost itch along her ribs whenever a man lowered his voice. He listened like her fear was information she was allowed to keep. He didn't try to talk her out of it.
 
-Then she turned her hand over under his so their palms met, and held on, and stood in the elevator bank with him while the building slept around them, mouth almost on his, the rain writing soft lines down the glass behind their reflections.`,
-  textHot: `The chase ended where it had started: Crownspire's elevator bank, after hours, lights humming overhead. [player_name] came through the revolving door with rain soaking through her coat to her blouse, and found Nolan Greer leaning against the brushed steel between cars two and three. The sight of him hit her low and hard, a tug behind her navel, as if her body had been running toward this wall all week.
+Then she turned her hand over under his so their palms met, and held on. She stood in the elevator bank with him while the building slept around them. Mouth almost on his. The rain writing soft lines down the glass behind their reflections.`,
+  textHot: `The chase ended where it had started: Crownspire's elevator bank, after hours, lights humming overhead. [player_name] came through the revolving door with rain soaking through her coat to her blouse. She found Nolan Greer leaning against the brushed steel between cars two and three. The sight of him hit her low and hard, a tug behind her navel. As if her body had been running toward this wall all week.
 
 "You found me," Nolan said.
 
@@ -89,7 +89,7 @@ Then she turned her hand over under his so their palms met, and held on, and sto
 
 "I stopped hiding when you stopped running." His cufflink clicked once. "Every road came back to this lobby. And you."
 
-Rhea Quinn's desk sat dark. The chandeliers were dimmed. The glass threw back two reflections, and she watched hers cross the marble toward his until she was close enough to smell cologne and rain and the hangar's cold still in his coat. Heat rose under her damp clothes.
+Rhea Quinn's desk sat dark. The chandeliers were dimmed. The glass threw back two reflections. She watched hers cross the marble toward his. Close enough to smell cologne and rain and the hangar's cold still in his coat. Heat rose under her damp clothes.
 
 "Is the chase over?" she asked.
 
@@ -149,7 +149,7 @@ He smiled against her cheek, sad and wanting. "Then I'll wait," Nolan said. "I'm
 
 Rain ticked against the revolving door. Her reflection in the glass had flushed cheeks and parted lips.
 
-She turned her face up. His mouth hovered over hers. She let her lips brush his, so light it was barely contact, and felt him shudder against her. She didn't kiss him. She stayed there, astride his thigh in a sleeping lobby, wet and aching, one of his hands still warm and steady at her waist, the rain writing soft lines down the glass behind them.`,
+She turned her face up. His mouth hovered over hers. She let her lips brush his, so light it was barely contact, and felt him shudder against her. She didn't kiss him. She stayed there, astride his thigh in a sleeping lobby, wet and aching. One of his hands still warm and steady at her waist. The rain writing soft lines down the glass behind them.`,
   choices: [
       {
           "id": "scene8i",

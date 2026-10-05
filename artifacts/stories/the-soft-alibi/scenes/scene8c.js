@@ -2,11 +2,11 @@ export default {
   id: "scene8c",
   layer: 8,
   title: "Night Truth",
-  text: `His apartment was dark except for the city through the blinds, striping the sheets in pale bars. [player_name] lay on her side facing Nolan Greer, close enough to feel his breath, far enough that the gap between them could still hold a secret. It wouldn't hold much longer.
+  text: `His apartment was dark except for the city through the blinds, striping the sheets in pale bars. [player_name] lay on her side facing Nolan Greer. Close enough to feel his breath. Far enough that the gap between them could still hold a secret. It wouldn't hold much longer.
 
 "Tell me," Nolan said. He didn't reach for her. He had learned that reaching made her stop talking.
 
-She had carried it since the night she saw it. She had carried it through Brooks's badge in the lobby, through the gray recorder taped to her ribs, through hangar nine with its covered camera lens. She had carried it so long it had grown a shape inside her, like a stone swallowed whole.
+She had carried it since the night she saw it. She had carried it through Brooks's badge in the lobby. Through the gray recorder taped to her ribs. Through hangar nine with its covered camera lens. She had carried it so long it had grown a shape inside her, like a stone swallowed whole.
 
 "The car," she said. "The night Vivienne went. A black car at the curb. It idled too long."
 
@@ -52,7 +52,7 @@ She didn't feel clean. She had thought confession would feel like rinsing. It fe
 
 "What do we do with it?" Nolan asked.
 
-She wanted to take it into Crownspire's glass. Board. Prosecutor. Every silence Greer Meridian had sold for years, cracked open on the word of the woman across the street. The urge sat hot in her throat. Her hand, resting on his chest, already wanted to edit — leave out the eleven minutes, leave out the bus, keep only what Brooks could use without building a case on a sidewalk.
+She wanted to take it into Crownspire's glass. Board. Prosecutor. Every silence Greer Meridian had sold for years, cracked open on the word of the woman across the street. The urge sat hot in her throat. Her hand, resting on his chest, already wanted to edit — leave out the eleven minutes, leave out the bus. Keep only what Brooks could use without building a case on a sidewalk.
 
 "I don't know," she said.
 
@@ -78,7 +78,7 @@ Or maybe you do. Maybe you pack it so whoever finds the bag thinks you meant to 
 
 She lifted her head. His face was inches away, striped by the blinds, eyes still wet. She wanted to kiss him so badly her lips hurt.
 
-She didn't. Not yet. She held his gaze, mouth almost on his, and felt his heart against her palm, still too fast, and matched her breathing to it one careful second at a time.`,
+She didn't. Not yet. She held his gaze, mouth almost on his. She felt his heart against her palm, still too fast. She matched her breathing to it one careful second at a time.`,
   textHot: `His bedroom was dark except for the city through the blinds, laying pale bars across the sheets and across her bare hip. [player_name] lay facing Nolan Greer with her knee against his thigh and her pulse still loud from the last hour. His skin was warm. Hers was damp at the backs of her knees, at the small of her back, between her legs where he had stopped on purpose.
 
 "Tell me," Nolan said. He didn't move his hand from her waist. He didn't move it lower either.
@@ -113,7 +113,7 @@ She didn't feel clean. She felt opened. Like a window in winter, cold air and cl
 
 "What do we do with it?" Nolan asked.
 
-She wanted to carry it out of his bed and into Crownspire's glass. Board. Prosecutor. Crack the bought silence on her own mouth. The urge made her stomach drop and her cunt clench at once. Her fingers, splayed on his chest, already wanted to edit — keep the car and the bag, lose the eleven minutes, leave Brooks circling without a sidewalk to stand on.
+She wanted to carry it out of his bed and into Crownspire's glass. Board. Prosecutor. Crack the bought silence on her own mouth. The urge made her stomach drop and her cunt clench at once. Her fingers, splayed on his chest, already wanted to edit — keep the car and the bag, lose the eleven minutes. Leave Brooks circling without a sidewalk to stand on.
 
 "I don't know," she said.
 
