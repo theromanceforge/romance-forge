@@ -4,7 +4,9 @@ export default {
   title: "Wake Henry",
   text: `Willow Lane smelled of wet boxwood and woodsmoke even before [player_name] killed the engine.
 
-Rain ticked on the hood. The Shaw house sat dark except for a spill of kitchen light under the side curtain. Henry awake, or Henry pretending to sleep with a glass and a verdict face. John had come with her. His knuckles were white on the passenger door handle, the burn scar a pale coin in the dash glow. Voss's old exchange number, copied from Clara's circled slip, lived on a scrap in [player_name]'s fist like a fuse.
+Whatever Henry had said tonight, and wherever he had said it, it had been the smoothed version. He had gone home to Willow to sit with it. The number in [player_name]'s fist said the smoothing was over.
+
+Rain ticked on the hood. The Shaw house sat dark except for a spill of kitchen light under the side curtain. Upstairs stayed black. Clara was at Mae's. Henry awake, or Henry pretending to sleep with a glass and a verdict face. John had come with her. His knuckles were white on the passenger door handle, the burn scar a pale coin in the dash glow. Voss's old exchange number, copied from Clara's circled slip, lived on a scrap in [player_name]'s fist like a fuse.
 
 "We wake him," she said. Not asking. The drive from the diner had worn small talk down to breath and windshield wipers. "We wake him with the number, and we don't let kindness invent morning early."
 
@@ -44,7 +46,7 @@ Henry flinched at the clarity. John didn't.
 
 "He wants the alone option," John said quietly to her, his eyes still on his uncle. "Alone is where the softening lives. Alone is where he asks you to spare me again. I'm naming it so you hear the trap while the rain's still loud."
 
-"And with you there, you might break something that isn't a plate," [player_name] answered, just as quietly. "His confession turns into a fight, and the truth gets blood on it before Clara wakes. I'm naming that too."
+"And with you there, you might break something that isn't a plate," [player_name] answered, just as quietly. "His confession turns into a fight, and the truth gets blood on it before Clara has to hear it secondhand. I'm naming that too."
 
 Henry's hand tightened on the doorframe. "I did what I did to keep this family standing."
 
@@ -64,16 +66,18 @@ Henry still stood undecided in the doorway. "I'll speak," he said. "I'm tired of
 
 Her ribs ached. Want flared at a viciously inconvenient hour. His hand on her back. His rain smell. The unfinished heat they had left in other rooms to come wake a liar.
 
-"Before Clara comes down the stairs," John said, his voice rough. "Before he finds another draft. Before I kiss you in his doorway and forget which confession we came for."
+"Before he finds another draft," John said, his voice rough. "Before he rehearses another kindness. Before I kiss you in his doorway and forget which confession we came for."
 
 A freight horn sounded far off toward the yard. [player_name] thought of the girl of twenty who had said yes in a front room that smelled of this same woodsmoke. And of the woman who had driven a number here instead of vanishing into brighter rooms.
 
 "I'm not your cleaner story anymore," she told Henry. "I'm the woman on your step with your nephew's hand on my back and a creditor's number in my fist. You don't get to choose who hears it. I do. That's what my coming home cost you."
 
 Henry nodded once, small, defeated at the edges. The clock ticked behind him. John's heat at her spine didn't fade. If anything the pause made it louder. Henry stepped back half a pace, holding the door wider, and waited to see whether she would bring John across the threshold with her or ask him to stay out in the rain.`,
-  textHot: `Willow Lane smelled of wet boxwood and woodsmoke, and [player_name]'s body still hummed from the diner, as if unfinished sex had hitched a ride in the passenger seat beside John.
+  textHot: `Willow Lane smelled of wet boxwood and woodsmoke. Clara had texted from Mae's: she was staying off Willow tonight, and they should not soften. The upstairs windows over Henry's kitchen stayed dark.
 
-She killed the engine. Rain ticked the hood. The scrap with Voss's exchange number stuck to her damp palm. John's hand found her thigh in the dark. Not comforting. Claiming, his thumb stroking the inner seam where she was still sensitive, still wet from everything they had postponed to come wake a liar.
+Whatever Henry had said tonight, and wherever he had said it, it had been the smoothed version. He had gone home to Willow to sit with it alone.
+
+[player_name]'s body still hummed from the diner, unfinished heat riding shotgun beside John. She killed the engine. Rain ticked the hood. The scrap with Voss's exchange number stuck to her damp palm. John's hand found her thigh in the dark. Not comforting. Claiming. His thumb stroked the inner seam where she was still sensitive, still wet from everything they had postponed to come wake a liar.
 
 "We wake him," she said, her voice rough. "With the number. No kindness."
 
@@ -85,7 +89,7 @@ She killed the engine. Rain ticked the hood. The scrap with Voss's exchange numb
 
 They walked. The boxwood brushed her coat and soaked her sleeve. Henry opened on the third knock in a cardigan, whiskey-eyed, already reaching for soft words. [player_name] held up the scrap.
 
-"Voss," she said. "Forty-eight. Twelve. Kindness. Clara's circles. Wake up and confess."
+"Voss," she said. "Forty-eight. Twelve. Kindness. The circled gaps. Wake up and confess."
 
 Henry looked at John in the rain, and the look was a plea. John stepped onto the porch boards, rain in his hair, jaw set. Desire and rage shared his bloodstream so obviously that [player_name] clenched at the wrong holy moment.
 
@@ -117,11 +121,11 @@ Then she turned the rest of the way and caught John's mouth in a kiss that was a
 
 "That," John said when they broke, his forehead against hers, "is what waiting in the boxwood will feel like if you go in alone. Only worse, because I won't have your mouth. If I'm in the room, that kiss stays in my blood while he talks, and you'll feel my hand shake on your back when he says what he asked of you. I'm not hiding the cost. I'm itemizing it, the way Voss itemized us."
 
-She wiped rain from his jaw with her thumb, tender and filthy at once. "Itemize this, then. I want him broken open. I want you after. I want Clara asleep upstairs for ten more minutes. I want the quiet finished. And I want your fingers back where the drive interrupted them the moment the ugly line is spoken."
+She wiped rain from his jaw with her thumb, tender and filthy at once. "Itemize this, then. I want him broken open. I want you after. I want the quiet finished. And I want your fingers back where the drive interrupted them the moment the ugly line is spoken."
 
 John's hand slid from her hip to splay over her stomach under the wet shirt, possessive and grounding. "Both ways end with Voss named. Both end with my mouth on you, if you still want it after. The only difference is whose eyes Henry has to hold while he stops being kind."
 
-No light bloomed upstairs yet.
+The kitchen light held steady behind Henry.
 
 [player_name] still ached, and the ache somehow made her braver, not smaller. Desire as courage's indecent twin.
 

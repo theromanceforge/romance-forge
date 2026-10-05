@@ -2,7 +2,7 @@ export default {
   id: "scene9c",
   layer: 9,
   title: "Honesty Before Spectacle",
-  text: `The flat above the diner held its breath the way people do before vows they have not practiced. [player_name] sat on the edge of John Shaw's bed with her boots still on. Taking them off felt like a promise she was not ready to make. Honesty before spectacle. That was the bargain they had clawed toward through layers of secret and rain. The truth between the two of them first. Family theater later, if at all.
+  text: `The flat above the diner held its breath the way people do before vows they have not practiced. [player_name] sat on the edge of John Shaw's bed with her boots still on. Taking them off felt like a promise she was not ready to make. Honesty before spectacle. That was the bargain they had clawed toward through rain and what of the winter was already spoken. What still sat between them first. Family theater later, if at all.
 
 John stood at the window overlooking Market Street. Neon ghosted his profile. Coffee steam from downstairs still clung to his shirt. Behind him, Somerton arranged itself into porch lights and wet slate. It was a town that loved a public reckoning almost as much as it loved pretending it never needed one.
 
@@ -14,7 +14,7 @@ She watched his shoulders. "And the other door?"
 
 The words hurt because they were kind. [player_name] had left once believing silence protected him. A back door was not silence. It was named uncertainty, adult and visible.
 
-Spectacle waited downstairs in the shape of Henry's name, Clara's papers, Voss's numbers, gossip with a seat at the cracked stool. Honesty meant telling John every unfinished piece before the town could narrate it. Commitment meant deciding whether that honesty came with a locked-in forever, or a tried-for-now with an exit left ajar.
+Spectacle waited downstairs in the shape of Henry's name, Clara's papers, Voss's numbers, gossip with a seat at the cracked stool. Honesty meant finishing what still sat unfinished between them before the town could narrate it. Commitment meant deciding whether that honesty came with a locked-in forever, or a tried-for-now with an exit left ajar.
 
 She stood and crossed to him. Willow Lane's woodsmoke lived faintly in her hair from the afternoon. His hands smelled like the diner. "Say what you're afraid of."
 
@@ -28,7 +28,7 @@ She set her palm on his chest over his heart. "My years away aren't a debt you c
 
 "Trying means I love you in this bed and still keep a bag packed in the hall closet. One you can take without stealing away at midnight. Trying means we refuse spectacle until we've told each other the ugly parts. And we admit we might fail after that." His thumb stroked her wrist. "I'm not proud of how badly I want even the temporary version of you."
 
-The rule had brought them here. No family meeting first. No Henry confession as theater. No Clara forced to host adults who hadn't finished being honest with each other. Just [player_name] and John Shaw in a flat that had held his mother's recipes and his father's silences, deciding what kind of vow could survive the noise gathering on Market Street.
+The rule had brought them here. No family meeting first. No Henry confession as theater. No Clara forced to host adults who hadn't finished being honest with each other — even if parts of the winter already lived in this room. Just [player_name] and John Shaw in a flat that had held his mother's recipes and his father's silences, deciding what kind of vow could survive the noise gathering on Market Street.
 
 She kissed him slowly. Not softly. Deliberately. Forever without erasure. Trying, with a door left open. Neither was a clean fairytale.
 
@@ -42,12 +42,12 @@ John's voice dropped. "Spectacle will come. Clara's stage, or Henry's mouth, or 
 
 She nodded, her throat burning. The imagined back door stood in the hall like a third person. The locked vow stood by the bed like a fourth. Outside, Somerton breathed its wet-slate breath and waited for them to become a story it could tell wrong or right.
 
-She took in the room the way people take in exits. Window, hall, John's mouth, the truth still half-buttoned between them. She could leave the room. She would not leave the choice.
+She took in the room the way people take in exits. Window, hall, John's mouth, what truth still waited unfinished between them. She could leave the room. She would not leave the choice.
 
 John stepped back just enough to give her space, his fingers still linked with hers, Market Street lights catching in his eyes. Steady, hungry, afraid, present.
 
 Commit without erasing. Or commit to trying, with a back door left open enough to hurt.`,
-  textHot: `The flat above the diner held its breath the way bodies do before something that is also a vow. [player_name] sat on John Shaw's bed with her boots still on. Taking them off felt like surrender. Honesty before spectacle. The truth between the two of them first. Family theater later.
+  textHot: `The flat above the diner held its breath the way bodies do before something that is also a vow. [player_name] sat on John Shaw's bed with her boots still on. Taking them off felt like surrender. Honesty before spectacle. What still sat between them first — even the parts already spoken. Family theater later.
 
 John stood at the window, neon ghosting his profile, coffee steam still clinging to his shirt. Spectacle waited downstairs: Henry's name, Clara's papers, Voss's numbers, gossip at the cracked stool.
 
@@ -81,7 +81,7 @@ After, sweat cooling, he kissed her swollen mouth with a tenderness that hurt. "
 
 He eased out. The empty ache was honest. He steadied her and left her boots on, like a question. The imagined back door stood in the hall. The locked vow lay in the wrecked sheets.
 
-She took in the room the way people take in exits. Window, hall, John's mouth, the truth still half-buttoned between them. She could leave the room. She would not leave the choice.
+She took in the room the way people take in exits. Window, hall, John's mouth, what truth still waited unfinished between them. She could leave the room. She would not leave the choice.
 
 John stepped back just enough to give her space, fingers linked with hers, Market Street lights in his eyes. Steady, hungry, afraid, present.
 

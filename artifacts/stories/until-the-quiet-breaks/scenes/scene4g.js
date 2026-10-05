@@ -36,17 +36,19 @@ Out front, the rush had thinned to a few wet coats and the feed-store cap at the
 
 Clara slid onto the stool beside her for thirty seconds, charcoal under her nails. "You told him." Not a question. "Good. Ugly-good. He's going to burn a grill ticket and pretend it's the customer's fault. Let him." She squeezed [player_name]'s wrist. "I've got the rest of the proof at Willow, when you want it. The pages he hasn't seen." Then she vanished back into the pie case's orbit.
 
-The hour compressed. Plates. Rain. The thin cry of the bell. John moved through it like a man stitching himself closed with work. When the last customer left and Clara flipped the sign without being asked, his shoulders dropped a fraction. Not relief. Readiness for the next blow.
+The hour compressed. Plates. Rain. The thin cry of the bell. John moved through it like a man stitching himself closed with work. When the last customer left and Clara flipped the sign and turned the lock without being asked, his shoulders dropped a fraction. Not relief. Readiness for the next blow.
 
 He came to [player_name]'s end of the counter. "I'm still in the hour," he said. "But it's ending. Tell me again the part about the road. Slowly. I need it to stop sounding like someone else's weather."
 
 Before she could answer, the bell cried again.
 
-Not a customer's casual rattle. A firm, familiar knock, and the stick-and-yield of someone who knew the door's moods. Clara froze with a stack of menus. Through the rain-streaked glass, under the Market Street lamp, Henry's umbrella tilted toward them.
+Not a customer's casual rattle. A firm, familiar knock, then a hand trying the locked door the way only someone who knew its moods would. Clara froze with a stack of menus. Through the rain-streaked glass, under the Market Street lamp, Henry's umbrella tilted toward them.
 
 John's voice went flat and quiet. "Of course." He looked at [player_name], the crack bright in his eyes. "You brought me his hints. Now he brings himself. I'm not kind right now. I'm still here. That's what I can offer. If you can stand beside me while I'm like this, stand. If you'd rather give me the night and come back with whatever Clara has, I'll understand that too."
 
-Henry raised his hand to knock again. John's anger sat just under his skin, unfinished, and his eyes stayed on her, and the coffee he had poured her was still hot at the far end of the counter.`,
+Henry's second knock came, softer. Then something white slid under the blue door and lay on the wet mat. It was a page torn from one of his notebooks. Clara picked it up, read it and held it out without a word. It was in Henry's careful hand: The rest is in the shed, under the oilcloth. The key is on the hook by the back door. I won't move it tonight. Through the glass, his umbrella was already turning back toward Willow. Whatever she chose now, the proof had an address. Henry had stopped pretending it didn't.
+
+John didn't open the door. His anger sat just under his skin, unfinished, and his eyes stayed on her, and the coffee he had poured her was still hot at the far end of the counter.`,
   textHot: `[player_name] did not soften the spill. Dish-pit steam closed around them like a curtain cut from weather. Soap, heat, and the roar of the kitchen fan turned the narrow back corridor into a room where truth had nowhere to dry, and John's body had nowhere to hide what hearing it did to him.
 
 She told him what Henry had begun to say up Willow Lane. The debts his father hid behind jokes and overtime. The winter road black with ice. The people who didn't wait politely. The ask in a warm room that smelled of woodsmoke and polish. Her own yes at twenty. The station speech coached into her mouth until ambition became a cover story with a pulse. She told it while steam curled her hair against her cheek and her sweater stuck to her breasts, and John braced both hands on the steel sink as if the metal could hold what his chest couldn't.
@@ -73,11 +75,11 @@ He nodded once, sharp. The crack widened without splitting. "An hour. Maybe less
 
 Out front, the rush had thinned to a few wet coats. John didn't look at her every second. He looked at her enough. When the blue door stuck for a late customer, his shoulder took the stick the way it always had, and now she knew what else that shoulder wanted to hold.
 
-Clara slid onto the stool beside her for thirty seconds. "You told him." Not a question. "Good. Ugly-good. He's cooking like a man who needs the grill to be louder than his head. Stay if you can weather it. Or come get the rest of the proof from Willow first. Either way I'm drawing the crack so nobody gets to pretend it didn't happen."
+Clara slid onto the stool beside her for thirty seconds. "You told him." Not a question. "Good. Ugly-good. He's cooking like a man who needs the grill to be louder than his head. Stay if you can weather it. Or come get the rest of the proof from Willow first. Either way I'm drawing the crack so nobody gets to pretend it didn't happen." Then she took her sketchbook and went out the back into the rain, headed up the hill to Willow.
 
 The hour compressed. Every time John passed her end of the counter, his hip brushed her knee, or his fingers dragged once across her knuckles, or his eyes dropped to her mouth with a promise that anger would soften into wanting if she stayed long enough. She counted the times her body clenched when he said her name to a customer like an ordinary word.
 
-He came to her when the last wet coat left. "I'm still in the hour," he said. "But it's ending. Tell me one line again. Just one. So I know I didn't invent the spill because I wanted an excuse to shove you against the dish pit and fuck the lie out of both of us."
+He came to her when the last wet coat left and the bolt was thrown. "I'm still in the hour," he said. "But it's ending. Tell me one line again. Just one. So I know I didn't invent the spill because I wanted an excuse to shove you against the dish pit and fuck the lie out of both of us."
 
 She held his gaze. "He asked. I said yes. I became the cleaner story. I'm done. I want your anger until it softens. I want your cock when it does. I won't soften either."
 
@@ -85,11 +87,13 @@ His hand found her thigh under the counter overhang, high and possessive, his th
 
 Before she could answer, the bell cried again.
 
-Not a customer's rattle. A firm, familiar knock, and the stick-and-yield of someone who had known the door's moods for fifteen years. Through the glass, under the lamp, Henry's umbrella tilted toward them.
+Not a customer's rattle. A firm, familiar knock, then a hand trying the locked door the way only someone who had known its moods for fifteen years would. Through the glass, under the lamp, Henry's umbrella tilted toward them.
 
 John's voice went flat and quiet. His hand stayed on her thigh. "Of course." The crack was bright in his eyes. "Stay, and weather me until the anger turns into my mouth where your truth opened. Or leave me the night, come back with the proof, and ask for my mouth after. Tell me before I open that door."
 
-Henry knocked again. John's thumb stroked once more at the damp seam of her jeans, his anger already softening toward want, and the unlocked door stood between his uncle and everything the spill had started.`,
+Henry knocked again. John's thumb stroked once more at the damp seam of her jeans, his anger already softening toward want, and the locked door stood between his uncle and everything the spill had started.
+
+John took his hand back. He did not open the door. A minute later, something white slid under it and lay on the wet mat. It was a page torn from one of Henry's notebooks. [player_name] crossed the diner and picked it up. It was in Henry's careful hand: The rest is in the shed, under the oilcloth. The key is on the hook by the back door. I won't move it tonight. Through the glass, his umbrella was already turning back toward Willow. The proof had an address now, and Henry had stopped pretending it didn't. Behind her, John waited, still hard and still furious, for her to say whether she was staying.`,
   choices: [
     { id: "scene5m", text: "Stay and weather John's anger until it softens", textHot: "Stay and weather John's anger until it softens into wanting you again" },
     { id: "scene5n", text: "Leave him the night — return with Clara's proof in hand", textHot: "Leave him the night — return with Clara's proof, and ask for his mouth after" }

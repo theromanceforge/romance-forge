@@ -8,7 +8,7 @@ Behind her the blue door stuck once and sealed. John hadn't followed. He had sto
 
 Somerton hissed under her boots. Slate roofs shed water in silver sheets. The station lights glowed insect-yellow toward the yard, where freight complained without urgency. She walked without a destination until her coat hem was soaked and her hands ached from being fists in her pockets. Henry's letter sat against her ribs like a third heartbeat. John's mouth lived behind her teeth as a taste she refused to name.
 
-She ended at the short-stay rooms above the feed store. Two blocks from the diner. Far enough that she couldn't hear the fryer tick, close enough that the rain still smelled like his closing shift. The landlady didn't ask questions. Women who came back after fifteen years and needed a key at night were a category the town pretended not to count.
+She ended at the short-stay rooms above the feed store. Two blocks from the diner. Far enough that she couldn't hear the fryer tick, close enough that the rain still smelled like his closing shift. In her coat pocket, folded against Henry's longer letter, sat the page he had slid under the blue door. The shed under the oilcloth. The key on the hook. Proof with an address she had not walked to yet. The landlady didn't ask questions. Women who came back after fifteen years and needed a key at night were a category the town pretended not to count.
 
 The room held a narrow bed, a radiator that knocked, and a window facing wet brick. [player_name] hung her coat, sat on the edge of the mattress, and counted breaths the way other people counted rosary beads.
 
@@ -53,7 +53,7 @@ Behind her the blue door stuck and sealed. John had stood too close when he aske
 
 So she had given him the night. Boots on wet slate. Coat hem soaking. Her pulse still hammering where his thumb had pressed her through denim and then cruelly withdrawn.
 
-She walked until the fryer tick was gone from her hearing and the ache between her legs was not. A short-stay room above the feed store. Narrow bed. Knocking radiator. Window on wet brick. She locked herself in and sat on the mattress with her thighs pressed together, as if that could undo how wet she still was.
+She walked until the fryer tick was gone from her hearing and the ache between her legs was not. A short-stay room above the feed store. Narrow bed. Knocking radiator. Window on wet brick. Henry's shed note rode in her coat with the longer letter. Oilcloth. Key on the hook. Proof she had not claimed yet. She locked herself in and sat on the mattress with her thighs pressed together, as if that could undo how wet she still was.
 
 Leaving wasn't vanishing. It was refusing to let sex smooth over the spill before the spill had finished its work. Her body didn't care about the ethics. It clenched around nothing while she peeled her damp jeans down and hissed at the cool air. She lay back on a thin blanket that smelled of someone else's detergent and put her own fingers where John's had been. Not gentle. Chasing the unfinished circle he had started.
 

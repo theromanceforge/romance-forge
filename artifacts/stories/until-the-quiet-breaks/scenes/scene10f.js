@@ -32,7 +32,7 @@ She nodded. Her throat burned. Coming home had never been the same as finishing 
 
 They spent the afternoon making the grace concrete. John wrote the chore list on the back of an old diner order pad. Dishes, trash, no storytelling to customers without Clara's nod. Henry signed it with a hand that shook. Clara photographed the signed page for a family archive that would no longer be sealed insurance, but a living record. [player_name] walked the wet boxwood path to the gate and back, rain in her hair, testing whether her body believed the ending. It did. The belief ached.
 
-At dusk they drove to Market Street. The blue door stuck, and John shouldered it with the ease of a man who had rebuilt a business while raising a sister. Inside, coffee steam rose. Mae was already at the window, eyes bright with unfinished gossip. John flipped the sign to OPEN without flinching.
+At dusk they drove to Market Street. The blue door stuck, and John shouldered it with the ease of a man who had rebuilt a business while raising a sister. Inside, coffee steam rose. Mae was already in the window booth, off shift from the post office, eyes bright with unfinished gossip. John flipped the sign to OPEN without flinching.
 
 "Henry's not behind the counter," he told Mae when she asked, his voice even. "He's at Willow learning how to tell the truth. You want eggs, you get eggs. You want the old fiction, you get empty air."
 
@@ -89,7 +89,7 @@ He swallowed her cry with his mouth and worked her through it until her knees we
 
 Market Street at dusk. The blue door stuck, and John shouldered it. Coffee steam. The cracked stool leaning left. Mae asked after Henry. "He's at Willow learning the truth," John said evenly. "Eggs if you want eggs. The old fiction gets empty air."
 
-Mae sat. The town sipped the new quiet. [player_name] took the cracked stool. John's eyes cut to her from the grill, gold and proud. Near closing, Clara came by and taped a sketch of the open blue door above the coffee machine, then headed back to Willow with her sketchbook under her arm.
+Mae sat. The town sipped the new quiet. [player_name] took the cracked stool. John's eyes cut to her from the grill, gold and proud.
 
 When the last customer left, John locked the blue door from inside and rested his forehead on the wood for one breath. Then he turned and pulled [player_name] against it, his mouth open on hers.
 

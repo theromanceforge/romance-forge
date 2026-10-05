@@ -4,7 +4,7 @@ export default {
   title: "Rain First",
   text: `The rain didn't ask permission to keep them. It simply went on, slate roofs singing, Market Street drowned, the ridge road a rumor of water, until asking John to hold her through it felt less like postponement and more like the only honest weather left in Somerton.
 
-[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had gone upstairs with headphones and a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
+[player_name] had demanded truth before closeness. She still meant it. But dawn was hours of thunder away. Clara had walked to Mae's spare room before the curb drowned. She left a warning not to soften anything. Henry's letter lay between their mugs like a third presence. [player_name], who had caught his wrist before his palm reached her cheek, turned her hand in his and said the other true thing.
 
 "Hold me through the rain first," she whispered. "Not as forgetting. As surviving until first light. At dawn I'll ask for every unfinished room in the winter story. Tonight I'm asking for your arms before my courage spends itself entirely on paper."
 
@@ -36,6 +36,8 @@ He rose once to check the back bolt and pour water that tasted faintly of pipes 
 
 They dozed and woke and traded more fragments. The first special he burned after the funeral. The first apartment she painted a color Somerton didn't own. Clara's charcoal phase that turned every margin into an interrogation. Desire ran under the talk like a low current, in their synced breathing and in the almost-kiss that hovered whenever she shifted and his mouth was suddenly close. It didn't feel like denial. It felt like two adults shaping a night that could bear morning's weight.
 
+At six the landline rang. John let it ring out. It was almost certainly Henry, calling to ask whether anyone had said anything yet. He would already be drafting the softer version for morning. The night in each other's arms had bought them sleep. It had also bought Henry a head start.
+
 First light came the way Somerton mornings always had: reluctant, wet, honest. The rain thinned to fine silver. Bruised blue became pearl. The radio clicked the ridge warning down to an advisory. Roads might remember how to be roads. Henry would be reachable. The cover story no longer had the night as an excuse.
 
 John's arms tightened once as she stirred. He didn't kiss her. He had saved that for daylight honesty, or for her to spend.
@@ -45,7 +47,9 @@ John's arms tightened once as she stirred. He didn't kiss her. He had saved that
 [player_name] sat up inside the circle of his arms, the blanket slipping. The letter looked smaller in daylight and somehow more dangerous. Up on Willow, Henry was awake behind his paperweights with the rest of the winter still in him. And here was John, grey eyes steady in the new pale, a Shaw who had been raised on the same quiet, waiting to hear what she would ask of him.`,
   textHot: `The rain didn't ask permission to keep them. It simply went on, slate singing, Market Street drowned, until asking John to hold her through it felt like the only honest weather left. And holding, [player_name] knew, wouldn't stay innocent. Not after a night of knees touching, hands on thighs, and "not yet" spoken like a vow with heat under it.
 
-She had demanded truth before closeness. She still meant the dawn half. But Clara had gone upstairs with her headphones, the blue door was locked, and Henry's letter lay between cold mugs. [player_name] turned her hand in John's and said the other true thing with her pulse already loud.
+She had demanded truth before closeness. She still meant the dawn half. Clara was already at Mae's, two doors from the post office, dry and out of earshot. The blue door was locked. Henry's letter lay between cold mugs.
+
+[player_name] turned her hand in John's and said the other true thing with her pulse already loud.
 
 "Hold me through the rain first," she whispered. "Bodies now, as much as we choose. Truth at first light. I want your arms. I want your mouth, if you can give it without turning it into a way to dodge the morning. At dawn I'll ask for every unfinished room in the winter story. Tonight I'm asking for you."
 
@@ -69,7 +73,7 @@ She chose with her hands. She opened his jeans, wrapped him, stroked until his f
 
 They moved together under the blanket, deep and unhurried, then harder when thunder covered the sounds. Her nails dug into his shoulders. His mouth found her breast when he tugged her shirt higher. The booth creaked like an accomplice. She came again with him buried deep. He followed with a groan pressed to her throat, arms locked around her as if dawn might try to steal her and he had decided otherwise.
 
-After, they cleaned up with napkins and tenderness and dressed enough for dignity in case anyone came down. Then they tangled again under the wool. Small truths returned between kisses: cities without boxwood, lean years, almost-tickets home. His thumb at her jaw. Her leg over his hip. The letter waited on the far side of the booth like a chaperone they had ignored but not erased.
+After, they cleaned up with napkins and tenderness and dressed enough for dignity. Then they tangled again under the wool. Small truths returned between kisses: cities without boxwood, lean years, almost-tickets home. His thumb at her jaw. Her leg over his hip. The letter waited on the far side of the booth like a chaperone they had ignored but not erased.
 
 "I'm still angry," John murmured into her hair, spent and honest. "I'm still glad. I'm still going to ask for the whole cover story when light comes, and I'm still going to remember how you felt around me when I ask." He tipped his forehead to hers. "Sleep if you can. We don't pretend sex erased the ledger. We use it as proof we can face the ledger without running."
 
@@ -86,6 +90,8 @@ Afterward he cleaned her with a kitchen towel warmed under the tap, so careful i
 [player_name] laughed into his throat. "Describe enough. I spent years pretending ambition was the only heat I owned. Henry's letter cracked the quiet. Your mouth finished the job." She bit lightly at his jaw. "At first light I'll still be the woman who demanded truth. I'll also be the woman who took you inside her while the storm trapped us, and called it survival. Both stand."
 
 "Both stand," John agreed. His fingers traced idle patterns on her skin, stirring sparks without asking for a third round. Yet. "We tear the tape at dawn. If it hurts, we hurt in the same room. Preferably after coffee. Preferably still smelling like each other, so Henry understands the quiet didn't break politely."
+
+At six the landline rang. John let it ring out. It was almost certainly Henry, calling to ask whether anyone had said anything yet. He would already be drafting the softer version for morning. The night in each other's arms had bought them sleep. It had also bought Henry a head start.
 
 First light arrived reluctant and wet. The rain thinned to silver. Pearl replaced bruise. John kissed her once, slow and daylight-soft, then met her eyes.
 

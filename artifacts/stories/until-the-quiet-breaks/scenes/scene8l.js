@@ -20,7 +20,7 @@ The kitchen light was soft. A single lamp burned in the living room. John set hi
 
 "Forty-eight hours before Mae's silence runs out." He scrubbed a hand through his hair. "Before Voss starts calling in favors louder than he already has. Before Henry's name hits every porch from here to the river." He looked at her then, properly. "Before Clara has to hear strangers tell her story wrong."
 
-[player_name]'s chest tightened. Clara. John's sister, the girl whose quiet had been bought and sold in pieces by men who thought paper mattered more than people. Henry's exile papers still sat unfinished downstairs in the office drawer. The legal spine of cutting him out, of making his absence permanent and clean. Voss's numbers lived in the same folder. Debt and blood. Always debt and blood.
+[player_name]'s chest tightened. Clara. John's sister, the one whose quiet had been bought and sold in pieces by men who thought paper mattered more than people. Henry's exile papers still sat unfinished downstairs in the office drawer. The legal spine of cutting him out, of making his absence permanent and clean. Voss's numbers lived in the same folder. Debt and blood. Always debt and blood.
 
 John sat beside her. Not touching yet. Close enough that their knees nearly brushed.
 
@@ -103,7 +103,7 @@ John locked the front door hard enough that the glass shivered. The CLOSED sign 
 
 "Forty-eight," he said, voice scraped raw. "Mae'll hold. After that the town eats everything."
 
-"Henry. Clara. Voss," [player_name] said. "All of it."
+"Henry. Voss. The winter," [player_name] said. "All of it."
 
 He came around the counter until the heat of him reached her. Coffee, night air, the clean sweat of a long shift. Close enough that her thighs brushed the laminate and his belt buckle touched her hip. "We don't waste this."
 
@@ -111,9 +111,9 @@ She climbed the stairs to the flat first. He followed with the key. When the ups
 
 "Say what we have," she told him.
 
-"Forty-eight hours before Mae's silence dies." He dragged a hand through his hair, then planted both palms on the table as if bracing. "Before Voss calls louder. Before Henry's name hits every porch. Before Clara hears strangers butcher her story."
+"Forty-eight hours before Mae's silence dies." He dragged a hand through his hair, then planted both palms on the table as if bracing. "Before Voss calls louder. Before Henry's name hits every porch. Before strangers butcher the family's story."
 
-Clara. John's sister. Henry's exile papers still sat unfinished in the office drawer downstairs, legal teeth to cut him out clean. Voss's numbers lived in the same folder. Debt and blood, always.
+Henry's exile papers still sat unfinished in the office drawer downstairs, legal teeth to cut him out clean. Voss's numbers lived in the same folder. Debt and blood, always.
 
 John crossed to her. This time he touched her, his hands framing her waist, his thumbs pressing into the soft give above her hipbones. "I keep thinking about marrying the stories. Yours. Mine. The diner. What Henry did. What we swallowed." His mouth was close enough that she felt the words. "If we stitch them together in private first, the town can't rip them apart so easily when the clock runs out."
 
@@ -145,7 +145,7 @@ He laughed once, rough, and kissed her like he was starving. Mouth open. Tongue 
 
 Her throat burned. Her hips rolled onto his hand. "And the papers?"
 
-"Morning, if we marry the stories tonight. Or they take the night if redemption means finishing the cut first." His free hand gripped your jaw, gentle and filthy at once. "Either way I don't leave this flat without fucking you through the choice—and knowing you're still in the story when Mae's hours are gone."
+"Morning, if we marry the stories tonight. Or they take the night if redemption means finishing the cut first." His free hand gripped her jaw, gentle and filthy at once. "Either way I don't leave this flat without fucking you through the choice—and knowing you're still in the story when Mae's hours are gone."
 
 She kissed him hard, teeth and tongue, while he worked her open on his fingers. When she broke for air, he walked her backward to the couch, pulled her jeans and underwear down her thighs, and dropped to his knees as if worship and hunger were the same religion. His mouth found her without preamble. Tongue flat, then pointed, licking into her while his hands held her hips still. She tangled her fingers in his hair and rode his face. The wet sounds were filthy in the quiet flat. Market Street was a distant heartbeat under the pleasure.
 
@@ -155,7 +155,7 @@ He groaned against her, the vibration lighting every nerve, and sucked her clit 
 
 [player_name] hauled him up. He stripped off his shirt. She dragged his jeans open and pushed them down enough to free his cock, thick and hard, flushed, already leaking. She stroked him once, twice, her thumb smearing the bead at the tip, and his head dropped to her shoulder with a broken curse.
 
-"On the couch," you said. "Now."
+"On the couch," she said. "Now."
 
 He sat. She straddled him, her jeans still tangled at one ankle, and sank down onto him in one long, burning slide that punched the air from both of them. Full. Stretched. The kind of fuck that knew the names of her fears and went on anyway. John's hands locked on her ass, guiding her. She rose and dropped again, gripping him, the slap of skin and the wet drag filling the room.
 
@@ -173,7 +173,7 @@ She came first, sharp and shaking, crying out into his mouth as she clenched and
 
 He came with a groan that sounded like a prayer and a curse together, spilling deep, his hips stuttering, her name in his mouth. She held him while he pulsed inside her. The lamp hummed. Market Street kept its indifferent watch below.
 
-After, still joined, sweat cooling, he stroked your hair back from your face. "Mae held the gossip for us. We don't repay that by being cowards with each other."
+After, still joined, sweat cooling, he stroked her hair back from her face. "Mae held the gossip for us. We don't repay that by being cowards with each other."
 
 "I'm not going to be a coward." Her voice was wrecked. "Even if my legs don't work yet."
 
