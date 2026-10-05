@@ -1,7 +1,7 @@
 export default {
   id: "scene5b",
   layer: 5,
-  title: "Will's car: off-record honesty after Ellison",
+  title: "The Parked Car",
   text: `Will's unmarked car smelled like rain on vinyl, gun oil, and the burnt-coffee ghost that clung to every Harborwick detective who lived too long on precinct sludge. The lot behind the station was a slick black mirror. Fog pressed the chain-link. A foghorn rolled up from the pier district as if the river were clearing its throat to speak a name it didn't have. [player_name] sat in the passenger seat with her hands clenched in her lap, the unfinished sentence from the interview room still in her mouth like a second tongue.
 
 Will shut his door softer than Ellison would have believed him capable of. His jaw was set in the way that meant the charm was offline and the wound was driving. He didn't start the engine. He put both hands on the wheel and stared at the wet windshield as if it might confess first.

@@ -1,7 +1,7 @@
 export default {
   id: "scene6a",
   layer: 6,
-  title: "Full coop: she opens Renny's locked box with Will",
+  title: "Renny's Locked Box",
   text: `Rain had softened to a mist by the time Will followed [player_name] up the narrow stairs to the room that still smelled like a teenager who hadn't come home. The foghorn rolled inland from the pier district, low and lonely. The hallway light buzzed. Renny's door stuck the way it always had, paint swollen from seven damp winters and no one who needed it opened every morning.
 
 Inside: the hoodie folded in the top drawer like a prayer that refused to become laundry. A silver charm bracelet on the desk, missing one charm. Posters curled at the corners. A lockbox under the bed, black metal, scratched, the kind of cheap strongbox a girl buys with festival money and a secret she is not ready to trust to a sister's open face.

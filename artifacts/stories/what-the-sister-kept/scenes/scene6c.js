@@ -1,7 +1,7 @@
 export default {
   id: "scene6c",
   layer: 6,
-  title: "Off-record night: intimacy + case map on the floor",
+  title: "The Map on the Floor",
   text: `Off-record meant the badge stayed in Will's pocket, and the case still climbed the stairs with him into [player_name]'s apartment like a third guest who refused to take off its shoes. Rain wrote soft code on the warehouse glass across the alley. Pier salt drifted through the cracked kitchen window and mixed with the precinct coffee he'd carried up, already lukewarm.
 
 Will knelt on her living-room carpet and emptied his cracked notebook into a constellation: photocopied pier maps, Cho's careful language printed and underlined, festival vendor scraps, a timeline that still refused to give the upriver remains Renny's name. His charcoal shirt was open at the throat where the damp had found him. The charm was banked low. This wasn't Ellison's fluorescent theater. His eyes tracked [player_name] as she dropped to her knees opposite him and laid copies of Renny's Xs beside his own until the floor was a map of almost-trust.

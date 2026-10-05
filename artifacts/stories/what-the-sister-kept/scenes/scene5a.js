@@ -1,7 +1,7 @@
 export default {
   id: "scene5a",
   layer: 5,
-  title: "Ellison's office: cooperate fully or lose access",
+  title: "The Captain's Terms",
   text: `Captain Mara Ellison's office sat three floors above the interview rooms and smelled like policy ink, rain on wool coats, and coffee reheated until it tasted like punishment. The west window looked toward the pier district, where fog clung to warehouse roofs and the river ran the color of old steel. A framed commendation hung crooked behind her desk. [player_name] stood because Ellison hadn't offered a chair. Will stood because sitting would have looked like surrender.
 
 Ellison set her tablet face-down on the blotter. Mid-fifties, charcoal blazer, sleepless eyes that measured people the way Cho measured bone: for fit, for fracture, for liability. "Access is not a right," she said. "Family witnesses do not get to shop the file. You want updates on the upriver remains, the charm analysis, Cho's timeline—you give me everything you withheld seven years ago. Full cooperation. Or you walk out of Harborwick Precinct tonight and you hear about your sister through rumor like everyone else."

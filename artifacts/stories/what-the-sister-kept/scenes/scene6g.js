@@ -1,7 +1,7 @@
 export default {
   id: "scene6g",
   layer: 6,
-  title: "Warehouse lead with Will before dawn",
+  title: "Warehouse Row",
   text: `Dawn was still a rumor when Will parked two blocks from the warehouse east of the old fish auction and killed the engine like a man putting a gun to sleep.
 
 Fog held the street in a soft fist. Salt and rust and yesterday's rain breathed through the cracked window. Chain-link shivered along an empty lot. [player_name] sat in the passenger seat with Renny's absence riding between them. Cho's careful language still ruled the upriver remains: unidentified, pending. Will's cracked notebook waited on the dash. What little sodium light the pier district offered caught the scar through his eyebrow.

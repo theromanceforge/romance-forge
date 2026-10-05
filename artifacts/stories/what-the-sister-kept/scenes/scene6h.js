@@ -1,7 +1,7 @@
 export default {
   id: "scene6h",
   layer: 6,
-  title: "Warehouse lead alone — she finds blood-rust and a charm",
+  title: "The Red Door",
   text: `Will took soft surveillance the way Harborwick took rain: professionally, without romance, already halfway to a charge sheet if the wrong captain asked the wrong question.
 
 He stayed on Owen Vale, butter-porch light in the distance, notebook on the dash, folded into an unmarked car two streets over. [player_name] went alone to the warehouse east of the old fish auction, because alone was the bargain soft surveillance bought: badge on the stepfather, sister on the geography Renny had pointed at. Fog held the pier district in a soft fist. Dawn was still deciding whether to arrive. Cho's language still ruled the upriver remains. Unidentified. Pending.

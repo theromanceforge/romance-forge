@@ -1,7 +1,7 @@
 export default {
   id: "scene9f",
   layer: 9,
-  title: "Clerk escapes: Will hunts; she waits",
+  title: "The Side Door",
   text: `The side door had unlocked itself at the wrong minute, and Marcus Hale had become weather.
 
 [player_name] sat in a precinct chair that smelled like fear and vending-machine coffee. She watched Will tape down the edge of a gauze strip. It wasn't tonight's wound, and it still felt like consequence. The clerk had slipped away into Harborwick's damp history. Somewhere his tip-sheets were already burning, at a licensing desk that knew how to rinse itself into fog. Captain Mara Ellison's radio crackled status requests that sounded like blame with a unit number.

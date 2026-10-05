@@ -1,7 +1,7 @@
 export default {
   id: "scene6i",
   layer: 6,
-  title: "Owen door: Will arrests; she watches",
+  title: "Cuffs on the Porch",
   text: `Will put the cuffs on Owen Vale the way some men put a period at the end of a sentence they'd been rewriting for years.
 
 [player_name] stood on the butter-colored porch and watched steel find Owen's wrists. Rain needled the rail. Renny's absence filled the hallway behind the dryer-sheet sweater like a fourth person who had never learned to leave. Cho's remains still sat upriver without Renny's name, and none of that science stopped the click of the cuffs locking. Will filled the doorway, coat dark with wet, notebook tucked under one arm. He didn't look at [player_name] while he spoke the rights. He looked at Owen like a man who hated artisan liars and recognized a craftsman finally out of tools.

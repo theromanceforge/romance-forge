@@ -1,7 +1,7 @@
 export default {
   id: "scene5l",
   layer: 5,
-  title: "Tip fallout: Will confronts her about obstruction",
+  title: "Obstruction",
   text: `The fallout didn't knock. It walked in with Will's keyless authority and a face stripped of the late smile.
 
 [player_name] opened her apartment door to rain on his shoulders and obstruction already named in his eyes. His dark hair was wet. The scar at his eyebrow stood white against flushed anger. A whitened knuckle flexed around his cracked notebook like he might break the spine the rest of the way. The badge was on his belt tonight, not hidden under the jacket. The charm was banked so hard it looked like absence.

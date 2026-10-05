@@ -1,7 +1,7 @@
 export default {
   id: "scene10b",
   layer: 10,
-  title: "Soft Rebuild — love with one sealed page still healing",
+  title: "Soft Rebuild",
   text: `The soft rebuild didn't arrive as a parade. It arrived as a Tuesday that smelled like pier salt and kettle steam, with one page still sealed and healing anyway.
 
 [player_name] woke in William Akers's bed to rain ticking warehouse glass and the knowledge that Renny's case was mostly closed—clerk charged, Owen's testimony locked into a mercy deal Ellison had swallowed like bitter medicine, Cho's confirmation spoken in a room that still echoed. Renny was named among the dead. The bracelet's gap still lived on [player_name]'s wrist. What remained unfinished was not the sister's fate. It was a sealed page in Will's past: the IA file with Nina Solis's name, the hallway, the teenager who caught chaos Will had ordered into being. Ellison had agreed, quietly, that opening it now would fracture the prosecution calendar and feed a press already drunk on Harborwick scandal. Will had not fought hard enough to reopen it. [player_name] had not demanded he bleed for spectacle.

@@ -1,7 +1,7 @@
 export default {
   id: "scene8l",
   layer: 8,
-  title: "SIM chain: quiet deal",
+  title: "The Quiet Deal",
   text: `The quiet deal smelled like burnt precinct coffee and sealed paper. Captain Mara Ellison preferred both to City Hall shutters. Will hated every page of it and was still signing whatever kept a map breathing. A back-room annex. Soft light. Rain on the high window. Foghorns complained inland like the river clearing a throat that still had no sister's name.
 
 [player_name] sat across from Ellison with Will at her shoulder. Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope. None of that stopped the SIM chain from becoming a bargain instead of a stage.

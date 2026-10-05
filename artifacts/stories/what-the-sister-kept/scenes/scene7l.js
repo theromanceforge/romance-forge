@@ -1,7 +1,7 @@
 export default {
   id: "scene7l",
   layer: 7,
-  title: "Break-open: she and Will choose each other mid-war",
+  title: "The Kitchen Vow",
   text: `They chose each other mid-war in [player_name]'s kitchen while Harborwick rain needled the glass and Renny's old hoodie waited on a chair like a third party who refused to leave the vow.
 
 Will's badge stayed on the table where the obstruction fight had left it, cheap metal cooling between a dare and a promise. The soft net had burned. The tip had spoken. Phone ash lived in a unit bag. Sink-trap ghosts threaded toward a clerk. Ellison's briefing clock was still eating hours across the city. None of that stopped Will from stepping into [player_name]'s space until wet wool and precinct bitterness filled her lungs, his eyes counting her like an interview-room clock that had finally stopped lying about what it wanted.
@@ -14,7 +14,7 @@ Will's badge stayed on the table where the obstruction fight had left it, cheap 
 
 Attraction wasn't a flicker anymore. It was the room's weather. She touched the scar; his pulse jumped; he didn't pull away. He looked at her mouth the way he looked at evidence that might burn him, and decided to keep it anyway.
 
-"The raid call is still coming," Will said quietly. "Having you here is the part I didn't plan for. We can take a quiet deal if the SIM leverage buys sealed pages and a map. Or we can ride the raid aftermath, hospital versus chase if blood and radios decide the hour, and prove this holds under fish-rot air. Either way Renny stays a question mark tonight, and we're still choosing each other while the war is on."
+"The raid call is still coming," Will said quietly. "Having you here is the part I didn't plan for. We can take a quiet deal if the SIM leverage buys sealed pages and a map. Or we can ride the raid aftermath, hospital or chase if blood and radios decide the hour, and prove this holds under fish-rot air. Either way Renny stays a question mark tonight, and we're still choosing each other while the war is on."
 
 [player_name] stepped closer until the peach-plastic perfume faint in Renny's hoodie mixed with Will's wet coat. Foghorns complained across the channel. Chain-link rattled in the dark. Somewhere upriver Cho's careful language still said pending. Rumor had already tried to bury Renny. Neither quiet deal nor raid aftermath would help rumor. Only science and courage and a detective who refused false funerals while loving a woman who had obstructed her own sister's case.
 

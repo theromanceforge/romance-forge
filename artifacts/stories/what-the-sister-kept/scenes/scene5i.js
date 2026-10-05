@@ -1,7 +1,7 @@
 export default {
   id: "scene5i",
   layer: 5,
-  title: "Soft net: Will surveils Owen instead of arrest",
+  title: "Porch Light Watch",
   text: `Harborwick after midnight wore rain like a second skin and surveillance like a third.
 
 [player_name] sat in the passenger seat of Will's unmarked car two blocks from Owen Vale's narrow brick row house. The heater ticked. The windshield was freckled with the kind of drizzle that never quite became weather and never quite stopped. Across the wet street the porch light burned steady: innocent, or performing innocence.
@@ -50,7 +50,7 @@ The figure stopped. Looked at the phone as if it had bitten him. Then, quick and
 
 [player_name]'s stomach dropped. Soft breaking. Evidence dying in a Harborwick alley before Cho's lab, before Ellison's clearance, before the charm could become more than might.
 
-Will's hand left her knee. He was calculating, hard take now versus losing the burn to lawyers by morning. The charm had gone from his face, replaced by the hunter under the costume.
+Will's hand left her knee. He was calculating, a hard take now against losing the burn to lawyers by morning. The charm had gone from his face, replaced by the hunter under the costume.
 
 "Choose fast," he said without looking at her, voice stripped to metal. "We sit and watch him finish, document the burn, take him later when ashes are all that's left. Or we move now and stop him before the evidence dies in that bin. Soft promised patience. It didn't promise I'd let him torch the case."
 

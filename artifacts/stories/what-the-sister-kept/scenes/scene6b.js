@@ -1,7 +1,7 @@
 export default {
   id: "scene6b",
   layer: 6,
-  title: "Full coop: she withholds one letter still",
+  title: "One Letter Kept",
   text: `The lockbox lid was already open when [player_name] made the small, private decision that would either save Renny's last scrap of mercy or teach Will that partnership still had a soft lie in it. Rain ticked the bedroom window. Precinct coffee, burnt and bitter, cooled on Renny's desk beside the silver bracelet with its missing tooth. Toward the pier, a foghorn rolled, low enough to feel in the ribs.
 
 Full cooperation had bought them the hour: Owen Vale named near the festival pier on record, the seven-year omission spent under Captain Mara Ellison's fluorescent honesty, access kept on a leash that could still choke. Will knelt opposite [player_name] on the carpet, scar cutting his left eyebrow, cracked notebook open, pen ready. The charm was sheathed for a room that smelled like vanilla ghost and river wind and absence. His eyes tracked everything: journal, map, USB, and the cream envelope half-tucked under purple leather. For [player_name] — only if.

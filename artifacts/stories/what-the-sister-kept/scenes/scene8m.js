@@ -1,7 +1,7 @@
 export default {
   id: "scene8m",
   layer: 8,
-  title: "Raid aftermath: Will wounded lightly / she chooses hospital vs chase",
+  title: "Blood Under Gauze",
   text: `The ambulance bay smelled like antiseptic and diesel, and like a night that had already spent its gunshot and was trying to find a softer tense. Harborwick General's side entrance took them in under sodium light that made every wound look like rust. Will sat on the gurney edge with gauze pressed to his temple. The medic kept saying lightly, like a prayer that could stop Internal from inventing worse language.
 
 Rain from the east cold-storage row still silvered his stubble. The scar at his eyebrow was lost under a new cut that didn't need poetry. His knuckles flexed once when the blood-pressure cuff tightened, then forced themselves open, as if open hands could prove he was still the detective who'd held his fire until the gun was real. [player_name] stood between the bay doors and the gurney in a borrowed vest that still smelled like fish-rot and rain.
@@ -14,7 +14,7 @@ Her earpiece was dead. Her pulse wasn't. Behind them, the warehouse raid was tur
 
 Captain Mara Ellison's name already lived in someone's phone two blocks away. Lieutenant Rhee's review would smell the old raid on this whether Will invited it or not. His eyes found [player_name] across the bay. Hungry. Tired. Unfinished.
 
-"You stayed," he said, soft enough that the medic pretended not to hear. "Hospital chair. Soft partnership. I told you that path made me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram, and a second suspect who ran while I was finding soft words for lightly wounded."
+"You stayed," he said, soft enough that the medic pretended not to hear. "You picked the hospital chair over the chase. I told you that wanting you here would make me selfish. I'm still selfish. I also still have a clerk-shaped hole in the warrant diagram, and a second suspect who ran while I was finding soft words for lightly wounded."
 
 [player_name] stepped close enough to smell copper and soap. She didn't kiss the blood off his lip in front of the medic. "If you chase tonight—"
 
@@ -51,7 +51,7 @@ Outside, the pier road hissed with rain. Ellison's memo was already writing itse
 
 Vest borrowed and too tight. Nipples peaked from cold and adrenaline and the way Will's grey-green eyes found her mouth like unfinished fucking. Hope and dread soaked her the way his attention did: low, relentless.
 
-"You stayed," Will said, low enough that the medic could pretend not to hear. "Hospital chair. Soft partnership. Still selfish. Still hard." He caught her wrist and drew her palm under the edge of the gown the medic had half-forced on him, over the hammer of his heart. Then lower, for one stolen second, against the thick line of his cock through thin fabric.
+"You stayed," Will said, low enough that the medic could pretend not to hear. "You picked the chair over the chase. I'm still selfish. Still hard." He caught her wrist and drew her palm under the edge of the gown the medic had half-forced on him, over the hammer of his heart. Then lower, for one stolen second, against the thick line of his cock through thin fabric.
 
 "A pipe didn't kill it. You behind me in a vest didn't kill it. The shoot/don't-shoot held, and I still got hard for the way you said my name when I went down. Feel that. That should scare Internal. It scares me."
 

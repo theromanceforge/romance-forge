@@ -1,7 +1,7 @@
 export default {
   id: "scene6j",
   layer: 6,
-  title: "Owen door: family blowup without cuffs yet",
+  title: "Family Weather",
   text: `Will didn't put steel on Owen Vale's wrists. He put his boot on the butter-colored porch and his body in the doorway like a period that refused to finish the sentence.
 
 [player_name] stood half a step behind him. Rain needled the rail, and Renny's absence filled the hallway behind Owen's dryer-sheet sweater like a fourth person who'd never learned to leave. The soft net had burned in the alley: warped plastic, a lighter's kiss, a phone dying before Cho or Ellison could use it. Ash cooled somewhere Will's unit would still dig. What lived on this porch was family detonating without a booking number to make the noise official. Cho's remains still sat upriver without Renny's name, and none of that science stopped Owen's mouth from opening like a weapon.

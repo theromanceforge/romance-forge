@@ -1,7 +1,7 @@
 export default {
   id: "scene9g",
   layer: 9,
-  title: "Hospital dawn: Will and her future",
+  title: "Hospital Dawn",
   text: `Dawn arrived like soft language: antiseptic, machine beeps, rain freckling the hospital window while Harborwick fog tried to erase the pier road.
 
 Will sat on the edge of a bed that wasn't quite his. The gauze at his temple was neat enough for Ellison's footnotes and still ugly enough to remember the pipe, the red door, and the shoot/don't-shoot second that still lived in [player_name]'s ribs like thunder. His notebook lay open on the tray table to a timeline that still refused to print Renny on bone. His eyes found her in the chair. She'd chosen the hospital dawn over the chase, and now she was tasting what that cost while the trail cooled.
@@ -57,7 +57,7 @@ Will's late smile arrived, wrong and fond. His knuckles found her wrist. Then, w
 
 Nina Solis stayed sealed: a hint, a flinch at partner, the charm he wore like armor. Not a striptease for bedside comfort.
 
-[player_name] tasted copper and want. Hospital dawn did not finish the mystery. It finished a fork: body over trail. The spend was still hers and her jeans were still damp from the night's stolen alcove. "Ellison will call soft partnership proximity with better lighting," Will murmured, eyes on wet parking lot, free hand already under her shirt finding a tight nipple and rolling until her hips jerked. "You sitting through CT is cooperation that chose a wounded detective. I asked for dawn because lightly wounded still wants your hand—and your cunt—while machines beep. Offering chase made me slightly less bastard. Slightly."
+[player_name] tasted copper and want. Hospital dawn did not finish the mystery. It finished a fork: body over trail. The spend was still hers and her jeans were still damp from the night's stolen alcove. "Ellison will call this proximity with better lighting," Will murmured, eyes on wet parking lot, free hand already under her shirt finding a tight nipple and rolling until her hips jerked. "You sitting through CT is cooperation that chose a wounded detective. I asked for dawn because lightly wounded still wants your hand—and your cunt—while machines beep. Offering chase made me slightly less bastard. Slightly."
 
 When the corridor cleared, he pulled her into the blind corner of the bay. The gauze brushed her temple as he kissed her, hard enough to bruise, copper shared, teeth both threat and tenderness. His thigh pushed between hers. She gasped. He groaned into her mouth as if the sound hurt more than the cut. His fingers pushed into her jeans, under soaked cotton. She was dripping. He cursed softly and pumped deep.
 

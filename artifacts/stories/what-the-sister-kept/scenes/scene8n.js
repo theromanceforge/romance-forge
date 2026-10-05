@@ -1,7 +1,7 @@
 export default {
   id: "scene8n",
   layer: 8,
-  title: "IA hearing: testify for Will",
+  title: "The Hearing",
   text: `The Internal Affairs hearing room smelled like burnt coffee gone bitter and carpet glue that had given up in 1998. Fluorescents hummed. A recorder sat at the center of the table like a small black judge. Lieutenant Rhee had brought a second chair for Captain Mara Ellison, whose glass-office distrust had condensed into a blazer and a folder thick enough to bruise.
 
 Will sat with his spine too straight. The scar at his eyebrow was pale. His late smile was nowhere. His knuckles flexed once on his knee, then forced themselves open, as if open hands could prove innocence. [player_name] sat beside him. She'd chosen testimony over hiding, and sentences under fluorescent judgment over the storm.
@@ -32,7 +32,7 @@ A foghorn spoke faintly from the harbor beyond the brick. Down the hall a printe
 
 Silence stretched. Rhee resumed like a woman who'd heard loyalty before and priced it. "For the record: the sister's statement supports Detective Akers's conduct as hunting without clearance theater. Proximity is admitted. Compromise is denied. Soft nets are framed as witness preservation rather than romance. Solis remains association smoke." She clicked her pen.
 
-Ellison leaned forward. "Choose carefully. A future after this keeps him lead under rope and you in his mornings. The trial path makes your loyalty a weapon against the man who raised pressure in your house, and it'll dig toward everything you've kept off paper. I prefer the machine's quiet rebuild. The missing-person posters prefer the noise. You two prefer each other. Decide which gets the next hour."
+Ellison leaned forward. "Choose carefully. A future after this keeps him lead under rope and you in his mornings. A trial makes your loyalty a weapon against the man who raised pressure in your house, and it'll dig toward everything you've kept off paper. I prefer the machine's quiet rebuild. The missing-person posters prefer the noise. You two prefer each other. Decide which gets the next hour."
 
 [player_name] almost touched the white knuckle on his knee. She didn't. Rhee's eyes were cameras with pensions.
 
@@ -57,7 +57,7 @@ Ellison catalogued stairwells and parking garages like a woman who could read ar
 
 The door snicked shut. Will had [player_name] against the filing cabinet before the latch settled, his hand on her hip, his mouth at her ear, his thigh pushing between hers until she gasped.
 
-"I want the private loyalty of your testimony," he said, voice wrecked. "Wanting that makes me a bastard. Offering you the trial path anyway makes me slightly less of one." His cock pressed her hip through his trousers, blunt and insistent.
+"I want the private loyalty of your testimony," he said, voice wrecked. "Wanting that makes me a bastard. Offering you the trial anyway makes me slightly less of one." His cock pressed her hip through his trousers, blunt and insistent.
 
 "Build a future, and I walk you out of this room smelling like you, lying only about how hard I got when you defended me. Then I take you in the first empty office after, like gratitude with teeth, my palm over your mouth." He pushed his hand into her jeans, under cotton. She was soaked. Two fingers slid into her without preamble.
 

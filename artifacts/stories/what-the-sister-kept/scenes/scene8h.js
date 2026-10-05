@@ -1,7 +1,7 @@
 export default {
   id: "scene8h",
   layer: 8,
-  title: "Warehouse endgame: Owen confesses partially",
+  title: "Owen's Partial Truth",
   text: `The partial confession tasted like cold glass-room coffee, and like a stepfather's voice finally cracking where the porch-light calm used to live: usable, ugly, still refusing to name bone. Downtown Harborwick held the interview suite in fluorescent honesty. The clock hummed under [player_name]'s ribs like a second interrogation. Rain freckled the one-way glass. Will stood with his notebook open, the scar through his eyebrow catching the overhead light every time Owen Vale looked away.
 
 Captain Mara Ellison watched from the observation side with her CLEARANCE mug and a face that preferred complete sentences. Dr. Lila Cho's language still ruled the upriver remains, even here: unidentified, pending, consistent with. The silver charm was still only like. The warehouse endgame had turned into glass-room pressure the minute Will chose to use the breach ledger and the reconstructed hour against Owen, instead of chasing footsteps into the dark after the clerk.

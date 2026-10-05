@@ -1,7 +1,7 @@
 export default {
   id: "scene6k",
   layer: 6,
-  title: "Phone ash: forensics from the sink trap",
+  title: "Phone Ash",
   text: `Phone ash smelled like melted plastic and Harborwick rain that had tried to put a fire out too late.
 
 Will set the evidence tray on the back-lab table with a care that looked almost tender and almost like a threat. His scar was pale under the strip light. His cracked notebook lay open to a timeline that still refused to print Renny's name on bone. The soft net had ended in an alley bin, with Owen Vale feeding a phone to panic. Now forensics had followed the ash where guilty men always hoped water would finish what fire started: down a drain, into a trap, into the black sludge Cho's people called recoverable if you loved dirt enough.

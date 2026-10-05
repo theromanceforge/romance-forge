@@ -1,7 +1,7 @@
 export default {
   id: "scene7c",
   layer: 7,
-  title: "Floor-map dawn: Cho IDs a second victim pattern",
+  title: "Dawn on the Floor Map",
   text: `Dawn came thin and metallic over Harborwick, the kind of light that made warehouse roofs look like old knives. [player_name] and Will hadn't slept so much as circled the living-room floor on their knees, the case map spread across hardwood that still held last night's rain. Precinct coffee, reheated twice, tasted worse each time. Will's notebook bristled with tabs. Renny's journal photocopies ringed the map like a second coastline. The cream letter, found, read, not yet spent, lay face-down near [player_name]'s hip as if paper could blush.
 
 Will's phone buzzed against the floorboards. Dr. Cho. He put her on speaker without asking, eyes finding [player_name]'s face first, and a foghorn rolled inland as if Harborwick wanted to listen.

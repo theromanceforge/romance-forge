@@ -1,7 +1,7 @@
 export default {
   id: "scene7i",
   layer: 7,
-  title: "Owen in custody: she visits",
+  title: "The Visitation Booth",
   text: `The visitation booth smelled like bleach, old coffee, and the kind of fear that learned to sit still for lawyers.
 
 Owen Vale sat on the other side of the glass with county cuffs dull against his wrists and a public defender's folder already open like a shield. His calm had cracked into something smaller and meaner. [player_name] sat opposite him with a thin mic taped under her collar, where Will had pressed it with a care that felt almost like a kiss and almost like a cuff. The soft net was dead. The hard cuff had happened. Tonight was visit-and-wire: sit across from a stepfather in custody and let him talk toward a city clerk while Ellison's listening van pretended to be weather two floors up.

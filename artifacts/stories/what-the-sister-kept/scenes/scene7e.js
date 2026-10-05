@@ -1,7 +1,7 @@
 export default {
   id: "scene7e",
   layer: 7,
-  title: "Ellison ultimatum: flip on Owen or be charged",
+  title: "Ellison's Ultimatum",
   text: `Captain Mara Ellison did not raise her voice. Harborwick captains who needed volume had already lost the room.
 
 Her office held the west-window fog like a held breath. Burnt coffee steamed from the CLEARANCE mug someone had bought as a joke and she'd kept as a threat. Policy binders leaned in a soft conspiracy. The interview-room clock's hum climbed through the floorboards and nested under [player_name]'s ribs. Will stood to Ellison's left with his notebook shut for once, a stillness that made the air warmer and colder at the same time. On the tablet between them: [player_name]'s pier statement, Owen Vale's name highlighted in ugly yellow, and a draft charging memo that used the word obstruction the way other people used weather reports. Flat. Inevitable. Already halfway to a headline.

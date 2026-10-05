@@ -1,7 +1,7 @@
 export default {
   id: "scene7j",
   layer: 7,
-  title: "Owen out on thin ice: she wears a wire",
+  title: "Thin Ice and a Wire",
   text: `The wire pack sat against [player_name]'s sternum like a second heartbeat Will had taught her to carry onto thin ice.
 
 Owen Vale was out: released on conditions Captain Ellison hated, bail pressure dressed as patience, cuffs traded for a curfew and a promise not to leave Harborwick. The soft net had burned in an alley. Family had detonated on a butter-colored porch, and no cell had kept him. Now the hunt lived outside any cage, with Owen still reaching, still talking, still believing panic could outrun a stepdaughter with a mic taped under her bra band. Will's unmarked idled two blocks from the pier warehouse Owen had named in fragments. Rain needled the windshield. Foghorns complained across the channel.

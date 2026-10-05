@@ -1,7 +1,7 @@
 export default {
   id: "scene8o",
   layer: 8,
-  title: "Public storm: they hide together",
+  title: "Hiding From the Storm",
   text: `The safehouse smelled like old paint and takeout ginger. Two people had chosen each other's throats over Harborwick's microphones, and this was where it had brought them. The blinds were taped. The phones lay facedown. A muted television looped City Hall steps and [player_name]'s mouth refusing to perform grief, or Will's scar caught mid-refusal to apologize, depending on which leak had won the hour. Rain streaked the only window that still showed a slice of pier fog.
 
 Will stood with his back to the door. His knuckles flexed once on the deadbolt he'd already checked twice. His late smile had banked into something almost domestic, and therefore dangerous. [player_name] sat on the edge of a bed that wasn't theirs, Renny's flyer still folded in her coat pocket.

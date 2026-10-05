@@ -1,7 +1,7 @@
 export default {
   id: "scene5n",
   layer: 5,
-  title: "Vendor names a badge number half-heard",
+  title: "Half a Badge Number",
   text: `Marta named a badge number half-heard.
 
 She caught them at the car this time too: same fryer glow, same rag, different second thought. Will had the passenger door open for [player_name] when Marta called across the rain, voice pitched low enough that the pier wind almost stole it.

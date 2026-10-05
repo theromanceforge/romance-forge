@@ -1,7 +1,7 @@
 export default {
   id: "scene8d",
   layer: 8,
-  title: "Letter burned: mercy or cowardice",
+  title: "The Burned Letter",
   text: `The kitchen sink in [player_name]'s apartment held a metal mixing bowl, a book of matches from a pier-district bar that no longer existed, and Renny's cream letter, folded once. Rain needled the warehouse glass. A foghorn rolled inland, low and lonely. Precinct coffee sat burnt on the counter. Will stood opposite her with his notebook closed against his thigh, shirt wrinkled from a dawn that had already delivered Dr. Lila Cho's second-victim pattern without naming anyone's sister.
 
 The scar through his left eyebrow. His charm banked so low it looked like grief standing in a badge's posture. Captain Ellison expected leverage by morning. She wasn't getting this page. The journal copies and USB were still sealed in Will's chain of custody. The letter, with Renny's conditional truth, the second girl moved, Will's name written years early, and the pier night [player_name] had kept, was about to become smoke in a bowl that smelled like dish soap and river damp.

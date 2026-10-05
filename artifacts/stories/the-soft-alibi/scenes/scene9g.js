@@ -1,8 +1,8 @@
 export default {
   id: "scene9g",
   layer: 9,
-  title: "Hospital / Lobby Dawn",
-  text: `Hospital / lobby dawn meant [player_name] found Nolan Greer bruised lightly under fluorescents or lobby morning light—Crownspire's hush cracked, future choosing which door would own them. Early thirties, across-the-hall neighbor—Detective Imani Brooks's homicide interest rose without a settled body. A bruise did not force any of them.
+  title: "Dawn Under Fluorescents",
+  text: `Dawn found [player_name] beside Nolan Greer. He was bruised lightly under the fluorescents, and morning crept toward the lobby glass while Crownspire's hush began to crack. Neither of them knew yet which door would own the day. Across the hall, he was still the neighbor Detective Imani Brooks kept circling, her homicide interest rising without a settled body. A bruise did not force any of them.
 
 "I'm fine," Nolan said, mid-forties holding, brutal charm scraped honest, cufflinks dull for once. "Raid aftermath. Chase. Soft alibi still soft. You decide whether our future bargains with Pell or opens toward a returned name. Neither invents a corpse."
 
@@ -13,7 +13,7 @@ She catalogued the dawn the way Brooks would: hospital brightness or lobby hush,
 "Pell bargained keeps costly truce and a half-open file," he murmured. "Vivienne returned spends dawn into a door that might open on willing leave, staged theater, or paid-unwound. Neither settles all four."
 
 Black car at the curb. Wine rings waiting upstairs. [player_name] felt hospital and lobby dawn fitting her mouth like expensive silk and understood that choosing Nolan and her future would change which soft she could still claim.`,
-  textHot: `Hospital / lobby dawn hit [player_name] as heat under bright light—Nolan Greer's bruise under her palm, rain-money cologne thinned by antiseptic or lobby air, want throbbing between her thighs for a man who might still be hers. Early thirties, across-the-hall aching, mid-forties money pressed close enough that cufflink metal warmed against her wrist. Soft alibi had a pulse; dawn made it unfinished and filthy.
+  textHot: `Dawn hit [player_name] as heat under bright light—Nolan Greer's bruise under her palm, rain-money cologne thinned by antiseptic or lobby air, want throbbing between her thighs for a man who might still be hers. She ached across the hall from him; mid-forties money pressed close enough that cufflink metal warmed against her wrist. Soft alibi had a pulse; dawn made it unfinished and filthy.
 
 "Stay," he murmured against her temple. Vivienne's perfume as third heat in memory. Brooks's file vibrating without a corpse.
 

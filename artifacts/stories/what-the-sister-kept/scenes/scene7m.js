@@ -1,7 +1,7 @@
 export default {
   id: "scene7m",
   layer: 7,
-  title: "Raid: shoot/don't-shoot pressure",
+  title: "Shoot or Hold",
   text: `Raid air smelled like fish-rot, generator oil, and the metallic bright of a decision that would not wait for poetry.
 
 Harborwick's east cold-storage row swallowed the team in staggered dark. Entry A on the dock side, the quieter way, as Will had drawn it on a whiteboard that already felt like another life. Radios clicked. Backup fanned out. A medic hung back where the warrant said mercy lived. [player_name] stayed behind the line in a borrowed vest that smelled like someone else's fear and Will's rain, earpiece hissing soft instructions that turned her pulse into a second radio.

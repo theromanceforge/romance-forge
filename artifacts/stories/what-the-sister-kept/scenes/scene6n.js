@@ -1,7 +1,7 @@
 export default {
   id: "scene6n",
   layer: 6,
-  title: "Badge number: internal affairs shadow",
+  title: "The Badge Number",
   text: `Internal Affairs arrived like weather that had learned their names.
 
 Not a raid. Not cuffs. A soft knock on the conference-room glass, and a woman in a charcoal blazer who smiled without warmth, badge on a lanyard, folder already thick enough to bruise. Will went still the way predators go still. His scar was pale. His late smile was nowhere. One white knuckle flexed on the table edge, where Marta's half-heard digits still lived in ink: badge? 2xxx / 5xxx — generator.

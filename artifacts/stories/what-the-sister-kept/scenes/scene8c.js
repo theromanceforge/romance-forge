@@ -1,7 +1,7 @@
 export default {
   id: "scene8c",
   layer: 8,
-  title: "Letter truth: she reads it aloud to Will in bed",
+  title: "Read Aloud",
   text: `Rain needled the warehouse glass after midnight, a thin metallic hiss that made [player_name]'s bedroom feel smaller than grief and larger than any interrogation room Will had ever walked her through. The cream envelope lay open on the pillow between them, Renny's looping script facing up: For [player_name] — only if. The desk lamp Will had dragged in from the hallway threw a yellow circle that made the paper look carved.
 
 Precinct coffee cooled on the nightstand in a chipped mug. Will's notebook sat closed on the floor beside his boots, as if even paper knew this room wasn't for timestamps yet. He lay on his side facing her, shirt unbuttoned at the throat, the scar through his left eyebrow catching the lamp. His eyes were bloodshot and careful. His charm was banked so low it was almost tenderness.

@@ -1,7 +1,7 @@
 export default {
   id: "scene5d",
   layer: 5,
-  title: "No lawyer: raw admission of the pier sighting",
+  title: "Nothing Held Back",
   text: `"You're dismissed," [player_name] said.
 
 Ms. Patel blinked once, peppermint gum paused mid-chew. "I advise against—"

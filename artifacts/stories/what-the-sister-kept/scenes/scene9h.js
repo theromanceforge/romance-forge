@@ -1,7 +1,7 @@
 export default {
   id: "scene9h",
   layer: 9,
-  title: "Pier dawn: leave Harborwick or stay",
+  title: "Leave or Stay",
   text: `Dawn on Harborwick Pier arrived like unfinished weather: foghorns, salt, rusted chain-link, and festival lantern ghosts that had no right to still smell like funnel cake and grief.
 
 [player_name] stood on the boards where Renny had pointed east seven years ago, mid-twenties, silver charm gap aching like a tooth, Renny's old hoodie ghost folded inland across town as if fabric could keep vigil. William Akers stood beside her, mid-thirties, scar nick pale under grey morning, cracked notebook drinking mist in his jacket, brutal charm banked for a truth-proposal that was not a ring and not a tidy ending. Grey-green eyes found the open water and then found her. Hope and dread shared the planks the way they had shared Cho's bag for weeks. Dr. Lila Cho's science stayed careful: remains unidentified, charm probability elevated, age range ugly with hope. Captain Mara Ellison's cruiser idled at the lot edge without lights—caution wearing a unit number. Soft had returned as pier fog. Soft was expensive.

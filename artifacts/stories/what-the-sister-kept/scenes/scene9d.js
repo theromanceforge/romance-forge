@@ -1,7 +1,7 @@
 export default {
   id: "scene9d",
   layer: 9,
-  title: "Quiet deal: seal parts of the file",
+  title: "Sealed Pages",
   text: `The quiet deal lived in Captain Mara Ellison's office after hours. Burnt precinct coffee. Rain needling the glass. Sealed paper that outlived people, and sometimes outlived honesty. [player_name] sat in the chair that always felt like a softer interrogation. Will stood by the window with his notebook closed and his collar open. He watched Ellison's tablet the way a man watches a fuse he's agreed, against his nature, not to light.
 
 Sealing parts of the file meant collateral stayed collateral. Certain witness names would be softened. Certain Solis-adjacent IA shadows would stay association smoke instead of a dig. Certain Owen Vale details would be bargained into supervised quiet. The chain still existed. Warehouse C still had its marks. The clerk still had a hunt on him. Renny's journal still named what a teenager had seen. But the daylight would be incomplete on purpose.

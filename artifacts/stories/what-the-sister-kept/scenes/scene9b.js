@@ -1,7 +1,7 @@
 export default {
   id: "scene9b",
   layer: 9,
-  title: "Trial path: testify with mercy deal",
+  title: "Mercy on the Record",
   text: `The mercy deal smelled like burnt precinct coffee and paper folded too many times. This was Harborwick's softer justice: sealed at the edges, fluorescent, unfinished. [player_name] sat across from Captain Mara Ellison in a glass conference room above the rain-needled courthouse steps. Will leaned against the wall, his notebook closed for once. He watched the plea language the way a man watches a fuse he isn't allowed to stamp out.
 
 Owen Vale would plead to lesser counts on the smuggling and evidence-tampering chain: Warehouse C, the clerk M.H., the midnight trucks that matched no shipping board. In exchange he'd testify against the clerk, and the sentencing recommendation would leave him a shred of supervised life instead of the deepest cut. The pier night still had to be spoken. Ellison called it managing the political weather. Will called it a sealed page that would itch forever.

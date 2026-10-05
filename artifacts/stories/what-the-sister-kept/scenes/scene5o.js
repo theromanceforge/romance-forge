@@ -1,7 +1,7 @@
 export default {
   id: "scene5o",
   layer: 5,
-  title: "Will leans hard — she becomes the bad-cop shield",
+  title: "Her Shield",
   text: `Will leaned hard, and [player_name] became the bad-cop shield.
 
 She stepped between him and Marta before the next sentence could grow teeth. Rain ticked the aluminum roof of the funnel-cake trailer; fryer oil and cigarette ghosts thickened the air. Will's late smile had gone from charm to instrument, the scar pale, a whitened knuckle flexed on the open notebook.

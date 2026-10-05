@@ -1,7 +1,7 @@
 export default {
   id: "scene9c",
   layer: 9,
-  title: "Press path: blow it open",
+  title: "Blown Open",
   text: `Harborwick's press storm didn't wait for courthouse manners. It took the pier district like weather with microphones. Rain silvered Warehouse C's chain-link. [player_name] stood under a borrowed canopy with copies of Renny's journal and the USB plate lists. Will stood at her shoulder, his charcoal jacket dark with rain, his eyes bloodshot and sharp. He watched the pack as if it were an interrogation room with worse lighting and no Miranda.
 
 Blowing it open meant everything: every warehouse mark Renny had scratched, every midnight truck plate, the clerk's initials expanded into a hunt City Hall couldn't soft-pedal, Owen Vale's late nights spoken outdoors. Captain Mara Ellison had wanted a leash. She wasn't getting one.

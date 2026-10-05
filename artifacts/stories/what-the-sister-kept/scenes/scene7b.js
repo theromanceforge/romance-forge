@@ -1,7 +1,7 @@
 export default {
   id: "scene7b",
   layer: 7,
-  title: "Withheld letter: Will finds it anyway",
+  title: "The Letter Found",
   text: `Rain needled Harborwick's warehouse glass after midnight, a thin metallic hiss that made [player_name]'s apartment feel smaller than grief. The lockbox sat emptied on the coffee table. The journal was photocopied under Will's careful seal, the USB imaged, the pier map photographed. Everything was there except the cream envelope she'd slid into the front pocket of Renny's old hoodie three hours ago and told herself was still protection. For [player_name] — only if. The cotton held the letter against her hip like a second pulse. Precinct coffee had gone cold on the counter. Will's notebook lay open beside the map copies, pen uncapped, waiting for a truth she'd promised in full and then edited.
 
 Will stood in the kitchen doorway with rain still darkening his hair, shirt clinging where the damp had found him. His eyes had tracked the pocket all evening without naming the theft. His allergy to lies made the air taste sharp. Ellison expected the journal packet by morning. Cho's remains still waited in careful language: an age range that could fit Renny, a charm that could match the bracelet's missing piece, lab ID pending. The remains weren't Renny until science said so. The letter might not care about science.

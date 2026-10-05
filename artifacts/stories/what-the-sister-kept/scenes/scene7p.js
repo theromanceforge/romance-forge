@@ -1,7 +1,7 @@
 export default {
   id: "scene7p",
   layer: 7,
-  title: "Chase: reunion at the pier festival anniversary",
+  title: "Anniversary Fog",
   text: `The pier festival anniversary smelled like fried sugar, wet rope, and seven years of unfinished weather.
 
 Harborwick had hung the same cheap lanterns. The same funnel-cake smoke. The same sodium smear on boards that remembered a sixteen-year-old girl's bracelet better than any memo. Crowds moved, memorial-soft and tourist-loud. Missing-person posters of Renny fluttered on a stretch of chain-link near the carnival lot, smile unfinished, age frozen, the tape wrinkling in the rain. Cho's remains still waited upriver. No confirmation. No funeral authorized by science. The city celebrated survival and spectacle anyway, because cities were like that.

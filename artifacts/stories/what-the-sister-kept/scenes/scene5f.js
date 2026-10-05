@@ -1,7 +1,7 @@
 export default {
   id: "scene5f",
   layer: 5,
-  title: "ME Cho calls: unidentified remains' timing contradicts Owen's alibi (still not named Renny)",
+  title: "Cho's Timeline",
   text: `Will answered on the fourth ring with the phone under the shelter of his coat and [player_name] close enough to hear every precise syllable Dr. Lila Cho poured into the rain.
 
 "Akers. Preliminary timing notes. Are you alone?"
@@ -46,7 +46,7 @@ A flatbed rumbled past on the access road, headlights cutting Will's scar into a
 
 She thought of Owen's kitchen light inland, of bleach and old arguments, of the way he'd said Renny ran off with friends with his hands too clean and his eyes too careful. Cho's timing didn't name the silhouette beside him. It only cracked the across-town lie. The rest was still hers to spend or keep.
 
-Will flipped his notebook open under the coat. "I can note the lean without moving on Owen tonight. That's the hope path. We sit with unidentified, we breathe, we don't become the headline Ellison fears. Or I call for a unit and we start asking where he really was. That's the chase. You don't get a third option where this is easy."
+Will flipped his notebook open under the coat. "I can note the lean without moving on Owen tonight. That's hope. We sit with unidentified, we breathe, we don't become the headline Ellison fears. Or I call for a unit and we start asking where he really was. That's the chase. You don't get a third option where this is easy."
 
 Rain needled the black planks. Will waited, the old wound smoking under his silence. Renny's name stayed off the lab tray. The choice hurt either way, which was how [player_name] knew Cho had told the truth.`,
   textHot: `Will answered on the fourth ring with the phone under his coat and [player_name] close enough that his withheld kiss still hummed through her like a second ringtone.
@@ -91,7 +91,7 @@ A flatbed rumbled past, headlights cutting Will's scar white. She used it to bre
 
 "A woman in rain with a detective who wants her badly, a captain who wants clearance, and an ME who won't let her lie with a name." Will's charm flickered, then died into honesty. "Owen earned a lean. He hasn't earned a funeral. Different receipts. I can hold both. Question is whether you can."
 
-She thought of Owen's kitchen light, bleach, friends, hands too clean, and the silhouette she'd never stated. Cho had cracked the alibi, not the silhouette. Will's notebook opened under the coat. "Hope path: note the lean, don't move tonight, don't become Ellison's headline. Chase path: call a unit, ask where he was when the debris says he lied. No easy third. And [player_name]—" his gaze dropped to her mouth, shameless "—either way, I'm going to smell like wanting you through the whole damn thing. Budget for that."
+She thought of Owen's kitchen light, bleach, friends, hands too clean, and the silhouette she'd never stated. Cho had cracked the alibi, not the silhouette. Will's notebook opened under the coat. "Hope means: note the lean, don't move tonight, don't become Ellison's headline. Chase means: call a unit, ask where he was when the debris says he lied. No easy third. And [player_name]—" his gaze dropped to her mouth, shameless "—either way, I'm going to smell like wanting you through the whole damn thing. Budget for that."
 
 Rain needled the planks. Will waited with rain in his lashes and want in his silence, and Cho's lean burning in both their pockets.`,
   choices: [

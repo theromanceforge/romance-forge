@@ -1,7 +1,7 @@
 export default {
   id: "scene7k",
   layer: 7,
-  title: "Sink-trap SIM: messages to a city clerk",
+  title: "Messages to a Clerk",
   text: `The SIM chain glowed on Will's laptop like a municipal throat clearing itself in fragments.
 
 Back-lab strip light. A solvent ghost. Burnt precinct coffee. [player_name] sat shoulder to shoulder with him while rain freckled the high window and Cho's remains still waited upriver without Renny's name. The soft net had burned. The sink trap had yielded. Phone ash had become recoverable. Now the nano-SIM's surviving messages threaded toward a city clerk: timestamps after midnight, stubs that resolved to a Harborwick directory entry half-redacted by politics, and a repeating vocabulary, soft, M, move the paper, sister pointed, quiet or loud, that made [player_name]'s mouth taste of old festival fog.

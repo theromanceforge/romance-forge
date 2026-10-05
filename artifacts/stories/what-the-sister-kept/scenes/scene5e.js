@@ -1,7 +1,7 @@
 export default {
   id: "scene5e",
   layer: 5,
-  title: "Rain kiss unfinished — crime-scene tape between them",
+  title: "The Unfinished Kiss",
   text: `The rain didn't ask permission. It sheeted Harborwick's pier into black glass and pushed [player_name] the last inch into Will's mouth, as if the weather itself had grown tired of almost.
 
 His lips were cold and then not. Coffee and salt. The scar through his eyebrow brushed her forehead when he angled down, his coat dark with water, the charm collapsing into something rawer than a smile. Foghorns answered across the channel. Chain-link shivered. Somewhere inland a warehouse door slammed like a gavel.

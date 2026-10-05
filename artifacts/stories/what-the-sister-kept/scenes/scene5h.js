@@ -1,7 +1,7 @@
 export default {
   id: "scene5h",
   layer: 5,
-  title: "Partial ME report — she brings Will to Owen's door; dread/hope unresolved",
+  title: "Two at Owen's Door",
   text: `Will took Owen Vale's porch steps like a man who had kicked doors and regretted one of them.
 
 [player_name] walked half a pace ahead with Cho's partial ME report folded in her fist: unidentified remains, timing lean, charm consistent but not unique. She had chosen the badge on the boards. Renny's fate stayed as open as a lab tray. Will's bulk filled the butter-colored porch light behind her, scar wet, coat dark, the charm locked into working steel.

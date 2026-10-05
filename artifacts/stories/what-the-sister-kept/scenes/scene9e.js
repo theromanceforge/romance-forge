@@ -1,7 +1,7 @@
 export default {
   id: "scene9e",
   layer: 9,
-  title: "Clerk caught: Renny's killer named",
+  title: "The Name at the Top",
   text: `The interview room smelled like burnt precinct coffee and wet wool. The clock had watched too many family contacts invent softer weather. Marcus Hale sat cuffed to the bolted table: small, municipal, the cigarette brand from the fish-auction kiosk still ghosting his lower lip. He had licensing-desk eyes, the kind that had learned to look past teenagers who pointed at red doors. Captain Mara Ellison watched through the glass.
 
 Dr. Lila Cho's latest memo sat in Will's notebook. The remains were unidentified. The charm probability was higher. The age range was ugly with hope. Science was still careful.

@@ -1,7 +1,7 @@
 export default {
   id: "scene8p",
   layer: 8,
-  title: "Pier anniversary: proposal of truth not marriage",
+  title: "A Vow, Not a Ring",
   text: `The pier festival anniversary smelled like fried sugar, wet rope, and seven years of unfinished weather asking for a vow the law would not recognize. Harborwick had hung the same cheap lanterns. The same funnel-cake smoke. The same sodium smear on boards that remembered a sixteen-year-old girl's bracelet better than any memo. Crowds moved in memorial soft and tourist loud. Missing-person posters of Renny fluttered on a chain-link stretch near the carnival lot—smile unfinished, age frozen, hope and dread sharing the tape with rain.
 
 Remains still waited upriver in Dr. Lila Cho's patience. The silver charm in evidence was still only like. No confirmation. No funeral authorized by science. The city celebrated survival and spectacle anyway, because cities were like that. [player_name] stood in a crowd that thought anniversary meant closure, and tasted pier salt where Renny had pointed while a clean jacket held a wrist.
@@ -22,7 +22,7 @@ A kid ran past shouting partner at a parent in a silly costume. Will flinched, s
 
 Will nodded past the posters toward the open pier, then toward the city inland, where hospital windows glowed soft and dishonest. "Two dawns. Answer the pier truth-proposal. Not marriage. Not a ring. Not a tidy ending. Truth: what you kept, what I won't spill yet, what we refuse to let the machine write. We stand here and say the hard sentences to each other like a vow the law doesn't recognize. And dawn finds us still on these planks, deciding to leave or stay, with honesty as the only jewelry."
 
-His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into soft partnership under machines and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
+His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into a quieter life together under hospital light and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
 
 She thought of Will's knuckles, and of the hallway he still wouldn't open. "Proposing truth means choosing us as the first audience," she said.
 

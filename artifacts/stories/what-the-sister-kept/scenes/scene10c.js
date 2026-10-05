@@ -1,7 +1,7 @@
 export default {
   id: "scene10c",
   layer: 10,
-  title: "Leave Free — she leaves Harborwick; Will respects the freedom",
+  title: "Leave Free",
   text: `The pier smelled like salt and endings when [player_name] told Will she was leaving Harborwick.
 
 Fog clung to the chain-link the way memory clung to Renny's name: spoken now, filed now, no longer a maybe. Cho had confirmed. The clerk was charged. Owen's deal had carved what mercy it would carve. The cold case was closed enough for daylight, and still [player_name] couldn't breathe inside the city's damp ribs without tasting every interview-room clock she'd survived. Freedom wasn't spite. It was her sister's last unspent gift: a life that didn't have to be rebuilt on the same pier where the silence began.
