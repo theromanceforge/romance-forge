@@ -38,9 +38,7 @@ Nolan nodded slowly. He came one step into the kitchen, then stopped, as if the 
 
 Her stomach dropped. "A handler."
 
-"Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. I can find him. But if I go after him, I go tonight, before Pell hears and warns him off."
-
-"Let me go," Nolan said. "Tonight. Leave your lamp on and your door cracked, and I'll knock when I'm back. I need to know you'll be here."
+"Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. I can find him. But if I go after him, I go tonight, before Pell hears and warns him off. Let me go tonight. Leave your lamp on and your door cracked, and I'll knock when I'm back. I need to know you'll be here."
 
 Her throat tightened. The ash had barely cleared the drain, and already her mouth wanted to say the burned pages out loud anyway — in Crownspire's glass, to anyone who would listen — as if fire had only made the words lighter to carry.
 
@@ -103,11 +101,9 @@ Her stomach dropped. Heat and dread knotted low in her belly until she couldn't 
 
 "A handler," she said.
 
-"Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. If I go, I go tonight, before Pell warns him off."
+"Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. If I go, I go tonight, before Pell warns him off. Leave the lamp on. Crack the door. I'll knock when I'm back. I need to know you'll be here."
 
-"Leave the lamp on," Nolan said. "Crack the door. I'll knock when I'm back. I need to know you'll be here."
-
-Ash still clung to her wrists. Her mouth wanted the burned pages spoken anyway — into Crownspire glass, to anyone who'd listen — as if fire had made the words lighter, not gone. Waiting across the hall in his shirt, wet and empty, sounded like a different kind of burning.
+Gray ash still clung to her damp wrists. Her mouth wanted the burned pages spoken anyway — into Crownspire glass, to anyone who'd listen — as if fire had made the words lighter, not gone. Waiting across the hall in his shirt, wet and empty, sounded like a different kind of burning.
 
 He crossed the kitchen. He stopped close enough that she felt the warmth coming off his chest. He smelled like night air and the smoke she'd made.
 
@@ -139,7 +135,7 @@ His breath caught against her temple. She felt his hand flex once, the pressure 
 
 Outside, a siren rose two streets over and faded. The tap dripped once into the ash-gray sink.
 
-She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. She didn't let go of his wrist. She didn't pull him closer. She rocked once into his palm, shameless, and felt him shake against her, and kept them both there at that exact distance while the tap dripped ash-gray into the sink and the distant siren faded and her cunt ached for a decision her mouth wouldn't spend.`,
+She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. She didn't let go of his wrist. She didn't pull him closer. She rocked once into his palm, shameless, and felt him shake against her, and kept them both there at that exact distance, his wrist in her fist, his heat in her palm, her mouth still full of the words she had burned.`,
   choices: [
       {
           "id": "scene9c",
@@ -149,7 +145,7 @@ She stood with her back against the counter and his hand on her chest and her mo
       {
           "id": "scene9f",
           "text": "Let the handler escape — wait across the hall while Nolan hunts",
-          "textHot": "Wait across the hall while hunt and unfinished want both own your pulse"
+          "textHot": "Wait across the hall with the lamp on and his touch still on your skin"
       }
   ]
 };

@@ -143,9 +143,9 @@ Her hips tilted into his thigh again, slower. The pressure lit her up, a deep th
 
 "[player_name]," Nolan said, and her name in his mouth made her clit pulse. "What do you want?"
 
-"You," she said. "And I can't have that until I pick."
+"You," she said. "And I can't have you tonight. Not with Brooks's wire waiting."
 
-He smiled against her cheek, sad and wanting. "Then pick slow," Nolan said. "I'm not going anywhere."
+He smiled against her cheek, sad and wanting. "Then I'll wait," Nolan said. "I'm not going anywhere."
 
 Rain ticked against the revolving door. Her reflection in the glass had flushed cheeks and parted lips.
 

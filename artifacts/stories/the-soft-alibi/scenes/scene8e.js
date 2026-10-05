@@ -99,9 +99,9 @@ Her nipples drew tight against her bra. She hated that her body kept doing this,
 
 "He'd want me not to go out there."
 
-"Yes."
+"Yes." His thumb traced her collarbone through her blouse while he said it, as if the word needed softening on the way in.
 
-Pell's offer sat warm and easy — a soft-close drawer, his mouth on her neck every night, the question buried under it. Her finger stayed on Calloway anyway, pressing so hard the paper dented, as if it already meant to carry the map somewhere Pell wouldn't approve.
+Pell's offer sat warm and easy — a soft-close drawer, his mouth on her neck every night, the question buried under it. Her finger stayed on Calloway anyway, as if it already meant to carry the map somewhere Pell wouldn't approve.
 
 "What do you want?" she asked him.
 
@@ -131,7 +131,7 @@ His other hand left the table and found her chin, tipping her face back against 
 
 "I'd say her name," Nolan said against her mouth, not quite kissing. "You'd say yours. Then we'd find out which of us she was hiding from."
 
-The words made her ache. She tipped her chin and brushed her lips against his, a touch without pressure, and felt him shake once behind the chair. She didn't deepen it. She held that almost-kiss the way she held his hand on her thigh: deliberate, hers, the pressure of both making her hips try to tilt toward his thumb on their own.
+The words made her ache. She tipped her chin and brushed her lips against his, a touch without pressure, and felt him shake once behind the chair. She didn't deepen it. She held that almost-kiss the way she held his hand on her thigh: deliberate, hers.
 
 She counted the stops on the inland line with her eyes, nine stations between the river and a door she had never seen, while his thumb waited at the edge of her underwear and her hips tried to tilt toward it on their own.
 

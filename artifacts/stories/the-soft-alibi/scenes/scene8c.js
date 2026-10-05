@@ -64,7 +64,7 @@ He drew her closer. Not a kiss. Just closer, until her forehead rested on his co
 
 "Whatever you swear," Nolan said into her hair, "I'll stand next to it. Small or loud."
 
-She believed him. That was the worst part. She believed him completely, and believing him meant the choice was entirely hers.
+She believed him. That was the worst part. She believed him completely, and it left nobody to blame but herself for whatever she said next.
 
 "Did you ever think she left on her own?" she asked.
 
@@ -123,7 +123,7 @@ His heart was fast under her ear. Faster than his voice. She pressed her mouth t
 
 "Whatever you swear," Nolan said, "I'll stand next to it. Small or loud."
 
-She believed him. That was the terrible part. Believing him made the choice entirely hers, and her body didn't want to choose anything. Her body wanted his hand to move.
+She believed him. That was the terrible part. Believing him left her nobody to hide behind, and her body didn't want to hide. Her body wanted his hand to move.
 
 "Did you ever think she left on her own?" she asked.
 

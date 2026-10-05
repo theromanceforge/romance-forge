@@ -60,7 +60,7 @@ She ran her thumb along the margin until the cream stock warmed under it. Somewh
 
 "What do I do with my hands," she said, "once I stop touching this?"
 
-"Put them on me," Nolan said. "Or in your pockets. Just don't put them back into pretending."
+"Put them on me," Nolan said. "Just don't put them back into pretending."
 
 She almost laughed. She almost cried. She did neither.
 
@@ -123,7 +123,7 @@ She gasped. Her head fell back against his shoulder. His other hand came up and 
 
 "What do I do with my hands," she managed, "once I stop touching this?"
 
-"Put them on me," Nolan said against her throat. "Or in your pockets. Just don't put them back into pretending."
+"Put them on me," Nolan said against her throat. "Just don't put them back into pretending."
 
 She almost came from the words alone. She laughed, shaky, and the laugh turned into a moan when his fingers pressed harder, finding the wet heat through cotton and circling once, twice, slow.
 
@@ -141,7 +141,7 @@ Across the avenue, a light flicked on in an office that should have been empty. 
 
 "Friday," she said.
 
-"I know," Nolan said. "Not never. I'll keep my hand right here."
+"I know," Nolan said. "Until Friday, I'll keep my hand right here."
 
 She held his gaze. She held the paper. She curled her fingers into his shirt and felt his heart kick once under her palm, hard, while his hand stayed between her legs, throbbing, and she didn't let go of either.`,
   choices: [
@@ -153,7 +153,7 @@ She held his gaze. She held the paper. She curled her fingers into his shirt and
       {
           "id": "scene9b",
           "text": "Mercy-rewrite what you will swear",
-          "textHot": "Mercy-rewrite the swear while his mouth still unfinished on yours"
+          "textHot": "Mercy-rewrite the swear while his hand still holds you"
       }
   ]
 };

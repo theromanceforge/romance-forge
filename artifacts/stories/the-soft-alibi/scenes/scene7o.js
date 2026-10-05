@@ -18,7 +18,7 @@ The revolving door turned and threw her reflection back at her in warped panels.
 
 Pell hadn't texted *held?* this time. She remembered the word anyway. It sat under her skin like a second pulse.
 
-"I won't pick for you," Nolan said. "If you call me into the light, I'll stand there. If you call me upstairs, I'll go. Gladly. But I don't think you were built for only hallways."
+"I won't pick for you," Nolan said. "Wherever you call me, I'll go. Gladly. But I don't think you were built for only hallways. I've watched you walk into rooms that wanted you small."
 
 The fountain's spray drifted on a draft from the door, and a fine cold mist touched her cheek. She didn't wipe it away. Nolan watched a droplet slide toward her jaw and looked like he wanted to catch it with his thumb. He kept his hands in his pockets.
 
@@ -75,7 +75,7 @@ The revolving glass threw her reflection back in warped panels: flushed cheeks, 
 
 Pell hadn't texted *held?* this time. She remembered it anyway. It lived under her skin like a second pulse, and right now that pulse was beating between her legs.
 
-"Call me into the light and I'll stand there," Nolan said. "Call me upstairs and I'll go." His gaze dropped to her mouth and stayed. "Gladly. For days."
+"Wherever you call me, I'll go," Nolan said. His gaze dropped to her mouth and stayed there, heavy as a hand. "Gladly. For days."
 
 Heat rolled up her throat. She pressed her thighs together under her coat and felt the slick of her own wanting.
 
@@ -118,7 +118,7 @@ The admission went through her like a swallowed mouthful of wine, warm all the w
       {
           "id": "scene8m",
           "text": "Stand in public after the raid — protect him or bruise him",
-          "textHot": "Stand in public after the raid, heat still unfinished"
+          "textHot": "Stand in public after the raid with your palm still hot from his"
       },
       {
           "id": "scene8o",
