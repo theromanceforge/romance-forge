@@ -4,7 +4,7 @@ export default {
   title: "Locked Drawer",
   text: `The key was small and warm, and it turned on the first try.
 
-[player_name] had expected the drawer to stick. It slid out smooth and silent on good runners, the way everything in this apartment moved, and the smell that came up out of it was paper and cedar and, faintly, him.
+[player_name] had expected the drawer to stick. It slid out smooth and silent on good runners, the way everything in this apartment moved. The smell that came up was paper and cedar and, faintly, him.
 
 Nolan stood two steps behind her. He didn't come closer. She could feel him not coming closer.
 
@@ -48,7 +48,7 @@ She looked up at him.
 
 "So nobody would come looking." His jaw worked. "If she wanted to be gone, I wanted her to have it. If she didn't—" He stopped. "I didn't let myself finish that sentence. Not once. Not even at your door."
 
-The fourth folder was empty except for one page. A photocopy of the slate, the white rows marked in pencil, and in the margin, in Pell's precise hand, a single word beside the first blank. Delivered.
+The fourth folder was empty except for one page. A photocopy of the slate, the white rows marked in pencil. In the margin, in Pell's precise hand, a single word sat beside the first blank. Delivered.
 
 [player_name] put it down very carefully, as if it might go off.
 
@@ -64,7 +64,7 @@ The leather box held cufflinks. Gold, plain, the pair he wore. A second pair, id
 
 That left the envelope.
 
-Outside the glass the city had gone the deep blue it went at three in the morning. In a few hours Brooks would be asking her questions again, patient and gray and awake, and whatever [player_name] read tonight she would carry into that room. She couldn't unread any of it. She already couldn't unread the word in the margin.
+Outside the glass the city had gone the deep blue it went at three in the morning. In a few hours Brooks would be asking her questions again, patient and gray and awake. Whatever [player_name] read tonight she would carry into that room. She couldn't unread any of it. She already couldn't unread the word in the margin.
 
 She picked it up. It was thick, a few pages, the tape yellowed at the edges. The V had been written fast.
 
@@ -80,9 +80,9 @@ She picked it up. It was thick, a few pages, the tape yellowed at the edges. The
 
 She turned the envelope over in her hands. Light. Heavy. It weighed nothing and she couldn't put it down.
 
-This was cooperation, then. Not a confession. A drawer full of reasons that pointed four ways at once, and a man standing behind her who had decided, finally, to let her see all of them.
+This was cooperation, then. Not a confession. A drawer full of reasons that pointed four ways at once. Behind her stood a man who had decided, finally, to let her see all of them.
 
-He came the last step. She felt the heat of him at her back. He didn't touch her with his hands. He bent his head and rested his mouth against the side of her neck, just below her ear, not kissing, just there, his breath slow and warm on her skin.
+He came the last step. She felt the heat of him at her back. He didn't touch her with his hands. He bent his head and rested his mouth against the side of her neck, just below her ear. He was not kissing her. He was just there, his breath slow and warm on her skin.
 
 "Thank you for looking," he said against her.
 
@@ -133,7 +133,7 @@ She set it down as if it might go off. Her hands were cold. Her skin under his t
 
 "I believe he believes I'll stop asking," he said.
 
-The leather box held two pairs of cufflinks. Plain gold. One with a dent in the face. She didn't ask. Some things in the drawer were evidence and some were just a man's life, and she couldn't tell which anymore. She only knew that her body hadn't stopped wanting him once, not through the wire, not through the word in the margin, and that this frightened her more than anything on paper.
+The leather box held two pairs of cufflinks. Plain gold. One with a dent in the face. She didn't ask. Some things in the drawer were evidence and some were just a man's life, and she couldn't tell which anymore. She only knew that her body hadn't stopped wanting him once. Not through the wire. Not through the word in the margin. That frightened her more than anything on paper.
 
 Then the envelope. It lay at the back of the drawer by itself, as if everything else had been arranged around it.
 
@@ -151,7 +151,7 @@ She picked it up. Thick. The tape yellowed. The V written fast.
 
 She turned the envelope in her hands. It weighed nothing. She couldn't put it down.
 
-His other hand came to her hip. He drew her back against him until she felt his whole body along hers, his chest at her shoulder blades, his hips at her ass, and he was hard. She felt that too. Her breath went shallow.
+His other hand came to her hip. He drew her back against him until she felt his whole body along hers. His chest at her shoulder blades. His hips at her ass. He was hard. She felt that too. Her breath went shallow.
 
 "You're shaking," he murmured.
 
@@ -159,13 +159,13 @@ His other hand came to her hip. He drew her back against him until she felt his 
 
 "I know where every one of them is," he said. "I've had my mouth on all of them."
 
-Heat went straight down through her. Her nipples tightened against the silk. She pressed her thighs together, and he felt her do it, and the hand on her hip slid lower, over her belly, and stopped just above where she wanted it.
+Heat went straight down through her. Her nipples tightened against the silk. She pressed her thighs together, and he felt her do it. The hand on her hip slid lower, over her belly, and stopped just above where she wanted it.
 
 He bent his head and put his mouth on her neck below her ear. Open. Wet. Slow. She tipped her head to give him more without deciding to.
 
 "Thank you for looking," he said against her skin.
 
-The envelope was in both her hands. Her thumbnail was under the edge of the tape. His mouth moved down her throat, and his hand moved lower, pressing through the silk, and she felt herself go wet and heavy against his palm.
+The envelope was in both her hands. Her thumbnail was under the edge of the tape. His mouth moved down her throat. His hand moved lower, pressing through the silk, and she felt herself go wet and heavy against his palm.
 
 She whimpered. She didn't drop the envelope.
 
@@ -173,7 +173,7 @@ His thumb on her ribs kept counting. His hand between her legs pressed, and circ
 
 Outside the glass the city had gone deep blue. In a few hours Brooks would be asking her questions again. Whatever she read tonight she would carry into that room.
 
-She held the envelope against her chest with her thumbnail lifting one corner of the tape, a quarter inch, no more, while his mouth stayed on her throat and his hand stayed still between her legs, both of them waiting for her to move first.`,
+She held the envelope against her chest with her thumbnail lifting one corner of the tape, a quarter inch, no more. His mouth stayed on her throat. His hand stayed still between her legs. Both of them waited for her to move first.`,
   choices: [
       {
           "id": "scene7a",

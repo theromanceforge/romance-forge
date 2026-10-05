@@ -4,7 +4,7 @@ export default {
   title: "Marble Printouts",
   text: `The pages covered her marble table edge to edge.
 
-[player_name] had laid them out in order, the way she'd once laid out a jigsaw puzzle on this same table on a rainy Sunday before she knew him. Six months. Dates down the left. Times, doors, initials. The white rows were just as white on paper as they had been on Rhea's slate.
+[player_name] had laid them out in order. She had once laid out a jigsaw puzzle on this same table on a rainy Sunday, before she knew him. Six months. Dates down the left. Times, doors, initials. The white rows were just as white on paper as they had been on Rhea's slate.
 
 Nolan stood on the other side of the table with his sleeves rolled to the elbow and a glass of wine he hadn't touched. The ring it would leave was going to be the first one he'd ever left on her marble instead of his.
 
@@ -26,7 +26,7 @@ She didn't need to look at the paper for those. She marked them from memory. Oct
 
 "I know," he said again.
 
-She kept going. She worked down the page row by row. He leaned over the table across from her and read with her, his finger moving under the lines, and for a while they didn't speak at all. Just the sound of paper and the highlighter's squeak and the rain on her small window. It was the most intimate thing they had ever done, she thought, and neither of them had taken off a single piece of clothing.
+She kept going. She worked down the page row by row. He leaned over the table across from her and read with her, his finger moving under the lines. For a while they didn't speak at all. Just the sound of paper and the highlighter's squeak and the rain on her small window. It was the most intimate thing they had ever done, she thought, and neither of them had taken off a single piece of clothing.
 
 Then her highlighter stopped.
 
@@ -42,7 +42,7 @@ A Thursday in late February. Mrs. Greer, arrival, 6:02 p.m. No departure time be
 
 He didn't answer right away.
 
-She already knew. She remembered that night better than she wanted to. He'd come to her door at ten. They'd gone to bed. And a little after midnight his phone had lit up on her nightstand, and he'd looked at it and gotten up and said a call, I'll be back, and kissed her forehead. And he had come back. At two. Cold hands. He'd gotten into bed behind her and held her so tightly she couldn't turn around.
+She already knew. She remembered that night better than she wanted to. He'd come to her door at ten. They'd gone to bed. And a little after midnight his phone had lit up on her nightstand. He'd looked at it, gotten up, and said a call, I'll be back. Then he kissed her forehead. And he had come back. At two. Cold hands. He'd gotten into bed behind her and held her so tightly she couldn't turn around.
 
 "You left," she said. "At midnight. You came back at two."
 
@@ -58,7 +58,7 @@ She already knew. She remembered that night better than she wanted to. He'd come
 
 It wasn't fair. It was true. She was getting very tired of the two being the same thing.
 
-She looked at him across the pages. Mid-forties, sleeves rolled, the scar pale along his jaw under her cheap kitchen light. He looked like a man who had been waiting a long time for someone to find this exact line, and was almost relieved it was her.
+She looked at him across the pages. Mid-forties, sleeves rolled, the scar pale along his jaw under her cheap kitchen light. He looked like a man who had been waiting a long time for someone to find this exact line. He was almost relieved it was her.
 
 Her phone lit up on the marble, next to the highlighter. A text. She turned it over.
 
@@ -84,13 +84,13 @@ She looked down at the pages. All the highlighted nights. Her nights. His. The c
 
 "I don't think it's mine to let," he said. "Not anymore."
 
-He came around the table. Slowly. He stopped behind her chair. She felt him there before he touched her, the warmth of him at her back, and then his hands came down on the edge of the marble on either side of her, caging the pages, caging her.
+He came around the table. Slowly. He stopped behind her chair. She felt him there before he touched her, the warmth of him at her back. Then his hands came down on the edge of the marble on either side of her, caging the pages, caging her.
 
 He bent his head. His breath moved the hair at the side of her neck. His mouth was a fraction of an inch from her skin, just below her ear. Not touching. She could feel exactly where it would land.
 
 "I'm sorry," he said, very low, "that the one night I can't account for is a night I spent with you."
 
-She didn't turn her head. She didn't lean away. The highlighter was still in her hand, uncapped, resting on the line that said 1:10 a.m., bleeding a small yellow star into the paper while his breath stayed warm against her throat and neither of them moved the last fraction of an inch.`,
+She didn't turn her head. She didn't lean away. The highlighter was still in her hand, uncapped, resting on the line that said 1:10 a.m. It bled a small yellow star into the paper. His breath stayed warm against her throat. Neither of them moved the last fraction of an inch.`,
   textHot: `The pages covered her marble table edge to edge.
 
 Six months, laid out in order. Dates down the left. Times, doors, initials. The white rows were just as white on paper.
@@ -115,7 +115,7 @@ When she looked up, he was watching her hand, and his eyes had gone dark.
 
 His breath changed. "I know."
 
-They worked down the pages. He leaned over the table across from her and read with his finger under the lines, and his shirt fell open at the throat, and she kept losing her place looking at his skin. Paper. The highlighter squeaking. Rain on the small window. Her nipples tight under the silk the whole time, and his eyes dropping to them, and coming back up.
+They worked down the pages. He leaned over the table across from her and read with his finger under the lines. His shirt fell open at the throat. She kept losing her place looking at his skin. Paper. The highlighter squeaking. Rain on the small window. Her nipples tight under the silk the whole time, and his eyes dropping to them, and coming back up.
 
 Then her highlighter stopped.
 
@@ -167,7 +167,7 @@ His mouth hovered just below her ear. Not touching. She could feel exactly where
 
 "I'm sorry the one night I can't account for," he murmured, "is one I spent with you."
 
-His hand left the marble. It slid down over her shoulder, over the silk, and cupped her breast, and his thumb found her nipple through the fabric and stroked it once. She gasped. Her back arched off the chair.
+His hand left the marble. It slid down over her shoulder, over the silk, and cupped her breast. His thumb found her nipple through the fabric and stroked it once. She gasped. Her back arched off the chair.
 
 "Nolan," she said.
 
@@ -177,7 +177,7 @@ She didn't. Her thighs parted under the table. She was wet, soaked, aching from 
 
 His mouth still hadn't touched her throat. It stayed there, a breath away, while his hand moved on her breast and her hips shifted restlessly on the chair.
 
-The highlighter was in her hand, uncapped, pressed to the line that said 1:10 a.m., bleeding a small yellow star into the paper. She didn't lift it. She sat with his thumb on her nipple and his mouth almost on her skin and the clock on the stove reading 4:51, and she tipped her head, slightly, toward him, and waited for him to close it.`,
+The highlighter was in her hand, uncapped, pressed to the line that said 1:10 a.m., bleeding a small yellow star into the paper. She didn't lift it. She sat with his thumb on her nipple and his mouth almost on her skin. The clock on the stove read 4:51. She tipped her head, slightly, toward him, and waited for him to close it.`,
   choices: [
       {
           "id": "scene7d",

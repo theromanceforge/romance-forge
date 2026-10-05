@@ -40,7 +40,7 @@ Brooks's pen stopped for half a second and then went on.
 
 "Is that what this is?" [player_name] asked. "Something to use?"
 
-"Everything is," Brooks said. She didn't say it unkindly. "Lieutenant Rasmussen wants a name by Friday. I've got a woman who's been marked present in a building she might not have been in for months. I've got hotel holds nobody slept in and cars that drive around with nobody in them. And I've got you, who knew the rhythm of that woman's life better than anyone in this tower, because you were living on the other side of it."
+"Everything is," Brooks said. She didn't say it unkindly. "Lieutenant Rasmussen wants a name by Friday. I've got a woman who's been marked present in a building she might not have been in for months. I've got hotel holds nobody slept in and cars that drive around with nobody in them. And I've got you. You knew the rhythm of that woman's life better than anyone in this tower, because you were living on the other side of it."
 
 The light in the room was getting whiter. A cleaner went past in the corridor with a cart, and Nolan stepped aside to let him by, and then went back to the wall.
 
@@ -78,9 +78,9 @@ Brooks stood and put her notebook away. She picked up the first recorder and lef
 
 She went out. She nodded at Nolan in the corridor and kept walking toward the elevators.
 
-Nolan didn't come in yet. He was waiting for her to come to him. She knew that. She knew if she stood up now and walked to the door he'd put his hand at the small of her back and steer her somewhere quiet, and ask her how it went, and she would want to tell him everything.
+Nolan didn't come in yet. He was waiting for her to come to him. She knew that. She knew if she stood up now and walked to the door, he'd put his hand at the small of her back. He'd steer her somewhere quiet. He'd ask her how it went. She would want to tell him everything.
 
-She picked up the gray device. It was warm from the table, from the sun. She slid it into the pocket of her coat, against her hip, and stood, and his eyes were on her face, not her hands, and she walked toward him wanting his hand on her back more than she wanted to be honest with him.`,
+She picked up the gray device. It was warm from the table, from the sun. She slid it into the pocket of her coat, against her hip, and stood. His eyes were on her face, not her hands. She walked toward him wanting his hand on her back more than she wanted to be honest with him.`,
   textHot: `Eight in the morning on the ninth floor. Gray light, empty chairs, a tray of coffee nobody had touched. [player_name] had slept two hours and her body still felt the night on it, a soreness that kept reminding her where she'd been.
 
 Detective Imani Brooks set a small black recorder on the table. A red light came on.
@@ -143,7 +143,7 @@ Brooks clicked the recorder off.
 
 She stood, took the black recorder, left the gray one on the table, and went out. She nodded at Nolan and kept walking.
 
-He didn't come in. He waited. He was always going to wait. And [player_name] sat for a moment with her pulse going hard, because she knew what would happen when she walked out that door. His hand would find the small of her back. He'd steer her into the stairwell or the empty service corridor and put her up against the wall and ask how it went with his mouth at her ear, and her body would answer before she did.
+He didn't come in. He waited. He was always going to wait. And [player_name] sat for a moment with her pulse going hard, because she knew what would happen when she walked out that door. His hand would find the small of her back. He'd steer her into the stairwell or the empty service corridor. He'd put her up against the wall and ask how it went with his mouth at her ear. Her body would answer before she did.
 
 Her nipples tightened just thinking it. Her skin went hot under her coat.
 
@@ -157,17 +157,17 @@ She stood and slid it into her coat pocket. It settled against her hip bone, a h
 
 She opened the lounge door.
 
-He pushed off the wall. Two steps and he was in front of her, and his palm found the curve of her back exactly as she'd known it would, and pressed, and she leaned into the heat of him, her breasts brushing his chest.
+He pushed off the wall. Two steps and he was in front of her. His palm found the curve of her back exactly as she'd known it would, and pressed. She leaned into the heat of him, her breasts brushing his chest.
 
 "How was it?" Nolan asked quietly, his mouth close to her temple.
 
 "Long," [player_name] said.
 
-His hand slid lower, an inch. Then another, down over her hip, a breath from her pocket. Her heart slammed. She turned her body into his so his hand slid around to the small of her back again, and pressed her mouth to the hinge of his jaw, the scar warm under her lips.
+His hand slid lower, an inch. Then another, down over her hip, a breath from her pocket. Her heart slammed. She turned her body into his so his hand slid around to the small of her back again. She pressed her mouth to the hinge of his jaw, the scar warm under her lips.
 
 "Take me somewhere," she said against his skin. "Now."
 
-He made a low sound in his chest. His fingers dug into her back. The recorder sat hot against her hip, silent, and she pulled him toward the stairwell by his shirt, wanting him inside her more than she wanted him to know.`,
+He made a low sound in his chest. His fingers dug into her back. The recorder sat hot against her hip, silent. She pulled him toward the stairwell by his shirt, wanting him inside her more than she wanted him to know.`,
   choices: [
       {
           "id": "scene7d",

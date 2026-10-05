@@ -50,7 +50,7 @@ Brooks looked between them. Something shifted in her face, interest, maybe even 
 
 "That's up to her," Brooks said.
 
-[player_name] stood. She didn't decide to. Her body did it, the way it always obeyed his voice when it went that low, and she hated that, and she picked up her cup and walked out.
+[player_name] stood. She didn't decide to. Her body did it, the way it always obeyed his voice when it went that low. She hated that. She picked up her cup and walked out.
 
 The door closed behind her.
 
@@ -76,12 +76,12 @@ She didn't. She stood in the corridor with her coffee going cold. Through the gl
 
 His eyes held hers. Dark. Unreadable. Asking her for something, or telling her to go.
 
-She put her palm flat against the cool glass, right at the height of his face, and left it there, wanting him to get up and come to the door and press his hand to the other side.`,
+She put her palm flat against the cool glass, right at the height of his face, and left it there. She wanted him to get up and come to the door and press his hand to the other side.`,
   textHot: `Brooks had brought pastries. A white bakery bag in the middle of the lounge table. Jacket off. Flat shoes crossed at the ankle.
 
 "No recorder," Brooks said, and showed her empty hands. "You look like you haven't slept."
 
-"I haven't," [player_name] said. Her body was still loose and sore from the night, a tenderness between her thighs every time she shifted in the chair, and she was sure Brooks could see it on her.
+"I haven't," [player_name] said. Her body was still loose and sore from the night. A tenderness lived between her thighs every time she shifted in the chair. She was sure Brooks could see it on her.
 
 "Take the almond one," Brooks said. "Only good thing in the building."
 
@@ -139,7 +139,7 @@ No sound. Only bodies. Brooks leaning back, arms folded. Nolan leaning forward, 
 
 He was protecting her. Or protecting himself by getting her out of the room. She couldn't tell, and not telling made her ache in a way that had nothing to do with sleep.
 
-Three messages to a phone nobody answered. She pictured it somewhere in a drawer, or a coat pocket, or the bottom of a bag, screen lighting up in February and going dark again, nobody's hand reaching for it. Whose hand should have? Vivienne's? Someone waiting for her? Someone who'd already stopped waiting? The thought made her cold and the cold made her want him more, which was the stupidest thing her body did, and it did it every time.
+Three messages to a phone nobody answered. She pictured it somewhere in a drawer, or a coat pocket, or the bottom of a bag. Screen lighting up in February and going dark again. Nobody's hand reaching for it. Whose hand should have? Vivienne's? Someone waiting for her? Someone who'd already stopped waiting? The thought made her cold. The cold made her want him more, which was the stupidest thing her body did. It did it every time.
 
 Last summer, mail through her slot that wasn't hers. Cream envelope, heavy. V. Greer. Fourteen Calloway Mews. She'd slid it under his door and forgotten it.
 
@@ -149,13 +149,13 @@ Inside, Nolan said something and Brooks laughed, short. Then stopped and wrote i
 
 [player_name] imagined going back in and saying Calloway Mews out loud. Watching his jaw. Watching the scar go white.
 
-She didn't. She stood with her shoulder against the corridor wall and her thighs pressed together, watching his mouth move, remembering that mouth between her legs three nights ago, the rasp of his jaw on her inner thigh, his hands pinning her hips while she came apart. Heat climbed her throat. She was wet standing in a hallway, watching him lie or not lie to a detective.
+She didn't. She stood with her shoulder against the corridor wall and her thighs pressed together. She watched his mouth move. She remembered that mouth between her legs three nights ago. The rasp of his jaw on her inner thigh. His hands pinning her hips while she came apart. Heat climbed her throat. She was wet standing in a hallway, watching him lie or not lie to a detective.
 
 Then he turned his head.
 
 He looked straight at her through the glass, as if he'd known the whole time exactly where she was. His eyes went down her body once and back up, slow, and she felt it like his palm.
 
-She set her coffee on the floor. She put her hand flat on the cold glass at the height of his face, her breath fogging a small cloud beside her fingers, and she pressed, hard, her whole body leaning into it, wanting him to rise and cross the room and put his own palm against the other side.`,
+She set her coffee on the floor. She put her hand flat on the cold glass at the height of his face. Her breath fogged a small cloud beside her fingers. She pressed hard, her whole body leaning into it. She wanted him to rise and cross the room and put his own palm against the other side.`,
   choices: [
       {
           "id": "scene7k",

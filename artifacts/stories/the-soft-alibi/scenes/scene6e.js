@@ -6,7 +6,7 @@ export default {
 
 Marcus Pell came back at ten past two.
 
-He didn't knock. He never did. He let himself in with his key, took off his gray coat, folded it over the back of a chair, and looked at [player_name] for a long moment before he said anything. He looked at her hands first. Then her mouth. Then the way she was sitting, very straight, on the edge of Nolan's couch.
+He didn't knock. He never did. He let himself in with his key. He took off his gray coat and folded it over the back of a chair. He looked at [player_name] for a long moment before he said anything. He looked at her hands first. Then her mouth. Then the way she was sitting, very straight, on the edge of Nolan's couch.
 
 "Study," Pell said. "Just you and me. Nolan, give us a minute."
 
@@ -24,7 +24,7 @@ Pell laced his fingers on the blotter.
 
 "Yes, you do." Pell's voice stayed dry and patient. "I've done this for thirty years. People sandbag for three reasons. They're protecting someone. They're protecting themselves. Or they've seen something they can't make sense of and they're afraid that if they say it out loud, it'll become true." He watched her. "You're the third kind. I'd bet my fee on it."
 
-She didn't answer. Across the room Nolan shifted his weight against the doorframe, and she kept her eyes on Pell, because looking at Nolan right now would have been a sentence Pell could read.
+She didn't answer. Across the room Nolan shifted his weight against the doorframe. She kept her eyes on Pell, because looking at Nolan right now would have been a sentence Pell could read.
 
 "Here's what I've noticed," Pell said. "Every time anyone says February, you look toward the hall. Not toward Nolan. Toward the hall. Toward the elevators." He let that sit. "So it's something you heard. Not saw. Heard. On this floor, in February."
 
@@ -32,7 +32,7 @@ She didn't answer. Across the room Nolan shifted his weight against the doorfram
 
 "Marcus," Nolan said from the doorway.
 
-"I'm almost done." Pell didn't look away from her. "I'm not asking you to tell me. Not yet. I'm telling you that I can smell it, which means Detective Brooks will smell it, because she's at least as good at this as I am and she's not being paid to be polite."
+"I'm almost done." Pell didn't look away from her. "I'm not asking you to tell me. Not yet. I'm telling you that I can smell it. That means Detective Brooks will smell it. She's at least as good at this as I am, and she's not being paid to be polite."
 
 "So what do you want?" [player_name] asked.
 
@@ -48,7 +48,7 @@ He held up a second finger. "You go home. Across the hall. You lock your door an
 
 The study was very quiet. The lamp made a small gold circle on the desk and left the rest of them in shadow.
 
-Pell opened a drawer and took out a yellow legal pad and a fountain pen. He uncapped the pen. On the first line of the pad he wrote a date in February in his precise slanted hand, and under it, a time. 11:00 p.m. Then he turned the pad around and slid it across the desk to her, with the pen lying on top.
+Pell opened a drawer and took out a yellow legal pad and a fountain pen. He uncapped the pen. On the first line of the pad he wrote a date in February in his precise slanted hand. Under it, a time. 11:00 p.m. Then he turned the pad around and slid it across the desk to her, with the pen lying on top.
 
 "Start wherever you like," he said. "Or don't. I'll know which, either way."
 
@@ -56,7 +56,7 @@ He stood, picked up his coffee cup, and walked past Nolan out of the study. "Fiv
 
 His footsteps went away.
 
-Nolan came in. He didn't sit. He came around behind her chair and stood there, and she felt him there, warm and silent, the way she'd felt him behind her in so many doorways.
+Nolan came in. He didn't sit. He came around behind her chair and stood there. She felt him there, warm and silent, the way she'd felt him behind her in so many doorways.
 
 "You don't have to," he said quietly.
 
@@ -66,8 +66,8 @@ Nolan came in. He didn't sit. He came around behind her chair and stood there, a
 
 She looked down at the pad. February. 11:00 p.m. All that empty yellow underneath.
 
-She picked up the pen. It was heavy and still warm from Pell's fingers. She held it over the first blank line, and his thumb moved once against her neck, slow, and the nib hovered, and she didn't write, and she didn't put it down.`,
-  textHot: `Brooks was gone. [player_name] could still feel her in the room, the way you feel a draft after a window shuts, and her body hadn't come down from it. Her pulse was quick. Her skin felt too thin.
+She picked up the pen. It was heavy and still warm from Pell's fingers. She held it over the first blank line. His thumb moved once against her neck, slow. The nib hovered. She didn't write. She didn't put it down.`,
+  textHot: `Brooks was gone. [player_name] could still feel her in the room, the way you feel a draft after a window shuts. Her body hadn't come down from it. Her pulse was quick. Her skin felt too thin.
 
 Marcus Pell let himself in at ten past two.
 
@@ -113,7 +113,7 @@ He stood with his coffee cup. "Five minutes," he said on his way out. "Kitchen."
 
 His footsteps went down the hall.
 
-Nolan came around behind her chair. She didn't turn. She felt the heat of him first, then his hands on the back of the chair either side of her shoulders, then his breath at her hair.
+Nolan came around behind her chair. She didn't turn. She felt the heat of him first. Then his hands on the back of the chair, either side of her shoulders. Then his breath at her hair.
 
 "You don't have to write anything," he said quietly.
 
@@ -121,7 +121,7 @@ Nolan came around behind her chair. She didn't turn. She felt the heat of him fi
 
 "He's always right," Nolan said. "It doesn't make him kind."
 
-His hand found the back of her neck. Warm, after Pell's cool looking. His thumb pressed once at the top of her spine and her whole body answered, a long pull low in her belly, and she let her head fall forward into his palm.
+His hand found the back of her neck. Warm, after Pell's cool looking. His thumb pressed once at the top of her spine. Her whole body answered, a long pull low in her belly. She let her head fall forward into his palm.
 
 "You're shaking," he said against her ear.
 
@@ -129,13 +129,13 @@ His hand found the back of her neck. Warm, after Pell's cool looking. His thumb 
 
 "I liked it," Nolan said, very low. "Watching you not give him anything. Watching him work for it."
 
-His other hand slid down over her collarbone, inside the neckline of her dress, and found her breast. Her nipple was already hard. He rolled it slowly between finger and thumb and she bit down on a sound, because the kitchen was twenty feet away and the door was open and Pell could hear a cup set down on a counter.
+His other hand slid down over her collarbone, inside the neckline of her dress, and found her breast. Her nipple was already hard. He rolled it slowly between finger and thumb. She bit down on a sound, because the kitchen was twenty feet away and the door was open. Pell could hear a cup set down on a counter.
 
 "Pick up the pen," Nolan said.
 
 She did. Heavy. Still warm from Pell's fingers.
 
-His hand left her breast and moved down, over her ribs, her stomach, and under the edge of the desk where the lamp didn't reach he gathered her hem and slid his palm up the inside of her thigh. Slow. She opened her knees for him without deciding to. His fingers found the damp silk between her legs and pressed, and she gripped the pen so hard the nib scratched a small blue mark on the yellow paper.
+His hand left her breast and moved down, over her ribs, her stomach. Under the edge of the desk where the lamp didn't reach, he gathered her hem and slid his palm up the inside of her thigh. Slow. She opened her knees for him without deciding to. His fingers found the damp silk between her legs and pressed. She gripped the pen so hard the nib scratched a small blue mark on the yellow paper.
 
 "That's not a word," he murmured.
 

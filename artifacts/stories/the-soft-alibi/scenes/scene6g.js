@@ -26,7 +26,7 @@ The black town car sat on the left, nose toward the doors. Clean. Somebody washe
 
 "I know," Nolan said quietly behind her. "I see it."
 
-They went to the car first. The doors weren't locked. [player_name] opened the rear door, the one that had opened on nothing three times outside Crownspire, and the inside smelled of leather and cold and something faintly floral underneath.
+They went to the car first. The doors weren't locked. [player_name] opened the rear door, the one that had opened on nothing three times outside Crownspire. The inside smelled of leather and cold and something faintly floral underneath.
 
 There was an envelope on the back seat. Heavy cream paper. The Greer Meridian logo in the corner, the letterhead she'd seen on Pell's documents. It was addressed in typed letters to Halden Row LLC.
 
@@ -62,7 +62,7 @@ Nolan stood very still behind her in the narrow aisle. She could feel how close 
 
 "No," Nolan said. Then, quieter: "I don't think so. Nobody asked me."
 
-She turned to look at him. In the low cabin he had to bend his head. His face was very close, gray in the dawn light coming through the little oval windows, and she saw something in it she hadn't seen before. Not guilt. Something rawer. Like a man looking at a door he should have knocked on a long time ago.
+She turned to look at him. In the low cabin he had to bend his head. His face was very close, gray in the dawn light coming through the little oval windows. She saw something in it she hadn't seen before. Not guilt. Something rawer. Like a man looking at a door he should have knocked on a long time ago.
 
 "Did she ask anyone?" [player_name] said.
 
@@ -76,7 +76,7 @@ At the back of the hangar there was a row of small rooms. Storage, a washroom, a
 
 There was a light on inside.
 
-[player_name] stopped. The light was yellow, a desk lamp, the kind someone switches on to work late, and it was falling through the gap onto the concrete floor in a long thin line.
+[player_name] stopped. The light was yellow, a desk lamp, the kind someone switches on to work late. It was falling through the gap onto the concrete floor in a long thin line.
 
 "Was that on when we came in?" she whispered.
 
@@ -92,8 +92,8 @@ She could feel his breath, slow and controlled, the way he breathed when he was 
 
 "We can," she said.
 
-She didn't move. Neither did his hand. The lamp burned on behind the door, and she stood in the cold with her eyes on that thin yellow line, leaning back into his palm, wanting him to say her name and not knowing what she'd do if he did.`,
-  textHot: `Kessler Field before dawn: a fence, a line of runway lights, a lot of dark. Nolan drove with one hand. The other rested on her thigh the whole forty minutes, not moving, just heavy and warm through her skirt, and by the time he parked her whole body was humming with it.
+She didn't move. Neither did his hand. The lamp burned on behind the door. She stood in the cold with her eyes on that thin yellow line, leaning back into his palm. She wanted him to say her name. She didn't know what she'd do if he did.`,
+  textHot: `Kessler Field before dawn: a fence, a line of runway lights, a lot of dark. Nolan drove with one hand. The other rested on her thigh the whole forty minutes, not moving, just heavy and warm through her skirt. By the time he parked, her whole body was humming with it.
 
 Hangar nine was the last in the row. Rolling doors shut. A side door with a card lock.
 
@@ -113,7 +113,7 @@ Her breath stopped. His hand found her hip.
 
 "I see it," he said into her hair.
 
-The car first. Unlocked. She opened the rear door, the one that had swung open on nothing outside Crownspire three times, and leather and cold breathed out, and under them something faintly floral that made the back of her neck prickle.
+The car first. Unlocked. She opened the rear door, the one that had swung open on nothing outside Crownspire three times. Leather and cold breathed out. Under them was something faintly floral that made the back of her neck prickle.
 
 On the back seat lay a heavy cream envelope. Greer Meridian letterhead. Typed address: Halden Row LLC.
 
@@ -135,7 +135,7 @@ Filed. Never flown. The dust on the tires said the jet hadn't moved since.
 
 "Two seats," [player_name] said.
 
-He'd come up behind her in the narrow aisle. He had to stoop under the ceiling, so his body curved over hers, his chest at her shoulder blades, his breath at her ear. She felt the cold of the cabin on her face and the heat of him all down her back, and the contrast made her shiver hard.
+He'd come up behind her in the narrow aisle. He had to stoop under the ceiling, so his body curved over hers, his chest at her shoulder blades, his breath at her ear. She felt the cold of the cabin on her face and the heat of him all down her back. The contrast made her shiver hard.
 
 "Who was the second one for?" she asked.
 
@@ -153,7 +153,7 @@ She turned around inside the circle of him. They were close enough that her brea
 
 "You are," Nolan said. His hand closed over hers, pressed it harder against him, and didn't move it away.
 
-For a long moment neither of them moved. She could feel him hard against her hip through his trousers and his heart going under her palm, and she wanted to sink to her knees in that narrow aisle, and she wanted to slap him for the blank line on that page, and she couldn't tell which want was louder.
+For a long moment neither of them moved. She could feel him hard against her hip through his trousers and his heart going under her palm. She wanted to sink to her knees in that narrow aisle. She wanted to slap him for the blank line on that page. She couldn't tell which want was louder.
 
 She slid the manifest back into place on the table, exactly as it had been.
 
@@ -173,13 +173,13 @@ They listened. The hum of the overheads. The tick of the metal roof. No footstep
 
 His hand came to the small of her back and stayed there, flat and hot through her coat. She could feel his pulse in his palm, fast. He was frightened. His breathing was too even, the way it always was when he didn't want her to know.
 
-Her body didn't care that she was frightened too. The fear went straight down into her, hot and liquid, pooling low, and she pressed back into his hand until his fingers spread across her spine.
+Her body didn't care that she was frightened too. The fear went straight down into her, hot and liquid, pooling low. She pressed back into his hand until his fingers spread across her spine.
 
 "We can go," he said against her ear.
 
 "We can," she said.
 
-She didn't move. His hand slid an inch lower, to the top of her hip, and gripped, and her breath came out of her shaking. Her nipples ached against her bra. She stood in the cold with the lamp burning behind that door and her back against his palm, and she reached behind her without looking and found his wrist and held it there, hard, so he couldn't take it away.`,
+She didn't move. His hand slid an inch lower, to the top of her hip, and gripped, and her breath came out of her shaking. Her nipples ached against her bra. She stood in the cold with the lamp burning behind that door and her back against his palm. She reached behind her without looking, found his wrist, and held it there, hard, so he couldn't take it away.`,
   choices: [
       {
           "id": "scene7g",

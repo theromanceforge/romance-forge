@@ -6,7 +6,7 @@ export default {
 
 He stopped. He didn't argue. He took his hand away from her, slowly, as if she were something that might fall if he moved too fast.
 
-They ended up in his front room anyway. The lamps low. The city stacked in the glass. She sat at one end of the long couch and he sat at the other, and there was a whole cushion of pale linen between them, and neither of them crossed it.
+They ended up in his front room anyway. The lamps low. The city stacked in the glass. She sat at one end of the long couch and he sat at the other. A whole cushion of pale linen lay between them. Neither of them crossed it.
 
 "You're angry," Nolan said.
 
@@ -38,7 +38,7 @@ Silence again. Longer. He held her eyes the whole time, which was its own kind o
 
 His jaw tightened. Nothing.
 
-She took her phone out of her pocket. She opened the voice memo and pressed the red circle and set the phone face up on the cushion between them, where they could both see the little line of sound rising and falling with the room.
+She took her phone out of her pocket. She opened the voice memo and pressed the red circle. She set the phone face up on the cushion between them. They could both see the little line of sound rising and falling with the room.
 
 "Then say it to that," she said.
 
@@ -54,17 +54,17 @@ He looked at the phone for a long time.
 
 He didn't speak.
 
-So they sat there. Minutes went by. The little line on the screen barely moved. The refrigerator hummed in the kitchen. A siren went by far below and was gone. She could hear him breathing. He could hear her. The recording took all of it in, all that nothing, and she understood that whatever happened next, there would be a file on her phone that was forty minutes of two people refusing each other.
+So they sat there. Minutes went by. The little line on the screen barely moved. The refrigerator hummed in the kitchen. A siren went by far below and was gone. She could hear him breathing. He could hear her. The recording took all of it in, all that nothing. She understood that whatever happened next, there would be a file on her phone that was forty minutes of two people refusing each other.
 
 At some point he got up and poured two glasses of water and put one at her end of the table and sat back down. He didn't say anything. She didn't drink it.
 
 At some point she took off her shoes and tucked her feet under her. He watched her do it. He didn't move.
 
-She thought about the first night. Her own door, and him standing outside it for ten minutes before he knocked, he'd told her later, deciding. She had opened it still in the black dress she'd worn to dinner with friends, and he had looked at her like she was the answer to a question he'd been asking for years. She had loved being an answer. She had never once asked what the question was.
+She thought about the first night. Her own door, and him standing outside it for ten minutes before he knocked, he'd told her later, deciding. She had opened it still in the black dress she'd worn to dinner with friends. He had looked at her like she was the answer to a question he'd been asking for years. She had loved being an answer. She had never once asked what the question was.
 
 At some point the lamp on the far table clicked off on its timer. Neither of them got up to turn it back on.
 
-She wanted him. That was the stupid part. She sat with her arms folded and her mouth shut and she wanted him so badly her skin ached, and she knew he knew, and she knew that if she let him cross the cushion she would never get the answer, not tonight, not any night. Silence was the only thing he'd ever let her have that he couldn't take back with his hands.
+She wanted him. That was the stupid part. She sat with her arms folded and her mouth shut. She wanted him so badly her skin ached, and she knew he knew. She knew that if she let him cross the cushion she would never get the answer, not tonight, not any night. Silence was the only thing he'd ever let her have that he couldn't take back with his hands.
 
 The window began to go gray at the edges.
 
@@ -86,13 +86,13 @@ He wasn't looking at her. He was looking at the phone between them, the red dot,
 
 And then nothing again.
 
-She didn't stop the recording. She let it run. Kessler Field, Hangar Nine, Halden Row, in his voice, in her phone. If that file ever went anywhere, to Brooks, to a lawyer, to someone who shouldn't have it, it would be his voice saying the one true thing he'd ever handed her without being touched first.
+She didn't stop the recording. She let it run. Kessler Field, Hangar Nine, Halden Row, in his voice, in her phone. If that file ever went anywhere—to Brooks, to a lawyer, to someone who shouldn't have it—it would be his voice. The one true thing he'd ever handed her without being touched first.
 
 He put his hand on the cushion between them. Palm up. Not reaching. Just open, beside the phone, an offer and not a demand.
 
 She looked at it. His fingers. The faint white scar across one knuckle she'd kissed a dozen times without asking about.
 
-She didn't take it. She didn't move her own hand away either. She sat with her arms around her knees and the gray light coming into the glass and the recording still running, and watched his open hand on the linen, wanting it, and kept her mouth closed.`,
+She didn't take it. She didn't move her own hand away either. She sat with her arms around her knees. The gray light came into the glass. The recording still ran. She watched his open hand on the linen, wanting it, and kept her mouth closed.`,
   textHot: `"No," [player_name] said.
 
 He stopped. His body stayed close, she could feel the heat of him, but he took his hand away. Slowly. She felt the loss of it on her skin like cold air.
@@ -107,7 +107,7 @@ They ended up in his front room anyway. Lamps low. City in the glass. She took o
 
 "Whether you get to touch me while you're still not telling me things," she said. "Every time something gets close, you put your mouth on me and I forget the question."
 
-He didn't deny it. That was almost worse. He just sat back against the arm of the couch and looked at her, with the whole cushion between them like a border neither of them had drawn.
+He didn't deny it. That was almost worse. He just sat back against the arm of the couch and looked at her. The whole cushion lay between them like a border neither of them had drawn.
 
 "So ask," he said.
 
@@ -139,7 +139,7 @@ He didn't speak again.
 
 Minutes went by. The refrigerator hummed. A siren far below. She could hear him breathing and he could hear her, and the phone took all of it.
 
-She wanted him. That was what made it war. Her body didn't care about the question. Her nipples were hard against the silk and she was wet just from sitting near him, from the memory of his hand an hour ago, from the way he was looking at her mouth. She crossed her legs. He watched her do it. His eyes went down her calves to her bare ankles and back up, slow, and she felt it like his tongue.
+She wanted him. That was what made it war. Her body didn't care about the question. Her nipples were hard against the silk. She was wet just from sitting near him. From the memory of his hand an hour ago. From the way he was looking at her mouth. She crossed her legs. He watched her do it. His eyes went down her calves to her bare ankles and back up, slow, and she felt it like his tongue.
 
 He shifted on the couch. She saw him hard against his trousers and he didn't hide it. He let her see. That was his side of the war.
 
@@ -147,9 +147,9 @@ She didn't look away either. She let him watch her breathe.
 
 The lamp on the far table clicked off on its timer. Neither of them got up.
 
-At some point he poured two glasses of water and set one at her end and sat back down. She didn't drink it. At some point she slid her shoes off and tucked her feet under her, and the hem of her dress rode up her thigh, and she left it there. He looked. He kept looking. Neither of them said a word, and the recording took in forty minutes of that, two people wanting each other in a quiet room and refusing.
+At some point he poured two glasses of water and set one at her end and sat back down. She didn't drink it. At some point she slid her shoes off and tucked her feet under her. The hem of her dress rode up her thigh. She left it there. He looked. He kept looking. Neither of them said a word. The recording took in forty minutes of that: two people wanting each other in a quiet room and refusing.
 
-She remembered the first night. Her own door. Ten minutes he'd stood outside it, deciding. She'd opened it in the black dress she'd worn to dinner, and he'd had her back against that door before she could say his name, his hand up under the dress, finding her wet, the sound he'd made against her mouth. She'd loved being wanted like that. She'd never asked why he needed it so badly.
+She remembered the first night. Her own door. Ten minutes he'd stood outside it, deciding. She'd opened it in the black dress she'd worn to dinner. He'd had her back against that door before she could say his name. His hand went up under the dress, finding her wet. The sound he'd made against her mouth still lived in her. She'd loved being wanted like that. She'd never asked why he needed it so badly.
 
 The window went gray at the edges.
 
@@ -169,7 +169,7 @@ She looked up. He was looking at the phone, the red dot, the line jumping with h
 
 Then nothing again.
 
-She let the recording run. His voice, saying the one true thing he'd given her without touching her first. If that file ever went anywhere, to Brooks, to a lawyer, to someone who shouldn't have it, it would be his voice and hers, and forty minutes of their breathing, and she didn't care.
+She let the recording run. His voice, saying the one true thing he'd given her without touching her first. If that file ever went anywhere—to Brooks, to a lawyer, to someone who shouldn't have it—it would be his voice and hers. Forty minutes of their breathing. She didn't care.
 
 He put his hand on the cushion between them. Palm up. Open. Beside the phone.
 
@@ -179,9 +179,9 @@ He saw. His breath went out of him, low and rough.
 
 "I'm not going to reach," he said. "You'd have to."
 
-Her hand moved an inch on the cushion. Stopped. Her thighs were pressed tight together and her whole body throbbed with the effort of not moving, and the phone between them was recording every breath she took.
+Her hand moved an inch on the cushion. Stopped. Her thighs were pressed tight together. Her whole body throbbed with the effort of not moving. The phone between them was recording every breath she took.
 
-She didn't take his hand. She left her own lying an inch from it on the pale linen, close enough to feel the heat of his skin, aching, her mouth shut, the gray light filling up the glass behind him while the red dot kept counting.`,
+She didn't take his hand. She left her own lying an inch from it on the pale linen, close enough to feel the heat of his skin. She was aching. Her mouth stayed shut. The gray light filled up the glass behind him while the red dot kept counting.`,
   choices: [
       {
           "id": "scene7f",

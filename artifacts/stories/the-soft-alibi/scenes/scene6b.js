@@ -30,7 +30,7 @@ She thought about it honestly. A door ajar. A bag inside it. Perfume opened and 
 
 "It's about me," she said. "Something I saw, and what I did after."
 
-She could still smell it if she let herself. Jasmine in the gap of his door, fresh, sharp, as if the bottle had been open for only a second. The bag had been pale and soft-sided and zipped. She had stood there holding her recycling in the cold hallway for a long time, longer than she'd ever admit, and then she had gone back inside and turned off her lamp and told herself a story about it that let her sleep.
+She could still smell it if she let herself. Jasmine in the gap of his door, fresh, sharp, as if the bottle had been open for only a second. The bag had been pale and soft-sided and zipped. She had stood there holding her recycling in the cold hallway for a long time, longer than she'd ever admit. Then she had gone back inside, turned off her lamp, and told herself a story about it that let her sleep.
 
 "What did you do after?" Nolan asked.
 
@@ -78,7 +78,7 @@ He looked at her for a long time. She saw the arithmetic in it. She saw, under t
 
 "Fair," he said finally. His voice was rough. "That's fair."
 
-He reached for her. Not her face. Her hip. His hand settled there over the thin cotton of the shirt she'd pulled on, his thumb resting on the bone, warm, the way he held her when they slept.
+He reached for her. Not her face. Her hip. His hand settled there over the thin cotton of the shirt she'd pulled on. His thumb rested on the bone, warm, the way he held her when they slept.
 
 "I'm going to wonder," he said. "Every night. Which one it was."
 
@@ -88,18 +88,18 @@ He reached for her. Not her face. Her hip. His hand settled there over the thin 
 
 "Good," she said, and her voice shook on it.
 
-He didn't kiss her. He stood with his hand on her hip and his forehead almost touching hers, and they both breathed, and the camera dome watched and heard nothing.
+He didn't kiss her. He stood with his hand on her hip and his forehead almost touching hers. They both breathed. The camera dome watched and heard nothing.
 
-Down at the end of the hall the window was going from black to gray. Soon it would be light. He would have to go. He always went. And at nine she would be sitting in a room at Major Crimes, extension 4410, across from Brooks, with this one night folded up inside her where nobody could reach it.
+Down at the end of the hall the window was going from black to gray. Soon it would be light. He would have to go. He always went. And at nine she would be sitting in a room at Major Crimes, extension 4410, across from Brooks. This one night would stay folded up inside her where nobody could reach it.
 
 His thumb moved, once, slowly, over the bone of her hip.
 
-She didn't step back. She didn't tell him the night. She put her hand over his where it rested, pressing it there, and stood in the hallway with dawn coming up the glass, wanting him to stay and knowing the one thing she'd kept was the only reason he might.`,
+She didn't step back. She didn't tell him the night. She put her hand over his where it rested, pressing it there. She stood in the hallway with dawn coming up the glass, wanting him to stay. She knew the one thing she'd kept was the only reason he might.`,
   textHot: `At four in the morning they ended up in the hallway, the way they always did. Halfway between the doors. Gray carpet, the camera dome, elevator lights dark.
 
 He was leaving. He always left before dawn. His jacket hung over his arm. His shirt was buttoned wrong, one button off, because she'd done it for him in the dark with her hands shaking.
 
-Her body still felt him. The soreness. The warmth low in her belly where he'd been. Her mouth was tender. There was a mark on the inside of her wrist where he'd held it above her head, and she kept touching it with her thumb without meaning to.
+Her body still felt him. The soreness. The warmth low in her belly where he'd been. Her mouth was tender. There was a mark on the inside of her wrist where he'd held it above her head. She kept touching it with her thumb without meaning to.
 
 "You were going to tell me something," Nolan said. "Earlier. Even with me inside you, it was on your face."
 
@@ -139,7 +139,7 @@ He breathed out, almost a laugh. "That's the cruelest thing you could say to me.
 
 "It's the only thing I've got that nobody explained to me first," she said. "Not you. Not Pell. I saw it. I'm not ready to hand it to someone who'll explain it for me."
 
-The elevator motor turned over once in the shaft and went still. Somewhere below, Rhea would be coming off shift soon, and the day doorman would be unlocking the revolving door, and the building would start pretending again that nothing had happened on this floor all night.
+The elevator motor turned over once in the shaft and went still. Somewhere below, Rhea would be coming off shift soon. The day doorman would be unlocking the revolving door. The building would start pretending again that nothing had happened on this floor all night.
 
 "Then give me something else," he said.
 
@@ -183,7 +183,7 @@ His thumb moved on her hip, slow. Then lower, along the crease of her thigh. Her
 
 At the end of the hall the window was going gray. At nine she had to be at Major Crimes, extension 4410, with this night folded up inside her where nobody could reach it.
 
-His fingers slid lower. Brushed her. Barely. She gasped, and put her hand over his wrist through the cotton, and held it there, not pushing it away and not pulling it closer, his thumb on her hip and his fingertips just touching her, the camera dome watching, the gray light coming, and the night she hadn't named sitting between them like a third body in the hall.`,
+His fingers slid lower. Brushed her. Barely. She gasped. She put her hand over his wrist through the cotton and held it there, not pushing it away and not pulling it closer. His thumb stayed on her hip. His fingertips just touched her. The camera dome watched. The gray light came on. The night she hadn't named sat between them like a third body in the hall.`,
   choices: [
       {
           "id": "scene7b",

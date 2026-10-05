@@ -2,7 +2,7 @@ export default {
   id: "scene6h",
   layer: 6,
   title: "Perfume Twin",
-  text: `The cab left her at the end of the gate road, and [player_name] walked the last quarter mile along the fence with her hands in her coat pockets and the runway lights blinking blue in the dark beside her.
+  text: `The cab left her at the end of the gate road. [player_name] walked the last quarter mile along the fence with her hands in her coat pockets. The runway lights blinked blue in the dark beside her.
 
 She hadn't told Nolan. She'd stood outside his door with her hand raised and then lowered it and gone down in the elevator alone. She told herself it was because he'd said he'd never been inside. She told herself she wanted to see it first, without his face beside her to read.
 
@@ -12,7 +12,7 @@ She stood looking at that for a while.
 
 Then she pushed the door with two fingers and went in.
 
-It was dark and very cold. A long room of shadow and the smell of oil and concrete. She found a light switch by feel, and one bank of lights came on over the near end, leaving the rest of the hangar in darkness. In the light: the black car, nose toward the doors. Further back, a white shape that had to be the jet.
+It was dark and very cold. A long room of shadow and the smell of oil and concrete. She found a light switch by feel. One bank of lights came on over the near end, leaving the rest of the hangar in darkness. In the light: the black car, nose toward the doors. Further back, a white shape that had to be the jet.
 
 And close to her, on a folding table, a pale leather suitcase standing open.
 
@@ -40,7 +40,7 @@ She shouldn't. She knew she shouldn't. It was evidence, maybe. It was someone el
 
 She took off the cap and sprayed once on the inside of her wrist.
 
-Jasmine opened into the cold air. Heavy and sweet and expensive, and for a moment the whole dark hangar smelled like the elevator at Crownspire on a Monday morning, like the hall outside Nolan's door, like the collar of his coat the nights he came to her straight from upstairs.
+Jasmine opened into the cold air. Heavy and sweet and expensive. For a moment the whole dark hangar smelled like the elevator at Crownspire on a Monday morning. Like the hall outside Nolan's door. Like the collar of his coat the nights he came to her straight from upstairs.
 
 She closed her eyes.
 
@@ -63,7 +63,7 @@ She put the bottle back in its pouch, the pouch back in its corner.
 The scent stayed. It was on her skin now. It would be on her coat, in her hair. He'd smell it on her the next time he put his face in her neck, and he'd know. Or he'd think, for one second, that she was somebody else.
 
 She lifted her wrist and pressed it to her mouth. Jasmine and cold skin and her own pulse fluttering under her lips. She stood like that in the half-dark, breathing it, wanting him so badly that her eyes stung, and not calling.`,
-  textHot: `The cab left her at the end of the gate road. [player_name] walked the last quarter mile along the fence in the dark, blue runway lights blinking beside her, the cold getting under her coat and into the thin silk beneath it until her nipples were tight and aching.
+  textHot: `The cab left her at the end of the gate road. [player_name] walked the last quarter mile along the fence in the dark. Blue runway lights blinked beside her. The cold got under her coat and into the thin silk beneath it until her nipples were tight and aching.
 
 She hadn't told Nolan. She'd stood at his door with her hand up and then gone down in the elevator alone. She'd told herself she wanted to see it first, without reading his face.
 
@@ -79,7 +79,7 @@ She went to it slowly.
 
 Half packed. Tissue between the layers, the way a woman packs when she has time. A cashmere sweater. Silk blouses. Flat travel shoes in a cloth bag. In one side, a scarf folded square, tags still on, the shop name printed with an airport's. The scarf from the receipt. Never worn.
 
-She touched the sweater. Soft as skin. She caught herself stroking it with her thumb and took her hand away, and her own fingertips felt too sensitive afterward, as if she'd touched something private. She wondered if Vivienne had stood here folding it. If her hands had been steady. If she'd been afraid, or only tired, or thinking about someone she meant to meet on the other end of a flight that never left. She wondered whether Vivienne had ever stood in a cold room wanting the same man she did.
+She touched the sweater. Soft as skin. She caught herself stroking it with her thumb and took her hand away. Her own fingertips felt too sensitive afterward, as if she'd touched something private. She wondered if Vivienne had stood here folding it. If her hands had been steady. If she'd been afraid, or only tired, or thinking about someone she meant to meet on the other end of a flight that never left. She wondered whether Vivienne had ever stood in a cold room wanting the same man she did.
 
 In the lid pocket, a passport sleeve. Empty. The leather worn into the shape of what had been there.
 
@@ -103,21 +103,21 @@ The roof ticked somewhere in the dark. She opened her eyes. Nothing moved. Someb
 
 She did take out her phone then, and opened the camera, and made her hands steady enough. The suitcase. The scarf and its tag. The empty sleeve. The bottle, the line of the perfume against the glass. Each click loud in the hangar.
 
-There was a last hour folded into this case somewhere, in the tissue paper, in the creases. She could build it. Or she could walk out with these pictures and tell no one at all, and keep them in her phone where anyone who took her phone could find them.
+There was a last hour folded into this case somewhere, in the tissue paper, in the creases. She could build it. Or she could walk out with these pictures and tell no one at all. She could keep them in her phone where anyone who took her phone could find them.
 
 She put the bottle back in its pouch, the pouch in its corner.
 
-The scent stayed on her. On her coat. In her hair. He'd smell it on her the next time he buried his face in her neck, and for one terrible second he'd think she was somebody else.
+The scent stayed on her. On her coat. In her hair. He'd smell it on her the next time he buried his face in her neck. For one terrible second he'd think she was somebody else.
 
 The thought went through her like a hand.
 
-She leaned back against the cold flank of the folding table, and her free hand moved without asking her. Under her coat. Over the silk at her stomach. Down. She pressed the heel of her palm between her legs through her skirt and her hips rocked into it, and a small sound came out of her into the empty hangar.
+She leaned back against the cold flank of the folding table, and her free hand moved without asking her. Under her coat. Over the silk at her stomach. Down. She pressed the heel of her palm between her legs through her skirt. Her hips rocked into it. A small sound came out of her into the empty hangar.
 
 She was wet. She could feel it through the fabric. From a smell. From a bottle. From a man who wasn't here.
 
-She pressed harder, slow circles, her thighs trembling. Her breath fogged in the cold. She imagined it was his hand, his long fingers, the way he'd press and hold and make her wait, his voice at her ear telling her to be quiet.
+She pressed harder, slow circles, her thighs trembling. Her breath fogged in the cold. She imagined it was his hand, his long fingers. The way he'd press and hold and make her wait. His voice at her ear telling her to be quiet.
 
-She lifted her other wrist to her mouth. Jasmine and cold skin and her own pulse racing under her lips. She breathed it in, her hand still moving between her legs, the propped door gaping onto the dark behind her, and she said his name once against her own wrist, and nobody answered.`,
+She lifted her other wrist to her mouth. Jasmine and cold skin and her own pulse racing under her lips. She breathed it in, her hand still moving between her legs, the propped door gaping onto the dark behind her. She said his name once against her own wrist. Nobody answered.`,
   choices: [
       {
           "id": "scene7h",
