@@ -41,6 +41,11 @@ import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js'
 import { resumeSceneLabel } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
+import {
+  selectWhatIfCards,
+  renderWhatIfMapHtml,
+  pathForReplayFrom,
+} from './whatIf.js';
 import { showInterstitial, ensureAdSenseScript } from './ads/interstitial.js';
 import {
   bumpAdsStat,
@@ -283,7 +288,7 @@ function handleGuestPageHide() {
 /** Closing line on the ending screen when a story has no `endingLine` of its own. */
 const DEFAULT_ENDING_LINE = 'Your story ends here — for now.';
 
-/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string }} */
+/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string, whatIf?: Array<{ sceneId: string, choiceIndex?: number, target?: string, tease?: string }> }} */
 const CATALOG = [
   {
     id: 'until-the-quiet-breaks',
@@ -383,7 +388,7 @@ function readStoredStoryId() {
   return CATALOG.find((c) => c.available)?.id || '';
 }
 
-/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _transitioning?: boolean }} */
+/** @type {{ view: 'landing' | 'reader', playerName: string, sceneId: string, previousSceneId: string, spice: '' | 'warm' | 'hot', storyId: string, path: string[], whatIfHighlightId: string, auth: import('./auth/session.js').AuthSession, savePromptShown: boolean, savePromptVisible: boolean, savePromptTrigger: '' | 'choice' | 'exit', authModalOpen: boolean, authModalTab: 'signin' | 'signup', authStatusMessage: string, _pendingResume: boolean, _transitioning?: boolean }} */
 let state = {
   view: 'landing',
   playerName: '',
@@ -392,6 +397,7 @@ let state = {
   spice: readStoredSpice(),
   storyId: readStoredStoryId(),
   path: [],
+  whatIfHighlightId: '',
   auth: loadPersistedAuthSession(),
   savePromptShown: false,
   savePromptVisible: false,
@@ -820,10 +826,22 @@ function renderReader() {
       })
     : '';
 
+  const whatIfOverrides = catalogEntry(state.storyId || defaultStory.id)?.whatIf;
+  const whatIfCards = ending
+    ? selectWhatIfCards(story, state.path, {
+        spice,
+        overrides: Array.isArray(whatIfOverrides) ? whatIfOverrides : undefined,
+      })
+    : [];
+  const whatIfHtml = ending
+    ? renderWhatIfMapHtml(whatIfCards, { escapeHtml })
+    : "";
+
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
          <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
          ${reviewHtml}
+         ${whatIfHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
            Restart
          </button>
@@ -833,16 +851,21 @@ function renderReader() {
       <div class="choices" data-testid="choices" role="group" aria-label="Choices">
         ${choices
           .map(
-            (c) => `
+            (c) => {
+              const highlighted = state.whatIfHighlightId && state.whatIfHighlightId === c.id;
+              const cls = highlighted ? "btn choice choice--what-if-highlight" : "btn choice";
+              return `
           <button
             type="button"
-            class="btn choice"
+            class="${cls}"
             data-action="choose"
             data-choice-id="${c.id}"
             data-testid="choice-${c.id}"
-          >${escapeHtml(getChoiceText(c, spice))}</button>`
+            ${highlighted ? "aria-description=\"Road not taken — suggested replay\"" : ""}
+          >${escapeHtml(getChoiceText(c, spice))}</button>`;
+            }
           )
-          .join('')}
+          .join("")}
       </div>
       <button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
         Restart
@@ -1291,6 +1314,7 @@ function bindEvents() {
           sceneId: nextId,
           previousSceneId: fromId,
           path: nextPath,
+          whatIfHighlightId: '',
         });
       };
 
@@ -1320,10 +1344,31 @@ function bindEvents() {
       const replayId = state.previousSceneId;
       const trimmed = trimPathToScene(state.path, replayId);
       persistGuestProgress({ sceneId: replayId, path: trimmed });
+      // Replay-last skips interstitial ads (no shouldShowInterstitial call).
       advanceWithMomentum({
         sceneId: replayId,
         previousSceneId: '',
         path: trimmed,
+        whatIfHighlightId: '',
+      });
+    });
+  });
+
+  // What-if Replay from here: jump to fork, keep name/spice, highlight alternate.
+  // Intentionally skips interstitial ads (same as replay-last) so cards are not covered.
+  app.querySelectorAll('[data-action="what-if-replay"]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (state._transitioning) return;
+      const forkId = btn.getAttribute('data-fork-scene-id');
+      const highlightId = btn.getAttribute('data-highlight-choice-id') || '';
+      if (!forkId) return;
+      const trimmed = pathForReplayFrom(state.path, forkId);
+      persistGuestProgress({ sceneId: forkId, path: trimmed });
+      advanceWithMomentum({
+        sceneId: forkId,
+        previousSceneId: '',
+        path: trimmed,
+        whatIfHighlightId: highlightId,
       });
     });
   });
@@ -1340,6 +1385,7 @@ function bindEvents() {
           sceneId: activeStory().startSceneId,
           previousSceneId: '',
           path: [],
+          whatIfHighlightId: '',
           savePromptVisible: showPrompt,
           // keep spice + storyId so restart is frictionless
         });
