@@ -14,6 +14,7 @@ import {
   CLOUD_AUTH_NOT_CONFIGURED,
   handoffGuestToMockAccount,
   isAuthMockEnabled,
+  isMockAuthAllowed,
   loadPersistedAuthSession,
   MOCK_USER_ID,
   persistAuthSession,
@@ -279,13 +280,16 @@ function handleGuestPageHide() {
   if (isGuest(state.auth)) maybeOfferSavePrompt('exit');
 }
 
-/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string }} */
+/** Closing line on the ending screen when a story has no `endingLine` of its own. */
+const DEFAULT_ENDING_LINE = 'Your story ends here — for now.';
+
+/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string }} */
 const CATALOG = [
   {
     id: 'until-the-quiet-breaks',
     title: 'Until the Quiet Breaks',
     blurb:
-      'A finished playable romance: 10 endings, Warm & Hot. Fifteen years after leaving Somerton, Henry’s letter brings you home—John Shaw still keeps the diner with the blue door. Choose your path and let the quiet break.',
+      'A complete romance: 10 endings, Warm & Hot. Fifteen years after leaving Somerton, Henry’s letter brings you home—John Shaw still keeps the diner with the blue door. Choose your path and let the quiet break.',
     available: true,
     accentSrc: assetUrl('/brand/cover-until-the-quiet-breaks-square.png'),
     coverSrc: assetUrl('/brand/cover-until-the-quiet-breaks.png'),
@@ -294,6 +298,7 @@ const CATALOG = [
     pull: 'The blue door still waits in the rain.',
     chips: ['Somerton rain', 'John Shaw', '10 endings'],
     badge: '10 endings · Warm & Hot',
+    endingLine: "The quiet isn't done with you.",
   },
   {
     id: 'what-the-sister-kept',
@@ -313,7 +318,7 @@ const CATALOG = [
     id: 'the-living-key',
     title: 'The Living Key',
     blurb:
-      'A finished playable magical romance: 10 endings, Warm & Hot. Ashmere Collegium’s wards are singing wrong—Cassian Rook is assigned your handler, and a living key could remake the cliff or claim your throat.',
+      'A complete magical romance: 10 endings, Warm & Hot. Ashmere Collegium’s wards are singing wrong—Cassian Rook is assigned your handler, and a living key could remake the cliff or claim your throat.',
     available: true,
     accentSrc: assetUrl('/brand/cover-the-living-key-square.png'),
     coverSrc: assetUrl('/brand/cover-the-living-key.png'),
@@ -327,7 +332,7 @@ const CATALOG = [
     id: 'the-soft-alibi',
     title: 'The Soft Alibi',
     blurb:
-      'A finished playable glass-tower romance: 10 endings, Warm & Hot. Across the hall from Nolan Greer’s Crownspire penthouse, you are the neighbor-mistress—and Detective Imani Brooks wants to know where Vivienne went. Wine, heat, and the softest alibi money can buy.',
+      'A complete glass-tower romance: 10 endings, Warm & Hot. Across the hall from Nolan Greer’s Crownspire penthouse, you are the neighbor-mistress—and Detective Imani Brooks wants to know where Vivienne went. Wine, heat, and the softest alibi money can buy.',
     available: true,
     accentSrc: assetUrl('/brand/cover-the-soft-alibi-square.png'),
     coverSrc: assetUrl('/brand/cover-the-soft-alibi.png'),
@@ -341,6 +346,12 @@ const CATALOG = [
 
 function catalogEntry(storyId) {
   return CATALOG.find((c) => c.id === storyId) || CATALOG.find((c) => c.available) || CATALOG[0];
+}
+
+/** Per-story ending-screen line (optional CATALOG `endingLine`), else the neutral default. */
+function endingLineFor(storyId) {
+  const line = CATALOG.find((c) => c.id === storyId)?.endingLine;
+  return typeof line === 'string' && line.trim() ? line.trim() : DEFAULT_ENDING_LINE;
 }
 
 function entryTitleFor(storyId) {
@@ -633,7 +644,7 @@ function renderLanding() {
           You are holding interactive branching spicy romance: you read by choosing, and the path burns different each time.
         </p>
         <p class="forge-strip-purpose">
-          Forged for wine-night BookTok readers who want Warm yearning or Hot explicit heat — literary grit, not pink AI fluff.
+          Made for wine-night readers who want Warm yearning or Hot, explicit heat — with real grit and real feeling.
         </p>
         <ol class="forge-strip-how">
           <li>Choose a title</li>
@@ -744,7 +755,7 @@ function renderLanding() {
       <footer class="site-footer quiet">
         <p>Romance Forge · woodcut romance, forged by choice</p>
         <p class="footer-contact">
-          ${renderCsMailtoLink(entry.title, { className: 'cs-mailto footer-cs', testId: 'footer-cs-mailto', label: 'Contact CS' })}
+          ${renderCsMailtoLink(entry.title, { className: 'cs-mailto footer-cs', testId: 'footer-cs-mailto', label: 'Contact us' })}
           <span class="footer-sep" aria-hidden="true">·</span>
           <a href="mailto:${CS_EMAIL}">${CS_EMAIL}</a>
         </p>
@@ -811,7 +822,7 @@ function renderReader() {
 
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
-         <p class="ending-note" data-testid="ending-note">The quiet isn't done with you.</p>
+         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
          ${reviewHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
            Restart
@@ -845,7 +856,7 @@ function renderReader() {
   const artSrc = assetUrl(getSceneArtPath(state.storyId || defaultStory.id, scene));
   const artAlt = scene.title
     ? `Illustration: ${scene.title}`
-    : `Illustration for ${scene.id}`;
+    : 'Story illustration';
   const artHtml = `
         <figure class="scene-art" data-testid="scene-art" data-art-src="${escapeHtml(artSrc)}" hidden>
           <img
@@ -884,7 +895,7 @@ function renderReader() {
           </p>
           ${
             scene.layer
-              ? `<p class="layer-progress" data-testid="layer-progress">Layer ${scene.layer} of 10</p>`
+              ? `<p class="layer-progress" data-testid="layer-progress">Chapter ${scene.layer} of 10</p>`
               : ''
           }
           ${authHeaderHtml()}
@@ -1553,7 +1564,7 @@ function bindEvents() {
       })().catch((err) => {
         setState({
           authModalOpen: true,
-          authStatusMessage: err?.message || 'Auth failed.',
+          authStatusMessage: err?.message || 'Sign-in didn’t work. Please try again.',
         });
       });
     });
@@ -1561,6 +1572,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="auth-mock-handoff"]').forEach((btn) => {
     btn.addEventListener('click', () => {
+      if (!isMockAuthAllowed()) return; // dev-only; button is not rendered in production
       setAuthMockEnabled(true);
       runMockAccountHandoff();
     });
@@ -1648,6 +1660,8 @@ export {
   getStory,
   STORIES,
   CATALOG,
+  DEFAULT_ENDING_LINE,
+  endingLineFor,
   activeStory,
   localSaveStore,
   cloudSaveStore,

@@ -261,8 +261,8 @@ describe('resume hint label', () => {
   });
 
   it('humanizes raw ids when title is missing', () => {
-    expect(humanizeSceneId('scene7h')).toBe('Scene 7h');
-    expect(humanizeSceneId('scene10')).toBe('Scene 10');
+    expect(humanizeSceneId('scene7h')).toBe('Chapter 7');
+    expect(humanizeSceneId('scene10')).toBe('Chapter 10');
     expect(resumeSceneLabel('scene-missing-xyz', { scenes: {} })).toBe(
       humanizeSceneId('scene-missing-xyz')
     );
@@ -388,7 +388,8 @@ describe('guest→account handoff mock', () => {
   });
 
   it('default cloud-not-configured message is explicit', () => {
-    expect(CLOUD_AUTH_NOT_CONFIGURED).toMatch(/Cloud auth not configured yet/i);
+    expect(CLOUD_AUTH_NOT_CONFIGURED).toMatch(/Accounts aren’t open yet/i);
+    expect(CLOUD_AUTH_NOT_CONFIGURED).not.toMatch(/cloud auth|configured/i);
   });
 });
 

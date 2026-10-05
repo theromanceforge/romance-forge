@@ -58,7 +58,8 @@ describe('landing page content', () => {
     const src = loadMainSource();
     expect(src).toMatch(/data-testid="forge-strip"/);
     expect(src).toMatch(/interactive branching spicy romance/);
-    expect(src).toMatch(/wine-night BookTok/);
+    expect(src).toMatch(/wine-night readers/);
+    expect(src).not.toMatch(/BookTok/);
     expect(src).toMatch(/Choose a title/);
     expect(src).toMatch(/Pick Warm or Hot/);
     expect(src).toMatch(/Branch through choices/);
@@ -536,7 +537,8 @@ describe('reader UX momentum and endings', () => {
     expect(src).toMatch(/What do you do\?/);
     expect(src).toMatch(/data-testid="choice-prompt"/);
     expect(src).toMatch(/data-testid="layer-progress"/);
-    expect(src).toMatch(/Layer \$\{scene\.layer\} of 10/);
+    expect(src).toMatch(/Chapter \$\{scene\.layer\} of 10/);
+    expect(src).not.toMatch(/>Layer \$\{/);
     expect(src).toMatch(/The quiet isn't done with you/);
     expect(src).toMatch(/data-testid="replay-last-btn"/);
     expect(src).toMatch(/advanceWithMomentum/);

@@ -18,10 +18,22 @@ const AUTH_MOCK_KEY = 'romanceForge.authMock';
 const AUTH_SESSION_KEY = 'romanceForge.authSession';
 
 /**
+ * Mock auth (Demo button, mock hints, mock signed-in state) is a local-dev
+ * affordance only. `import.meta.env.DEV` is statically `false` in production
+ * builds, so the gated code is dropped there and stale localStorage flags
+ * (romanceForge.authMock / a persisted mock-user session) are ignored.
+ * @returns {boolean}
+ */
+export function isMockAuthAllowed() {
+  return Boolean(import.meta.env.DEV);
+}
+
+/**
  * @param {Storage} [storage]
  * @returns {boolean}
  */
 export function isAuthMockEnabled(storage) {
+  if (!isMockAuthAllowed()) return false;
   const store = storage ?? (typeof localStorage !== 'undefined' ? localStorage : null);
   if (!store) return false;
   try {
@@ -83,7 +95,9 @@ export function loadPersistedAuthSession(storage) {
       parsed &&
       parsed.status === 'authenticated' &&
       typeof parsed.userId === 'string' &&
-      parsed.userId
+      parsed.userId &&
+      // A leftover dev mock session must not sign a reader in on production.
+      (parsed.userId !== MOCK_USER_ID || isMockAuthAllowed())
     ) {
       return createAuthenticatedSession(parsed.userId);
     }
@@ -144,4 +158,4 @@ export function handoffGuestToMockAccount(opts) {
  * Message shown when cloud auth is not wired (default submit path).
  */
 export const CLOUD_AUTH_NOT_CONFIGURED =
-  'Cloud auth not configured yet — progress still saves on this browser.';
+  'Accounts aren’t open yet — your place still saves on this browser.';

@@ -40,7 +40,7 @@ export async function fetchAuthSession() {
 export async function signInWithPassword(email, password) {
   const client = getSupabaseClient();
   if (!client) {
-    return { session: createGuestSession(), error: 'Cloud auth not configured.' };
+    return { session: createGuestSession(), error: 'Accounts aren’t open yet.' };
   }
   const { data, error } = await client.auth.signInWithPassword({ email, password });
   if (error) {
@@ -58,7 +58,7 @@ export async function signInWithPassword(email, password) {
 export async function signUpWithPassword(email, password, opts = {}) {
   const client = getSupabaseClient();
   if (!client) {
-    return { session: createGuestSession(), error: 'Cloud auth not configured.' };
+    return { session: createGuestSession(), error: 'Accounts aren’t open yet.' };
   }
   const redirectTo =
     opts.emailRedirectTo ||
