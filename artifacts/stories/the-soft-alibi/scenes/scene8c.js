@@ -52,11 +52,7 @@ She didn't feel clean. She had thought confession would feel like rinsing. It fe
 
 "What do we do with it?" Nolan asked.
 
-There were two answers, and both of them scared her.
-
-The first was mercy. She could shape what she would swear to. Keep the car and the bag and the bottle, but sand off the edges — leave out the eleven minutes, the bus, the way the car was simply gone. Give Brooks enough to stop circling without giving her enough to build a case on a sidewalk and a guess. It would be true. It would just be smaller.
-
-The second was fire. Take what she had just told him and carry it out of this bed and into Crownspire's glass. Let the board hear it. Let the prosecutor hear it. Let the silence Greer Meridian had sold for years crack open on the testimony of a woman who had watched from across the street. It would be true too. It would just burn everything, including them.
+She wanted to take it into Crownspire's glass. Board. Prosecutor. Every silence Greer Meridian had sold for years, cracked open on the word of the woman across the street. The urge sat hot in her throat. Her hand, resting on his chest, already wanted to edit — leave out the eleven minutes, leave out the bus, keep only what Brooks could use without building a case on a sidewalk.
 
 "I don't know," she said.
 
@@ -82,7 +78,7 @@ Or maybe you do. Maybe you pack it so whoever finds the bag thinks you meant to 
 
 She lifted her head. His face was inches away, striped by the blinds, eyes still wet. She wanted to kiss him so badly her lips hurt.
 
-She didn't. Not yet. She held his gaze, mouth almost on his, and let the choice she hadn't made yet hum between them like a held breath.`,
+She didn't. Not yet. She held his gaze, mouth almost on his, and felt his heart against her palm, still too fast, and matched her breathing to it one careful second at a time.`,
   textHot: `His bedroom was dark except for the city through the blinds, laying pale bars across the sheets and across her bare hip. [player_name] lay facing Nolan Greer with her knee against his thigh and her pulse still loud from the last hour. His skin was warm. Hers was damp at the backs of her knees, at the small of her back, between her legs where he had stopped on purpose.
 
 "Tell me," Nolan said. He didn't move his hand from her waist. He didn't move it lower either.
@@ -117,11 +113,7 @@ She didn't feel clean. She felt opened. Like a window in winter, cold air and cl
 
 "What do we do with it?" Nolan asked.
 
-Two answers. Both of them made her stomach drop.
-
-Mercy: shape what she'd swear. Keep the car, the bag, the bottle. Sand off the eleven minutes and the bus. Give Brooks enough to stop circling, not enough to build a case on a sidewalk. True, just smaller.
-
-Fire: carry this out of his bed and into Crownspire's glass. Let the board hear it. Let the prosecutor hear it. Crack Greer Meridian's bought silence on the word of the woman across the street. True, and it would burn them both.
+She wanted to carry it out of his bed and into Crownspire's glass. Board. Prosecutor. Crack the bought silence on her own mouth. The urge made her stomach drop and her cunt clench at once. Her fingers, splayed on his chest, already wanted to edit — keep the car and the bag, lose the eleven minutes, leave Brooks circling without a sidewalk to stand on.
 
 "I don't know," she said.
 
@@ -153,7 +145,7 @@ The radiator ticked. A taxi leaned on its horn below and gave up.
 
 She lifted her head. His face was inches away, striped by the blinds, eyes wet, mouth parted. Her lips hurt with wanting his.
 
-She held there. Breath to breath. Her thigh over his, his thumb one inch from where she ached, the choice between mercy and fire humming in her teeth. She didn't close the distance. She let it burn.`,
+She held there. Breath to breath. Her thigh over his, his thumb one inch from where she ached. She didn't close the distance. She rocked once against his leg instead, slow, and bit his shoulder to keep from begging.`,
   choices: [
       {
           "id": "scene9b",

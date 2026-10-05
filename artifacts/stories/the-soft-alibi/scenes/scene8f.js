@@ -30,11 +30,7 @@ Smaller geography felt like love and like flinching at the same time. She could 
 
 "So what do we do inside the glass?" Nolan asked.
 
-There were two answers. She'd been turning them over since the elevator.
-
-The first: crack the building open from inside. Go to the board, to the press, to Brooks — but only with what had happened within Crownspire's walls. The black car at the curb. The bag. The perfume. Rhea's blank face. Pell's office. Every silence Greer Meridian had bought inside this tower, laid out in the lobby for anyone to see. No inland chase, no foreign radio. Just the building's own secrets, spoken from the building's own floor.
-
-The second was quieter. Name one fate that fit the glass. Not four — not leave, paid, dead, and staged all at once. Just one. The one that matched what she had seen from her window: a woman walking down the steps with a small bag and a capped bottle, on her way somewhere she had chosen. Say it once, to the right person, and stop.
+She wanted to crack the building open from inside. Board. Press. Brooks. Everything that had happened within these walls — the black car at the curb, the bag, the perfume, Rhea's blank face, Pell's office — laid out in the lobby for anyone to see. The urge sat bright behind her eyes. Quieter, almost shy, was the pull to say one true thing about Vivienne once: a woman on the steps with a small bag and a capped bottle, going somewhere she had chosen. Say it to the right person and stop.
 
 "I keep thinking about the perfume," she said. "You said she always sprayed it at the door."
 
@@ -52,7 +48,7 @@ The wind moaned against the outer panes. Far below, a taxi pulled up to the curb
 
 She watched it go and felt her throat tighten.
 
-"Either way, I'm with you," Nolan said. "Crack it or name it."
+"I'm with you," Nolan said. "Inside the glass. Whatever you do with it."
 
 "I know." She turned from the glass to face him. "That's the hard part. You keep making it all my choice."
 
@@ -72,7 +68,7 @@ She stepped in until her coat brushed his. Not quite a kiss. Close enough to fee
 
 "You won't be," Nolan said.
 
-Behind her the city kept its thousand doors open. In front of her, his face was close and still and waiting. She rested her forehead against his chin and let the decision sit unspoken between them, one breath away from becoming either a match or a name.`,
+Behind her the city kept its thousand doors open. In front of her, his face was close and still and waiting. She rested her forehead against his chin and breathed him in — cologne, cold air, the faint ash of everything they'd burned to get here — and pressed closer until the wool of his coat scratched her cheek. A plane crawled across the dark above the river, its lights blinking slow, and she watched it pass without wanting to know whether its second seat was blank.`,
   textHot: `The observation deck closed at ten. Rhea Quinn let them up at eleven anyway, unlocked the glass door without a word, and rode the service car back down with her face carefully blank. [player_name] understood the gift. She also felt it as a flush along her throat: someone in this building knew exactly why she wanted to be alone with him forty floors up.
 
 The city spread in every direction. Rail lines ran inland like stitches toward Fourteen Calloway Mews and its upstairs light. West, a jet had idled in hangar nine since February, a second seat marked blank.
@@ -99,11 +95,7 @@ Smaller geography felt like love and like flinching. It felt like this, exactly:
 
 "So what do we do inside the glass?" Nolan asked into her hair.
 
-Two answers. She had been turning them over since the elevator, and now she turned them over with his breath on her neck.
-
-Crack the building open from inside. Board, press, Brooks — but only what had happened within these walls. The car at the curb. Pell's office. Rhea's blank face. Every silence Greer Meridian bought inside this tower, spoken from its own floor.
-
-Or name one fate that fit the glass. Not four. One. The one that matched what she'd seen: a woman on the steps with a small bag and a capped bottle, going somewhere she had chosen. Say it once and stop.
+She wanted to crack the building open from inside. Board, press, Brooks — everything within these walls spoken from its own floor. The urge rolled through her with his breath on her neck. Quieter was the pull to say one true thing about Vivienne once: a woman on the steps with a small bag and a capped bottle, going somewhere she had chosen.
 
 "I keep thinking about the perfume," she said. Her voice wavered as his mouth found the side of her neck, not kissing, just resting there, warm. "You said she sprayed it at the door."
 
@@ -121,7 +113,7 @@ His right hand left the glass. It slid under the open front of her coat and flat
 
 His breathing changed. Shorter. She felt the hitch of it against her back and pressed into the sound.
 
-"Either way, I'm with you," Nolan said. "Crack it or name it."
+"I'm with you," Nolan said against her skin. "Inside the glass. Whatever you do with it."
 
 "You keep making it my choice."
 

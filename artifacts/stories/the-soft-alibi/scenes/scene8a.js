@@ -26,23 +26,23 @@ Nolan didn't flinch. "Fifteen years ago. For clients who needed to vanish from b
 
 She set her fingertip on the embossed seal and felt the ridges like braille for money.
 
-"You have two ways to go," Nolan said quietly. "Stand fully as cover with me at your back. You name the method in front of the board, and you stand next to me while they decide what it means. Or you rewrite what you'll swear. Soften the edges. Give Brooks enough to cut, not enough to bleed everyone in the room on the first pass."
+"Stand next to me when you name it," Nolan said quietly. "In front of the board. All of it, exactly as written. I want you at my back while they decide what it means, not off in a hallway sanding the edges."
 
-"Mercy," she said.
+"You think I'd sand it?"
 
-"If you want to call it that."
+"I think you're kind," Nolan said. "Kindness edits."
+
+Brooks would want the clause numbers. Pell would want the pages back. Nolan only wanted her beside him, and somehow that was the heaviest request in the room.
 
 She walked the length of the window, then back. The glass was cold when she brushed it with her knuckles. Below, traffic drew red and white lines along the avenue. She refused to read them as anything.
 
-"If I stand as cover," she said, "I become the wall that lets you keep breathing in public. Everyone sees my face beside yours. If you fall, I fall in the same photo."
+"If I stand next to you," she said, "everyone sees my face beside yours. If you fall, I fall in the same photo."
 
-"Yes."
+"Yes," Nolan said. He didn't soften it. He never did.
 
-"If I rewrite what I swear, I sand it down until it still cuts but doesn't kill. Brooks gets a method without a map. The board gets a story it can survive."
+Her pen hand twitched anyway. She could already feel the phrases she'd want to trim — *fifteen years*, *clean work*, *vanish* — and how much gentler the page would read without them.
 
-"Yes," Nolan said again. He didn't argue either one. He never did.
-
-She thought of the leak that had gone to the prosecutor and the holding board both. Thought of the hangar camera with its lens covered, the radio in the far bay, the plane-desk note that read *confirm second seat blank*. Thought of the packed bag: silk, a travel bottle, a paperback, a museum stub. A museum stub was culture. It was also a receipt. Absence, she was learning, could look like a nice afternoon.
+She thought of the museum stub in the packed bag. A museum stub was culture. It was also a receipt. Absence, she was learning, could look like a nice afternoon.
 
 "Did you ever think I'd find this?" she asked.
 
@@ -53,6 +53,8 @@ She thought of the leak that had gone to the prosecutor and the holding board bo
 "You were already beside it," Nolan said. "Naming isn't inventing. Naming is refusing to pretend you didn't see the seams."
 
 She had seen them. She still wanted to kiss them. That was the problem with loving a man who knew how to make people disappear: some part of her admired the craftsmanship, and that part frightened her more than Brooks ever had.
+
+On the sideboard beside the pages sat a cut-glass decanter Nolan never drank from, a wedding gift he'd told her once, and a bowl of keys nobody used. She moved the decanter an inch so its shadow stopped falling across the seal.
 
 She ran her thumb along the margin until the cream stock warmed under it. Somewhere in the walls, the service elevator groaned and settled.
 
@@ -74,9 +76,9 @@ She crossed to him. She put her hand flat on his chest, over the steady thud of 
 
 "Ask me again," she said.
 
-"Wall or mercy?" Nolan asked.
+"Stand with me," Nolan said. Not a question this time.
 
-She held his gaze and kept both hands where they were, and let the question sit between their mouths, warm and dangerous, one more breath.`,
+His heart kicked once under her palm, hard, as if it had heard itself. She curled her fingers into his shirt and felt the paper crinkle under her other hand, and didn't let go of either.`,
   textHot: `The silent-partner agreement was four pages of cream stock with the Halden Row seal embossed at the bottom of each. [player_name] had kept it folded in her purse for nine days. Tonight she unfolded it on Nolan's sideboard and smoothed it flat under city light, and the motion of her palm over the paper made her think of smoothing sheets, of smoothing him, of every time her hand had flattened on warm skin instead of cold clauses.
 
 "Once you say it out loud," Nolan said behind her, "it's a method. Not a rumor."
@@ -91,23 +93,21 @@ Downstairs, Brooks waited on the ultimatum she'd delivered alone in the lobby. P
 
 She set her fingertip on the embossed seal. The ridges pressed into her skin. Behind her, Nolan stepped closer. His hands settled on the sideboard on either side of hers, caging her against the furniture without touching her yet.
 
-"You have two ways," Nolan said at her ear. His breath stirred her hair. "Stand fully as cover with me at your back. Name the method in front of the board. Or rewrite what you'll swear. Soften the edges. Give Brooks enough to cut, not enough to bleed everyone on the first pass."
+"Stand next to me when you name it," Nolan said at her ear. His breath stirred her hair. "In front of the board. All of it. I want you at my back while they decide what it means — not off sanding the edges for kindness."
 
 Her nipples drew tight at the nearness of his mouth. She pushed her thighs together and felt the slick of her own wanting.
 
-"Mercy," she said.
+"You think I'd sand it?"
 
-"If you want to call it that."
+"I think you're kind," Nolan said. "Kindness edits."
 
 She rocked back half an inch. Her ass found his hips. He was hard against her, and the press of him made her breath catch in a soft, helpless sound.
 
-"If I stand as cover," she said, shaky, "I become the wall that lets you keep breathing. Everyone sees my face beside yours."
+"If I stand next to you," she said, shaky, "everyone sees my face beside yours. If you fall, I fall in the same photo."
 
 "Yes." His lips brushed the shell of her ear.
 
-"If I rewrite, I sand it down. Brooks gets a method without a map."
-
-"Yes." His hand left the sideboard and settled on her waist, fingers spanning her ribs. The heat of his palm sank through her blouse.
+Her pen hand twitched anyway. She could already feel the phrases she'd want to trim — *fifteen years*, *clean work*, *vanish* — and how much gentler the page would read without them. His hand left the sideboard and settled on her waist, fingers spanning her ribs. The heat of his palm sank through her blouse.
 
 She thought of the leak to prosecutor and board, the covered hangar lens, the radio in the far bay, *confirm second seat blank*, the packed bag with its silk and museum stub. Absence could look like culture. Absence could look like a nice afternoon. Right now absence looked like the inch of air between his mouth and her neck, and she hated it.
 
@@ -135,15 +135,15 @@ She turned in his arms — hard, sudden — and put one palm flat on his chest o
 
 "Ask me again," she said.
 
-"Wall or mercy?" Nolan asked. His fingers were still under her waistband, still, waiting. His mouth was a breath from hers.
+"Stand with me," Nolan said. Not a question this time. His fingers were still under her waistband, still, waiting. His mouth was a breath from hers.
 
 Across the avenue, a light flicked on in an office that should have been empty. She watched it and felt his thumb resume its slow circle, and the two sensations — distant light, intimate pressure — braided until she couldn't tell dread from want.
 
 "Friday," she said.
 
-"I know," Nolan said. "Choose before then. Not now if you can't. Just not never. I'll keep my hand right here until you do."
+"I know," Nolan said. "Not never. I'll keep my hand right here."
 
-She held his gaze. She held the paper. She held the unfinished press of his hand between her legs, throbbing, and let the question sit between their mouths one more breath before either of them spent it.`,
+She held his gaze. She held the paper. She curled her fingers into his shirt and felt his heart kick once under her palm, hard, while his hand stayed between her legs, throbbing, and she didn't let go of either.`,
   choices: [
       {
           "id": "scene9a",

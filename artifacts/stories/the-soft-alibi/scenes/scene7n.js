@@ -22,29 +22,29 @@ When they finally asked her about nights, she gave dates that were true and left
 
 "No," she said. It was true. He had never needed to ask.
 
-They let her go after forty minutes. In the anteroom, Pell caught up to her by the water cooler and murmured options like a salesman walking her down an aisle.
+They let her go after forty minutes. In the anteroom, Pell caught up to her by the water cooler. He smelled like toner and peppermint. He did not look like a man who had lost anything in that room.
 
-"Two ways to play this," Pell said. "Broadcast the heat. Go to the board and the press yourself, loudly, before they come to you. The holding burns, but on a schedule we choose." He straightened his cuff. "Or widen. Point everyone inland to Calloway Mews. Keep Vivienne's fate open. Spend geography instead of spectacle."
+"Go loud," Pell said. He set two business cards on the cooler — a press contact, a board liaison. "Board and press, before they come to you. The holding burns, but on a schedule we choose. I can make the burn look like courage."
 
-She tasted metal. Nolan came out of the hearing room and stopped a few feet away, close enough to hear, far enough to let her answer for herself.
+She tasted metal. Nolan came out of the hearing room and stopped a few feet away, close enough to hear, far enough to leave the next word hers.
 
 "What do you think?" she asked him.
 
-"I'll follow either," Nolan said quietly. "Broadcast or inland. I won't invent your courage while they're still inventing my guilt."
+"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt either way."
 
 A junior clerk wheeled a cart past, water bottles sweating under plastic. She took one and didn't open it. She pressed it to the inside of her wrist instead. The cold helped her think. Pell checked his watch. She checked Nolan's mouth.
 
-Broadcast meant strangers learning how she had loved him in the gaps. Every night on the twelve steps, every unfinished kiss, turned into a headline. It meant the leak that had already gone to the prosecutor and the holding board would have a face attached: hers.
+Pell's cards waited on the cooler like a dare. Going loud would put a face — hers — on the leak that had already reached the prosecutor and the holding board. Strangers would learn how she had loved him in the gaps: twelve steps, the ninth one that creaked, every kiss that never quite finished.
 
-Widening meant pointing at Fourteen Calloway Mews and its support-housing paperwork and accepting whatever door opened there. An empty room. A stranger. Vivienne, alive, in a garden chair, not wanting to be found. Four possible endings — she left, she was paid, she died, she staged it — and none of them crowned yet by a windowless room.
+Something inland tugged anyway. Fourteen Calloway Mews sat past the ring road with its support-housing paperwork and the upstairs light Nolan had once driven past and not stopped for. She had never been there. She wanted to know what waited behind that door almost as much as she wanted never to find out whether Vivienne was still alive to answer it.
 
-"Will broadcast protect me?" she asked Nolan, low enough that Pell had to pretend not to listen. "Or just decorate your fall?"
+"Will going loud protect me?" she asked Nolan, low enough that Pell had to pretend not to listen. "Or just decorate your fall?"
 
 "I don't know," Nolan said.
 
 The not-knowing looked like love with the salesmanship stripped off. She believed him more for it than for any steady cufflink.
 
-Pell returned with two business cards — a press contact, a board liaison — and set them on top of her unopened water like offerings at a shrine. She didn't touch them. She ran her thumb through the condensation on the bottle instead and watched it smear her fingerprint into a small wet map.
+She didn't touch Pell's cards. She ran her thumb through the condensation on the bottle instead and watched it smear her fingerprint into a small wet map.
 
 She thought of the hangar camera, its lens covered with tape so it saw nothing. The foreign radio crackling in the far bay. Pell's one-word text after the raid: *held?* She had carried all of it into this building like contraband sewn into a hem.
 
@@ -58,13 +58,11 @@ Nolan followed. His hand found the small of her back, there and gone, public eno
 
 A clock above the elevator bank read four-fifteen. Three days to Friday. She counted them the way she used to count the twelve steps between their doors, knowing exactly where the ninth one creaked.
 
-"If I broadcast," she said, "you lose the board."
+"If I go loud," she said, "you lose the board."
 
 "I lose it either way," Nolan said. "This way I lose it next to you."
 
-"When you're ready," Nolan said.
-
-She wasn't. She stood in the corridor with a cold bottle against her pulse and his warmth a step behind her, storm on one side, map on the other, and let him see her not ready yet.`,
+She almost said she wasn't ready. A flyer for the building's spring gala curled on a nearby stand, edge catching the corridor light. She pressed the cold bottle harder against her wrist until the plastic ached, and let him see the ache instead of a noun.`,
   textHot: `The inquiry room had no windows and too much polish, and the chair was cold through [player_name]'s skirt. She sat where Marcus Pell pointed and watched Nolan Greer take the chair under review. The scar on his jaw looked pale under fluorescent light. Her body was still tight from the raid, still humming from the hour she'd carried Brooks's gray recorder into Pell's office, and the hum hadn't found anywhere to go.
 
 Detective Imani Brooks wasn't on the panel. [player_name] felt her anyway behind every question, a draft on the back of her neck.
@@ -85,33 +83,35 @@ When they asked her about nights, she gave dates that were true and left out eve
 
 "No," she said. He had never needed to ask. He had only needed to touch her.
 
-In the anteroom after, Pell caught her by the water cooler. "Broadcast the heat," Pell said. "Board and press, loudly, on our schedule. Or widen inland to Calloway Mews and keep her fate open. Geography instead of spectacle."
+In the anteroom after, Pell caught her by the water cooler. He smelled like toner and peppermint.
+
+"Go loud," Pell said. He dropped two cards on the cooler — press, board. "Before they come to you. I can make the burn look like courage."
 
 She tasted metal. Nolan came out of the hearing room and stopped a few feet away. Close enough that she could smell his cologne under the toner and coffee. Close enough that her nipples tightened under her blouse.
 
-"I'll follow either," Nolan said quietly. "I won't invent your courage while they're still inventing my guilt."
+"I won't invent your courage for you," Nolan said quietly. "They're inventing my guilt either way."
 
 A clerk wheeled a cart past, water bottles sweating under plastic. She took one and pressed it to the inside of her wrist. The cold shot up her arm and made her shiver all the way to her hips. Pell checked his watch. She checked Nolan's mouth.
 
-Broadcast meant strangers learning how she'd soaked for him across twelve steps, every unfinished kiss turned into a headline. Widening meant pointing at Fourteen Calloway Mews and accepting whatever door opened. Leave, paid, dead, staged. Four endings, none crowned.
+Going loud would put her face on the leak that had already reached prosecutor and board. Strangers would learn how she'd soaked for him across twelve steps. Inland tugged anyway — Fourteen Calloway Mews, an upstairs light, a door she had never opened, a woman she still didn't know was alive. Her cunt pulsed once at the thought of leaving this corridor for any of it.
 
-"Will broadcast protect me?" she asked him, low. "Or just decorate your fall?"
+"Will going loud protect me?" she asked him, low. "Or just decorate your fall?"
 
 "I don't know," Nolan said.
 
 The honesty hit her harder than any line could have. Heat pooled between her legs. She wanted to drag him into the stairwell and put his hand under her skirt and make him say it again against her mouth.
 
-Pell set two business cards on her unopened bottle and walked off toward the elevators. "Friday," Pell said over his shoulder.
+"Friday," Pell said over his shoulder, and walked toward the elevators.
 
-She ran her thumb through the condensation and felt the wet slide under her fingerprint the way she was wet under her clothes. She thought of the taped hangar lens, the foreign radio, Pell's *held?* arriving like fingers on the back of her neck.
+She didn't touch Pell's cards. She ran her thumb through the condensation instead and felt the wet slide under her fingerprint the way she was wet under her clothes. She thought of the taped hangar lens, the foreign radio, Pell's *held?* arriving like fingers on the back of her neck.
 
-She stepped into the corridor. Nolan followed. His hand found the small of her back, there and staying this time, palm flat and warm through thin cotton. Her cunt clenched. She leaned back into the touch, just slightly, under the camera dome.
+She stepped into the corridor. Nolan followed. His hand found the small of her back, there and staying this time, palm flat and warm and steady through thin cotton. Her cunt clenched. She leaned back into the touch, just slightly, under the camera dome.
 
 Back in the hearing room, someone laughed at something she couldn't hear. The sound made her flush, irrationally, as though the panel could see through the wall to the heat climbing her throat. She swallowed against it. The swallow traveled all the way down.
 
 Nolan's fingers spread wider across her back, the tip of his little finger grazing the top of her waistband. One inch lower and she would stop pretending to think.
 
-"If I broadcast," she said, "you lose the board."
+"If I go loud," she said, "you lose the board."
 
 "I lose it either way." His thumb moved once along her spine. "This way I lose it next to you."
 
@@ -119,15 +119,9 @@ The clock above the elevator bank read four-fifteen. Three days to Friday. She c
 
 "I want to go somewhere without cameras," she said.
 
-"I know," Nolan said. His hand stayed. "Choose first. Then I'll take you anywhere."
+"I know," Nolan said. His hand stayed at her spine, warm and steady through thin cotton. "Then I'll take you anywhere."
 
-Her mouth watered. Her nipples ached against her blouse. She almost tipped her head back against his shoulder and almost didn't, and the almost was so sharp she nearly moaned.
-
-She closed her eyes. A service cart rattled over a threshold somewhere down the hall. Her breath went uneven.
-
-"When you're ready," Nolan said, his mouth near her ear.
-
-She wasn't. Her body was more than ready and her mind wasn't anywhere close. She stood in the corridor with a cold bottle against her pulse and his hand hot at her spine, thighs pressed together, aching, and let him feel her tremble without giving him a single word.`,
+Her mouth watered. Her nipples ached against her blouse. She almost tipped her head back against his shoulder. She closed her eyes instead. A flyer for the building's spring gala curled on a nearby stand, edge catching the corridor light. Her thighs pressed together, aching, and she let him feel her tremble without giving him a single word.`,
   choices: [
       {
           "id": "scene8k",

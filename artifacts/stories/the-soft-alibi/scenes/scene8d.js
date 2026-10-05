@@ -40,17 +40,13 @@ Her stomach dropped. "A handler."
 
 "Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. I can find him. But if I go after him, I go tonight, before Pell hears and warns him off."
 
-She saw the two roads open in front of her like doors in a hallway.
+"Let me go," Nolan said. "Tonight. Leave your lamp on and your door cracked, and I'll knock when I'm back. I need to know you'll be here."
 
-The first: she could take what she'd just burned and speak it anyway. Walk into Crownspire's glass and break the silence open from her own mouth, no pages needed. The fire would only mean nobody could steal her words before she said them.
+Her throat tightened. The ash had barely cleared the drain, and already her mouth wanted to say the burned pages out loud anyway — in Crownspire's glass, to anyone who would listen — as if fire had only made the words lighter to carry.
 
-The second: she could let Nolan go hunting. Let the handler run, or not run. Wait across the hall with her door cracked and her lamp on, listening for his key, while he chased a stranger with a foreign radio through the city's back streets.
+"You'd chase a stranger with a foreign radio through back streets," she said. "Alone."
 
-"If I go," Nolan said, "I need to know you'll be here when I come back."
-
-"And if I go to the board?"
-
-"Then I'll be at the back of the room," Nolan said. "Like I promised."
+"I've been chasing her alone for a year," Nolan said. "At least this time someone would be waiting."
 
 She sat down on the closed lid of the radiator cover by the window. The metal was warm through her jeans. Smoke still hung faintly in the curtains. Her hands, clean and lemon-sharp and smoky underneath, lay in her lap like someone else's.
 
@@ -64,17 +60,17 @@ Nolan crossed the kitchen and crouched in front of her so their eyes were level.
 
 Her breath went shaky. His fingers stayed against her breastbone, light as a question. She could feel her heart knock against them.
 
-She wanted to put her hand over his and hold it there. She wanted to send him out the door after the handler. She wanted to keep him in her kitchen until morning and let the radio man vanish into whatever border he'd come from.
+She wanted to put her hand over his and hold it there. She wanted the radio man found. She wanted Nolan in her kitchen until morning more than she wanted anything found.
 
 Outside, a siren rose two streets over and faded without coming closer. The tap dripped once.
 
-She covered his hand with hers and pressed it flat against her chest, over the place where the truth still lived, and didn't let go. Not yet. Not until she knew whether she was keeping him or giving him to the night.
+She covered his hand with hers and pressed it flat against her chest, over the place where the truth still lived.
 
-She thought of the packed bag: silk, travel bottle, paperback, museum stub. She had seen those things and written them down and burned them, and they were still more real in her memory than any ash. Whatever she chose next — board or hallway — those things would travel with her.
+A flake of ash floated onto the windowsill and stuck there. She crushed it with her thumb and left a gray smear she didn't wipe. The lemon soap had gone from her hands. Only smoke remained under her nails, a bitter scrape she couldn't scrub out.
 
-"I'm still deciding," she said.
+"Your coat's by the door," she said.
 
-"I know," Nolan said. He didn't pull his hand away. She didn't either.`,
+"I know," Nolan said. He didn't move toward it. His fingers flexed once under hers, and she felt him wanting to stay, the want running straight up her arm, and she held his hand harder against her ribs so neither of them could pretend it was only hers.`,
   textHot: `She wrote it all down first, sitting at her kitchen table in nothing but Nolan's shirt, the cotton cool against her bare thighs. [player_name] filled three pages with the night Vivienne left: the black car, the eleven minutes, the small bag, the perfume capped on the steps, the bus that erased the rest.
 
 Then she carried the pages to the sink and struck a match.
@@ -109,13 +105,9 @@ Her stomach dropped. Heat and dread knotted low in her belly until she couldn't 
 
 "Maybe the one who drove the car." He took his hands out of his pockets. They weren't steady. "He's still in the city. If I go, I go tonight, before Pell warns him off."
 
-Two doors opened in front of her.
+"Leave the lamp on," Nolan said. "Crack the door. I'll knock when I'm back. I need to know you'll be here."
 
-She could speak what she'd just burned anyway. Walk into Crownspire's glass with no pages and crack the silence open with her mouth. The fire only meant nobody could steal her words first.
-
-Or she could let Nolan hunt. Let the handler run or not run. Wait across the hall with her lamp on and her door cracked, listening for his key, aching in an empty bed while he chased a stranger through the city's back streets.
-
-"If I go," Nolan said, "I need to know you'll be here when I come back."
+Ash still clung to her wrists. Her mouth wanted the burned pages spoken anyway — into Crownspire glass, to anyone who'd listen — as if fire had made the words lighter, not gone. Waiting across the hall in his shirt, wet and empty, sounded like a different kind of burning.
 
 He crossed the kitchen. He stopped close enough that she felt the warmth coming off his chest. He smelled like night air and the smoke she'd made.
 
@@ -135,13 +127,9 @@ She caught his wrist. She didn't push it away. She held it there, pressed agains
 
 The word went straight between her legs. She was slick and swollen and furious about it. Her thighs pressed together and it didn't help. His thumb moved once, a slow arc under the curve of her breast, and her knees went loose.
 
-"And if I stay?" Nolan asked.
-
-"Then the handler disappears," she said. "Maybe forever."
-
 He leaned in. His mouth hovered at her temple. She felt his breath move her hair. She turned her face toward him until his lips brushed the corner of hers, not a kiss, just contact, warm and dry and devastating.
 
-She thought of the packed bag. Silk, travel bottle, paperback, museum stub. A woman who folds silk into a weekend bag is planning to be touched by someone, somewhere. The thought sent a strange shiver over her, half grief, half heat, because she was standing in a man's shirt in a kitchen full of smoke wanting exactly that.
+She thought of silk folded into a weekend bag — a woman planning to be touched somewhere. The thought sent a strange shiver over her, half grief, half heat, because she was standing in a man's shirt in a kitchen full of smoke wanting exactly that.
 
 "What are you thinking?" Nolan asked. His fingers hadn't moved from her chest.
 
@@ -151,7 +139,7 @@ His breath caught against her temple. She felt his hand flex once, the pressure 
 
 Outside, a siren rose two streets over and faded. The tap dripped once into the ash-gray sink.
 
-She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. Her mind held the other door open, the one marked with a stranger's radio frequency. She didn't let go of his wrist. She didn't pull him closer. She stayed there, aching, wet, holding him at the exact distance where neither door had closed yet.`,
+She stood with her back against the counter and his hand on her chest and her mouth a breath from his. Her whole body voted for him to stay. She didn't let go of his wrist. She didn't pull him closer. She rocked once into his palm, shameless, and felt him shake against her, and kept them both there at that exact distance while the tap dripped ash-gray into the sink and the distant siren faded and her cunt ached for a decision her mouth wouldn't spend.`,
   choices: [
       {
           "id": "scene9c",
