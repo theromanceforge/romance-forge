@@ -10,11 +10,11 @@ export default {
 
 Will filled the frame, coat dark with wet, notebook tucked under one arm, patience locked in place that wasn't mercy. He didn't look at [player_name] while he answered. He looked at Owen like a man who hated artisan liars and recognized a craftsman finally out of soft tools.
 
-"Unidentified," Will corrected, precise as Cho. "I won't print a sister on bone for your comfort or for a headline. Soft was patience. Patience watched you feed a phone to fire. Soft isn't dead yet. It's standing on your porch asking whether you want to talk before steel is all that's left." His gaze flicked once to [player_name], asking without asking, then returned to Owen's empty, clean hands, the hands that had made festival-morning coffee with a lie in them for seven years. "You can invite us in. You can shut the door and teach Captain Ellison that soft nets end in hard warrants by Friday. You don't get to burn another map while we watch politely."
+"Unidentified," Will corrected, precise as Cho. "I won't name a sister on bone to make anyone comfortable, you or a headline. Soft was patience. Patience watched you feed a phone to fire. Soft isn't dead yet. It's standing on your porch asking whether you want to talk before steel is all that's left." His gaze flicked once to [player_name], asking without asking, then returned to Owen's empty, clean hands, the hands that had made festival-morning coffee with a lie in them for seven years. "You can invite us in. You can shut the door and teach Captain Ellison that soft nets end in hard warrants by Friday. You don't get to burn another map while we watch politely."
 
 Owen laughed thin. "She kept me off a festival statement for seven years and then decided badge heat looked like truth. Which version of my stepdaughter am I looking at? The girl who hid a pier silhouette, or the woman who tips and untips depending on who's in her passenger seat?"
 
-[player_name]'s mouth tasted of rain. She was done pretending alone was always bravery, and still not ready for the sound of family turning into a shouting match on wet boards while neighbors' curtains twitched. Will hadn't spent steel. Owen's voice was climbing toward something that would carry across the chain-link and the foghorns.
+Rain was still on [player_name]'s lips. She was done pretending alone was always bravery, and still not ready for the sound of family turning into a shouting match on wet boards while neighbors' curtains twitched. Will hadn't spent steel. Owen's voice was climbing toward something that would carry across the chain-link and the foghorns.
 
 "Don't talk about her like she's your alibi with legs," Will said, charm going entirely to wound. "Talk about the pier night. Talk about who stood with you when Renny was still a kid pointing at warehouses. Talk about the phone you let the fire eat. Manners end when you start inventing purity for yourself and obstruction for her."
 
@@ -47,7 +47,7 @@ She stood half a step behind him. Rain. Foghorns. The phone had burned in the al
 
 "You brought him," Owen spat, pale, vicious. "A paper that won't wear Renny's name. Theater for badge heat."
 
-"Unidentified." Precise as Cho. "I won't print a sister on bone. Soft watched you feed a phone to fire. Now soft is standing on your porch asking if you'll talk before steel is all that's left." His eyes flicked to [player_name], asking, then back to Owen's empty hands. "Invite us in. Or shut the door and teach Ellison that soft nets end in hard warrants. And don't talk about her like she's your alibi."
+"Unidentified." Precise as Cho. "I won't put a sister's name on bone. Soft watched you feed a phone to fire. Now soft is standing on your porch asking if you'll talk before steel is all that's left." His eyes flicked to [player_name], asking, then back to Owen's empty hands. "Invite us in. Or shut the door and teach Ellison that soft nets end in hard warrants. And don't talk about her like she's your alibi."
 
 Owen laughed thin. "She hid my pier silhouette for seven years. She tips and untips depending on who's in her passenger seat. If those bones upriver turn out to be Renny's, your theater won't resurrect her."
 

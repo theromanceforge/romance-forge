@@ -6,7 +6,7 @@ export default {
 
 Full cooperation had bought them the hour: Owen Vale named near the festival pier on record, the seven-year omission spent under Captain Mara Ellison's fluorescent honesty, access kept on a leash that could still choke. Will knelt opposite [player_name] on the carpet, scar cutting his left eyebrow, cracked notebook open, pen ready. The charm was sheathed for a room that smelled like vanilla ghost and river wind and absence. His eyes tracked everything: journal, map, USB, and the cream envelope half-tucked under purple leather. For [player_name] — only if.
 
-Dr. Lila Cho's language still ruled the upriver remains: unidentified, pending, consistent with. Lab ID unfinished. Rumor faster than science. The remains weren't Renny until science said so. [player_name] wouldn't christen bone with a sister's name because cream paper felt heavy.
+Dr. Lila Cho's language still ruled the upriver remains: unidentified, pending, consistent with. Lab ID unfinished. Rumor faster than science. Science hadn't spoken yet. [player_name] wouldn't christen bone with a sister's name because cream paper felt heavy.
 
 "Journal, map, USB," Will said, cataloguing without reaching past what she offered. Voice precise. Off-duty quiet that was somehow more dangerous than precinct volume. "Ellison will have controlled copies by morning. Not a press stick. Not a clearance toy." His gaze flicked to the envelope. "And that?"
 
@@ -20,7 +20,7 @@ Will's jaw flexed. Cracked knuckles whitened on his pen, old scars across the ri
 
 "You keep one card. I catalogue the rest. When Cho calls, when the USB opens, when Owen's name in Renny's script matches the pier sighting you finally put on paper, we revisit the pocket. Tonight you get mercy. Mercy has an expiration date in Harborwick. So does my willingness to stall a captain for you."
 
-Rain thickened on the glass. [player_name] read the journal aloud in pieces while Will translated teenage shorthand into cold-case grammar: warehouse marks along the waterfront, a city clerk's initials scrawled like a dare, Owen's late nights that didn't match the bleach-clean alibi, a fear older than sixteen. No corpse named. A chain sketched in looping ink.
+Rain sheeted the window and blurred the alley. [player_name] read the journal aloud in pieces while Will translated teenage shorthand into cold-case grammar: warehouse marks along the waterfront, a city clerk's initials scrawled like a dare, Owen's late nights that didn't match the bleach-clean alibi, a fear older than sixteen. No corpse named. A chain sketched in looping ink.
 
 Will photographed the pier map with its pencil Xs. He bagged the USB in an evidence sleeve he had brought, because he was always partly on duty even when his voice went quiet for her. The notebook spine cracked every time he flexed it shut and open: habit, armor, a small prayer to order.
 
@@ -32,11 +32,11 @@ Will's phone buzzed once against his thigh, and he silenced it without looking, 
 
 "You let me find the letter anyway. Leave it where my catalogue will catch it before dawn, and let the detective in me do what the man in me is trying not to rush. Or we take what we already opened, journal, map, USB, and spread the case on the floor at dawn, mapping warehouses and clerk initials and Owen's cracks while the letter stays with you until Cho's next call forces the envelope open. One path spends the last scrap tonight. The other spends the night building the chain around a silence I can feel and have agreed, for now, not to tear out of your pocket."
 
-The foghorn answered from the river. [player_name] looked at Will's scarred brow, at the way his gaze kept returning to the pocket as if paper had a pulse he refused to stop counting. Renny's fate stayed contested: not named, not buried, not safe.
+Out on the river, the foghorn spoke again. [player_name] looked at Will's scarred brow, at the way his gaze kept returning to the pocket as if paper had a pulse he refused to stop counting. Renny's fate stayed contested: not named, not buried, not safe.
 
 Will didn't fill the silence with comfort. He sat on his heels with the notebook closed against his thigh, eyes on the hoodie pocket the way a man watches a fuse he has agreed not to light. Yet.
 
-[player_name] tasted copper where she'd bitten her cheek. The letter pressed warm against her. Downstairs the radiator knocked. Choosing meant either ending mercy before dawn, cream paper in his hands and Ellison fed, or keeping the scrap while they mapped Renny's Xs on the carpet until the light found them.`,
+[player_name] realized she'd bitten her cheek bloody. The letter pressed warm against her. Downstairs the radiator knocked. Choosing meant either ending mercy before dawn, cream paper in his hands and Ellison fed, or keeping the scrap while they mapped Renny's Xs on the carpet until the light found them.`,
   textHot: `The lockbox lid was already open when [player_name] made the small, private decision with Will's eyes on her hands and the cream edge of the letter, as if he could already sense the holdback. Harborwick rain ticked the glass. Burnt precinct coffee cooled on the desk beside the charm bracelet's missing tooth. Fog pressed like a held breath against warehouse weather beyond the block.
 
 Full coop had bought the hour: Owen Vale named on record, the seven-year omission spent under Captain Mara Ellison's fluorescent honesty, access kept on a leash that could still choke. Dr. Lila Cho still said unidentified, pending, consistent with. Hope and dread shared [player_name]'s body with a third thing she refused to name in this room while she slid the letter into the kangaroo pocket of her own old hoodie and zipped her jacket over it.

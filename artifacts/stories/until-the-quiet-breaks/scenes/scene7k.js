@@ -14,7 +14,7 @@ Market Street hummed faintly through the floorboards. The CLOSED sign hung crook
 
 John crossed the floorboards and stopped close, flannel against her rain-damp shirt. "Honest has shapes," he said carefully. "You can make this night a claim. Say you're not leaving this time, and put it in my mouth like a vow I can hold when noon gets ugly. Or you can make it a question. Ask if I can love the woman who lied, and let me answer with whatever wreckage is true. Both keep me here. Both cost."
 
-She almost laughed. It hurt in her ribs. The cracked counter stool leaned its half-degree left downstairs in the dark, listening. Wet boxwood waited with Henry's paperweight and pages that tried to tidy guilt into innocence. Freight complained toward the yard, ordinary Somerton continuing without permission. [player_name] thought of the yes she had spoken at twenty while fear shook in Henry's hands around whiskey he claimed was tea. She thought of brighter rooms that had never been the real reason. She thought of John raising Clara beside fluorescent lights and fryer hymn while she practiced absence like a virtue.
+She almost laughed. It hurt in her ribs. The cracked counter stool leaned its half-degree left downstairs in the dark, listening. Wet boxwood waited with Henry's paperweight and pages that tried to tidy guilt into innocence. Gutters chattered along Willow, the town going about its business without asking. [player_name] thought of the yes she had spoken at twenty while fear shook in Henry's hands around whiskey he claimed was tea. She thought of brighter rooms that had never been the real reason. She thought of John raising Clara beside fluorescent lights and fryer hymn while she practiced absence like a virtue.
 
 "If I claim it," [player_name] said, "I'm promising a staying that fifteen years taught this town not to believe. I'm putting my body and my ticket in the same sentence. I'm telling you the woman who left isn't the woman locking this door. And I need you to want that promise more than a confession shaped like an apology."
 
@@ -77,7 +77,7 @@ He fucked her in strokes that matched the rain on the roof. Measured. Deep. Each
 
 He slowed on purpose, denying the finish, his burn scar white where he gripped the sheets, his forehead against hers. Her nipples ached against his chest. She fluttered around the thick, still length of him. Mae's gold light held across the wet walk.
 
-"Morning knocks like a dare," John groaned, hitching her knee higher and grinding against her clit with the base of his cock until her vision whitened. "She can dare the morning. Tonight belongs to this locked door and whatever sentence you put in my mouth before dawn."
+"Morning knocks like a dare," John said into her throat, rolling his hips in slow, deep strokes that dragged every inch of him across the place that made her shake. "Let it knock. I'm not giving this door back until you've said what you came here to say."
 
 John pulled out only long enough to turn her onto her stomach, then sank back into her with a groan that vibrated through the mattress into the diner's bones. [player_name] turned her face into the pillow that smelled of him and coffee and clean sweat. He covered her, chest to back, mouth at her neck, one hand braced beside her head. The other slid under her to find her clit again with ruthless patience.
 

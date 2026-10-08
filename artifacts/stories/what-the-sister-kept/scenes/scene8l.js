@@ -16,7 +16,7 @@ The soft net had burned. The sink trap had given up its secret. The nano-SIM mes
 
 Will's notebook lay open on the table. The scar at his eyebrow was pale under the annex lights. His knuckles whitened once when Ellison said closer to a witness. The old hallway smoked behind his eyes without being unpacked.
 
-"She isn't a clearance story," Will said, flat and fierce. "The remains stay unidentified until Cho earns a name. Soft grammar stays evidence whether we seal a page or fold it into mercy. I won't name silt for your inbox, and I won't pretend sealed pages are free." His late smile arrived and died in the same breath.
+"She isn't a clearance story," Will said, flat and fierce. "The remains stay unidentified until Cho earns a name. Soft grammar stays evidence whether we seal a page or fold it into mercy. I won't name silt for your inbox, and I won't pretend sealed pages are free." Something like a smile flickered and went out.
 
 [player_name] tasted coffee. She was done pretending the ash was only Owen's problem. The kept secret pressed under her ribs: the pier night, Owen, the stranger, seven years of a scrubbed silhouette. A quiet deal could bring it to light without resurrecting anyone. It could also bury it, if the seal went too deep.
 
@@ -30,7 +30,7 @@ Ellison slid a draft across. Black lines where names had been. Soft grammar surv
 
 "Marcus Hale gets leaned on without a chyron if you seal," Ellison said. "Owen gets a thinner net if you fold into mercy. Neither one resurrects a maybe. Both keep Harborwick from eating another festival anniversary alive."
 
-Will walked the edge of the annex the way he walked interview rooms, counting exits and lies and what soft nets cost when they became sealed vows. Outside, warehouses hunched in fog. Inside, the clock hummed.
+Will walked the edge of the annex the way he walked interview rooms, counting exits and lies and what soft nets cost when they became sealed vows. Outside, the warehouses had gone gray in the fog. Inside, the clock hummed.
 
 "Red doors," [player_name] said. Her voice held. Barely. "Pencil Xs on a pier map. A man who wasn't supposed to be standing with Owen. She half-understood the crates and permits. She understood enough to point. I understood enough to scrub. And that scrubbing is why we're bargaining over after-midnight texts instead of finding her alive in a kitchen that still smells like dryer sheets."
 
@@ -38,7 +38,7 @@ She swallowed. "If we seal, I'll hate every black line and still sign what keeps
 
 Will nodded once. He respected the line, even while his eyes said he wanted to take her somewhere soft after all this coffee.
 
-Rain thickened on the glass. [player_name] thought of Owen's clean hands, of the alley flare, of the silver bracelet gap like a missing tooth on a dresser across town, of Renny's hoodie folded inland. The SIM dish glowed in memory: contents imaged, a chain living in pixels Will refused to turn into a corpse, now becoming ink that could seal or speak.
+Rain beat a slow tattoo on the annex window. [player_name] thought of Owen's clean hands, of the alley flare, of the silver bracelet gap like a missing tooth on a dresser across town, of Renny's hoodie folded inland. The SIM dish glowed in memory: contents imaged, a chain living in pixels Will refused to turn into a corpse, now becoming ink that could seal or speak.
 
 "When my partner and I—" Will stopped. The armor slid. The wound showed a tooth, then hid. "When a raid goes sideways, people rinse what they can. Partners take the weather. I'm not dumping that file on your quiet deal. I'm telling you why I won't rush an ID for Ellison's inbox while this chain still has a throat we can aim at."
 
@@ -48,14 +48,14 @@ Ellison cleared her throat like a gavel. Will didn't look away from [player_name
 
 "Renny kept a map," [player_name] said quietly. "I kept a lie. Owen kept a clerk on speed dial. You keep a sealed hallway. Ellison keeps an inbox. Everybody keeps something." She looked at Will until he looked back, then at Ellison until the captain looked back too. "I'm asking which hurt leaves my sister reachable."
 
-Will's pen stopped. Respect moved through his face like weather changing. He closed the draft halfway, the ink dimming, the chain still alive underneath.
+Will's pen stopped. Respect settled into the lines around his eyes. He closed the draft halfway, the ink dimming, the chain still alive underneath.
 
 "Seal what the deal demands," he said, "or walk the bargain into a room with oaths anyway. Either way, I'm in that room with you. Choose."`,
   textHot: `Ellison's draft glowed on the tablet like a softer knife. Black lines where names had been. Stubs where the chain still breathed.
 
 [player_name] felt every redaction in her throat. She felt Will at her shoulder somewhere lower.
 
-The annex smelled like burnt coffee and wet wool. Rain freckled the high window. Foghorns complained inland.
+The annex smelled like burnt coffee and wet wool. Rain spattered the high window. Foghorns complained inland.
 
 "Quiet clears my inbox," Ellison said. "Public makes politics. Seal what the deal demands and I keep the hunt alive in rooms without cameras. Or fold it into mercy testimony. Supervised truth on a stand. Both leave Cho's tray contested. Both leave Detective Akers closer to a witness than Internal prefers."
 

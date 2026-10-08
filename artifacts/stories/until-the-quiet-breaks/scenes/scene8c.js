@@ -28,7 +28,7 @@ His thumb found her wrist. The heat between their mouths stayed unfinished. Thei
 
 "If I take your terms," she said, "you don't get to punish me later for the years I needed to survive. You get my mornings. You get my fight with Henry beside yours. You get me learning the diner latch again. If I keep my years, you don't get to call my suitcase betrayal every time it rains. You get my love with its history intact, and a back door I promise not to use as a threat."
 
-"Then stop explaining and choose," John murmured. Almost gentle, which was sharper than shouting. Rain sheeted the alley. Freight complained toward the yard. "Standing here inventing a prettier map while my hand is on your pulse is the only cowardice left above Market Street."
+"Then stop explaining and choose," John murmured. Almost gentle, which was sharper than shouting. Rain sheeted the alley. A dumpster lid banged in the wind. "Standing here inventing a prettier map while my hand is on your pulse is the only cowardice left above Market Street."
 
 [player_name] laughed once, wrecked and fond, fogging the alley glass. "You always did make staying sound like a dare."
 

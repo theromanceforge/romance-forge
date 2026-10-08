@@ -32,7 +32,7 @@ John's laugh was short, not kind. "Don't lecture her on covers. You invented the
 
 "Release it to me and Clara. Play it once in this room, lock it after, and we decide together what Mae hears and when. Or hold it as insurance. Say it to my face and Clara's without pressing play, and the file stays yours like a spare key to a door I hope we never need. I rebuilt that diner around not knowing. I can survive knowing. What I can't survive is a third road where nobody gets muddy and Henry gets another quiet morning."
 
-Outside, a freight horn complained toward the yard. Wet boxwood scratched the porch rail in the wind. Clara's footsteps moved upstairs, restless. The recording light blinked.
+Outside, rain drummed on the porch roof. Wet boxwood scratched the porch rail in the wind. Clara's footsteps moved upstairs, restless. The recording light blinked.
 
 [player_name] lifted the phone carefully, as if the glass weight might shatter if she moved wrong. "If I release it to John and Clara only," she said, "I'm not protecting you, Henry. I'm putting family before the chorus. If I hold it as insurance and speak live, I'm refusing to let a file do the bravery my mouth should do. And I'm keeping a blade in case you try to unsay winter tomorrow."
 
@@ -71,7 +71,7 @@ Henry flinched. [player_name] gripped the mantel edge. "I'm deciding whether the
 
 John's thumb pressed her pulse. "Choose," he said quietly. "Release the file to us, or hold it and speak live. Either way you leave this room with the truth. Standing here inventing a third option is the only cowardice left on Willow."
 
-A freight horn complained toward the yard. The cracked stool leaned across town. Wet boxwood scratched the porch rail. Henry's hands stayed empty.
+A neighbor's wind chime clattered and went still. The cracked stool leaned across town. Wet boxwood scratched the porch rail. Henry's hands stayed empty.
 
 "If I release it," she said, "you don't soften the walk to the blue door. You stay angry and present while we decide what Mae hears. If I hold it and speak live, you help me put every raw sentence into this air before Henry invents a quieter morning. And the file stays locked insurance, not a museum."
 

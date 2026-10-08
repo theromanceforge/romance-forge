@@ -22,7 +22,7 @@ She didn't answer at once. The vinyl cooled under her palms. The same stupid ten
 
 Her throat worked. "Clara circled the edges. She didn't circle the center hard enough. Or she did, and I took the center out before you finished reading."
 
-John went still. A freight horn complained toward the yard. He extended his hand across the laminate, palm up. Not gentle. Demanding.
+John went still. The ice machine dropped a load into its bin. He extended his hand across the laminate, palm up. Not gentle. Demanding.
 
 "Show me," he said.
 

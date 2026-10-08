@@ -40,7 +40,7 @@ He almost kissed her then. He stopped a breath away, because the muted televisio
 
 "Hydrate," he said, soft and ridiculous. "Flashbulbs dehydrate. Hiding dehydrates. Loving a detective with a sealed drawer dehydrates." He almost smiled. "I'm trying to be a man who offers water before he offers choices."
 
-"Hydrate," he said, soft and ridiculous under storm weather. "Flashbulbs dehydrate. Hiding dehydrates. Loving a detective with a sealed drawer dehydrates." He almost smiled. Failed into something fonder. "I am trying to be a man who offers water before he offers forks. Soft nets start small when the city is loud." [player_name] drank. Thought of Renny's hoodie folded in a drawer across town. Thought of festival music lying about safety.
+She took the mug. Storm weather leaned on the window while he waited, and when the smile finally came it failed into something fonder. "Small things first," he said. "Water. A locked door. Soft nets start small when the city is loud." [player_name] drank. Thought of Renny's hoodie folded in a drawer across town. Thought of festival music lying about safety.
 
 Thought of Will's flinch when someone said partner in the bullpen, and how it had followed them into a room with taped blinds. "If the storm finds this address—"
 

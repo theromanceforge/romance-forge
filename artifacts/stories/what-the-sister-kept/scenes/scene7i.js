@@ -77,7 +77,7 @@ Chest to hers, thigh between her legs, his mouth on her jaw, the kiss denied on 
 
 "Let the wire catch the clerk," he murmured, "clean lean, warrants, gloves, and I finish you after the brief with my mouth. Or risk being made on a hotter wire, and I keep you aching through the meet." He moved in a slow, filthy rhythm, then stopped, exact, cruel, and drew his fingers free to paint her lower lip. "Not yet. Not until you pick."
 
-He pressed her palm to his cock through his jeans and rolled once into her fist. "Feel what tonight does to me. My old partner would call me compromised. She wouldn't be wrong."
+He pressed her palm to his cock through his jeans and rolled once into her fist. "Feel what tonight does to me. Any partner I ever had would call this compromised. She wouldn't be wrong."
 
 Rain freckled the precinct glass. His free hand cupped her nape, thumb stroking her hairline. "Early entries leave ashes," he said against her temple. "This visit wasn't early. What comes next is where I stay human or become Ellison's fear."
 

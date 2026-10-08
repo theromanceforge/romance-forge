@@ -115,7 +115,7 @@ His mouth flattened. His eyes didn't leave hers. "All three, if the worst rumors
 
 The last sentence landed like a hand at the small of her back.
 
-"Maris heard a voice," he said, rougher now, as if roughness were the only honesty left. "Warm wine over broken glass. You have two moves, Candidate, and both of them go through me."
+"Maris heard a voice," he said, rougher now, as if roughness were the only honesty left. "The same voice. Warm wine, broken glass. You have two moves, Candidate, and both of them go through me."
 
 He leaned a fraction. Burnt copper and blade oil reached her tongue. Not touching. Want lived in the inch between his mouth and hers like a held braid about to snap.
 

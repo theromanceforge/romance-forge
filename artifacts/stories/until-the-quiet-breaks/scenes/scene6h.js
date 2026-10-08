@@ -16,7 +16,7 @@ Mae's post office waited two storefronts past the pie case, its small window lit
 
 [player_name] tasted copper and rain and the metallic bright of a choice that would not stay private either way. Fifteen years ago she had left this street believing silence would protect him. Now silence was the thing that needed killing, and the question was how public the knife should be. The cracked counter stool leaned its half-degree left behind the diner glass, listening through rain. Wet boxwood lived back on Willow with Henry's unfinished word still hanging over the grate. Clara would wake soon to charcoal under her nails and a house that smelled like fear trying to dress as patience.
 
-A freight horn complained toward the yard. Regulars would start arriving within the hour. Men who still called her the girl who wanted more. Women who had practiced believing the cleaner story until it nearly became civic virtue. Mae would know first if [player_name] chose the window. Mae always knew first. That was the point of a post office in a town that mailed its shame in envelopes and called the stamps mercy.
+The coffee urn ticked as it heated. Regulars would start arriving within the hour. Men who still called her the girl who wanted more. Women who had practiced believing the cleaner story until it nearly became civic virtue. Mae would know first if [player_name] chose the window. Mae always knew first. That was the point of a post office in a town that mailed its shame in envelopes and called the stamps mercy.
 
 John stopped her under the hardware awning with a hand at her elbow. Not gripping. Asking. Rain sheeted past them into the gutter.
 

@@ -36,7 +36,7 @@ John's forehead nearly touched hers. Stopped. The unfinished contact burned hott
 
 His pulse showed at his throat. Hers answered.
 
-Outside, a freight horn complained toward the yard. "Before I forgive him by accident with my mouth on yours," John murmured. "Before kindness drowns us the Shaw way. Before I stop telling anger from love and call the confusion healing."
+Outside, a car crept past with its wipers slapping. "Before I forgive him by accident with my mouth on yours," John murmured. "Before kindness drowns us the Shaw way. Before I stop telling anger from love and call the confusion healing."
 
 She lifted her chin. Kindness had drowned Shaws before. They were trying something uglier and more accurate. She thought of Voss's number, a bruise that still changed color when pressed, and of Clara asking where they stood.
 
@@ -75,7 +75,7 @@ He held her there, a finger's width from the edge, and didn't let her fall. His 
 
 His grey eyes burned. His belt stayed buckled, for now, like a held breath. She reached for the buckle and stopped with her fingers on cold metal. Not yet. Not until it meant what she chose.
 
-Outside, a freight horn complained toward the yard, ordinary Somerton going on without permission. She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed. Kindness had drowned Shaws before. They were trying something uglier and more accurate.
+Outside, a car alarm whooped twice and quit, the town going on without permission. She thought of Clara's sketches, Henry's glass weight, Voss's number like a bruise that still changed color when pressed. Kindness had drowned Shaws before. They were trying something uglier and more accurate.
 
 His burn scar flashed white where his fist stayed closed at her hip. He hadn't opened that hand all night. He wasn't going to open it for her either, unless she asked.
 

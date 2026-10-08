@@ -28,7 +28,7 @@ John's laugh was short. "You don't get clean. You get consequences." He stepped 
 
 "The county stamp means we drive in the rain with this pad under your coat and watch a stranger seal Henry's name. Burning means we walk to the diner, I read it again aloud if you need me to, and we put fire in the sink and wash the ash down. I can survive knowing with a seal. I can survive knowing with ash. What I can't survive is a third road, where the pad sits in a drawer forever like another glass weight."
 
-Outside, a freight horn complained toward the yard. Clara's footsteps moved upstairs. [player_name] thought of Mae's trays and Voss's coin, and of fifteen years of practiced belief in the girl who wanted more. A grocery pad could end that practice in a county book. Or it could become smoke that taught John what winter cost without teaching the town how to chew it.
+Outside, a gutter overflowed onto the walk. Clara's footsteps moved upstairs. [player_name] thought of Mae's trays and Voss's coin, and of fifteen years of practiced belief in the girl who wanted more. A grocery pad could end that practice in a county book. Or it could become smoke that taught John what winter cost without teaching the town how to chew it.
 
 "If I notarize," [player_name] said, "I am not protecting Market Street's appetite. I am refusing to let Henry's hand become weather again tomorrow. If I burn after you read, I am not protecting Henry. I am refusing a paper trail that can be stolen, mailed, or turned into sport before Clara and you finish deciding what justice looks like."
 

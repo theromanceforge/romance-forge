@@ -4,7 +4,7 @@ export default {
   title: "Close the Ledger",
   text: `The notary office on the far side of Market Street smelled of toner and rain-wet wool. It held the relief of a room that did not know the Shaw name as weather.
 
-[player_name] sat in a plastic chair that stuck to the back of her coat while Henry signed the last page. His hand shook only at the final stroke. Outside, slate roofs dripped into gutters. Freight complained toward the yard.
+[player_name] sat in a plastic chair that stuck to the back of her coat while Henry signed the last page. His hand shook only at the final stroke. Outside, slate roofs dripped into gutters. A car hissed through standing water.
 
 John waited two chairs over. He was not touching her, and not looking away. His grey eyes tracked the notary's stamp the way he tracked a ticket total that might come out wrong. Woodsmoke lived in Henry's cardigan. Clara's charcoal circles lived in a photo on [player_name]'s phone, insurance against anyone smoothing the morning back into innocence.
 

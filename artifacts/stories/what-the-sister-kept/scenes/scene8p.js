@@ -22,11 +22,11 @@ A kid ran past shouting partner at a parent in a silly costume. Will flinched, s
 
 Will nodded past the posters toward the open pier, then toward the city inland, where hospital windows glowed soft and dishonest. "Two dawns. Answer the pier truth-proposal. Not marriage. Not a ring. Not a tidy ending. Truth: what you kept, what I won't spill yet, what we refuse to let the machine write. We stand here and say the hard sentences to each other like a vow the law doesn't recognize. And dawn finds us still on these planks, deciding to leave or stay, with honesty as the only jewelry."
 
-His thumb brushed her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into a quieter life together under hospital light and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
+He ran his thumb along her knuckles. "Or take the hospital-dawn future instead—walk inland from festival sugar into a quieter life together under hospital light and Ellison footnotes, build a morning that smells like antiseptic and coffee instead of fried dough, let the boards wait while we choose each other's throat in a quieter tense." [player_name] tasted fried sugar and copper. Thought of Renny's hoodie folded in a drawer. Thought of a locked box and cream envelopes and a red door east.
 
 She thought of Will's knuckles, and of the hallway he still wouldn't open. "Proposing truth means choosing us as the first audience," she said.
 
-"Taking hospital dawn means choosing a rebuild as the first room," Will said. "Either one moves the case. Neither names the bones before science does." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first, on these boards. Wanting that makes me selfish. Offering you the hospital anyway makes me slightly less. Slightly."
+"Taking hospital dawn means choosing a rebuild as the first room," Will said. "Either one moves the case. Neither names the bones before science does." He wiped rain from his face with his free hand. "I won't pretend I don't want the truth between us first, on these boards. Wanting it is selfish of me. Offering you the hospital anyway makes me slightly less. Slightly."
 
 The festival speakers crackled through a ballad that had been popular the year Renny vanished. Someone laughed too loudly near a funnel-cake stall like the one Marta had once worked. A Harborwick PD cruiser idled at the edge of the lot without lights: Ellison's caution wearing a unit number. Will noticed and didn't turn his head.
 
@@ -36,7 +36,7 @@ The festival speakers crackled through a ballad that had been popular the year R
 
 "Then I ask you to put Owen in a sentence between us before you put him on a press page," Will said softly. "And I ask myself to give you more of my sealed history than hints when the case earns it. Not tonight. Not a sealed-file striptease for anniversary romance. A promise that my ash won't stay private forever while I demand your pier night. Teeth on both sides."
 
-His late smile arrived, wrong and fond. "If you take the hospital dawn instead, we walk inland, and I hold your hand through CT footnotes and Ellison memos. The boards wait with Renny's poster for a dawn that might still come."
+The smile, when it came, was fond and lopsided. "If you take the hospital dawn instead, we walk inland, and I hold your hand through CT footnotes and Ellison memos. The boards wait with Renny's poster for a dawn that might still come."
 
 Rain thickened into a mist that turned the lanterns into bruises. A foghorn spoke across the water. [player_name] looked at Renny's poster, at Will's mouth, at the boards under her boots. Could she love a badge after the system had failed Renny? Could he love the woman who'd kept the pier secret?
 
@@ -53,7 +53,7 @@ The boathouse door shut out the noise. Inside it was diesel, wet rope and a sing
 
 "You came," Will growled. "Soft is still possible. Feel how soft I'm not." Rain beaded on his shoulders. His hand slid under her coat and shirt to her bare waist, his thumb stroking the underside of her breast until her nipple peaked. His cock pressed her hip, thick and insistent.
 
-"I'm proposing truth, not marriage. Hard sentences between us, like a vow. Truth is the only jewelry I know how to offer." He pushed his hand into her jeans, under cotton. She was soaked. Two fingers slid into her without preamble.
+"I'm proposing truth, not marriage. Hard sentences between us, like a vow. Truth is the only jewelry I know how to offer." He pushed his hand into her jeans, under cotton. She was soaked. He slid two fingers into her, no warning.
 
 "Answer the truth-proposal at dawn," he muttered, pumping slow and precise, his thumb circling her clit. "Stand on these planks and say what you kept, and what I won't spill yet. And before dawn, I take you against this piling until honesty is just how hard you clench." He curled his fingers until her hips jerked. "Or take the hospital dawn. Walk inland, and I repay you in a supply closet that smells like antiseptic, my palm over your mouth."
 
@@ -63,7 +63,7 @@ The boathouse door shut out the noise. Inside it was diesel, wet rope and a sing
 
 He tucked himself away with shaking hands, fastened her jeans with mock courtesy, and pressed his forehead to hers. Then he backed her against the stacked fenders. Despite Ellison's caution, he crouched, drew her jeans down far enough, and put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision.
 
-She clapped a hand over her own mouth. His knuckles braced her thighs open. "Truth, and I do this after every hard sentence you give me on these boards," he said against her. "Hospital, and I do this after every soft beep. Supply closet, blinds, my tongue writing a better story than any memo."
+She smothered a cry against her palm. His knuckles braced her thighs open. "Truth, and I do this after every hard sentence you give me on these boards," he said against her. "Hospital, and I do this after every soft beep. Supply closet, blinds, my tongue writing a better story than any memo."
 
 He slid two fingers back into her while he licked, in time with the rain on the roof. She came again, harder, shaking, her vision white at the edges. Will stood and wiped his mouth with the back of his hand, like a man finishing a statement. He was still hard. A deliberate denial.
 
@@ -71,7 +71,7 @@ He slid two fingers back into her while he licked, in time with the rain on the 
 
 "I dream raid noise when soft fails. You get boards-and-vow or inland-and-gauze. I get to want both with my cock aching and my notebook drinking mist in my jacket. Pick before Ellison invents our posture for us." He braced both hands on the wall beside her head and rolled his hips once against hers—slow, deliberate, a promise with a pulse—so she felt exactly how unfinished he was.
 
-"If you answer the truth-proposal, I'll stand through every hard sentence smelling like you, answering like a man who offered honesty instead of a ring," he said, his voice raw. His knuckles brushed her jaw. Rain ticked on the tin roof.
+"If you answer the truth-proposal, I'll stand through every hard sentence smelling like you, answering like a man who offered honesty instead of a ring," he said, his voice raw. His knuckles traced her jawline. Rain ticked on the tin roof.
 
 "Either way leaves his old wound sealed tonight. Neither lets me pretend I am clean. Pick, [player_name]. So is my mouth. So is the inland soft." [player_name] stood between the work light and the dark water, wet jeans, and the choice sitting between them like unfinished fucking: truth as a proposal on the boards at dawn, or hospital dawn as the future's quieter door with Will's method on her tongue and old raid ash stirring without a full sealed-file dump yet.
 
@@ -81,7 +81,7 @@ Before the shift changed, Will walked her to the back wall of the boathouse, whe
 
 She came a third time, quietly, against the wall, shaking, laughing once into his collar. Will eased free without chasing his own finish. His phone buzzed again. He ignored it. He put her hand on his cock through his pants and let her feel the unfinished claim.
 
-"Last chance to breathe before the shift changes," he murmured. "Truth or inland. I'm still tasting you. That isn't in any memo yet. Keep it that way until you choose which dawn gets our next hour."`,
+"Last chance to breathe before the shift changes," he murmured. "Truth or inland. I'm still tasting you. No report has that yet. Keep it that way until you choose which dawn gets our next hour."`,
   choices: [
     { id: "scene9h", text: "Answer the pier truth-proposal at dawn", textHot: "Answer the pier truth-proposal at dawn" },
     { id: "scene9g", text: "Take the hospital-dawn future instead", textHot: "Take the hospital-dawn future instead" }

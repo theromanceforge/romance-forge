@@ -4,11 +4,11 @@ export default {
   title: "Messages to a Clerk",
   text: `The SIM chain glowed on Will's laptop like a municipal throat clearing itself in fragments.
 
-Back-lab strip light. A solvent ghost. Burnt precinct coffee. [player_name] sat shoulder to shoulder with him while rain freckled the high window and Cho's remains still waited upriver without Renny's name. The soft net had burned. The sink trap had yielded. Phone ash had become recoverable. Now the nano-SIM's surviving messages threaded toward a city clerk: timestamps after midnight, stubs that resolved to a Harborwick directory entry half-redacted by politics, and a repeating vocabulary, soft, M, move the paper, sister pointed, quiet or loud, that made [player_name]'s mouth taste of old festival fog.
+Back-lab strip light. A solvent ghost. Burnt precinct coffee. [player_name] sat shoulder to shoulder with him while rain freckled the high window and Cho's remains still waited upriver without Renny's name. The soft net was ash now. The sink trap had yielded. Phone ash had become recoverable. Now the nano-SIM's surviving messages threaded toward a city clerk: timestamps after midnight, stubs that resolved to a Harborwick directory entry half-redacted by politics, and a repeating vocabulary, soft, M, move the paper, sister pointed, quiet or loud, that made [player_name]'s mouth taste of old festival fog.
 
 Will angled toward the screen, scar pale, notebook open beside the keyboard. His knuckles flexed when a particular string resolved. Captain Ellison had texted three times. He showed [player_name] none of the texts. He showed her the chain instead.
 
-"The clerk," Will said without looking up. "Not a comic villain. A desk that moves permits for people who move crates. Owen reached him the night soft got close. Reached him again after the alley fire. Reached him in language that treats a teenager's pointing finger as a problem to manage, not a sister to find." His late smile arrived and died in the same breath. "This is enough for a warrant lean. Enough for Ellison's clearance story if we soften it. Enough for a press conference if we decide quiet deals protect the wrong throats. What it isn't is an ID on Cho's bones. I won't let a text string print Renny on silt."
+"The clerk," Will said without looking up. "Not a comic villain. A desk that moves permits for people who move crates. Owen reached him the night soft got close. Reached him again after the alley fire. Reached him in language that treats a teenager's pointing finger as a problem to manage, not a sister to find." His smile came late and didn't last. "This is enough for a warrant lean. Enough for Ellison's clearance story if we soften it. Enough for a press conference if we decide quiet deals protect the wrong throats. What it isn't is an ID on Cho's bones. I won't let a text string print Renny on silt."
 
 [player_name] tasted solvent and rain. Renny's absence pressed under her ribs; the kept secret pressed harder: pier night, Owen, the stranger, seven years of silence that messages could light up without resurrecting anyone. "Will Ellison let us go public?"
 
@@ -16,7 +16,7 @@ Will angled toward the screen, scar pale, notebook open beside the keyboard. His
 
 Attraction hummed under the dread: his competence, his refusal to stage false funerals, the way his cracked knuckle brushed hers when they scrolled the same thread. She wanted his steadiness and hated that she wanted it.
 
-A gown tech nodded from the doorway and left them alone with the glow. Will walked the perimeter of the table the way he walked interview rooms, counting exits, counting lies. Outside, warehouses hunched in fog. Inside, the clock hummed.
+A gown tech nodded from the doorway and left them alone with the glow. Will walked the perimeter of the table the way he walked interview rooms, counting exits, counting lies. Outside, fog swallowed the warehouse roofs. Inside, the clock hummed.
 
 "Walk me through what Renny would have seen," Will said. Not a quiz.
 
@@ -26,9 +26,9 @@ Will nodded once. "Ellison wants this bagged and briefed. She distrusts family w
 
 He didn't touch her mouth. Solvent stung [player_name]'s eyes. Behind him the screen glowed with partial truths: M, soft, clerk, timestamps that refused to resurrect a girl and refused to bury her.
 
-Rain thickened on the glass. A foghorn rolled inland. [player_name] thought of Owen's clean hands, the alley flare, the silver bracelet's gap like a missing tooth on a dresser across town. The SIM dish sat empty under the strip light now, its contents imaged, the chain living in pixels.
+Rain smeared the window gray. A foghorn rolled inland. [player_name] thought of Owen's clean hands, the alley flare, the silver bracelet's gap like a missing tooth on a dresser across town. The SIM dish sat empty under the strip light now, its contents imaged, the chain living in pixels.
 
-"When my old partner and I—" Will stopped. "When a raid goes sideways, people rinse what they can. Partners take the weather. Kids in hallways pay for urgency dressed as care. I'm not dumping that file on your SIM dig. I'm telling you why I won't rush an ID or a show arrest for Ellison's inbox while this chain still has a throat we can aim at a stage or a sealed room." His eyes found hers. "You stay in the room."
+"When my old partner and I—" Will stopped. "When a raid goes bad, everybody washes what they can. Partners take the weather. A kid in a hallway paid for my hurry once. I'm not dumping that file on your SIM dig. I'm telling you why I won't rush an ID or a show arrest for Ellison's inbox while this chain still has a throat we can aim at a stage or a sealed room." His eyes found hers. "You stay in the room."
 
 Will paced once, then stopped with his back to the window so the fog framed him. "If we go to the press, I'll still be angry in the elevator after: at Owen, at the clerk, at seven years of silence, at myself for floating soft until ash was the only map. Anger doesn't cancel us. If we go quiet, I'll still want you when the bargain ink dries. Want doesn't cancel the cost of sealed pages. I need you to hear both without softening either."
 

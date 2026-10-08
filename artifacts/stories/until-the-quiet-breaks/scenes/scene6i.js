@@ -6,7 +6,7 @@ export default {
 
 Henry's silhouette still moved behind the kitchen glass. The mantel clock, the glass that wasn't water, the half-broken silence of a man who had remembered he could interrupt. Clara had already called out that they were still out here. John didn't care. He backed [player_name] into the hedge until the leaves soaked through her coat, and his mouth found hers like a man finishing a sentence the town had cut short fifteen years ago.
 
-Rain needled the slate roof. Woodsmoke from the Shaw chimney braided into the wet. Somewhere a freight complained toward the yard, ordinary Somerton continuing without permission. Inside the house the cover story waited with papers under a glass weight. Outside, John's hands framed her jaw and the kiss was not polite.
+Rain needled the slate roof. Woodsmoke from the Shaw chimney braided into the wet. Somewhere a power saw whined into wet lumber, ordinary Somerton continuing without permission. Inside the house the cover story waited with papers under a glass weight. Outside, John's hands framed her jaw and the kiss was not polite.
 
 "One hour," he said against her mouth, breathing hard. "Not a council. Not Henry's microphone. You and me and whatever honesty fits between wet leaves and my pulse. After that we can be adults again. Right now I am done being the nephew who waits politely for uncles to invent mornings."
 

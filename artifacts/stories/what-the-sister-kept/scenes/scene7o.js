@@ -28,7 +28,7 @@ Ellison's people ended it with practiced shepherding. The crowd fractured into l
 
 [player_name] almost laughed. Almost cried. "Hiding means we let the storm spend itself while we spend ourselves on each other."
 
-"The pier means we walk back onto the boards where she vanished and tell each other the truths everything keeps interrupting, without pretending a ring is the point," Will answered. "Either one moves the case. Either one keeps your Owen weather private until you choose otherwise, and the press already dug toward him once today, so that clock is shorter than it was at breakfast." He almost smiled. "I won't pretend I don't want to hide. Wanting that makes me selfish. Offering the pier anyway makes me slightly less. Slightly."
+"The pier means we walk back onto the boards where she vanished and tell each other the truths everything keeps interrupting, without pretending a ring is the point," Will answered. "Either one moves the case. Either one keeps your Owen weather private until you choose otherwise, and the press already dug toward him once today, so that clock is shorter than it was at breakfast." He almost smiled. "I won't pretend I don't want to hide. Selfish, and I know it. Offering the pier anyway makes me slightly less. Slightly."
 
 Rain thickened on the stairwell glass. Outside, a van replayed [player_name]'s sentence about inventing grief for clicks. His phone buzzed endlessly: Ellison, Rhee, unknown numbers. He ignored it and watched her.
 

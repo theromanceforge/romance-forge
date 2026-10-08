@@ -20,11 +20,11 @@ Will's pen scratched once and stopped. The notebook spine cracked. When Ellison 
 
 "Mercy is still on the table as a deal shape, not a disappearing act," Ellison said. "Trial with mercy: Vale cooperates further, names what he can about living links without you promising the city a chain parade, sentence bargained, Renny still the central name the jury hears. Or you testify fully anyway: no softener, every smoothed-over noun undone in daylight, Owen burned clean for the pier night while Cho's second pattern stays in a drawer marked not today. Both keep Renny the only name. Neither names the remains."
 
-Rain freckled the west glass. A foghorn rolled inland. [player_name] thought of Renny's hoodie still folded in a drawer across town, the bracelet missing one charm that could match the silver upriver. She thought of Cho's provisional second file sitting unopened on Ellison's side table like a temptation with hedges, and felt the narrow choice hold. One sister, one night, one blade.
+Rain slid down the west glass in sheets. A foghorn rolled inland. [player_name] thought of Renny's hoodie still folded in a drawer across town, the bracelet missing one charm that could match the silver upriver. She thought of Cho's provisional second file sitting unopened on Ellison's side table like a temptation with hedges, and felt the narrow choice hold. One sister, one night, one blade.
 
 Will stepped half a pace nearer. Not touching. Close enough that his sleeplessness reached her like a hand on the back of her neck. "I'll dig the single house," he said quietly, for her. "Owen. The pier. Your omission corrected into something usable. I won't invent a second funeral because Mara's mug is empty. Your call on the spend: a mercy deal with Renny still central, or testify fully and let daylight burn without softener."
 
-Ellison's mouth thinned. "Akers will live with either. He's lived with worse." Her gaze cut to his ribs and away. "Don't make me wear your hesitation as my clearance failure after you already chose narrow. Mercy leash or clean burn. The city will call both justice if you photograph the sister carefully. Internal will call both proximity if you keep standing that close, Akers."
+Ellison's mouth thinned. "Akers will survive whichever way you go. He's lived with worse." Her gaze cut to his ribs and away. "Don't make me wear your hesitation as my clearance failure after you already chose narrow. Mercy leash or clean burn. The city will call both justice if you photograph the sister carefully. Internal will call both proximity if you keep standing that close, Akers."
 
 Outside, pier fog argued with itself. Will watched her mouth the way he watched evidence that might burn him. Owen Vale's costume was dead. The living question was whether a sister's flip got spent as mercy or as full fire.
 
@@ -57,7 +57,7 @@ She shifted in her chair. "If we keep Renny the only name, Owen answers for one 
 
 "I'll put you against a wall after the brief," he added, for her, "if you survive this narrow without coming from the pressure alone."
 
-Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and hard-ons and calls it strategy. Nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline again."
+Ellison's laugh was dry as burnt coffee. "Akers dresses up temperatures and hard-ons as strategy. Nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline again."
 
 Rain freckled the glass. A foghorn rolled into [player_name]'s ribs and lower.
 

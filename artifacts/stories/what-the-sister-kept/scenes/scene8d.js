@@ -8,7 +8,7 @@ The scar through his left eyebrow. His charm banked so low it looked like grief 
 
 "Say it out loud before the match," Will said quietly. Not absolution. "Mercy or cowardice. I won't choose the word for you. I'll hold the bowl steady either way. I won't pretend ash is the same as justice, and I won't pretend every page deserves a microphone while Cho still says pending." [player_name]'s throat worked. Renny had been a teenager when she vanished. Seven years of absence folded into a hoodie upstairs and a silver charm bracelet missing one piece that could match Cho's debris.
 
-The remains weren't Renny until science said so. Burning the letter wouldn't make them Renny. It wouldn't unmake them. It would only decide whether Renny's last private words became evidence or a private mercy, which might also be the same soft cowardice that had kept Owen Vale off the official pier-night statement for seven years.
+Only the lab could make those bones a sister. Burning the letter wouldn't make them Renny. It wouldn't unmake them. It would only decide whether Renny's last private words became evidence or a private mercy, which might also be the same soft cowardice that had kept Owen Vale off the official pier-night statement for seven years.
 
 "Mercy," [player_name] tried, and the word tasted wrong. "If Cho confirms, if the remains become her, this letter becomes a second funeral in handwriting. If Cho spares her, this letter still hands Ellison a second-victim pattern and Owen's throat and your name in a dead girl's ink for IA to chew. Burning it keeps one scrap from becoming a rumor corpse before science speaks. That's what I'm telling myself."
 

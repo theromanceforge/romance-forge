@@ -14,7 +14,7 @@ Clara turned a page with two fingers, careful as surgery. Numbers. Dates. A cred
 
 "I know." [player_name] shot again. Again. The phone grew warm in her palm. The warmth felt indecent in a room this cold. Her body kept reminding her that John existed, burn scar and grey eyes and unfinished mouth, while she archived the wound that had shaped him. Desire sat under her coat like contraband. She let it sit. Wanting him did not make the insurance false. It made the cost honest.
 
-Outside, a freight horn complained toward the yard. Inside, the rubber band's scar still marked the ledger cover where it had snapped earlier. [player_name] photographed the scar too. Evidence of opening. Evidence of a refusal to reseal.
+Outside, a garbage truck groaned through its route. Inside, the rubber band's scar still marked the ledger cover where it had snapped earlier. [player_name] photographed the scar too. Evidence of opening. Evidence of a refusal to reseal.
 
 Clara watched the screen over her shoulder. "You are shaking."
 

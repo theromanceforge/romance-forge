@@ -40,7 +40,7 @@ Want lived under the dread even here: a man who could hold a shoot/don't-shoot l
 
 A radio crackled: the second suspect lost in dock fog. The crates yielded nothing that named Renny. Shipping codes. A clerk's jacket left behind. A silver glint of something that might have been a charm fragment and might have been trash. Owen stayed off every official page, [player_name]'s pier sighting still pressing her tongue while Will bled for a door her sister had pointed at seven years ago.
 
-"Cho won't rush an ID because I got cracked," Will murmured, almost gentle. "Remains stay unnamed. Your sister stays missing until science or a confession says otherwise. What changes is whether dawn finds you in a hospital chair listening to machines beep my name, or under review lights answering whether closeness made me soft before a pipe made me honest." He wiped blood from his eyebrow with the back of his hand and smeared it worse. "I won't pretend I don't want you at the bedside. Wanting that makes me selfish. Offering the hearing anyway makes me slightly less. Slightly."
+"Cho won't rush an ID because I got cracked," Will murmured, almost gentle. "Remains stay unnamed. Your sister stays missing until science or a confession says otherwise. What changes is whether dawn finds you in a hospital chair listening to machines beep my name, or under review lights answering whether closeness made me soft before a pipe made me honest." He wiped blood from his eyebrow with the back of his hand and smeared it worse. "I won't pretend I don't want you at the bedside. That's me being selfish. Offering the hearing anyway makes me slightly less. Slightly."
 
 [player_name] laughed once, broken, rain and oil in her hair. "You use charm like a briefing even when you're leaking."
 
@@ -101,7 +101,7 @@ He walked her out past the zip-tied, swearing man, into dock fog where an ambula
 
 "Hospital means my fingers back in this exact slick while machines beep," he said. "Hearing means you save my badge with sentences, and I repay you with my tongue until your testimony voice breaks on my name."
 
-He pressed his forehead to hers, careful of the gauze. Upriver, the remains were still unnamed. "Stay with me at the hospital," Will whispered, "or testify for me at the hearing. Choose before Ellison invents our posture for us."`,
+He pressed his forehead to hers, careful of the gauze. The bones upriver still waited for a name. "Stay with me at the hospital," Will whispered, "or testify for me at the hearing. Choose before Ellison invents our posture for us."`,
   choices: [
     { id: "scene8m", text: "Stay with Will at the hospital", textHot: "Stay with Will at the hospital" },
     { id: "scene8n", text: "Testify for Will at the IA hearing", textHot: "Testify for Will at the IA hearing" }

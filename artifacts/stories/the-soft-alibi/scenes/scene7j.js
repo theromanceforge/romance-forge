@@ -161,9 +161,7 @@ In the elevator alone she pressed her palm over the wire and almost came from pr
 
 Hall carpet. Lobby glass. Soft between being made and night-truth, aching for Nolan, mic still kissing ribs like a secret spouse.
 
-In the elevator alone she pressed her palm over the wire and almost came from pressure and fear braided. Soft laughed once without sound and still had not named which danger she would feed when the doors opened on lobby light.
-
-Hall carpet. Soft between being made and night-truth. Mic still kissing ribs like a secret spouse. Nolan somewhere above or across. Soft unfinished and walking.`,
+Nolan somewhere above or across, the wire warm under her palm. Soft unfinished and walking.`,
   choices: [
       {
           "id": "scene8j",

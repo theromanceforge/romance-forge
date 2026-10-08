@@ -59,7 +59,7 @@ She sorted stacks with shaking hands. Voss and amounts. Henry's drafts about the
 
 John slid past her waistband and found cotton soaked through. He pressed two fingers against her clit through the fabric, only to make her decide. "Choose," he whispered. "Read every circle and every Voss line into this room with my fingers on you and the vow still shaking your mouth. Or stop midway, save Henry's drafts, and keep shaking for me while we walk him into the rest. Inventing a third stack while you drip on my hand is the only cowardice left above Market Street."
 
-Freight hissed toward the yard. Coffee steam drifted up the stair. [player_name] rocked a fraction against John's hand, then made herself still, because the next page deserved a clear voice.
+A pipe knocked somewhere in the walls. Coffee steam drifted up the stair. [player_name] rocked a fraction against John's hand, then made herself still, because the next page deserved a clear voice.
 
 She read another line aloud. Ice thickness. Tea. A payment to Voss dressed up as weather. John sucked a mark into her neck that the ledger could not outrank. "If I read everything," she said, wrecked, "you don't soften the walk to Willow. If I stop, you don't waste the saved pages on sympathy."
 

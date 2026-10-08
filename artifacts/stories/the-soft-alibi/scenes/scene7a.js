@@ -56,7 +56,7 @@ Across the hall her own door waited. Soft could retreat there with quieter teeth
 
 "I want you," Nolan said. "That sentence has never been strategy. It has always been the risk."
 
-She nodded, eyes hot. Public method or sealed bargain. Paper cooled. Pulse did not. The file had already changed her; the next change would be chosen with her mouth still tasting cedar and him.`,
+She nodded, eyes hot. Neither answer came cheap. Paper cooled. Pulse did not. The file had already changed her; the next change would be chosen with her mouth still tasting cedar and him.`,
   textHot: `Silent-partner heat began with Nolan Greer's body angled behind [player_name] so his breath warmed her nape while paper cooled under her palms.
 
 Halden Row. Vivienne silent partner since last spring. Zurich wire. Pell login. Hotel holds he signed. Delivered in the margin. V envelope sealed. Brooks colder downstairs without a corpse. [player_name]'s cunt clenched around recognition as if ink could enter her.

@@ -34,11 +34,11 @@ Rhee's mouth twitched, almost human. "Try harder before Ellison stops asking pol
 
 "Here's the choice," Rhee said, including both of them now. "Stand for Detective Akers under formal IA review: a statement on method, on proximity, on whether a half-heard badge number should widen into a precinct-wide dig that will touch the sealed file by association if not by evidence. Or go public to protect him. Sister story, festival night, Renny's words loud enough that Internal can't quietly bury a detective for closeness without looking like they buried a missing girl's last scrap." She clicked the recorder off. "Both leave scars. One keeps you inside the machine. One blows the windows out. Ellison prefers the machine. Missing-person posters prefer the noise. I prefer facts. You two prefer each other. Decide which gets the next hour."
 
-Will exhaled through his nose. "If she stands for me in review, I won't let her carry the sealed file. Hints stay hints. Sealed stays sealed unless a judge says otherwise. If she goes public, I can't control the match." His gaze found [player_name]'s. "I won't pretend I don't want the private loyalty. Wanting that makes me a bastard. Offering the public storm anyway makes me slightly less. Slightly."
+Will exhaled through his nose. "If she stands for me in review, I won't let her carry the sealed file. Hints stay hints. Sealed stays sealed unless a judge says otherwise. If she goes public, I can't control the match." His gaze found [player_name]'s. "I won't pretend I don't want the private loyalty. I know what that makes me. Offering the public storm anyway makes me slightly less. Slightly."
 
 [player_name] almost laughed. Almost cried. She'd fed IA a carnival echo, or walked a path that put the echo here, and now the echo had grown a folder and a lieutenant and a question about whether love was obstruction.
 
-"Cho won't name the remains because a microphone appears," Will added quietly. "Owen stays your private weather until you put him on a page, and public storms don't respect the secrets you still keep." He rubbed a hand over his face. "Stand for me under IA review. Or go public to protect me. Pick before Rhee starts enjoying the silence."
+"Cho won't name the remains because a microphone appears," Will added quietly. "Owen stays your private weather until you put him on a page, and public storms don't respect the secrets you still keep." He pinched the bridge of his nose. "Stand for me under IA review. Or go public to protect me. Pick before Rhee starts enjoying the silence."
 
 Rhee waited with a professional patience that felt like a held breath. [player_name] looked at Will's mouth, the scar, the ink line scoring badge? into the pulp of his open notebook. Could she trust a badge after the system failed Renny? Could he trust a woman who'd kept a stepfather off paper while lighting Internal weather with a sister's words?
 
@@ -46,13 +46,13 @@ Rhee waited with a professional patience that felt like a held breath. [player_n
 
 "If you go public," Will answered, "you're saying the machine already failed once and volume is the only mercy left." He stepped closer despite Rhee's eyes, close enough that [player_name] felt his heat. "Both true. Both useless as comfort. Renny spat numbers. Marta remembered. We brought the scrap into the light. Now the light wants an answer."
 
-Rain thickened on the glass. Down the hall Ellison's office door shut with a sound like a gavel practicing. The remains stayed unnamed. The kept secret pressed. Will waited, the sealed file humming under a charm he couldn't afford right now.
+Rain streaked the precinct glass. Down the hall Ellison's office door shut with a sound like a gavel practicing. The remains stayed unnamed. The kept secret pressed. Will waited, the sealed file humming under a charm he couldn't afford right now.
 
 Rhee tapped the folder. "Review or press. Stand or storm. I leave this room with a posture either way. Give me the one you can survive looking at in Renny's flyer eyes."
 
 Will's voice dropped for [player_name] alone. "IA isn't soft. Public isn't soft. You're choosing which hard room you walk me into while a half-heard badge sits between us like a live wire. I can do either. I can't do hesitation while old ash stirs and Ellison smiles in memos."
 
-"Stand for Will under IA review," Rhee summarized without kindness. "Or go public to protect him. The shadow is already here. The choice is whether you answer it in a room with recorders or on a street with cameras."
+"Stand for Will under IA review," Rhee summarized without kindness. "Or take it to the street and shield him there. The shadow is already here. The choice is whether you answer it in a room with recorders or on a street with cameras."
 
 Will's cracked knuckles whitened at his sides. He didn't reach for [player_name] in front of Rhee. The not-reaching hurt louder than a touch. Harborwick held its breath, the way it always did when badges inspected badges and sisters had to decide whose throat to cover with their hands.
 
@@ -71,7 +71,7 @@ Will returned. Rhee laid it out. "Stand for Akers under formal IA review: method
 
 Rhee stepped out for coffee she didn't need, three minutes of manufactured privacy, a test as much as a courtesy. The door snicked shut. The case stayed on the table. The heat didn't.
 
-Will crowded [player_name] the second the hall emptied, hand on the doorframe, body boxing her against the filing cabinet, mouth at her ear. "I want the private loyalty," he said, voice wrecked. "Wanting that makes me a bastard. Say stop and I stop."
+Will crowded [player_name] the second the hall emptied, hand on the doorframe, body boxing her against the filing cabinet, mouth at her ear. "I want the private loyalty," he said, voice wrecked. "I know what that makes me. Say stop and I stop."
 
 "Don't stop."
 

@@ -10,7 +10,7 @@ Will's eyes were already on the pier road east. His knuckles whitened once aroun
 
 "You stay," Will said. It wasn't a question. "I hunt. Hale's minutes into vanishing. Owen's reach already bought him a head start. I float backup. I lean on warehouses. I walk every cigarette kiosk and every after-midnight desk code until Harborwick runs out of fog, or I put steel on his throat."
 
-[player_name] tasted copper where she'd bitten her cheek. Waiting tasted like loyalty's quieter twin, and also like abandonment with a badge. She wanted to go. She wanted him not to go. She wanted Renny's map to stop costing living people hours they couldn't get back.
+Her bitten cheek stung. Waiting tasted like loyalty's quieter twin, and also like abandonment with a badge. She wanted to go. She wanted him not to go. She wanted Renny's map to stop costing living people hours they couldn't get back.
 
 "If I wait," she said carefully, "I become the person who held the line at the bay while you finish what a side door stole."
 
@@ -26,15 +26,15 @@ Will's late smile arrived and died in the same breath—weapon and wound. He cro
 
 [player_name] pictured the pier at dawn with Will smelling like fog and unfinished steel—bittersweet, Renny's poster weather, a promise that refused to close because closing would invent comfort. She pictured staying in Harborwick without him—apartment inland, hoodie still folded, charm gap aching, case noise without his cracked-knuckle patience—cold as a city that had already failed her sister once. Either path kept science from baptizing bone for the sake of a slip.
 
-"If you take the pier promise," Will said quietly, his knuckles finding her wrist, "I come back when I can, with a cuff or an empty pier road. We stand on the boards where she vanished and say the hard sentences without pretending the hunt finished what seven years started." His thumb brushed her knuckles. "If you stay in the city cold without me, you keep the city and cut the badge out. I hunt alone. You rebuild alone."
+"If you take the pier promise," Will said quietly, his knuckles finding her wrist, "I come back when I can, with a cuff or an empty pier road. We stand on the boards where she vanished and say the hard sentences without pretending the hunt finished what seven years started." His thumb traced the bones of her hand. "If you stay in the city cold without me, you keep the city and cut the badge out. I hunt alone. You rebuild alone."
 
-Rain thickened against the bay glass. Will paced the choice with his voice, counting exits. "I'll be angry in every warehouse. At Owen, at Hale, at seven years of scrubbed silhouettes, at myself for floating soft until a side door was the only map that failed. Anger doesn't cancel us. Wanting you doesn't cancel the cost of the fog. I need you to hear both."
+Rain thickened against the bay glass. Will paced the choice with his voice, counting exits. "I'll be angry in every warehouse. At Owen, at Hale, at seven years of scrubbed silhouettes, at myself for floating soft until a side door was the only map that failed. Anger doesn't cancel us. Wanting you doesn't cancel the cost of the fog. Both are true."
 
-She almost laughed. Almost cried. Could she love a badge after the system had failed Renny? Could he love the woman who'd kept her pier secret this long?
+She almost laughed. Almost cried. Could she love a man with a badge after the badge had failed Renny? Could he love the woman who'd kept her pier secret this long?
 
-"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial. Hale kept the habit of vanishing. You kept a sealed hallway. Cho keeps bones without a name. Everybody keeps something. The question is which keeping still protects a living hope while you hunt, and which only protects me from wanting you back."
+"Renny left me a map," she said, voice gone thin. "I left a lie on top of it. Owen had a clerk on speed dial. Hale had the habit of vanishing. You had a hallway under seal. Cho still has bones and no name. Everybody keeps something. The question is which keeping still protects a living hope while you hunt, and which only protects me from wanting you back."
 
-Will had been writing desk codes even crouched. His pen stopped. Respect moved through his face like weather changing. He almost kissed her then, and stopped a breath short on purpose.
+Will had been writing desk codes even crouched. His pen stopped. His face changed, and what it changed into was respect. His mouth came close enough to feel, and no closer.
 
 "Clock," he said softly. "Hold the pier promise unfinished, or stay in the city cold without me. Either way I hunt. Either way you wait through the first hours, the ones that matter most to a trail."
 
@@ -61,15 +61,15 @@ Will crouched so their eyes leveled, late smile wrong—weapon and wound—cock 
 
 [player_name] pictured the pier at dawn, Will smelling like fog and steel. She pictured the cold stay, the city without him, and the ache of cutting him loose while still wet for a hunt she'd authorized by waiting. Either fantasy made her wetter.
 
-"If you take the pier promise," Will said, his knuckles on her pulse, his other hand pushing into her jeans under soaked cotton, "I come back when I can, and we stand on the boards and say the hard sentences, and later, somewhere warm, I finish you quietly." Two fingers slid into her. She gasped. He pumped slow and precise, his thumb on her clit. "If you stay cold without me, you keep the city and cut the badge out. I'll still want your mouth in every warehouse. Want doesn't cancel severance."
+"If you take the pier promise," Will said, his knuckles on her pulse, his other hand pushing into her jeans under soaked cotton, "I come back when I can, and we stand on the boards and say the hard sentences, and later, somewhere warm, I finish you quietly." He worked two fingers into her. She gasped. He pumped slow and precise, his thumb on her clit. "If you stay cold without me, you keep the city and cut the badge out. I'll still want your mouth in every warehouse. Want doesn't cancel severance."
 
-"I kept a lie. Owen kept a clerk. Hale kept vanishing. You kept a sealed hallway. Everybody keeps something," she said. She clenched around his fingers, claiming him. "The pier promise: I wait, I hold the boards unfinished, and you repay me when the fog gives you back. The cold stay: I keep Harborwick without you, even if it kills us. I'm not inventing purity. I'm not inventing a funeral. I'm asking which one I can live with."
+"I kept a lie. Owen kept a clerk. Hale kept vanishing. You kept a hallway shut. Everybody keeps something," she said. She clenched around his fingers, claiming him. "The pier promise: I wait, I hold the boards unfinished, and you repay me when the fog gives you back. The cold stay: I keep Harborwick without you, even if it kills us. I'm not inventing purity. I'm not inventing a funeral. I'm asking which one I can live with."
 
 Will cursed softly and curled his fingers until her hips jerked. Then he stopped, exact and cruel and tender as a threat, and withdrew to paint her lower lip. "Not yet. Not until you pick."
 
 "Clock," he said. "Hold the pier promise unfinished, or stay in the city cold without me. Either way I hunt. Either way you wait out the hours a trail cares about. Choose while I can still smell you on my hand."
 
-Before Ellison fully turned back, he walked her into the alcove off the bay and shut the door with his heel. He crouched, despite the hunt clock, despite Hale becoming weather, and put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision. She clapped a hand over her mouth. His knuckles braced her thighs.
+Before Ellison fully turned back, he walked her into the alcove off the bay and shut the door with his heel. He crouched, despite the hunt clock, despite Hale becoming weather, and put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision. She caught the moan behind her teeth. His knuckles braced her thighs.
 
 "The pier means I do this after every hard sentence on the boards," he said against her. "The cold stay means this is shaped like goodbye, even if my tongue still writes your name. I won't pretend severance is soft." He slid two fingers back into her while he licked. She came shaking, her vision white.
 
@@ -81,7 +81,7 @@ Rain thickened against the bay glass like a second recorder. Will paced once mor
 
 His cracked knuckles brushed her jaw. Fog horns spoke from the east where the pier road waited. [player_name] pictured him walking into damp history with Solis ash under his charm and her taste still on his tongue—loyalty's filthy twin. She pictured the apartment without his cracked notebook on the table—cold stay as self-preservation that might also be another sanding. Either picture kept science careful. Either picture hurt.
 
-"Pick," Will whispered, his late smile cutting wrong, his coat already half on. "The unfinished pier, or the cold stay. I'm still tasting you. That isn't in any memo yet. Keep it that way until you choose which ending gets the hours I spend in the fog."`,
+"Pick," Will whispered, his late smile cutting wrong, his coat already half on. "The unfinished pier, or the cold stay. I'm still tasting you. No file has that. Keep it that way until you choose which ending gets the hours I spend in the fog."`,
   choices: [
     { id: "scene10j", text: "Hold the bittersweet pier promise unfinished", textHot: "Hold the bittersweet pier promise unfinished" },
     { id: "scene10d", text: "Stay in the city cold — without Will", textHot: "Stay in the city cold — without Will" }

@@ -28,7 +28,7 @@ Clara appeared at the threshold, her sketchbook hugged to her ribs. "I heard the
 
 John laughed once, wrecked and fond and sharp. "Love me enough to risk the quiet," he said. "That's the only useful tenderness left in this house. Read it to me, and I'll hold the desk while the sentences land. Or put it in my hands and let me choose. If I choose not to read it tonight, don't decide my refusal means I'm fragile. It might mean I'm pacing the burn."
 
-Outside, freight complained toward the yard far below. Wet boxwood scraped harder. [player_name] took in the study like evidence. The lemon-oil lie of clean surfaces. The false panel, dark as a throat. John's dripping coat. Clara's restless honesty. Henry somewhere in the house with an empty mug, practicing not speaking.
+Outside, traffic hissed along the street far below. Wet boxwood scraped harder. [player_name] took in the study like evidence. The lemon-oil lie of clean surfaces. The false panel, dark as a throat. John's dripping coat. Clara's restless honesty. Henry somewhere in the house with an empty mug, practicing not speaking.
 
 She turned the envelope so John could see his own name in Henry's script. The ink had bled slightly where rain had once reached the desk—old weather, old hesitation. "Henry wrote to you and then chose silence again," she said. "That choice cost you years of a story that never fit. Reading it now costs whatever the page contains. Giving you the choice costs me the fantasy that I can control the landing. I am done with fantasies that smell like lemon oil."
 

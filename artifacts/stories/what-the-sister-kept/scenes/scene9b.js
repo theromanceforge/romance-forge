@@ -10,7 +10,7 @@ Owen Vale would plead to lesser counts on the smuggling and evidence-tampering c
 
 Ellison's gaze flicked to Will, almost naming Nina Solis, almost saying sealed IA the way captains say warnings. He didn't flinch for the glass. "Cho's remains stay pending in every sentence," he said. "A probable charm isn't an ID. Mercy for Owen doesn't get to christen bone. Anyone who blurs those for a softer headline does the chain's work for free."
 
-[player_name] tasted copper where she'd bitten her cheek. Renny, a teenager when she vanished, had written the pier night into purple leather. [player_name] had kept Owen off her statement for seven years of cowardice dressed up as protection. Mercy now meant putting him under the lights without cutting the family clean. A porch light that might still burn, with conditions.
+[player_name]'s cheek stung where her teeth had caught it. Renny, a teenager when she vanished, had written the pier night into purple leather. [player_name] had kept Owen off her statement for seven years of cowardice dressed up as protection. Mercy now meant putting him under the lights without cutting the family clean. A porch light that might still burn, with conditions.
 
 Owen was brought in under escort, butter-porch calm cracked into something usable and ugly. He looked at [player_name] like a man who still wanted to sell her a softer lie and found the inventory empty. "I will name the clerk," he said. "I will name the trucks. I will not pretend I was a good stepfather. I am asking for a sentence I can survive long enough to answer what I can answer." He did not say Renny's name as corpse. Will's stare made sure of that. Hope and dread still shared the doorway. Lab ID still pending. Charm upstairs still only like.
 
@@ -24,7 +24,7 @@ At the recess they found a courthouse stairwell that smelled like rain on concre
 
 Ellison's tablet chimed above them. Below, Owen's attorney murmured deal language. Want hummed under the procedure: the sleepless set of Will's shoulders, the dangerous care of a man who refused to baptize bone for a softer docket.
 
-[player_name] stared past him toward the rain-needled glass, toward the upriver stretch where unidentified remains waited without a name, toward Renny's room where a charm that was only like still winked in a drawer that smelled like absence. Hope still had a throat. Dread still had teeth. Choosing the soft rebuild meant love with one sealed page still healing—Will and her in Harborwick weather that admitted incompleteness without calling incompleteness a lie. Choosing costly forgiveness meant Owen's supervised truth as a living cost, family not cut clean, a redemption-ish shape that would require watching him answer forever without pretending the pier night had been kindness.
+[player_name] stared past him toward the rain-needled glass, toward the upriver stretch where unidentified remains waited without a name, toward Renny's room where a charm that was only like still winked in a drawer that smelled like absence. Grief stayed on the far side of a lab report. Choosing the soft rebuild meant love with one sealed page still healing—Will and her in Harborwick weather that admitted incompleteness without calling incompleteness a lie. Choosing costly forgiveness meant Owen's supervised truth as a living cost, family not cut clean, a redemption-ish shape that would require watching him answer forever without pretending the pier night had been kindness.
 
 Back in the hearing room, Owen named the clerk under the deal's supervised lights. His voice cracked where the porch-light calm used to live. [player_name] sat with Will two rows back and felt the old family house rearrange itself into something conditional and sharp. Mercy didn't taste like absolution. It tasted like rain on courthouse glass, and a stepfather finally useful without being clean.
 
@@ -45,7 +45,7 @@ Ellison set the deal sheet on the table and waited until the room was only paper
 
 Pens moved. Signatures waited. The clock filled the silence while Owen's counsel read the terms twice.
 
-Will's knuckles flexed. Ellison almost named Nina Solis. Will's jaw worked, and his eyes stayed on [player_name] as if he were counting her pulse through cloth. Broken men shouldn't be this hot. "Cho's remains stay pending," he said, his voice rough enough that she felt it low. "Mercy doesn't christen bone."
+Will's knuckles flexed. Ellison almost named Nina Solis. Will's jaw worked, and his eyes stayed on [player_name] as if he were counting her pulse through cloth. No man this wrecked had a right to look that good. "Cho's remains stay pending," he said, his voice rough enough that she felt it low. "Mercy doesn't christen bone."
 
 Owen came under escort, porch-butter calm cracked. He named the clerk and the trucks and asked for a sentence he could survive. Hope and dread still shared [player_name]'s pulse.
 

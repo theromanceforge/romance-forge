@@ -20,7 +20,7 @@ Clara spun once on the stool, her charcoal-dark eyes bright. "I didn't ask for a
 
 John's hand found [player_name]'s wrist under the counter edge, his thumb on her pulse. "I rebuilt this place around a wound," he murmured. "I can light the pie case for three people and call it a reopening. I can also walk you to the platform and stand in the hiss until you tell me whether the ticket in your coat is habit or a plan. What I can't do is watch fragile hope become another Shaw silence because we were too afraid to choose while the coffee was still hot."
 
-Outside, freight complained toward the yard. Rain needled the glass. On Willow, the papers under the glass weight finally looked less like tidy guilt and more like an archive. Voss's shadow had thinned to a ledger line. Henry's name was not forgiven and not erased. It was simply not invited to make the first toast.
+Outside, a siren rose and faded toward the highway. Rain needled the glass. On Willow, the papers under the glass weight finally looked less like tidy guilt and more like an archive. Voss's shadow had thinned to a ledger line. Henry's name was not forgiven and not erased. It was simply not invited to make the first toast.
 
 [player_name] thought of fifteen years of practiced belief in the girl who wanted more, and of the letter that had cracked the quiet open. She thought of a debt paid with a sacrifice she still could not fully map. Fragile hope was not innocence. It was deciding to feed something true before fear starved it.
 

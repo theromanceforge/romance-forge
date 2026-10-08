@@ -56,7 +56,7 @@ John paced once more to the pie case and back, apron strings still half-tied. "H
 
 She thought of the station platform at twenty, the ticket damp, rain already practicing the goodbye she hadn't known how to say aloud. She thought of Clara waking with graphite under her nails, and of Henry's mantel clock measuring other people's patience.
 
-Outside, a freight horn complained toward the yard. [player_name] drew a breath that tasted of rain and old coins and coffee. John's hand still hovered an inch from her cheek. She turned her face until his knuckles almost touched her skin, and stopped there, and felt him stop breathing.`,
+Outside, gutters ran loud along Market Street. [player_name] drew a breath that tasted of rain and old coins and coffee. John's hand still hovered an inch from her cheek. She turned her face until his knuckles almost touched her skin, and stopped there, and felt him stop breathing.`,
   textHot: `Rain needled the slate roofs of Somerton. [player_name] sat across from John Shaw at the diner's cracked counter with her thighs pressed tight, already aching from the terms she had set. Answers first. Touch only after. The after was becoming a physical debt every time he looked at her mouth.
 
 The CLOSED sign hung crooked on the blue door. Coffee steamed. John's cock was a thick line against denim he wasn't bothering to hide. He kept his hands on the counter. The not-touching was the terms, and the terms were killing them both in the best way.
@@ -103,7 +103,7 @@ He cursed softly, and the word went straight between her legs. His free hand cle
 
 John's mouth found the air beside her ear. Not a kiss. A nearness with teeth in it. "Say it loud. I want to hear it."
 
-Outside, freight complained toward the yard. [player_name] could smell her own want in the air between them from nothing but almost. His thumb found her wrist and stroked once at her pulse. She caught his apron string between two fingers and wound it slowly around her knuckle, drawing him that last half inch closer, her mouth open on the first word.`,
+Outside, tires hissed on wet asphalt. [player_name] could smell her own want in the air between them from nothing but almost. His thumb found her wrist and stroked once at her pulse. She caught his apron string between two fingers and wound it slowly around her knuckle, drawing him that last half inch closer, her mouth open on the first word.`,
   choices: [
     { id: "scene8f", text: "After answers, stay — rebuild trust with your body", textHot: "After answers, stay — rebuild trust with your cunt and his mouth" },
     { id: "scene8a", text: "After answers, go confront Henry while fire is hot", textHot: "After answers, take the fire to Henry wet and unfinished" }

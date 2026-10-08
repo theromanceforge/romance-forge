@@ -32,7 +32,7 @@ Clara's jaw flexed. "Rage prep. Cute branding."
 
 "Not cute. Necessary," [player_name] said. "If he arrives mid-break, someone in this room has to know where to stand without becoming a target, or a shield he didn't ask for."
 
-They moved without agreeing yet. They paced the front room in a figure eight that avoided the cracked floorboard near the rug, the one John used to warn people about when they were all younger. Woodsmoke thickened near the ceiling. Beyond Willow, a freight horn complained toward the yard. The Shaw house held its breath like a throat before a shout.
+They moved without agreeing yet. They paced the front room in a figure eight that avoided the cracked floorboard near the rug, the one John used to warn people about when they were all younger. Woodsmoke thickened near the ceiling. Beyond Willow, a dog barked at nothing and gave up. The Shaw house held its breath like a throat before a shout.
 
 Clara pulled a sketchbook from her bag and opened it on the coffee table. Margins. Circles. A winter road drawn over numbers that still had the power to turn a stomach. "He is going to ask me why I did not bring these sooner. He is going to ask you why you said yes on that platform when saying no might have made him a different kind of orphan. He is going to ask Henry things Henry will try to answer with weather reports and protection speeches. I can handle questions. What I cannot handle is being treated like a child who found papers by accident and needs a nap."
 

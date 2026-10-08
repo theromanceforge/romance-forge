@@ -28,7 +28,7 @@ Henry's mouth twitched. "The girl is a woman. And she is standing in my kitchen 
 
 John laughed once, cracked glass. "Send me to the diner. Christ. As if the blue door hasn't heard enough of my waiting." He stepped fully into the kitchen, close to [player_name], not touching. The not-touching hurt on purpose. "I'm done being the boy who gets the cleaned-up version. Bring me into the refusal. Let me say no to that envelope with my own mouth." His voice dropped. "Or shield me, if you truly think hearing it live will break something we can't rebuild. I'll hate the shield. I might still need it. I'm not proud of that sentence."
 
-Rain thickened. A freight complained toward the yard. Woodsmoke, wet wool, coffee on John's shirt. [player_name] couldn't look away from his pulse, visible at his throat. Clara's charcoal waited. Henry's fear smelled like the winter ask all over again.
+Rain thickened. A screen door banged somewhere down the street. Woodsmoke, wet wool, coffee on John's shirt. [player_name] couldn't look away from his pulse, visible at his throat. Clara's charcoal waited. Henry's fear smelled like the winter ask all over again.
 
 "If I bring you in," [player_name] said to John, "you hear Henry admit what the money was meant to bury. You hear my part without a translator. You stand in the no with me while your uncle watches his last tidy tool fail. It will not feel like romance. It will feel like surgery."
 

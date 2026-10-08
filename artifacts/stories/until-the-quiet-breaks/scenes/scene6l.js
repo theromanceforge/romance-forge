@@ -32,7 +32,7 @@ He laughed—cracked, fond, furious. "Clara circled lines until the paper tore. 
 
 "Or," [player_name] continued, "when I finish, we do not wait for morning manners. We go to Willow before dawn. We put the finished story on Henry's table while the clock is still vulnerable. We refuse to let him wake into another day of half-truths he controls."
 
-John's jaw flexed. Outside, a freight complained toward the yard. Inside, the mop bucket exhaled bleach and old grease. There was no romance in rain on a blue door now. Only the cost of choosing who got the next wound. Clara's ears, or Henry's unfinished sleep.
+John's jaw flexed. Outside, a pickup idled at the light. Inside, the mop bucket exhaled bleach and old grease. There was no romance in rain on a blue door now. Only the cost of choosing who got the next wound. Clara's ears, or Henry's unfinished sleep.
 
 "Inviting Clara means the three of us become a temporary government of truth," John said. "No uncle in the booth. Just charcoal and diner light and whatever tenderness survives hearing you say yes again in past tense. Going to Henry means we spend the last dark hours as a blade. We wake him with the indictment complete. We do not get soft. We get motion."
 

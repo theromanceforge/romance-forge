@@ -26,7 +26,7 @@ She walked to the three-compartment sink behind the counter, rain still drying o
 
 "If you keep it," John answered, low enough that Market Street wouldn't steal it through the glass, "you're choosing a different poverty. A number under the mattress. Every morning wondering whether today is the day you dial leverage into Henry's throat. Both keep the past from owning the line. Both cost sleep."
 
-A freight horn complained toward the yard. Regulars would start arriving within the hour. Men who still used her leaving as a cautionary tale. Women who had practiced believing the cleaner story. Mae would already be sorting mail two storefronts down, stamps clicking like small verdicts. [player_name] thought of how her hand had trembled when she hung up. Not from fear of Voss. From the sudden lightness of refusing to perform.
+Gray light crept along the counter stools. Regulars would start arriving within the hour. Men who still used her leaving as a cautionary tale. Women who had practiced believing the cleaner story. Mae would already be sorting mail two storefronts down, stamps clicking like small verdicts. [player_name] thought of how her hand had trembled when she hung up. Not from fear of Voss. From the sudden lightness of refusing to perform.
 
 John stood and came around the counter. He stopped close enough that his coat brushed hers when he breathed. "I rebuilt this diner around a wound," he said carefully. "I raised Clara beside fluorescent lights. I can survive a burned number. I can survive a kept one. What I can't survive is watching you invent a softer exit because you think my love will shatter on ash or leverage. Don't protect me with my own surname."
 
@@ -53,7 +53,7 @@ She tasted copper and rain. His thigh pushed between hers. His mouth was already
 
 His fingers pushed past her waistband and the cotton already betraying her. Damp. Honest. Two fingers found her with an accuracy that had nothing to do with phone etiquette. "Both honest," he said. "Both keep me hard enough to hurt."
 
-[player_name] bit her lip to keep the sound off Market Street. A freight horn complained toward the yard. His cock rolled once against her hip, helpless, and then held still. Bleach and lemon rose from the steel at her back.
+[player_name] bit her lip to keep the sound off Market Street. A bus sighed at the corner stop and pulled away. His cock rolled once against her hip, helpless, and then held still. Bleach and lemon rose from the steel at her back.
 
 "Burn it," he said into her hair, with a slow stroke through slick, "and I'll watch the digits blacken while my hand stays in your jeans. Fire and water and you shaking on my fingers with nothing left to dial. Or keep it. Fold it into your pocket like a second pulse, and walk us back to Willow with leverage aimed at Henry and my taste still on your mouth."
 

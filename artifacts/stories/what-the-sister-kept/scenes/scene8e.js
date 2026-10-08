@@ -22,7 +22,7 @@ Flipping had blown the house apart. Owen's lawyers were already calling grief co
 
 "Akers always invents caution and calls it morality. The scope is chosen. Widen. Fish the chain. Keep Renny's fate contested on purpose until science earns otherwise. Your next move is either courtroom-shaped or hunt-shaped. Full trial testimony that puts the widened case in daylight: Owen, clerk, chain, every lullaby. Or hold the clerk when we catch him and name Renny's killer when the catch earns a name, without inventing a funeral first. Both move. Both spend the flip."
 
-Rain freckled the west glass. A foghorn rolled inland, low enough to feel in the sternum. [player_name] thought of Renny's hoodie still folded in a drawer across town, the festival night, the bracelet missing one charm that could match the silver upriver. She thought of a second silhouette Cho wouldn't swear to yet, and felt dread grow a second set of teeth without killing hope.
+Rain blurred the west glass. A foghorn rolled inland, low enough to feel in the sternum. [player_name] thought of Renny's hoodie still folded in a drawer across town, the festival night, the bracelet missing one charm that could match the silver upriver. She thought of a second silhouette Cho wouldn't swear to yet, and felt dread grow a second set of teeth without killing hope.
 
 Widening wasn't burying Renny. It was refusing to let one family's unfinished pier be the only thing Harborwick was allowed to remember. Will stepped half a pace nearer. Not touching. Close enough that his sleeplessness reached her like a hand on the back of her neck.
 
@@ -30,7 +30,7 @@ Widening wasn't burying Renny. It was refusing to let one family's unfinished pi
 
 Ellison slid a second tablet closer: draft subpoenas, clerk desk codes from Owen's statement, a mid-level title that turned [player_name]'s stomach without becoming a press release yet.
 
-"Decide how wide the daylight runs. The trial spends the chain in a room with a recorder and a jury that will want a body. The hunt spends it in a warehouse and a holding cell until a living man says who quieted whom. Akers will live with either. He's lived with worse." Her gaze cut to Will's ribs and away.
+"Decide how wide the daylight runs. The trial spends the chain in a room with a recorder and a jury that will want a body. The hunt spends it in a warehouse and a holding cell until a living man says who quieted whom. Akers can carry either one. He's lived with worse." She glanced at Will's ribs and didn't linger.
 
 Marta the vendor's warehouse geography was on the whiteboard now in Will's spare handwriting: red door, cold-storage row, generator carcass, the bay where Renny had pointed. Owen's statement had given desk codes and a first name that sounded municipal and small, until you remembered what small hands could move when crates needed quiet teenagers.
 
@@ -63,7 +63,7 @@ She shifted. Damp fabric clung, and Will's gaze flicked to the motion like a man
 
 "If we widen badly, Harborwick buries hope under a parade of maybes," Will said. He stepped half a pace nearer, soap and salt, until his heat licked the air and her clit throbbed once, hard and humiliating under fluorescent honesty. "I'll dig the chain. I'll also put you against a wall after the brief, if you survive this board without coming from the scope alone."
 
-Ellison's laugh was dry as burnt coffee. "Akers invents temperatures and hard-ons and calls it strategy. The scope is chosen. Widen. And nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline."
+Ellison's laugh came out dry. "Akers invents temperatures and hard-ons and calls it strategy. The scope is chosen. Widen. And nobody fucks the case closed in my war room. I mention it because your witness is dripping on my timeline."
 
 A foghorn rolled into [player_name]'s ribs and lower.
 
@@ -75,7 +75,7 @@ Afterward, a locked conference room. He'd shove her skirt up and fuck the leftov
 
 She pictured the clerk catch instead: warehouse steel, Will's shoulder as a wall, and after, in the van, her cunt throbbing against his thigh. Either fantasy made her wetter.
 
-"Decide how wide the daylight runs," Ellison said, quieter, almost human and therefore worse. "Trial or catch-and-name. I can smell Akers on your pulse from here. Don't make me smell him on a sealed complaint while Cho's tray still says pending."
+"Decide how wide the daylight runs," Ellison said, quieter, almost human and therefore worse. "Trial or catch-and-name. I can smell Akers on you from across the room. Don't make me smell him on a sealed complaint while Cho's tray still says pending."
 
 Will's boot found her shoe again under the table edge, an unfinished fuck translated into leather. [player_name] pressed her thighs together against a spasm that made her vision narrow.
 

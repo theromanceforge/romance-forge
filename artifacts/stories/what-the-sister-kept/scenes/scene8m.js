@@ -81,7 +81,7 @@ Blood had dried dark at the edge of his bandage. He kissed her again, slower and
 
 "Chase means you sit here smelling like fish-rot and my blood and yourself, and I pay you back for the waiting when I'm home." His fingers found the zipper again. Cool air. Two fingers back inside her, curling. "The old raid will stir either way. You don't get the whole hallway because I got cracked. You get this."
 
-He dropped into a crouch despite the throb in his temple and drew her jeans down far enough to put his mouth on her. His tongue went flat, then pointed. He sucked her clit with the same precision he used on warrants. She clapped a hand over her own mouth. His knuckles braced her thighs open against the saline shelf.
+He dropped into a crouch despite the throb in his temple and drew her jeans down far enough to put his mouth on her. His tongue went flat, then pointed. He sucked her clit with the same precision he used on warrants. She bit her own wrist to stay quiet. His knuckles braced her thighs open against the saline shelf.
 
 "Dawn means I do this after every beep the machines make," he said against her, his voice vibrating through her. "Chase means I do this when I come back from the fog, cuff or empty pier road." He slid two fingers back into her while he licked, and she came again, harder, her vision going white at the edges.
 

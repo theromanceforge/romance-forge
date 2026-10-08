@@ -32,9 +32,9 @@ His knuckles brushed her wrist behind the notebook, then fell away, as if Elliso
 
 Hale stared at the bolted table as if routing stamps might still save him. They would not. Outside, Harborwick fog pressed the precinct glass. Fog horns spoke from the pier where a teenager had pointed east seven years ago. Renny's old hoodie still folded in a drawer inland. A silver charm bracelet missing one charm ached like a tooth in [player_name]'s memory. The upriver remains stayed a maybe. Marcus Hale became a charge with a face.
 
-"Renny kept a map," [player_name] said quietly. "I kept a lie. Owen kept a clerk on speed dial. Hale kept permits and kept quiet by force. You kept a sealed hallway. Cho keeps bones without a name. Everybody keeps something. The question is which keeping still protects a living hope, and which only protects the people who silenced a teenager for pointing."
+"Renny drew the map," [player_name] said, steady now. "I sat on a lie. Owen had his clerk a phone call away. Hale kept permits and kept quiet by force. You had a hallway you couldn't unseal. Cho's still holding bones with no name. Everybody keeps something. The question is which keeping still protects a living hope, and which only protects the people who silenced a teenager for pointing."
 
-Will's pen stopped. Respect moved through his face like weather changing. He almost kissed her then, and stopped a breath short on purpose.
+Will's pen stopped. Respect showed in him the way a tide turns, all at once. He leaned in for a kiss and held himself a breath away.
 
 Ellison's tablet painted the glass from below like a second, uglier dawn. On another floor, charging papers for Marcus Hale were already growing feet. Owen's lawyers would call grief coercion. Internal would catalogue a detective who stood too close.
 
@@ -63,15 +63,15 @@ Ellison came in, soft and final, with charging language, an org chart, and Hale'
 
 Will steered [player_name] half a step, so Hale couldn't read her face. His mouth was near her ear. His breath on it made her clench, empty and furious. "Together means daylight partners who won't let the press invent a corpse before Cho speaks. And I take the leftover adrenaline out of you with my palm over your mouth, so Internal never learns how justice sounds when it comes."
 
-His knuckles brushed her wrist, then slid once under the hem of her shirt onto her bare ribs, because being alive was also sex and he refused to tidy it. Ellison's tablet lit the glass. Hale stared at the bolted steel. [player_name] pictured Will's fingers in her against cold interview-room tile after the warrants walked. She pictured microphones, and then a supply closet, and his mouth on her until her vision went white. Either fantasy made her wetter.
+His knuckles brushed her wrist, then slid once under the hem of her shirt onto her bare ribs, because being alive was also sex and he refused to tidy it. Ellison's tablet lit the glass. Hale stared at the bolted steel. [player_name] pictured Will's fingers in her against cold interview-room tile after the warrants walked. She pictured microphones, and then a supply closet, and his mouth on her until her vision went white. She was soaked just picturing it.
 
 "If we speak it together," Will murmured, the scar at his eyebrow white, hard under the wool and unapologetic about it, "we tell the contested fate as honesty. Hale charged. I stay compromised in ways Solis would recognize, and I stay anyway." His thumb found her pulse. "If you carry the naming into the reckoning, you become the throat that won't sand. I stand beside you or behind you, as the city requires. And after the steps, I repay you until your public voice breaks on my name in private."
 
 Hale's cuffs clicked. [player_name] almost laughed, almost cried, soaked and furious with a body that answered Will's nearness like a vow.
 
-"I kept a lie. Owen kept a clerk. Hale kept permits and kept quiet by force. You kept a sealed hallway. Everybody keeps something." She pressed his palm flat to her stomach under the shirt—claiming, demanding, conjugating with her body—then lower for one filthy stolen second over denim heat so he felt exactly how unfinished catch weather left her. "Together—I speak contested fate with you and you finish me after the brief. Reckoning—I hate every camera and still soak for the record if it keeps the map breathing. I am not inventing purity. I am not inventing a funeral. I am asking which way you want me while you can still feel me through jeans."
+"I sat on a lie. Owen had his clerk. Hale kept permits and kept quiet by force. You had your sealed hallway. Everybody keeps something." She pressed his palm flat to her stomach under the shirt—claiming, demanding, conjugating with her body—then lower for one filthy stolen second over denim heat so he felt exactly how unfinished catch weather left her. "Together—I speak contested fate with you and you finish me after the brief. Reckoning—I hate every camera and still soak for the record if it keeps the map breathing. I am not inventing purity. I am not inventing a funeral. I am asking which way you want me while you can still feel me through jeans."
 
-Will's pen stopped. Respect moved through his face like weather changing. He almost kissed her, and stopped a breath short on purpose. Then, with Ellison's back half-turned over the charging draft, he slid his hand into her jeans, under cotton, for three precise strokes. "Not yet," he said. "Not until you pick."
+Will's pen stopped. Respect showed in him the way a tide turns, all at once. He almost kissed her, and stopped a breath short on purpose. Then, with Ellison's back half-turned over the charging draft, he slid his hand into her jeans, under cotton, for three precise strokes. "Not yet," he said. "Not until you pick."
 
 On another floor, charging papers for Marcus Hale were growing feet. Owen's lawyers would scream coercion. Internal would catalogue proximity. Nina Solis stayed sealed.
 
@@ -79,7 +79,7 @@ He drew her against the file cabinet out of Hale's sightline for one last stolen
 
 [player_name] stood between burnt coffee and named steel, wet jeans—and the choice sitting between them like unfinished fucking: together in truth at the table where Marcus Hale had finally confessed, or a public reckoning on steps with Will's method still on her tongue.
 
-Before Ellison fully turned back, Will walked [player_name] into the alcove off the interview corridor and shut the door with his heel. He crouched and drew her jeans down far enough to put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision. She clapped a hand over her own mouth.
+Before Ellison fully turned back, Will walked [player_name] into the alcove off the interview corridor and shut the door with his heel. He crouched and drew her jeans down far enough to put his mouth on her, tongue flat, then pointed, sucking her clit with warrant precision. She jammed her knuckles against her lips.
 
 His knuckles braced her thighs open against the cold tile. "Together means I do this after every honest sentence we speak," he said against her, his voice vibrating through her. "The reckoning means I do this after every mic, my tongue writing a better story than any chyron."
 

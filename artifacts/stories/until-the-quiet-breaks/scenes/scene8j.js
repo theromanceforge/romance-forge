@@ -73,7 +73,7 @@ Rain thickened. Below, the blue door stuck. Voss's coin sat under [player_name]'
 
 "You're wanted with the truth," John promised, his forehead against hers, his cock jumping in her fist. "Choose. I won't love you less. I'll only need to be inside you after."
 
-Wet boxwood breathed from the coat on the chair. Freight complained toward the yard. [player_name] tasted copper and coffee and skin. She kept her fist still on him, present and unfinished.
+Wet boxwood breathed from the coat on the chair. A gust rattled the loose pane in its frame. [player_name] tasted copper and coffee and skin. She kept her fist still on him, present and unfinished.
 
 John's free hand slid back between her thighs. Two fingers found cotton already soaked and pressed her clit through the fabric, in the same rhythm he had used while she softened her sentences. "Feel that?" he murmured. "That's what your body does when you tell the truth, and when you soften it. I can tell the difference by how hard you clench. The full temperature makes you shake honest. Mercy makes you shake guilty. I'll take either, as long as you name which one you're giving me."
 

@@ -4,7 +4,7 @@ export default {
   title: "The Unfinished Kiss",
   text: `The rain didn't ask permission. It sheeted Harborwick's pier into black glass and pushed [player_name] the last inch into Will's mouth, as if the weather itself had grown tired of almost.
 
-His lips were cold and then not. Coffee and salt. The scar through his eyebrow brushed her forehead when he angled down, his coat dark with water, the charm collapsing into something rawer than a smile. Foghorns answered across the channel. Chain-link shivered. Somewhere inland a warehouse door slammed like a gavel.
+His lips were cold and then not. Coffee and salt. The scar through his eyebrow brushed her forehead when he angled down, his coat dark with water, the charm collapsing into something rawer than a smile. A foghorn called from across the channel. Chain-link shivered. Somewhere inland a warehouse door slammed like a gavel.
 
 Will made a sound against her mouth that wasn't a joke. His hand found the back of her neck, careful as evidence handling, then not careful at all. The kiss deepened past procedure. The crime-scene tape lived only in memory between them, but [player_name] felt the line anyway: witness and badge, on the same soaked boards.
 

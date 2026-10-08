@@ -34,14 +34,14 @@ Will had been writing nothing, only holding the notebook like a talisman. His ha
 
 Ellison's cruiser didn't move. Inland, the warrants and footnotes and Owen's lawyers went on without them for the length of a dawn. Foghorns spoke. Salt stung.
 
-"Clock," Will said softly. "Leave Harborwick free, and I respect it. Or stay in the fog with me. Either way the boards remember her. Pick."`,
+"Clock," Will said softly. "Go, and I won't hold it against you. Or stay in the fog with me. Either way the boards remember her. Your call."`,
   textHot: `Dawn on Harborwick Pier arrived like unfinished weather: foghorns, salt, rusted chain-link, a string of dead lanterns along the rail.
 
 Will stood mid-thirties, scar nick pale under grey morning, cracked notebook drinking mist, charm banked for honesty that was not a ring. Ellison's cruiser idled without lights at the lot edge. They said the hard part out loud on the boards, where anyone could hear it: leave, or stay. Then Will tipped his head toward the commercial wharf and the harbor unit's boathouse at the end of it, and they walked there without touching.
 
 Inside, the boathouse was diesel and wet rope and one work light. Attraction pressed stupidly: soap-and-salt, unfinished almost-kisses from rain and hospital and back stairwells, the hard line of his cock under wool he did not apologize for while offering her a door.
 
-"Answer the boards," Will said, his voice sex-rough under the detective flatness. "Leave Harborwick free, and I respect it. Pack the kept detail. Walk into cities that don't know Warehouse C by smell. I stay with the case. I don't chase your freedom. And before you go, I take you against this wall until goodbye is just how hard you clench while the foghorns speak." His knuckles brushed hers, then pushed into her jeans under cotton. She was soaked. Two fingers slid into her. "Or stay in the fog. The unfinished promise. Hard sentences on those boards, and I finish you quietly in here after every honest one."
+"Answer the boards," Will said, his voice sex-rough under the detective flatness. "Leave Harborwick free, and I respect it. Pack the kept detail. Walk into cities that don't know Warehouse C by smell. I stay with the case. I don't chase your freedom. And before you go, I take you against this wall until goodbye is just how hard you clench while the foghorns speak." His knuckles brushed hers, then pushed into her jeans under cotton. She was soaked. He pushed two fingers inside her. "Or stay in the fog. The unfinished promise. Hard sentences on those boards, and I finish you quietly in here after every honest one."
 
 [player_name] gasped on his hand, her forehead to his. Copper and salt and want. Leaving tasted like survival, and like the old cover-up with prettier luggage. Staying tasted like loyalty, and like drowning on purpose.
 

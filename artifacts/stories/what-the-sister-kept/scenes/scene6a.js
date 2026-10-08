@@ -77,7 +77,7 @@ She almost said his name like a prayer and swallowed it. He smelled like rain th
 
 The honesty landed harder than a touch would have. She felt undone by nearness and truth alone. Will's hand left her back as if leaving cost him. He sat back and kept his distance like a promise. [player_name] forced her eyes from the envelope to his scar, the wound he wore as armor, the silence he still wouldn't open. The two pulls weren't opposites tonight. They were the same fever in different clothes.
 
-Fog pressed the glass. Pier salt leaked through the cracked window. The lockbox yawned. Hope still had a throat. Dread still had teeth. Remains still unnamed. Charm still only like.
+Fog pressed the glass. Pier salt leaked through the cracked window. The lockbox yawned. Something in her still refused to grieve. Remains still unnamed. Charm still only like.
 
 Choosing the journal fully meant handing the investigation to the badge. Choosing the hidden letter meant keeping one secret in her pocket while his eyes tracked it.
 

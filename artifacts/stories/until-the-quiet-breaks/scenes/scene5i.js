@@ -46,7 +46,7 @@ When they broke, it was only far enough to breathe. His forehead stayed against 
 
 "Then be stupid for ten minutes." She kept her fists in his shirt. "We've been clever for fifteen years. Clever got us a neat story and empty nights, and Clara drawing the truth in charcoal because no adult would say it out loud."
 
-He huffed. Almost a laugh. Almost a sob. His thumb stroked once along her cheekbone, then stilled, as if motion might summon Henry's shadow to the glass. Outside, Market Street dripped into the gutters. A freight horn complained somewhere toward the yard, the town continuing without their permission.
+He huffed. Almost a laugh. Almost a sob. His thumb stroked once along her cheekbone, then stilled, as if motion might summon Henry's shadow to the glass. Outside, Market Street dripped into the gutters. A shutter banged somewhere up the block, the town continuing without their permission.
 
 John's hand slid from her jaw to the side of her neck, feeling her pulse. "Clara rode back to Willow. She'll tell him you came here with open hands. He'll sit with that while the rain finishes his night. So we have a window before he invents the next kindness."
 
