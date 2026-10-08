@@ -353,6 +353,84 @@ const CATALOG = [
   },
 ];
 
+/**
+ * Coming-soon teasers shown ABOVE the playable cover hero. Deliberately NOT in CATALOG:
+ * no picker card, no share page, no storyId, no Begin — they cannot be started.
+ * Called Home (Story 8) is the lead teaser; Off the Clock (Story 7) is a smaller card.
+ * Art is TEMPORARY palette-test art (1280x720 mood/swatches) until Forge Artist cuts covers.
+ * Palettes are scoped in styles.css by data-story-id; live stories keep ink-and-ember.
+ */
+const COMING_SOON = [
+  {
+    id: 'called-home',
+    title: 'Called Home',
+    lead: true,
+    teaser: "The owner's daughter inherits her father's team, and the board wants the aging star gone.",
+    heroSrc: assetUrl('/art/called-home/palette-test-mood.jpg'),
+    heroAlt: 'Called Home — night ballpark under the lights',
+    swatchesSrc: assetUrl('/art/called-home/palette-test-swatches.jpg'),
+    swatchesAlt: 'Called Home palette: navy, steel, denim, slate, cream, amber',
+  },
+  {
+    id: 'off-the-clock',
+    title: 'Off the Clock',
+    lead: false,
+    teaser: '',
+    heroSrc: assetUrl('/art/off-the-clock/palette-test-mood.jpg'),
+    heroAlt: 'Off the Clock — storm-gray sea and a lit kitchen window',
+  },
+];
+
+function renderComingSoonHtml() {
+  const lead = COMING_SOON.find((c) => c.lead);
+  const rest = COMING_SOON.filter((c) => !c.lead);
+  const leadHtml = lead
+    ? `
+      <section
+        class="lead-hero"
+        data-story-id="${escapeHtml(lead.id)}"
+        data-testid="lead-hero"
+        aria-labelledby="lead-hero-title"
+      >
+        <div class="lead-cover">
+          <img
+            class="lead-cover-art"
+            src="${escapeHtml(lead.heroSrc)}"
+            alt="${escapeHtml(lead.heroAlt)}"
+            width="1280"
+            height="720"
+            data-testid="lead-cover"
+          />
+          <div class="lead-shade" aria-hidden="true"></div>
+          <div class="lead-overlay">
+            <span class="lead-kicker">Coming soon</span>
+            <h2 id="lead-hero-title" class="lead-title">${escapeHtml(lead.title)}</h2>
+            ${lead.teaser ? `<p class="lead-teaser" data-testid="lead-teaser">${escapeHtml(lead.teaser)}</p>` : ''}
+          </div>
+        </div>
+        ${
+          lead.swatchesSrc
+            ? `<img class="lead-swatches" src="${escapeHtml(lead.swatchesSrc)}" alt="${escapeHtml(lead.swatchesAlt || '')}" width="1280" height="720" loading="lazy" data-testid="lead-swatches" />`
+            : ''
+        }
+      </section>`
+    : '';
+  const cardsHtml = rest
+    .map(
+      (c) => `
+      <aside class="soon-card" data-story-id="${escapeHtml(c.id)}" data-testid="soon-${escapeHtml(c.id)}">
+        <img class="soon-card-art" src="${escapeHtml(c.heroSrc)}" alt="${escapeHtml(c.heroAlt)}" width="1280" height="720" loading="lazy" />
+        <div class="soon-card-body">
+          <span class="soon-card-kicker">Coming soon</span>
+          <h3 class="soon-card-title">${escapeHtml(c.title)}</h3>
+          ${c.teaser ? `<p class="soon-card-teaser">${escapeHtml(c.teaser)}</p>` : ''}
+        </div>
+      </aside>`
+    )
+    .join('');
+  return `${leadHtml}${cardsHtml}`;
+}
+
 function catalogEntry(storyId) {
   return CATALOG.find((c) => c.id === storyId) || CATALOG.find((c) => c.available) || CATALOG[0];
 }
@@ -688,6 +766,7 @@ function renderLanding() {
   return `
     <main class="page landing cover-landing" data-testid="landing">
       <div class="landing-room" aria-hidden="true"></div>
+      ${renderComingSoonHtml()}
       ${forgeStripHtml}
       ${landingSavePromptHtml}
       ${landingWhatIfHtml}
@@ -1908,6 +1987,7 @@ export {
   getStory,
   STORIES,
   CATALOG,
+  COMING_SOON,
   DEFAULT_ENDING_LINE,
   endingLineFor,
   activeStory,

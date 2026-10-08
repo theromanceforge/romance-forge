@@ -2237,3 +2237,160 @@ body {
   opacity: 0.62;
   letter-spacing: 0.02em;
 }
+
+/* —— Coming-soon teasers (palette tests). Scoped by data-story-id ONLY:
+ *    live stories + :root keep the ink-and-ember theme untouched. —— */
+.lead-hero[data-story-id="called-home"] {
+  /* Called Home: cool dusk navy — navy, steel blue, faded denim, slate; amber = small accent only */
+  --ch-navy: #0b1426;
+  --ch-navy-deep: #081023;
+  --ch-steel: #4a6b8f;
+  --ch-denim: #35567c;
+  --ch-slate: #5a6878;
+  --ch-cream: #e6d5b7;
+  --ch-amber: #c08a3e;
+  margin: 0 0 1rem;
+  padding: 0.6rem;
+  border-radius: 16px;
+  background: linear-gradient(180deg, var(--ch-navy) 0%, var(--ch-navy-deep) 100%);
+  border: 1px solid rgba(74, 107, 143, 0.55);
+  box-shadow:
+    0 0 0 1px rgba(53, 86, 124, 0.35),
+    0 0 44px rgba(74, 107, 143, 0.25),
+    0 24px 56px rgba(0, 0, 0, 0.6);
+}
+
+.lead-hero[data-story-id="called-home"] .lead-cover {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid rgba(90, 104, 120, 0.7);
+  background: var(--ch-navy-deep);
+}
+
+.lead-hero[data-story-id="called-home"] .lead-cover-art {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 28% center;
+}
+
+.lead-hero[data-story-id="called-home"] .lead-shade {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    180deg,
+    rgba(8, 16, 35, 0.25) 0%,
+    transparent 30%,
+    rgba(8, 16, 35, 0.6) 62%,
+    rgba(8, 16, 35, 0.94) 100%
+  );
+}
+
+.lead-hero[data-story-id="called-home"] .lead-overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.1rem 1.15rem;
+}
+
+.lead-hero[data-story-id="called-home"] .lead-kicker {
+  align-self: flex-start;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ch-cream);
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--ch-amber);
+  background: rgba(8, 16, 35, 0.7);
+}
+
+.lead-hero[data-story-id="called-home"] .lead-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.9rem, 7vw, 2.6rem);
+  line-height: 1.05;
+  color: var(--ch-cream);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.85), 0 0 26px rgba(74, 107, 143, 0.45);
+}
+
+.lead-hero[data-story-id="called-home"] .lead-teaser {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.4;
+  color: #c9d3df;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.85);
+}
+
+.lead-hero[data-story-id="called-home"] .lead-swatches {
+  display: block;
+  width: 100%;
+  height: 4.5rem;
+  margin-top: 0.6rem;
+  object-fit: cover;
+  object-position: center 52%;
+  border-radius: 8px;
+  border: 1px solid rgba(90, 104, 120, 0.6);
+}
+
+.soon-card[data-story-id="off-the-clock"] {
+  /* Off the Clock: storm-gray ocean, sea glass, wet slate; warm only in the kitchen-window art */
+  --otc-storm: #5d686b;
+  --otc-seaglass: #8fb3ab;
+  --otc-slate: #2f3739;
+  --otc-slate-deep: #1f2526;
+  display: flex;
+  align-items: stretch;
+  gap: 0.75rem;
+  margin: 0 0 1rem;
+  padding: 0.55rem;
+  border-radius: 12px;
+  background: linear-gradient(165deg, var(--otc-slate) 0%, var(--otc-slate-deep) 100%);
+  border: 1px solid rgba(143, 179, 171, 0.4);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+}
+
+.soon-card[data-story-id="off-the-clock"] .soon-card-art {
+  width: 6.5rem;
+  height: 4.6rem;
+  flex-shrink: 0;
+  object-fit: cover;
+  object-position: 75% center;
+  border-radius: 8px;
+  border: 1px solid rgba(93, 104, 107, 0.8);
+}
+
+.soon-card[data-story-id="off-the-clock"] .soon-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
+.soon-card[data-story-id="off-the-clock"] .soon-card-kicker {
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--otc-seaglass);
+}
+
+.soon-card[data-story-id="off-the-clock"] .soon-card-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: #e3e8e6;
+}
