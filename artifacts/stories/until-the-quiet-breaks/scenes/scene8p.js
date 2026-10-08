@@ -30,7 +30,7 @@ Clara's silhouette filled the back doorway of the house, her sketchbook hugged u
 
 John's hand found her wrist, his thumb on her pulse. The crowbar was still hooked in his other fingers like a reluctant relic. "Either way I'm beside you," he murmured. "Cleaning means labor with witnesses. The station means breathing room by the tracks. Soft is apologizing to the shed until morning invents our courage for us."
 
-Freight complained far toward the yard. On Market Street, the fryer slept under the rain. Wet boxwood scraped. Oil rainbows. The crooked door. John's scraped knuckles. Clara waiting under the lintel. Henry's house holding its tongue. The night had almost become demolition, and had become a choice instead.
+Far off, a train worked its way out of town. On Market Street, the fryer slept under the rain. Wet boxwood scraped. Oil rainbows. The crooked door. John's scraped knuckles. Clara waiting under the lintel. Henry's house holding its tongue. The night had almost become demolition, and had become a choice instead.
 
 "Go back inside and start cleaning," [player_name] said. "Or walk to the station in the rain with the ending undecided. Both hurt. Standing here inventing prettier mud is how Somerton learned to call ice weather, and I'm done being weather's good student."
 

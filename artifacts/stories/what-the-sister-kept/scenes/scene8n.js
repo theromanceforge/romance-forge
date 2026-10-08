@@ -10,7 +10,7 @@ Will sat with his spine too straight. The scar at his eyebrow was pale. His late
 
 Will's jaw worked. The flinch at that name was small and real. "Cho's remains are still unidentified," he said, soft and precise, before [player_name] could speak. "The charm is probable, not a funeral. Closeness to a witness who kept back a detail doesn't equal stalling. It equals a detective who refused to invent grief for clearance."
 
-Ellison's mouth tightened. "It equals optics. Sister-shaped interviews. Conference rooms. Stairwells. Parking garages. A family contact who has shielded, walked, planned, and now sits here ready to feed the machine a loyalty statement." Her gaze flicked to [player_name].
+Ellison's mouth tightened. "It equals optics. Sister-shaped interviews. Conference rooms. Stairwells. Parking garages. A family contact who has shielded, walked, planned, and now sits here ready to feed the machine a loyalty statement." She looked at [player_name].
 
 "You asked for this. Testify. Make it useful. Or carry whatever you say here into Owen Vale's trial when that docket ripens. Family pressure and stepfathers' names have a way of becoming the next room after Internal finishes chewing a detective for wanting a sister."
 
@@ -77,13 +77,13 @@ The please was a crack in the armor. It went through her like a finger. When the
 
 "Both leave you shaking. Both move the case." Pulse hammered. Wet jeans. Hearing unfinished. Want unfinished and louder. In the recess hallway, after Rhee called ten minutes, Will pulled [player_name] into a copy room that smelled like toner and burnt coffee and shoved her onto the edge of a low cabinet.
 
-She clapped a hand over her own mouth. He knelt, drew her jeans down, and braced her thighs open with his knuckles.
+She pressed her forearm to her mouth to muffle the sound. He knelt, drew her jeans down, and braced her thighs open with his knuckles.
 
 "A future, and I do this after every rebuild hour," he said against her, his voice vibrating through her. "Trial, and I do this between prep sessions, blinds taped, news muted, my tongue writing a better story than any leak about proximity." He slid two fingers back into her while he licked, in time with the fluorescent flicker, and she came again, harder, shaking, her vision white at the edges.
 
 Will stood and wiped his mouth with the back of his hand, like a man finishing a statement, and pressed his forehead to hers. He was still hard, unfinished, on purpose. "The Solis file stays sealed. Your Owen weather stays yours until you choose a page or a docket. What doesn't stay unfinished is the choice, before Rhee's ten minutes run out." He kissed her once more, tasting of her.
 
-"If you build a future, I'll sit through every proximity footnote smelling like you and answering like a professional," he said, his voice raw. His knuckles brushed her jaw.
+"If you build a future, I'll sit through every proximity footnote smelling like you and answering like a professional," he said, his voice raw. He grazed her jaw with his knuckles.
 
 "Either verb keeps Renny a pointed finger and Cho's bones unnamed. Either verb leaves his old wound sealed tonight. Neither verb lets me pretend I am clean. Pick, [player_name]. The machine is waiting. So is my mouth." His phone buzzed—Ellison demanding posture language. [player_name] fixed her jeans with shaking hands and tasted toner and Will and unfinished justice. The copy room's clock jumped a minute like a small betrayal.
 

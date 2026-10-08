@@ -54,7 +54,7 @@ Rhea's surviving R lived in ash memory beside these timestamps. Soft wondered wh
 
 Nolan finally touched her wrist, brief. "I will follow Crownspire-only. I will follow burn. I will not invent your mercy for you while the printouts are still warm."
 
-Soft looked at the warm printouts, at his mouth, at the wine rings. Keep the tower name — let the desk go. Burn the night before morning owns soft. Soft stood between those futures with ash in memory and Friday outside the glass and still did not speak the chosen sentence.
+Soft looked at the warm printouts, at his mouth, at the wine rings. Neither sentence would cost her less for waiting. Soft stood between those futures with ash in memory and Friday outside the glass and still did not speak the chosen sentence.
 
 [player_name] pinned the top message with a coffee mug so draft would not steal it, ordinary object on extraordinary toner. Soft asked what confirm second seat blank meant if Vivienne had meant to fly alone, stage alone, vanish alone. Or never meant to fly at all. Nolan said he did not know, and the not-knowing looked expensive on his face.
 

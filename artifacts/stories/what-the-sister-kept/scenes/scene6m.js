@@ -8,7 +8,7 @@ Will had claimed a back conference room with a cracked whiteboard, a stack of Ha
 
 [player_name] stood opposite him with Renny's absence pressed under her ribs. Seven years. Festival fog. A sister pointing east while a clean jacket held her wrist. The remains were still waiting on Cho's patience upriver, the silver charm still only like Renny's missing piece. A coffee cup had gone cold in the whiteboard tray.
 
-"Ellison wants a memo that reads like clearance," Will said without looking up. "I want a warrant that reads like a door we can kick without becoming the chaos I already know how to make." His late smile arrived and died in the same breath. "A raid plan means backup, angles, no early push for a CI or a guilt trip. Nina Solis taught me what early costs. I won't let your sister's warehouse rhyme with that. Not if I can help it."
+"Ellison wants a memo that reads like clearance," Will said without looking up. "I want a warrant that reads like a door we can kick without becoming the chaos I already know how to make." A smile started at the corner of his mouth and quit. "A raid plan means backup, angles, no early push for a CI or a guilt trip. Nina Solis taught me what early costs. I won't let your sister's warehouse rhyme with that. Not if I can help it."
 
 [player_name] watched the pen move. "And if Ellison smells me in the briefing?"
 
@@ -20,7 +20,7 @@ The clock hummed. Down the hall a printer spat forms. Will pinned a satellite pr
 
 "Stays off the warrant language until the building earns him," Will cut in, not gently. "You still haven't put him on paper. I'm not baiting that confession out of a raid brief. The warehouse gets Renny's finger. Owen gets whatever the concrete says." He leaned both hands on the table, shoulders tight under a shirt that had seen too many 3 a.m.s. "Cho won't rush an ID to soothe a team. We write Renny on a red door until science or a confession earns the rest. That's still mercy. It won't feel like mercy when we're standing in generator dark asking a building to speak."
 
-Want lived under the dread, the pull of a man who could map a raid and name a sealed wound in the same breath. [player_name] almost touched the white knuckle braced on the table edge. Then did. His pulse jumped once under her fingers. Will didn't pull away. He looked at her mouth the way he looked at evidence that might burn him.
+Want lived under the dread, the pull of a man who could map a raid and name a sealed wound in the same breath. [player_name] almost touched the white knuckle braced on the table edge. Then did. His pulse kicked against her fingertips. Will didn't pull away. He looked at her mouth the way he looked at evidence that might burn him.
 
 "Ellison texted," he said quietly. "She wants to know why a witness is in my planning room. She used the word proximity. That's Internal Affairs weather with manners. If we push the raid package tonight, we move before politics owns the hour. If we pause to face whatever IA shadow she's already drafting about how close I am to you, we might lose the door, or keep our badges long enough to find another one." His jaw worked. "The raid means we take Marta's geography into fish-rot air with Ellison's distrust riding shotgun. IA means we let the machine inspect what we've become before the warehouse gets a chance to answer for Renny."
 
@@ -28,7 +28,7 @@ Want lived under the dread, the pull of a man who could map a raid and name a se
 
 "Then I own the entry," Will said. "Not you. Not Ellison's memo. Me. I've owned sideways before. The difference is I won't push early to protect a CI or your guilt. We wait for the warrant ink. We wait for backup. We don't invent urgency out of hope that the remains are her or dread that they aren't." He turned his hand under hers and laced their fingers hard enough to hurt a little. "Planning is how I argue with the nightmares. Having you here gives them a face I'd rather keep."
 
-Rain ticked the high windows. Harborwick's warehouse district waited beyond the glass and fog like a mouth. Will let go of her hand only to slide a printed roster across the table: names, call signs, a medic on standby. "These people trust me until they don't," he said. "Getting close to a witness is how trust dies in memos. You can walk into the raid with me: vest, earpiece, behind the line, seeing what Renny pointed at when the door opens. Or you can walk with me into the IA shadow first and answer questions about whether Akers forgot how to keep a case from becoming a bed." The smile returned, late and sharp. "I won't pretend I don't want you at the red door. Wanting that makes me selfish. Offering the IA pause anyway makes me slightly less. Slightly."
+Rain ticked the high windows. Harborwick's warehouse district waited beyond the glass and fog like a mouth. Will let go of her hand only to slide a printed roster across the table: names, call signs, a medic on standby. "These people trust me until they don't," he said. "Getting close to a witness is how trust dies in memos. You can walk into the raid with me: vest, earpiece, behind the line, seeing what Renny pointed at when the door opens. Or you can walk with me into the IA shadow first and answer questions about whether Akers forgot how to keep a case from becoming a bed." The smile returned, late and sharp. "I won't pretend I don't want you at the red door. That's the selfish part. Offering the IA pause anyway makes me slightly less. Slightly."
 
 [player_name] laughed once, broken. "You use charm like a briefing."
 
@@ -38,7 +38,7 @@ The room felt smaller. [player_name] heard her heartbeat louder than the clock. 
 
 "If I enter the raid," she said carefully, "I am choosing the building over the machine for one night."
 
-"If you face IA with me," Will answered, "you're choosing the machine before the building. Either way, Renny stays a pointed finger. Either way, I still want to finish the kiss we keep parking behind case maps." He rubbed a hand over his face. "So choose. Enter the raid under pressure: backup, warrant, fish-rot, me between you and the dark. Or face IA over how close I am to you: questions, proximity language, old raid ash stirring because every review smells like old smoke."
+"If you face IA with me," Will answered, "you're choosing the machine before the building. Either way, Renny stays a pointed finger. Either way, I still want to finish the kiss we keep parking behind case maps." He scrubbed a palm along his jaw. "So choose. Enter the raid under pressure: backup, warrant, fish-rot, me between you and the dark. Or face IA over how close I am to you: questions, proximity language, old raid ash stirring because every review smells like old smoke."
 
 He slid the warrant draft toward her. The language was clean of Owen and clean of romance, dirty with geography and a sister's seven-year silence. [player_name] read without fully seeing, pulse in her throat. A foghorn spoke across Harborwick. Will waited, cracked knuckles on the table.
 
@@ -50,7 +50,7 @@ Will's phone buzzed once on the table—Ellison's name a small bright threat. He
 
 "Enter the raid under pressure," he murmured, almost a plea under the grit. "Or face IA over how close I am. The planning's done enough to hurt. What's left is which hunger you feed first: Renny's door, or the machine that wants to know why I look at you like evidence I refuse to bag."
 
-Rain thickened on the glass. Harborwick held its warehouse breath.`,
+The rain came down harder, steady as static. Harborwick held its warehouse breath.`,
   textHot: `Warehouse raid planning smelled like burnt coffee and want.
 
 Will had her in a back conference room with maps and a cracked whiteboard, scar catching the fluorescents, late smile banked while he drew the east cold-storage row in hard black lines. Red door. Fourteen or forty-one. The dry-erase pen squeaked. [player_name] felt the sound in her teeth and lower, absurd and true.

@@ -24,11 +24,11 @@ Nina Solis stayed sealed, in the way dawn allowed. It showed in Ellison's side-e
 
 "Ellison will ask if this is just proximity with better lighting," Will murmured, his eyes on the wet parking lot. "You sitting through my CT isn't theater. I didn't ask for dawn because we'd buried your sister. I asked because lightly wounded is still a man who wants your hand while machines beep his name."
 
-Rain thickened. A foghorn spoke from far enough away that the pier felt like a rumor. "If we choose together in truth," Will said, "I'll still be angry at every footnote. At Owen, at the trail we let cool, at myself for wanting bedside quiet while the fog ate a clerk's shoes. Anger doesn't cancel us. If we choose the rebuild, I'll still want your mouth when the beeps calm. Want doesn't cancel the sealed page. I need you to hear both."
+Rain thickened. A foghorn spoke from far enough away that the pier felt like a rumor. "If we choose together in truth," Will said, "I'll still be angry at every footnote. At Owen, at the trail we let cool, at myself for wanting bedside quiet while the fog ate a clerk's shoes. Anger doesn't cancel us. If we choose the rebuild, I'll still want your mouth when the beeps calm. Want doesn't cancel the sealed page. Hold both with me."
 
-[player_name] looked at him until he looked back. "Renny kept a map," she said quietly. "I kept a lie. You kept a sealed hallway. Ellison keeps footnotes. Cho keeps bones without a name. Everybody keeps something. The question is which keeping still protects a living hope, and which only protects us from daylight we already earned the hard way."
+[player_name] looked at him until he looked back. "Renny drew a map nobody read," she said softly. "I told a lie everybody believed. You had a hallway the court sealed. Ellison keeps footnotes. Cho's tray still has no name. Everybody keeps something. The question is which keeping still protects a living hope, and which only protects us from daylight we already earned the hard way."
 
-His pen stopped. Respect moved through his face like weather changing. He almost kissed her then, and stopped a breath short on purpose.
+His pen stopped. Respect broke over his face like light through fog. He nearly kissed her and chose, visibly, to wait.
 
 "If we walk out together in truth," he added, almost gently, "I'll give you more of Solis than hints when the case earns it. Not a sealed-file striptease for bedside romance. A promise that my ash won't stay private forever while I demand your honesty about the pier night. The rebuild keeps that page healing longer, on purpose. Both are love. Both cost. Neither baptizes bone."
 
@@ -63,13 +63,13 @@ When the corridor cleared, he pulled her into the blind corner of the bay. The g
 
 "Together in truth at dawn," he muttered, "and I finish what the pipe started, until you shake quietly enough for the monitors. A soft rebuild from hospital light, and I keep you aching through every soft-language question, because unfinished is how your body tells the truth your mouth is still learning."
 
-"I kept a lie. You kept a sealed hallway. Everybody keeps something," she said, and clenched around his fingers. "Together, and I speak the contested fate with you, and you take the leftover soft out of me after. The rebuild, and I love with one page sealed and still soak for your mouth under the footnotes. I'm not inventing purity. I'm not inventing a funeral. I'm asking which one we can live with."
+"I kept a lie. You kept a door sealed. Everybody keeps something," she said, and clenched around his fingers. "Together, and I speak the contested fate with you, and you take the leftover soft out of me after. The rebuild, and I love with one page sealed and still soak for your mouth under the footnotes. I'm not inventing purity. I'm not burying anyone early. I'm asking which one we can live with."
 
 Will stopped, exact and cruel and tender as a threat, and withdrew to paint her lower lip. "Not yet. Not until you pick."
 
-"Clock," he said. "Together in truth at dawn, or a soft rebuild from hospital light. Either way you stayed. Choose while I can still smell you on my hand."
+"Clock," he said. "Together in truth at dawn, or a soft rebuild from hospital light. Either way you stayed. Decide while my hand still smells like you."
 
-Before the nurse came back with discharge paperwork, he walked her into the supply closet that had been daring them all night and shut the door with his heel. He knelt. She clapped a hand over her mouth. His knuckles braced her thighs open against the saline shelves. "Together means I do this after every honest sentence," he said against her. "The rebuild means I do this after every sealed-page quiet, my tongue writing a better story than any footnote about proximity." She came with her hand still over her mouth. Will stood, wiped his mouth like a statement, and rested his forehead carefully against hers.
+Before the nurse came back with discharge paperwork, he walked her into the supply closet that had been daring them all night and shut the door with his heel. He knelt. She bit down on her palm to keep quiet. His knuckles braced her thighs open against the saline shelves. "Together means I do this after every honest sentence," he said against her. "The rebuild means I do this after every sealed-page quiet, my tongue writing a better story than any footnote about proximity." She came with her hand still over her mouth. Will stood, wiped his mouth like a statement, and rested his forehead carefully against hers.
 
 He braced both hands on the shelf beside her head and rolled his hips once against hers—slow, deliberate, promise with a pulse—so she felt exactly how unfinished dawn left him. "If you choose soft rebuild, I will spend the first hour of healing aching and the first closet minute making you invent new ways to stay quiet while Harborwick invents our raid story." Cracked knuckles brushed her jaw. Rain ticked glass. Machines beeped like a third recorder. "Either way leaves Solis sealed tonight. Neither way lets me pretend I am clean. Choose, [player_name]. The bay is waiting. So is my mouth. So is the inland soft."
 
@@ -79,7 +79,7 @@ Rain thickened. Will paced once more—counting exits, counting what soft cost w
 
 His cracked knuckles brushed her jaw. Fog horns spoke faintly. [player_name] pictured walking out into warrants with his taste still on her tongue—daylight honesty as jewelry. She pictured rebuilding with one page sealed—hospital soft as first room—while hope kept its impossible job beside dread. Either picture kept science careful.
 
-"Pick," Will whispered, his late smile cutting wrong. "Together in truth, or the soft rebuild. I'm still tasting you. That isn't in any memo yet. Keep it that way until you choose."`,
+"Pick," Will whispered, his late smile cutting wrong. "Together in truth, or the soft rebuild. I'm still tasting you. Nobody's written that down. Keep it that way until you choose."`,
   choices: [
     { id: "scene10a", text: "Choose together in truth at dawn", textHot: "Choose together in truth at dawn" },
     { id: "scene10b", text: "Soft rebuild from hospital light", textHot: "Soft rebuild from hospital light" }

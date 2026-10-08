@@ -39,7 +39,7 @@ Isolde heard that. She didn't pretend she hadn't. "Then decide, candidate, befor
 
 "A mercy rewrite, or a quiet deal," Isolde said. The words stroked [player_name]'s sternum like a finger that had no right. "Both cost. Both keep Calderyn breathing. Neither settles Thorne."
 
-Cassian's voice was soft and absolute at her ear. "She bargains as a person. If it smells like a seal, we stop." His breath hit her jaw. [player_name]'s cunt clenched around nothing. Isolde watched their mouths as if heat were evidence. It was.
+Cassian's voice was soft and absolute at her ear. "She bargains as a person. If it smells like a seal, we stop." His breath hit her jaw. [player_name]'s cunt clenched around nothing. Isolde let the quiet stretch, measuring the color in [player_name]'s face like a debt.
 
 [player_name] wanted to drag Cassian's glove under the desk and show Isolde what her body answered when stone sang wrong. She wanted his thumb on her clit while the bowls cooled unused. She sat still.
 

@@ -22,7 +22,7 @@ Clara's footsteps sounded on the stair, then stopped. Listening. John did not lo
 
 "If I forgive you in John's hearing," [player_name] said carefully, "I'm not asking the kitchen to be kind for your sake. I'm asking it to let mercy sit beside the ledger without erasing the ledger. If I refuse and keep holding John's hand, I'm not being cruel for sport. I'm putting grace behind consequence. Loyalty to John's wound, Clara's proof, and the years your quiet stole from my mouth. Both hurt."
 
-Henry's mug clicked against the wood. Rain sheeted harder against Willow Lane. Woodsmoke thickened until [player_name] could taste ash beside the copper. Freight complained toward the yard. On the stair, Clara held her breath.
+Henry's mug clicked against the wood. Rain sheeted harder against Willow Lane. Woodsmoke thickened until [player_name] could taste ash beside the copper. The mantel clock ticked into the quiet. On the stair, Clara held her breath.
 
 John shifted closer, his coat brushing [player_name]'s, his hand still locked in hers. "I can hear you forgive him," he murmured, for her alone. Then louder, for the table: "I can hear you refuse. What I can't hear is you inventing manners while my father's ice is still in this man's mouth. Hold my hand either way. That part isn't the choice. The choice is whether grace lands tonight, or refusal stays honest until this house learns what its furniture cost."
 
@@ -59,7 +59,7 @@ Clara's footsteps stopped on the stair. Listening. John leaned close, his mouth 
 
 "Choose," John said quietly. "While the mantel clock can still hear you refuse to tidy this up. Forgive him aloud with my hand in yours. Or refuse and keep holding on, and walk out into the rain with me."
 
-Freight hissed toward the yard. Two streets away, the cracked stool leaned and the blue door stuck. Voss's coin waited under glass. Clara breathed on the stair.
+Wind threw a fistful of rain at the window. Two streets away, the cracked stool leaned and the blue door stuck. Voss's coin waited under glass. Clara breathed on the stair.
 
 "If I forgive him," [player_name] said, "you don't soften. You stay angry and present while grace lands without erasing the ice. If I refuse, you don't waste the refusal on cruelty. You help me keep consequence honest until daylight finishes teaching this house."
 

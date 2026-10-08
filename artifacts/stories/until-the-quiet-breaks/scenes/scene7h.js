@@ -36,7 +36,7 @@ Mae leaned her elbows on the counter, her braid sliding forward. "Say it plainly
 
 "Then stop explaining and choose," Mae said, almost gently, which from Mae was sharper than shouting. "My stamp is ready. My memory is already rearranging whether you like it or not. The only question is whether the town hears before lunch or after two midnights have taught the Shaw house what to do with broken silence."
 
-John's thumb stroked once at [player_name]'s pulse. Freight complained toward the yard. Mae waited with ink on her fingers and a clock that wasn't Henry's mantel and was somehow worse. Public time. The kind that didn't care who needed comfort.
+John's thumb stroked once at [player_name]'s pulse. A gutter spilled over somewhere close. Mae waited with ink on her fingers and a clock that wasn't Henry's mantel and was somehow worse. Public time. The kind that didn't care who needed comfort.
 
 [player_name] drew a breath that tasted of wet paper and old coins and coffee. She laid her palm flat on the cool counter beside Mae's ink pad and leaned in, close enough to see the grain of the stamp, her lips already parting.`,
   textHot: `Mae's post office smelled of wet paper and ink pads. [player_name]'s body still carried the heat of the hardware awning, where John's fingers had already taught her that a public knife and wanting could share a bloodstream.

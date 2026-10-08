@@ -12,7 +12,7 @@ John pressed his scarred thumb to the brick beside her head. Not trapping her. B
 
 "If you insist on us first, you're asking me to put us ahead of everything. Truth between our mouths, terms between our hands, before we hand Henry to the town. If you insist he faces it in public, you're asking me to spend our privacy as fuel for the fire. I can walk either. I won't pretend they cost the same."
 
-Rain drummed the awning tin. The blue door's latch pressed her shoulder blade when she shifted. Freight complained toward the yard. Love and fury braided in her, along with the fear of disappearing into his repair.
+Rain drummed the awning tin. The blue door's latch pressed her shoulder blade when she shifted. Water ran loud in the downspout beside them. Love and fury braided in her, along with the fear of disappearing into his repair.
 
 [player_name] watched water sheet off the awning into the gutter. "Us first means we finish what we started before we make a spectacle of Shaw blood. You hear my years and my yes at twenty and my anger without translating them into how much you hurt. Public consequences means Henry doesn't get another quiet morning in private while we protect him with our intimacy. Market Street hears that winter was never only weather, and we pay the noise tax together."
 
@@ -79,7 +79,7 @@ John drew her a half step deeper under the awning, behind the drip line. His han
 
 "Done," John said, and bit gently at her earlobe. "Henry will try to hide in whichever light we pick. Voss stays a coin until we spend him. Choose while I can still feel how wet honesty makes you."
 
-She pushed his hand down, not away, until his palm cupped her through the fabric and went still at her command. Control as negotiation. "My life isn't only your wound. My heat isn't anesthesia for your grief. Hear both."
+She pushed his hand down, not away, until his palm cupped her through the fabric and went still at her command. Control as negotiation. "I'm not a bandage for your guilt. My heat isn't anesthesia for your grief. Hear both."
 
 "I hear both," John said, his voice wrecked, obedient and aching. Rain sheeted Market Street. Mae's gold lettering fogged. "I'll love you through either mud. I won't invent a third overhang where nobody gets wet and nothing moves."
 
@@ -87,7 +87,7 @@ She kept his hand where she wanted it, cupped and still, and used the stillness 
 
 John's forehead dropped to hers. His breath shook. He held his hips rigid by force of will. "Partner in the mud," he repeated like a vow. "Yes. Then aim me. I'm done being only the wound. You're done being only the repair. The rain's getting in. Choose."
 
-Wet brick. Coffee steam. The blue door's latch. Freight complaining toward the yard. [player_name] felt all of it braid through the place his palm held her and the place her refusal lived.
+Wet brick. Coffee steam. The blue door's latch. Rain loud in the gutters. [player_name] felt all of it braid through the place his palm held her and the place her refusal lived.
 
 "Both hurt," she whispered. "Both keep you aching against me until I decide."
 

@@ -8,7 +8,7 @@ Room B smelled like burnt coffee, wet wool, and seven years of unfinished senten
 
 "You asked for this on record," he said. Soft. Not gentle. Soft was the sharper knife. "Not counsel's columns. Not Ellison's controlled drip. Raw. Once the red light owns a syllable, it owns the house that syllable can burn. It's a file that walks."
 
-[player_name] was done pretending measured nouns were bravery. Renny's absence occupied the third chair. Dr. Lila Cho's language still ruled the upriver remains: unidentified, pending, a silver charm that could match the bracelet gap. The remains weren't Renny until science said so. Recording a stepfather at a pier didn't christen bone. It only stopped protecting the living men who had taught her the friends-and-debt lullaby.
+[player_name] was done pretending measured nouns were bravery. Renny's absence occupied the third chair. Dr. Lila Cho's language still ruled the upriver remains: unidentified, pending, a silver charm that could match the bracelet gap. No lab had put a name on those bones yet. Recording a stepfather at a pier didn't christen bone. It only stopped protecting the living men who had taught her the friends-and-debt lullaby.
 
 She looked at the microphone grille. "I saw Owen Vale near the festival pier the night Renny vanished. Not across town. Not at a bar with a receipt he waved like absolution. He was with someone who was not supposed to be there—jacketed shoulder, office muscle, a silhouette that made Renny go quiet when she pointed. I accepted his story that she had run off with friends because admitting otherwise would have blown the family apart, and because he implied her trouble was drugs and debt I did not want on the record. I never put him at the scene in my official statement. That omission is mine. The kept detail is mine. If the timing Cho dripped contradicts his alibi, it is because the alibi was always a costume."
 
@@ -28,7 +28,7 @@ Will flipped a page. The notebook spine cracked—overuse music. "Say the part a
 
 Will wrote charm = probability with a ferocity that looked like prayer. "Good. Keep hope on the tape. Captains hate hope. Lawyers hate it more. Sisters need it."
 
-Rain thickened on the high glass. A foghorn rolled in from the pier. [player_name] thought of the locked scrap Ellison could smell without naming. Raw admission wasn't the same as emptying every pocket. It was the pier night spent clean, and the end of Owen Vale's costume. It was also the moment Will stopped being able to pretend she was only a witness.
+Rain drove harder against the glass. A foghorn rolled in from the pier. [player_name] thought of the locked scrap Ellison could smell without naming. Raw admission wasn't the same as emptying every pocket. It was the pier night spent clean, and the end of Owen Vale's costume. It was also the moment Will stopped being able to pretend she was only a witness.
 
 "What happens when this walks?" she asked.
 
@@ -44,7 +44,7 @@ The red light blinked its patient accusation. Soft nets were gone. The kept secr
 
 The clock's hum deepened. Coffee cooled into bitterness. Outside, pier fog thinned and thickened as if Harborwick could not decide what to reveal. Inside, the recorder held enough syllables to ruin a house and maybe save a name that still refused to sit on an evidence tag.
 
-Will waited with the patience of a man who had sat out worse rooms. He didn't fill the silence with comfort. [player_name] felt the decision arrive like a held breath let go: ride the leak toward the press, or breach the warehouse with Will.`,
+Will waited with the patience of a man who had sat out worse rooms. He offered nothing to soften it. [player_name] felt the decision arrive like a held breath let go: ride the leak toward the press, or breach the warehouse with Will.`,
   textHot: `The red light on the interview recorder was the size of a blood bead and twice as permanent.
 
 Room B smelled like burnt coffee and wet wool. Fluorescent hum nested under her ribs. Will sat across from her, notebook open, his working steel somehow making her pulse jump anyway. Stupid. Traitorous.

@@ -54,7 +54,7 @@ Her pulse hammered where his mouth nearly touched her skin. First light widened 
 
 She could speak the Shaws' refusal into a stranger's ledger and accept whatever ears still owned Voss's shadow. Or she could cut the cord and keep the reckoning where it could still be touched: Henry's kitchen, Clara's margins, John's mouth, the blue door.
 
-A freight horn complained toward the yard. The cord trembled with her wrist. John's thumb stroked once at her spine. The voice waited on the line, breathing its bored, patient breath, and [player_name] drew in air that tasted like rain and old coins and opened her mouth.`,
+Somewhere down Market Street a car door slammed. The cord trembled with her wrist. John's thumb stroked once at her spine. The voice waited on the line, breathing its bored, patient breath, and [player_name] drew in air that tasted like rain and old coins and opened her mouth.`,
   textHot: `The landline by the pie case looked older than the lie, and [player_name]'s hands still smelled of John.
 
 First light bruised the glass. The rain had thinned to a hiss that couldn't cool what the booth had started. She had spoken Voss aloud while John's thigh pressed hers and he had gone shamelessly hard under his jeans at the wrong confession, debt and desire sharing a bloodstream. Now the exchange number lived in her mouth like a second kiss she hadn't asked for and couldn't spit out. Her bra seam rubbed when she breathed too deep. She still ached with the heat of a night that had braided creditor ghosts to wanting and refused to untangle them for anyone's politeness, including her own.
@@ -111,7 +111,7 @@ She thought of Mae at the post office sorting other people's lives into slots. O
 
 His answer was a nod she felt against her neck, and a slow, filthy grind of his palm that promised either way would be paid for in heat.
 
-Freight complained toward the yard, ordinary as ever. The cord warmed against her wrist. His cock twitched against her spine. John waited without pulling out, without promising forgiveness, and the receiver waited like an open mouth at her ear, and she was a breath away from giving one of them her voice.`,
+A car door slammed down Market Street, ordinary as ever. The cord warmed against her wrist. His cock twitched against her spine. John waited without pulling out, without promising forgiveness, and the receiver waited like an open mouth at her ear, and she was a breath away from giving one of them her voice.`,
   choices: [
     { id: "scene7h", text: "Leave the message — Shaws are done running", textHot: "Leave the message shaking — done running, still on his hand" },
     { id: "scene7i", text: "Hang up — the past gets no callback", textHot: "Hang up — then let him finish what the line started" }

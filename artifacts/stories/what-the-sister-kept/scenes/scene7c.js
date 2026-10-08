@@ -22,7 +22,7 @@ Cho hung up. Rain freckled the window. Downstairs a radiator knocked. Will set t
 
 Will's mouth twitched, almost a joke about mercy and arson, and the joke died. "Burning isn't always cowardice," he said. "Sometimes it's triage. Sometimes it's the same silence that got a kid killed in a hallway while badges argued about entry timing." The flinch came and went. "I won't tell you which door is clean. I'll tell you which doors I can walk with you. Widening means we take Cho's packet and Renny's letter forward as a matched set: second victim as lever, clerk as target, your sister's fate still open on purpose. Burning means we keep Renny central, destroy the letter's sharpest edge, and accept that mercy for focus might also be mercy for people who don't deserve it."
 
-Outside, chain-link rattled in the alley wind. Renny's hoodie lay folded on the couch arm. Upstairs, the charm bracelet still missed one piece that only could match Cho's debris.
+Outside, wind shook the alley fence. Renny's hoodie lay folded on the couch arm. Upstairs, the charm bracelet still missed one piece that only could match Cho's debris.
 
 The desk lamp, still burning from the night, threw a yellow circle that made Cho's words feel physical on the floorboards. [player_name] traced a pencil X on Warehouse C with one fingertip. She thought of Renny at sixteen arguing about pier curfew, of Owen's overtime lies, of a clerk's initials scratched in purple leather. Widening the case meant admitting Harborwick had swallowed more than one girl. It could save Renny from becoming a rumor corpse, or dilute her until Ellison's metrics called the file "complex" and walked away. Burning meant [player_name] deciding which of Renny's truths got to keep its skin.
 
@@ -51,7 +51,7 @@ She almost said his name like a prayer. "If I read it in bed," she admitted, "I'
 
 "Both true," Will murmured against her temple, lips brushing her hair. His hand found her hip, palm flat, a claim not yet more. The hard line in his trousers was visible, denied, mutual. "I could put you on this floor and make you forget Ellison's name. I won't. Not on Cho's morning. But later has teeth, and I'm already biting it."
 
-The honesty landed between her legs like a stroke. She gripped his wrist and felt his pulse hammer, badge and hunger in time. Pier salt leaked through the cracked window.
+The honesty landed between her legs like a stroke. She gripped his wrist and felt his pulse hammer, badge and hunger in time. Cold salt air seeped through the gap in the window.
 
 "Two ways," he said, thumb stroking once at her hipbone. "Tell me the truth in bed, aloud, all of it, and I listen until you're finished. Nothing else. Grief isn't foreplay. Or burn what would break the focus and keep the case sharp while you shake in my arms." His laugh was wrecked. "Choose before I forget I'm a badge."
 

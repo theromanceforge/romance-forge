@@ -52,7 +52,7 @@ Henry waited with the keys. Clara waited with the book. John waited with a hunge
 
 John's hand rose, hovered near her wrist, and dropped. The unfinished contact burned hotter than a bruise. "Either road hurts," he murmured. "Going easy is how Shaws drown. You already know that."
 
-The freight horn complained toward the yard. The mantel clock struck the half hour, a sound like a knock. Keys. Charcoal. John's unfinished touch. Voss's ghost, waiting to see who would get to tell the Shaw name's story next.
+The furnace kicked on under the floorboards. The mantel clock struck the half hour, a sound like a knock. Keys. Charcoal. John's unfinished touch. Voss's ghost, waiting to see who would get to tell the Shaw name's story next.
 
 "Ride with me and close it," Henry said, quieter. "Or refuse and expose. Say it before Clara texts Mae a novel. Say it before John decides silence is a kind of answer again."
 

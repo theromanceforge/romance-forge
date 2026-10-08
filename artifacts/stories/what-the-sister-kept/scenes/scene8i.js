@@ -46,7 +46,7 @@ She stood. Owen watched her like a man releasing a fish he might still need. The
 
 She peeled the mic pack off with shaking hands and set it in the evidence bag he held open. "Ellison will ask if family theater taught him to sing," Will said, his eyes on the wet street beyond the glass doors. "You standing here shaking with a full name isn't theater. It's cooperation that got a clerk without getting made. I didn't float this visit because we buried your sister. I floated it because reaching men leave traces. Tonight the trace was Marcus Hale on tape, instead of you bleeding in a hallway I already know how to dream."
 
-"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial until a wire made him say the name. You keep a sealed hallway. Ellison keeps an inbox. Cho keeps bones without a name. Everybody keeps something. The question is which keeping still protects a living hope."
+"Renny drew a map," she said, barely above the rain. "I told a lie and sat on it for seven years. Owen had a clerk on speed dial until a wire made him say the name. You've got a hallway nobody's allowed to open. Ellison has her inbox. Cho has bones with no name on them. Everybody's holding something. The question is which keeping still protects a living hope."
 
 She looked at Will until he looked back. "If we catch Hale off the wire, I stand beside you at the door. If we carry this into full testimony, I'll hate every camera and still speak. I'm not inventing purity or a funeral. I'm asking which hurt leaves Renny reachable."
 

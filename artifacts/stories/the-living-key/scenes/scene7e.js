@@ -49,7 +49,7 @@ Cassian's heat ran down her spine. Scorched leather, blade oil, the sleep-carved
 
 "Holding back has a smell," Isolde said. The words stroked [player_name]'s sternum like a finger with no right. "Key, or collar."
 
-Cassian's voice at her ear was soft enough to feel on wet skin. "Submit only on revocable terms. Bind her, and she makes me her enemy." His glove found [player_name]'s wrist. Thumb on pulse. The shock went to her clit. Isolde watched their mouths as if heat were evidence. It was.
+Cassian's voice at her ear was soft enough to feel on wet skin. "Submit only on revocable terms. Bind her, and she makes me her enemy." His glove found [player_name]'s wrist. Thumb on pulse. The shock went to her clit. Isolde tapped the silver once, unimpressed by how hard they were trying not to touch.
 
 [player_name]'s cunt clenched around nothing. She wanted to drag his hand under the desk and come while the silver waited unused. She wanted to spit key-language with his thigh between hers. She stood still, aching.
 

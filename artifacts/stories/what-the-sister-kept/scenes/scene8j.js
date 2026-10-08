@@ -26,7 +26,7 @@ The van door opened on Will's face, the scar white, his eyes nearly black. He pu
 
 "What if Hale walks?" Her voice held. Barely.
 
-"Then I hunt," Will said. He didn't offer comfort; comfort was a lie he refused. "Warehouses. City Hall after midnight. Coffee habits. Ellison gets a story she'll hate less than a dead witness. You don't become a clearance story. Renny doesn't get a false funeral because a wire went loud and a stepfather still knows how to dial." His knuckles whitened on the wheel.
+"Then I hunt," Will said. He didn't offer comfort; comfort was a lie he refused. "Warehouses. City Hall after midnight. Coffee habits. Ellison would rather have a messy story than a dead witness. You don't end up as somebody's clearance rate. Renny doesn't get a false funeral because a wire went loud and a stepfather still knows how to dial." His knuckles whitened on the wheel.
 
 "Or we take the failure public," he went on. "The failed wire becomes daylight. The press eats municipal paper before it can rinse. Rumor will try to bury your sister before Cho finishes. I'll stand on the steps with you anyway, if that's the choice you can live inside."
 
@@ -40,13 +40,13 @@ The van heater ticked like a second interrogation clock. "When my partner and Iâ
 
 "When a raid goes sideways, people rinse what they can," he said instead. "Partners take the weather. Kids in hallways pay for urgency dressed as care. I'm not dumping that sealed file on your failed wire. I'm telling you why I won't leave you on a pier to prove you're tough while this clerk still has a throat we can aim at."
 
-He paced the choice with his voice the way he walked interview rooms, counting exits and lies and costs. "If we wait, I'll still be angry in every warehouse after. At Owen, at the clerk, at seven years of scrubbed silhouettes, at myself for floating soft until tape became the only map. Anger doesn't cancel us. If we go to the press, I'll still want your mouth when the storm cools. Want doesn't cancel the cost of daylight. I need you to hear both."
+He paced the choice with his voice the way he walked interview rooms, counting exits and lies and costs. "If we wait, I'll still be angry in every warehouse after. At Owen, at the clerk, at seven years of scrubbed silhouettes, at myself for floating soft until tape became the only map. Anger doesn't cancel us. If we go to the press, I'll still want your mouth when the storm cools. Want doesn't cancel the cost of daylight. I need you to hold both of those."
 
-"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You keep a sealed hallway. Everybody keeps something. The question is which keeping still protects a living hope."
+"Renny made a map," she said, low. "I made a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You've got your sealed hallway. We're all hanging on to something. The question is which keeping still protects a living hope."
 
-She looked at Will until he looked back. "If I wait while you hunt, I'll hate every minute you're out of sight and still stay reachable. If we blow this into the press, I'll hate every camera and still stand on the steps. I'm asking which hurt leaves Renny reachable."
+She held Will's gaze until he met it. "If I wait while you hunt, I'll hate every minute you're out of sight and still stay reachable. If we blow this into the press, I'll hate every camera and still stand on the steps. I'm asking which hurt keeps Renny within reach."
 
-Respect moved through his face like weather changing. He almost kissed her, then stopped a breath short, on purpose. The van smelled like wet wool and failed quiet.
+Something like respect crossed his face and stayed. He almost kissed her, then stopped a breath short, on purpose. The van smelled like wet wool and failed quiet.
 
 "Clock," Will said softly. "Wait while I hunt, or blow the failed wire into the press. Owen already saw the tape. He already reached. Pick before Hale gets another mile."`,
   textHot: `Rain needled [player_name]'s scalp. The wire pack clung to her sternum under wet fabric. She stood beneath the warehouse eave where festival fog still lived in her memory, and she watched Owen's eyes drop to her chest.

@@ -32,7 +32,7 @@ John's thumb stroked her pulse at the throat. "This morning means we walk into W
 
 "One more day means I hold you through a full turn of Market Street light while what remains waits in your coat. I'll take that day if you offer it. But I won't pretend it's mercy forever. Clara found papers. Henry's letter cracked what was left. My body knows you're here. My name still needs what truth we haven't finished."
 
-Outside, early rain sheeted Market Street. The blue door stuck in the draft. Soon John would light the burners and coffee steam would rise. Freight complained toward the yard.
+Outside, early rain sheeted Market Street. The blue door stuck in the draft. Soon John would light the burners and coffee steam would rise. Market Street lay empty and shining.
 
 [player_name] pressed her palm over his heart. "I rebuilt nothing," she said. "You did. You stayed. You listened. I came home with rain in my hair and a letter that didn't say come home, only I thought you should know. Loving you before paper is the only order that doesn't turn the vow into penance. When I finish what's left is the only question remaining."
 
@@ -65,7 +65,7 @@ Her nipples ached. The cotton between her legs was soaked. She gripped his shoul
 
 John slid his hand past her waistband and found her soaked. Two fingers slid through her folds and pressed her clit once, not to finish her yet. "Choose," he whispered. "Finish the ice and Voss this morning with my fingers in you and the vow still shaking your mouth — what this bed hasn't heard. Or keep the rest one more day, and I'll still bury myself in you now. Delaying the ledger doesn't delay what your body already decided about coming home."
 
-Freight hissed toward the yard. [player_name] rocked against his fingers, because the vow deserved a body. Then she made herself go still, because the choice deserved a clear head.
+The neon in Mae's window buzzed and steadied. [player_name] rocked against his fingers, because the vow deserved a body. Then she made herself go still, because the choice deserved a clear head.
 
 "If I finish it now," she said, wrecked, "you walk me through the ugly words without letting go of me or the vow. If I keep one day, you spend it making sure love doesn't turn into weather."
 

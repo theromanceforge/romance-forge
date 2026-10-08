@@ -8,7 +8,7 @@ They didn't go deeper than the cold-storage bay. Soft reconstruction, Will calle
 
 "Rain started after midnight and stopped before three," Will said. His pen scratched. "Smear dilution says the blood-rust, if it's blood, and Cho decides that, hit concrete while the surface was wet. Then someone tried bleach and missed the threshold lip. The camera cable was cut neat between two and four, going by the oxidation on the copper ends. The cigarette butt isn't a pier-tourist brand. It's the pack the harbor clerks buy at the kiosk by the old fish auction. The silver fragment under the weatherstrip points in, as if it caught on the way out, not the way in. Charm-shaped. Festival-cheap. A cousin of Renny's missing piece. Not unique. Not proof."
 
-[player_name] tasted blood where she'd bitten her cheek. Cho's language still ruled the upriver remains: unidentified, pending. The river charm was still only like. This bay's charm was still only like. A last hour built from rust and silver didn't christen bone. It only argued that someone had left this place in a hurry.
+Her teeth found the same raw spot in her cheek. Cho's language still ruled the upriver remains: unidentified, pending. The river charm was still only like. This bay's charm was still only like. A last hour built from rust and silver didn't christen bone. It only argued that someone had left this place in a hurry.
 
 "Still not Renny," Will said, reading her face before she could bury hope under a smear. "Still a sequence. Still enough to lean on Owen Vale without inventing a funeral. This hour turns harder: ledger overlap if we have it, cigarette brand, exit direction, the bleach miss. Owen's across-town alibi keeps costuming itself. We don't need a hard ID to ask him what he knows about a warm shredder and a clerk's initials. We need him scared enough to talk partly, or wired enough to talk to the man who taught the lullaby."
 
@@ -20,7 +20,7 @@ When Ellison had said partner at him, Will's hand had gone to his ribs. He didn'
 
 "Two ways from a rebuilt hour," Will said quietly, for her. He flipped to a page already stubbed with the rain window, smear dilution, cigarette brand, silver direction, Owen's window collapsing under Cho's timing. "Take Owen's partial confession. Put this sequence in front of him until he gives dates, companions, who needed teenagers quiet about harbor traffic. Partial is ugly and usable. Or wire him against the clerk: send Vale back into the chain with a mic and a deal-shaped leash, and let him incriminate the living link Renny dared. Both move. Neither names the bones."
 
-Rain began again, fine as needlepoint on a roof deeper in the row. A generator coughed once and died. [player_name]'s palms left damp prints inside Will's spare gloves. Will watched her mouth the way he watched evidence that might burn him.
+Rain began again, fine as needlepoint on a roof deeper in the row. A generator coughed once and died. [player_name]'s palms left damp prints inside Will's spare gloves. Will watched her mouth like it might testify against him.
 
 "If I take the partial," [player_name] said, voice steady by force, "Owen cracks in a room. We spend the hour as a blade across glass. Hope stays legal because Cho hasn't spoken. If I wire him, we spend the hour as bait, Owen as an instrument against the clerk, and I live with using the man who taught me the lullaby as a microphone."
 

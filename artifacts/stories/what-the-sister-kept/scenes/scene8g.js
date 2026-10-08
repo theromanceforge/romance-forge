@@ -14,13 +14,13 @@ The silver charm was still only like. Steel on wrists didn't name bone. Steel on
 
 "Name," Will said. Notebook out now. Spine cracking.
 
-"Desk code. Who taught you to shred warm and leave cigarette butts like signatures. Who needed a teenager quiet about harbor traffic during festival week seven years ago. Speak carefully. Cho hasn't confirmed Renny among the dead. The charm is probability. You don't get to invent a funeral to bargain with, and we don't invent one to scare you. Living questions only." The clerk's eyes flicked to [player_name], too close, then to Will's scarred eyebrow.
+"Desk code. Who taught you to shred warm and leave cigarette butts like signatures. Who needed a teenager quiet about harbor traffic during festival week seven years ago. Speak carefully. Cho hasn't counted Renny among the dead. The charm is probability. You don't get to invent a funeral to bargain with, and we don't invent one to scare you. Living questions only." The clerk's eyes flicked to [player_name], too close, then to Will's scarred eyebrow.
 
 "I move paper. People move crates. Soft meant your patience act. Hard means I want a lawyer and a deal before I name anyone who can end me with a phone call." Rain began again on the roof like needlepoint. [player_name] looked at the warm shredder basket, at a ledger page with Owen's late-night dates in handwriting that wasn't Owen's, at Will's knuckles whitening on a flashlight he no longer needed.
 
 The catch wasn't an identification. It was a door with a living hinge. "Two ways from a caught mouth," Will said quietly, for [player_name], while the clerk breathed and Ellison's radio crackled on Will's hip.
 
-"Hold him: clean lean, gloves, warrants walking, work him until Renny's killer can be named as a living fact, without inventing bone first. Or watch him slip, with tip sheets already burning somewhere and a body that knows how to vanish into Harborwick's damp history, and I hunt while you wait. Both move. Neither confirms Renny among the dead."
+"Hold him: clean lean, gloves, warrants walking, work him until Renny's killer can be named as a living fact, without inventing bone first. Or watch him slip, with tip sheets already burning somewhere and a body that knows how to vanish into Harborwick's damp history, and I hunt while you wait. Both move. Neither one buries Renny."
 
 Ellison's voice clipped through the radio: status, no cowboy, no family ricochet, pending on every report that left the bay. Will answered in shorthand: clerk in cuffs, routing stamp, warm shredder, no hard ID. He didn't say [player_name]'s name like a liability. The radio went quiet.
 
@@ -44,14 +44,14 @@ Ellison would call this authorized if the paperwork held, and cowboy if a family
 
 Sodium light leaked through the corrugated gaps. The clerk's wrists shone. The warm shredder still ticked somewhere in the dark like a mechanical conscience. Hope argued that Renny had walked out of rooms like this. Dread answered that someone hadn't wanted her to.
 
-"Hold the clerk, and we work him while the steel is fresh and Renny's map stays geography, not a corpse," Will said, notebook spine cracking. "Watch him slip, and you choose vigil over certainty, and I spend dawn chewing restraint two blocks away. Both leave Cho's tray unnamed." He didn't fill the silence with comfort. [player_name] drew a breath that tasted like rust and soap and unfinished trust.`,
+"Hold the clerk, and we work him while the steel is fresh and Renny's map stays geography, not a corpse," Will said, notebook spine cracking. "Watch him slip, and you choose vigil over certainty, and I spend dawn chewing restraint two blocks away. Both leave Cho's tray unnamed." He let the silence sit, unpadded. [player_name] drew a breath that tasted like rust and soap and unfinished trust.`,
   textHot: `The clerk had a face after all: municipal-small eyes, a kiosk cigarette stuck to his lip. [player_name] felt the catch in her cunt as much as in her shoulders, Will's bulk turning steel into wet heat she had no business bringing to a crime scene.
 
 Pre-dawn fog held the warehouse in a soft fist. Salt. Rust. Chain-link. She stayed behind the frost latch where Will had put her, flashlight dark, thighs tight, pulse hammering. He cleared angles like a man who still flinched at hallways, and cuffed without theater.
 
 "Hands where I can count them," Will said. Final. The clerk's hands rose. Zip ties whispered. "Name. Desk code. Who taught you to shred warm. Who needed a teenager quiet during festival week."
 
-"Cho hasn't confirmed Renny among the dead. The charm is probability. No invented funerals. Living questions only." The clerk wanted a lawyer and a deal. Rain needled the roof. [player_name] stepped out on Will's nod. His gaze dropped to her for half a second, then went back to the clerk's hands.
+"Cho hasn't counted Renny among the dead. The charm is probability. No invented funerals. Living questions only." The clerk wanted a lawyer and a deal. Rain needled the roof. [player_name] stepped out on Will's nod. His gaze dropped to her for half a second, then went back to the clerk's hands.
 
 "Two ways," Will said quietly, for her, while Ellison's radio crackled. "Hold him: clean lean, work him until a name can stand as a living fact. Or watch him slip, and I hunt while you wait."
 

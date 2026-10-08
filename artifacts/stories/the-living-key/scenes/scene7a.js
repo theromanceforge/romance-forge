@@ -69,7 +69,7 @@ Scorched leather at her shoulder. The mouth that had asked at her jaw and left h
 
 "You will hear the names," Isolde said, and the words stroked [player_name]'s sternum like a finger that had no right. "You will feel whether your song answers. You will not invent belonging where the ink stops."
 
-Cassian's voice at [player_name]'s ear was soft enough to feel on wet skin. "She hears. I hear. If it smells like a seal, we stop, so she can breathe as a person." His breath hit her jaw. [player_name]'s cunt clenched around nothing. Isolde watched their mouths as if heat were evidence. It was.
+Cassian's voice at [player_name]'s ear was soft enough to feel on wet skin. "She hears. I hear. If it smells like a seal, we stop, so she can breathe as a person." His breath hit her jaw. [player_name]'s cunt clenched around nothing. Isolde's lashes lowered, as if the flush on [player_name]'s throat were a line she could read.
 
 Isolde read the lineage aloud. Wardens. Frequencies. Quieted outcomes. Blood that sang walls shut. [player_name]'s charm pulsed hot in recognition, and each pulse made her press her thighs together. Pattern without verdict. Want without surrender.
 

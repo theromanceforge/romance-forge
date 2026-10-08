@@ -22,7 +22,7 @@ John stopped pacing. Rain came harder against the glass. Coffee steam drifted fr
 
 "If you hand me the deadline," John answered, his voice low, "you're trusting me not to use fear as a weapon. You're admitting the secret still scares you more than noon light. That isn't weakness. It's the first honest sentence we've spoken since you asked for longer. I won't love you less for fear. I'll only ask that the fear stop pretending it's strategy."
 
-A freight horn complained toward the yard. [player_name] thought of Clara waking with charcoal under her nails. Of Henry's glass paperweight and the pages under it. Of Mae sorting other people's lives into slots, and how quickly a week could become another fifteen years if nobody named the edge.
+Somewhere a church bell counted the hour. [player_name] thought of Clara waking with charcoal under her nails. Of Henry's glass paperweight and the pages under it. Of Mae sorting other people's lives into slots, and how quickly a week could become another fifteen years if nobody named the edge.
 
 John's hand covered hers on his chest, his thumb at the pulse that jumped in her wrist. "I chose you," he said again, rough enough to hurt. "That sentence survives spectacle, and it survives delay. What it doesn't survive is delay without a shape. Set the week yourself, like a woman who came back on purpose. Or put the calendar in my hands and admit you're afraid enough to let me hold the match. Both keep me here."
 
@@ -55,7 +55,7 @@ His other hand slid between her thighs and found her still slick. Two fingers pr
 
 "If you hand me the deadline," he answered, curling his fingers against the place that whitened her vision, "you're trusting me not to use fear as a weapon." He kissed her hard, then dropped to his knees between her legs, as if the argument required a body. "That admission isn't weakness." His mouth found her again, tongue flat and greedy, and she cried out into the flannel collar while Market Street pretended to sleep.
 
-A freight horn complained toward the yard. [player_name] tangled her hands in his hair and tried to think through the throb. A week that could become fifteen years if nobody named the edge. John sucked her clit with intent, then pulled off just long enough to speak against her.
+Rain drummed the awning over Market Street. [player_name] tangled her hands in his hair and tried to think through the throb. A week that could become fifteen years if nobody named the edge. John sucked her clit with intent, then pulled off just long enough to speak against her.
 
 "I chose you. That survives delay. What it doesn't survive is delay without a shape. Own the calendar while I fuck the fear out of your voice. Or put it in my hands and let me hold the match."
 

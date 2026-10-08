@@ -109,7 +109,7 @@ Clara grimaced, then nodded. "Thank you for not making it poetry. Poetry is how 
 
 Clara hugged the sketchbook harder. "Pick. I'm full of tea and out of patience with uncles. Urgency is a gift. Spend it."
 
-They stood. Freight complained toward the yard. Woodsmoke thickened. Wet boxwood scraped the glass. [player_name] tasted copper and cedar and refused to settle for an easy answer on principle.
+They stood. The porch boards creaked under them. Woodsmoke thickened. Wet boxwood scraped the glass. [player_name] tasted copper and cedar and refused to settle for an easy answer on principle.
 
 Later there would be John, his hands on her hips and his mouth on hers, somewhere with a locked door. Whichever promise she made now would be in that room with them too. She held the thought a moment longer and then put it away. Clara deserved her whole attention.
 

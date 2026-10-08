@@ -75,7 +75,7 @@ Cassian at her shoulder. Scorched leather. Blade oil. The mouth that had asked a
 
 "You open it with me," Isolde said. The words stroked [player_name]'s sternum like a finger with no right. "Your handler may witness. Withhold mid-reading, and I revoke the maps."
 
-Cassian's voice at her ear was soft enough to feel on wet skin. "She opens. I watch. If it smells like a seal, we stop, so she can breathe as a person." His breath hit the line of her jaw. [player_name]'s cunt clenched around nothing. Isolde watched their mouths as if heat were evidence. It was.
+Cassian's voice at her ear was soft enough to feel on wet skin. "She opens. I watch. If it smells like a seal, we stop, so she can breathe as a person." His breath hit the line of her jaw. [player_name]'s cunt clenched around nothing. Isolde's gaze moved from his mouth to her throat, taking notes without ink. She missed nothing.
 
 [player_name] cut her thumb and let her blood-song fall into the copper. The charm pulsed. The brass key turned. The drawer opened like undressing under a cold lamp.
 

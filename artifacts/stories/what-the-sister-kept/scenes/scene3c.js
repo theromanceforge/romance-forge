@@ -16,7 +16,7 @@ The hoodie on the chair seemed to listen. [player_name] thought of Owen's voice 
 
 "I'm not clean," he said, almost conversational, which made it feel like a trapdoor. "Charm got me out of places résumés don't list. A raid went wrong in a hallway that still shows up when kids laugh at the wrong time. There's a folder with my name next to a name I won't finish saying in your sister's room." His smile flickered. "That's not an excuse. It's a warning. If you beg me for a soft net on Owen, you're asking a man with sealed consequences to choose restraint. If you warn Owen I'm coming, I'll know the smell of a tip even if I can't prove it tonight."
 
-Rain thickened on the glass. [player_name] sat on the edge of Renny's bed because her knees had opinions. Will stayed standing, refusing the chair, as if sitting would domesticate what she'd just handed him.
+Rain ran in crooked lines down the pane. [player_name] sat on the edge of Renny's bed because her knees had opinions. Will stayed standing, refusing the chair, as if sitting would domesticate what she'd just handed him.
 
 "Cho still has not ID'd the remains," he reminded her, gentler, and the gentleness hurt. "We do not get to bury Renny to make Owen's arrest feel cleaner. We also do not get to pretend your silence was nothing. You told me. That matters. What you do in the next hour matters more."
 

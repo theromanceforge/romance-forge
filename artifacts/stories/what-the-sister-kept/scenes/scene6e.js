@@ -24,7 +24,7 @@ Will shifted. The notebook spine cracked under his thumb—overuse music. "Mara�
 
 "Akers won't save you from an ultimatum," Ellison continued, eyes back on [player_name]. "Flip on Owen Vale under pressure, full statement, soft net gone, arrest machinery engaged. Or keep dripping while a recording of what you've already said walks toward the places recordings walk. Press. Internal ears. Owen's lawyers, if someone sells a copy. I'm not threatening theater. I'm describing weather. Harborwick leaks."
 
-Rain freckled the west glass. A foghorn rolled inland. [player_name] thought of Renny's hoodie still folded in a drawer and the bracelet missing one charm. The bones remained unnamed. Owen remained a silhouette she had protected until protecting him tasted like burying the living.
+Rain ran sideways across the west glass. A foghorn rolled inland. [player_name] thought of Renny's hoodie still folded in a drawer and the bracelet missing one charm. The bones remained unnamed. Owen remained a silhouette she had protected until protecting him tasted like burying the living.
 
 Will stepped half a pace nearer, not touching. "You can flip," he said quietly, more for her than for Ellison. "Give Mara Owen clean. Ugly daylight. Or you brace for the leak and we manage what the recording does before it manages us. Both move. Neither names Renny among the dead until Cho earns the right."
 
@@ -65,7 +65,7 @@ Ellison smiled without humor. "Completing is the ask. Who taught you the friends
 
 Will shifted. The notebook's spine cracked under his thumb. "Mara—"
 
-"Partner," Ellison said, wrong on purpose. Will's flinch was small and old: ribs, sealed file, a hallway [player_name] wasn't allowed to enter. The flinch tightened her nipples under her blouse. Damaged men shouldn't be this hot.
+"Partner," Ellison said, wrong on purpose. Will's flinch was small and old: ribs, sealed file, a hallway [player_name] wasn't allowed to enter. The flinch tightened her nipples under her blouse. Damage had no business looking that good on anyone.
 
 "Akers won't save you from an ultimatum," Ellison went on. "Flip on Owen Vale, full statement, soft net gone. Or keep dripping while a recording of what you already said walks toward press and hungry ears. Harborwick leaks."
 

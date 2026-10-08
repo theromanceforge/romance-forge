@@ -22,15 +22,13 @@ Will's pen stopped. "Two ways," he said quietly, for her, while Owen breathed an
 
 Owen laughed once, thin and scared. "You talk like the bones are still a maybe. Good. Maybes make deals. Use me to catch the clerk, and I become a microphone in cuffs. Trade mercy, and I become a leash that still knows desk codes. Either way, I didn't name your sister. Pending is my leash as much as yours."
 
-Rain thickened on the glass. A foghorn rolled inland, low enough to feel in the sternum even downtown.
-
 Rain thickened on the glass. A foghorn rolled inland, low enough to feel in the sternum even downtown. [player_name] thought of Renny's hoodie still folded in a drawer across town—teenager's cotton, festival night, vanilla ghost, bracelet missing one charm that could match upriver silver and still refused confirmation. She thought of the warehouse east of the old fish auction—red door, warm shredder, frost latch, ledger dates in handwriting that wasn't Owen's—and felt the partial land as geography with teeth, not as a funeral.
 
 Will stepped half a pace nearer to her chair, not touching, close enough that his sleeplessness reached her like a hand on the back of her neck. "I dig either way," he said quietly. "The clerk, with the partial as a map. Or a mercy leash that keeps Vale talking without smoothing the pier back into a lullaby. I won't let you bury hope under a deal that tastes like friends-and-debt again. And I won't let Mara turn dread into certainty because a stepfather cracked on cue."
 
 Ellison came into the suite without ceremony. She set a thin file beside Owen's cuffs: draft mercy language, the clerk's desk codes scraped from the partial, a mid-level title that turned [player_name]'s stomach.
 
-"Akers will live with either. He's lived with worse." Her gaze cut to Will's ribs and away. "Decide whether Vale's partial becomes a hunting leash or a mercy leash. The city will call both justice, if you photograph the sister carefully. Internal will call both proximity, if you keep standing that close. And Cho won't rush an ID because you picked a deal."
+"Akers will live with either. He's lived with worse." Her eyes flicked to Will's side, then back. "Decide whether Vale's partial becomes a hunting leash or a mercy leash. The city will call both justice, if you photograph the sister carefully. Internal will call both proximity, if you keep standing that close. And Cho won't rush an ID because you picked a deal."
 
 She softened, almost human, which was worse. "Mercy photographs as weakness if you flinch. Catching him photographs as vengeance if you smile. Choose the one that lets you sleep."
 
@@ -71,7 +69,7 @@ When Ellison turned to murmur at the glass, Will's hand found the inside of [pla
 
 [player_name] didn't look at Owen. She looked at the glass. She would not give him anything of hers, not even her face.
 
-She pictured catching the clerk off Owen's dates, then Will's fingers in her in a locked conference room until she shook quiet enough for fluorescent lights. She pictured the mercy deal, and Will keeping her dripping through the bargain language. Either fantasy made her wetter.
+She pictured catching the clerk off Owen's dates, then Will's fingers in her in a locked conference room until she shook quiet enough for fluorescent lights. She pictured the mercy deal, and Will keeping her dripping through the bargain language. Her thighs were slick by the end of it.
 
 "You are inventing filth on my partial," Ellison said, not quite joking, eyes on the flush. "Use it as fuel. Speak the spend before tip-sheets burn the clerk's road." Will's thumb stroked her pulse once more—filthy-soft—and [player_name] nodded before grammar caught up, body ahead of oath, soaked and furious and precise. Copper and want filled her mouth. One detective with brutal charm and a sealed hallway she was not allowed to enter yet and still wanted to kiss open.
 

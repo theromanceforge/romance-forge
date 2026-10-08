@@ -20,7 +20,7 @@ John's eyes shut once, hard. Opened. "Both sound like love when you say them. On
 
 "Clara can sketch truth either way," [player_name] said. "I will not use her as a stop sign or a permission slip."
 
-He leaned the crowbar against the crate, then picked it up again at once, as if putting it down had been a lie his muscles refused. Woodsmoke ghosted from the house. Freight complained toward the yard. Desire moved under [player_name]'s coat, loyal and inconvenient. She wanted his mouth. She wanted his anger aimed true. She could not have both tonight.
+He leaned the crowbar against the crate, then picked it up again at once, as if putting it down had been a lie his muscles refused. Woodsmoke ghosted from the house. Wind worried the bare maple by the gate. Desire moved under [player_name]'s coat, loyal and inconvenient. She wanted his mouth. She wanted his anger aimed true. She could not have both tonight.
 
 John stepped close enough that his coat brushed hers. Rain-damp wool. Clean sweat underneath. The diner clung to him even here, coffee and fryer oil. "I've asked you to stand with me in this," he said, his voice low. "Either way we ended up here, under this bulb, with a second lock grinning like Henry's tidy conscience. I need you to choose before I choose alone and resent you for the silence."
 

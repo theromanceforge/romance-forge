@@ -32,13 +32,13 @@ They left Ellison's glass for the bullpen. Detectives glanced and glanced away. 
 
 "Done," Will said. "Also not done. Shielding me bought rope, and rope has two ends. One end is the machine: memos, briefings, me smiling captains into patience while you sit in chairs looking soft enough to keep Internal bored. The other end is volume: cameras, the sister's story, Renny's festival night loud enough that Internal can't quietly bury closeness without looking like they buried a missing girl." He stopped on the landing. "You can speak to the cameras for me, your voice as the shield instead of your chair. Or you can meet me at the pier anniversary: crowds under sodium light and fog, Renny's night said out loud in public. What we keep interrupting waits for somewhere warm afterward, away from the boards, without giving Ellison a press clipping yet."
 
-[player_name] almost touched the white knuckle at his side. Then did. His pulse jumped once under her fingers. Will didn't pull away.
+[player_name] almost touched the white knuckle at his side. Then did. She felt his heartbeat stumble under her touch. Will didn't pull away.
 
-"Cameras mean I can't control the match," he said quietly. The pier means we stay inside the machine a little longer, on the boards where she vanished. Cho won't name the remains for either stage. Owen stays your private weather until you put him on a page, and public storms don't respect kept silences. I won't pretend I don't want the pier. Wanting that makes me selfish. Offering the cameras anyway makes me slightly less. Slightly."
+"Cameras mean I can't control the match," he said quietly. The pier means we stay inside the machine a little longer, on the boards where she vanished. Cho won't name the remains for either stage. Owen stays your private weather until you put him on a page, and public storms don't respect kept silences. I won't pretend I don't want the pier. I know how selfish that is. Offering the cameras anyway makes me slightly less. Slightly."
 
 [player_name] thought of Renny's hoodie folded in a drawer. Of Marta's red-door scrap in Will's cracked notebook: badge? 2xxx / 5xxx, east cold storage, generator noise. Of Ellison's forty-eight hours ticking like a bomb with manners. "If I speak to cameras, I'm choosing volume over control."
 
-"If you meet me at the pier," Will answered, "you're choosing the boards and my hand in a crowd that remembers the posters. Wanting each other in public without lighting the match yet." He rubbed a hand over his face. "You shielded me. Now the shield chooses: stay soft in the open air of an anniversary, or go loud enough to scare Internal into blinking."
+"If you meet me at the pier," Will answered, "you're choosing the boards and my hand in a crowd that remembers the posters. Wanting each other in public without lighting the match yet." He dragged both hands through his wet hair. "You shielded me. Now the shield chooses: stay soft in the open air of an anniversary, or go loud enough to scare Internal into blinking."
 
 Rain thickened on the stairwell glass. Another foghorn spoke across Harborwick. His phone buzzed once, Ellison's night desk confirming the forty-eight. He ignored it and watched [player_name] instead.
 

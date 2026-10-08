@@ -8,7 +8,7 @@ Will stood at the window with his notebook closed against his thigh, shirt wrink
 
 "Read it again," he said quietly. Not a command. "From the clerk's initials. Out loud. I want to hear if your voice catches on the same places mine does."
 
-[player_name]'s throat worked. Renny had been a teenager when she vanished: seven years of absence folded into cotton, silver and this journal, which had spent those years under a bed like a second spine. Upriver, Cho's remains still waited in careful language: an age range that could fit, a charm that could match the bracelet's missing piece, lab ID pending. The remains weren't Renny until science said so. Rumor had already tried to bury her. The journal wouldn't help the burial. It named a chain.
+[player_name]'s throat worked. Renny had been a teenager when she vanished: seven years of absence folded into cotton, silver and this journal, which had spent those years under a bed like a second spine. Upriver, Cho's remains still waited in careful language: an age range that could fit, a charm that could match the bracelet's missing piece, lab ID pending. Until the lab spoke, the bones belonged to no one. Rumor had already tried to bury her. The journal wouldn't help the burial. It named a chain.
 
 [player_name] read. Renny's certainty was teenage and terrible: Harborwick Pier Warehouse C, midnight trucks that didn't match any shipping board, a city clerk's initials, M.H., scratched beside Owen Vale's late nights, a fear that sounded older than sixteen. They move sealed crates when the foghorn covers the dock noise. Owen says it's overtime. Owen lies with his whole mouth. If something happens to me, ask [player_name] about the pier night. She saw him. She knows she saw him.
 
@@ -57,7 +57,7 @@ His thumb stroked once behind her knee, a slow metronome, and his jaw flexed. Sh
 
 She made a sound, small and helpless, and his hand spread on her thigh, still not climbing. He kissed her forehead, not her mouth, hard enough to feel like a withheld climax. "Not yet," he said against her skin. "I'll still want you after either choice. Want isn't the vote."
 
-He sat back, and it cost him. The foghorn answered from the river. Pier salt leaked through the window.
+He sat back, and it cost him. A foghorn moaned somewhere downriver. Pier salt leaked through the window.
 
 "Two ways," he said softly. "Make the journal public: walk the smuggling chain into daylight, with my notebook as witness. Or bargain it privately with Ellison: my badge as cushion, her seal as leash, a controlled drip in a room that smells like politics and burnt coffee." His thumb found her pulse at the wrist, counting. "Public means the city watches while Cho still says pending. Private means Ellison keeps a leash that might choke it. Either way, Owen stops being a whisper. Choose."
 

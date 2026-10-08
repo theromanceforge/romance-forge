@@ -4,7 +4,7 @@ export default {
   title: "Thin Ice and a Wire",
   text: `The wire pack sat against [player_name]'s sternum like a second heartbeat Will had taught her to carry onto thin ice.
 
-Owen Vale was out: released on conditions Captain Ellison hated, bail pressure dressed as patience, cuffs traded for a curfew and a promise not to leave Harborwick. The soft net had burned in an alley. Family had detonated on a butter-colored porch, and no cell had kept him. Now the hunt lived outside any cage, with Owen still reaching, still talking, still believing panic could outrun a stepdaughter with a mic taped under her bra band. Will's unmarked idled two blocks from the pier warehouse Owen had named in fragments. Rain needled the windshield. Foghorns complained across the channel.
+Owen Vale was out: released on conditions Captain Ellison hated, bail pressure dressed as patience, cuffs traded for a curfew and a promise not to leave Harborwick. The soft net had burned in an alley. Family had detonated on a butter-colored porch, and no cell had kept him. Now the hunt lived outside any cage, with Owen still reaching, still talking, still believing panic could outrun a stepdaughter with a mic taped under her bra band. Will's unmarked idled two blocks from the pier warehouse Owen had named in fragments. Rain needled the windshield. Foghorns lowed out past the breakwater.
 
 "Breathe," Will said. His scar was pale under the dash light. "He thinks soft still sells. Let him. You aren't soft. You're a wire with a pulse. Get him talking about the clerk: M, the desk code, the after-midnight reaches. If the meet goes clean, we lean. If it goes dirty—" His jaw flexed. "If it goes dirty, you walk. You don't play hero in a hallway. You don't push early for a CI or a guilt trip. You come back to this van."
 
@@ -18,7 +18,7 @@ Owen waited under a warehouse eave where festival fog still lived in [player_nam
 
 "You came alone," Owen said, not quite believing it. His eyes hunted her collar, her purse, the tiny tell of a wire. "Or you came with Akers two blocks out, pretending unmarked cars are weather. Which version of my stepdaughter am I buying coffee for? The girl who kept me off a statement, or the woman who wears badge heat like perfume?"
 
-"Unidentified," [player_name] said, Will's precision her armor. Her voice held. Barely. "Cho hasn't printed Renny on bone. I'm here because soft burned and your sink trap still talked and a clerk's initial keeps showing up like a toothache. Talk about M. Talk about call M if soft. Talk about who stood with you when Renny was sixteen and pointing at red doors."
+"Unidentified," [player_name] said, Will's precision her armor. Her voice held. Barely. "Cho hasn't written Renny's name on bone. I'm here because soft burned and your sink trap still talked and a clerk's initial keeps showing up like a toothache. Talk about M. Talk about call M if soft. Talk about who stood with you when Renny was sixteen and pointing at red doors."
 
 Owen smiled wrong. Stepfather theater. "M moves permits and looks the other way when crates need a municipal throat. Soft meant your detective's patience. I warned when soft got close. You want a full name on a dock while rain makes us both look honest? Careful. Chains notice daughters who suddenly want confession without a lawyer. I can give you enough to lean. I can also give you enough to get you made before Akers clears the chain-link." He stepped closer. Rain haloed the security light. "Your sister ran toward trouble she half understood. I tried to keep a house from becoming a precinct annex. You tipped. You untipped. You watched soft die. Now you wear a wire and call it courage. If those bones upriver are Renny, this conversation won't resurrect her."
 
@@ -79,7 +79,7 @@ She pressed her palm to his cock through his jeans and he rolled once into her f
 
 His free hand cupped her nape. "Early entries leave ashes. This meet wasn't early. What comes next is where I stay human."
 
-He zipped her halfway and adjusted her collar over the pack, scar white under the dash light. Rain ran down the windshield. Upriver, the remains were still unnamed.
+He zipped her halfway and adjusted her collar over the pack, scar white under the dash light. Rain ran down the windshield. Upriver, Cho's tray still had no name on it.
 
 [player_name] tasted rain on her lip where his mouth had almost been and kept the zipper one tooth short because he had asked without asking. Missing charm. Unidentified bones. Owen free enough to warn someone. Survive the fail, or take the chain public. Neither door would let her pretend thin ice had been soft.
 

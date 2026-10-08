@@ -38,7 +38,7 @@ Clara stood. The photocopies slid. One charcoal circle stared up like an eye. "T
 
 John's hand found [player_name]'s wrist, his thumb on her pulse. "I rebuilt the diner," he said. "I raised Clara beside those lights. I listened for a train that might bring you back. I can hear Henry say the ugly words tonight with you beside me. Or I can take one more day to put my hands flat on the truth first. Don't invent a third road where Clara's courage goes soft because you think I'm too fragile for his confession."
 
-Outside, freight complained toward the yard. Two streets away, the blue door stuck. Mae's gold lettering fogged and cleared. Voss's shadow owned a corner of every page on the quilt.
+Outside, the rain thinned to mist. Two streets away, the blue door stuck. Mae's gold lettering fogged and cleared. Voss's shadow owned a corner of every page on the quilt.
 
 [player_name] thought of fifteen years of practiced belief in the girl who wanted more. Clara had drawn over that story until the drawing became a blade. She thought of John, who had loved an uncle's weather too long. Ending the quiet meant feeding someone a true story. The only question left was when.
 
@@ -69,7 +69,7 @@ John bent his head to [player_name]'s ear, his voice for her alone. "Back her, a
 
 Clara's mouth tilted. "Sympathy isn't my job. Stages are. Memory is. I remember finding papers under glass while this house pretended woodsmoke was enough. Choose loud. My lamp is on."
 
-Freight hissed toward the yard. The cracked stool leaned two streets away. Wet boxwood tapped the glass. Henry's empty mug waited downstairs.
+The rain eased to a hiss in the gutters. The cracked stool leaned two streets away. Wet boxwood tapped the glass. Henry's empty mug waited downstairs.
 
 "If I back you," [player_name] said, "John doesn't soften the walk to the kitchen. He stays angry and present while Henry learns winter was never only weather. If I ask you to wait, we don't waste the pause on Henry's tea. We use it to put John inside the truth before your clock runs out."
 
@@ -85,7 +85,7 @@ Clara hugged the folder to her chest. "Now," she said. "Boots get muddy either d
 
 Clara shifted the folder once, a paper whisper like punctuation. "Then decide before Henry invents another cup of tea. My quilt doesn't care about anyone's feelings. It cares what leaves this room, in which order."
 
-Freight complained again toward the yard. [player_name] thought of the station platform and the sticking blue door. Backing Clara meant walking downstairs with John close behind her and the folder between them like a third pulse. Waiting meant buying him a corridor before the clock ran down. Later, whichever she chose, there would be a locked door and his hands.
+The radiator ticked as it cooled. [player_name] thought of the station platform and the sticking blue door. Backing Clara meant walking downstairs with John close behind her and the folder between them like a third pulse. Waiting meant buying him a corridor before the clock ran down. Later, whichever she chose, there would be a locked door and his hands.
 
 Rain on the slate kept time. Clara's folder waited. John's thumb stayed on her pulse. [player_name] drew a breath that tasted of rain and graphite and opened her mouth to choose.`,
   choices: [

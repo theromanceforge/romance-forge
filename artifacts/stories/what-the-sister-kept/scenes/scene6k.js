@@ -61,13 +61,13 @@ He boxed her gently against the counter edge with his hips, the thick line of hi
 
 "Alley fire," she managed. "Then the sink. Soap. Panic ritual. He snaps what he can. He washes what he thinks water erases." Her voice shook. Held. "I hid his pier silhouette for seven years. I know the grammar of clean hands."
 
-"Good." His thumb circled her clit with stakeout patience, cruel and tender. She guided her own hand back to his cock through his jeans and felt him jerk. "When Solis and I—" He stopped against her throat. "Raid weather. A hallway. I wear charm so nobody asks. You ask anyway. I won't dump the whole hallway on you tonight. But it's here."
+"Good." His thumb circled her clit with stakeout patience, cruel and tender. She guided her own hand back to his cock through his jeans and felt him jerk. "When Solis and I—" He stopped against her throat. "Raid weather. A hallway. I play charming so nobody asks. You ask anyway. I won't dump the whole hallway on you tonight. But it's here."
 
 He added a third finger until she cried out softly against her own wrist. "Two ways," he said. "Trace the SIM, every clerk ghost, into warrants and gloves, and I keep tasting you between briefings. Or we choose each other now and break open, before the clerk dig eats the last hour that's still ours, and I put you on this counter and finish what my fingers started with my mouth." He withdrew to paint her lower lip. "Not yet. Not until you pick."
 
 She rocked once against his hip; he stopped her with exact control. "I could finish you right here," he whispered. "I won't. Not until you choose."
 
-Rain freckled the high window. He zipped her halfway and adjusted her collar, scar white under the strip light. The screen glowed M and soft and clerk. Ellison's unread texts burned in his pocket.
+Rain streaked the narrow window. He zipped her halfway and adjusted her collar, scar white under the strip light. The screen glowed M and soft and clerk. Ellison's unread texts burned in his pocket.
 
 Will turned her from the tray with two fingers at her jaw—gentle, absolute—and the touch shot straight to her cunt. "Trace the SIM—or choose me mid-war and break open," he said. "Pick the hurt that keeps truth reachable while phone ash cools and I can still smell your wetness under these fluorescents." Grease and soap and her own scent lived on his cracked knuckles. [player_name] pressed her thighs together and felt how ruined she was from proximity and evidence alone. Sink-trap chip. William Akers with badge honest, charm scraped raw, cock still arguing against the patience the lab required. Trace meant clerk-ghost grammar with her body unfinished. Break open meant spending the want the alley fire had not burned out—mid-war, mid-need—while hope kept its impossible job beside dread.`,
   choices: [

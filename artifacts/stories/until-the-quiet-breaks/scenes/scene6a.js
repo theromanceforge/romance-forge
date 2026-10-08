@@ -16,7 +16,7 @@ John turned pages the way he turned grill tickets, corner to corner, refusing to
 
 "Voss," [player_name] said. The name landed between them like a wet coat nobody wanted to hang. "The receipts carry him three times and then never. Clara circled the gaps. Look. Here, the exchange number on the back of a slip, like someone meant to call and chose silence instead. Here, the dates skip a week after your father's accident. And here, my name underlined twice, with a note that I agreed to go. For him. For you."
 
-John's jaw flexed. A freight horn complained toward the yard. He didn't look at her yet. He looked at the ink as if ink could be punched.
+John's jaw flexed. Rain ticked off the gutter in uneven beats. He didn't look at her yet. He looked at the ink as if ink could be punched.
 
 "For me," he repeated. "As if exile were a gift with a bow."
 

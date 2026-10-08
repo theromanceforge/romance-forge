@@ -55,7 +55,7 @@ She gathered herself the way she gathered a braid before a public trial. Breath,
 
 Cassian's glove found her wrist. Thumb on pulse. The shock traveled a clean, filthy line from her wrist to her clit and lodged there, throbbing. "Public naming forces hands," he murmured against her ear. "It doesn't finish you into a seal. Binding with me at your back, or broadcast until every corridor chokes. I walk either."
 
-[player_name] was wet enough to feel it when she shifted her weight. Isolde watched their mouths as if heat were evidence. It was.
+[player_name] was wet enough to feel it when she shifted her weight. Isolde's gaze dropped to her thighs and stayed there long enough to count.
 
 She read the names with her whole body. Every Latin singer went through her like a nail drawn slowly down her spine. Not pain. Want. The body's stupid translation of risk into heat.
 

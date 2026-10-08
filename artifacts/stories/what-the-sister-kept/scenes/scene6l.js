@@ -10,7 +10,7 @@ Will stood sleep-deprived, scar through the eyebrow, cracked notebook closed har
 
 "Say it plain," Will said, voice flat as planed wood. "You obstructed a homicide revival to protect a stepfather who made breakfast with clean hands and a pier silhouette you hid for seven years. You dialed. You warned. Soft failed partly because panic found a stairwell. I can work with guilt. I can't work with a partner who pretends the tip was weather."
 
-[player_name]'s mouth tasted of rain. She was still not ready to hear a detective offer breaking up and breaking open in the same breath. "I was afraid you'd push early. I was afraid Owen would burn the map. I was afraid Renny's maybe-bones would become a clearance story before Cho finished speaking. Fear isn't a virtue. It's also not the same as wanting you gone."
+[player_name] licked rain from her lip. She was still not ready to hear a detective offer breaking up and breaking open in the same breath. "I was afraid you'd push early. I was afraid Owen would burn the map. I was afraid Renny's maybe-bones would become a clearance story before Cho finished speaking. Fear isn't a virtue. It's also not the same as wanting you gone."
 
 "Wanting me gone would be cleaner." Will's late smile arrived wrong, no velvet. "Cleaner than standing in your kitchen asking whether we break up so Ellison gets a tidy witness file, or break open so the tip becomes a scar we both touch instead of a silence I already know how to wear." His knuckles whitened on the chair back. A hallway joke almost rose, kids in hallways, and died mid-breath. "I pushed early once. A partner took the official weather. I kept a badge. Going soft on Owen was me spending that on your ask. You spent a tip on your fear. Ledger entries, both of us. Now we deal with what comes after."
 
@@ -63,13 +63,13 @@ He withdrew to paint her lower lip, then pressed her palm to his cock through hi
 
 Will paced once, coat dripping, then boxed her against the counter again, mouth on her jaw. "If we choose each other now, I'll still be angry in the elevator after, and I'll put you against a blind wall and finish this with my mouth. If we take the raid call first, I'll keep you aching through the briefing. Anger doesn't cancel us. Want doesn't cancel the entry."
 
-His hand returned under her open jeans, not thrusting, just cupping, holding her on the edge. Rain thickened on the glass. His free hand cupped the back of her neck, thumb stroking her hairline. "Two ways," he murmured, voice frayed. "Choose each other, and I take you apart in this kitchen until you come quietly enough for the foghorns. Or take the shoot/don't-shoot call as the pressure test and let consequence decide." He added a third finger until she cried out against his teeth, then stopped, exact, cruel, tender. "Not yet. Not until you pick."
+His hand returned under her open jeans, not thrusting, just cupping, holding her on the edge. The downpour hammered harder at the window. His free hand cupped the back of her neck, thumb stroking her hairline. "Two ways," he murmured, voice frayed. "Choose each other, and I take you apart in this kitchen until you come quietly enough for the foghorns. Or take the shoot/don't-shoot call as the pressure test and let consequence decide." He added a third finger until she cried out against his teeth, then stopped, exact, cruel, tender. "Not yet. Not until you pick."
 
 She tasted herself and wet wool. His scar brushed her forehead when he leaned.
 
 [player_name] held his gaze with her pulse loud between her legs. Tip alive. William Akers with badge honest and charm scraped raw and cock still arguing against patience. Choose each other mid-war. Or take the raid call.
 
-He set both their palms flat on either side of the badge, his covering hers, cracked knuckle white, pulse jumping into her skin. "Choosing each other means I stay," Will said, voice wrecked. "The raid call means we earn staying under fish-rot air and radio crackle. Either way, I leave this kitchen changed."`,
+He set both their palms flat on either side of the badge, his covering hers, cracked knuckle white, pulse jumping into her skin. "Choosing each other means I stay," Will said, voice wrecked. "The raid call means we earn staying under fish-rot air and radio crackle. Whichever it is, I don't walk out of this kitchen the same."`,
   choices: [
     { id: "scene7l", text: "Choose each other mid-war", textHot: "Choose each other mid-war" },
     { id: "scene7m", text: "Take the raid shoot/don't-shoot call", textHot: "Take the raid shoot/don't-shoot call" }
