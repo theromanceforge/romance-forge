@@ -2269,8 +2269,8 @@ body {
   display: block;
   width: 100%;
   height: auto;
-  /* Wide ballpark art: keep both edge figures in frame (not a tight 4:5 center crop). */
-  aspect-ratio: 4 / 3;
+  /* Wide ballpark art: keep both edge figures in frame at mobile (~390) and desktop. */
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   object-position: center center;
 }
