@@ -2,36 +2,160 @@ export default {
   id: "scene8c",
   layer: 8,
   title: "Night Truth",
-  text: `Night truth meant [player_name] read aloud, in Nolan Greer's bed, what she had seen and chosen not to name when Vivienne's calendar thinned. Early thirties, neighbor across the hall—sheets and Crownspire wind sheer made the confession feel both intimate and evidentiary. Detective Imani Brooks's homicide interest rose downstairs without a body.
+  text: `His apartment was dark except for the city through the blinds, striping the sheets in pale bars. [player_name] lay on her side facing Nolan Greer. Close enough to feel his breath. Far enough that the gap between them could still hold a secret. It wouldn't hold much longer.
 
-"Say it," Nolan murmured, mid-forties, finance and tech holding, brutal charm never clean-cut. His cufflinks rested on the nightstand like abandoned tells. "What you saw. Soft alibi stops working if you keep the gap only in your throat." Elevator chime trembled in the private shaft. Unused perfume from the master bath she should not know floated like a third witness. Marcus Pell would prefer traveling. Rhea Quinn's slate still held thinning marks.
+"Tell me," Nolan said. He didn't reach for her. He had learned that reaching made her stop talking.
 
-[player_name] named the night: a bag, a conversation fragment, a bruise of absence, the black car idle that Rhea had almost logged. She did not invent death. She did not invent willing leave. Reading aloud only proved she had been invited into gaps—and that Vivienne's cadence could still be method or coincidence depending on which fear she fed.
+She had carried it since the night she saw it. She had carried it through Brooks's badge in the lobby. Through the gray recorder taped to her ribs. Through hangar nine with its covered camera lens. She had carried it so long it had grown a shape inside her, like a stone swallowed whole.
 
-Wine rings on marble in the other room looked like complicity diagrams. Across the hall, her own apartment waited with clearer conscience and colder sheets. Soft still meant pliable evidence; soft also meant truth spoken into a mouth that might still protect or burn her.
+"The car," she said. "The night Vivienne went. A black car at the curb. It idled too long."
 
-"Mercy-rewrite what you'll swear for Brooks," Nolan said, almost kind, "or blow Crownspire's silence open. Neither settles Vivienne. Both spend us."
+Nolan went very still.
 
-She catalogued the night-truth the way Brooks would: spoken gap, no settled corpse, hope and dread sharing the pillow. Crownspire held its hush. [player_name] felt the words watching her back as surely as Nolan did, and understood that reading them had already changed which soft she could still claim.`,
-  textHot: `Night truth heat began with [player_name] astride unfinished want, Nolan Greer's hands at her hips while she read what she had seen into the dark above his mouth. Early thirties, across-the-hall aching, sheets twisted, mid-forties money under her like a held breath. Vivienne's unused perfume haunted the corridor as third heat. Soft alibi had a pulse; speaking the gap aloud made it hammer between her legs and her throat at once.
+"How long?"
 
-"Read," he said, thumb stroking the crease of her hip. Rain-money cologne. Cufflinks abandoned like false calm. Brooks's homicide interest vibrated through glass without a corpse.
+"Long enough that I noticed. Long enough that I stood at my window and counted." She swallowed. "Eleven minutes. Then she came out."
 
-She named the bag, the fragment, the bruise of absence, thighs tight, nipples tight under nothing. Soft alibi cooperation wore a body. His hips lifted; the almost made her ache louder than the confession.
+"With what?"
 
-"Mercy-rewrite what you'll swear," he murmured against her sternum, "or open Crownspire's silence. Both leave you wet with consequence. Neither boxes my wife."
+"A small bag. Not a suitcase. The kind you take for a weekend you're not sure you'll come back from." Her voice wavered, then steadied. "And perfume. She had a bottle in her hand. She capped it on the steps, like she'd sprayed it on her way out the door and forgotten to put it down."
 
-She arched, fine and furious, perfume-haunted. "If I soften the swear, I keep your hands and quieter teeth." A beat. "If I open it, I become public heat with your mouth still unfinished on mine."`,
+The bars of light lay across his face. She watched his eyes go wet and not spill.
+
+"She always did that," Nolan said quietly. "Sprayed it at the door. Like a period at the end of a sentence."
+
+"I didn't see her get in," she said. "I need you to know that. I saw her on the steps with the bag and the bottle. Then a bus came between us. When it passed, the car was gone. So was she."
+
+"You didn't see anyone hurt her."
+
+"No."
+
+"You didn't see her fight."
+
+"No. I didn't see anything after the bus." She pressed her palm flat on the sheet between them. "That's why I never said it. Because it isn't anything. It's a car and a bag and a bottle and eleven minutes. Brooks would make it a kidnapping. Pell would make it a vacation. The board would make it whatever kept the stock price up."
+
+"And what do you make it?"
+
+She breathed out. "I make it the last time I saw her. That's all I'm sure of."
+
+He was quiet for a long moment. Then he reached — slowly, giving her time — and put his hand over hers on the sheet. His palm was warm. His fingers shook once, then didn't.
+
+"Thank you," Nolan said.
+
+It undid her more than anger would have. She had braced for accusation. *Why didn't you tell me?* *Why did you let me sit in that hearing alone?* Instead he thanked her, and the thanks sat on her chest like a second body.
+
+"I should have said it before the raid," she whispered.
+
+"You said it now." His thumb moved across her knuckles. "That counts."
+
+She didn't feel clean. She had thought confession would feel like rinsing. It felt like opening a window in winter. The cold came in. So did air.
+
+"What do we do with it?" Nolan asked.
+
+She wanted to take it into Crownspire's glass. Board. Prosecutor. Every silence Greer Meridian had sold for years, cracked open on the word of the woman across the street. The urge sat hot in her throat. Her hand, resting on his chest, already wanted to edit — leave out the eleven minutes, leave out the bus. Keep only what Brooks could use without building a case on a sidewalk.
+
+"I don't know," she said.
+
+"You don't have to know tonight."
+
+"Brooks has until Friday. So do I."
+
+He drew her closer. Not a kiss. Just closer, until her forehead rested on his collarbone and she could hear his heart working under the bone. It was fast. Faster than his voice.
+
+"Whatever you swear," Nolan said into her hair, "I'll stand next to it. Small or loud."
+
+She believed him. That was the worst part. She believed him completely, and it left nobody to blame but herself for whatever she said next.
+
+"Did you ever think she left on her own?" she asked.
+
+Nolan took a long time to answer. "Every night for a month," Nolan said. "Then I stopped letting myself. It hurt less to believe someone took her than to believe she chose a car over a conversation."
+
+She turned her hand under his so their palms met. She didn't tell him what the paperback might mean, because she didn't know. She only knew she wanted to hold the stone and his hand at the same time, and couldn't do both forever.
+
+The radiator ticked. Somewhere below, a taxi leaned on its horn and gave up. She lay against him and thought of the bus passing, the car gone, the bottle capped on the steps like a period. She thought of the paperback in the packed bag. You don't pack a book for a weekend you mean to die in.
+
+Or maybe you do. Maybe you pack it so whoever finds the bag thinks you meant to come back.
+
+She lifted her head. His face was inches away, striped by the blinds, eyes still wet. She wanted to kiss him so badly her lips hurt.
+
+She didn't. Not yet. She held his gaze, mouth almost on his. She felt his heart against her palm, still too fast. She matched her breathing to it one careful second at a time.`,
+  textHot: `His bedroom was dark except for the city through the blinds, laying pale bars across the sheets and across her bare hip. [player_name] lay facing Nolan Greer with her knee against his thigh and her pulse still loud from the last hour. His skin was warm. Hers was damp at the backs of her knees, at the small of her back, between her legs where he had stopped on purpose.
+
+"Tell me," Nolan said. He didn't move his hand from her waist. He didn't move it lower either.
+
+She had carried it since the night she saw it. Through Brooks's badge, the gray recorder taped to her ribs, hangar nine with its covered lens. It had lived under her breastbone like a swallowed stone, and right now, naked and wanting, she felt it press against every breath.
+
+"The car," she said. "The night Vivienne went. A black car at the curb. It idled too long."
+
+His fingers stilled on her waist. The stillness ran straight down her spine.
+
+"How long?"
+
+"Eleven minutes. I counted from my window." Her nipples were tight in the cool air. She didn't cover them. "Then she came out with a small bag. Not a suitcase. And perfume. She capped the bottle on the steps, like she'd sprayed it at the door and forgotten to set it down."
+
+Nolan's breath caught. She felt it in his chest against her breasts before she heard it.
+
+"She always did that," Nolan said, rough. "Sprayed it at the door."
+
+"A bus came between us," she said. "When it passed, the car was gone. So was she. I didn't see her get in. I didn't see anyone touch her. I don't know anything except eleven minutes and a bag and a bottle."
+
+She waited for anger. Her whole body braced for it, belly tight, thighs pressed together.
+
+Instead he pulled her in until her forehead found his collarbone. "Thank you," Nolan said into her hair.
+
+The thanks went through her like heat through glass. Her throat closed. Her cunt clenched around nothing, absurd and helpless, because being believed felt more intimate than being touched.
+
+"I should have said it before the raid," she whispered against his skin.
+
+"You said it now." His palm slid from her waist to the curve of her ass and rested there, heavy, not moving. "That counts."
+
+She didn't feel clean. She felt opened. Like a window in winter, cold air and clean air coming in together, raising gooseflesh down her arms.
+
+"What do we do with it?" Nolan asked.
+
+She wanted to carry it out of his bed and into Crownspire's glass. Board. Prosecutor. Crack the bought silence on her own mouth. The urge made her stomach drop and her cunt clench at once. Her fingers, splayed on his chest, already wanted to edit — keep the car and the bag, lose the eleven minutes. Leave Brooks circling without a sidewalk to stand on.
+
+"I don't know," she said.
+
+"Brooks has until Friday," Nolan said. "You don't owe her tonight."
+
+His heart was fast under her ear. Faster than his voice. She pressed her mouth to the bone above it, not quite a kiss, and felt him harden against her hip.
+
+"Whatever you swear," Nolan said, "I'll stand next to it. Small or loud."
+
+She believed him. That was the terrible part. Believing him left her nobody to hide behind, and her body didn't want to hide. Her body wanted his hand to move.
+
+"Did you ever think she left on her own?" she asked.
+
+Nolan was quiet. His hand stayed where it was, warm on her skin, while his breathing slowed and caught. "Every night for a month," Nolan said. "Then I stopped letting myself. It hurt less to think someone took her."
+
+The honesty made her ache in a new place, under her ribs, and lower. She slid her palm flat on his chest and felt his heart slam against it. She wanted to tell him the paperback meant something. She didn't know what it meant. She only knew her body wanted to comfort him with skin, and her mind wanted to keep the stone where it was a little longer.
+
+She shifted her hips. His fingers tightened on her ass, then held still. A question. Her answer was the slow press of her thigh over his, opening herself against his leg, wet and shameless.
+
+"Not yet," Nolan said, voice gone low. "You're still deciding. I can feel it."
+
+"Feel what?"
+
+"You go tight when you think about Brooks." His thumb drew one slow line along the crease of her thigh, close and not close enough. "And soft when you think about me."
+
+She laughed, shaky. Her clit throbbed with every heartbeat. She thought of the bus passing, the car gone, the bottle capped like a period. She thought of the paperback in the packed bag. You don't pack a book for a weekend you mean to die in. Or maybe you do, so whoever finds the bag thinks you meant to come back.
+
+The radiator ticked. A taxi leaned on its horn below and gave up.
+
+She lifted her head. His face was inches away, striped by the blinds, eyes wet, mouth parted. Her lips hurt with wanting his.
+
+She held there. Breath to breath. Her thigh over his, his thumb one inch from where she ached. She didn't close the distance. She rocked once against his leg instead, slow, and bit his shoulder to keep from begging.`,
   choices: [
       {
           "id": "scene9b",
           "text": "Mercy-rewrite what you will swear",
-          "textHot": "Mercy-rewrite while still astride unfinished heat"
+          "textHot": "Mercy-rewrite while night-truth still has your body open"
       },
       {
           "id": "scene9c",
           "text": "Blow Crownspire's silence open",
-          "textHot": "Open Crownspire with his mouth still on your sternum"
+          "textHot": "Blow Crownspire open while his mouth still tastes like the hour you hid"
       }
   ]
 };
