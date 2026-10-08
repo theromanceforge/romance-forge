@@ -1,0 +1,2316 @@
+{
+  "until-the-quiet-breaks": {
+    "intra": [],
+    "overused": [
+      {
+        "sample": "\"I won't love you less.",
+        "n": 10,
+        "scenes": [
+          "scene7l",
+          "scene8a",
+          "scene8b",
+          "scene8e",
+          "scene8f",
+          "scene8g",
+          "scene8h",
+          "scene8j",
+          "scene8m",
+          "scene8o"
+        ],
+        "hits": [
+          "scene7l.H",
+          "scene8a.H",
+          "scene8b.H",
+          "scene8e.H",
+          "scene8f.H",
+          "scene8g.H",
+          "scene8h.H",
+          "scene8j.H",
+          "scene8m.H",
+          "scene8o.H"
+        ]
+      },
+      {
+        "sample": "\"I'll only need to be inside you after.",
+        "n": 7,
+        "scenes": [
+          "scene7h",
+          "scene7l",
+          "scene8c",
+          "scene8f",
+          "scene8g",
+          "scene8j",
+          "scene8o"
+        ],
+        "hits": [
+          "scene7h.H",
+          "scene7l.H",
+          "scene8c.H",
+          "scene8f.H",
+          "scene8g.H",
+          "scene8j.H",
+          "scene8o.H"
+        ]
+      },
+      {
+        "sample": "[player_name] tasted copper and rain.",
+        "n": 6,
+        "scenes": [
+          "scene6d",
+          "scene6h",
+          "scene7o",
+          "scene8a",
+          "scene8b",
+          "scene8k"
+        ],
+        "hits": [
+          "scene6d.W",
+          "scene6h.H",
+          "scene7o.W",
+          "scene8a.W",
+          "scene8b.W",
+          "scene8k.W"
+        ]
+      },
+      {
+        "sample": "Wet boxwood pressed the glass.",
+        "n": 6,
+        "scenes": [
+          "scene6k",
+          "scene7c",
+          "scene7m",
+          "scene8a",
+          "scene8b",
+          "scene8h"
+        ],
+        "hits": [
+          "scene6k.W",
+          "scene7c.H",
+          "scene7m.W",
+          "scene8a.H",
+          "scene8b.H",
+          "scene8h.H"
+        ]
+      },
+      {
+        "sample": "[player_name] walked to the window.",
+        "n": 5,
+        "scenes": [
+          "scene7a",
+          "scene7g",
+          "scene7k",
+          "scene8c",
+          "scene9g"
+        ],
+        "hits": [
+          "scene7a.H",
+          "scene7g.W",
+          "scene7k.W",
+          "scene8c.W",
+          "scene9g.W"
+        ]
+      },
+      {
+        "sample": "His pulse showed at his throat.",
+        "n": 4,
+        "scenes": [
+          "scene5m",
+          "scene6j",
+          "scene6l",
+          "scene6p"
+        ],
+        "hits": [
+          "scene5m.W",
+          "scene6j.W",
+          "scene6j.H",
+          "scene6l.W",
+          "scene6p.W"
+        ]
+      },
+      {
+        "sample": "Both keep me hard enough to hurt.",
+        "n": 4,
+        "scenes": [
+          "scene6e",
+          "scene6h",
+          "scene7f",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6e.H",
+          "scene6h.H",
+          "scene7f.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "Anger and want in the same fist.",
+        "n": 4,
+        "scenes": [
+          "scene6e",
+          "scene6h",
+          "scene7g",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6e.H",
+          "scene6h.H",
+          "scene7g.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "John's mouth tilted, wrecked and almost smiling.",
+        "n": 4,
+        "scenes": [
+          "scene6h",
+          "scene7g",
+          "scene7i",
+          "scene7k"
+        ],
+        "hits": [
+          "scene6h.W",
+          "scene7g.W",
+          "scene7i.W",
+          "scene7k.W"
+        ]
+      },
+      {
+        "sample": "John's thumb stroked once at [player_name]'s pulse.",
+        "n": 4,
+        "scenes": [
+          "scene6h",
+          "scene7h",
+          "scene8a",
+          "scene8m"
+        ],
+        "hits": [
+          "scene6h.W",
+          "scene7h.W",
+          "scene8a.H",
+          "scene8m.W"
+        ]
+      },
+      {
+        "sample": "A delivery truck hissed past.",
+        "n": 4,
+        "scenes": [
+          "scene6h",
+          "scene7h",
+          "scene7l",
+          "scene8k"
+        ],
+        "hits": [
+          "scene6h.H",
+          "scene7h.H",
+          "scene7l.H",
+          "scene8k.H"
+        ]
+      },
+      {
+        "sample": "Mae's gold lettering fogged and cleared.",
+        "n": 4,
+        "scenes": [
+          "scene7k",
+          "scene8c",
+          "scene8e",
+          "scene8g"
+        ],
+        "hits": [
+          "scene7k.W",
+          "scene8c.W",
+          "scene8e.W",
+          "scene8g.W"
+        ]
+      },
+      {
+        "sample": "\"Then stop explaining and choose,\" John murmured.",
+        "n": 4,
+        "scenes": [
+          "scene8a",
+          "scene8b",
+          "scene8c",
+          "scene8d"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene8b.W",
+          "scene8c.W",
+          "scene8d.W"
+        ]
+      },
+      {
+        "sample": "Almost gentle, which was sharper than shouting.",
+        "n": 4,
+        "scenes": [
+          "scene8c",
+          "scene8d",
+          "scene8f",
+          "scene8g"
+        ],
+        "hits": [
+          "scene8c.W",
+          "scene8d.W",
+          "scene8f.W",
+          "scene8g.W"
+        ]
+      },
+      {
+        "sample": "Don't invent a third road where nobody gets muddy.\"",
+        "n": 4,
+        "scenes": [
+          "scene8e",
+          "scene8f",
+          "scene8g",
+          "scene8h"
+        ],
+        "hits": [
+          "scene8e.H",
+          "scene8f.H",
+          "scene8g.H",
+          "scene8h.H"
+        ]
+      },
+      {
+        "sample": "Fifteen years ago she had left believing silence would protect him.",
+        "n": 4,
+        "scenes": [
+          "scene9a",
+          "scene9h",
+          "scene10a",
+          "scene10c"
+        ],
+        "hits": [
+          "scene9a.W",
+          "scene9h.W",
+          "scene10a.W",
+          "scene10c.W"
+        ]
+      },
+      {
+        "sample": "Your face on the station steps.",
+        "n": 3,
+        "scenes": [
+          "scene2b",
+          "scene3c",
+          "scene4a"
+        ],
+        "hits": [
+          "scene2b.W",
+          "scene3c.W",
+          "scene3c.H",
+          "scene4a.W",
+          "scene4a.H"
+        ]
+      },
+      {
+        "sample": "I practiced being the girl who wanted more until the practice became a life.",
+        "n": 3,
+        "scenes": [
+          "scene2b",
+          "scene3c",
+          "scene4a"
+        ],
+        "hits": [
+          "scene2b.W",
+          "scene2b.H",
+          "scene3c.W",
+          "scene4a.W"
+        ]
+      },
+      {
+        "sample": "A winter road black with ice.",
+        "n": 3,
+        "scenes": [
+          "scene3c",
+          "scene4b",
+          "scene4d"
+        ],
+        "hits": [
+          "scene3c.H",
+          "scene4b.W",
+          "scene4b.H",
+          "scene4d.H"
+        ]
+      },
+      {
+        "sample": "John did not look away.",
+        "n": 3,
+        "scenes": [
+          "scene3d",
+          "scene7e",
+          "scene9a"
+        ],
+        "hits": [
+          "scene3d.W",
+          "scene7e.W",
+          "scene9a.W"
+        ]
+      },
+      {
+        "sample": "The blue door was locked.",
+        "n": 3,
+        "scenes": [
+          "scene4b",
+          "scene5d",
+          "scene10e"
+        ],
+        "hits": [
+          "scene4b.H",
+          "scene5d.H",
+          "scene10e.W"
+        ]
+      },
+      {
+        "sample": "Do you understand how fucked that is?\"",
+        "n": 3,
+        "scenes": [
+          "scene5m",
+          "scene6b",
+          "scene6o"
+        ],
+        "hits": [
+          "scene5m.H",
+          "scene6b.H",
+          "scene6o.H"
+        ]
+      },
+      {
+        "sample": "Fryer oil ticked toward cold.",
+        "n": 3,
+        "scenes": [
+          "scene5p",
+          "scene6c",
+          "scene7k"
+        ],
+        "hits": [
+          "scene5p.W",
+          "scene6c.W",
+          "scene7k.W"
+        ]
+      },
+      {
+        "sample": "John's forehead dropped to hers.",
+        "n": 3,
+        "scenes": [
+          "scene6b",
+          "scene6p",
+          "scene8d"
+        ],
+        "hits": [
+          "scene6b.H",
+          "scene6p.H",
+          "scene8d.H"
+        ]
+      },
+      {
+        "sample": "I won't choose for you.\"",
+        "n": 3,
+        "scenes": [
+          "scene6c",
+          "scene7g",
+          "scene9e"
+        ],
+        "hits": [
+          "scene6c.H",
+          "scene7g.H",
+          "scene9e.W",
+          "scene9e.H"
+        ]
+      },
+      {
+        "sample": "She could have come from the sentence alone.",
+        "n": 3,
+        "scenes": [
+          "scene6e",
+          "scene6h",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6e.H",
+          "scene6h.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "John felt the fight and eased.",
+        "n": 3,
+        "scenes": [
+          "scene6e",
+          "scene6h",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6e.H",
+          "scene6h.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "His fingers stayed buried, his strokes gentled to a throb that matched the rain.",
+        "n": 3,
+        "scenes": [
+          "scene6e",
+          "scene6h",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6e.H",
+          "scene6h.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "His thumb found her clit.",
+        "n": 3,
+        "scenes": [
+          "scene6h",
+          "scene7i",
+          "scene10g"
+        ],
+        "hits": [
+          "scene6h.H",
+          "scene7i.H",
+          "scene10g.H"
+        ]
+      },
+      {
+        "sample": "The blue door stuck like a promise that needed force.",
+        "n": 3,
+        "scenes": [
+          "scene6h",
+          "scene7e",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6h.H",
+          "scene7e.W",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "\"I'll only need you after.",
+        "n": 3,
+        "scenes": [
+          "scene6h",
+          "scene7e",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6h.H",
+          "scene7e.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "Rain needled the slate roof.",
+        "n": 3,
+        "scenes": [
+          "scene6i",
+          "scene6k",
+          "scene10f"
+        ],
+        "hits": [
+          "scene6i.W",
+          "scene6k.W",
+          "scene10f.W"
+        ]
+      },
+      {
+        "sample": "Woodsmoke thickened near the ceiling.",
+        "n": 3,
+        "scenes": [
+          "scene6m",
+          "scene7o",
+          "scene8n"
+        ],
+        "hits": [
+          "scene6m.W",
+          "scene7o.W",
+          "scene8n.W"
+        ]
+      },
+      {
+        "sample": "Trust was the real question.",
+        "n": 3,
+        "scenes": [
+          "scene7b",
+          "scene8i",
+          "scene8j"
+        ],
+        "hits": [
+          "scene7b.W",
+          "scene8i.W",
+          "scene8j.W"
+        ]
+      },
+      {
+        "sample": "The CLOSED sign hung crooked.",
+        "n": 3,
+        "scenes": [
+          "scene7b",
+          "scene7k",
+          "scene8c"
+        ],
+        "hits": [
+          "scene7b.H",
+          "scene7k.H",
+          "scene8c.H"
+        ]
+      },
+      {
+        "sample": "\"I won't love you less for either.",
+        "n": 3,
+        "scenes": [
+          "scene7e",
+          "scene8a",
+          "scene8b"
+        ],
+        "hits": [
+          "scene7e.H",
+          "scene8a.W",
+          "scene8b.W"
+        ]
+      },
+      {
+        "sample": "It's refusing another decade of practiced belief.\"",
+        "n": 3,
+        "scenes": [
+          "scene7h",
+          "scene8e",
+          "scene8g"
+        ],
+        "hits": [
+          "scene7h.H",
+          "scene8e.H",
+          "scene8g.H"
+        ]
+      },
+      {
+        "sample": "His thumb found her wrist.",
+        "n": 3,
+        "scenes": [
+          "scene8b",
+          "scene8c",
+          "scene8m"
+        ],
+        "hits": [
+          "scene8b.W",
+          "scene8c.W",
+          "scene8m.H"
+        ]
+      },
+      {
+        "sample": "[player_name] tasted copper and coffee.",
+        "n": 3,
+        "scenes": [
+          "scene8c",
+          "scene8j",
+          "scene8m"
+        ],
+        "hits": [
+          "scene8c.W",
+          "scene8j.W",
+          "scene8m.H"
+        ]
+      },
+      {
+        "sample": "[player_name] thought of fifteen years of practiced belief in the girl who wanted more.",
+        "n": 3,
+        "scenes": [
+          "scene8e",
+          "scene8f",
+          "scene8h"
+        ],
+        "hits": [
+          "scene8e.W",
+          "scene8f.W",
+          "scene8h.W"
+        ]
+      },
+      {
+        "sample": "\"Then decide before the regulars rattle the latch.",
+        "n": 3,
+        "scenes": [
+          "scene8f",
+          "scene8g",
+          "scene8k"
+        ],
+        "hits": [
+          "scene8f.H",
+          "scene8g.H",
+          "scene8k.H"
+        ]
+      },
+      {
+        "sample": "It cares what leaves your mouth, and in which order.\"",
+        "n": 3,
+        "scenes": [
+          "scene8f",
+          "scene8g",
+          "scene8h"
+        ],
+        "hits": [
+          "scene8f.H",
+          "scene8g.H",
+          "scene8h.H"
+        ]
+      },
+      {
+        "sample": "\"Then stop explaining and choose,\" he said.",
+        "n": 3,
+        "scenes": [
+          "scene8g",
+          "scene8h",
+          "scene8o"
+        ],
+        "hits": [
+          "scene8g.W",
+          "scene8h.W",
+          "scene8o.W"
+        ]
+      },
+      {
+        "sample": "His thumb traced her knuckles.",
+        "n": 3,
+        "scenes": [
+          "scene8l",
+          "scene9a",
+          "scene10c"
+        ],
+        "hits": [
+          "scene8l.W",
+          "scene9a.W",
+          "scene10c.W"
+        ]
+      },
+      {
+        "sample": "John tipped her chin up.",
+        "n": 3,
+        "scenes": [
+          "scene8l",
+          "scene9a",
+          "scene9e"
+        ],
+        "hits": [
+          "scene8l.W",
+          "scene9a.W",
+          "scene9e.W"
+        ]
+      },
+      {
+        "sample": "The press of his chest.",
+        "n": 3,
+        "scenes": [
+          "scene9a",
+          "scene10a",
+          "scene10c"
+        ],
+        "hits": [
+          "scene9a.W",
+          "scene10a.W",
+          "scene10c.W"
+        ]
+      },
+      {
+        "sample": "The catch of his breath.",
+        "n": 3,
+        "scenes": [
+          "scene9a",
+          "scene10a",
+          "scene10c"
+        ],
+        "hits": [
+          "scene9a.W",
+          "scene10a.W",
+          "scene10c.W"
+        ]
+      },
+      {
+        "sample": "\"Wanting you was never the hard part.",
+        "n": 3,
+        "scenes": [
+          "scene10a",
+          "scene10d",
+          "scene10e"
+        ],
+        "hits": [
+          "scene10a.W",
+          "scene10d.W",
+          "scene10e.W"
+        ]
+      }
+    ]
+  },
+  "what-the-sister-kept": {
+    "intra": [],
+    "overused": [
+      {
+        "sample": "[player_name] thought of Renny's hoodie folded in a drawer.",
+        "n": 5,
+        "scenes": [
+          "scene6m",
+          "scene6n",
+          "scene6o",
+          "scene6p",
+          "scene7n"
+        ],
+        "hits": [
+          "scene6m.W",
+          "scene6n.W",
+          "scene6o.W",
+          "scene6p.W",
+          "scene7n.W"
+        ]
+      },
+      {
+        "sample": "The silver charm was still only like.",
+        "n": 4,
+        "scenes": [
+          "scene8e",
+          "scene8f",
+          "scene8g",
+          "scene8h"
+        ],
+        "hits": [
+          "scene8e.W",
+          "scene8f.W",
+          "scene8g.W",
+          "scene8h.W"
+        ]
+      },
+      {
+        "sample": "Dr. Lila Cho's remains still waited upriver without a name: a timing lean, a charm consistent but not unique, an age range ugly with hope.",
+        "n": 4,
+        "scenes": [
+          "scene8i",
+          "scene8j",
+          "scene8k",
+          "scene8l"
+        ],
+        "hits": [
+          "scene8i.W",
+          "scene8j.W",
+          "scene8k.W",
+          "scene8l.W"
+        ]
+      },
+      {
+        "sample": "Teeth are how I wait.",
+        "n": 3,
+        "scenes": [
+          "scene5m",
+          "scene6m",
+          "scene7m"
+        ],
+        "hits": [
+          "scene5m.W",
+          "scene6m.W",
+          "scene6m.H",
+          "scene7m.W"
+        ]
+      },
+      {
+        "sample": "The charm is probable, not a funeral.",
+        "n": 3,
+        "scenes": [
+          "scene6o",
+          "scene7n",
+          "scene8n"
+        ],
+        "hits": [
+          "scene6o.H",
+          "scene7n.W",
+          "scene8n.W"
+        ]
+      },
+      {
+        "sample": "Across town, Renny's hoodie was still folded; the silver charm gap ached like a tooth.",
+        "n": 3,
+        "scenes": [
+          "scene8i",
+          "scene8j",
+          "scene8k"
+        ],
+        "hits": [
+          "scene8i.W",
+          "scene8j.W",
+          "scene8k.W"
+        ]
+      },
+      {
+        "sample": "Charm upstairs still only like.",
+        "n": 3,
+        "scenes": [
+          "scene9b",
+          "scene9c",
+          "scene9d"
+        ],
+        "hits": [
+          "scene9b.W",
+          "scene9c.W",
+          "scene9d.W"
+        ]
+      }
+    ]
+  },
+  "the-living-key": {
+    "intra": [],
+    "overused": [
+      {
+        "sample": "[player_name]'s cracked charm ticked.",
+        "n": 14,
+        "scenes": [
+          "scene5f",
+          "scene5l",
+          "scene6b",
+          "scene6f",
+          "scene6o",
+          "scene7b",
+          "scene7f",
+          "scene7k",
+          "scene7m",
+          "scene7p",
+          "scene8k",
+          "scene8p",
+          "scene9b",
+          "scene9d"
+        ],
+        "hits": [
+          "scene5f.W",
+          "scene5l.W",
+          "scene6b.W",
+          "scene6f.W",
+          "scene6o.W",
+          "scene7b.W",
+          "scene7f.W",
+          "scene7k.W",
+          "scene7m.W",
+          "scene7p.W",
+          "scene8k.W",
+          "scene8p.W",
+          "scene9b.W",
+          "scene9d.W"
+        ]
+      },
+      {
+        "sample": "Cassian's mouth flicked, a blade in velvet.",
+        "n": 8,
+        "scenes": [
+          "scene5a",
+          "scene6m",
+          "scene7b",
+          "scene7c",
+          "scene7e",
+          "scene7g",
+          "scene7h",
+          "scene8d"
+        ],
+        "hits": [
+          "scene5a.W",
+          "scene6m.W",
+          "scene7b.W",
+          "scene7c.W",
+          "scene7e.W",
+          "scene7g.W",
+          "scene7h.W",
+          "scene8d.W"
+        ]
+      },
+      {
+        "sample": "Cassian's glove brushed her wrist.",
+        "n": 7,
+        "scenes": [
+          "scene4a",
+          "scene6a",
+          "scene9b",
+          "scene9c",
+          "scene9e",
+          "scene9h",
+          "scene10a"
+        ],
+        "hits": [
+          "scene4a.W",
+          "scene6a.W",
+          "scene9b.W",
+          "scene9c.W",
+          "scene9e.W",
+          "scene9h.W",
+          "scene10a.W"
+        ]
+      },
+      {
+        "sample": "Charm ticking between her breasts.",
+        "n": 7,
+        "scenes": [
+          "scene7m",
+          "scene8i",
+          "scene8l",
+          "scene8p",
+          "scene9a",
+          "scene9f",
+          "scene9g"
+        ],
+        "hits": [
+          "scene7m.H",
+          "scene8i.H",
+          "scene8l.H",
+          "scene8p.H",
+          "scene9a.H",
+          "scene9f.H",
+          "scene9g.H"
+        ]
+      },
+      {
+        "sample": "The shock went to her clit.",
+        "n": 6,
+        "scenes": [
+          "scene5g",
+          "scene6f",
+          "scene7b",
+          "scene7c",
+          "scene7e",
+          "scene7h"
+        ],
+        "hits": [
+          "scene5g.H",
+          "scene6f.H",
+          "scene7b.H",
+          "scene7c.H",
+          "scene7e.H",
+          "scene7h.H"
+        ]
+      },
+      {
+        "sample": "With him in the room.",
+        "n": 6,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7c",
+          "scene7e",
+          "scene8b",
+          "scene8n"
+        ],
+        "hits": [
+          "scene6a.W",
+          "scene7a.W",
+          "scene7c.W",
+          "scene7e.W",
+          "scene8b.W",
+          "scene8n.W"
+        ]
+      },
+      {
+        "sample": "I nearly followed him once.",
+        "n": 5,
+        "scenes": [
+          "scene5b",
+          "scene5d",
+          "scene6l",
+          "scene10a",
+          "scene10g"
+        ],
+        "hits": [
+          "scene5b.W",
+          "scene5d.W",
+          "scene6l.W",
+          "scene10a.W",
+          "scene10g.W"
+        ]
+      },
+      {
+        "sample": "The cracked charm ticked once against her pulse, unsettled and alive.",
+        "n": 4,
+        "scenes": [
+          "scene4c",
+          "scene4d",
+          "scene4e",
+          "scene4g"
+        ],
+        "hits": [
+          "scene4c.W",
+          "scene4d.W",
+          "scene4e.W",
+          "scene4g.W"
+        ]
+      },
+      {
+        "sample": "The shock went straight to her clit.",
+        "n": 4,
+        "scenes": [
+          "scene5a",
+          "scene6b",
+          "scene7d",
+          "scene7g"
+        ],
+        "hits": [
+          "scene5a.H",
+          "scene6b.H",
+          "scene7d.H",
+          "scene7g.H"
+        ]
+      },
+      {
+        "sample": "\"Bill me for the tone.",
+        "n": 4,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7e",
+          "scene7h"
+        ],
+        "hits": [
+          "scene6a.W",
+          "scene7a.W",
+          "scene7e.W",
+          "scene7h.W"
+        ]
+      },
+      {
+        "sample": "[player_name]'s cunt clenched around nothing.",
+        "n": 4,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7e",
+          "scene8b"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene7e.H",
+          "scene8b.H"
+        ]
+      },
+      {
+        "sample": "Salt wind rattled the glass.",
+        "n": 4,
+        "scenes": [
+          "scene6e",
+          "scene6j",
+          "scene8b",
+          "scene9c"
+        ],
+        "hits": [
+          "scene6e.W",
+          "scene6j.W",
+          "scene8b.W",
+          "scene9c.W"
+        ]
+      },
+      {
+        "sample": "Either way, afterward, off-record, we negotiate what my mouth owes your pulse.\"",
+        "n": 4,
+        "scenes": [
+          "scene6i",
+          "scene7g",
+          "scene7h",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6i.H",
+          "scene7g.H",
+          "scene7h.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "His breath hit her jaw.",
+        "n": 4,
+        "scenes": [
+          "scene6j",
+          "scene7a",
+          "scene7f",
+          "scene8b"
+        ],
+        "hits": [
+          "scene6j.H",
+          "scene7a.H",
+          "scene7f.H",
+          "scene8b.H"
+        ]
+      },
+      {
+        "sample": "[player_name]'s charm ticked hot between her breasts.",
+        "n": 4,
+        "scenes": [
+          "scene7b",
+          "scene7d",
+          "scene7f",
+          "scene7h"
+        ],
+        "hits": [
+          "scene7b.H",
+          "scene7d.H",
+          "scene7f.H",
+          "scene7h.H"
+        ]
+      },
+      {
+        "sample": "She felt him, thick behind leather, restrained.",
+        "n": 4,
+        "scenes": [
+          "scene7b",
+          "scene7d",
+          "scene7f",
+          "scene7h"
+        ],
+        "hits": [
+          "scene7b.H",
+          "scene7d.H",
+          "scene7f.H",
+          "scene7h.H"
+        ]
+      },
+      {
+        "sample": "Cassian's thumb brushed her wrist.",
+        "n": 4,
+        "scenes": [
+          "scene7c",
+          "scene7f",
+          "scene8o",
+          "scene8p"
+        ],
+        "hits": [
+          "scene7c.W",
+          "scene7f.W",
+          "scene8o.W",
+          "scene8p.W"
+        ]
+      },
+      {
+        "sample": "She wanted the fucking deferred until she'd chosen.",
+        "n": 4,
+        "scenes": [
+          "scene8e",
+          "scene8f",
+          "scene8g",
+          "scene8h"
+        ],
+        "hits": [
+          "scene8e.H",
+          "scene8f.H",
+          "scene8g.H",
+          "scene8h.H"
+        ]
+      },
+      {
+        "sample": "She gathered breath, stance, charm.",
+        "n": 4,
+        "scenes": [
+          "scene8j",
+          "scene9a",
+          "scene9c",
+          "scene9d"
+        ],
+        "hits": [
+          "scene8j.W",
+          "scene9a.W",
+          "scene9c.W",
+          "scene9d.W"
+        ]
+      },
+      {
+        "sample": "Either way, my drawer stays shut tonight.\"",
+        "n": 4,
+        "scenes": [
+          "scene8k",
+          "scene8l",
+          "scene8n",
+          "scene8p"
+        ],
+        "hits": [
+          "scene8k.W",
+          "scene8l.W",
+          "scene8n.W",
+          "scene8p.W"
+        ]
+      },
+      {
+        "sample": "Fog climbed the cliff stairs.",
+        "n": 3,
+        "scenes": [
+          "scene1",
+          "scene5k",
+          "scene7f"
+        ],
+        "hits": [
+          "scene1.H",
+          "scene5k.W",
+          "scene7f.W"
+        ]
+      },
+      {
+        "sample": "Sleep bruised under his eyes.",
+        "n": 3,
+        "scenes": [
+          "scene1",
+          "scene2a",
+          "scene2b"
+        ],
+        "hits": [
+          "scene1.H",
+          "scene2a.H",
+          "scene2b.W",
+          "scene2b.H"
+        ]
+      },
+      {
+        "sample": "The Collegium buried the inquiry.",
+        "n": 3,
+        "scenes": [
+          "scene2a",
+          "scene4b",
+          "scene5b"
+        ],
+        "hits": [
+          "scene2a.W",
+          "scene4b.W",
+          "scene4b.H",
+          "scene5b.W"
+        ]
+      },
+      {
+        "sample": "Warm wine over broken glass.",
+        "n": 3,
+        "scenes": [
+          "scene2a",
+          "scene2b",
+          "scene4g"
+        ],
+        "hits": [
+          "scene2a.W",
+          "scene2a.H",
+          "scene2b.H",
+          "scene4g.W"
+        ]
+      },
+      {
+        "sample": "The charm burned between her breasts.",
+        "n": 3,
+        "scenes": [
+          "scene4e",
+          "scene5i",
+          "scene5l"
+        ],
+        "hits": [
+          "scene4e.H",
+          "scene5i.H",
+          "scene5l.H"
+        ]
+      },
+      {
+        "sample": "[player_name]'s cracked charm ticked hard.",
+        "n": 3,
+        "scenes": [
+          "scene4g",
+          "scene5k",
+          "scene7e"
+        ],
+        "hits": [
+          "scene4g.W",
+          "scene5k.W",
+          "scene7e.W"
+        ]
+      },
+      {
+        "sample": "Outside, Veil Sea fog climbed the cliff stairs.",
+        "n": 3,
+        "scenes": [
+          "scene5a",
+          "scene7i",
+          "scene10h"
+        ],
+        "hits": [
+          "scene5a.W",
+          "scene7i.W",
+          "scene10h.W"
+        ]
+      },
+      {
+        "sample": "Isolde's smile was thin as old parchment.",
+        "n": 3,
+        "scenes": [
+          "scene5a",
+          "scene5g",
+          "scene6a"
+        ],
+        "hits": [
+          "scene5a.W",
+          "scene5g.W",
+          "scene6a.W"
+        ]
+      },
+      {
+        "sample": "He didn't look at Isolde.",
+        "n": 3,
+        "scenes": [
+          "scene5a",
+          "scene6a",
+          "scene7a"
+        ],
+        "hits": [
+          "scene5a.H",
+          "scene6a.W",
+          "scene7a.W"
+        ]
+      },
+      {
+        "sample": "His glance was a fuck held in check.",
+        "n": 3,
+        "scenes": [
+          "scene5a",
+          "scene7d",
+          "scene7e"
+        ],
+        "hits": [
+          "scene5a.H",
+          "scene7d.H",
+          "scene7e.H"
+        ]
+      },
+      {
+        "sample": "[player_name]'s mouth went dry.",
+        "n": 3,
+        "scenes": [
+          "scene5c",
+          "scene6l",
+          "scene6n"
+        ],
+        "hits": [
+          "scene5c.W",
+          "scene6l.W",
+          "scene6n.W"
+        ]
+      },
+      {
+        "sample": "Her charm ticked between her breasts.",
+        "n": 3,
+        "scenes": [
+          "scene5c",
+          "scene6o",
+          "scene7i"
+        ],
+        "hits": [
+          "scene5c.H",
+          "scene6o.H",
+          "scene7i.H"
+        ]
+      },
+      {
+        "sample": "His forehead tipped to hers.",
+        "n": 3,
+        "scenes": [
+          "scene5d",
+          "scene6i",
+          "scene6n"
+        ],
+        "hits": [
+          "scene5d.H",
+          "scene6i.H",
+          "scene6n.H"
+        ]
+      },
+      {
+        "sample": "Ozone on the curtains like breath after a kiss denied.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene8b"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene8b.H"
+        ]
+      },
+      {
+        "sample": "[player_name]'s cracked charm answered between her breasts.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7e"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene7e.H"
+        ]
+      },
+      {
+        "sample": "Cassian's murmur found her temple.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene8j"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene8j.W"
+        ]
+      },
+      {
+        "sample": "[player_name] was wet enough to feel it when she shifted her weight.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene8a"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene8a.H"
+        ]
+      },
+      {
+        "sample": "If you still want a man instead of a key.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7b"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene7b.H"
+        ]
+      },
+      {
+        "sample": "\"Later,\" he mouthed, almost soundless.",
+        "n": 3,
+        "scenes": [
+          "scene6a",
+          "scene7a",
+          "scene7e"
+        ],
+        "hits": [
+          "scene6a.H",
+          "scene7a.H",
+          "scene7e.H"
+        ]
+      },
+      {
+        "sample": "Salt wind fretted the glass.",
+        "n": 3,
+        "scenes": [
+          "scene6f",
+          "scene7c",
+          "scene9g"
+        ],
+        "hits": [
+          "scene6f.W",
+          "scene7c.W",
+          "scene9g.W"
+        ]
+      },
+      {
+        "sample": "Neither settles whether Thorne is monster or revolutionary.",
+        "n": 3,
+        "scenes": [
+          "scene6i",
+          "scene6m",
+          "scene7j"
+        ],
+        "hits": [
+          "scene6i.W",
+          "scene6m.W",
+          "scene7j.W"
+        ]
+      },
+      {
+        "sample": "[player_name]'s cracked charm ticked against her throat.",
+        "n": 3,
+        "scenes": [
+          "scene6n",
+          "scene7c",
+          "scene7j"
+        ],
+        "hits": [
+          "scene6n.W",
+          "scene7c.W",
+          "scene7j.W"
+        ]
+      },
+      {
+        "sample": "Her cracked charm ticked between her breasts.",
+        "n": 3,
+        "scenes": [
+          "scene6n",
+          "scene6p",
+          "scene7k"
+        ],
+        "hits": [
+          "scene6n.H",
+          "scene6p.H",
+          "scene7k.H"
+        ]
+      },
+      {
+        "sample": "Salt wind fretted the leaded glass.",
+        "n": 3,
+        "scenes": [
+          "scene7a",
+          "scene7e",
+          "scene8b"
+        ],
+        "hits": [
+          "scene7a.W",
+          "scene7e.W",
+          "scene8b.W"
+        ]
+      },
+      {
+        "sample": "The unfinishedness made her drip.",
+        "n": 3,
+        "scenes": [
+          "scene7d",
+          "scene7e",
+          "scene7g"
+        ],
+        "hits": [
+          "scene7d.H",
+          "scene7e.H",
+          "scene7g.H"
+        ]
+      },
+      {
+        "sample": "An accident to any ledger.",
+        "n": 3,
+        "scenes": [
+          "scene7e",
+          "scene8a",
+          "scene8g"
+        ],
+        "hits": [
+          "scene7e.H",
+          "scene8a.H",
+          "scene8g.W"
+        ]
+      },
+      {
+        "sample": "[player_name] looked at his scarred mouth and chose nothing yet.",
+        "n": 3,
+        "scenes": [
+          "scene7h",
+          "scene7i",
+          "scene8i"
+        ],
+        "hits": [
+          "scene7h.H",
+          "scene7i.W",
+          "scene8i.W"
+        ]
+      },
+      {
+        "sample": "I don't claim the living-key certainty Isolde still withholds.",
+        "n": 3,
+        "scenes": [
+          "scene7o",
+          "scene8k",
+          "scene8n"
+        ],
+        "hits": [
+          "scene7o.W",
+          "scene8k.W",
+          "scene8n.W"
+        ]
+      },
+      {
+        "sample": "Lord Vesper Thorne wasn't present.",
+        "n": 3,
+        "scenes": [
+          "scene8a",
+          "scene9a",
+          "scene10e"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene9a.W",
+          "scene10e.W"
+        ]
+      },
+      {
+        "sample": "Isolde filed the sentence like interest.",
+        "n": 3,
+        "scenes": [
+          "scene8a",
+          "scene8b",
+          "scene9d"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene8b.W",
+          "scene9d.W"
+        ]
+      },
+      {
+        "sample": "She pressed her thighs together until slick fabric dragged.",
+        "n": 3,
+        "scenes": [
+          "scene8i",
+          "scene8k",
+          "scene8m"
+        ],
+        "hits": [
+          "scene8i.H",
+          "scene8k.H",
+          "scene8m.H"
+        ]
+      },
+      {
+        "sample": "I nearly followed Thorne once.",
+        "n": 3,
+        "scenes": [
+          "scene8i",
+          "scene8j",
+          "scene10d"
+        ],
+        "hits": [
+          "scene8i.H",
+          "scene8j.W",
+          "scene10d.W"
+        ]
+      },
+      {
+        "sample": "\"Filthy with you,\" she gasped.",
+        "n": 3,
+        "scenes": [
+          "scene8l",
+          "scene8m",
+          "scene8p"
+        ],
+        "hits": [
+          "scene8l.H",
+          "scene8m.H",
+          "scene8p.H"
+        ]
+      },
+      {
+        "sample": "The New Ward with me.",
+        "n": 3,
+        "scenes": [
+          "scene9a",
+          "scene9e",
+          "scene9g"
+        ],
+        "hits": [
+          "scene9a.H",
+          "scene9e.H",
+          "scene9g.H"
+        ]
+      },
+      {
+        "sample": "Her cunt empty and insistent.",
+        "n": 3,
+        "scenes": [
+          "scene9a",
+          "scene9c",
+          "scene9g"
+        ],
+        "hits": [
+          "scene9a.H",
+          "scene9c.H",
+          "scene9g.H"
+        ]
+      }
+    ]
+  },
+  "the-soft-alibi": {
+    "intra": [
+      {
+        "scene": "scene10i",
+        "field": "text",
+        "a": "Don't let anyone make this into something it isn't.",
+        "b": "\"Don't let anyone make this into something it isn't.\"",
+        "exact": true
+      }
+    ],
+    "overused": [
+      {
+        "sample": "She did not invent Milan.",
+        "n": 10,
+        "scenes": [
+          "scene8b",
+          "scene8d",
+          "scene8f",
+          "scene8h",
+          "scene8j",
+          "scene8l",
+          "scene8m",
+          "scene8n",
+          "scene8o",
+          "scene8p"
+        ],
+        "hits": [
+          "scene8b.W",
+          "scene8d.W",
+          "scene8f.W",
+          "scene8h.W",
+          "scene8j.W",
+          "scene8l.W",
+          "scene8m.W",
+          "scene8n.W",
+          "scene8o.W",
+          "scene8p.W"
+        ]
+      },
+      {
+        "sample": "\"Black car at the curb.",
+        "n": 9,
+        "scenes": [
+          "scene4g",
+          "scene7d",
+          "scene7p",
+          "scene8b",
+          "scene8d",
+          "scene9b",
+          "scene9d",
+          "scene9g",
+          "scene9h"
+        ],
+        "hits": [
+          "scene4g.H",
+          "scene7d.W",
+          "scene7p.W",
+          "scene8b.W",
+          "scene8d.W",
+          "scene9b.W",
+          "scene9d.W",
+          "scene9g.W",
+          "scene9h.W"
+        ]
+      },
+      {
+        "sample": "Hope and dread shared the hallway.",
+        "n": 9,
+        "scenes": [
+          "scene8a",
+          "scene8b",
+          "scene8i",
+          "scene9a",
+          "scene9b",
+          "scene9d",
+          "scene9f",
+          "scene9g",
+          "scene9h"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene8b.W",
+          "scene8i.W",
+          "scene9a.W",
+          "scene9b.W",
+          "scene9d.W",
+          "scene9f.W",
+          "scene9g.W",
+          "scene9h.W"
+        ]
+      },
+      {
+        "sample": "Vivienne's perfume as third heat.",
+        "n": 7,
+        "scenes": [
+          "scene7d",
+          "scene7l",
+          "scene8e",
+          "scene8i",
+          "scene8j",
+          "scene8l",
+          "scene9b"
+        ],
+        "hits": [
+          "scene7d.H",
+          "scene7l.H",
+          "scene8e.H",
+          "scene8i.H",
+          "scene8j.H",
+          "scene8l.H",
+          "scene9b.H"
+        ]
+      },
+      {
+        "sample": "She trembled choosing while Vivienne stayed contested.",
+        "n": 7,
+        "scenes": [
+          "scene8b",
+          "scene8d",
+          "scene8e",
+          "scene8g",
+          "scene8h",
+          "scene8i",
+          "scene8o"
+        ],
+        "hits": [
+          "scene8b.H",
+          "scene8d.H",
+          "scene8e.H",
+          "scene8g.H",
+          "scene8h.H",
+          "scene8i.H",
+          "scene8o.H"
+        ]
+      },
+      {
+        "sample": "Elevator chime trembled through her teeth.",
+        "n": 5,
+        "scenes": [
+          "scene8a",
+          "scene8b",
+          "scene8d",
+          "scene8p",
+          "scene9a"
+        ],
+        "hits": [
+          "scene8a.H",
+          "scene8b.H",
+          "scene8d.H",
+          "scene8p.H",
+          "scene9a.H"
+        ]
+      },
+      {
+        "sample": "She did not invent willing leave.",
+        "n": 5,
+        "scenes": [
+          "scene8c",
+          "scene8e",
+          "scene8g",
+          "scene8i",
+          "scene8k"
+        ],
+        "hits": [
+          "scene8c.W",
+          "scene8e.W",
+          "scene8g.W",
+          "scene8i.W",
+          "scene8k.W"
+        ]
+      },
+      {
+        "sample": "She looked up at him.",
+        "n": 4,
+        "scenes": [
+          "scene5c",
+          "scene5p",
+          "scene6a",
+          "scene10e"
+        ],
+        "hits": [
+          "scene5c.W",
+          "scene5c.H",
+          "scene5p.W",
+          "scene6a.W",
+          "scene10e.H"
+        ]
+      },
+      {
+        "sample": "Vivienne's unused perfume as third heat from the bath corridor.",
+        "n": 4,
+        "scenes": [
+          "scene7a",
+          "scene8a",
+          "scene9a",
+          "scene9h"
+        ],
+        "hits": [
+          "scene7a.H",
+          "scene8a.H",
+          "scene9a.H",
+          "scene9h.H"
+        ]
+      },
+      {
+        "sample": "He came around the table.",
+        "n": 3,
+        "scenes": [
+          "scene2a",
+          "scene3a",
+          "scene6c"
+        ],
+        "hits": [
+          "scene2a.W",
+          "scene2a.H",
+          "scene3a.W",
+          "scene3a.H",
+          "scene6c.W",
+          "scene6c.H"
+        ]
+      },
+      {
+        "sample": "Wind leaned on the glass.",
+        "n": 3,
+        "scenes": [
+          "scene2a",
+          "scene5k",
+          "scene5n"
+        ],
+        "hits": [
+          "scene2a.W",
+          "scene5k.W",
+          "scene5n.H"
+        ]
+      },
+      {
+        "sample": "\"I'd hate it,\" he said.",
+        "n": 3,
+        "scenes": [
+          "scene3a",
+          "scene5a",
+          "scene5e"
+        ],
+        "hits": [
+          "scene3a.W",
+          "scene5a.W",
+          "scene5e.W",
+          "scene5e.H"
+        ]
+      },
+      {
+        "sample": "He didn't move his hand.",
+        "n": 3,
+        "scenes": [
+          "scene3a",
+          "scene5h",
+          "scene6b"
+        ],
+        "hits": [
+          "scene3a.H",
+          "scene5h.H",
+          "scene6b.H"
+        ]
+      },
+      {
+        "sample": "His forehead came down against hers.",
+        "n": 3,
+        "scenes": [
+          "scene3a",
+          "scene5d",
+          "scene5e"
+        ],
+        "hits": [
+          "scene3a.H",
+          "scene5d.H",
+          "scene5e.W"
+        ]
+      },
+      {
+        "sample": "He looked at her a long moment.",
+        "n": 3,
+        "scenes": [
+          "scene3b",
+          "scene5f",
+          "scene6b"
+        ],
+        "hits": [
+          "scene3b.W",
+          "scene5f.W",
+          "scene6b.W"
+        ]
+      },
+      {
+        "sample": "Then it was once a month.",
+        "n": 3,
+        "scenes": [
+          "scene3c",
+          "scene4e",
+          "scene5d"
+        ],
+        "hits": [
+          "scene3c.W",
+          "scene4e.W",
+          "scene5d.W"
+        ]
+      },
+      {
+        "sample": "He didn't answer right away.",
+        "n": 3,
+        "scenes": [
+          "scene4c",
+          "scene5b",
+          "scene6c"
+        ],
+        "hits": [
+          "scene4c.W",
+          "scene5b.W",
+          "scene6c.W"
+        ]
+      },
+      {
+        "sample": "That was the worst part.",
+        "n": 3,
+        "scenes": [
+          "scene4d",
+          "scene4h",
+          "scene5i"
+        ],
+        "hits": [
+          "scene4d.W",
+          "scene4h.W",
+          "scene5i.H"
+        ]
+      },
+      {
+        "sample": "\"I believe you,\" Brooks said.",
+        "n": 3,
+        "scenes": [
+          "scene4e",
+          "scene5o",
+          "scene6j"
+        ],
+        "hits": [
+          "scene4e.W",
+          "scene5o.H",
+          "scene6j.W",
+          "scene6j.H"
+        ]
+      },
+      {
+        "sample": "Brooks looked at her for a long moment.",
+        "n": 3,
+        "scenes": [
+          "scene5c",
+          "scene5l",
+          "scene10e"
+        ],
+        "hits": [
+          "scene5c.W",
+          "scene5l.W",
+          "scene10e.W"
+        ]
+      },
+      {
+        "sample": "The room was very quiet.",
+        "n": 3,
+        "scenes": [
+          "scene5d",
+          "scene5k",
+          "scene5n"
+        ],
+        "hits": [
+          "scene5d.W",
+          "scene5k.W",
+          "scene5n.H"
+        ]
+      },
+      {
+        "sample": "\"I don't know,\" Nolan said.",
+        "n": 3,
+        "scenes": [
+          "scene5g",
+          "scene6a",
+          "scene6g"
+        ],
+        "hits": [
+          "scene5g.W",
+          "scene6a.W",
+          "scene6g.W"
+        ]
+      },
+      {
+        "sample": "\"I don't know,\" he said.",
+        "n": 3,
+        "scenes": [
+          "scene5g",
+          "scene6g",
+          "scene6k"
+        ],
+        "hits": [
+          "scene5g.H",
+          "scene6g.W",
+          "scene6g.H",
+          "scene6k.W"
+        ]
+      },
+      {
+        "sample": "\"Lieutenant Rasmussen wants a name by Friday.",
+        "n": 3,
+        "scenes": [
+          "scene6f",
+          "scene6j",
+          "scene6o"
+        ],
+        "hits": [
+          "scene6f.W",
+          "scene6f.H",
+          "scene6j.H",
+          "scene6o.W"
+        ]
+      },
+      {
+        "sample": "Lieutenant Rasmussen wanted a name by Friday.",
+        "n": 3,
+        "scenes": [
+          "scene6k",
+          "scene6p",
+          "scene7e"
+        ],
+        "hits": [
+          "scene6k.W",
+          "scene6p.W",
+          "scene7e.W"
+        ]
+      },
+      {
+        "sample": "\"Rasmussen wants a name by Friday.",
+        "n": 3,
+        "scenes": [
+          "scene6l",
+          "scene6o",
+          "scene7e"
+        ],
+        "hits": [
+          "scene6l.W",
+          "scene6o.H",
+          "scene7e.H"
+        ]
+      },
+      {
+        "sample": "Zurich wire on Vivienne's authorization through Pell's login.",
+        "n": 3,
+        "scenes": [
+          "scene6l",
+          "scene7g",
+          "scene7i"
+        ],
+        "hits": [
+          "scene6l.W",
+          "scene7g.W",
+          "scene7i.W"
+        ]
+      },
+      {
+        "sample": "\"Vivienne silent partner since last spring.",
+        "n": 3,
+        "scenes": [
+          "scene6m",
+          "scene6n",
+          "scene7a"
+        ],
+        "hits": [
+          "scene6m.H",
+          "scene6n.H",
+          "scene7a.H"
+        ]
+      },
+      {
+        "sample": "His thumb counted ribs through silk.",
+        "n": 3,
+        "scenes": [
+          "scene7a",
+          "scene9c",
+          "scene9f"
+        ],
+        "hits": [
+          "scene7a.H",
+          "scene9c.H",
+          "scene9f.H"
+        ]
+      },
+      {
+        "sample": "Detective Imani Brooks's homicide interest rose downstairs without a body.",
+        "n": 3,
+        "scenes": [
+          "scene7i",
+          "scene8b",
+          "scene8c"
+        ],
+        "hits": [
+          "scene7i.W",
+          "scene8b.W",
+          "scene8c.W"
+        ]
+      },
+      {
+        "sample": "Weekly to monthly to gone still contested.",
+        "n": 3,
+        "scenes": [
+          "scene7n",
+          "scene7o",
+          "scene7p"
+        ],
+        "hits": [
+          "scene7n.W",
+          "scene7o.W",
+          "scene7p.W"
+        ]
+      },
+      {
+        "sample": "Elevator chime trembled in the private shaft.",
+        "n": 3,
+        "scenes": [
+          "scene8a",
+          "scene8c",
+          "scene9a"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene8c.W",
+          "scene9a.W"
+        ]
+      },
+      {
+        "sample": "Soft still meant pliable evidence.",
+        "n": 3,
+        "scenes": [
+          "scene8a",
+          "scene9b",
+          "scene9e"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene9b.W",
+          "scene9e.W"
+        ]
+      },
+      {
+        "sample": "Unused perfume still breathed from the master bath she should not know.",
+        "n": 3,
+        "scenes": [
+          "scene8a",
+          "scene9f",
+          "scene9h"
+        ],
+        "hits": [
+          "scene8a.W",
+          "scene9f.W",
+          "scene9h.W"
+        ]
+      },
+      {
+        "sample": "Hope and dread shared the hangar.",
+        "n": 3,
+        "scenes": [
+          "scene8g",
+          "scene8h",
+          "scene9e"
+        ],
+        "hits": [
+          "scene8g.W",
+          "scene8h.W",
+          "scene9e.W"
+        ]
+      },
+      {
+        "sample": "She trembled choosing while Vivienne stayed contested and homicide interest rose without naming a body.",
+        "n": 3,
+        "scenes": [
+          "scene9c",
+          "scene9e",
+          "scene9f"
+        ],
+        "hits": [
+          "scene9c.H",
+          "scene9e.H",
+          "scene9f.H"
+        ]
+      }
+    ]
+  }
+}

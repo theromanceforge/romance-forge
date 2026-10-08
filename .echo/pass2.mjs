@@ -1,0 +1,103 @@
+const SK = "what-the-sister-kept";
+const out = [];
+// line(find, {scene: repl, ...})
+const line = (find, map) => { for (const [sc, repl] of Object.entries(map)) out.push({ story: SK, scene: "scene" + sc, find, repl }); };
+line("Rain thickened on the glass.", { "3c": "Rain ran in crooked lines down the pane.", "6b": "Rain sheeted the window and blurred the alley.", "6l": "The downpour hammered harder at the window.", "6m": "The rain came down harder, steady as static.", "6n": "Rain streaked the precinct glass.", "7k": "Rain smeared the window gray.", "8l": "Rain beat a slow tattoo on the annex window." });
+line("Wanting that makes me selfish.", { "6m": "That's the selfish part.", "6o": "I know how selfish that is.", "6p": "Call that selfish; it is.", "7m": "That's me being selfish.", "7o": "Selfish, and I know it.", "7p": "Wanting it first is selfish.", "8p": "Wanting it is selfish of me." });
+line("The remains weren't Renny until science said so.", { "6b": "Bone stayed nameless until the lab said otherwise.", "6f": "No lab had put a name on those bones yet.", "7a": "Until the lab spoke, the bones belonged to no one.", "7b": "Science hadn't put a name to the bones, and she wouldn't either.", "8c": "Pending meant pending, whatever the bones looked like.", "8d": "Only the lab could make those bones a sister." });
+line("The remains were not Renny until science said so.", { "9c": "Bones were bones until Cho's lab said whose.", "9d": "Cho's tray still waited on a name." });
+line("Respect moved through his face like weather changing.", { "8j": "Something like respect crossed his face and stayed.", "8k": "His expression shifted, slowly, toward respect.", "8l": "Respect settled into the lines around his eyes.", "9e": "Respect showed in him the way a tide turns, all at once.", "9f": "His face changed, and what it changed into was respect.", "9g": "Respect broke over his face like light through fog." });
+line("He almost kissed her then, and stopped a breath short on purpose.", { "9e": "He leaned in for a kiss and held himself a breath away.", "9f": "His mouth came close enough to feel, and no closer.", "9g": "He nearly kissed her and chose, visibly, to wait." });
+line("He almost kissed her, then stopped a breath short, on purpose.", { "8k": "He bent toward her mouth and stopped short, deliberately." });
+line("Rain freckled the high window.", { "5c": "Rain dotted the high window.", "6k": "Rain streaked the narrow window.", "7d": "Water crawled down the high window.", "8l": "Rain spattered the high window." });
+line("He rubbed a hand over his face.", { "6m": "He scrubbed a palm along his jaw.", "6n": "He pinched the bridge of his nose.", "6o": "He dragged both hands through his wet hair.", "7n": "He pressed the heels of his hands to his eyes." });
+line("His late smile arrived and died in the same breath.", { "6m": "A smile started at the corner of his mouth and quit.", "7k": "His smile came late and didn't last.", "8k": "The smile tried, and failed, to stay.", "8l": "Something like a smile flickered and went out." });
+line("Rain freckled the west glass.", { "6e": "Rain ran sideways across the west glass.", "8e": "Rain blurred the west glass.", "8f": "Rain streaked the west glass gray." });
+line("[player_name] tasted copper where she'd bitten her cheek.", { "6b": "[player_name] realized she'd bitten her cheek bloody.", "9b": "[player_name]'s cheek stung where her teeth had caught it.", "9f": "Her bitten cheek throbbed." });
+line("[player_name] tasted blood where she'd bitten her cheek.", { "7e": "[player_name] pressed her tongue to the raw place inside her cheek.", "7h": "Her teeth found the same raw place inside her cheek." });
+line("Hope still had a throat. Dread still had teeth.", { "6a": "Something in her still refused to grieve.", "9b": "Grief stayed on the far side of a lab report.", "9c": "Nothing was settled, and all of it still bit.", "9d": "Grief would have to wait for paperwork." });
+line("Akers will live with either.", { "7e": "Akers survives either way.", "8e": "Akers can carry either one.", "8f": "Akers will survive whichever you pick." });
+line("The soft net had burned.", { "7k": "The soft net was ash now.", "7l": "Nothing soft had survived the fire.", "8k": "The soft net was gone." });
+line("Her gaze cut to Will's ribs and away.", { "8e": "She glanced at Will's ribs and didn't linger.", "8h": "Her eyes flicked to Will's side, then back.", "10f": "Her eyes touched Will's ribs and moved on." });
+line("She clapped a hand over her own mouth.", { "8m": "She bit her own wrist to stay quiet.", "8n": "She pressed her forearm to her mouth to muffle the sound.", "8p": "She smothered a cry against her palm.", "9e": "She jammed her knuckles against her lips." });
+line("She clapped a hand over her mouth.", { "9f": "She caught the moan behind her teeth.", "9g": "She bit down on her palm to keep quiet." });
+line("I need you to hear both.", { "8j": "I need you to hold both of those.", "9f": "Both are true.", "9g": "Hold both with me." });
+line("That isn't in any memo yet.", { "8p": "No report has that yet.", "9f": "No file has that.", "9g": "Nobody's written that down." });
+line("He didn't fill the silence with comfort.", { "6f": "He offered nothing to soften it.", "8g": "He let the silence sit, unpadded." });
+line("Wanting that makes me a bastard.", { "6n": "I know what that makes me.", "7n": "Call me a bastard for it." });
+line("The foghorn answered from the river.", { "6b": "Out on the river, the foghorn spoke again.", "7a": "A foghorn moaned somewhere downriver." });
+line("Pier salt leaked through the cracked window.", { "7c": "Cold salt air seeped through the gap in the window.", "8c": "The cracked window let in salt and diesel." });
+line("[player_name]'s mouth tasted of rain.", { "6j": "Rain was still on [player_name]'s lips.", "6l": "[player_name] licked rain from her lip." });
+line("Outside, warehouses hunched in fog.", { "7k": "Outside, fog swallowed the warehouse roofs.", "8l": "Outside, the warehouses had gone gray in the fog." });
+line("When a raid goes sideways, people rinse what they can.", { "7k": "When a raid goes bad, everybody washes what they can.", "8k": "Raids go sideways and people scrub whatever they touched." });
+line("Kids in hallways pay for urgency dressed as care.", { "7k": "A kid in a hallway paid for my hurry once." });
+line("Foghorns complained across the channel.", { "7j": "Foghorns lowed out past the breakwater.", "7l": "A foghorn groaned across the channel." });
+line("His pulse jumped once under her fingers.", { "6m": "His pulse kicked against her fingertips.", "6o": "She felt his heartbeat stumble under her touch." });
+line("His late smile arrived wrong and fond.", { "7p": "His smile came late, crooked and fond." });
+line("His late smile arrived, wrong and fond.", { "8p": "The smile, when it came, was fond and lopsided." });
+line("Upriver, the remains were still unnamed.", { "7j": "Upriver, Cho's tray still had no name on it.", "7m": "The bones upriver still waited for a name." });
+line("His thumb brushed her knuckles.", { "8p": "He ran his thumb along her knuckles.", "9f": "His thumb traced the bones of her hand." });
+line("Either fantasy made her wetter.", { "8h": "Her thighs were slick by the end of it.", "9e": "She was soaked just picturing it." });
+line("Two fingers slid into her.", { "9f": "He worked two fingers into her.", "9h": "He pushed two fingers inside her." });
+line("Two fingers slid into her without preamble.", { "8p": "He slid two fingers into her, no warning." });
+line("His knuckles brushed her jaw.", { "8n": "He grazed her jaw with his knuckles.", "8p": "His knuckles traced her jawline." });
+line("Broken men shouldn't be this hot.", { "9b": "No man this wrecked had a right to look that good.", "9d": "It was unfair how good the wreckage looked on him." });
+line("Damaged men shouldn't be this hot.", { "6e": "Damage had no business looking that good on anyone." });
+line("Rain thickened on the high glass.", { "6f": "Rain drove harder against the glass." });
+line("Foghorns answered across the channel.", { "5e": "A foghorn called from across the channel." });
+line("Cho still has no hard ID.", { "6c": "Cho still hasn't confirmed anything." });
+line("[player_name]'s cunt clenched around nothing.", { "9c": "[player_name]'s cunt ached, empty." });
+line("I won't print a sister on bone for your comfort or for a headline.", { "6j": "I won't name a sister on bone to make anyone comfortable, you or a headline." });
+line("I won't print a sister on bone.", { "6j": "I won't put a sister's name on bone." });
+line("I wear charm so nobody asks.", { "6k": "I play charming so nobody asks." });
+line("Her gaze flicked to [player_name].", { "8n": "She looked at [player_name]." });
+line("I'll still want you after.", { "9c": "I'll want you after either one." });
+line("You're choosing which hard room you walk me into.", { "7n": "You're deciding which hard room we walk into." });
+line("Will flinched, small and real.", { "6p": "Will flinched, barely, but it was real." });
+line("Owen stays your private weather until you put him on a page.", { "6p": "Owen stays your secret until you write him down." });
+line("Outside, chain-link rattled in the alley wind.", { "7c": "Outside, wind shook the alley fence." });
+line("Either way, I leave this kitchen changed.", { "6l": "Whichever it is, I don't walk out of this kitchen the same." });
+line("She was done pretending the ash was only Owen's problem.", { "8k": "The ash wasn't only Owen's problem anymore, and she knew it." });
+line("My old partner would call me compromised.", { "7i": "Any partner I ever had would call this compromised." });
+line("[player_name] tasted pier salt in memory.", { "7n": "The memory of pier salt stung [player_name]'s tongue." });
+line("You two prefer each other.", { "7n": "You two just want each other." });
+line("Will exhaled through his nose.", { "7n": "Will let out a slow breath." });
+line("Sealed stays sealed unless a judge says otherwise.", { "7n": "Nothing sealed opens without a judge." });
+line("Will's voice dropped for [player_name] alone.", { "7n": "Will lowered his voice so only [player_name] heard." });
+line("Owen was still unnamed on any official page.", { "7p": "No official page carried Owen's name yet." });
+line("Cho hasn't confirmed Renny among the dead.", { "8g": "Cho hasn't counted Renny among the dead." });
+line("Will watched her mouth the way he watched evidence that might burn him.", { "7h": "Will watched her mouth like it might testify against him." });
+line("Ellison's laugh was dry as burnt coffee.", { "8e": "Ellison's laugh came out dry." });
+line("I can smell Akers on your pulse from here.", { "8e": "I can smell Akers on you from across the room." });
+line("Akers invents temperatures and hard-ons and calls it strategy.", { "8f": "Akers dresses up temperatures and hard-ons as strategy." });
+line("Neither confirms Renny among the dead.", { "8g": "Neither one buries Renny." });
+line("Cho hasn't printed Renny on bone.", { "7j": "Cho hasn't written Renny's name on bone." });
+line("Ellison gets a story she'll hate less than a dead witness.", { "8j": "Ellison would rather have a messy story than a dead witness." });
+line("You don't become a clearance story.", { "8j": "You don't end up as somebody's clearance rate." });
+line("She looked at Will until he looked back.", { "8j": "She held Will's gaze until he met it." });
+line("I'm asking which hurt leaves Renny reachable.", { "8j": "I'm asking which hurt keeps Renny within reach." });
+line("Either one moves the case.", { "7p": "Both of them move the case." });
+line("The wound showed a tooth, then hid.", { "8k": "The old wound flashed and went under." });
+line("Could she love a badge after the system had failed Renny?", { "9f": "Could she love a man with a badge after the badge had failed Renny?" });
+line("I'm not inventing a funeral.", { "9g": "I'm not burying anyone early." });
+line("Choose while I can still smell you on my hand.", { "9g": "Decide while my hand still smells like you." });
+// ---- "kept" litany: keep intact in 7k, 8l, 9h; vary the sibling scenes
+const lit = (sc, find, repl) => out.push({ story: SK, scene: "scene" + sc, find, repl, n: 1 });
+lit("8i", `"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial until a wire made him say the name. You keep a sealed hallway. Ellison keeps an inbox. Cho keeps bones without a name. Everybody keeps something.`,
+  `"Renny drew a map," she said, barely above the rain. "I told a lie and sat on it for seven years. Owen had a clerk on speed dial until a wire made him say the name. You've got a hallway nobody's allowed to open. Ellison has her inbox. Cho has bones with no name on them. Everybody's holding something.`);
+lit("8j", `"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You keep a sealed hallway. Everybody keeps something.`,
+  `"Renny made a map," she said, low. "I made a lie. Owen kept a clerk on speed dial and used it the second he saw tape. You've got your sealed hallway. We're all hanging on to something.`);
+lit("8k", `"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial. You keep a sealed hallway. The press keeps hunger. Everybody keeps something.`,
+  `"Renny left a map," she said under her breath. "I left a lie in its place. Owen had a clerk a phone call away. You have a hallway you won't unseal. The press has its hunger. Everybody's holding on to something.`);
+lit("8k", `"Owen kept a clerk. You keep a sealed hallway. The press keeps hunger.`, `"Owen kept a clerk. You've got a hallway you won't open. The press keeps hunger.`);
+lit("9e", `"Renny kept a map," [player_name] said quietly. "I kept a lie. Owen kept a clerk on speed dial. Hale kept permits and kept quiet by force. You kept a sealed hallway. Cho keeps bones without a name. Everybody keeps something.`,
+  `"Renny drew the map," [player_name] said, steady now. "I sat on a lie. Owen had his clerk a phone call away. Hale kept permits and kept quiet by force. You had a hallway you couldn't unseal. Cho's still holding bones with no name. Everybody keeps something.`);
+lit("9e", `"I kept a lie. Owen kept a clerk. Hale kept permits and kept quiet by force. You kept a sealed hallway. Everybody keeps something."`,
+  `"I sat on a lie. Owen had his clerk. Hale kept permits and kept quiet by force. You had your sealed hallway. Everybody keeps something."`);
+lit("9f", `"Renny kept a map," she said quietly. "I kept a lie. Owen kept a clerk on speed dial. Hale kept the habit of vanishing. You kept a sealed hallway. Cho keeps bones without a name. Everybody keeps something.`,
+  `"Renny left me a map," she said, voice gone thin. "I left a lie on top of it. Owen had a clerk on speed dial. Hale had the habit of vanishing. You had a hallway under seal. Cho still has bones and no name. Everybody keeps something.`);
+lit("9f", `Hale kept vanishing. You kept a sealed hallway. Everybody keeps something," she said.`, `Hale kept vanishing. You kept a hallway shut. Everybody keeps something," she said.`);
+lit("9g", `"Renny kept a map," she said quietly. "I kept a lie. You kept a sealed hallway. Ellison keeps footnotes. Cho keeps bones without a name. Everybody keeps something.`,
+  `"Renny drew a map nobody read," she said softly. "I told a lie everybody believed. You had a hallway the court sealed. Ellison keeps footnotes. Cho's tray still has no name. Everybody keeps something.`);
+lit("9g", `"I kept a lie. You kept a sealed hallway. Everybody keeps something," she said, and clenched`, `"I kept a lie. You kept a door sealed. Everybody keeps something," she said, and clenched`);
+export default out;

@@ -1,0 +1,1 @@
+Stopped at: all echo-polish edits done and committed (b55248f); npm test 277/277 + build OK; origin/main still b30018c (no rebase needed). Remaining: final report only. Scripts: echo-scan.mjs (detector), occ.mjs/ctx.mjs (context), apply.mjs + pass*.mjs (edit rules). before.json/before-counts.txt = b30018c baseline; after.json/after-counts.txt = b55248f.
