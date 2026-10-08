@@ -412,7 +412,7 @@ function renderComingSoonRowHtml() {
   const cardsHtml = COMING_SOON.map(
     (c) => `
       <aside class="soon-card" data-story-id="${escapeHtml(c.id)}" data-testid="soon-${escapeHtml(c.id)}">
-        <img class="soon-card-art" src="${escapeHtml(c.heroSrc)}" alt="${escapeHtml(c.heroAlt)}" width="1280" height="720" loading="lazy" />
+        <img class="soon-card-art" src="${escapeHtml(c.heroSrc)}" alt="${escapeHtml(c.heroAlt)}" width="1280" height="720" />
         <div class="soon-card-body">
           <span class="soon-card-kicker">Coming soon</span>
           <h3 class="soon-card-title">${escapeHtml(c.title)}</h3>

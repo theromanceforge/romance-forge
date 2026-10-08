@@ -2370,7 +2370,7 @@ body {
   height: 4.6rem;
   flex-shrink: 0;
   object-fit: cover;
-  object-position: 70% center;
+  object-position: 80% center;
   border-radius: 8px;
   border: 1px solid rgba(93, 104, 107, 0.8);
   background: #2f3739;
@@ -2549,9 +2549,10 @@ body {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 2 / 3;
+  /* Portrait covers paint only the top ~55%; crop the black lower half. */
+  aspect-ratio: 6 / 5;
   object-fit: cover;
-  object-position: center center;
+  object-position: center top;
   border: none;
   border-radius: 0;
   background: var(--charcoal);
