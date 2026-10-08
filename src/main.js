@@ -399,8 +399,8 @@ function renderLeadHeroHtml() {
             data-testid="lead-cover"
           />
           <div class="lead-shade" aria-hidden="true"></div>
+          <span class="lead-kicker">Coming soon</span>
           <div class="lead-overlay">
-            <span class="lead-kicker">Coming soon</span>
             <h2 id="lead-hero-title" class="lead-title">${escapeHtml(lead.title)}</h2>
             ${lead.teaser ? `<p class="lead-teaser" data-testid="lead-teaser">${escapeHtml(lead.teaser)}</p>` : ''}
           </div>
