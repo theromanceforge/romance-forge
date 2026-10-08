@@ -33,7 +33,7 @@ describe('Called Home lead teaser + Off the Clock coming-soon card', () => {
     ]);
   });
 
-  it('lead teaser renders at the top, before the forge strip and the playable cover hero', () => {
+  it('brand header, then Called Home hero (no swatches), then how-it-works, live catalog, coming-soon row', () => {
     const lead = app.querySelector('[data-testid="lead-hero"]');
     expect(lead).toBeTruthy();
     expect(lead.getAttribute('data-story-id')).toBe('called-home');
@@ -44,15 +44,17 @@ describe('Called Home lead teaser + Off the Clock coming-soon card', () => {
     expect(lead.querySelector('[data-testid="lead-cover"]').getAttribute('src')).toMatch(
       /\/art\/called-home\/palette-test-mood\.jpg$/
     );
-    expect(lead.querySelector('[data-testid="lead-swatches"]').getAttribute('src')).toMatch(
-      /\/art\/called-home\/palette-test-swatches\.jpg$/
-    );
+    expect(lead.querySelector('[data-testid="lead-swatches"]')).toBeNull();
+    expect(app.querySelector('.lead-swatches')).toBeNull();
     const order = [...app.querySelectorAll('[data-testid]')].map((n) => n.getAttribute('data-testid'));
     const i = (id) => order.indexOf(id);
-    expect(i('lead-hero')).toBeGreaterThan(-1);
-    expect(i('lead-hero')).toBeLessThan(i('soon-off-the-clock'));
-    expect(i('soon-off-the-clock')).toBeLessThan(i('forge-strip'));
+    expect(i('site-header')).toBeGreaterThan(-1);
+    expect(i('site-header')).toBeLessThan(i('lead-hero'));
+    expect(i('lead-hero')).toBeLessThan(i('forge-strip'));
     expect(i('forge-strip')).toBeLessThan(i('start-reading'));
+    expect(i('start-reading')).toBeLessThan(i('coming-soon-row'));
+    expect(i('coming-soon-row')).toBeLessThan(i('soon-called-home'));
+    expect(i('soon-called-home')).toBeLessThan(i('soon-off-the-clock'));
   });
 
   it('Called Home and Off the Clock cannot be started (no picker card, button, form, or share page)', () => {
@@ -60,12 +62,14 @@ describe('Called Home lead teaser + Off the Clock coming-soon card', () => {
       expect(app.querySelector(`[data-action="pick-story"][data-story-id="${id}"]`)).toBeNull();
       expect(app.querySelector(`[data-testid="story-${id}"]`)).toBeNull();
     }
-    const teasers = app.querySelectorAll('[data-testid="lead-hero"], [data-testid="soon-off-the-clock"]');
-    expect(teasers).toHaveLength(2);
+    const teasers = app.querySelectorAll(
+      '[data-testid="lead-hero"], [data-testid="soon-called-home"], [data-testid="soon-off-the-clock"]'
+    );
+    expect(teasers).toHaveLength(3);
     for (const t of teasers) {
       expect(t.querySelector('button, form, input, a, [data-action]')).toBeNull();
     }
-    // picker cards = the four live stories in order; hero still a live story
+    // picker cards = the four live stories in order; selected story still a live story
     const cards = [...app.querySelectorAll('[data-action="pick-story"]')].map((b) => b.getAttribute('data-story-id'));
     expect(cards).toEqual(LIVE);
     expect(app.querySelector('#story-heading').textContent).toBe('Until the Quiet Breaks');

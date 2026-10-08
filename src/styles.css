@@ -2249,22 +2249,19 @@ body {
   --ch-slate: #5a6878;
   --ch-cream: #e6d5b7;
   --ch-amber: #c08a3e;
-  margin: 0 0 1rem;
-  padding: 0.6rem;
-  border-radius: 16px;
-  background: linear-gradient(180deg, var(--ch-navy) 0%, var(--ch-navy-deep) 100%);
-  border: 1px solid rgba(74, 107, 143, 0.55);
-  box-shadow:
-    0 0 0 1px rgba(53, 86, 124, 0.35),
-    0 0 44px rgba(74, 107, 143, 0.25),
-    0 24px 56px rgba(0, 0, 0, 0.6);
+  margin: 0 0 0;
+  padding: 0;
+  border-radius: 0;
+  background: linear-gradient(180deg, var(--ch-navy) 0%, var(--ch-navy-deep) 72%, #120e0b 100%);
+  border: none;
+  box-shadow: none;
 }
 
 .lead-hero[data-story-id="called-home"] .lead-cover {
   position: relative;
   overflow: hidden;
-  border-radius: 12px;
-  border: 1px solid rgba(90, 104, 120, 0.7);
+  border-radius: 0;
+  border: none;
   background: var(--ch-navy-deep);
 }
 
@@ -2272,9 +2269,10 @@ body {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 4 / 5;
+  /* Wide ballpark art: keep both edge figures in frame (not a tight 4:5 center crop). */
+  aspect-ratio: 4 / 3;
   object-fit: cover;
-  object-position: 28% center;
+  object-position: center center;
 }
 
 .lead-hero[data-story-id="called-home"] .lead-shade {
@@ -2335,14 +2333,13 @@ body {
 }
 
 .lead-hero[data-story-id="called-home"] .lead-swatches {
-  display: block;
-  width: 100%;
-  height: 4.5rem;
-  margin-top: 0.6rem;
-  object-fit: cover;
-  object-position: center 52%;
-  border-radius: 8px;
-  border: 1px solid rgba(90, 104, 120, 0.6);
+  display: none;
+}
+
+@media (min-width: 720px) {
+  .lead-hero[data-story-id="called-home"] .lead-cover-art {
+    aspect-ratio: 16 / 9;
+  }
 }
 
 .soon-card[data-story-id="off-the-clock"] {
@@ -2393,4 +2390,339 @@ body {
   font-size: 1.35rem;
   font-weight: 600;
   color: #e3e8e6;
+}
+
+
+/* —— Landing full-page flow (feature-called-home-lead) ——
+ * Brand header → Called Home hero → how-it-works → live cover grid → coming-soon → footer.
+ * Desktop uses ~1280px; mobile stays a single column. Overrides only — base ink-and-ember untouched.
+ */
+.page.landing.cover-landing {
+  max-width: 390px;
+  width: 100%;
+  padding: 0 1rem calc(1.5rem + env(safe-area-inset-bottom, 0px));
+}
+
+@media (min-width: 720px) {
+  .page.landing.cover-landing {
+    max-width: 1280px;
+    padding: 0 1.5rem 2.75rem;
+  }
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 0 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.site-header-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-width: 0;
+}
+
+.site-header-logo {
+  width: 2.35rem;
+  height: 2.35rem;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid rgba(240, 168, 74, 0.45);
+  box-shadow: 0 0 14px rgba(232, 160, 74, 0.22);
+  flex-shrink: 0;
+}
+
+.site-header-mark {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--amber-glow);
+}
+
+.site-header-tag {
+  margin: 0.1rem 0 0;
+  font-size: 0.82rem;
+  color: var(--parchment-muted);
+  line-height: 1.3;
+}
+
+.section-heading {
+  margin: 0 0 0.65rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.35rem, 3vw, 1.75rem);
+  color: var(--parchment);
+  letter-spacing: 0.01em;
+}
+
+.page.landing.cover-landing .forge-strip {
+  margin: 1.35rem 0 1.5rem;
+  padding: 1.1rem 0 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.page.landing.cover-landing .forge-strip-how {
+  display: grid;
+  gap: 0.35rem;
+  padding-left: 1.2rem;
+  margin: 0.75rem 0 0.85rem;
+}
+
+.page.landing.cover-landing .forge-strip-how li {
+  font-size: 0.95rem;
+}
+
+.live-catalog {
+  margin: 0.5rem 0 2rem;
+}
+
+.catalog-picker {
+  margin: 0 0 1.25rem;
+  padding: 0;
+  border: none;
+  min-inline-size: 0;
+}
+
+.catalog-picker > legend {
+  padding: 0;
+  margin-bottom: 0.75rem;
+}
+
+.page.landing.cover-landing .story-grid.catalog-covers {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.9rem;
+}
+
+@media (min-width: 640px) {
+  .page.landing.cover-landing .story-grid.catalog-covers {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 960px) {
+  .page.landing.cover-landing .story-grid.catalog-covers {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.1rem;
+  }
+}
+
+.page.landing.cover-landing .story-card.catalog-card {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.65rem;
+  padding: 0;
+  overflow: hidden;
+  background: var(--charcoal-card);
+  border: 1px solid rgba(240, 168, 74, 0.28);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+}
+
+.page.landing.cover-landing .story-card.catalog-card:hover:not(:disabled) {
+  border-color: var(--amber);
+  box-shadow: 0 0 0 1px rgba(240, 168, 74, 0.35), 0 16px 36px rgba(0, 0, 0, 0.45);
+}
+
+.page.landing.cover-landing .story-card.catalog-card.selected {
+  border-color: var(--amber);
+  box-shadow: 0 0 0 2px rgba(240, 168, 74, 0.4), 0 16px 36px rgba(0, 0, 0, 0.45);
+}
+
+.story-card-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border: none;
+  border-radius: 0;
+}
+
+.page.landing.cover-landing .catalog-card .story-card-body {
+  padding: 0 0.85rem 0.9rem;
+  gap: 0.3rem;
+}
+
+.page.landing.cover-landing .catalog-card .story-card-blurb {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.story-card-cta {
+  margin-top: 0.25rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--amber);
+}
+
+.start-dock {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  align-items: start;
+  padding: 1rem 0 0;
+  border-top: 1px solid rgba(240, 168, 74, 0.22);
+}
+
+@media (min-width: 720px) {
+  .start-dock {
+    grid-template-columns: minmax(10rem, 14rem) minmax(0, 1fr);
+    gap: 1.5rem;
+    padding-top: 1.35rem;
+  }
+}
+
+.start-dock-cover {
+  display: block;
+  width: 100%;
+  max-width: 14rem;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid rgba(240, 168, 74, 0.4);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+}
+
+.start-dock-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  min-width: 0;
+}
+
+.start-dock .cover-title {
+  font-size: clamp(1.7rem, 4vw, 2.4rem);
+}
+
+.start-dock .cover-hook {
+  max-width: 42ch;
+}
+
+.coming-soon-row {
+  margin: 0.5rem 0 1.75rem;
+}
+
+.coming-soon-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+}
+
+@media (min-width: 720px) {
+  .coming-soon-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.soon-card[data-story-id="called-home"] {
+  --ch-navy: #0b1426;
+  --ch-navy-deep: #081023;
+  --ch-steel: #4a6b8f;
+  --ch-cream: #e6d5b7;
+  --ch-amber: #c08a3e;
+  display: flex;
+  align-items: stretch;
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0.55rem;
+  border-radius: 12px;
+  background: linear-gradient(165deg, var(--ch-navy) 0%, var(--ch-navy-deep) 100%);
+  border: 1px solid rgba(74, 107, 143, 0.5);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+}
+
+.soon-card[data-story-id="called-home"] .soon-card-art {
+  width: 6.5rem;
+  height: 4.6rem;
+  flex-shrink: 0;
+  object-fit: cover;
+  object-position: center center;
+  border-radius: 8px;
+  border: 1px solid rgba(90, 104, 120, 0.7);
+}
+
+.soon-card[data-story-id="called-home"] .soon-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
+.soon-card[data-story-id="called-home"] .soon-card-kicker {
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ch-cream);
+}
+
+.soon-card[data-story-id="called-home"] .soon-card-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--ch-cream);
+}
+
+.soon-card[data-story-id="called-home"] .soon-card-teaser {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #c9d3df;
+}
+
+.soon-card[data-story-id="off-the-clock"] {
+  margin: 0;
+}
+
+/* Gentle section entrance; honor reduced motion */
+.site-header,
+.lead-hero,
+.forge-strip,
+.live-catalog,
+.coming-soon-row,
+.site-footer {
+  animation: landing-rise 0.55s ease both;
+}
+
+.lead-hero { animation-delay: 0.04s; }
+.forge-strip { animation-delay: 0.08s; }
+.live-catalog { animation-delay: 0.12s; }
+.coming-soon-row { animation-delay: 0.16s; }
+.site-footer { animation-delay: 0.2s; }
+
+@keyframes landing-rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-header,
+  .lead-hero,
+  .forge-strip,
+  .live-catalog,
+  .coming-soon-row,
+  .site-footer {
+    animation: none;
+  }
 }
