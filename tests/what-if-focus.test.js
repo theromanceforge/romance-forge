@@ -1,9 +1,24 @@
-import { describe, it, expect, beforeAll, beforeEach, vi } from 'vitest';
-import { selectWhatIfCards, pathForReplayFrom, saveLastFinished, clearLastFinished } from '../src/whatIf.js';
+import { describe, it, expect, beforeAll, beforeEach, afterEach, vi } from 'vitest';
+import { selectWhatIfCards, saveLastFinished, clearLastFinished } from '../src/whatIf.js';
 import { getStory } from '../src/stories/index.js';
+
+// Deterministic: no live Supabase from .env.local. Otherwise boot fires real
+// network calls (auth/getSession, review aggregates, readers-say) whose late
+// setState→render() can swap the DOM mid-test.
+vi.mock('../src/auth/supabaseClient.js', () => ({
+  getSupabaseClient: () => null,
+  isSupabaseConfigured: () => false,
+  __resetSupabaseClientForTests: () => {},
+}));
+
+const FRAME_MS = 16;
+const MOMENTUM_MS = 240; // mirrors src/main.js MOMENTUM_MS
 
 describe('what-if replay scrolls highlighted choice into view', () => {
   let mod;
+  let scrollIntoView;
+  let focus;
+  let scrollTo;
   const fullPath = [
     'scene1',
     'scene2a',
@@ -21,30 +36,61 @@ describe('what-if replay scrolls highlighted choice into view', () => {
     window.scrollTo = () => {};
     document.body.innerHTML = '<div id="app"></div>';
     mod = await import('../src/main.js');
+    // Let any boot microtasks (stub stores) settle before timers are faked.
+    await vi.dynamicImportSettled();
+    await Promise.resolve();
   });
 
   beforeEach(() => {
+    vi.restoreAllMocks();
+    // Fake setTimeout (momentum beat) and drive rAF off the same fake clock so
+    // the double-rAF in scheduleWhatIfHighlightFocus runs only when we advance.
+    vi.useFakeTimers({ toFake: ['setTimeout', 'clearTimeout'] });
+    const raf = (cb) => setTimeout(() => cb(Date.now()), FRAME_MS);
+    const caf = (id) => clearTimeout(id);
+    vi.stubGlobal('requestAnimationFrame', raf);
+    vi.stubGlobal('cancelAnimationFrame', caf);
+    window.requestAnimationFrame = raf;
+    window.cancelAnimationFrame = caf;
+
+    // Prototype-level spies: survive any re-render that replaces elements.
+    scrollIntoView = vi.fn();
+    Element.prototype.scrollIntoView = scrollIntoView;
+    focus = vi.spyOn(HTMLElement.prototype, 'focus').mockImplementation(() => {});
+    scrollTo = vi.fn();
+    window.scrollTo = scrollTo;
+
     sessionStorage.clear();
     clearLastFinished();
-    vi.restoreAllMocks();
+    // Drain any focus request left over from a previous test.
+    mod.scheduleWhatIfHighlightFocus();
+    vi.runOnlyPendingTimers();
+    scrollIntoView.mockClear();
+    focus.mockClear();
+    scrollTo.mockClear();
   });
 
-  async function flushFocus() {
-    // momentum (240ms) + double rAF
-    await new Promise((r) => setTimeout(r, 300));
-    await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+  afterEach(() => {
+    vi.runOnlyPendingTimers();
+    vi.useRealTimers();
+    vi.unstubAllGlobals();
+    delete Element.prototype.scrollIntoView;
+  });
+
+  /** Advance past the double rAF (two frames). */
+  function flushDoubleRaf() {
+    vi.advanceTimersByTime(FRAME_MS * 2);
   }
 
-  it('ending Replay from here schedules scrollIntoView(center) + focus on highlight', async () => {
+  function lastCallContext(fn) {
+    return fn.mock.contexts[fn.mock.contexts.length - 1];
+  }
+
+  it('ending Replay from here schedules scrollIntoView(center) + focus on highlight', () => {
     const story = getStory('until-the-quiet-breaks');
     const cards = selectWhatIfCards(story, fullPath, { spice: 'warm', max: 3 });
-    const target = cards[0]; // Chapter 9 fork typically
+    const target = cards[0];
     expect(target.sceneId).toBeTruthy();
-
-    const scrollIntoView = vi.fn();
-    const focus = vi.fn();
-    const scrollTo = vi.fn();
-    window.scrollTo = scrollTo;
 
     mod.setState({
       view: 'reader',
@@ -66,38 +112,37 @@ describe('what-if replay scrolls highlighted choice into view', () => {
     expect(btn).toBeTruthy();
     btn.click();
 
-    await flushFocus();
+    // Momentum beat: nothing focused yet.
+    expect(document.querySelector('[data-testid="momentum"]')).toBeTruthy();
+    expect(scrollIntoView).not.toHaveBeenCalled();
 
+    vi.advanceTimersByTime(MOMENTUM_MS);
     expect(mod.state.sceneId).toBe(target.sceneId);
     expect(mod.state.whatIfHighlightId).toBe(target.choiceId);
 
     const highlighted = document.querySelector('.choice--what-if-highlight');
     expect(highlighted).toBeTruthy();
     expect(highlighted.getAttribute('data-choice-id')).toBe(target.choiceId);
+    // Focus waits for the double rAF after render.
+    expect(scrollIntoView).not.toHaveBeenCalled();
 
-    // Patch methods on the live element and re-trigger schedule via exported helpers
-    highlighted.scrollIntoView = scrollIntoView;
-    highlighted.focus = focus;
-    mod.requestWhatIfHighlightFocus();
-    mod.scheduleWhatIfHighlightFocus();
-    await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+    flushDoubleRaf();
 
-    expect(scrollIntoView).toHaveBeenCalled();
+    expect(scrollIntoView).toHaveBeenCalledTimes(1);
+    expect(lastCallContext(scrollIntoView)).toBe(highlighted);
     const arg = scrollIntoView.mock.calls[0][0] || {};
     expect(arg.block).toBe('center');
-    expect(arg.behavior === 'auto' || arg.behavior === undefined || arg.behavior === 'instant').toBe(true);
+    expect(arg.behavior).toBe('auto');
     expect(arg.behavior).not.toBe('smooth');
     expect(focus).toHaveBeenCalledWith({ preventScroll: true });
+    expect(lastCallContext(focus)).toBe(highlighted);
   });
 
-  it('landing compact Replay also requests highlight focus', async () => {
+  it('landing compact Replay also requests highlight focus', () => {
     const story = getStory('until-the-quiet-breaks');
     const cards = selectWhatIfCards(story, fullPath, { spice: 'hot', max: 2 });
     const target = cards[0];
     saveLastFinished({ storyId: story.id, path: fullPath, spice: 'hot' });
-
-    const scrollIntoView = vi.fn();
-    const focus = vi.fn();
 
     mod.setState({
       view: 'landing',
@@ -114,29 +159,28 @@ describe('what-if replay scrolls highlighted choice into view', () => {
     );
     expect(btn).toBeTruthy();
     btn.click();
-    await new Promise((r) => setTimeout(r, 50));
-    expect(mod.state.view).toBe('reader');
-    expect(mod.state.whatIfHighlightId).toBe(target.choiceId);
 
+    // Landing replay renders the reader synchronously (no momentum beat).
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.sceneId).toBe(target.sceneId);
+    expect(mod.state.whatIfHighlightId).toBe(target.choiceId);
     const highlighted = document.querySelector('.choice--what-if-highlight');
     expect(highlighted).toBeTruthy();
-    highlighted.scrollIntoView = scrollIntoView;
-    highlighted.focus = focus;
-    // Landing path already requested focus once; request again to assert call shape.
-    mod.requestWhatIfHighlightFocus();
-    mod.scheduleWhatIfHighlightFocus();
-    await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+    expect(highlighted.getAttribute('data-choice-id')).toBe(target.choiceId);
+    expect(scrollIntoView).not.toHaveBeenCalled();
+
+    flushDoubleRaf();
+
+    expect(scrollIntoView).toHaveBeenCalledTimes(1);
     expect(scrollIntoView).toHaveBeenCalledWith(
       expect.objectContaining({ block: 'center', behavior: 'auto' })
     );
+    expect(lastCallContext(scrollIntoView)).toBe(highlighted);
     expect(focus).toHaveBeenCalledWith({ preventScroll: true });
+    expect(lastCallContext(focus)).toBe(highlighted);
   });
 
-  it('falls back to scrollTo(0,0) when highlight element is missing', async () => {
-    const scrollTo = vi.fn();
-    window.scrollTo = scrollTo;
-    mod.requestWhatIfHighlightFocus();
-    // Render a non-highlight reader scene so query returns null
+  it('falls back to scrollTo(0,0) when highlight element is missing', () => {
     const story = getStory('until-the-quiet-breaks');
     mod.setState({
       view: 'reader',
@@ -147,10 +191,15 @@ describe('what-if replay scrolls highlighted choice into view', () => {
       path: ['scene1'],
       whatIfHighlightId: '',
     });
-    // Flag was cleared by setState→render with no highlight; re-request and schedule alone
+    expect(document.querySelector('.choice--what-if-highlight')).toBeNull();
+
     mod.requestWhatIfHighlightFocus();
     mod.scheduleWhatIfHighlightFocus();
-    await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+    expect(scrollTo).not.toHaveBeenCalled();
+
+    flushDoubleRaf();
+
     expect(scrollTo).toHaveBeenCalledWith(0, 0);
+    expect(scrollIntoView).not.toHaveBeenCalled();
   });
 });
