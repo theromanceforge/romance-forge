@@ -1283,14 +1283,18 @@ function bindEvents() {
       const ready =
         storyOk && (spice === 'warm' || spice === 'hot') && Boolean(name);
 
-      if (ready && form) {
+      // Always run the form's submit handler: when something is missing it
+      // shows the inline error (e.g. "Choose Warm or Hot") instead of a silent scroll.
+      if (form) {
         if (typeof form.requestSubmit === 'function') form.requestSubmit();
         else form.dispatchEvent(new Event('submit', { cancelable: true, bubbles: true }));
-        return;
       }
+      if (ready) return;
 
-      form?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      input?.focus({ preventScroll: true });
+      const meter = app.querySelector('[data-testid="spice-meter"]');
+      const needsSpice = storyOk && spice !== 'warm' && spice !== 'hot';
+      ((needsSpice && meter) || form)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      if (!needsSpice) input?.focus({ preventScroll: true });
     });
 
     // Show sticky Begin only once the on-cover CTA scrolls away — avoid fighting it.

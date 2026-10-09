@@ -100,3 +100,51 @@ describe('first visit: landing → Begin', () => {
     );
   });
 });
+
+describe('first visit: mobile sticky Begin', () => {
+  let mod;
+
+  beforeAll(async () => {
+    mod = await import('../src/main.js');
+  });
+
+  beforeEach(() => {
+    sessionStorage.clear();
+    mod.setState({
+      view: 'landing',
+      storyId: 'the-living-key',
+      spice: '',
+      playerName: '',
+      path: [],
+      _pendingResume: false,
+      _pendingWhatIfReplay: null,
+      savePromptVisible: false,
+    });
+  });
+
+  it('explains a missing Warm/Hot pick instead of silently scrolling', () => {
+    typeName('Jess');
+    /** @type {HTMLButtonElement} */ ($('[data-action="sticky-begin"]')).click();
+    const err = /** @type {HTMLElement} */ ($('[data-testid="start-error"]'));
+    expect(mod.state.view).toBe('landing');
+    expect(err.hidden).toBe(false);
+    expect(err.textContent).toMatch(/Warm or Hot/);
+  });
+
+  it('explains a missing name', () => {
+    pickSpice('warm');
+    /** @type {HTMLButtonElement} */ ($('[data-action="sticky-begin"]')).click();
+    const err = /** @type {HTMLElement} */ ($('[data-testid="start-error"]'));
+    expect(err.hidden).toBe(false);
+    expect(err.textContent).toMatch(/Enter your name/);
+  });
+
+  it('starts The Living Key when name + spice are set', () => {
+    pickSpice('warm');
+    typeName('Jess');
+    /** @type {HTMLButtonElement} */ ($('[data-action="sticky-begin"]')).click();
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.storyId).toBe('the-living-key');
+    expect($('[data-testid="scene"]')?.getAttribute('data-scene-id')).toBe('scene1');
+  });
+});
