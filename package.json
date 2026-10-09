@@ -15,7 +15,8 @@
     "schema:reviews": "node scripts/apply-reviews-schema.mjs",
     "schema:events": "node scripts/apply-events-schema.mjs",
     "prove:cloud": "node scripts/prove-cloud-save.mjs",
-    "brief": "node scripts/daily-brief.mjs"
+    "brief": "node scripts/daily-brief.mjs",
+    "check:phone-overflow": "node scripts/check-phone-overflow.mjs"
   },
   "devDependencies": {
     "jsdom": "^25.0.1",
