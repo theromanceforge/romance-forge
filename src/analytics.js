@@ -27,6 +27,9 @@ export const EVENTS = Object.freeze([
 
 const EVENT_SET = new Set(EVENTS);
 const SID_KEY = 'romanceForge.analytics.sid';
+const TAB_SID_KEY = 'romanceForge.analytics.tabSid';
+/** Key in `meta` carrying the per-tab-session id (no DB column needed). */
+export const TAB_SESSION_META_KEY = 'tab_sid';
 const FIRST_VIEW_KEY = 'romanceForge.analytics.firstView';
 export const FLUSH_MS = 2000;
 export const MAX_BATCH = 20;
@@ -106,6 +109,25 @@ export function getSessionId() {
   }
 }
 
+let memoryTabSid = '';
+/**
+ * Random, non-PII id for this tab session (sessionStorage): new per visit/tab,
+ * so a daily brief can rebuild one reading session's path. Never derived from
+ * the player name or any user data.
+ */
+export function getTabSessionId() {
+  try {
+    const existing = sessionStorage.getItem(TAB_SID_KEY);
+    if (existing && /^[A-Za-z0-9_-]{8,64}$/.test(existing)) return existing;
+    const id = randomId();
+    sessionStorage.setItem(TAB_SID_KEY, id);
+    return id;
+  } catch {
+    if (!memoryTabSid) memoryTabSid = randomId();
+    return memoryTabSid;
+  }
+}
+
 /**
  * Trimmed, lowercased first name capped at 24 chars ('' when unusable).
  * @param {unknown} name
@@ -126,7 +148,7 @@ function cleanMeta(meta) {
   const out = {};
   let n = 0;
   for (const [k, v] of Object.entries(meta)) {
-    if (n >= 12) break;
+    if (n >= 11) break; // 12th key is reserved for tab_sid
     const key = String(k).slice(0, 32);
     if (typeof v === 'number' || typeof v === 'boolean' || v === null) out[key] = v;
     else if (v !== undefined) out[key] = String(v).slice(0, 120);
@@ -188,7 +210,9 @@ export function buildRow(event, props = {}) {
     utm_medium: null,
     utm_campaign: null,
     player_name: null,
-    meta: cleanMeta(props.meta),
+    // Per-tab session id rides in the existing jsonb `meta` column (always set,
+    // never dropped by the 12-key cap) — no schema change required.
+    meta: { ...cleanMeta(props.meta), [TAB_SESSION_META_KEY]: getTabSessionId() },
   };
   if (event === 'story_start') {
     const name = normalizePlayerName(props.playerName);
@@ -408,6 +432,7 @@ export function __resetAnalyticsForTests() {
   recent.clear();
   overrides = null;
   memorySid = '';
+  memoryTabSid = '';
 }
 export function __getQueueForTests() {
   return queue.slice();

@@ -13,7 +13,10 @@ If the table is missing it stops for the rest of the page load (fail soft).
 Events: `page_view`, `story_click`, `story_start`, `scene_view`, `choice`,
 `story_complete`, `ad_shown`, `review_submitted`, `signup`, `outbound_click`.
 
-Privacy: `session_id` is a random id in localStorage. Referrer host + UTM are captured on the
+Privacy: `session_id` is a random id in localStorage (per browser). Every row also carries
+`meta.tab_sid`, a random id in sessionStorage (per tab session) so one reading session's path
+(story_start → scene_view → choice …) can be rebuilt; it lives in the existing `meta` jsonb, so no
+schema change is needed. Referrer host + UTM are captured on the
 first `page_view` of a tab session. The player name is sent only on `story_start`, as a
 trimmed, lowercased first name (≤ 24 chars), for the top-names aggregate.
 

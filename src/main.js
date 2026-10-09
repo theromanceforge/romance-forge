@@ -1,4 +1,23 @@
-import { getStory, STORIES, story as defaultStory } from './stories/index.js';
+import {
+  LOADED_STORIES as STORIES,
+  DEFAULT_STORY_ID,
+  START_SCENE_ID,
+  getLoadedStory,
+  isKnownStory,
+  loadStory,
+  prefetchStory,
+} from './stories/lazy.js';
+
+/**
+ * Loaded story by id (throws if its chunk hasn't loaded yet).
+ * @param {string} id
+ * @returns {import('./engine.js').Story}
+ */
+function getStory(id) {
+  const s = getLoadedStory(id);
+  if (!s) throw new Error(`Story not loaded: ${id}`);
+  return s;
+}
 import {
   substituteName,
   getScene,
@@ -38,7 +57,7 @@ import {
   createSupabaseSaveStore,
 } from './save/store.js';
 import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js';
-import { resumeSceneLabel } from './save/resumeLabel.js';
+import { resumeSceneLabel, humanizeSceneId } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
 import {
@@ -91,6 +110,19 @@ import {
 } from './reviews/ui.js';
 
 const SPICE_KEY = 'romanceForge.spice';
+/** Friendly default heroine name: the name step is optional (one-tap Begin). */
+export const DEFAULT_PLAYER_NAME = 'Rose';
+
+/** Typed name, or the friendly default when the field is left empty. */
+function resolvePlayerName(raw) {
+  const name = String(raw ?? '').trim();
+  return name || DEFAULT_PLAYER_NAME;
+}
+
+/** Analytics only records a name the reader actually chose (not the default). */
+function chosenNameForAnalytics(name) {
+  return name === DEFAULT_PLAYER_NAME ? '' : name;
+}
 const STORY_KEY = 'romanceForge.storyId';
 
 const localSaveStore = createLocalSaveStore();
@@ -107,20 +139,19 @@ const cloudReviewStore = supabaseClient
 /** @returns {import('./engine.js').Story} */
 function activeStory() {
   const id = state?.storyId;
-  if (id && STORIES[id]) return STORIES[id];
-  return defaultStory;
+  return getLoadedStory(id || DEFAULT_STORY_ID);
 }
 
 /** Brand cover path for a story slug. */
 function storyCoverPath(storyId) {
-  const id = storyId || defaultStory.id;
+  const id = storyId || DEFAULT_STORY_ID;
   return assetUrl(`/brand/cover-${id}.png`);
 }
 
 function persistGuestProgress(partial = {}) {
   const sceneId = partial.sceneId ?? state.sceneId;
   const path = partial.path ?? state.path;
-  const storySlug = partial.storyId ?? state.storyId ?? defaultStory.id;
+  const storySlug = partial.storyId ?? state.storyId ?? DEFAULT_STORY_ID;
   if (!sceneId || !path?.length) return;
   const record = createSaveRecord({
     userId: saveUserId(state.auth),
@@ -141,7 +172,7 @@ function persistGuestProgress(partial = {}) {
  * Prefer cloud (via local userId cache seeded on login) over guest local when authenticated.
  * Sync for landing resume UI; cloud is refreshed async on auth.
  */
-function loadGuestSave(storySlug = state.storyId || defaultStory.id) {
+function loadGuestSave(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (state.cloudResume && state.cloudResume.storySlug === storySlug) {
     return state.cloudResume;
   }
@@ -154,7 +185,7 @@ function loadGuestSave(storySlug = state.storyId || defaultStory.id) {
   return null;
 }
 
-async function refreshCloudResume(storySlug = state.storyId || defaultStory.id) {
+async function refreshCloudResume(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (isGuest(state.auth) || !cloudConfigured) {
     if (state.cloudResume) setState({ cloudResume: null });
     return;
@@ -174,7 +205,7 @@ async function refreshCloudResume(storySlug = state.storyId || defaultStory.id) 
 }
 
 async function applyAuthenticatedSession(session, statusMessage = '') {
-  const storySlug = state.storyId || defaultStory.id;
+  const storySlug = state.storyId || DEFAULT_STORY_ID;
   const inProgress =
     state.path?.length && state.sceneId
       ? { sceneId: state.sceneId, path: state.path }
@@ -218,7 +249,7 @@ function maybeOfferSavePrompt(trigger) {
 }
 
 
-function clearGuestSave(storySlug = state.storyId || defaultStory.id) {
+function clearGuestSave(storySlug = state.storyId || DEFAULT_STORY_ID) {
   const clear = localSaveStore.clear;
   if (typeof clear === 'function') {
     clear.call(localSaveStore, saveUserId(state.auth), storySlug);
@@ -257,7 +288,7 @@ function authHeaderHtml() {
  * Pure local — no network.
  */
 function runMockAccountHandoff() {
-  const storySlug = state.storyId || defaultStory.id;
+  const storySlug = state.storyId || DEFAULT_STORY_ID;
   const { session, copied } = handoffGuestToMockAccount({
     localStore: localSaveStore,
     storySlug,
@@ -396,7 +427,7 @@ function readStoredStoryId() {
 let state = {
   view: 'landing',
   playerName: '',
-  sceneId: defaultStory.startSceneId,
+  sceneId: START_SCENE_ID,
   previousSceneId: '',
   spice: readStoredSpice(),
   storyId: readStoredStoryId(),
@@ -460,7 +491,7 @@ async function refreshReviewAggregates() {
   setState({ reviewAggregates: next });
 }
 
-async function refreshReadersSay(storySlug = state.storyId || defaultStory.id) {
+async function refreshReadersSay(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (!cloudConfigured || !storySlug) {
     if (state.readersSay?.length) setState({ readersSay: [] });
     return;
@@ -474,7 +505,7 @@ async function refreshReadersSay(storySlug = state.storyId || defaultStory.id) {
 }
 
 const _reviewHydrateInflight = new Set();
-function maybeHydrateCloudReview(storySlug = state.storyId || defaultStory.id) {
+function maybeHydrateCloudReview(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (!storySlug || isGuest(state.auth) || !cloudConfigured) return;
   if (hasGuestReviewDecision(storySlug)) return;
   if (_reviewHydrateInflight.has(storySlug)) return;
@@ -502,7 +533,7 @@ function maybeHydrateCloudReview(storySlug = state.storyId || defaultStory.id) {
 }
 
 function submitEndingReview() {
-  const storyId = state.storyId || defaultStory.id;
+  const storyId = state.storyId || DEFAULT_STORY_ID;
   const stars = state.reviewDraftStars;
   const errEl = app.querySelector('[data-testid="review-error"]');
   if (!stars || stars < 1 || stars > 5) {
@@ -567,9 +598,11 @@ function renderLanding() {
   // Quiet Breaks scene1 art remains a known public asset for tests/branding.
   // '/art/until-the-quiet-breaks/scene1.png'
   const current = activeStory();
-  const guestSave = loadGuestSave(state.storyId || defaultStory.id);
+  const guestSave = loadGuestSave(state.storyId || DEFAULT_STORY_ID);
   const resumeLabel = guestSave?.sceneId
-    ? resumeSceneLabel(guestSave.sceneId, current)
+    ? current
+      ? resumeSceneLabel(guestSave.sceneId, current)
+      : humanizeSceneId(guestSave.sceneId)
     : '';
   const resumeHtml =
     guestSave && guestSave.sceneId && guestSave.path?.length
@@ -602,8 +635,14 @@ function renderLanding() {
   const lastFinishedValid =
     lastFinished &&
     CATALOG.some((c) => c.id === lastFinished.storyId && c.available);
+  if (lastFinishedValid && !getLoadedStory(lastFinished.storyId)) {
+    // What-if strip needs that story's scenes: load, then re-render.
+    loadStory(lastFinished.storyId).then(() => {
+      if (state.view === 'landing') render();
+    }, () => {});
+  }
   let landingWhatIfHtml = '';
-  if (lastFinishedValid) {
+  if (lastFinishedValid && getLoadedStory(lastFinished.storyId)) {
     const finishedStory = getStory(lastFinished.storyId);
     const finishedEntry = catalogEntry(lastFinished.storyId);
     const compactCards = selectWhatIfCards(finishedStory, lastFinished.path, {
@@ -640,7 +679,7 @@ function renderLanding() {
                 ${art}
                 <span class="story-card-body">
                   <span class="story-card-title">${escapeHtml(c.title)}</span>
-                  <span class="story-card-blurb">${escapeHtml(c.blurb)}</span>
+                  ${selected ? `<span class="story-card-blurb">${escapeHtml(c.blurb)}</span>` : ''}
                   ${renderCatalogStarLine(state.reviewAggregates[c.id])}
                 </span>
               </button>`;
@@ -648,41 +687,10 @@ function renderLanding() {
           </div>
         </fieldset>`;
 
-  const chipsHtml = (entry.chips || [])
-    .map((chip) => `<li class="cover-chip">${escapeHtml(chip)}</li>`)
-    .join('');
-
-  const playableNow = CATALOG.filter((c) => c.available).map((c) => c.title);
-  const comingSoon = CATALOG.filter((c) => !c.available).map((c) => c.title);
-  const playableLine = playableNow.length
-    ? `Live now: ${playableNow.join(' · ')}${comingSoon.length ? `. Coming soon: ${comingSoon.join(' · ')}` : ''}.`
-    : 'Stories forging — check back soon.';
-
+  // Keep pre-story copy to the minimum: one line of what this is, then the picker.
   const forgeStripHtml = `
-      <section class="forge-strip" data-testid="forge-strip" aria-label="About Romance Forge">
-        <div class="forge-strip-mark">
-          <img
-            class="forge-strip-logo"
-            src="${assetUrl('/brand/logo-heart-anvil.png')}"
-            alt=""
-            width="40"
-            height="40"
-            aria-hidden="true"
-          />
-          <p class="forge-strip-brand">Romance Forge — ink, ember, and the stories you choose.</p>
-        </div>
-        <p class="forge-strip-what">
-          You are holding interactive branching spicy romance: you read by choosing, and the path burns different each time.
-        </p>
-        <p class="forge-strip-purpose">
-          Made for wine-night readers who want Warm yearning or Hot, explicit heat — with real grit and real feeling.
-        </p>
-        <ol class="forge-strip-how">
-          <li>Choose a title</li>
-          <li>Pick Warm or Hot</li>
-          <li>Branch through choices</li>
-        </ol>
-        <p class="forge-strip-playable" data-testid="playable-now">${escapeHtml(playableLine)}</p>
+      <section class="forge-strip forge-strip--compact" data-testid="forge-strip" aria-label="About Romance Forge">
+        <p class="forge-strip-what">Interactive romance: you read by choosing.</p>
       </section>`;
 
   return `
@@ -725,16 +733,11 @@ function renderLanding() {
             <p class="cover-hook">
               ${escapeHtml(entry.hook || '')}
             </p>
-            <p class="cover-pull">${escapeHtml(entry.pull || '')}</p>
-            <ul class="cover-chips" aria-label="Story atmosphere">
-              ${chipsHtml}
-            </ul>
             <span class="story-badge live cover-badge">${escapeHtml(entry.badge || '')}</span>
             ${renderReadersSayStrip(state.readersSay)}
 
             <fieldset class="spice-meter cover-spice" data-testid="spice-meter">
               <legend class="visually-hidden">Spice level</legend>
-              <p class="spice-hint">Warm = yearning soft-close. Hot = explicit body-POV—wine night, no apology.</p>
               <div class="spice-options" role="radiogroup" aria-label="Spice level">
                 <label class="spice-option${spice === 'warm' ? ' selected' : ''}">
                   <input
@@ -762,16 +765,16 @@ function renderLanding() {
               </div>
             </fieldset>
 
-            <form id="start-form" class="start-form cover-start">
+            <form id="start-form" class="start-form cover-start" novalidate>
               <label for="player-name" class="visually-hidden">Your name</label>
               <input
                 id="player-name"
                 name="playerName"
                 type="text"
                 maxlength="40"
-                placeholder="Your name (e.g. Eleanor)"
+                placeholder="Your name (optional)"
                 autocomplete="given-name"
-                required
+                value="${escapeHtml(state.playerName || DEFAULT_PLAYER_NAME)}"
                 data-testid="name-input"
               />
               <p class="form-error" data-testid="start-error" hidden></p>
@@ -810,7 +813,7 @@ function renderReader() {
   const raw = getSceneText(scene, spice);
   const body = substituteName(raw, state.playerName);
   const ending = isEnding(scene);
-  if (ending) maybeHydrateCloudReview(state.storyId || defaultStory.id);
+  if (ending) maybeHydrateCloudReview(state.storyId || DEFAULT_STORY_ID);
   const choices = ending ? [] : getChoices(scene);
   // Reader: inline card after the choices (in flow) so it never covers prose or choices.
   const savePromptHtml = state.savePromptVisible
@@ -834,14 +837,14 @@ function renderReader() {
     : '';
 
   const storyTitle = story.title || entryTitleFor(state.storyId);
-  const guestDecision = getGuestReview(state.storyId || defaultStory.id);
+  const guestDecision = getGuestReview(state.storyId || DEFAULT_STORY_ID);
   const showReview = shouldShowReviewPrompt({
     isEnding: ending,
     hasDecision: Boolean(guestDecision),
   });
   const reviewHtml = ending
     ? renderEndingReviewPanel({
-        storyId: state.storyId || defaultStory.id,
+        storyId: state.storyId || DEFAULT_STORY_ID,
         storyTitle,
         spice: spice,
         defaultDisplayName: defaultReviewDisplayName({
@@ -852,7 +855,7 @@ function renderReader() {
       })
     : '';
 
-  const whatIfOverrides = catalogEntry(state.storyId || defaultStory.id)?.whatIf;
+  const whatIfOverrides = catalogEntry(state.storyId || DEFAULT_STORY_ID)?.whatIf;
   const whatIfCards = ending
     ? selectWhatIfCards(story, state.path, {
         spice,
@@ -865,7 +868,7 @@ function renderReader() {
 
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
-         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
+         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || DEFAULT_STORY_ID))}</p>
          ${reviewHtml}
          ${whatIfHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
@@ -893,9 +896,14 @@ function renderReader() {
           )
           .join("")}
       </div>
-      <button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
+      ${
+        // Nothing to restart on the opening scene — keep it away from the first choice.
+        state.sceneId === story.startSceneId
+          ? ''
+          : `<button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
         Restart
-      </button>`;
+      </button>`
+      }`;
 
   const hasHotBody = Boolean(scene.textHot);
   const spiceSwapHtml = `
@@ -919,7 +927,7 @@ function renderReader() {
           >Hot</button>
         </div>`;
 
-  const artSrc = assetUrl(getSceneArtPath(state.storyId || defaultStory.id, scene));
+  const artSrc = assetUrl(getSceneArtPath(state.storyId || DEFAULT_STORY_ID, scene));
   const artAlt = scene.title
     ? `Illustration: ${scene.title}`
     : 'Story illustration';
@@ -929,8 +937,8 @@ function renderReader() {
             class="scene-art-img"
             src="${escapeHtml(artSrc)}"
             alt="${escapeHtml(artAlt)}"
-            width="1024"
-            height="1024"
+            width="1280"
+            height="720"
             loading="eager"
             decoding="async"
             data-testid="scene-art-img"
@@ -976,6 +984,13 @@ function renderReader() {
         </div>
         ${choicesHtml}
       </article>
+      ${
+        ending
+          ? ''
+          : `<button type="button" class="choice-cue" data-action="scroll-to-choices" data-testid="choice-cue" hidden>
+        Your choice is below <span class="choice-cue-arrow" aria-hidden="true">↓</span>
+      </button>`
+      }
       ${savePromptHtml}
       ${authModalHtml()}
     </main>
@@ -992,7 +1007,7 @@ function bindSceneArt() {
   const img = app.querySelector('[data-testid="scene-art-img"]');
   if (!figure || !img) return;
 
-  const coverSrc = storyCoverPath(state.storyId || activeStory().id);
+  const coverSrc = storyCoverPath(state.storyId || DEFAULT_STORY_ID);
 
   const reveal = () => {
     figure.hidden = false;
@@ -1053,6 +1068,8 @@ function escapeHtml(str) {
 }
 
 const MOMENTUM_MS = 240;
+/** How long the armed "Tap again to restart" state lasts. */
+const RESTART_CONFIRM_MS = 4000;
 
 /** One-shot: after a what-if replay render, scroll/focus the highlighted choice. */
 let _pendingWhatIfFocus = false;
@@ -1102,6 +1119,10 @@ function scheduleWhatIfHighlightFocus() {
  */
 function advanceWithMomentum(partial) {
   state = { ...state, ...partial, _transitioning: true };
+  if (_choiceCueObserver) {
+    _choiceCueObserver.disconnect();
+    _choiceCueObserver = null;
+  }
   app.innerHTML = `
     <main class="page reader momentum" data-testid="momentum" aria-live="polite">
       <p class="momentum-beat" data-testid="momentum-beat">…</p>
@@ -1131,7 +1152,7 @@ function trackViewTransition() {
     _trackedScene = key;
     const scene = getScene(activeStory(), state.sceneId);
     const props = {
-      storyId: state.storyId || defaultStory.id,
+      storyId: state.storyId || DEFAULT_STORY_ID,
       spice: state.spice,
       layer: scene.layer,
       sceneId: state.sceneId,
@@ -1141,7 +1162,7 @@ function trackViewTransition() {
       track('story_complete', props);
       try {
         saveLastFinished({
-          storyId: state.storyId || defaultStory.id,
+          storyId: state.storyId || DEFAULT_STORY_ID,
           path: Array.isArray(state.path) ? state.path : [],
           spice: state.spice === 'hot' ? 'hot' : 'warm',
         });
@@ -1154,11 +1175,203 @@ function trackViewTransition() {
   }
 }
 
+/** IntersectionObserver for the "Your choice is below" cue (one per rendered scene). */
+let _choiceCueObserver = null;
+/** story|scene whose choices the reader has already reached (cue stays gone on re-render). */
+let _choiceCueSeen = '';
+
+/**
+ * Show a subtle "Your choice is below ↓" pill while the scene's choices are
+ * below the viewport (long scenes, e.g. scene 1). Hides for good once the
+ * choices scroll into view; tapping scrolls to them. No-op without IO.
+ */
+function bindChoiceCue() {
+  if (_choiceCueObserver) {
+    _choiceCueObserver.disconnect();
+    _choiceCueObserver = null;
+  }
+  const cue = /** @type {HTMLButtonElement | null} */ (app.querySelector('[data-testid="choice-cue"]'));
+  const target = /** @type {HTMLElement | null} */ (app.querySelector('[data-testid="choice-prompt"]'));
+  if (!cue || !target || typeof IntersectionObserver !== 'function') return;
+  const key = `${state.storyId}|${state.sceneId}`;
+  if (_choiceCueSeen === key) return;
+  const done = () => {
+    _choiceCueSeen = key;
+    cue.hidden = true;
+    if (_choiceCueObserver === io) _choiceCueObserver = null;
+    io.disconnect();
+  };
+  const io = new IntersectionObserver((entries) => {
+    const entry = entries[entries.length - 1];
+    if (!entry) return;
+    // In view, or already scrolled past (top above the viewport) → reader found them.
+    if (entry.isIntersecting || entry.boundingClientRect.top < 0) {
+      done();
+      return;
+    }
+    cue.hidden = false;
+  });
+  io.observe(target);
+  _choiceCueObserver = io;
+  cue.addEventListener('click', () => {
+    let reduce = false;
+    try {
+      reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ?? false;
+    } catch {
+      /* ignore */
+    }
+    target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
+    done();
+    /** @type {HTMLElement | null} */ (app.querySelector('[data-action="choose"]'))?.focus({
+      preventScroll: true,
+    });
+  });
+}
+
+// —— Browser Back inside a story ——
+// Each scene the reader reaches gets a history entry, so Back steps to the
+// previous scene and, from scene 1, to the catalog — never off the site.
+let _handlingPop = false;
+
+function historyOk() {
+  try {
+    return typeof history !== 'undefined' && typeof history.pushState === 'function';
+  } catch {
+    return false;
+  }
+}
+
+/** Record the reader's current scene as a history entry (no-op if it already is). */
+function syncReaderHistory() {
+  if (!historyOk() || _handlingPop || state.view !== 'reader' || state._transitioning) return;
+  try {
+    const cur = history.state;
+    if (cur?.rf === 'scene' && cur.storyId === state.storyId && cur.sceneId === state.sceneId) return;
+    const depth = cur?.rf === 'scene' ? (Number(cur.depth) || 1) + 1 : 1;
+    if (cur?.rf !== 'scene' && cur?.rf !== 'landing') {
+      // First entry into a story from an untagged landing entry: tag it so Back lands there.
+      history.replaceState({ ...(cur && typeof cur === 'object' ? cur : {}), rf: 'landing' }, '');
+    }
+    history.pushState(
+      {
+        rf: 'scene',
+        storyId: state.storyId,
+        sceneId: state.sceneId,
+        path: Array.isArray(state.path) ? [...state.path] : [],
+        depth,
+      },
+      ''
+    );
+  } catch {
+    /* history must never break reading */
+  }
+}
+
+/**
+ * Leave the reader via the app (Restart): rewind our scene entries. The
+ * resulting popstate lands on the catalog entry while we already show the
+ * catalog, so onPopState treats it as a no-op.
+ */
+function rewindReaderHistory() {
+  if (!historyOk()) return;
+  try {
+    const cur = history.state;
+    const depth = cur?.rf === 'scene' ? Number(cur.depth) || 0 : 0;
+    if (depth > 0) history.go(-depth);
+  } catch {
+    /* ignore */
+  }
+}
+
+function onPopState(e) {
+  const st = e?.state;
+  _handlingPop = true;
+  try {
+    const story = st?.rf === 'scene' ? STORIES[st.storyId] : null;
+    const knownUnloaded = st?.rf === 'scene' && !story && isKnownStory(st.storyId);
+    if (knownUnloaded || (story && story.scenes?.[st.sceneId])) {
+      // Back/forward to a scene: no ads, no choice event (scene_view still fires).
+      const path = Array.isArray(st.path) && st.path.length ? [...st.path] : [st.sceneId];
+      if (_choiceCueObserver) {
+        _choiceCueObserver.disconnect();
+        _choiceCueObserver = null;
+      }
+      setState({
+        view: 'reader',
+        storyId: st.storyId,
+        sceneId: st.sceneId,
+        path,
+        previousSceneId: '',
+        whatIfHighlightId: '',
+        playerName: state.playerName || DEFAULT_PLAYER_NAME,
+        spice: state.spice === 'hot' ? 'hot' : 'warm',
+        savePromptVisible: false,
+        _transitioning: false,
+      });
+      persistGuestProgress({ sceneId: st.sceneId, path });
+      return;
+    }
+    if (state.view === 'reader') {
+      // Back from scene 1 (or an unknown entry) → catalog; progress kept for Continue.
+      persistGuestProgress();
+      setState({
+        view: 'landing',
+        previousSceneId: '',
+        path: [],
+        whatIfHighlightId: '',
+        _transitioning: false,
+      });
+    }
+  } finally {
+    _handlingPop = false;
+  }
+}
+
 let _renderedView = '';
 /** Until this time (ms), landing re-renders re-run revealSpiceMeter(). */
 let _revealUntil = 0;
 
+/** Reader shell while a story's chunk downloads (first open of that story). */
+function renderStoryLoading() {
+  return `
+    <main class="page reader momentum" data-testid="story-loading" aria-live="polite" aria-busy="true">
+      <p class="momentum-beat" data-testid="momentum-beat">…</p>
+    </main>
+  `;
+}
+
+let _loadFailures = 0;
+
 function render() {
+  if (state.view === 'reader') {
+    const id = state.storyId || DEFAULT_STORY_ID;
+    const loaded = getLoadedStory(id);
+    if (!loaded) {
+      // _renderedView stays as-is so the real reader render still scrolls to top.
+      app.innerHTML = renderStoryLoading();
+      loadStory(id).then(
+        () => {
+          _loadFailures = 0;
+          if (state.view === 'reader' && (state.storyId || DEFAULT_STORY_ID) === id) render();
+        },
+        () => {
+          // Chunk failed (offline / deploy swap): back to the catalog with a note.
+          _loadFailures += 1;
+          if (state.view !== 'reader') return;
+          setState({ view: 'landing' });
+          const err = app.querySelector('[data-testid="start-error"]');
+          if (err) {
+            err.hidden = false;
+            err.textContent = 'That story didn’t load — check your connection and tap Begin again.';
+          }
+        }
+      );
+      return;
+    }
+    if (!loaded.scenes[state.sceneId]) {
+      state = { ...state, sceneId: loaded.startSceneId, path: [loaded.startSceneId] };
+    }
+  }
   // Landing re-renders (story / spice pick) replace the whole DOM, which resets
   // the .cover-overlay scroll container and drops focus. Preserve both.
   // Reader spice swaps re-render in place — keep window scroll + focus on the toggle.
@@ -1193,6 +1406,8 @@ function render() {
   }
   _renderedView = state.view;
   bindEvents();
+  bindChoiceCue();
+  syncReaderHistory();
   trackViewTransition();
   scheduleWhatIfHighlightFocus();
 }
@@ -1235,6 +1450,7 @@ function bindEvents() {
       const id = btn.getAttribute('data-story-id');
       if (!id) return;
       track('story_click', { storyId: id, meta: { via: 'card' } });
+      prefetchStory(id);
       setState({ storyId: id });
       _revealUntil = Date.now() + 4000;
       revealSpiceMeter();
@@ -1275,21 +1491,23 @@ function bindEvents() {
         app.querySelector('input[name="spice"]:checked')
       );
       const spice = spiceRadio?.value || state.spice;
-      const name = (input?.value || '').trim();
       const storyOk =
         state.storyId &&
         CATALOG.some((c) => c.id === state.storyId && c.available);
-      const ready =
-        storyOk && (spice === 'warm' || spice === 'hot') && Boolean(name);
+      const ready = storyOk && (spice === 'warm' || spice === 'hot');
 
-      if (ready && form) {
+      // Always run the form's submit handler: when something is missing it
+      // shows the inline error (e.g. "Choose Warm or Hot") instead of a silent scroll.
+      if (form) {
         if (typeof form.requestSubmit === 'function') form.requestSubmit();
         else form.dispatchEvent(new Event('submit', { cancelable: true, bubbles: true }));
-        return;
       }
+      if (ready) return;
 
-      form?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      input?.focus({ preventScroll: true });
+      const meter = app.querySelector('[data-testid="spice-meter"]');
+      const needsSpice = storyOk && spice !== 'warm' && spice !== 'hot';
+      ((needsSpice && meter) || form)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      if (!needsSpice && !storyOk) input?.focus({ preventScroll: true });
     });
 
     // Show sticky Begin only once the on-cover CTA scrolls away — avoid fighting it.
@@ -1309,6 +1527,17 @@ function bindEvents() {
     }
   }
 
+  // Landing re-renders (story / spice pick, async review + auth refreshes) replace
+  // the whole form. Keep the typed name in state so it survives them.
+  const nameField = /** @type {HTMLInputElement | null} */ (
+    app.querySelector('[data-testid="name-input"]')
+  );
+  if (nameField) {
+    nameField.addEventListener('input', () => {
+      state = { ...state, playerName: nameField.value };
+    });
+  }
+
   const form = document.getElementById('start-form');
   if (form) {
     form.addEventListener('submit', (e) => {
@@ -1317,7 +1546,7 @@ function bindEvents() {
       const input = /** @type {HTMLInputElement} */ (
         document.getElementById('player-name')
       );
-      const name = (input?.value || '').trim();
+      const name = resolvePlayerName(input?.value);
       const spiceRadio = /** @type {HTMLInputElement | null} */ (
         app.querySelector('input[name="spice"]:checked')
       );
@@ -1341,19 +1570,12 @@ function bindEvents() {
         }
         return;
       }
-      if (!name) {
-        if (err) {
-          err.hidden = false;
-          err.textContent = 'Enter your name to begin.';
-        }
-        return;
-      }
       if (err) {
         err.hidden = true;
         err.textContent = '';
       }
       const whatIfPending = state._pendingWhatIfReplay;
-      const pending = state._pendingResume ? loadGuestSave(state.storyId || defaultStory.id) : null;
+      const pending = state._pendingResume ? loadGuestSave(state.storyId || DEFAULT_STORY_ID) : null;
       const current = activeStory();
       const usingWhatIf =
         Boolean(whatIfPending?.sceneId && whatIfPending.path?.length);
@@ -1361,14 +1583,14 @@ function bindEvents() {
         ? whatIfPending.sceneId
         : pending?.sceneId && pending.path?.length
           ? pending.sceneId
-          : current.startSceneId;
+          : current?.startSceneId || START_SCENE_ID;
       const startPath = usingWhatIf
         ? [...whatIfPending.path]
         : pending?.path?.length
           ? [...pending.path]
-          : [current.startSceneId];
+          : [current?.startSceneId || START_SCENE_ID];
       const highlightId = usingWhatIf ? whatIfPending.highlightId || '' : '';
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       // Fresh start (not resume / not what-if replay): reset mid/end ad budget.
       if (!usingWhatIf && !(pending?.sceneId && pending.path?.length)) {
         resetStoryAdsShown(storyIdForAds);
@@ -1376,7 +1598,7 @@ function bindEvents() {
       track('story_start', {
         storyId: storyIdForAds,
         spice,
-        playerName: name,
+        playerName: chosenNameForAnalytics(name),
         meta: {
           resume: Boolean(pending?.sceneId && pending.path?.length),
           whatIfReplay: usingWhatIf,
@@ -1412,14 +1634,14 @@ function bindEvents() {
 
       const nextScene = getScene(storyNow, nextId);
       track('choice', {
-        storyId: state.storyId || defaultStory.id,
+        storyId: state.storyId || DEFAULT_STORY_ID,
         spice: state.spice,
         layer: scene.layer,
         sceneId: fromId,
         meta: { choice: choiceId, to: nextId },
       });
       const adsCfg = getAdsConfig();
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       const adsShownThisStory = getStoryAdsShown(storyIdForAds);
       const gate = {
         adsEnabled: adsCfg.enabled,
@@ -1524,36 +1746,18 @@ function bindEvents() {
       const nameInput = /** @type {HTMLInputElement | null} */ (
         app.querySelector('[data-testid="name-input"]')
       );
-      const typedName = (nameInput?.value || state.playerName || '').trim();
+      const typedName = resolvePlayerName(nameInput?.value || state.playerName);
       const err = app.querySelector('[data-testid="start-error"]');
 
       // Persist fork under selected story for save integrity.
       state = { ...state, storyId: finished.storyId, spice };
       persistGuestProgress({ sceneId: forkId, path: trimmed });
 
-      if (!typedName) {
-        if (err) {
-          err.hidden = false;
-          err.textContent = 'Enter your name to replay from this fork.';
-        }
-        nameInput?.focus({ preventScroll: false });
-        nameInput?.scrollIntoView({ block: 'center', behavior: 'smooth' });
-        setState({
-          storyId: finished.storyId,
-          spice,
-          _pendingWhatIfReplay: {
-            sceneId: forkId,
-            path: trimmed,
-            highlightId,
-          },
-        });
-        return;
-      }
 
       track('story_start', {
         storyId: finished.storyId,
         spice,
-        playerName: typedName,
+        playerName: chosenNameForAnalytics(typedName),
         meta: { whatIfReplay: true, from: 'landing-compact' },
       });
       requestWhatIfHighlightFocus();
@@ -1575,14 +1779,29 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="restart"]').forEach((btn) => {
     btn.addEventListener('click', () => {
+      // Two-tap confirm (no window.confirm: blocked in some in-app browsers).
+      if (btn.getAttribute('data-armed') !== '1') {
+        btn.setAttribute('data-armed', '1');
+        btn.classList.add('is-armed');
+        btn.textContent = 'Tap again to restart';
+        btn.setAttribute('aria-live', 'polite');
+        window.setTimeout(() => {
+          if (!btn.isConnected) return;
+          btn.removeAttribute('data-armed');
+          btn.classList.remove('is-armed');
+          btn.textContent = 'Restart';
+        }, RESTART_CONFIRM_MS);
+        return;
+      }
       maybeOfferSavePrompt('exit');
       persistGuestProgress();
       const showPrompt = state.savePromptVisible;
       const goLanding = () => {
+        rewindReaderHistory();
         setState({
           view: 'landing',
           playerName: '',
-          sceneId: activeStory().startSceneId,
+          sceneId: START_SCENE_ID,
           previousSceneId: '',
           path: [],
           whatIfHighlightId: '',
@@ -1593,7 +1812,7 @@ function bindEvents() {
 
       // End-slot interstitial: soft post-play before return to landing.
       const adsCfg = getAdsConfig();
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       const postGate = {
         adsEnabled: adsCfg.enabled,
         reason: 'post-play',
@@ -1652,7 +1871,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="review-skip"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const storyId = state.storyId || defaultStory.id;
+      const storyId = state.storyId || DEFAULT_STORY_ID;
       dismissGuestReview(storyId);
       setState({ reviewDraftStars: 0 });
     });
@@ -1666,7 +1885,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="start-fresh"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const storyId = state.storyId || defaultStory.id;
+      const storyId = state.storyId || DEFAULT_STORY_ID;
       clearGuestSave(storyId);
       resetStoryAdsShown(storyId);
       setState({ _pendingResume: false });
@@ -1675,7 +1894,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="resume"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const saved = loadGuestSave(state.storyId || defaultStory.id);
+      const saved = loadGuestSave(state.storyId || DEFAULT_STORY_ID);
       if (!saved?.sceneId) return;
       const form = document.getElementById('start-form');
       const input = /** @type {HTMLInputElement | null} */ (
@@ -1685,20 +1904,16 @@ function bindEvents() {
         app.querySelector('input[name="spice"]:checked')
       );
       const spice = spiceRadio?.value || state.spice;
-      const name = (input?.value || '').trim();
+      const name = resolvePlayerName(input?.value);
       const storyOk =
         state.storyId &&
         CATALOG.some((c) => c.id === state.storyId && c.available);
 
-      if (
-        storyOk &&
-        (spice === 'warm' || spice === 'hot') &&
-        name
-      ) {
+      if (storyOk && (spice === 'warm' || spice === 'hot')) {
         track('story_start', {
           storyId: state.storyId,
           spice,
-          playerName: name,
+          playerName: chosenNameForAnalytics(name),
           meta: { resume: true },
         });
         setState({
@@ -1721,9 +1936,7 @@ function bindEvents() {
       const err = app.querySelector('[data-testid="start-error"]');
       if (err) {
         err.hidden = false;
-        err.textContent = name
-          ? 'Choose Warm or Hot, then Begin to continue.'
-          : 'Enter your name, then Begin to continue where you left off.';
+        err.textContent = 'Choose Warm or Hot, then Begin to continue.';
       }
     });
   });
@@ -1850,13 +2063,18 @@ function bindEvents() {
 );
 bindOutboundTracking();
 render();
+// Warm the selected story's chunk so Begin is usually instant.
+loadStory(state.storyId || DEFAULT_STORY_ID).then(() => {
+  // Resume label / what-if strip use the story's scenes once it has loaded.
+  if (state.view === 'landing') render();
+}, () => {});
 
 if (cloudConfigured) {
   fetchAuthSession().then(async (session) => {
     if (!isGuest(session)) {
       persistAuthSession(session);
       setState({ auth: session });
-      await refreshCloudResume(state.storyId || defaultStory.id);
+      await refreshCloudResume(state.storyId || DEFAULT_STORY_ID);
     } else if (!isGuest(state.auth) && state.auth.userId === MOCK_USER_ID) {
       /* keep local mock session */
     } else if (!isGuest(state.auth)) {
@@ -1875,7 +2093,7 @@ if (cloudConfigured) {
       return;
     }
     if (state.auth?.userId === session.userId) {
-      await refreshCloudResume(state.storyId || defaultStory.id);
+      await refreshCloudResume(state.storyId || DEFAULT_STORY_ID);
       return;
     }
     await applyAuthenticatedSession(session);
@@ -1884,7 +2102,7 @@ if (cloudConfigured) {
 
 // Phase 4: load public review aggregates (fail soft if schema missing).
 refreshReviewAggregates();
-refreshReadersSay(state.storyId || defaultStory.id);
+refreshReadersSay(state.storyId || DEFAULT_STORY_ID);
 
 // Prefetch AdSense on boot when enabled (site verification + first interstitial).
 const bootAds = getAdsConfig();
@@ -1893,6 +2111,13 @@ if (bootAds.enabled && bootAds.clientId) {
 }
 
 window.addEventListener('pagehide', handleGuestPageHide);
+window.addEventListener('popstate', onPopState);
+try {
+  // Boot is always the catalog: tag this entry so Back from scene 1 lands here.
+  if (historyOk()) history.replaceState({ rf: 'landing' }, '');
+} catch {
+  /* ignore */
+}
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'hidden') handleGuestPageHide();
 });
@@ -1904,7 +2129,7 @@ export {
   render,
   requestWhatIfHighlightFocus,
   scheduleWhatIfHighlightFocus,
-  defaultStory as story,
+  DEFAULT_STORY_ID,
   getStory,
   STORIES,
   CATALOG,

@@ -46,7 +46,7 @@ describe('reader-facing copy has no internal planning language', () => {
     const app = document.getElementById('app');
     const text = visibleText(app);
     expectClean(text);
-    expect(app.querySelector('[data-testid="forge-strip"]').textContent).toMatch(/wine-night readers/);
+    expect(app.querySelector('[data-testid="forge-strip"]').textContent).toMatch(/you read by choosing/);
     expect(text).toMatch(/Contact us/);
   });
 
