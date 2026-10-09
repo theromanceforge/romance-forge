@@ -222,6 +222,17 @@ describe('phone reader chrome', () => {
     expect(css).toMatch(/\.reader-meta \.auth-header-control \{\s*margin-left: auto;\s*align-self: center;/);
   });
 
+  it('styles.css braces balance (appended blocks and merges stay well-formed)', () => {
+    const bare = css.replace(/\/\*[\s\S]*?\*\//g, '');
+    let depth = 0;
+    for (const ch of bare) {
+      if (ch === '{') depth += 1;
+      if (ch === '}') depth -= 1;
+      expect(depth).toBeGreaterThanOrEqual(0);
+    }
+    expect(depth).toBe(0);
+  });
+
   it('index.html links the existing brand logo as favicon', () => {
     const html = fs.readFileSync(path.resolve(__dirname, '../index.html'), 'utf8');
     expect(html).toMatch(/<link rel="icon" type="image\/png" href="\/brand\/logo-heart-anvil\.png" \/>/);
