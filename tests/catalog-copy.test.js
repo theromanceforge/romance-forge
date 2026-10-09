@@ -83,3 +83,12 @@ describe('catalog teaser copy (Scribe final)', () => {
     );
   });
 });
+
+describe('cover alt + badge (Chief-approved, spoiler-free)', () => {
+  it('SA/SK cover alt text and SA badge', () => {
+    const by = Object.fromEntries(mod.CATALOG.map((c) => [c.id, c]));
+    expect(by['the-soft-alibi'].coverAlt).toBe('The Soft Alibi — Crownspire glass at a late hour');
+    expect(by['what-the-sister-kept'].coverAlt).toBe('What the Sister Kept — a doorway in Harborwick fog');
+    expect(by['the-soft-alibi'].badge).toBe('10 endings · Warm & Hot / Glass-tower romance');
+  });
+});

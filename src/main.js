@@ -352,7 +352,7 @@ const CATALOG = [
     available: true,
     accentSrc: assetUrl('/brand/cover-what-the-sister-kept-square.png'),
     coverSrc: assetUrl('/brand/cover-what-the-sister-kept.png'),
-    coverAlt: 'What the Sister Kept — Harborwick fog and cold-case romance',
+    coverAlt: 'What the Sister Kept — a doorway in Harborwick fog',
     hook: "Harborwick fog. William Akers at the door. A secret seven years deep.",
     pull: 'Hope and dread share the doorway.',
     chips: ['Harborwick', 'William Akers', 'Cold case'],
@@ -384,11 +384,11 @@ const CATALOG = [
     available: true,
     accentSrc: assetUrl('/brand/cover-the-soft-alibi-square.png'),
     coverSrc: assetUrl('/brand/cover-the-soft-alibi.png'),
-    coverAlt: 'The Soft Alibi — Crownspire glass and missing-wife heat',
+    coverAlt: 'The Soft Alibi — Crownspire glass at a late hour',
     hook: "Crownspire glass. Nolan Greer across the hall. A story he needs you to tell his way.",
     pull: 'Wine on marble. Unused perfume. The softest alibi money can buy.',
     chips: ['Crownspire', 'Nolan Greer', '10 endings'],
-    badge: '10 endings · Warm & Hot / Glass-tower mystery',
+    badge: '10 endings · Warm & Hot / Glass-tower romance',
   },
 ];
 
