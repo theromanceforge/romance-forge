@@ -524,8 +524,12 @@ body {
   order: -1;
 }
 
+/* While the art loads, keep its box (aspect ratio from the img width/height
+   attrs) but invisible. Collapsing it with display:none made the prose jump
+   down ~200px when the image arrived on iOS Safari (no scroll anchoring). */
 .scene-art[hidden] {
-  display: none !important;
+  display: block !important;
+  visibility: hidden;
 }
 
 .scene-art.loaded {

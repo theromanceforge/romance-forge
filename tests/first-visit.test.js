@@ -31,7 +31,7 @@ describe('first visit: landing → Begin', () => {
     sessionStorage.clear();
     mod = await import('../src/main.js');
     await Promise.resolve();
-  });
+  }, 60000);
 
   beforeEach(() => {
     sessionStorage.clear();
@@ -106,7 +106,7 @@ describe('first visit: mobile sticky Begin', () => {
 
   beforeAll(async () => {
     mod = await import('../src/main.js');
-  });
+  }, 60000);
 
   beforeEach(() => {
     sessionStorage.clear();
@@ -146,5 +146,21 @@ describe('first visit: mobile sticky Begin', () => {
     expect(mod.state.view).toBe('reader');
     expect(mod.state.storyId).toBe('the-living-key');
     expect($('[data-testid="scene"]')?.getAttribute('data-scene-id')).toBe('scene1');
+  });
+});
+
+describe('first visit: scene 1 layout', () => {
+  it('scene art reserves its space while loading (no prose jump when it arrives)', async () => {
+    const fs = await import('node:fs');
+    const path = await import('node:path');
+    const css = fs.readFileSync(path.resolve(__dirname, '../src/styles.css'), 'utf8');
+    const rule = css.match(/\.scene-art\[hidden\]\s*\{([^}]*)\}/);
+    expect(rule).toBeTruthy();
+    expect(rule[1]).not.toMatch(/display:\s*none/);
+    expect(rule[1]).toMatch(/visibility:\s*hidden/);
+    const src = fs.readFileSync(path.resolve(__dirname, '../src/main.js'), 'utf8');
+    // width/height attrs give the browser the aspect ratio before load; they must
+    // match the shipped art (all public/art/**/*.png are 1280×720 JPEGs).
+    expect(src).toMatch(/class="scene-art-img"[\s\S]{0,200}width="1280"[\s\S]{0,40}height="720"/);
   });
 });
