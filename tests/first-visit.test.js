@@ -80,15 +80,26 @@ describe('first visit: landing → Begin', () => {
     expect($('[data-testid="player-chip"]')?.textContent).toMatch(/Jess/);
   });
 
-  it('start form skips native validation so the inline error always explains what is missing', () => {
+  it('name is optional: pre-filled friendly default, no required attr, one-tap Begin', () => {
     const form = /** @type {HTMLFormElement} */ ($('#start-form'));
+    const input = /** @type {HTMLInputElement} */ ($('[data-testid="name-input"]'));
     expect(form.noValidate).toBe(true);
+    expect(input.hasAttribute('required')).toBe(false);
+    expect(input.value).toBe(mod.DEFAULT_PLAYER_NAME);
+    expect(mod.DEFAULT_PLAYER_NAME).toBe('Rose');
     pickSpice('warm');
     /** @type {HTMLFormElement} */ ($('#start-form')).requestSubmit();
-    const err = /** @type {HTMLElement} */ ($('[data-testid="start-error"]'));
-    expect(mod.state.view).toBe('landing');
-    expect(err.hidden).toBe(false);
-    expect(err.textContent).toMatch(/Enter your name/);
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.playerName).toBe('Rose');
+    expect($('[data-testid="player-chip"]')?.textContent).toMatch(/Playing as Rose/);
+  });
+
+  it('a cleared name field falls back to the default instead of blocking', () => {
+    typeName('   ');
+    pickSpice('hot');
+    /** @type {HTMLFormElement} */ ($('#start-form')).requestSubmit();
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.playerName).toBe('Rose');
   });
 
   it('name is escaped when echoed back into the input', () => {
@@ -131,12 +142,11 @@ describe('first visit: mobile sticky Begin', () => {
     expect(err.textContent).toMatch(/Warm or Hot/);
   });
 
-  it('explains a missing name', () => {
+  it('starts with the default name when only Warm/Hot is picked', () => {
     pickSpice('warm');
     /** @type {HTMLButtonElement} */ ($('[data-action="sticky-begin"]')).click();
-    const err = /** @type {HTMLElement} */ ($('[data-testid="start-error"]'));
-    expect(err.hidden).toBe(false);
-    expect(err.textContent).toMatch(/Enter your name/);
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.playerName).toBe('Rose');
   });
 
   it('starts The Living Key when name + spice are set', () => {

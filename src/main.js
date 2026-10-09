@@ -91,6 +91,19 @@ import {
 } from './reviews/ui.js';
 
 const SPICE_KEY = 'romanceForge.spice';
+/** Friendly default heroine name: the name step is optional (one-tap Begin). */
+export const DEFAULT_PLAYER_NAME = 'Rose';
+
+/** Typed name, or the friendly default when the field is left empty. */
+function resolvePlayerName(raw) {
+  const name = String(raw ?? '').trim();
+  return name || DEFAULT_PLAYER_NAME;
+}
+
+/** Analytics only records a name the reader actually chose (not the default). */
+function chosenNameForAnalytics(name) {
+  return name === DEFAULT_PLAYER_NAME ? '' : name;
+}
 const STORY_KEY = 'romanceForge.storyId';
 
 const localSaveStore = createLocalSaveStore();
@@ -733,10 +746,9 @@ function renderLanding() {
                 name="playerName"
                 type="text"
                 maxlength="40"
-                placeholder="Your name (e.g. Eleanor)"
+                placeholder="Your name (optional)"
                 autocomplete="given-name"
-                required
-                value="${escapeHtml(state.playerName || '')}"
+                value="${escapeHtml(state.playerName || DEFAULT_PLAYER_NAME)}"
                 data-testid="name-input"
               />
               <p class="form-error" data-testid="start-error" hidden></p>
@@ -1240,12 +1252,10 @@ function bindEvents() {
         app.querySelector('input[name="spice"]:checked')
       );
       const spice = spiceRadio?.value || state.spice;
-      const name = (input?.value || '').trim();
       const storyOk =
         state.storyId &&
         CATALOG.some((c) => c.id === state.storyId && c.available);
-      const ready =
-        storyOk && (spice === 'warm' || spice === 'hot') && Boolean(name);
+      const ready = storyOk && (spice === 'warm' || spice === 'hot');
 
       // Always run the form's submit handler: when something is missing it
       // shows the inline error (e.g. "Choose Warm or Hot") instead of a silent scroll.
@@ -1258,7 +1268,7 @@ function bindEvents() {
       const meter = app.querySelector('[data-testid="spice-meter"]');
       const needsSpice = storyOk && spice !== 'warm' && spice !== 'hot';
       ((needsSpice && meter) || form)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      if (!needsSpice) input?.focus({ preventScroll: true });
+      if (!needsSpice && !storyOk) input?.focus({ preventScroll: true });
     });
 
     // Show sticky Begin only once the on-cover CTA scrolls away — avoid fighting it.
@@ -1297,7 +1307,7 @@ function bindEvents() {
       const input = /** @type {HTMLInputElement} */ (
         document.getElementById('player-name')
       );
-      const name = (input?.value || '').trim();
+      const name = resolvePlayerName(input?.value);
       const spiceRadio = /** @type {HTMLInputElement | null} */ (
         app.querySelector('input[name="spice"]:checked')
       );
@@ -1318,13 +1328,6 @@ function bindEvents() {
         if (err) {
           err.hidden = false;
           err.textContent = 'Choose Warm or Hot before you start.';
-        }
-        return;
-      }
-      if (!name) {
-        if (err) {
-          err.hidden = false;
-          err.textContent = 'Enter your name to begin.';
         }
         return;
       }
@@ -1356,7 +1359,7 @@ function bindEvents() {
       track('story_start', {
         storyId: storyIdForAds,
         spice,
-        playerName: name,
+        playerName: chosenNameForAnalytics(name),
         meta: {
           resume: Boolean(pending?.sceneId && pending.path?.length),
           whatIfReplay: usingWhatIf,
@@ -1504,36 +1507,18 @@ function bindEvents() {
       const nameInput = /** @type {HTMLInputElement | null} */ (
         app.querySelector('[data-testid="name-input"]')
       );
-      const typedName = (nameInput?.value || state.playerName || '').trim();
+      const typedName = resolvePlayerName(nameInput?.value || state.playerName);
       const err = app.querySelector('[data-testid="start-error"]');
 
       // Persist fork under selected story for save integrity.
       state = { ...state, storyId: finished.storyId, spice };
       persistGuestProgress({ sceneId: forkId, path: trimmed });
 
-      if (!typedName) {
-        if (err) {
-          err.hidden = false;
-          err.textContent = 'Enter your name to replay from this fork.';
-        }
-        nameInput?.focus({ preventScroll: false });
-        nameInput?.scrollIntoView({ block: 'center', behavior: 'smooth' });
-        setState({
-          storyId: finished.storyId,
-          spice,
-          _pendingWhatIfReplay: {
-            sceneId: forkId,
-            path: trimmed,
-            highlightId,
-          },
-        });
-        return;
-      }
 
       track('story_start', {
         storyId: finished.storyId,
         spice,
-        playerName: typedName,
+        playerName: chosenNameForAnalytics(typedName),
         meta: { whatIfReplay: true, from: 'landing-compact' },
       });
       requestWhatIfHighlightFocus();
@@ -1665,20 +1650,16 @@ function bindEvents() {
         app.querySelector('input[name="spice"]:checked')
       );
       const spice = spiceRadio?.value || state.spice;
-      const name = (input?.value || '').trim();
+      const name = resolvePlayerName(input?.value);
       const storyOk =
         state.storyId &&
         CATALOG.some((c) => c.id === state.storyId && c.available);
 
-      if (
-        storyOk &&
-        (spice === 'warm' || spice === 'hot') &&
-        name
-      ) {
+      if (storyOk && (spice === 'warm' || spice === 'hot')) {
         track('story_start', {
           storyId: state.storyId,
           spice,
-          playerName: name,
+          playerName: chosenNameForAnalytics(name),
           meta: { resume: true },
         });
         setState({
@@ -1701,9 +1682,7 @@ function bindEvents() {
       const err = app.querySelector('[data-testid="start-error"]');
       if (err) {
         err.hidden = false;
-        err.textContent = name
-          ? 'Choose Warm or Hot, then Begin to continue.'
-          : 'Enter your name, then Begin to continue where you left off.';
+        err.textContent = 'Choose Warm or Hot, then Begin to continue.';
       }
     });
   });
