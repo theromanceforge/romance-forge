@@ -524,12 +524,8 @@ body {
   order: -1;
 }
 
-/* While the art loads, keep its box (aspect ratio from the img width/height
-   attrs) but invisible. Collapsing it with display:none made the prose jump
-   down ~200px when the image arrived on iOS Safari (no scroll anchoring). */
 .scene-art[hidden] {
-  display: block !important;
-  visibility: hidden;
+  display: none !important;
 }
 
 .scene-art.loaded {
@@ -2347,4 +2343,13 @@ body {
   .choice-cue-arrow {
     animation: none;
   }
+}
+
+/* While scene art loads, keep its box (aspect ratio from the img width/height
+   attrs) but invisible. Collapsing it with display:none made the prose jump
+   down ~200px when the image arrived on iOS Safari (no scroll anchoring).
+   Appended override so the base live-story rules stay untouched. */
+.scene-body .scene-art[hidden] {
+  display: block !important;
+  visibility: hidden;
 }

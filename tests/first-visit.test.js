@@ -164,7 +164,8 @@ describe('first visit: scene 1 layout', () => {
     const fs = await import('node:fs');
     const path = await import('node:path');
     const css = fs.readFileSync(path.resolve(__dirname, '../src/styles.css'), 'utf8');
-    const rule = css.match(/\.scene-art\[hidden\]\s*\{([^}]*)\}/);
+    // The effective rule is the appended, higher-specificity override.
+    const rule = css.match(/\.scene-body \.scene-art\[hidden\]\s*\{([^}]*)\}/);
     expect(rule).toBeTruthy();
     expect(rule[1]).not.toMatch(/display:\s*none/);
     expect(rule[1]).toMatch(/visibility:\s*hidden/);
