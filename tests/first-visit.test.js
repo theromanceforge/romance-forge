@@ -191,10 +191,21 @@ describe('first visit: pre-story copy budget', () => {
     let n;
     while ((n = walker.nextNode())) {
       if (begin.compareDocumentPosition(n) & Node.DOCUMENT_POSITION_FOLLOWING) break;
-      if (n.parentElement?.closest('[hidden], .visually-hidden, .sticky-begin, legend.visually-hidden')) continue;
+      // Coming-soon teasers (Called Home hero, coming-soon row) are not on the
+      // path to Begin (nothing to pick or start there), so they are outside the
+      // budget; everything else from the top of the page to Begin counts.
+      if (
+        n.parentElement?.closest(
+          '[hidden], .visually-hidden, .sticky-begin, [data-testid="lead-hero"], [data-testid="coming-soon-row"]'
+        )
+      ) {
+        continue;
+      }
       words.push(...(n.textContent.match(/[A-Za-z0-9’'-]+/g) || []));
     }
     // Was ~281 words (4 blurbs + forge-strip essay + pull/chips/hint).
+    // Counts: site header, how-it-works, live grid (titles, CTAs, selected
+    // blurb), start dock (title, hook, badge), Warm/Hot options, Begin.
     expect(words.length).toBeLessThanOrEqual(120);
     expect(document.querySelectorAll('.story-card-blurb').length).toBe(1);
     expect(document.querySelector('.story-card.selected .story-card-blurb')).toBeTruthy();
