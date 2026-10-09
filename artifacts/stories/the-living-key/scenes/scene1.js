@@ -12,7 +12,7 @@ The ward closed. Clean. A dome of light rose around her, door-high, and the terr
 
 Then the braid answered something that was not her.
 
-It came up from underneath. Out of the cliff, out of the century-old outer song that walled Calderyn off from the Unmade, a note slid into her braid and lay down beside her own. Low. Patient. Familiar in a way it had no right to be, as if the stone had waited years for a mouth that knew the harmony and had just found one.
+It came up from underneath. Out of the cliff, out of the century-old outer song that walled Calderyn off from the Unmade, a note slid into her braid and lay down beside her own, low and unhurried and familiar in a way it had no right to be, as if the stone had waited years for a mouth that knew the harmony and had just found one.
 
 The outer ward cracked.
 
@@ -44,9 +44,9 @@ A sound went along the rail that wasn't a word. At the end of it, Maris Quill ha
 
 "Thorne," an old instructor said, as if he'd bitten down on something. Then, lower, to no one: "Not since the year the old Warden died."
 
-[player_name] had grown up hearing that name the way people said it in border towns, into their cups, so the walls wouldn't catch it. Lord Vesper Thorne. And the note was still in her fist. She could feel it under the burn, low and patient, keeping time with her pulse.
+[player_name] had grown up hearing that name the way people said it in border towns, into their cups, so the walls wouldn't catch it. Lord Vesper Thorne. And the note was still in her fist. She could feel it under the burn, low and steady, keeping time with her pulse.
 
-Isolde Vane came down from the canopy with her ledger shut against her chest. She did not look at the cliff. She looked at [player_name], the way a buyer looks at a horse that had just kicked down its stall.
+Isolde Vane came down from the canopy with her ledger shut against her chest. She did not look at the cliff. She looked at [player_name], the way a buyer looks at a horse that has just kicked down its stall.
 
 "Candidate [player_name]," Isolde said, and her voice carried without rising. "Twenty-five years of age. Held past the glass." She opened the ledger and wrote. "Warden-candidate, effective tonight."
 
@@ -85,7 +85,7 @@ It had felt like being recognized. Like a hand on her shoulder in a crowd from s
 Down the cliff stair, the archive's arrow-slits were still lit. They always were. Somewhere under that light were shelves the Collegium didn't lend out, and hymns old enough to know whose song had just come up through the stone, and why it had known her.
 
 The bells were giving out one by one, the far ones first. When the last one stopped, the terrace would empty and he'd still be standing here, waiting. Against her collarbone, inside the cracked copper, Thorne's note hummed on, patient as a held door, and Cassian Rook watched her decide whom to give it to.`,
-  textHot: `The fourth thread kept slipping through her fingers like something alive.
+  textHot: `The fourth thread bucked in her fingers.
 
 [player_name] had wind wound around her left palm and salt around her right, the stone's slow song looped twice over both wrists, and her hands ached from the inside out, the deep ache of holding too much for too long. Light climbed the chalk ring to her knees. Sweat ran down the channel of her spine under her trial shirt. Under the copper canopy, Isolde Vane's sand-glass ran empty, and [player_name] was still standing, still holding, past the mark no candidate in a decade had reached.
 

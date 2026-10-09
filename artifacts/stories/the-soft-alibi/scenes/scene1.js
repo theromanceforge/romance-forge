@@ -60,13 +60,13 @@ The phone stopped ringing. The quiet was worse.
 
 That was Nolan's gift. He could make a cage sound like good manners.
 
-There were three nights she had never told anyone about. She felt them now in the dark apartment at her back, patient as furniture, and she didn't turn around to look at a single one.
+There were three nights she had never told anyone about. She felt them now in the dark apartment at her back, quiet as furniture, and she didn't turn around to look at a single one.
 
 "Does Brooks know about me?" she asked.
 
 "Brooks knows this floor has two doors on it." He glanced back across the hall at his own, black lacquer, standing open on the stone foyer and the private elevator past it. "She can count."
 
-Down the corridor, the public elevator chimed. Late, silver, wrong for the hour. The doors opened on nobody, held, and closed. They both listened to the car sink.
+Down the corridor, the public elevator chimed, too bright for the hour. The doors opened on nobody, held, and closed. They both listened to the car sink.
 
 "She's not coming up," [player_name] said.
 
@@ -98,7 +98,7 @@ He let go of her wrist. He didn't step back. Her skin kept the shape of his thum
 
 The phone rang a fifth time. Somewhere at the bottom of the building, a patient woman in flat shoes turned a page and wrote down the time.
 
-[player_name] took her keys from the bowl beside the wine ring. They were cold. Her pulse was not. Nolan stayed where he was, filling her doorway, watching to see which way she'd carry them.`,
+[player_name] took her keys from the bowl beside the wine ring. His door stood open across the hall. The elevator waited at the end of the corridor. Nolan was standing in the way of both.`,
   textHot: `Three knocks, and the last one landed in the heel of her hand. [player_name] had flattened her palm on the door at the first, and Nolan's voice came through the wood an inch from it. "There's a detective downstairs asking where my wife is."
 
 Her pulse jumped in her wrist, hard enough to see.
@@ -133,7 +133,7 @@ The phone rang again. A third time. Her skin went tight along her forearms, ever
 
 "What do I hear?"
 
-"Nothing." Softly, like a hand on the small of her back in a crowd. "She travels. She's been traveling since summer."
+"Nothing." Softly, in the voice he used on maître d's and nervous investors. "She travels. She's been traveling since summer."
 
 Since summer. Fridays, then the first of the month, then a blank. [player_name] had felt the cadence in her body before she ever saw it written down: the empty nights were the nights he knocked. She had never asked why there were so many of them. Not asking had felt like grace while his hands were busy. Tonight it sat in her wrists like a bruise.
 
@@ -179,9 +179,7 @@ He let go. He didn't step back. He stayed leaning in her doorway, close enough t
 
 "My door's open," he said. "It'll stay open."
 
-The house phone began a fourth time. She picked her keys out of the bowl beside the wine ring. Cold metal in one hand. On the other wrist, his cologne and the print of his thumb, and a pulse any detective in Crownspire could read from across a lobby.
-
-He waited to see which way she'd turn.`,
+The house phone began a fourth time. She picked her keys out of the bowl beside the wine ring. Cold metal in one hand. On the other wrist, his cologne and the print of his thumb, and a pulse any detective in Crownspire could read from across a lobby.`,
   choices: [
     { id: "scene2a", text: "Get your story straight with Nolan first", textHot: "Cross the hall and let Nolan teach your pulse to lie" },
     { id: "scene2b", text: "Go down and face Brooks before he can coach you", textHot: "Ride down to Brooks with his thumbprint still on your wrist" }
