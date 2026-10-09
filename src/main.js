@@ -1202,6 +1202,104 @@ function bindChoiceCue() {
   });
 }
 
+// —— Browser Back inside a story ——
+// Each scene the reader reaches gets a history entry, so Back steps to the
+// previous scene and, from scene 1, to the catalog — never off the site.
+let _handlingPop = false;
+
+function historyOk() {
+  try {
+    return typeof history !== 'undefined' && typeof history.pushState === 'function';
+  } catch {
+    return false;
+  }
+}
+
+/** Record the reader's current scene as a history entry (no-op if it already is). */
+function syncReaderHistory() {
+  if (!historyOk() || _handlingPop || state.view !== 'reader' || state._transitioning) return;
+  try {
+    const cur = history.state;
+    if (cur?.rf === 'scene' && cur.storyId === state.storyId && cur.sceneId === state.sceneId) return;
+    const depth = cur?.rf === 'scene' ? (Number(cur.depth) || 1) + 1 : 1;
+    if (cur?.rf !== 'scene' && cur?.rf !== 'landing') {
+      // First entry into a story from an untagged landing entry: tag it so Back lands there.
+      history.replaceState({ ...(cur && typeof cur === 'object' ? cur : {}), rf: 'landing' }, '');
+    }
+    history.pushState(
+      {
+        rf: 'scene',
+        storyId: state.storyId,
+        sceneId: state.sceneId,
+        path: Array.isArray(state.path) ? [...state.path] : [],
+        depth,
+      },
+      ''
+    );
+  } catch {
+    /* history must never break reading */
+  }
+}
+
+/**
+ * Leave the reader via the app (Restart): rewind our scene entries. The
+ * resulting popstate lands on the catalog entry while we already show the
+ * catalog, so onPopState treats it as a no-op.
+ */
+function rewindReaderHistory() {
+  if (!historyOk()) return;
+  try {
+    const cur = history.state;
+    const depth = cur?.rf === 'scene' ? Number(cur.depth) || 0 : 0;
+    if (depth > 0) history.go(-depth);
+  } catch {
+    /* ignore */
+  }
+}
+
+function onPopState(e) {
+  const st = e?.state;
+  _handlingPop = true;
+  try {
+    const story = st?.rf === 'scene' ? STORIES[st.storyId] : null;
+    if (story && story.scenes?.[st.sceneId]) {
+      // Back/forward to a scene: no ads, no choice event (scene_view still fires).
+      const path = Array.isArray(st.path) && st.path.length ? [...st.path] : [st.sceneId];
+      if (_choiceCueObserver) {
+        _choiceCueObserver.disconnect();
+        _choiceCueObserver = null;
+      }
+      setState({
+        view: 'reader',
+        storyId: st.storyId,
+        sceneId: st.sceneId,
+        path,
+        previousSceneId: '',
+        whatIfHighlightId: '',
+        playerName: state.playerName || DEFAULT_PLAYER_NAME,
+        spice: state.spice === 'hot' ? 'hot' : 'warm',
+        savePromptVisible: false,
+        _transitioning: false,
+      });
+      persistGuestProgress({ sceneId: st.sceneId, path });
+      return;
+    }
+    if (state.view === 'reader') {
+      // Back from scene 1 (or an unknown entry) → catalog; progress kept for Continue.
+      persistGuestProgress();
+      setState({
+        view: 'landing',
+        previousSceneId: '',
+        path: [],
+        whatIfHighlightId: '',
+        _transitioning: false,
+      });
+    }
+  } finally {
+    _handlingPop = false;
+  }
+}
+
 let _renderedView = '';
 /** Until this time (ms), landing re-renders re-run revealSpiceMeter(). */
 let _revealUntil = 0;
@@ -1242,6 +1340,7 @@ function render() {
   _renderedView = state.view;
   bindEvents();
   bindChoiceCue();
+  syncReaderHistory();
   trackViewTransition();
   scheduleWhatIfHighlightFocus();
 }
@@ -1630,6 +1729,7 @@ function bindEvents() {
       persistGuestProgress();
       const showPrompt = state.savePromptVisible;
       const goLanding = () => {
+        rewindReaderHistory();
         setState({
           view: 'landing',
           playerName: '',
@@ -1938,6 +2038,13 @@ if (bootAds.enabled && bootAds.clientId) {
 }
 
 window.addEventListener('pagehide', handleGuestPageHide);
+window.addEventListener('popstate', onPopState);
+try {
+  // Boot is always the catalog: tag this entry so Back from scene 1 lands here.
+  if (historyOk()) history.replaceState({ rf: 'landing' }, '');
+} catch {
+  /* ignore */
+}
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'hidden') handleGuestPageHide();
 });

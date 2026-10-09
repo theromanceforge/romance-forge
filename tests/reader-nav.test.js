@@ -132,3 +132,73 @@ describe('"Your choice is below" cue', () => {
     expect($('[data-testid="choice-cue"]')).toBeNull();
   });
 });
+
+describe('browser Back inside a story', () => {
+  afterEach(() => vi.useRealTimers());
+
+  const pop = (st) => window.dispatchEvent(new PopStateEvent('popstate', { state: st }));
+
+  function startFromLanding(storyId) {
+    mod.setState({
+      view: 'landing',
+      storyId,
+      spice: 'warm',
+      playerName: '',
+      path: [],
+      _pendingResume: false,
+      _pendingWhatIfReplay: null,
+      savePromptVisible: false,
+    });
+    history.replaceState({ rf: 'landing' }, '');
+    /** @type {HTMLFormElement} */ ($('#start-form')).requestSubmit();
+  }
+
+  it('Back steps to the previous scene, then from scene 1 to the catalog', () => {
+    vi.useFakeTimers({ toFake: ['setTimeout', 'clearTimeout'] });
+    localStorage.clear();
+    startFromLanding('the-soft-alibi');
+    expect(mod.state.view).toBe('reader');
+    const scene1Entry = history.state;
+    expect(scene1Entry).toMatchObject({ rf: 'scene', storyId: 'the-soft-alibi', sceneId: 'scene1', depth: 1 });
+
+    /** @type {HTMLButtonElement} */ ($('[data-action="choose"]')).click();
+    vi.advanceTimersByTime(300);
+    const next = mod.state.sceneId;
+    expect(next).toMatch(/^scene2/);
+    expect(history.state).toMatchObject({ rf: 'scene', sceneId: next, depth: 2 });
+
+    // Back → scene 1 (reader stays in the story, name/spice kept, no interstitial).
+    pop(scene1Entry);
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.sceneId).toBe('scene1');
+    expect(mod.state.path).toEqual(['scene1']);
+    expect(mod.state.spice).toBe('warm');
+    expect($('[data-testid="scene"]')?.getAttribute('data-scene-id')).toBe('scene1');
+
+    // Back from scene 1 → catalog (not off-site); Continue offer is there.
+    pop({ rf: 'landing' });
+    expect(mod.state.view).toBe('landing');
+    expect($('[data-testid="landing"]')).toBeTruthy();
+    expect($('[data-testid="resume-offer"]')).toBeTruthy();
+
+    // Forward → back into the story at the right scene.
+    pop({ ...scene1Entry, sceneId: next, path: ['scene1', next], depth: 2 });
+    expect(mod.state.view).toBe('reader');
+    expect(mod.state.sceneId).toBe(next);
+  });
+
+  it('spice swap does not add history entries', () => {
+    startFromLanding('the-living-key');
+    const before = history.length;
+    /** @type {HTMLButtonElement} */ ($('[data-testid="spice-swap-hot"]')).click();
+    expect(mod.state.spice).toBe('hot');
+    expect(history.length).toBe(before);
+    expect(history.state).toMatchObject({ sceneId: 'scene1' });
+  });
+
+  it('Back from the catalog entry when already on the landing is a no-op', () => {
+    mod.setState({ view: 'landing' });
+    pop(null);
+    expect(mod.state.view).toBe('landing');
+  });
+});
