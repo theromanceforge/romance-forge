@@ -2272,3 +2272,9 @@ body {
     max-height: min(24vh, 11rem);
   }
 }
+
+/* Restart two-tap confirm */
+.btn.ghost.is-armed {
+  color: var(--amber);
+  border-color: rgba(232, 160, 74, 0.55);
+}

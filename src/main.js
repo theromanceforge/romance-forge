@@ -870,9 +870,14 @@ function renderReader() {
           )
           .join("")}
       </div>
-      <button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
+      ${
+        // Nothing to restart on the opening scene — keep it away from the first choice.
+        state.sceneId === story.startSceneId
+          ? ''
+          : `<button type="button" class="btn ghost" data-action="restart" data-testid="restart-btn">
         Restart
-      </button>`;
+      </button>`
+      }`;
 
   const hasHotBody = Boolean(scene.textHot);
   const spiceSwapHtml = `
@@ -1030,6 +1035,8 @@ function escapeHtml(str) {
 }
 
 const MOMENTUM_MS = 240;
+/** How long the armed "Tap again to restart" state lasts. */
+const RESTART_CONFIRM_MS = 4000;
 
 /** One-shot: after a what-if replay render, scroll/focus the highlighted choice. */
 let _pendingWhatIfFocus = false;
@@ -1540,6 +1547,20 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="restart"]').forEach((btn) => {
     btn.addEventListener('click', () => {
+      // Two-tap confirm (no window.confirm: blocked in some in-app browsers).
+      if (btn.getAttribute('data-armed') !== '1') {
+        btn.setAttribute('data-armed', '1');
+        btn.classList.add('is-armed');
+        btn.textContent = 'Tap again to restart';
+        btn.setAttribute('aria-live', 'polite');
+        window.setTimeout(() => {
+          if (!btn.isConnected) return;
+          btn.removeAttribute('data-armed');
+          btn.classList.remove('is-armed');
+          btn.textContent = 'Restart';
+        }, RESTART_CONFIRM_MS);
+        return;
+      }
       maybeOfferSavePrompt('exit');
       persistGuestProgress();
       const showPrompt = state.savePromptVisible;
