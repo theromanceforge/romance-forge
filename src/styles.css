@@ -2918,6 +2918,7 @@ html {
 }
 
 .reader-meta .auth-header-btn {
+  margin: 0; /* .btn.ghost's top margin pushed it ~22px below the row */
   padding-block: 0.15rem;
   line-height: 1.2;
 }

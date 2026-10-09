@@ -233,6 +233,7 @@ describe('phone reader chrome', () => {
   it('page disables double-tap zoom (pinch still allowed) and Sign in aligns on the chapter row', () => {
     expect(css).toMatch(/html \{\s*touch-action: manipulation;/);
     expect(css).toMatch(/\.reader-meta \.auth-header-control \{\s*margin-left: auto;\s*align-self: center;/);
+    expect(css).toMatch(/\.reader-meta \.auth-header-btn \{\s*margin: 0;/);
   });
 
   it('styles.css braces balance (appended blocks and merges stay well-formed)', () => {
