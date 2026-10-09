@@ -54,17 +54,16 @@ describe('landing page content', () => {
     expect(src).not.toMatch(/Forge the love story that burns for you/);
   });
 
-  it('forge-strip explains what, purpose, how, and playable now', () => {
+  it('forge-strip is one short line (pre-story copy kept to the minimum)', () => {
     const src = loadMainSource();
     expect(src).toMatch(/data-testid="forge-strip"/);
-    expect(src).toMatch(/interactive branching spicy romance/);
-    expect(src).toMatch(/wine-night readers/);
+    expect(src).toMatch(/Interactive romance: you read by choosing\./);
     expect(src).not.toMatch(/BookTok/);
-    expect(src).toMatch(/Choose a title/);
-    expect(src).toMatch(/Pick Warm or Hot/);
-    expect(src).toMatch(/Branch through choices/);
-    expect(src).toMatch(/data-testid="playable-now"/);
-    expect(src).toMatch(/Live now:/);
+    // Removed pre-story friction: how-to list, playable-now line, pull, chips, spice hint.
+    expect(src).not.toMatch(/data-testid="playable-now"/);
+    expect(src).not.toMatch(/class="cover-pull"/);
+    expect(src).not.toMatch(/class="cover-chips"/);
+    expect(src).not.toMatch(/class="spice-hint"/);
     expect(src).not.toMatch(/Who we are/);
     expect(src).not.toMatch(/What we do/);
     expect(src).not.toMatch(/coming-soon-slot/);

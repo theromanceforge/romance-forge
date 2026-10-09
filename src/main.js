@@ -640,7 +640,7 @@ function renderLanding() {
                 ${art}
                 <span class="story-card-body">
                   <span class="story-card-title">${escapeHtml(c.title)}</span>
-                  <span class="story-card-blurb">${escapeHtml(c.blurb)}</span>
+                  ${selected ? `<span class="story-card-blurb">${escapeHtml(c.blurb)}</span>` : ''}
                   ${renderCatalogStarLine(state.reviewAggregates[c.id])}
                 </span>
               </button>`;
@@ -648,41 +648,10 @@ function renderLanding() {
           </div>
         </fieldset>`;
 
-  const chipsHtml = (entry.chips || [])
-    .map((chip) => `<li class="cover-chip">${escapeHtml(chip)}</li>`)
-    .join('');
-
-  const playableNow = CATALOG.filter((c) => c.available).map((c) => c.title);
-  const comingSoon = CATALOG.filter((c) => !c.available).map((c) => c.title);
-  const playableLine = playableNow.length
-    ? `Live now: ${playableNow.join(' · ')}${comingSoon.length ? `. Coming soon: ${comingSoon.join(' · ')}` : ''}.`
-    : 'Stories forging — check back soon.';
-
+  // Keep pre-story copy to the minimum: one line of what this is, then the picker.
   const forgeStripHtml = `
-      <section class="forge-strip" data-testid="forge-strip" aria-label="About Romance Forge">
-        <div class="forge-strip-mark">
-          <img
-            class="forge-strip-logo"
-            src="${assetUrl('/brand/logo-heart-anvil.png')}"
-            alt=""
-            width="40"
-            height="40"
-            aria-hidden="true"
-          />
-          <p class="forge-strip-brand">Romance Forge — ink, ember, and the stories you choose.</p>
-        </div>
-        <p class="forge-strip-what">
-          You are holding interactive branching spicy romance: you read by choosing, and the path burns different each time.
-        </p>
-        <p class="forge-strip-purpose">
-          Made for wine-night readers who want Warm yearning or Hot, explicit heat — with real grit and real feeling.
-        </p>
-        <ol class="forge-strip-how">
-          <li>Choose a title</li>
-          <li>Pick Warm or Hot</li>
-          <li>Branch through choices</li>
-        </ol>
-        <p class="forge-strip-playable" data-testid="playable-now">${escapeHtml(playableLine)}</p>
+      <section class="forge-strip forge-strip--compact" data-testid="forge-strip" aria-label="About Romance Forge">
+        <p class="forge-strip-what">Interactive romance: you read by choosing.</p>
       </section>`;
 
   return `
@@ -725,16 +694,11 @@ function renderLanding() {
             <p class="cover-hook">
               ${escapeHtml(entry.hook || '')}
             </p>
-            <p class="cover-pull">${escapeHtml(entry.pull || '')}</p>
-            <ul class="cover-chips" aria-label="Story atmosphere">
-              ${chipsHtml}
-            </ul>
             <span class="story-badge live cover-badge">${escapeHtml(entry.badge || '')}</span>
             ${renderReadersSayStrip(state.readersSay)}
 
             <fieldset class="spice-meter cover-spice" data-testid="spice-meter">
               <legend class="visually-hidden">Spice level</legend>
-              <p class="spice-hint">Warm = yearning soft-close. Hot = explicit body-POV—wine night, no apology.</p>
               <div class="spice-options" role="radiogroup" aria-label="Spice level">
                 <label class="spice-option${spice === 'warm' ? ' selected' : ''}">
                   <input

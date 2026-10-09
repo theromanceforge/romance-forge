@@ -164,3 +164,28 @@ describe('first visit: scene 1 layout', () => {
     expect(src).toMatch(/class="scene-art-img"[\s\S]{0,200}width="1280"[\s\S]{0,40}height="720"/);
   });
 });
+
+describe('first visit: pre-story copy budget', () => {
+  let mod;
+  beforeAll(async () => {
+    mod = await import('../src/main.js');
+  }, 60000);
+
+  it('landing text from top to Begin stays short (one blurb, no brand essay)', () => {
+    mod.setState({ view: 'landing', storyId: 'the-soft-alibi', savePromptVisible: false });
+    const main = document.querySelector('[data-testid="landing"]');
+    const begin = document.querySelector('[data-testid="start-btn"]');
+    const walker = document.createTreeWalker(main, NodeFilter.SHOW_TEXT);
+    const words = [];
+    let n;
+    while ((n = walker.nextNode())) {
+      if (begin.compareDocumentPosition(n) & Node.DOCUMENT_POSITION_FOLLOWING) break;
+      if (n.parentElement?.closest('[hidden], .visually-hidden, .sticky-begin, legend.visually-hidden')) continue;
+      words.push(...(n.textContent.match(/[A-Za-z0-9’'-]+/g) || []));
+    }
+    // Was ~281 words (4 blurbs + forge-strip essay + pull/chips/hint).
+    expect(words.length).toBeLessThanOrEqual(120);
+    expect(document.querySelectorAll('.story-card-blurb').length).toBe(1);
+    expect(document.querySelector('.story-card.selected .story-card-blurb')).toBeTruthy();
+  });
+});
