@@ -70,7 +70,16 @@ describe('catalog teaser copy (Scribe final)', () => {
     expect(card.querySelector('[data-testid="blurb-full"]').textContent).toBe(BLURB['the-soft-alibi']);
     expect(card.querySelector('[data-testid="blurb-short"]').textContent).toBe(SHORT['the-soft-alibi']);
     const css = readFileSync(join(__dirname, '../src/styles.css'), 'utf8');
-    expect(css).toMatch(/\.story-card-blurb\.blurb-short\s*\{\s*display:\s*none;/);
-    expect(css).toMatch(/@media \(max-width: 639px\)\s*\{\s*\.story-card-blurb\.blurb-full\s*\{\s*display:\s*none;[\s\S]*?\.story-card-blurb\.blurb-short\s*\{\s*display:\s*block;/);
+    expect(css).toMatch(
+      /\.page\.landing\.cover-landing \.catalog-card \.story-card-blurb\.blurb-full\s*\{\s*display:\s*block;\s*-webkit-line-clamp:\s*unset;/,
+    );
+    // Must out-rank `.page.landing.cover-landing .catalog-card .story-card-blurb`
+    // (display:-webkit-box line clamp), which otherwise shows both spans.
+    expect(css).toMatch(
+      /\.page\.landing\.cover-landing \.catalog-card \.story-card-blurb\.blurb-short\s*\{\s*display:\s*none;/,
+    );
+    expect(css).toMatch(
+      /@media \(max-width: 639px\)\s*\{\s*\.story-card-blurb\.blurb-full,\s*\.page\.landing\.cover-landing \.catalog-card \.story-card-blurb\.blurb-full\s*\{\s*display:\s*none;/,
+    );
   });
 });

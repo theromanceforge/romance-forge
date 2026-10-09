@@ -2871,17 +2871,31 @@ body {
   }
 }
 
-/* Selected card blurb: full teaser on wider screens, one-liner on phones. */
-.story-card-blurb.blurb-short {
+/* Selected card blurb: full teaser on wider screens, one-liner on phones.
+   The cover-landing variants out-rank the line-clamp rule (display:-webkit-box).
+   Scribe's full teasers run ~5 lines in the 259px card; never cut them mid-sentence. */
+.page.landing.cover-landing .catalog-card .story-card-blurb.blurb-full {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
+
+.story-card-blurb.blurb-short,
+.page.landing.cover-landing .catalog-card .story-card-blurb.blurb-short {
   display: none;
 }
 
 @media (max-width: 639px) {
-  .story-card-blurb.blurb-full {
+  .story-card-blurb.blurb-full,
+  .page.landing.cover-landing .catalog-card .story-card-blurb.blurb-full {
     display: none;
   }
 
   .story-card-blurb.blurb-short {
     display: block;
+  }
+
+  .page.landing.cover-landing .catalog-card .story-card-blurb.blurb-short {
+    display: -webkit-box;
   }
 }
