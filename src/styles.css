@@ -2721,6 +2721,9 @@ body {
   display: block;
   width: 100%;
   max-width: 12rem;
+  /* The <img> carries width/height attrs (1024×1536); without height:auto the
+     attr height (1536px) wins and aspect-ratio is ignored on phones. */
+  height: auto;
   margin: 0 auto;
   border-radius: 10px;
   border: 1px solid rgba(240, 168, 74, 0.4);
