@@ -323,13 +323,15 @@ function handleGuestPageHide() {
 /** Closing line on the ending screen when a story has no `endingLine` of its own. */
 const DEFAULT_ENDING_LINE = 'Your story ends here — for now.';
 
-/** @type {{ id: string, title: string, blurb: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string, whatIf?: Array<{ sceneId: string, choiceIndex?: number, target?: string, tease?: string }> }} */
+/** @type {{ id: string, title: string, blurb: string, blurbShort: string, available: boolean, accentSrc?: string, coverSrc: string, coverAlt: string, hook: string, pull: string, chips: string[], badge: string, endingLine?: string, whatIf?: Array<{ sceneId: string, choiceIndex?: number, target?: string, tease?: string }> }} */
 const CATALOG = [
   {
     id: 'until-the-quiet-breaks',
     title: 'Until the Quiet Breaks',
     blurb:
-      'A complete romance: 10 endings, Warm & Hot. Fifteen years after leaving Somerton, Henry’s letter brings you home—John Shaw still keeps the diner with the blue door. Choose your path and let the quiet break.',
+      "Fifteen years gone. One letter that never quite asks you to come home. In Somerton the rain hasn't changed, and neither, it seems, has the man who stayed.",
+    /** Phone one-liner (<640px) shown instead of the full blurb. */
+    blurbShort: "Fifteen years gone. One letter. A town in the rain, and the man who stayed.",
     available: true,
     accentSrc: assetUrl('/brand/cover-until-the-quiet-breaks-square.png'),
     coverSrc: assetUrl('/brand/cover-until-the-quiet-breaks.png'),
@@ -344,12 +346,14 @@ const CATALOG = [
     id: 'what-the-sister-kept',
     title: 'What the Sister Kept',
     blurb:
-      'Harborwick mystery romance: cold case, missing sister, Detective William Akers. What she kept could reopen everything—or destroy what’s left of her family.',
+      "Seven years of Harborwick fog. Then a detective on your doorstep who says your name like it's evidence.",
+    /** Phone one-liner (<640px) shown instead of the full blurb. */
+    blurbShort: "Seven years of fog. A detective who already knows your name.",
     available: true,
     accentSrc: assetUrl('/brand/cover-what-the-sister-kept-square.png'),
     coverSrc: assetUrl('/brand/cover-what-the-sister-kept.png'),
     coverAlt: 'What the Sister Kept — Harborwick fog and cold-case romance',
-    hook: 'Harborwick fog. William Akers at the door. A charm that might be Renny’s—and a secret she kept.',
+    hook: "Harborwick fog. William Akers at the door. A secret seven years deep.",
     pull: 'Hope and dread share the doorway.',
     chips: ['Harborwick', 'William Akers', 'Cold case'],
     badge: 'Mystery · Warm & Hot',
@@ -358,7 +362,9 @@ const CATALOG = [
     id: 'the-living-key',
     title: 'The Living Key',
     blurb:
-      'A complete magical romance: 10 endings, Warm & Hot. Ashmere Collegium’s wards are singing wrong—Cassian Rook is assigned your handler, and a living key could remake the cliff or claim your throat.',
+      "Ashmere Collegium hums with old wards and older secrets. Tonight you stand your trial before the whole cliff, and the man they send for you does not look away.",
+    /** Phone one-liner (<640px) shown instead of the full blurb. */
+    blurbShort: "The wards are singing wrong—and the handler they send for you won't look away.",
     available: true,
     accentSrc: assetUrl('/brand/cover-the-living-key-square.png'),
     coverSrc: assetUrl('/brand/cover-the-living-key.png'),
@@ -372,12 +378,14 @@ const CATALOG = [
     id: 'the-soft-alibi',
     title: 'The Soft Alibi',
     blurb:
-      'A complete glass-tower romance: 10 endings, Warm & Hot. Across the hall from Nolan Greer’s Crownspire penthouse, you are the neighbor-mistress—and Detective Imani Brooks wants to know where Vivienne went. Wine, heat, and the softest alibi money can buy.',
+      "Crownspire is all glass and good manners. The wine is open, the hour is late, and the man across the hall needs you to remember tonight exactly his way.",
+    /** Phone one-liner (<640px) shown instead of the full blurb. */
+    blurbShort: "A late knock. An open bottle. A neighbor who needs your version of tonight.",
     available: true,
     accentSrc: assetUrl('/brand/cover-the-soft-alibi-square.png'),
     coverSrc: assetUrl('/brand/cover-the-soft-alibi.png'),
     coverAlt: 'The Soft Alibi — Crownspire glass and missing-wife heat',
-    hook: 'Crownspire glass. Nolan Greer across the hall. Brooks asking where Mrs. Greer went.',
+    hook: "Crownspire glass. Nolan Greer across the hall. A story he needs you to tell his way.",
     pull: 'Wine on marble. Unused perfume. The softest alibi money can buy.',
     chips: ['Crownspire', 'Nolan Greer', '10 endings'],
     badge: '10 endings · Warm & Hot / Glass-tower mystery',
@@ -756,7 +764,12 @@ function renderLanding() {
                 ${art}
                 <span class="story-card-body">
                   <span class="story-card-title">${escapeHtml(c.title)}</span>
-                  ${selected ? `<span class="story-card-blurb">${escapeHtml(c.blurb)}</span>` : ''}
+                  ${
+                    selected
+                      ? `<span class="story-card-blurb blurb-full" data-testid="blurb-full">${escapeHtml(c.blurb)}</span>
+                  <span class="story-card-blurb blurb-short" data-testid="blurb-short">${escapeHtml(c.blurbShort || c.blurb)}</span>`
+                      : ''
+                  }
                   ${renderCatalogStarLine(state.reviewAggregates[c.id])}
                   <span class="story-card-cta">${selected ? 'Selected — start below' : 'Tap to start'}</span>
                 </span>

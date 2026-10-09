@@ -194,9 +194,10 @@ describe('first visit: pre-story copy budget', () => {
       // Coming-soon teasers (Called Home hero, coming-soon row) are not on the
       // path to Begin (nothing to pick or start there), so they are outside the
       // budget; everything else from the top of the page to Begin counts.
+      // .blurb-short is the phone stand-in for .blurb-full (only one shows).
       if (
         n.parentElement?.closest(
-          '[hidden], .visually-hidden, .sticky-begin, [data-testid="lead-hero"], [data-testid="coming-soon-row"]'
+          '[hidden], .visually-hidden, .sticky-begin, .blurb-short, [data-testid="lead-hero"], [data-testid="coming-soon-row"]'
         )
       ) {
         continue;
@@ -207,7 +208,8 @@ describe('first visit: pre-story copy budget', () => {
     // Counts: site header, how-it-works, live grid (titles, CTAs, selected
     // blurb), start dock (title, hook, badge), Warm/Hot options, Begin.
     expect(words.length).toBeLessThanOrEqual(120);
-    expect(document.querySelectorAll('.story-card-blurb').length).toBe(1);
-    expect(document.querySelector('.story-card.selected .story-card-blurb')).toBeTruthy();
+    expect(document.querySelectorAll('.story-card-blurb.blurb-full').length).toBe(1);
+    expect(document.querySelectorAll('.story-card-blurb.blurb-short').length).toBe(1);
+    expect(document.querySelector('.story-card.selected .blurb-full')).toBeTruthy();
   });
 });

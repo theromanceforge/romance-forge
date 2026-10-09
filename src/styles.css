@@ -2870,3 +2870,18 @@ body {
     animation: none;
   }
 }
+
+/* Selected card blurb: full teaser on wider screens, one-liner on phones. */
+.story-card-blurb.blurb-short {
+  display: none;
+}
+
+@media (max-width: 639px) {
+  .story-card-blurb.blurb-full {
+    display: none;
+  }
+
+  .story-card-blurb.blurb-short {
+    display: block;
+  }
+}
