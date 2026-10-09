@@ -1,4 +1,6 @@
 import { describe, it, expect, beforeAll, beforeEach, vi } from 'vitest';
+import fs from 'node:fs';
+import path from 'node:path';
 
 // Deterministic: no live Supabase (no network setState→render mid-test).
 vi.mock('../src/auth/supabaseClient.js', () => ({
@@ -198,5 +200,31 @@ describe('first visit: pre-story copy budget', () => {
     expect(words.length).toBeLessThanOrEqual(120);
     expect(document.querySelectorAll('.story-card-blurb').length).toBe(1);
     expect(document.querySelector('.story-card.selected .story-card-blurb')).toBeTruthy();
+  });
+});
+
+describe('phone reader chrome', () => {
+  const css = fs.readFileSync(path.resolve(__dirname, '../src/styles.css'), 'utf8');
+
+  it('cue is fixed above the safe area, above content, and follows a zoomed visual viewport', () => {
+    const rule = css.match(/\.choice-cue \{[^}]*\}/)[0];
+    expect(rule).toMatch(/position: fixed/);
+    expect(rule).toMatch(/bottom: calc\(0\.9rem \+ env\(safe-area-inset-bottom, 0px\) \+ var\(--cue-lift, 0px\)\)/);
+    expect(rule).toMatch(/left: calc\(50% \+ var\(--cue-dx, 0px\)\)/);
+    expect(Number(rule.match(/z-index: (\d+)/)[1])).toBeGreaterThanOrEqual(50);
+    // Entrance animation never starts invisible.
+    const kf = css.match(/@keyframes choice-cue-in \{[\s\S]*?from \{([^}]*)\}/)[1];
+    expect(kf).not.toMatch(/opacity: 0;/);
+  });
+
+  it('page disables double-tap zoom (pinch still allowed) and Sign in aligns on the chapter row', () => {
+    expect(css).toMatch(/html \{\s*touch-action: manipulation;/);
+    expect(css).toMatch(/\.reader-meta \.auth-header-control \{\s*margin-left: auto;\s*align-self: center;/);
+  });
+
+  it('index.html links the existing brand logo as favicon', () => {
+    const html = fs.readFileSync(path.resolve(__dirname, '../index.html'), 'utf8');
+    expect(html).toMatch(/<link rel="icon" type="image\/png" href="\/brand\/logo-heart-anvil\.png" \/>/);
+    expect(fs.existsSync(path.resolve(__dirname, '../public/brand/logo-heart-anvil.png'))).toBe(true);
   });
 });

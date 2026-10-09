@@ -125,6 +125,50 @@ describe('"Your choice is below" cue', () => {
     expect(document.querySelectorAll('[data-action="choose"]').length).toBe(2);
   });
 
+  it('is visible on the first frame when the choices start below the fold (no IO wait)', () => {
+    const real = Element.prototype.getBoundingClientRect;
+    Element.prototype.getBoundingClientRect = function () {
+      const top = this.getAttribute?.('data-testid') === 'choice-prompt' ? 5200 : 0;
+      return { top, bottom: top + 30, left: 0, right: 0, width: 0, height: 30, x: 0, y: top, toJSON() {} };
+    };
+    try {
+      enterReader('the-soft-alibi', 'scene1', ['scene1']);
+      expect(/** @type {HTMLElement} */ ($('[data-testid="choice-cue"]')).hidden).toBe(false);
+    } finally {
+      Element.prototype.getBoundingClientRect = real;
+    }
+  });
+
+  it('stays on the visible area when the page is zoomed (visualViewport)', () => {
+    const listeners = {};
+    const vv = {
+      scale: 1.06,
+      offsetLeft: 24,
+      offsetTop: 0,
+      width: window.innerWidth / 1.06,
+      height: window.innerHeight / 1.06,
+      addEventListener: (t, fn) => (listeners[t] = fn),
+      removeEventListener: (t) => delete listeners[t],
+    };
+    vi.stubGlobal('visualViewport', vv);
+    enterReader('the-soft-alibi', 'scene1', ['scene1']);
+    fire(false, 5000);
+    const cue = /** @type {HTMLElement} */ ($('[data-testid="choice-cue"]'));
+    const lift = parseInt(cue.style.getPropertyValue('--cue-lift'), 10);
+    expect(lift).toBe(Math.round(window.innerHeight - vv.height));
+    expect(parseInt(cue.style.getPropertyValue('--cue-dx'), 10)).toBe(
+      Math.round(vv.offsetLeft + vv.width / 2 - window.innerWidth / 2),
+    );
+    // Back to 1x: offsets cleared.
+    Object.assign(vv, { scale: 1, offsetLeft: 0, width: window.innerWidth, height: window.innerHeight });
+    listeners.resize();
+    expect(cue.style.getPropertyValue('--cue-lift')).toBe('');
+    // Reaching the choices removes the listeners.
+    fire(true, 300);
+    expect(listeners.resize).toBeUndefined();
+    expect(listeners.scroll).toBeUndefined();
+  });
+
   it('is not rendered on endings', () => {
     const story = mod.getStory('the-soft-alibi');
     const ending = Object.values(story.scenes).find((s) => s.ending);
