@@ -2241,3 +2241,34 @@ body {
   opacity: 0.62;
   letter-spacing: 0.02em;
 }
+
+/* —— Phones: first lines of the scene above the fold (390×844 target) ——
+   Art stays (16:9 banner, cropped by object-fit) but capped so the prose
+   starts on the first screen; header/card spacing tightened. */
+@media (max-width: 639px) {
+  .page.reader {
+    padding-top: 1rem;
+  }
+
+  .reader-header {
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .reader-brand {
+    margin-bottom: 0.4rem;
+  }
+
+  .scene {
+    padding: 1.15rem 1.05rem;
+  }
+
+  .scene-body {
+    gap: 0.85rem;
+  }
+
+  .scene-art-img {
+    aspect-ratio: 16 / 9;
+    max-height: min(24vh, 11rem);
+  }
+}
