@@ -11,6 +11,8 @@ import {
   buildRow,
   normalizePlayerName,
   getSessionId,
+  getTabSessionId,
+  TAB_SESSION_META_KEY,
   isAnalyticsEnabled,
   bindOutboundTracking,
   __configureAnalyticsForTests,
@@ -62,7 +64,7 @@ describe('analytics tracker', () => {
     const q = __getQueueForTests();
     expect(q.map((r) => r.event)).toEqual(['choice', 'choice']);
     expect(q[1].layer).toBeNull();
-    expect(q[1].meta).toEqual({});
+    expect(q[1].meta).toEqual({ tab_sid: expect.any(String) });
   });
 
   it('track() is synchronous and does not call the client until the batch timer fires', async () => {
@@ -209,7 +211,7 @@ describe('analytics tracker', () => {
     const q = __getQueueForTests();
     expect(q).toHaveLength(1);
     expect(q[0].event).toBe('outbound_click');
-    expect(q[0].meta).toEqual({ kind: 'mailto', target: 'footer-cs-mailto' });
+    expect(q[0].meta).toEqual({ kind: 'mailto', target: 'footer-cs-mailto', tab_sid: expect.any(String) });
     host.remove();
   });
 
@@ -235,5 +237,27 @@ describe('analytics tracker', () => {
     }
     expect(src).toContain('bindOutboundTracking()');
     expect(src).not.toMatch(/await\s+track\(/);
+  });
+
+  it('every event carries an anonymous per-tab session id in meta (no PII, no DB change)', () => {
+    sessionStorage.clear();
+    const a = buildRow('page_view', {});
+    const b = buildRow('story_start', { storyId: 'the-soft-alibi', spice: 'warm', playerName: 'Avery' });
+    const c = buildRow('choice', { meta: { choice: 'scene2a' } });
+    const tab = getTabSessionId();
+    expect(tab).toMatch(/^[A-Za-z0-9_-]{8,64}$/);
+    for (const row of [a, b, c]) expect(row.meta[TAB_SESSION_META_KEY]).toBe(tab);
+    expect(tab.toLowerCase()).not.toContain('avery');
+    expect(sessionStorage.getItem('romanceForge.analytics.tabSid')).toBe(tab);
+    // New tab session → new id; the browser-level session_id is separate.
+    sessionStorage.clear();
+    expect(getTabSessionId()).not.toBe(tab);
+    // Caller meta can't evict or spoof it past the 12-key cap.
+    const big = {};
+    for (let i = 0; i < 30; i += 1) big[`k${i}`] = i;
+    big.tab_sid = 'spoofed';
+    const row = buildRow('choice', { meta: big });
+    expect(Object.keys(row.meta).length).toBeLessThanOrEqual(12);
+    expect(row.meta.tab_sid).toBe(getTabSessionId());
   });
 });
