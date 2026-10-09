@@ -55,7 +55,7 @@ describe('reader save prompt never covers prose or choices', () => {
     const tpl = landing.slice(landing.indexOf('<main class="page landing'));
     const at = tpl.indexOf('${landingSavePromptHtml}');
     expect(at).toBeGreaterThan(tpl.indexOf('${forgeStripHtml}'));
-    expect(at).toBeLessThan(tpl.indexOf('<section class="cover-hero"'));
+    expect(at).toBeLessThan(tpl.indexOf('<section class="live-catalog"'));
     expect(tpl.indexOf('${landingSavePromptHtml}', at + 1)).toBe(-1);
     expect(tpl.indexOf('class="sticky-begin"')).toBeGreaterThan(at);
     expect(lastRule('.save-prompt--landing')).not.toMatch(/position:\s*(fixed|absolute|sticky)/);

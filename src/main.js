@@ -384,6 +384,82 @@ const CATALOG = [
   },
 ];
 
+/**
+ * Coming-soon teasers. Deliberately NOT in CATALOG:
+ * no picker card, no share page, no storyId, no Begin — they cannot be started.
+ * Called Home (Story 8) is the lead hero; both also appear in the coming-soon row.
+ * Art is TEMPORARY palette-test mood art until Forge Artist cuts covers.
+ * Palettes are scoped in styles.css by data-story-id; live stories keep ink-and-ember.
+ */
+const COMING_SOON = [
+  {
+    id: 'called-home',
+    title: 'Called Home',
+    lead: true,
+    teaser: "The owner's daughter inherits her father's team, and the board wants the aging star gone.",
+    heroSrc: assetUrl('/art/called-home/palette-test-mood.jpg'),
+    heroAlt: 'Called Home — night ballpark under the lights',
+  },
+  {
+    id: 'off-the-clock',
+    title: 'Off the Clock',
+    lead: false,
+    teaser: '',
+    heroSrc: assetUrl('/art/off-the-clock/palette-test-mood.jpg'),
+    heroAlt: 'Off the Clock — storm-gray sea and a lit kitchen window',
+  },
+];
+
+function renderLeadHeroHtml() {
+  const lead = COMING_SOON.find((c) => c.lead);
+  if (!lead) return '';
+  return `
+      <section
+        class="lead-hero"
+        data-story-id="${escapeHtml(lead.id)}"
+        data-testid="lead-hero"
+        aria-labelledby="lead-hero-title"
+      >
+        <div class="lead-cover">
+          <img
+            class="lead-cover-art"
+            src="${escapeHtml(lead.heroSrc)}"
+            alt="${escapeHtml(lead.heroAlt)}"
+            width="1280"
+            height="720"
+            data-testid="lead-cover"
+          />
+          <div class="lead-shade" aria-hidden="true"></div>
+          <span class="lead-kicker">Coming soon</span>
+          <div class="lead-overlay">
+            <h2 id="lead-hero-title" class="lead-title">${escapeHtml(lead.title)}</h2>
+            ${lead.teaser ? `<p class="lead-teaser" data-testid="lead-teaser">${escapeHtml(lead.teaser)}</p>` : ''}
+          </div>
+        </div>
+      </section>`;
+}
+
+function renderComingSoonRowHtml() {
+  const cardsHtml = COMING_SOON.map(
+    (c) => `
+      <aside class="soon-card" data-story-id="${escapeHtml(c.id)}" data-testid="soon-${escapeHtml(c.id)}">
+        <img class="soon-card-art" src="${escapeHtml(c.heroSrc)}" alt="${escapeHtml(c.heroAlt)}" width="1280" height="720" />
+        <div class="soon-card-body">
+          <span class="soon-card-kicker">Coming soon</span>
+          <h3 class="soon-card-title">${escapeHtml(c.title)}</h3>
+          ${c.teaser ? `<p class="soon-card-teaser">${escapeHtml(c.teaser)}</p>` : ''}
+        </div>
+      </aside>`
+  ).join('');
+  return `
+      <section class="coming-soon-row" data-testid="coming-soon-row" aria-label="Coming soon">
+        <h2 class="section-heading">Coming soon</h2>
+        <div class="coming-soon-grid">
+          ${cardsHtml}
+        </div>
+      </section>`;
+}
+
 function catalogEntry(storyId) {
   return CATALOG.find((c) => c.id === storyId) || CATALOG.find((c) => c.available) || CATALOG[0];
 }
@@ -657,19 +733,20 @@ function renderLanding() {
   }
 
   const pickerHtml = `
-        <fieldset class="story-picker cover-picker" data-testid="story-picker">
-          <legend>Choose a story <span class="req" aria-hidden="true">*</span></legend>
-          <div class="story-grid" role="list">
+        <fieldset class="story-picker catalog-picker" data-testid="story-picker">
+          <legend class="section-heading">Live stories <span class="req" aria-hidden="true">*</span></legend>
+          <div class="story-grid catalog-covers" role="list">
             ${CATALOG.map((c) => {
               const selected = state.storyId === c.id;
               const disabled = !c.available;
-              const art = c.accentSrc
-                ? `<img class="story-card-art" src="${escapeHtml(c.accentSrc)}" alt="" width="52" height="52" />`
+              const artSrc = c.coverSrc || c.accentSrc;
+              const art = artSrc
+                ? `<img class="story-card-cover" src="${escapeHtml(artSrc)}" alt="" width="320" height="480" loading="lazy" />`
                 : `<span class="story-card-placeholder" aria-hidden="true">✦</span>`;
               return `
               <button
                 type="button"
-                class="story-card${selected ? ' selected' : ''}${disabled ? ' disabled' : ''}"
+                class="story-card catalog-card${selected ? ' selected' : ''}${disabled ? ' disabled' : ''}"
                 data-action="pick-story"
                 data-story-id="${escapeHtml(c.id)}"
                 data-testid="story-${escapeHtml(c.id)}"
@@ -681,6 +758,7 @@ function renderLanding() {
                   <span class="story-card-title">${escapeHtml(c.title)}</span>
                   ${selected ? `<span class="story-card-blurb">${escapeHtml(c.blurb)}</span>` : ''}
                   ${renderCatalogStarLine(state.reviewAggregates[c.id])}
+                  <span class="story-card-cta">${selected ? 'Selected — start below' : 'Tap to start'}</span>
                 </span>
               </button>`;
             }).join('')}
@@ -689,53 +767,54 @@ function renderLanding() {
 
   // Keep pre-story copy to the minimum: one line of what this is, then the picker.
   const forgeStripHtml = `
-      <section class="forge-strip forge-strip--compact" data-testid="forge-strip" aria-label="About Romance Forge">
+      <section class="forge-strip forge-strip--compact how-it-works" data-testid="forge-strip" aria-label="How it works">
+        <h2 class="section-heading">How it works</h2>
         <p class="forge-strip-what">Interactive romance: you read by choosing.</p>
       </section>`;
+
+  const siteHeaderHtml = `
+      <header class="site-header" data-testid="site-header">
+        <div class="site-header-brand">
+          <img
+            class="site-header-logo"
+            src="${assetUrl('/brand/logo-heart-anvil.png')}"
+            alt=""
+            width="40"
+            height="40"
+            aria-hidden="true"
+          />
+          <div class="site-header-text">
+            <p class="site-header-mark">Romance Forge</p>
+            <p class="site-header-tag">Ink, ember, and the stories you choose</p>
+          </div>
+        </div>
+        ${authHeaderHtml()}
+      </header>`;
 
   return `
     <main class="page landing cover-landing" data-testid="landing">
       <div class="landing-room" aria-hidden="true"></div>
+      ${siteHeaderHtml}
+      ${renderLeadHeroHtml()}
       ${forgeStripHtml}
       ${landingSavePromptHtml}
       ${landingWhatIfHtml}
-      <section class="cover-hero" aria-labelledby="story-heading" data-testid="start-reading">
-        <div class="cover">
-          <span class="cover-spine" aria-hidden="true"></span>
-          <span class="cover-edge" aria-hidden="true"></span>
+      <section class="live-catalog" aria-labelledby="story-heading" data-testid="start-reading">
+        ${pickerHtml}
+        <div class="start-dock" data-testid="start-dock">
           <img
-            class="cover-art"
+            class="start-dock-cover"
             src="${escapeHtml(coverSrc)}"
             alt="${escapeHtml(entry.coverAlt || entry.title)}"
             width="1024"
             height="1536"
             data-testid="story-cover"
           />
-          <div class="cover-grain" aria-hidden="true"></div>
-          <div class="cover-shade" aria-hidden="true"></div>
-          <div class="cover-overlay">
-            <div class="cover-mark">
-              <img
-                class="cover-logo"
-                src="${assetUrl('/brand/logo-heart-anvil.png')}"
-                alt=""
-                width="36"
-                height="36"
-                aria-hidden="true"
-              />
-              <span class="cover-wordmark">Romance Forge</span>
-              ${authHeaderHtml()}
-            </div>
-
-            ${pickerHtml}
-
+          <div class="start-dock-body">
             <h1 id="story-heading" class="cover-title">${escapeHtml(entry.title)}</h1>
-            <p class="cover-hook">
-              ${escapeHtml(entry.hook || '')}
-            </p>
+            <p class="cover-hook">${escapeHtml(entry.hook || '')}</p>
             <span class="story-badge live cover-badge">${escapeHtml(entry.badge || '')}</span>
             ${renderReadersSayStrip(state.readersSay)}
-
             <fieldset class="spice-meter cover-spice" data-testid="spice-meter">
               <legend class="visually-hidden">Spice level</legend>
               <div class="spice-options" role="radiogroup" aria-label="Spice level">
@@ -764,7 +843,6 @@ function renderLanding() {
                 </label>
               </div>
             </fieldset>
-
             <form id="start-form" class="start-form cover-start" novalidate>
               <label for="player-name" class="visually-hidden">Your name</label>
               <input
@@ -786,6 +864,7 @@ function renderLanding() {
           </div>
         </div>
       </section>
+      ${renderComingSoonRowHtml()}
 
       <footer class="site-footer quiet">
         <p>Romance Forge · woodcut romance, forged by choice</p>
@@ -2133,6 +2212,7 @@ export {
   getStory,
   STORIES,
   CATALOG,
+  COMING_SOON,
   DEFAULT_ENDING_LINE,
   endingLineFor,
   activeStory,
