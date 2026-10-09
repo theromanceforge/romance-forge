@@ -958,6 +958,13 @@ function renderReader() {
         </div>
         ${choicesHtml}
       </article>
+      ${
+        ending
+          ? ''
+          : `<button type="button" class="choice-cue" data-action="scroll-to-choices" data-testid="choice-cue" hidden>
+        Your choice is below <span class="choice-cue-arrow" aria-hidden="true">↓</span>
+      </button>`
+      }
       ${savePromptHtml}
       ${authModalHtml()}
     </main>
@@ -1086,6 +1093,10 @@ function scheduleWhatIfHighlightFocus() {
  */
 function advanceWithMomentum(partial) {
   state = { ...state, ...partial, _transitioning: true };
+  if (_choiceCueObserver) {
+    _choiceCueObserver.disconnect();
+    _choiceCueObserver = null;
+  }
   app.innerHTML = `
     <main class="page reader momentum" data-testid="momentum" aria-live="polite">
       <p class="momentum-beat" data-testid="momentum-beat">…</p>
@@ -1138,6 +1149,59 @@ function trackViewTransition() {
   }
 }
 
+/** IntersectionObserver for the "Your choice is below" cue (one per rendered scene). */
+let _choiceCueObserver = null;
+/** story|scene whose choices the reader has already reached (cue stays gone on re-render). */
+let _choiceCueSeen = '';
+
+/**
+ * Show a subtle "Your choice is below ↓" pill while the scene's choices are
+ * below the viewport (long scenes, e.g. scene 1). Hides for good once the
+ * choices scroll into view; tapping scrolls to them. No-op without IO.
+ */
+function bindChoiceCue() {
+  if (_choiceCueObserver) {
+    _choiceCueObserver.disconnect();
+    _choiceCueObserver = null;
+  }
+  const cue = /** @type {HTMLButtonElement | null} */ (app.querySelector('[data-testid="choice-cue"]'));
+  const target = /** @type {HTMLElement | null} */ (app.querySelector('[data-testid="choice-prompt"]'));
+  if (!cue || !target || typeof IntersectionObserver !== 'function') return;
+  const key = `${state.storyId}|${state.sceneId}`;
+  if (_choiceCueSeen === key) return;
+  const done = () => {
+    _choiceCueSeen = key;
+    cue.hidden = true;
+    if (_choiceCueObserver === io) _choiceCueObserver = null;
+    io.disconnect();
+  };
+  const io = new IntersectionObserver((entries) => {
+    const entry = entries[entries.length - 1];
+    if (!entry) return;
+    // In view, or already scrolled past (top above the viewport) → reader found them.
+    if (entry.isIntersecting || entry.boundingClientRect.top < 0) {
+      done();
+      return;
+    }
+    cue.hidden = false;
+  });
+  io.observe(target);
+  _choiceCueObserver = io;
+  cue.addEventListener('click', () => {
+    let reduce = false;
+    try {
+      reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ?? false;
+    } catch {
+      /* ignore */
+    }
+    target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
+    done();
+    /** @type {HTMLElement | null} */ (app.querySelector('[data-action="choose"]'))?.focus({
+      preventScroll: true,
+    });
+  });
+}
+
 let _renderedView = '';
 /** Until this time (ms), landing re-renders re-run revealSpiceMeter(). */
 let _revealUntil = 0;
@@ -1177,6 +1241,7 @@ function render() {
   }
   _renderedView = state.view;
   bindEvents();
+  bindChoiceCue();
   trackViewTransition();
   scheduleWhatIfHighlightFocus();
 }
