@@ -247,9 +247,21 @@ describe('phone reader chrome', () => {
     expect(depth).toBe(0);
   });
 
-  it('index.html links the existing brand logo as favicon', () => {
+  it('favicon + apple-touch-icon are small resized copies of the brand logo', () => {
     const html = fs.readFileSync(path.resolve(__dirname, '../index.html'), 'utf8');
-    expect(html).toMatch(/<link rel="icon" type="image\/png" href="\/brand\/logo-heart-anvil\.png" \/>/);
-    expect(fs.existsSync(path.resolve(__dirname, '../public/brand/logo-heart-anvil.png'))).toBe(true);
+    expect(html).toMatch(/<link rel="icon" type="image\/png" sizes="64x64" href="\/brand\/favicon-64\.png" \/>/);
+    expect(html).toMatch(/<link rel="apple-touch-icon" sizes="180x180" href="\/brand\/apple-touch-icon-180\.png" \/>/);
+    expect(html).not.toMatch(/rel="(icon|apple-touch-icon)"[^>]*logo-heart-anvil/);
+    for (const [file, size, maxBytes] of [
+      ['favicon-64.png', 64, 10 * 1024],
+      ['apple-touch-icon-180.png', 180, 40 * 1024],
+    ]) {
+      const buf = fs.readFileSync(path.resolve(__dirname, '../public/brand', file));
+      // PNG signature + IHDR width/height (big-endian at bytes 16..23)
+      expect(buf.subarray(1, 4).toString('latin1')).toBe('PNG');
+      expect(buf.readUInt32BE(16)).toBe(size);
+      expect(buf.readUInt32BE(20)).toBe(size);
+      expect(buf.length).toBeLessThan(maxBytes);
+    }
   });
 });
