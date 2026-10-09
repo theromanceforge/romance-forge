@@ -4,11 +4,13 @@
  * overflow clipping, so this also catches content hidden by an
  * overflow:hidden/clip ancestor) and fails if anything extends past the
  * viewport's right/left edge at 390×844 and 360×780. Also fails if the
- * document scrolls sideways or the page starts zoomed (visualViewport.scale≠1).
+ * document scrolls sideways or the page starts zoomed (visualViewport.scale≠1),
+ * or any <img> renders taller than 1.3× its width (lost aspect-ratio crop).
  *
  * Pages: landing, landing with a story selected, scene 1 of The Soft Alibi and
  * The Living Key (Warm, default name), and every share page /<story-id>/.
- * Event POSTs are aborted, so prod analytics stay clean.
+ * Event POSTs and Google ad requests are aborted, so prod analytics and ad
+ * traffic stay clean when this runs against the live site.
  *
  * Usage (against `npm run preview` or any served build):
  *   node scripts/check-phone-overflow.mjs [baseUrl]
@@ -51,6 +53,14 @@ function inspect() {
         ` left=${r.left.toFixed(1)} right=${r.right.toFixed(1)}`,
     );
   }
+  // Images stretched out of their crop (e.g. a cover whose height attr beat
+  // its aspect-ratio): taller than 1.3× their width. Scene art is 16:9.
+  for (const img of document.querySelectorAll('img')) {
+    const r = img.getBoundingClientRect();
+    if (r.width > 0 && r.height > 1.3 * r.width) {
+      offenders.push(`img.${img.className || '(no class)'} stretched ${r.width.toFixed(0)}x${r.height.toFixed(0)}`);
+    }
+  }
   return {
     vw,
     scrollWidth: document.documentElement.scrollWidth,
@@ -64,6 +74,10 @@ let failures = 0;
 for (const [width, height] of SIZES) {
   const ctx = await browser.newContext({ viewport: { width, height }, isMobile: true, hasTouch: true, deviceScaleFactor: 2 });
   await ctx.route(/rest\/v1\/events/, (r) => r.abort());
+  // No ad requests from a checker (would be invalid traffic on the live site).
+  await ctx.route(/googlesyndication|doubleclick|adservice\.google|googleads|fundingchoices|adtrafficquality/, (r) =>
+    r.abort(),
+  );
   const page = await ctx.newPage();
   const check = async (label) => {
     await page.waitForTimeout(700); // let entrance animations settle
