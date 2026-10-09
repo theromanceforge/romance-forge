@@ -2278,9 +2278,11 @@ body {
 /* —— "Your choice is below" cue (long scenes; hides once choices are in view) —— */
 .choice-cue {
   position: fixed;
-  left: 50%;
-  bottom: calc(0.9rem + env(safe-area-inset-bottom, 0px));
-  z-index: 30;
+  left: calc(50% + var(--cue-dx, 0px));
+  bottom: calc(0.9rem + env(safe-area-inset-bottom, 0px) + var(--cue-lift, 0px));
+  z-index: 50;
+  max-width: calc(100vw - 2rem);
+  white-space: nowrap;
   transform: translateX(-50%);
   display: inline-flex;
   align-items: center;
@@ -2318,8 +2320,9 @@ body {
 }
 
 @keyframes choice-cue-in {
+  /* Visible from the first frame (only a small rise), so it is never missed. */
   from {
-    opacity: 0;
+    opacity: 0.92;
     transform: translate(-50%, 6px);
   }
   to {
@@ -2898,4 +2901,23 @@ body {
   .page.landing.cover-landing .catalog-card .story-card-blurb.blurb-short {
     display: -webkit-box;
   }
+}
+
+/* No double-tap zoom on the page: a quick second tap after Begin zoomed the
+   reader to fit the scene card, pushing the header's left edge and the
+   bottom-fixed choice cue out of view. Pinch zoom still works. */
+html {
+  touch-action: manipulation;
+}
+
+/* Reader header: "Sign in" sits on the chapter row, right-aligned and
+   vertically centred with it, instead of floating under the chips. */
+.reader-meta .auth-header-control {
+  margin-left: auto;
+  align-self: center;
+}
+
+.reader-meta .auth-header-btn {
+  padding-block: 0.15rem;
+  line-height: 1.2;
 }

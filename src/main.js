@@ -1211,10 +1211,7 @@ function scheduleWhatIfHighlightFocus() {
  */
 function advanceWithMomentum(partial) {
   state = { ...state, ...partial, _transitioning: true };
-  if (_choiceCueObserver) {
-    _choiceCueObserver.disconnect();
-    _choiceCueObserver = null;
-  }
+  stopChoiceCue();
   app.innerHTML = `
     <main class="page reader momentum" data-testid="momentum" aria-live="polite">
       <p class="momentum-beat" data-testid="momentum-beat">…</p>
@@ -1269,8 +1266,53 @@ function trackViewTransition() {
 
 /** IntersectionObserver for the "Your choice is below" cue (one per rendered scene). */
 let _choiceCueObserver = null;
+/** Removes the cue's visualViewport listeners (one per rendered scene). */
+let _choiceCueUnpin = null;
 /** story|scene whose choices the reader has already reached (cue stays gone on re-render). */
 let _choiceCueSeen = '';
+
+function stopChoiceCue() {
+  if (_choiceCueObserver) {
+    _choiceCueObserver.disconnect();
+    _choiceCueObserver = null;
+  }
+  if (_choiceCueUnpin) {
+    _choiceCueUnpin();
+    _choiceCueUnpin = null;
+  }
+}
+
+/**
+ * position:fixed follows the layout viewport. When the page is zoomed (pinch,
+ * double-tap, iOS input zoom) the visible area is smaller, so a bottom-fixed
+ * pill can sit below what the reader sees. Keep it on the visual viewport.
+ * @param {HTMLElement} cue
+ * @returns {() => void} cleanup
+ */
+function pinCueToVisualViewport(cue) {
+  const vv = typeof window !== 'undefined' ? window.visualViewport : null;
+  if (!vv || typeof vv.addEventListener !== 'function') return () => {};
+  const place = () => {
+    const layoutH = window.innerHeight || document.documentElement.clientHeight || 0;
+    const layoutW = window.innerWidth || document.documentElement.clientWidth || 0;
+    const lift = Math.max(0, layoutH - (vv.offsetTop + vv.height));
+    const dx = vv.offsetLeft + vv.width / 2 - layoutW / 2;
+    if (lift < 1 && Math.abs(dx) < 1) {
+      cue.style.removeProperty('--cue-lift');
+      cue.style.removeProperty('--cue-dx');
+      return;
+    }
+    cue.style.setProperty('--cue-lift', `${Math.round(lift)}px`);
+    cue.style.setProperty('--cue-dx', `${Math.round(dx)}px`);
+  };
+  place();
+  vv.addEventListener('resize', place);
+  vv.addEventListener('scroll', place);
+  return () => {
+    vv.removeEventListener('resize', place);
+    vv.removeEventListener('scroll', place);
+  };
+}
 
 /**
  * Show a subtle "Your choice is below ↓" pill while the scene's choices are
@@ -1278,10 +1320,7 @@ let _choiceCueSeen = '';
  * choices scroll into view; tapping scrolls to them. No-op without IO.
  */
 function bindChoiceCue() {
-  if (_choiceCueObserver) {
-    _choiceCueObserver.disconnect();
-    _choiceCueObserver = null;
-  }
+  stopChoiceCue();
   const cue = /** @type {HTMLButtonElement | null} */ (app.querySelector('[data-testid="choice-cue"]'));
   const target = /** @type {HTMLElement | null} */ (app.querySelector('[data-testid="choice-prompt"]'));
   if (!cue || !target || typeof IntersectionObserver !== 'function') return;
@@ -1292,6 +1331,8 @@ function bindChoiceCue() {
     cue.hidden = true;
     if (_choiceCueObserver === io) _choiceCueObserver = null;
     io.disconnect();
+    if (_choiceCueUnpin === unpin) _choiceCueUnpin = null;
+    unpin();
   };
   const io = new IntersectionObserver((entries) => {
     const entry = entries[entries.length - 1];
@@ -1303,6 +1344,13 @@ function bindChoiceCue() {
     }
     cue.hidden = false;
   });
+  const unpin = pinCueToVisualViewport(cue);
+  _choiceCueUnpin = unpin;
+  // Show on the very first frame when the choices start below the fold
+  // (don't wait for the first IO callback); IO then keeps it in sync.
+  const top = target.getBoundingClientRect().top;
+  const viewH = window.innerHeight || document.documentElement.clientHeight || 0;
+  if (viewH > 0 && top > viewH) cue.hidden = false;
   io.observe(target);
   _choiceCueObserver = io;
   cue.addEventListener('click', () => {
