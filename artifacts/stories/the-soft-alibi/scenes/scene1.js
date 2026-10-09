@@ -1,65 +1,187 @@
 export default {
   id: "scene1",
   layer: 1,
-  title: "Vivienne's Empty Night",
-  text: `Crownspire did not sleep so much as hold its breath between elevator chimes. Tonight the chime came late. It was soft, silver and wrong. [player_name] stood in her doorway across the hall from Nolan Greer's penthouse. Her wine glass was sweating a perfect ring onto a marble console she never remembered buying for this kind of night.
+  title: "Three Knocks After Eleven",
+  text: `Three knocks, then Nolan's voice through the door. "There's a detective downstairs asking where my wife is."
 
-Vivienne's night. Or what used to be Vivienne's night.
+[player_name] set her wine glass down too fast. It left a red ring on the marble console, on top of last week's, and she had the door open before she'd decided anything.
 
-Once a week the black car had idled at the curb. Vivienne Greer had crossed the lobby like a rumor in silk, nodding at Rhea Quinn's concierge desk without quite looking at anyone. Then the visits thinned to once a month, a polite absence marked in Rhea's guest slate with a neat, empty line. Then the lines stopped. The building began treating Mrs. Greer like a ghost on the calendar: polite, unpaid, unfinished.
+Nolan Greer stood in the hall with his tie gone and one hand braced high on her doorframe. He didn't step in. He never stepped in first, as if a threshold could keep a man honest.
 
-Nolan's door stayed open for [player_name] and closed to everyone else. Across the hall, the master bath still held Vivienne's unused perfume like a question nobody wanted answered aloud.
+"Her name's Brooks," he said. "Missing persons. She's at Rhea's desk with a badge and a notebook, and she asked for Mrs. Greer by name."
 
-[player_name] was in her early thirties, and she knew exactly what she was. She was the softest answer money could buy if anyone asked where Mrs. Greer had gone. Neighbor. Mistress. The woman who heard everything through glass and silence. She had never meant to become a story the police might prefer. She had only meant to cross a hallway when the nights got empty. Nolan's charm made loneliness feel like a choice instead of a sentence.
+"Where is Mrs. Greer?"
 
-The knock came soft. Three measured taps.
+"Traveling."
 
-Nolan Greer filled the frame when she opened the door. He was in his mid-forties, finance-and-tech money polished into something sharp enough for boardrooms and sharper for bedrooms. He was allergic to being pinned. His cufflinks caught the hallway light like small, lying coins. He did not smile the way kind men smiled. He smiled the way men smiled when silence was a product they sold.
+His cufflink clicked against the frame. Once. She had learned that sound the way she'd learned his knock, and she had never let herself say out loud what it was for.
 
-"She's traveling," he said. The cufflinks clicked once against his wrist, and Vivienne's name hung unspoken between them. "Brooks is downstairs. Missing persons. She's asking for Mrs. Greer."
+Behind her, the oven clock read 11:09. The house phone on the kitchen wall began to ring.
 
-Detective Imani Brooks had already flashed her badge in the lobby. [player_name] had felt it like weather through the elevator shaft before Rhea's voice came up the house phone. Rhea had sounded careful and neutral, the way she always did when Nolan's name entered a sentence.
+Neither of them looked at it.
 
-Brooks wanted a calendar. She wanted a neighbor who might have seen something on the empty nights. She wanted the soft alibi to open her mouth and turn the missing wife into a manageable story.
+"That's Rhea," she said.
 
-Nolan's gaze held hers. The wine ring darkened on the marble. Across the hall, the perfume waited, unused. Somewhere below, the elevator chime died like a held note. Wind pressed the floor-to-ceiling glass at the end of the corridor. The city light accused them both of knowing too much and saying too little.
+"That's Rhea being careful." He thumbed his phone awake and turned the screen toward her. The lobby camera. Gray stone, the gold pool of Rhea's lamp, and a woman in a dark coat at the desk with her back to the lens. She wasn't leaning. She wasn't in a hurry. She was writing something down.
 
-"You don't have to come out," he murmured. "You can stay across the hall and be quiet. Or you can walk into my elevator with me and remember what nights we already survived."
+"Forty, maybe," Nolan said. "Flat shoes. Pell says the patient ones are worse."
 
-He paused. It was almost tenderness. It was almost a closing door.
+"You called Pell before you knocked on my door."
 
-"Pell's already drafting language," Nolan said. "You don't have to be alone with a badge."
+"I called Pell before I found my shoes." He put the phone away. "She'll come up here, [player_name]. Not tonight, maybe. But she'll stand where I'm standing and ask what you heard through these walls."
 
-Marcus Pell was the fixer, the attorney, the man who made absence sound like travel. His shadow had a way of arriving before trouble finished introducing itself.
+The phone rang a second time. A third. The sound filled the apartment behind her: the paperback face-down on the couch, the lamp she'd left on low because some part of her had been waiting for this knock since nine and hadn't wanted to admit it.
 
-Vivienne might be in Milan under another name. She might have been paid to thin herself out of the marriage. She might be nowhere. She might be staging every empty mark on Rhea's slate for reasons [player_name] could not yet name. None of it settled. The not-knowing sat under her ribs like a second pulse, and every second she stood here made her more useful as cover.
+"What did I hear?" she asked.
 
-The lobby waited with Brooks's badge. The private elevator waited with Nolan's heat. Downstairs, Rhea's slate held weekly marks fading into monthly blanks, and then into nothing. [player_name] tasted wine and complicity. Her next step would decide whether she protected the soft alibi or let the building's memory climb the floors first.`,
-  textHot: `Crownspire's late elevator chime went through [player_name] like a fingertip at the base of her throat. Soft, silver, wrong. She stood barefoot in her doorway with wine cooling against her palm. A perfect ring was already sweating onto marble she had bought for nights like this. These were the nights when Vivienne's calendar stayed empty and Nolan Greer's knock arrived instead of a wife.
+"Nothing." He said it gently, the way he'd hand her a coat. "There's nothing to hear. She travels. She's been traveling since summer."
 
-Weekly. Monthly. Gone. The cadence lived in her body now.
+Since summer. [player_name] had watched Vivienne's visits thin from every Friday to the first of the month to nothing, and she had never asked him why. She'd called that tact. Standing in her own doorway with a detective at the bottom of the building, it wanted a harder name.
 
-She had learned the black car's idle at the curb and the silk of Vivienne Greer's rare lobby crossings. She had learned how Rhea Quinn's slate went from neat marks to polite blanks to a silence that made the concierge's eyes careful. She had learned that Nolan's door opened for her and closed to everyone else. She had learned the unused perfume in a master bath she should not know by scent alone. And still her pulse jumped hard when he filled her frame.
+"You haven't said her name," she said.
 
-He was in his mid-forties, finance-and-tech money worn like a tailored threat. The charm under the polish was never soft where it counted. His cufflinks caught the hallway light as he leaned in without quite crossing the threshold. When Vivienne's absence brushed the air between them, they clicked against his wrist. The sound was almost sexual, a small, audible lie. Heat gathered low in [player_name]'s belly even as dread climbed her spine like a hand.
+"I've said it a thousand times."
 
-"She's traveling," Nolan said. His voice was low enough to feel against the inside of her wrist. "Brooks is downstairs. Missing persons. Badge already out. She's asking for my wife."
+"Not tonight. My wife. Mrs. Greer. She." [player_name] held his eyes. "You came to tell me a woman is missing, and you can't say her name in my hall."
 
-Detective Imani Brooks was in the lobby. The house phone had carried Rhea's warning like a palm settling on [player_name]'s hip. The detective wanted the neighbor who knew too much and said too little. Soft alibi. Soft mouth. Soft places Nolan had already mapped on nights when Vivienne's perfume sat unused and the city light accused them both through the glass.
+His jaw worked once.
 
-Marcus Pell was already drafting language somewhere: silence as product, travel as cover. But Pell was not the man standing close enough that [player_name] could taste cologne and weather on his breath if she leaned.
+"Vivienne," he said.
 
-Nolan's gaze dropped to her mouth, her throat, the pulse she could not hide. Then it lifted again with that almost-kind, almost-threatening smile. "Stay quiet across the hall," he murmured, "or take the private elevator with me and remember what your body already decided on the empty nights."
+Click. He heard it too. He took his hand off the frame and slid it into his pocket, where the cufflink couldn't talk.
 
-His cufflinks clicked once more. "You don't have to face a badge alone," he said. "You also don't have to pretend you don't want the door open."
+The phone stopped ringing. The quiet was worse.
 
-She tasted wine and want. Vivienne willing. Vivienne paid. Vivienne dead. Vivienne staging. All four hung open, and none of them settled. The not-knowing made the heat worse. Complicity was an ache, and attraction was a hallway she kept crossing barefoot.
+"Here's what Brooks has," Nolan said. "A husband who says travel. A concierge with a guest log. And a woman across the hall with no record, who pays her own rent, who's thirty-two and has the kind of face juries believe." He looked at her the way he looked at a term sheet. "You're the most credible person in this tower. Tonight that isn't a compliment. It's a problem, and I'd like to solve it with you before she solves it without me."
 
-Wind pressed the glass. Somewhere below, Brooks's badge waited to turn a neighbor's intimacy into a statement. Across the hall, the unused perfume waited like a third person in every kiss they had not yet finished.
+"Solve it how?"
 
-Her skin remembered his hands. Her conscience remembered the thinning calendar. The elevator chimed again, a dare low in her belly. Air from the shaft carried lobby perfume and badge metal up to her floor like a warning pressed to bare skin. She could go down to Rhea's desk and become a witness. Or she could step into his elevator and let want answer before Brooks did.`,
+"Come across. Twenty minutes. A glass of wine, the same dates in both our mouths, and you sleep in your own bed." His voice dropped. "I'm not asking you to lie. I'm asking you not to be surprised."
+
+That was Nolan's gift. He could make a cage sound like good manners.
+
+There were three nights she had never told anyone about. She felt them now in the dark apartment at her back, quiet as furniture, and she didn't turn around to look at a single one.
+
+"Does Brooks know about me?" she asked.
+
+"Brooks knows this floor has two doors on it." He glanced back across the hall at his own, black lacquer, standing open on the stone foyer and the private elevator past it. "She can count."
+
+Down the corridor, the public elevator chimed, too bright for the hour. The doors opened on nobody, held, and closed. They both listened to the car sink.
+
+"She's not coming up," [player_name] said.
+
+"Not yet."
+
+He reached for her hand. He turned her wrist over the way he did when he wanted to look at her without being caught at it, and his thumb settled on the pulse there. His cologne came with him, vetiver and something darker, the smell she found on her own pillow some mornings. The cufflink touched the bone of her wrist, cold, and clicked.
+
+"I'd rather you heard my version before you hear hers," he said.
+
+"Your version of what?"
+
+"Of the last time you saw my wife."
+
+She knew the answer. That was the trouble. She knew it to the day, and the day had details in it she had decided were none of her business while his mouth was on her neck.
+
+The house phone started again. Rhea, steady as a metronome.
+
+"I want to hear what she's asking," [player_name] said, "before I hear what I'm supposed to say."
+
+"No, you don't." He wasn't unkind about it. "You want to be the woman who'd go down there. I understand. She gets a hard chair in a small room and a cup of bad coffee, and by morning her name is typed under mine."
+
+The corner of his mouth lifted, and for a second he was only the man who used to knock with a bottle in his hand and nothing to hide. Then it was gone.
+
+"Come across," he said. "Give me twenty minutes, and you'll walk out with a story that holds."
+
+He let go of her wrist. He didn't step back. Her skin kept the shape of his thumb.
+
+"My door's open," Nolan said. "It'll stay open."
+
+The phone rang a fifth time. Somewhere at the bottom of the building, a patient woman in flat shoes turned a page and wrote down the time.
+
+[player_name] took her keys from the bowl beside the wine ring. His door stood open across the hall. The elevator waited at the end of the corridor. Nolan was standing in the way of both.`,
+  textHot: `Three knocks, and the last one landed in the heel of her hand. [player_name] had flattened her palm on the door at the first, and Nolan's voice came through the wood an inch from it. "There's a detective downstairs asking where my wife is."
+
+Her pulse jumped in her wrist, hard enough to see.
+
+She opened the door barefoot, a wine glass still hooked in her other hand. Nolan Greer filled the frame, tie gone, collar open, one forearm braced high on the jamb so that he leaned in without crossing. He always leaned. He never crossed first. Her body had learned the difference long before her head agreed to it.
+
+"Missing persons," he said. "Brooks. She's at Rhea's desk with a badge out, asking for Mrs. Greer by name."
+
+"Where is Mrs. Greer?"
+
+"Traveling."
+
+His cufflink clicked on the jamb above her head. She felt the sound in the small bones of her wrist, where she always felt it, the way some women felt rain in a bad knee.
+
+Behind her, the house phone started ringing. 11:09 on the oven clock. Rhea.
+
+"Don't," Nolan said, when her weight tipped toward the kitchen.
+
+She didn't. She set the glass on the console instead. It printed a red ring on the marble over an older one, and she watched him watch her do it.
+
+He showed her the lobby feed on his phone without stepping in. To see it she had to come close, close enough that his cologne reached her before the screen did: vetiver, smoke, the smell her sheets kept on the mornings after. A woman in a dark coat at Rhea's desk. Flat shoes. Notebook. No hurry in her at all.
+
+"About forty," he said near her temple. "Pell says the patient ones are worse."
+
+"You called Pell first."
+
+"I call Pell first about everything." His breath moved the hair at her ear. "You, I came to see."
+
+The phone rang again. A third time. Her skin went tight along her forearms, every fine hair lifting, and she couldn't have said whether it was the bell or his mouth that close.
+
+"She'll want to know what you hear through this wall," he said.
+
+"What do I hear?"
+
+"Nothing." Softly, in the voice he used on maître d's and nervous investors. "She travels. She's been traveling since summer."
+
+Since summer. Fridays, then the first of the month, then a blank. [player_name] had felt the cadence in her body before she ever saw it written down: the empty nights were the nights he knocked. She had never asked why there were so many of them. Not asking had felt like grace while his hands were busy. Tonight it sat in her wrists like a bruise.
+
+"Say her name," she said.
+
+His eyes dropped to her mouth.
+
+"Say it."
+
+"Vivienne." Click. His jaw tightened at his own tell. He took his arm off the jamb and pushed the hand into his pocket, and the air where his sleeve had been went cold against her shoulder.
+
+The phone went quiet. Her heartbeat filled the gap.
+
+"Here's what Brooks has," Nolan said. "A husband who says travel. Rhea's log. And a thirty-two-year-old across the hall with no record and a face people believe." He let his gaze go down her, slow, silk dress to bare feet, and back. "You're the best witness in this tower. I'd rather you were mine."
+
+"Your witness."
+
+"Mine." He made the one word do both jobs, and she felt it land at the base of her spine.
+
+There were three nights she had never told anyone about. Her body remembered each of them more precisely than she liked. She didn't let them come forward. She kept her eyes on his.
+
+"Come across," he said. "Twenty minutes. Same dates, same wine, same story in both our mouths. I'm not asking you to lie." He leaned until his breath touched her lips and stopped there, the way he stopped at her threshold. "I'm asking you not to look surprised when she says my name."
+
+Her mouth parted. He watched it happen.
+
+Down the hall the public elevator chimed. Late, silver, empty. They both held still while it opened on nobody, closed and sank, and in that stillness he found her hand.
+
+He turned her wrist up. His thumb pressed the pulse there, unhurried, reading it the way he read a balance sheet. It was racing. He knew it, and she let him know it. The cufflink lay cold along her wrist bone. When he shifted, it clicked against her skin, and the click ran up the inside of her arm like a plucked wire.
+
+"Brooks will see this," he murmured, and pressed once. "Right here. You can't hide it from a woman who writes everything down. Let me teach you."
+
+"Teach me to lie with my pulse?"
+
+"To breathe through it." His thumb circled, slow. "You're good at that with me."
+
+She wanted to step into him. She wanted, just as badly, to hear Brooks's questions before his answers got into her blood.
+
+"I want to hear what she's asking first," she said.
+
+"No. You want to know whether you're the kind of woman who'd go." He lifted her wrist to his mouth and didn't kiss it. He breathed on it, warm, a finger's width above the skin, and her knees went loose. "She'll give you a hard chair and bad coffee, and by morning your name is typed under mine. Come across. Let me keep it off the page."
+
+He let go. He didn't step back. He stayed leaning in her doorway, close enough to breathe on her mouth, so that any way out of her apartment ran through the heat of him.
+
+"My door's open," he said. "It'll stay open."
+
+The house phone began a fourth time. She picked her keys out of the bowl beside the wine ring. Cold metal in one hand. On the other wrist, his cologne and the print of his thumb, and a pulse any detective in Crownspire could read from across a lobby.`,
   choices: [
-    { id: "scene2a", text: "Take Nolan's private elevator into the heat", textHot: "Take his private elevator and let the affair answer first" },
-    { id: "scene2b", text: "Go down to Rhea's desk — read the thinning slate before the badge owns you", textHot: "Go down to Rhea's desk — touch the slate before Brooks puts her badge on your skin" }
+    { id: "scene2a", text: "Get your story straight with Nolan first", textHot: "Cross the hall and let Nolan teach your pulse to lie" },
+    { id: "scene2b", text: "Go down and face Brooks before he can coach you", textHot: "Ride down to Brooks with his thumbprint still on your wrist" }
   ]
 };
