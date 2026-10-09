@@ -1,4 +1,23 @@
-import { getStory, STORIES, story as defaultStory } from './stories/index.js';
+import {
+  LOADED_STORIES as STORIES,
+  DEFAULT_STORY_ID,
+  START_SCENE_ID,
+  getLoadedStory,
+  isKnownStory,
+  loadStory,
+  prefetchStory,
+} from './stories/lazy.js';
+
+/**
+ * Loaded story by id (throws if its chunk hasn't loaded yet).
+ * @param {string} id
+ * @returns {import('./engine.js').Story}
+ */
+function getStory(id) {
+  const s = getLoadedStory(id);
+  if (!s) throw new Error(`Story not loaded: ${id}`);
+  return s;
+}
 import {
   substituteName,
   getScene,
@@ -38,7 +57,7 @@ import {
   createSupabaseSaveStore,
 } from './save/store.js';
 import { shouldShowSavePrompt, markSavePromptDismissed } from './save/prompt.js';
-import { resumeSceneLabel } from './save/resumeLabel.js';
+import { resumeSceneLabel, humanizeSceneId } from './save/resumeLabel.js';
 import { getAdsConfig } from './ads/config.js';
 import { shouldShowInterstitial, isEndingDestination } from './ads/shouldShow.js';
 import {
@@ -120,20 +139,19 @@ const cloudReviewStore = supabaseClient
 /** @returns {import('./engine.js').Story} */
 function activeStory() {
   const id = state?.storyId;
-  if (id && STORIES[id]) return STORIES[id];
-  return defaultStory;
+  return getLoadedStory(id || DEFAULT_STORY_ID);
 }
 
 /** Brand cover path for a story slug. */
 function storyCoverPath(storyId) {
-  const id = storyId || defaultStory.id;
+  const id = storyId || DEFAULT_STORY_ID;
   return assetUrl(`/brand/cover-${id}.png`);
 }
 
 function persistGuestProgress(partial = {}) {
   const sceneId = partial.sceneId ?? state.sceneId;
   const path = partial.path ?? state.path;
-  const storySlug = partial.storyId ?? state.storyId ?? defaultStory.id;
+  const storySlug = partial.storyId ?? state.storyId ?? DEFAULT_STORY_ID;
   if (!sceneId || !path?.length) return;
   const record = createSaveRecord({
     userId: saveUserId(state.auth),
@@ -154,7 +172,7 @@ function persistGuestProgress(partial = {}) {
  * Prefer cloud (via local userId cache seeded on login) over guest local when authenticated.
  * Sync for landing resume UI; cloud is refreshed async on auth.
  */
-function loadGuestSave(storySlug = state.storyId || defaultStory.id) {
+function loadGuestSave(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (state.cloudResume && state.cloudResume.storySlug === storySlug) {
     return state.cloudResume;
   }
@@ -167,7 +185,7 @@ function loadGuestSave(storySlug = state.storyId || defaultStory.id) {
   return null;
 }
 
-async function refreshCloudResume(storySlug = state.storyId || defaultStory.id) {
+async function refreshCloudResume(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (isGuest(state.auth) || !cloudConfigured) {
     if (state.cloudResume) setState({ cloudResume: null });
     return;
@@ -187,7 +205,7 @@ async function refreshCloudResume(storySlug = state.storyId || defaultStory.id) 
 }
 
 async function applyAuthenticatedSession(session, statusMessage = '') {
-  const storySlug = state.storyId || defaultStory.id;
+  const storySlug = state.storyId || DEFAULT_STORY_ID;
   const inProgress =
     state.path?.length && state.sceneId
       ? { sceneId: state.sceneId, path: state.path }
@@ -231,7 +249,7 @@ function maybeOfferSavePrompt(trigger) {
 }
 
 
-function clearGuestSave(storySlug = state.storyId || defaultStory.id) {
+function clearGuestSave(storySlug = state.storyId || DEFAULT_STORY_ID) {
   const clear = localSaveStore.clear;
   if (typeof clear === 'function') {
     clear.call(localSaveStore, saveUserId(state.auth), storySlug);
@@ -270,7 +288,7 @@ function authHeaderHtml() {
  * Pure local — no network.
  */
 function runMockAccountHandoff() {
-  const storySlug = state.storyId || defaultStory.id;
+  const storySlug = state.storyId || DEFAULT_STORY_ID;
   const { session, copied } = handoffGuestToMockAccount({
     localStore: localSaveStore,
     storySlug,
@@ -409,7 +427,7 @@ function readStoredStoryId() {
 let state = {
   view: 'landing',
   playerName: '',
-  sceneId: defaultStory.startSceneId,
+  sceneId: START_SCENE_ID,
   previousSceneId: '',
   spice: readStoredSpice(),
   storyId: readStoredStoryId(),
@@ -473,7 +491,7 @@ async function refreshReviewAggregates() {
   setState({ reviewAggregates: next });
 }
 
-async function refreshReadersSay(storySlug = state.storyId || defaultStory.id) {
+async function refreshReadersSay(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (!cloudConfigured || !storySlug) {
     if (state.readersSay?.length) setState({ readersSay: [] });
     return;
@@ -487,7 +505,7 @@ async function refreshReadersSay(storySlug = state.storyId || defaultStory.id) {
 }
 
 const _reviewHydrateInflight = new Set();
-function maybeHydrateCloudReview(storySlug = state.storyId || defaultStory.id) {
+function maybeHydrateCloudReview(storySlug = state.storyId || DEFAULT_STORY_ID) {
   if (!storySlug || isGuest(state.auth) || !cloudConfigured) return;
   if (hasGuestReviewDecision(storySlug)) return;
   if (_reviewHydrateInflight.has(storySlug)) return;
@@ -515,7 +533,7 @@ function maybeHydrateCloudReview(storySlug = state.storyId || defaultStory.id) {
 }
 
 function submitEndingReview() {
-  const storyId = state.storyId || defaultStory.id;
+  const storyId = state.storyId || DEFAULT_STORY_ID;
   const stars = state.reviewDraftStars;
   const errEl = app.querySelector('[data-testid="review-error"]');
   if (!stars || stars < 1 || stars > 5) {
@@ -580,9 +598,11 @@ function renderLanding() {
   // Quiet Breaks scene1 art remains a known public asset for tests/branding.
   // '/art/until-the-quiet-breaks/scene1.png'
   const current = activeStory();
-  const guestSave = loadGuestSave(state.storyId || defaultStory.id);
+  const guestSave = loadGuestSave(state.storyId || DEFAULT_STORY_ID);
   const resumeLabel = guestSave?.sceneId
-    ? resumeSceneLabel(guestSave.sceneId, current)
+    ? current
+      ? resumeSceneLabel(guestSave.sceneId, current)
+      : humanizeSceneId(guestSave.sceneId)
     : '';
   const resumeHtml =
     guestSave && guestSave.sceneId && guestSave.path?.length
@@ -615,8 +635,14 @@ function renderLanding() {
   const lastFinishedValid =
     lastFinished &&
     CATALOG.some((c) => c.id === lastFinished.storyId && c.available);
+  if (lastFinishedValid && !getLoadedStory(lastFinished.storyId)) {
+    // What-if strip needs that story's scenes: load, then re-render.
+    loadStory(lastFinished.storyId).then(() => {
+      if (state.view === 'landing') render();
+    }, () => {});
+  }
   let landingWhatIfHtml = '';
-  if (lastFinishedValid) {
+  if (lastFinishedValid && getLoadedStory(lastFinished.storyId)) {
     const finishedStory = getStory(lastFinished.storyId);
     const finishedEntry = catalogEntry(lastFinished.storyId);
     const compactCards = selectWhatIfCards(finishedStory, lastFinished.path, {
@@ -787,7 +813,7 @@ function renderReader() {
   const raw = getSceneText(scene, spice);
   const body = substituteName(raw, state.playerName);
   const ending = isEnding(scene);
-  if (ending) maybeHydrateCloudReview(state.storyId || defaultStory.id);
+  if (ending) maybeHydrateCloudReview(state.storyId || DEFAULT_STORY_ID);
   const choices = ending ? [] : getChoices(scene);
   // Reader: inline card after the choices (in flow) so it never covers prose or choices.
   const savePromptHtml = state.savePromptVisible
@@ -811,14 +837,14 @@ function renderReader() {
     : '';
 
   const storyTitle = story.title || entryTitleFor(state.storyId);
-  const guestDecision = getGuestReview(state.storyId || defaultStory.id);
+  const guestDecision = getGuestReview(state.storyId || DEFAULT_STORY_ID);
   const showReview = shouldShowReviewPrompt({
     isEnding: ending,
     hasDecision: Boolean(guestDecision),
   });
   const reviewHtml = ending
     ? renderEndingReviewPanel({
-        storyId: state.storyId || defaultStory.id,
+        storyId: state.storyId || DEFAULT_STORY_ID,
         storyTitle,
         spice: spice,
         defaultDisplayName: defaultReviewDisplayName({
@@ -829,7 +855,7 @@ function renderReader() {
       })
     : '';
 
-  const whatIfOverrides = catalogEntry(state.storyId || defaultStory.id)?.whatIf;
+  const whatIfOverrides = catalogEntry(state.storyId || DEFAULT_STORY_ID)?.whatIf;
   const whatIfCards = ending
     ? selectWhatIfCards(story, state.path, {
         spice,
@@ -842,7 +868,7 @@ function renderReader() {
 
   const choicesHtml = ending
     ? `<div class="ending-block" data-testid="ending-block">
-         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || defaultStory.id))}</p>
+         <p class="ending-note" data-testid="ending-note">${escapeHtml(endingLineFor(state.storyId || DEFAULT_STORY_ID))}</p>
          ${reviewHtml}
          ${whatIfHtml}
          <button type="button" class="btn secondary" data-action="restart" data-testid="restart-btn">
@@ -901,7 +927,7 @@ function renderReader() {
           >Hot</button>
         </div>`;
 
-  const artSrc = assetUrl(getSceneArtPath(state.storyId || defaultStory.id, scene));
+  const artSrc = assetUrl(getSceneArtPath(state.storyId || DEFAULT_STORY_ID, scene));
   const artAlt = scene.title
     ? `Illustration: ${scene.title}`
     : 'Story illustration';
@@ -981,7 +1007,7 @@ function bindSceneArt() {
   const img = app.querySelector('[data-testid="scene-art-img"]');
   if (!figure || !img) return;
 
-  const coverSrc = storyCoverPath(state.storyId || activeStory().id);
+  const coverSrc = storyCoverPath(state.storyId || DEFAULT_STORY_ID);
 
   const reveal = () => {
     figure.hidden = false;
@@ -1126,7 +1152,7 @@ function trackViewTransition() {
     _trackedScene = key;
     const scene = getScene(activeStory(), state.sceneId);
     const props = {
-      storyId: state.storyId || defaultStory.id,
+      storyId: state.storyId || DEFAULT_STORY_ID,
       spice: state.spice,
       layer: scene.layer,
       sceneId: state.sceneId,
@@ -1136,7 +1162,7 @@ function trackViewTransition() {
       track('story_complete', props);
       try {
         saveLastFinished({
-          storyId: state.storyId || defaultStory.id,
+          storyId: state.storyId || DEFAULT_STORY_ID,
           path: Array.isArray(state.path) ? state.path : [],
           spice: state.spice === 'hot' ? 'hot' : 'warm',
         });
@@ -1262,7 +1288,8 @@ function onPopState(e) {
   _handlingPop = true;
   try {
     const story = st?.rf === 'scene' ? STORIES[st.storyId] : null;
-    if (story && story.scenes?.[st.sceneId]) {
+    const knownUnloaded = st?.rf === 'scene' && !story && isKnownStory(st.storyId);
+    if (knownUnloaded || (story && story.scenes?.[st.sceneId])) {
       // Back/forward to a scene: no ads, no choice event (scene_view still fires).
       const path = Array.isArray(st.path) && st.path.length ? [...st.path] : [st.sceneId];
       if (_choiceCueObserver) {
@@ -1304,7 +1331,47 @@ let _renderedView = '';
 /** Until this time (ms), landing re-renders re-run revealSpiceMeter(). */
 let _revealUntil = 0;
 
+/** Reader shell while a story's chunk downloads (first open of that story). */
+function renderStoryLoading() {
+  return `
+    <main class="page reader momentum" data-testid="story-loading" aria-live="polite" aria-busy="true">
+      <p class="momentum-beat" data-testid="momentum-beat">…</p>
+    </main>
+  `;
+}
+
+let _loadFailures = 0;
+
 function render() {
+  if (state.view === 'reader') {
+    const id = state.storyId || DEFAULT_STORY_ID;
+    const loaded = getLoadedStory(id);
+    if (!loaded) {
+      // _renderedView stays as-is so the real reader render still scrolls to top.
+      app.innerHTML = renderStoryLoading();
+      loadStory(id).then(
+        () => {
+          _loadFailures = 0;
+          if (state.view === 'reader' && (state.storyId || DEFAULT_STORY_ID) === id) render();
+        },
+        () => {
+          // Chunk failed (offline / deploy swap): back to the catalog with a note.
+          _loadFailures += 1;
+          if (state.view !== 'reader') return;
+          setState({ view: 'landing' });
+          const err = app.querySelector('[data-testid="start-error"]');
+          if (err) {
+            err.hidden = false;
+            err.textContent = 'That story didn’t load — check your connection and tap Begin again.';
+          }
+        }
+      );
+      return;
+    }
+    if (!loaded.scenes[state.sceneId]) {
+      state = { ...state, sceneId: loaded.startSceneId, path: [loaded.startSceneId] };
+    }
+  }
   // Landing re-renders (story / spice pick) replace the whole DOM, which resets
   // the .cover-overlay scroll container and drops focus. Preserve both.
   // Reader spice swaps re-render in place — keep window scroll + focus on the toggle.
@@ -1383,6 +1450,7 @@ function bindEvents() {
       const id = btn.getAttribute('data-story-id');
       if (!id) return;
       track('story_click', { storyId: id, meta: { via: 'card' } });
+      prefetchStory(id);
       setState({ storyId: id });
       _revealUntil = Date.now() + 4000;
       revealSpiceMeter();
@@ -1507,7 +1575,7 @@ function bindEvents() {
         err.textContent = '';
       }
       const whatIfPending = state._pendingWhatIfReplay;
-      const pending = state._pendingResume ? loadGuestSave(state.storyId || defaultStory.id) : null;
+      const pending = state._pendingResume ? loadGuestSave(state.storyId || DEFAULT_STORY_ID) : null;
       const current = activeStory();
       const usingWhatIf =
         Boolean(whatIfPending?.sceneId && whatIfPending.path?.length);
@@ -1515,14 +1583,14 @@ function bindEvents() {
         ? whatIfPending.sceneId
         : pending?.sceneId && pending.path?.length
           ? pending.sceneId
-          : current.startSceneId;
+          : current?.startSceneId || START_SCENE_ID;
       const startPath = usingWhatIf
         ? [...whatIfPending.path]
         : pending?.path?.length
           ? [...pending.path]
-          : [current.startSceneId];
+          : [current?.startSceneId || START_SCENE_ID];
       const highlightId = usingWhatIf ? whatIfPending.highlightId || '' : '';
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       // Fresh start (not resume / not what-if replay): reset mid/end ad budget.
       if (!usingWhatIf && !(pending?.sceneId && pending.path?.length)) {
         resetStoryAdsShown(storyIdForAds);
@@ -1566,14 +1634,14 @@ function bindEvents() {
 
       const nextScene = getScene(storyNow, nextId);
       track('choice', {
-        storyId: state.storyId || defaultStory.id,
+        storyId: state.storyId || DEFAULT_STORY_ID,
         spice: state.spice,
         layer: scene.layer,
         sceneId: fromId,
         meta: { choice: choiceId, to: nextId },
       });
       const adsCfg = getAdsConfig();
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       const adsShownThisStory = getStoryAdsShown(storyIdForAds);
       const gate = {
         adsEnabled: adsCfg.enabled,
@@ -1733,7 +1801,7 @@ function bindEvents() {
         setState({
           view: 'landing',
           playerName: '',
-          sceneId: activeStory().startSceneId,
+          sceneId: START_SCENE_ID,
           previousSceneId: '',
           path: [],
           whatIfHighlightId: '',
@@ -1744,7 +1812,7 @@ function bindEvents() {
 
       // End-slot interstitial: soft post-play before return to landing.
       const adsCfg = getAdsConfig();
-      const storyIdForAds = state.storyId || defaultStory.id;
+      const storyIdForAds = state.storyId || DEFAULT_STORY_ID;
       const postGate = {
         adsEnabled: adsCfg.enabled,
         reason: 'post-play',
@@ -1803,7 +1871,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="review-skip"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const storyId = state.storyId || defaultStory.id;
+      const storyId = state.storyId || DEFAULT_STORY_ID;
       dismissGuestReview(storyId);
       setState({ reviewDraftStars: 0 });
     });
@@ -1817,7 +1885,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="start-fresh"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const storyId = state.storyId || defaultStory.id;
+      const storyId = state.storyId || DEFAULT_STORY_ID;
       clearGuestSave(storyId);
       resetStoryAdsShown(storyId);
       setState({ _pendingResume: false });
@@ -1826,7 +1894,7 @@ function bindEvents() {
 
   app.querySelectorAll('[data-action="resume"]').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const saved = loadGuestSave(state.storyId || defaultStory.id);
+      const saved = loadGuestSave(state.storyId || DEFAULT_STORY_ID);
       if (!saved?.sceneId) return;
       const form = document.getElementById('start-form');
       const input = /** @type {HTMLInputElement | null} */ (
@@ -1995,13 +2063,18 @@ function bindEvents() {
 );
 bindOutboundTracking();
 render();
+// Warm the selected story's chunk so Begin is usually instant.
+loadStory(state.storyId || DEFAULT_STORY_ID).then(() => {
+  // Resume label / what-if strip use the story's scenes once it has loaded.
+  if (state.view === 'landing') render();
+}, () => {});
 
 if (cloudConfigured) {
   fetchAuthSession().then(async (session) => {
     if (!isGuest(session)) {
       persistAuthSession(session);
       setState({ auth: session });
-      await refreshCloudResume(state.storyId || defaultStory.id);
+      await refreshCloudResume(state.storyId || DEFAULT_STORY_ID);
     } else if (!isGuest(state.auth) && state.auth.userId === MOCK_USER_ID) {
       /* keep local mock session */
     } else if (!isGuest(state.auth)) {
@@ -2020,7 +2093,7 @@ if (cloudConfigured) {
       return;
     }
     if (state.auth?.userId === session.userId) {
-      await refreshCloudResume(state.storyId || defaultStory.id);
+      await refreshCloudResume(state.storyId || DEFAULT_STORY_ID);
       return;
     }
     await applyAuthenticatedSession(session);
@@ -2029,7 +2102,7 @@ if (cloudConfigured) {
 
 // Phase 4: load public review aggregates (fail soft if schema missing).
 refreshReviewAggregates();
-refreshReadersSay(state.storyId || defaultStory.id);
+refreshReadersSay(state.storyId || DEFAULT_STORY_ID);
 
 // Prefetch AdSense on boot when enabled (site verification + first interstitial).
 const bootAds = getAdsConfig();
@@ -2056,7 +2129,7 @@ export {
   render,
   requestWhatIfHighlightFocus,
   scheduleWhatIfHighlightFocus,
-  defaultStory as story,
+  DEFAULT_STORY_ID,
   getStory,
   STORIES,
   CATALOG,
