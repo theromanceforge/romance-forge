@@ -762,7 +762,7 @@ function renderLanding() {
               </div>
             </fieldset>
 
-            <form id="start-form" class="start-form cover-start">
+            <form id="start-form" class="start-form cover-start" novalidate>
               <label for="player-name" class="visually-hidden">Your name</label>
               <input
                 id="player-name"
@@ -772,6 +772,7 @@ function renderLanding() {
                 placeholder="Your name (e.g. Eleanor)"
                 autocomplete="given-name"
                 required
+                value="${escapeHtml(state.playerName || '')}"
                 data-testid="name-input"
               />
               <p class="form-error" data-testid="start-error" hidden></p>
@@ -1307,6 +1308,17 @@ function bindEvents() {
     } else {
       stickyBar.hidden = true;
     }
+  }
+
+  // Landing re-renders (story / spice pick, async review + auth refreshes) replace
+  // the whole form. Keep the typed name in state so it survives them.
+  const nameField = /** @type {HTMLInputElement | null} */ (
+    app.querySelector('[data-testid="name-input"]')
+  );
+  if (nameField) {
+    nameField.addEventListener('input', () => {
+      state = { ...state, playerName: nameField.value };
+    });
   }
 
   const form = document.getElementById('start-form');
